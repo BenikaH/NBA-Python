@@ -16,6 +16,7 @@ years = ["2013-14","2014-15","2015-16"]
 SVU_df = pd.DataFrame
 team_adv_df = pd.DataFrame
 for i,year in enumerate(years):
+    print(year)
     yearly_SVU_df = pd.DataFrame
     for j,svu_type in enumerate(SVU_types):
         type_url = SVU_url.format(SVU_type=svu_type,year=year)
@@ -41,5 +42,6 @@ for i,year in enumerate(years):
         team_adv_df=team_adv_df.append(yearly_adv_df,ignore_index=True)
 
 result_df = pd.merge(SVU_df, team_adv_df, on=["TEAM_ID","Year"], how="outer")
+result_df.to_csv("SportsVU.csv")
 ortg_corr = result_df.corr()['ORtg']
 drtg_corr = result_df.corr()['DRtg']
