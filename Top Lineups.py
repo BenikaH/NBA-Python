@@ -28,10 +28,8 @@ for i in range(2,5):
         tempDF = groupsDF.loc[groupsDF['TEAM_ID']==teamID]
         tempDF = tempDF.sort_values(by='MIN', ascending = False)
         tempDF = tempDF.head(10)                
-        tempDF = tempDF.sort_values(by='OFF_RATING', ascending = False)
-        print(tempDF)        
+        tempDF = tempDF.sort_values(by='OFF_RATING', ascending = False)        
         tempDF = tempDF.head(1)
-        print(tempDF)
         topDF = topDF.append(tempDF, ignore_index=True)
     topDF = topDF.sort_values(by='OFF_RATING', ascending = False)
     print('Plotting')
@@ -39,6 +37,7 @@ for i in range(2,5):
         x = topDF['TEAM_ABBREVIATION'],
         y = topDF['OFF_RATING'],
         text = topDF['GROUP_NAME'],
+        visible = True,
         marker=dict(
             color='rgb(158,202,225)',
             line=dict(
@@ -54,6 +53,7 @@ for i in range(2,5):
     )
     fig = go.Figure(data=data, layout=layout)
     plot_url = py.plot(fig, filename='TopLineups/Top ' + str(i) + ' Man Groups')
+    topDF.to_csv("Top " + str(i) + " Man Groups")
         
         
 
