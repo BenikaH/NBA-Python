@@ -52,3 +52,26 @@ layout = go.Layout(
 )
 fig = go.Figure(data=data, layout=layout)
 plot_url = py.plot(fig, filename='Passing')
+
+trace1 = go.Scatter(
+    x=df['EFG_PCT'],
+    y=df['Passes Per Second'],
+    text=df['TEAM_NAME'],
+    name="Team Passing",
+    mode='markers',
+    marker=dict(
+        color=df['color'],
+        size = df['EFG_PCT'],
+        sizeref = .02
+        )     
+)
+
+data = [trace1]
+layout = go.Layout(
+    title = "Passing",
+    showlegend=True,
+    height=600,
+    width=600,
+)
+fig = go.Figure(data=data, layout=layout)
+plot_url = py.plot(fig, filename='Passing2')

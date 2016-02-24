@@ -33,67 +33,101 @@ team_adv_df.columns = ["TeamIDSID","ORtg"]
 
 results_df = pd.merge(synergy_full, team_adv_df)   
 
-cf.set_config_file(offline=False, world_readable=True, theme='ggplot')
-synergy_full.iplot(kind='barh',barmode='stack', bargap=.1, filename='team_synergy_bar')
-
-PNR_Ball_Handler = go.Box(
-    y = synergy_full['PRBallHandler_Freq'],
-    name = "PNR Ball Handler",
-    hoverinfo = "text"
-    )
+data = [go.Bar()] * 11
+for index, team in results_df.iterrows():
     
-Cut = go.Box(
-    y = synergy_full['Cut_Freq'],
-    name = "Cut",
+    data[index] = go.Bar(
+    x= play_types,
+    y= [results_df.loc[index,"PRBallHandler_Freq"],
+        results_df.loc[index,"Cut_Freq"],
+        results_df.loc[index,"Handoff_Freq"],
+        results_df.loc[index,"Isolation_Freq"],
+        results_df.loc[index,"Misc_Freq"],
+        results_df.loc[index,"OffScreen_Freq"],
+        results_df.loc[index,"Postup_Freq"],
+        results_df.loc[index,"OffRebound_Freq"],
+        results_df.loc[index,"PRRollMan_Freq"],
+        results_df.loc[index,"Spotup_Freq"],
+        results_df.loc[index,"Transition_Freq"]],
+    name=play_types[index],
+    orientation = 'h',
+    marker = dict(
+        color = 'rgba(55, 128, 191, 0.6)',
+        line = dict(
+            color = 'rgba(55, 128, 191, 1.0)',
+            width = 1,
+        )
     )
-    
-Handoff = go.Box(
-    y = synergy_full['Handoff_Freq'],
-    name = "Handoff"    
-    )
+)
 
-Isolation = go.Box(
-    y = synergy_full['Misc_Freq'],
-    name = "Isolation"
-    )
+layout = go.Layout(
+    barmode='stack'
+)
+fig = go.Figure(data=data, layout=layout)
+plot_url = py.plot(fig, filename='marker-h-bar')
 
-Misc = go.Box(
-    y = synergy_full['Misc_Freq'],
-    name = "Miscellaneous"
-    )
-
-Off_Screen = go.Box(
-    y = synergy_full['OffScreen_Freq'],
-    name = "Off Screen"
-    )
-
-Post_Up = go.Box(
-    y = synergy_full['Postup_Freq'],
-    name = "Post Up"
-    )
-
-Off_Rebound = go.Box(
-    y = synergy_full['OffRebound_Freq'],
-    name = "Offensive Rebound"
-    )    
-    
-PNR_Roll_Man = go.Box(
-    y = synergy_full['PRRollMan_Freq'],
-    name = "PNR Roll Man"
-    )
-
-Spot_Up = go.Box(
-    y = synergy_full['Spotup_Freq'],
-    name = "Spot Up"
-    )
-    
-Transition = go.Box(
-    y = synergy_full['Transition_Freq'],
-    name = "Transition"
-    )
-    
-data = [PNR_Ball_Handler,Cut,Handoff,Isolation,Misc,Off_Screen,Post_Up,Off_Rebound,PNR_Roll_Man,Spot_Up,Transition]
-plot_url = py.plot(data, filename='team_synergy_box')
+#
+#cf.set_config_file(offline=False, world_readable=True, theme='ggplot')
+#synergy_full.iplot(kind='barh',barmode='stack', bargap=.1, filename='team_synergy_bar')
+#
+#PNR_Ball_Handler = go.Box(
+#    y = synergy_full['PRBallHandler_Freq'],
+#    name = "PNR Ball Handler",
+#    hoverinfo = "text"
+#    )
+#    
+#Cut = go.Box(
+#    y = synergy_full['Cut_Freq'],
+#    name = "Cut",
+#    )
+#    
+#Handoff = go.Box(
+#    y = synergy_full['Handoff_Freq'],
+#    name = "Handoff"    
+#    )
+#
+#Isolation = go.Box(
+#    y = synergy_full['Misc_Freq'],
+#    name = "Isolation"
+#    )
+#
+#Misc = go.Box(
+#    y = synergy_full['Misc_Freq'],
+#    name = "Miscellaneous"
+#    )
+#
+#Off_Screen = go.Box(
+#    y = synergy_full['OffScreen_Freq'],
+#    name = "Off Screen"
+#    )
+#
+#Post_Up = go.Box(
+#    y = synergy_full['Postup_Freq'],
+#    name = "Post Up"
+#    )
+#
+#Off_Rebound = go.Box(
+#    y = synergy_full['OffRebound_Freq'],
+#    name = "Offensive Rebound"
+#    )    
+#    
+#PNR_Roll_Man = go.Box(
+#    y = synergy_full['PRRollMan_Freq'],
+#    name = "PNR Roll Man"
+#    )
+#
+#Spot_Up = go.Box(
+#    y = synergy_full['Spotup_Freq'],
+#    name = "Spot Up"
+#    )
+#    
+#Transition = go.Box(
+#    y = synergy_full['Transition_Freq'],
+#    name = "Transition"
+#    )
+#    
+#data = [PNR_Ball_Handler,Cut,Handoff,Isolation,Misc,Off_Screen,Post_Up,Off_Rebound,PNR_Roll_Man,Spot_Up,Transition]
+#plot_url = py.plot(data, filename='team_synergy_box')
     
     
     
