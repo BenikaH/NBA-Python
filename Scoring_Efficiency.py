@@ -87,103 +87,18 @@ for index,player in positions.iterrows():
     
 adv = pd.merge(adv,positions,on=['PlayerName'],how="inner")
 
-col = ["E13A3E","ED174C","002B5C","0F586C","002B5C","CE1141","007DC3","BAC3C9","724C9F","E03A3E","E56020","ED174C","00275D","007DC5","006BB6","061922","005083","00471B","98002E","FDB927","ED174C","CE1141","FDB927","4D90CD","007DC5","CE1141","B4975A","860038","008348","E13A3E"]
-
-teams = adv['TeamID'].unique()
-teams.sort()
-adv['color'] = 0
-adv = adv.sort_values(by=['TeamID'], ascending=False)
-
-teamid=0
-i=-1
-for index,player in adv.iterrows():
-    if (teamid != (player.TeamID)):
-        i+=1
-    adv.loc[index,'color'] = col[i]
-    teamid = player.TeamID
-
-py_df = adv.sort_values(by=['ScoringUsage'], ascending = False)
-py_df = py_df.head(150)
-
-py1 = py_df.loc[py_df['Position'] == 1]
-py2 = py_df.loc[py_df['Position'] == 2]
-py3 = py_df.loc[py_df['Position'] == 3]
-py4 = py_df.loc[py_df['Position'] == 4]
-py5 = py_df.loc[py_df['Position'] == 5]
-
-print("making da graf")
-trace1 = go.Scatter(
-    x=py1['ScoringUsage'],
-    y=py1['Total_PPP'],
-    text=py1['PlayerName'],
-    name="Point Guards",
-    mode='markers',
-    marker=dict(
-        color=py1['color'],
-        size=py1['ORtg'] - py_df['ORtg'].min(),
-        sizeref = 1,
-    )
-)
-print("making da graf")
-trace2 = go.Scatter(
-    x=py2['ScoringUsage'],
-    y=py2['Total_PPP'],
-    text=py2['PlayerName'],
-    name="Shooting Guards",
-    mode='markers',
-    marker=dict(
-        color=py2['color'],
-        size=py2['ORtg'] - py_df['ORtg'].min(),
-        sizeref = 1,
-    )
-)
-print("making da graf")
-trace3 = go.Scatter(
-    x=py3['ScoringUsage'],
-    y=py3['Total_PPP'],
-    text=py3['PlayerName'],
-    name="Small Forwards",
-    mode='markers',
-    marker=dict(
-        color=py3['color'],
-        size=py3['ORtg'] - py_df['ORtg'].min(),
-        sizeref = 1,
-    )
-)
-print("making da graf")
-trace4 = go.Scatter(
-    x=py4['ScoringUsage'],
-    y=py4['Total_PPP'],
-    text=py4['PlayerName'],
-    name="Power Forwards",
-    mode='markers',
-    marker=dict(
-        color=py4['color'],
-        size=py4['ORtg'] - py_df['ORtg'].min(),
-        sizeref = 1,
-    )
-)
-print("making da graf")
-trace5 = go.Scatter(
-    x=py5['ScoringUsage'],
-    y=py5['Total_PPP'],
-    text=py5['PlayerName'],
-    name="Centers",
-    mode='markers',
-    marker=dict(
-        color=py5['color'],
-        size=py5['ORtg'] - py_df['ORtg'].min(),
-        sizeref = 1,
-    )
-)
-
-
-data = [trace1,trace2,trace3,trace4,trace5]
-layout = go.Layout(
-    title = "NBA SCORERS",
-    showlegend=True,
-    height=600,
-    width=600,
-)
-fig = go.Figure(data=data, layout=layout)
-plot_url = py.plot(fig, filename='scorers')
+#col = ["E13A3E","ED174C","002B5C","0F586C","002B5C","CE1141","007DC3","BAC3C9","724C9F","E03A3E","E56020","ED174C","00275D","007DC5","006BB6","061922","005083","00471B","98002E","FDB927","ED174C","CE1141","FDB927","4D90CD","007DC5","CE1141","B4975A","860038","008348","E13A3E"]
+#
+#teams = adv['TeamID'].unique()
+#teams.sort()
+#adv['color'] = 0
+#adv = adv.sort_values(by=['TeamID'], ascending=False)
+#
+#teamid=0
+#i=-1
+#for index,player in adv.iterrows():
+#    if (teamid != (player.TeamID)):
+#        i+=1
+#    adv.loc[index,'color'] = col[i]
+#    teamid = player.TeamID
+#

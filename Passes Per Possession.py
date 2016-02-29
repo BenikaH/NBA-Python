@@ -31,31 +31,8 @@ df = df.sort_values(by=['TEAM_ID'], ascending=False)
 df['color'] = col
 
 trace1 = go.Scatter(
-    x=df['Seconds Per Possession'],
-    y=df['Passes Per Second'],
-    text=df['TEAM_NAME'],
-    name="Team Passing",
-    mode='markers',
-    marker=dict(
-        color=df['color'],
-        size = df['EFG_PCT'],
-        sizeref = .02
-        )     
-)
-
-data = [trace1]
-layout = go.Layout(
-    title = "Passing",
-    showlegend=True,
-    height=600,
-    width=600,
-)
-fig = go.Figure(data=data, layout=layout)
-plot_url = py.plot(fig, filename='Passing')
-
-trace1 = go.Scatter(
     x=df['EFG_PCT'],
-    y=df['Passes Per Second'],
+    y=df['Passes Per Second']*24,
     text=df['TEAM_NAME'],
     name="Team Passing",
     mode='markers',

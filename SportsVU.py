@@ -33,8 +33,8 @@ for i,year in enumerate(years):
         SVU_df =SVU_df.append(yearly_SVU_df,ignore_index=True)
     yearly_adv_url = team_adv_url.format(year=year)
     yearly_adv_df = j2p(yearly_adv_url,0)
-    yearly_adv_df = yearly_adv_df[["TEAM_ID","OFF_RATING","DEF_RATING"]]
-    yearly_adv_df.columns = ["TEAM_ID","ORtg","DRtg"]
+    yearly_adv_df = yearly_adv_df[["TEAM_ID","OFF_RATING","DEF_RATING", "PACE"]]
+    yearly_adv_df.columns = ["TEAM_ID","ORtg","DRtg","Pace"]
     yearly_adv_df['Year'] = year[0:4]
     if i == 0:
         team_adv_df = yearly_adv_df
