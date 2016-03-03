@@ -1,15 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Feb 05 11:13:09 2016
+Created on Thu Mar 03 12:48:48 2016
 
 @author: pfenerty
 """
+
 import pandas as pd
 import json
 import urllib2
 
-#get JSON from API url and store to pandas df
-def json2pandas(url,index):
+def j2p(url,index):
     opener = urllib2.build_opener()
     opener.addheaders = [('User-agent', 'Mozilla/5.0')]
     response = opener.open(url)
@@ -18,3 +18,11 @@ def json2pandas(url,index):
     rows = data['resultSets'][index]['rowSet']
     data_dict = [dict(zip(headers, row)) for row in rows]
     return pd.DataFrame(data_dict)
+    
+def getJson(url,index):
+    opener = urllib2.build_opener()
+    opener.addheaders = [('User-agent', 'Mozilla/5.0')]
+    response = opener.open(url)
+    data = json.loads(response.read())
+    data = data['resultSets'][index]['rowSet']
+    return data
