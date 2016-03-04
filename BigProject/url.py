@@ -13,7 +13,12 @@ class url:
                 "&GameSegment=&LastNGames=0&LeagueID=00&Location=&MeasureType={measureType}&Month=0&OpponentTeamID=" \
                 "0&Outcome=&PORound=0&PaceAdjust=N&PerMode={perMode}&Period=0&PlayerExperience=&PlayerPosition=&Plu" \
                 "sMinus=N&Rank=N&Season={year}&SeasonSegment=&SeasonType={seasonType}&ShotClockRange=&StarterBench=" \
-                "&TeamID={teamId}&VsConference=&VsDivision="
+                "&TeamID={Id}&VsConference=&VsDivision="
+    playerStats = "http://stats.nba.com/stats/playerdashboardbygeneralsplits?DateFrom=&DateTo="\
+                  "&GameSegment=&LastNGames=0&LeagueID=00&Location=&MeasureType={measureType}&Month=0&OpponentTeamID=" \
+                  "0&Outcome=&PORound=0&PaceAdjust=N&PerMode=Totals&Period=0&PlayerID={Id}&Plu" \
+                  "sMinus=N&Rank=N&Season={year}&SeasonSegment=&SeasonType={seasonType}&ShotClockRange="\
+                  "&VsConference=&VsDivision="
     #teamId is a 10 digit unique identifier
     #measureType comes from the measureTypes paramEnum
     #year is in the format 2015-16
@@ -39,4 +44,6 @@ class url:
                "&DateTo=&GameID=&GameSegment=&LastNGames=0&LeagueID=00&Location=&MeasureType=Base&Month=0&OpponentTeamID=0&Outcome="\
                "&PaceAdjust=N&PerMode=PerGame&Period=0&PlayerID={playerId}&PlusMinus=N&Position=&Rank=N&RookieYear=&Season={year}&SeasonSegment="\
                "&SeasonType={seasonType}&TeamID={teamId}&VsConference=&VsDivision=&mode=Advanced&showDetails=0&showShots=1&showZones=0"
-               
+              
+    playInfo = "http://stats.nba.com/stats/commonplayerinfo?LeagueID=00&PlayerID={playerId}&SeasonType={seasonType}"
+    playerAwards = "http://stats.nba.com/feeds/players/awards/{playerId}_Award.js"

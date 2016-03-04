@@ -7,9 +7,10 @@ Created on Thu Mar 03 12:46:03 2016
 from dataGetters import getJson
 
 class traditionalStats:
-    def __init__(self,teamId,year,seasonType, measureType, tUrl):
-        tradURL = tUrl.format(teamId=teamId, perMode="Totals", measureType=measureType, year=year, \
+    def __init__(self,Id,year,seasonType, measureType, tUrl):
+        tradURL = tUrl.format(Id=Id, perMode="Totals", measureType=measureType, year=year, \
                                        seasonType=seasonType)
+        print(tradURL)
         data = getJson(tradURL,0)
         data = data[0]
         self.min = data[6]
