@@ -9,16 +9,20 @@ from dataGetters import j2p
 import pandas as pd
 
 playerStatsUrl = "http://stats.nba.com/stats/leaguedashplayerstats?College=&Conference=&Country=&DateFrom=&DateTo=&Division=&DraftPick=&DraftYear=&GameScope=&GameSegment=&Height=&LastNGames=0&LeagueID=00&Location=&MeasureType=Advanced&Month=0&OpponentTeamID=0&Outcome=&PORound=0&PaceAdjust=N&PerMode=Totals&Period=0&PlayerExperience=&PlayerPosition=&PlusMinus=N&Rank=N&Season=2015-16&SeasonSegment=&SeasonType=Regular+Season&ShotClockRange=&StarterBench=&TeamID=0&VsConference=&VsDivision=&Weight="
+print("Getting Traditional Player Stats")
 playerStats = j2p(playerStatsUrl,0)
+print("Filtering Player Stats DataFrame")
 playerStats = playerStats.loc[playerStats['MIN']>=25]
 playerStats = playerStats.loc[playerStats['GP']>=40]
-playerStats = playerStats[['TEAM_ID','PLAYER_ID','PIE','MIN','PLAYER_NAME']]
+playerStats = playerStats[['TEAM_ID','PLAYER_ID','PIE','MIN','PLAYER_NAME',]]
 
 teams = playerStats['TEAM_ID'].unique()
 
 df = pd.DataFrame(columns=['PlayerId1','PlyaerName1','PlayerId2','PlayerName2','TotalIndvMins'])
 
-for teamId in teams:
+print("Getting Top 2 Players from each team by PIE")
+for index,teamId in enumerate(teams):
+     print(str(index)+"/30")
      teamStats = playerStats.loc[playerStats['TEAM_ID']==teamId]
      teamStats = teamStats.sort_values(by=['PIE'],ascending=False)
      teamStats = teamStats.head(2)
@@ -26,11 +30,14 @@ for teamId in teams:
      playerIds.sort()
      mins = teamStats['MIN'].unique()
      names = teamStats['PLAYER_NAME'].unique()
+     print(names)
      teamRow = [playerIds[0],names[0],playerIds[1],names[1],(mins[0]+mins[1])]
      df=df.append(pd.Series(teamRow,index=df.columns),ignore_index=True)
 
 lineUps = pd.DataFrame()
-for teamId in teams:
+print("Getting LineUp Stats For Each Team")
+for index,teamId in enumerate(teams):
+     print(str(index)+"/30")
      teamLineUpsUrl = "http://stats.nba.com/stats/teamdashlineups?DateFrom=&DateTo=&GameID=&GameSegment=&GroupQuantity=2&LastNGames=0&LeagueID=00&Location=&MeasureType=Advanced&Month=0&OpponentTeamID=0&Outcome=&PaceAdjust=N&PerMode=PerGame&Period=0&PlusMinus=N&Rank=N&Season=2015-16&SeasonSegment=&SeasonType=Regular+Season&TeamID={teamId}&VsConference=&VsDivision="
      teamLineUpsUrl = teamLineUpsUrl.format(teamId = teamId)
      teamLineUps = j2p(teamLineUpsUrl,1)
@@ -42,19 +49,25 @@ for teamId in teams:
 #lineUpStats = lineUpStats[['GROUP_ID','GROUP_NAME','MIN']]
 lineUps['PlayerId1'] = 0
 lineUps['PlayerId2'] = 0
-#
+
+print("Splitting Player Id's into two fields")
 for index, lineUp in lineUps.iterrows():
     temp = lineUp.GROUP_ID.split('-')
     temp.sort()    
     lineUps.ix[index,'PlayerId1'] = float(temp[0])
     lineUps.ix[index,'PlayerId2'] = float(temp[1])
-
+    
+lineUps['MIN'] = lineUps['MIN'] / lineUps['GP']
 lineUps = lineUps[['PlayerId1','PlayerId2','MIN','GROUP_NAME']]    
 
+print("Merging")
 merge = pd.DataFrame(columns=['PlayerId1','PlayerId2','TotalIndvMins','MinsTogether','PlayerNames'])
 
 merge1 = df.merge(lineUps,left_on=['PlayerId1','PlayerId2'],right_on=['PlayerId1','PlayerId2'],how='inner')
 merge2 = df.merge(lineUps,left_on=['PlayerId1','PlayerId2'],right_on=['PlayerId2','PlayerId1'],how='inner')
 merge = merge1.append(merge2,ignore_index=True)
 
+merge=merge[['PlyaerName1','PlayerName2','TotalIndvMins','MIN']]
+merge.columns = ['Player 1 Name','Player 2 Name', 'Total Individual Minutes', 'Minutes Played Together']
+merge['% Of Mins Played Together'] = merge['Minutes Played Together'] / merge['Total Individual Minutes'] * 100
 merge.to_csv('staggering.csv')
