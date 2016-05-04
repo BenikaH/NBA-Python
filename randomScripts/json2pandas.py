@@ -9,7 +9,7 @@ import json
 import urllib2
 
 #get JSON from API url and store to pandas df
-def json2pandas(url,index):
+def j2p(url,index):
     opener = urllib2.build_opener()
     opener.addheaders = [('User-agent', 'Mozilla/5.0')]
     response = opener.open(url)
