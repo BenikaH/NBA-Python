@@ -26,3 +26,13 @@ def getJson(url,index):
     data = json.loads(response.read())
     data = data['resultSets'][index]['rowSet']
     return data
+    
+def j2p2(url,index):
+    opener = urllib2.build_opener()
+    opener.addheaders = [('User-agent', 'Mozilla/5.0')]
+    response = opener.open(url)
+    data = json.loads(response.read())
+    headers = data['resultSets'][index]['headers']
+    rows = data['resultSets'][index]['rowSet']
+    data_dict = [dict(zip(headers, row)) for row in rows]
+    return pd.DataFrame(data_dict)

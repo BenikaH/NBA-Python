@@ -14,6 +14,8 @@ import plotly.plotly as py
 url = "http://stats.nba.com/stats/leaguedashplayerstats?College=&Conference=&Country=&DateFrom=&DateTo=&Division=&DraftPick=&DraftYear=&GameScope=&GameSegment=&Height=&LastNGames=0&LeagueID=00&Location=&MeasureType=Base&Month=0&OpponentTeamID=0&Outcome=&PORound=0&PaceAdjust=N&PerMode=PerGame&Period=0&PlayerExperience=&PlayerPosition=&PlusMinus=N&Rank=N&Season=2015-16&SeasonSegment=&SeasonType=Playoffs&ShotClockRange=&StarterBench=&TeamID=0&VsConference=&VsDivision=&Weight="
 
 perGame = j2p(url, 0)
+teamList = ['OKC','CLE','GSW','TOR']
+perGame = perGame.loc[perGame['TEAM_ABBREVIATION'].isin(teamList)]
 perGame = perGame.sort_values(['PTS'], ascending=False, axis=0)
 perGame = perGame.head(15)
 

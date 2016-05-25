@@ -6,7 +6,7 @@ Created on Tue Oct  6 10:36:18 2015
 """
 
 import pandas as pd
-from json2pandas import json2pandas as j2p
+from dataGetters import j2p
 
 #player_tracking_shot_logs_url = "http://stats.nba.com/stats/playerdashptshotlog?DateFrom=&DateTo=&GameSegment=&LastNGames=0&LeagueID=00&Location=&Month=0&OpponentTeamID=0&Outcome=&Period=0&PlayerID="+player_id+"&Season=2014-15&SeasonSegment=&SeasonType=Regular+Season&TeamID=0&VsConference=&VsDivision="
 play_types=["PRBallHandler","Cut","Handoff","Isolation","Misc","OffScreen","Postup","OffRebound","PRRollMan","Spotup","Transition"]
