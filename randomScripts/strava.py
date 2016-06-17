@@ -1,14 +1,37 @@
 from stravalib.client import Client
 from stravalib import unithelper
+import pandas as pd
+import plotly.plotly as py
+import plotly.graph_objs as go
 
-client = Client(access_token="c4f46d9b575b4ed3b3bd5605a8627a2e87326710")
+client = Client(access_token="7a3d420066da21add6fdfb7713ebc0168bf01617")
 athlete = client.get_athlete()
 activities = client.get_activities()
+
+activitiesDf = pd.DataFrame(columns=['Date', 'Distance', 'Time', 'Pace'])
+
 for activity in activities:
     if activity.type == 'Run':
-        distance = (unithelper.miles(activity.distance))
+        distance = (unithelper.miles(activity.distance)).get_num()
         time = activity.moving_time.seconds
-        speed = float(time) / (float(distance) * 60)
+        pace = time / (distance * 60)
         date = activity.start_date
-        print("On " + str(date) + ", you ran " + str(distance) + " miles in " + str(
-            time) + " seconds. Giving you a pace of " + str(speed) + " minutes per mile")
+        newRow = [date, distance, time, pace]
+        activitiesDf = activitiesDf.append(pd.Series(newRow, index=['Date', 'Distance', 'Time', 'Pace']),
+                                           ignore_index=True)
+
+trace = go.Scatter(
+    x=activitiesDf['Date'],
+    y=activitiesDf['Distance'],
+    text=activitiesDf['Pace'],
+    mode='markers',
+    marker=dict(
+        color=activitiesDf['Pace'].max() - activitiesDf['Pace'],
+        colorscale='RdYlBu',
+        showscale=True,
+        size=10
+    )
+)
+
+data = [trace]
+py.iplot(data, filename='Hiking_Strava')
