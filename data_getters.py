@@ -145,18 +145,35 @@ sports_vu_types = ["CatchShoot", "Defense", "Drives", "Passing", "Possessions", 
                    "ElbowTouch", "PostTouch", "PaintTouch"]
 
 
-def get_sports_vu_stats(player_or_team, vu_type, per_mode, season_year, season_type):
-    url = "http://stats.nba.com/stats/leaguedashptstats?College=&Conference=&Country=&DateFrom=&DateTo=" \
-          "&Division=&DraftPick=&DraftYear=&GameScope=&Height=&LastNGames=0&LeagueID=00&Location=&Month=0" \
-          "&OpponentTeamID=0&Outcome=&PORound=0&PerMode={perMode}&PlayerExperience=&PlayerOrTeam={playerOrTeam}" \
-          "&PlayerPosition=&PtMeasureType={vuType}&Season={seasonYear}&SeasonSegment=&SeasonType={seasonType}" \
-          "&StarterBench=&TeamID=0&VsConference=&VsDivision=&Weight="
-    url = url.format(playerOrTeam=player_or_team, vuType=vu_type, seasonYear=season_year, seasonType=season_type,
-                     perMode=per_mode)
-    df = j2p(url, 0)
-    if df is not None:
-        df.to_csv(
-            "data\\" + player_or_team + "\\" + vu_type + "\\" + season_type + "\\" + per_mode + "\\" + season_year)
+def get_sports_vu_stats(team_or_player, vu_type, per_mode, season_year, season_type, opponent_id):
+    if not os.path.exists('../data/' + team_or_player + '_data/'):
+        os.makedirs('../data/' + team_or_player + '_data')
+        print('MAKING DIRECTORY : ' + '../data/' + team_or_player + '_data')
+    if not os.path.exists('../data/' + team_or_player + '_data/SportsVU'):
+        os.makedirs('../data/' + team_or_player + '_data/SportsVU')
+        print('MAKING DIRECTORY : ' + '../data/' + team_or_player + '_data/SPORTSVU')
+    if opponent_id == '0':
+        file_path = '../data/' + team_or_player + '_data/SportsVU/' + season_year + '_' + vu_type + '_' + \
+                    season_type + '_' + per_mode
+    else:
+        file_path = '../data/' + team_or_player + '_data/SportsVU/' + season_year + '_' + vu_type + '_' + \
+                    season_type + '_' + per_mode + '_Opp=' + str(opponent_id)
+    if not os.path.isfile(file_path):
+        print('FILE NOT FOUND, GETTING DATA FROM WEB API')
+        url = "http://stats.nba.com/stats/leaguedashptstats?College=&Conference=&Country=&DateFrom=&DateTo=" \
+              "&Division=&DraftPick=&DraftYear=&GameScope=&Height=&LastNGames=0&LeagueID=00&Location=&Month=0" \
+              "&OpponentTeamID={oppId}&Outcome=&PORound=0&PerMode={perMode}&PlayerExperience=&PlayerOrTeam={playerOrTeam}" \
+              "&PlayerPosition=&PtMeasureType={vuType}&Season={seasonYear}&SeasonSegment=&SeasonType={seasonType}" \
+              "&StarterBench=&TeamID=0&VsConference=&VsDivision=&Weight="
+        url = url.format(playerOrTeam=team_or_player, vuType=vu_type, seasonYear=season_year, seasonType=season_type,
+                         perMode=per_mode, oppId=opponent_id)
+        df = j2p(url, 0)
+        if df is not None:
+            df.to_csv(file_path)
+            return df
+    else:
+        print('FILE FOUND, READING DATA FROM FILE')
+        return pd.read_csv(file_path)
 
 
 def get_all_sports_vu_stats():
@@ -195,6 +212,5 @@ def get_player_game_logs(season_year, season_type, player_name, player_id):
     else:
         print("ALREADY HAVE " + player_name + "'s Game Logs for the " + season_year + " " + season_type + " ON FILE!")
         return pd.read_csv(file_path)
-
 
 # endregion

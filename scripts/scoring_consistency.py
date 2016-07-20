@@ -72,7 +72,7 @@ def make_traces():
     return func_traces
 
 
-get_yearly_data(1)
+get_yearly_data(0)
 traces = make_traces()
 layout = go.Layout(
     title='Scoring Consistency',

@@ -2,428 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e58a3ce-0eec-41ff-bb05-b6d014dada65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/scoring_consistency.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BigProject/Team.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BigProject/dataGetters.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BigProject/paramEnums.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BigProject/player.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BigProject/sortableStats.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BigProject/sportsVU.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BigProject/synergy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BigProject/url.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pelicans_passing.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pelicans_passing_totals.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Clustering.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Clutch_Scoring.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Consolidate_Synergy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Pace.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Passes Per Possession.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Passing Chart.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Position_Data.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Position_Data.csv.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Rebounding.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Scoring by State.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Scoring_Radars.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/SportsVU.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/SportsVU.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Staggering.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Team_Synergy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Top 2 Man Groups.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Top 3 Man Groups.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Top 4 Man Groups.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Top Lineups.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/Weather.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/All+Star/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/All+Star/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/All+Star/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/All+Star/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/All+Star/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/All+Star/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/All+Star/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/All+Star/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/All+Star/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/All+Star/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/All+Star/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/All+Star/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/All+Star/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/All+Star/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Playoffs/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerGame/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerMinute/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerPlay/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerPossession/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/Totals/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Pre+Season/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerGame/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerMinute/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerPlay/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerPossession/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/Totals/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Advanced/Regular+Season/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerGame/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerMinute/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerPlay/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerPossession/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/Totals/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/All+Star/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerGame/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerMinute/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerPlay/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/Totals/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Playoffs/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerGame/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerMinute/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerPlay/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerPossession/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/Totals/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Pre+Season/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerMinute/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerPlay/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerPossession/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/Totals/1998-99.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Base/Regular+Season/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/All+Star/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Playoffs/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Defense/Regular+Season/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/All+Star/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Playoffs/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Playoffs/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Playoffs/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Playoffs/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Playoffs/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Playoffs/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Playoffs/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Playoffs/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Playoffs/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Playoffs/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Playoffs/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Playoffs/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Playoffs/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Playoffs/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Pre+Season/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Misc/Regular+Season/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/All+Star/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Playoffs/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Pre+Season/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Scoring/Regular+Season/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/All+Star/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Playoffs/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Pre+Season/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/PerGame/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/PerGame/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/PerGame/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/PerMinute/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/PerMinute/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/PerMinute/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/PerPlay/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/PerPlay/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/PerPlay/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/PerPossession/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/PerPossession/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/PerPossession/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/Totals/1996-97.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/Totals/1997-98.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/data/player/Usage/Regular+Season/Totals/2015-16_csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/hiking_strava.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/hustle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/hustleTeam.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/json2pandas.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/mapTest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/nba_savant.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/offensive_metrics.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/pels_passing.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/playoffScorers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/positionalRebounding.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/scoring_efficiency.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/staggering.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/statePop.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/stats.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/strava.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/randomScripts/team_consitency.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/randomScripts/dataGetters.py" afterPath="$PROJECT_DIR$/data_getters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/offensive_v_defensive_pace.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_getters.py" afterPath="$PROJECT_DIR$/data_getters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/scoring_consistency.py" afterPath="$PROJECT_DIR$/scripts/scoring_consistency.py" />
     </list>
     <ignored path="NBA-Python.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -445,6 +27,7 @@
     <SUITE FILE_PATH="coverage/NBA-Python$hiking_strava.coverage" NAME="hiking_strava Coverage Results" MODIFIED="1464624844021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomScripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$Pace.coverage" NAME="Pace Coverage Results" MODIFIED="1467039727504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomScripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$scoring_consistency.coverage" NAME="scoring_consistency Coverage Results" MODIFIED="1468859875539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomScripts" />
+    <SUITE FILE_PATH="coverage/NBA-Python$offensive_v_defensive_pace.coverage" NAME="offensive_v_defensive_pace Coverage Results" MODIFIED="1468940757784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$dataGetters.coverage" NAME="dataGetters Coverage Results" MODIFIED="1467076263182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomScripts" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -456,22 +39,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="data_getters.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data_getters.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_getters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="199" column="11" selection-start-line="199" selection-start-column="11" selection-end-line="199" selection-end-column="11" />
+            <state relative-caret-position="3311">
+              <caret line="154" column="25" selection-start-line="154" selection-start-column="25" selection-end-line="154" selection-end-column="25" />
               <folding>
                 <element signature="e#88#107#0" expanded="true" />
                 <element signature="e#152#166#0" expanded="false" />
                 <element signature="e#696#917#0" expanded="false" />
                 <element signature="e#946#1295#0" expanded="false" />
-                <element signature="e#1388#1402#0" expanded="false" />
-                <element signature="e#1792#1811#0" expanded="false" />
                 <element signature="e#3450#3836#0" expanded="false" />
                 <element signature="e#3849#3877#0" expanded="false" />
-                <element signature="e#5412#5429#0" expanded="false" />
-                <element signature="e#6976#6994#0" expanded="false" />
+                <element signature="e#7979#7997#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="offensive_v_defensive_pace.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/offensive_v_defensive_pace.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -480,8 +72,8 @@
       <file leaf-file-name="scoring_consistency.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/scoring_consistency.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1512">
-              <caret line="104" column="1" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
+            <state relative-caret-position="860">
+              <caret line="20" column="9" selection-start-line="17" selection-start-column="4" selection-end-line="20" selection-end-column="9" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -517,6 +109,7 @@
         <option value="$PROJECT_DIR$/randomScripts/scoring_consistency.py" />
         <option value="$PROJECT_DIR$/scripts/scoring_consistency.py" />
         <option value="$PROJECT_DIR$/data_getters.py" />
+        <option value="$PROJECT_DIR$/scripts/offensive_v_defensive_pace.py" />
       </list>
     </option>
   </component>
@@ -558,6 +151,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -603,8 +197,22 @@
               <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scoring_consistency" />
+              <option name="myItemId" value="NBA-Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NBA-Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Team_data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -622,13 +230,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="player_data" />
+              <option name="myItemId" value="Team_data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SportsVU" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -654,25 +265,7 @@
       <recent name="C:\git\NBA-Python\randomScripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.scoring_consistency (1)">
-    <configuration default="false" name="Pace" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/randomScripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NBA-Python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/randomScripts/Pace.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.offensive_v_defensive_pace">
     <configuration default="false" name="dataGetters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -741,6 +334,24 @@
       <module name="NBA-Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/scoring_consistency.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="offensive_v_defensive_pace" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NBA-Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/offensive_v_defensive_pace.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -954,19 +565,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Pace" />
-      <item index="1" class="java.lang.String" itemvalue="Python.dataGetters" />
-      <item index="2" class="java.lang.String" itemvalue="Python.TrueShooting" />
-      <item index="3" class="java.lang.String" itemvalue="Python.scoring_consistency" />
-      <item index="4" class="java.lang.String" itemvalue="Python.scoring_consistency (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.dataGetters" />
+      <item index="1" class="java.lang.String" itemvalue="Python.TrueShooting" />
+      <item index="2" class="java.lang.String" itemvalue="Python.scoring_consistency" />
+      <item index="3" class="java.lang.String" itemvalue="Python.scoring_consistency (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.offensive_v_defensive_pace" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.scoring_consistency (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.scoring_consistency" />
-        <item index="2" class="java.lang.String" itemvalue="Python.TrueShooting" />
-        <item index="3" class="java.lang.String" itemvalue="Python.dataGetters" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Pace" />
+        <item index="0" class="java.lang.String" itemvalue="Python.offensive_v_defensive_pace" />
+        <item index="1" class="java.lang.String" itemvalue="Python.scoring_consistency (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.scoring_consistency" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TrueShooting" />
+        <item index="4" class="java.lang.String" itemvalue="Python.dataGetters" />
       </list>
     </recent_temporary>
   </component>
@@ -990,24 +601,24 @@
     <frame x="-16" y="-16" width="3872" height="2092" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22864583" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30546874" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974717" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34319526" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="18" y="116" width="3803" height="1828" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967725" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34319526" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="18" y="116" width="3803" height="1828" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974717" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967725" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1023,11 +634,12 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py" />
     <entry file="file://$PROJECT_DIR$/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2537">
@@ -1037,12 +649,9 @@
             <element signature="e#152#166#0" expanded="false" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
             <element signature="e#3450#3836#0" expanded="false" />
             <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1051,26 +660,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Passing Chart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/randomScripts/Passing Chart.py" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py" />
     <entry file="file://$PROJECT_DIR$/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2537">
@@ -1080,12 +677,9 @@
             <element signature="e#152#166#0" expanded="false" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
             <element signature="e#3450#3836#0" expanded="false" />
             <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1094,26 +688,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Passing Chart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/randomScripts/Passing Chart.py" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py" />
     <entry file="file://$PROJECT_DIR$/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2537">
@@ -1123,12 +705,9 @@
             <element signature="e#152#166#0" expanded="false" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
             <element signature="e#3450#3836#0" expanded="false" />
             <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1137,26 +716,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Passing Chart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/randomScripts/Passing Chart.py" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py" />
     <entry file="file://$PROJECT_DIR$/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2537">
@@ -1166,12 +733,9 @@
             <element signature="e#152#166#0" expanded="false" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
             <element signature="e#3450#3836#0" expanded="false" />
             <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1180,26 +744,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Passing Chart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/randomScripts/Passing Chart.py" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py" />
     <entry file="file://$PROJECT_DIR$/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2537">
@@ -1209,12 +761,9 @@
             <element signature="e#152#166#0" expanded="false" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
             <element signature="e#3450#3836#0" expanded="false" />
             <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1223,50 +772,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Passing Chart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_getters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2537">
-          <caret line="158" column="11" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="11" />
           <folding>
-            <element signature="e#88#107#0" expanded="true" />
-            <element signature="e#152#166#0" expanded="false" />
-            <element signature="e#696#917#0" expanded="false" />
-            <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
-            <element signature="e#3450#3836#0" expanded="false" />
-            <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/scoring_consistency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1279,31 +787,15 @@
             <element signature="e#152#166#0" expanded="false" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
             <element signature="e#3450#3836#0" expanded="false" />
             <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/TrueShooting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/randomScripts/TrueShooting.py" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py" />
     <entry file="file://$PROJECT_DIR$/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1313,12 +805,9 @@
             <element signature="e#152#166#0" expanded="false" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
             <element signature="e#3450#3836#0" expanded="false" />
             <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1332,12 +821,9 @@
             <element signature="e#152#166#0" expanded="false" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
             <element signature="e#3450#3836#0" expanded="false" />
             <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1351,12 +837,9 @@
             <element signature="e#152#166#0" expanded="false" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
             <element signature="e#3450#3836#0" expanded="false" />
             <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1370,12 +853,9 @@
             <element signature="e#152#166#0" expanded="false" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
             <element signature="e#3450#3836#0" expanded="false" />
             <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1389,12 +869,9 @@
             <element signature="e#152#166#0" expanded="false" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
             <element signature="e#3450#3836#0" expanded="false" />
             <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1408,37 +885,16 @@
             <element signature="e#152#166#0" expanded="false" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
             <element signature="e#3450#3836#0" expanded="false" />
             <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/pels_passing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2924">
-          <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/playoffScorers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1333">
-          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Pace.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/randomScripts/pels_passing.py" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/playoffScorers.py" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/Pace.py" />
     <entry file="file://$PROJECT_DIR$/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1448,30 +904,15 @@
             <element signature="e#152#166#0" expanded="false" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
             <element signature="e#3450#3836#0" expanded="false" />
             <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/pels_passing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2924">
-          <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/playoffScorers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/randomScripts/pels_passing.py" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/playoffScorers.py" />
     <entry file="file://$PROJECT_DIR$/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1481,30 +922,15 @@
             <element signature="e#152#166#0" expanded="false" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
             <element signature="e#3450#3836#0" expanded="false" />
             <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/pels_passing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2924">
-          <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/playoffScorers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1333">
-          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/randomScripts/pels_passing.py" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/playoffScorers.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Continuum/Anaconda2/Lib/site-packages/pandas/core/internals.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
@@ -1512,42 +938,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/TrueShooting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1419">
-          <caret line="43" column="67" selection-start-line="43" selection-start-column="67" selection-end-line="43" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/hustle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3117">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Pace.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/scoring_efficiency.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2150">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Passing Chart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/randomScripts/TrueShooting.py" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/hustle.py" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/Pace.py" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/scoring_efficiency.csv" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/Passing Chart.py" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py" />
+    <entry file="file://$PROJECT_DIR$/randomScripts/__init__.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
@@ -1555,47 +952,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/Anaconda2/Lib/site-packages/pandas/io/common.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="354">
+          <caret line="376" column="0" selection-start-line="376" selection-start-column="0" selection-end-line="376" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/__init__.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/Anaconda2/Lib/site-packages/pandas/core/indexing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="354">
+          <caret line="1377" column="0" selection-start-line="1377" selection-start-column="0" selection-end-line="1377" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_getters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3311">
+          <caret line="154" column="25" selection-start-line="154" selection-start-column="25" selection-end-line="154" selection-end-column="25" />
+          <folding>
+            <element signature="e#88#107#0" expanded="true" />
+            <element signature="e#152#166#0" expanded="false" />
+            <element signature="e#696#917#0" expanded="false" />
+            <element signature="e#946#1295#0" expanded="false" />
+            <element signature="e#3450#3836#0" expanded="false" />
+            <element signature="e#3849#3877#0" expanded="false" />
+            <element signature="e#7979#7997#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/scoring_consistency.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="104" column="1" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
+        <state relative-caret-position="860">
+          <caret line="20" column="9" selection-start-line="17" selection-start-column="4" selection-end-line="20" selection-end-column="9" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_getters.py">
+    <entry file="file://$PROJECT_DIR$/scripts/offensive_v_defensive_pace.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="199" column="11" selection-start-line="199" selection-start-column="11" selection-end-line="199" selection-end-column="11" />
+        <state relative-caret-position="430">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding>
-            <element signature="e#88#107#0" expanded="true" />
-            <element signature="e#152#166#0" expanded="false" />
-            <element signature="e#696#917#0" expanded="false" />
-            <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#1388#1402#0" expanded="false" />
-            <element signature="e#1792#1811#0" expanded="false" />
-            <element signature="e#3450#3836#0" expanded="false" />
-            <element signature="e#3849#3877#0" expanded="false" />
-            <element signature="e#5412#5429#0" expanded="false" />
-            <element signature="e#6976#6994#0" expanded="false" />
+            <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
