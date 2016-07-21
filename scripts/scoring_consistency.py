@@ -1,6 +1,7 @@
 import pandas as pd
 import plotly.graph_objs as go
 import os.path
+import plotly.plotly as py
 
 from data_getters import j2p, get_stat_csv, get_player_game_logs
 
@@ -101,5 +102,5 @@ t1 = traces[0:10]
 t2 = traces[-10:]
 traces = t1 + t2
 
-#fig = go.Figure(data=traces, layout=layout)
-#url = py.plot(fig, file_name="Variance Scorers")
+fig = go.Figure(data=traces, layout=layout)
+url = py.plot(fig, filename="Scoring_Variance")

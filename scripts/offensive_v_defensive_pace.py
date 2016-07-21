@@ -5,7 +5,7 @@ import plotly.graph_objs as go
 import plotly.plotly as py
 
 
-def get_data():
+def get_data(overwrite_file):
     file_path = '../data/offensive_v_defensive_pace/data.csv'
     if not os.path.exists('../data/offensive_v_defensive_pace'):
         print("MAKING DIRECTORY!")
@@ -49,44 +49,64 @@ def get_data():
                     ignore_index=True)
             data_df = data_df.append(year_df)
         data_df['TOTAL_POSSESSIONS'] = data_df['PACE'] * data_df['GP']
+        data_df['OFF_PACE'] = data_df['OFF_TOP'] / data_df['TOTAL_POSSESSIONS']
+        data_df['DEF_PACE'] = data_df['DEF_TOP'] / data_df['TOTAL_POSSESSIONS']
+        data_df['DISPLAY'] = data_df['TEAM_NAME'] + " " + data_df["YEAR"]
         data_df.to_csv(file_path)
         return data_df
 
 
 def generate_plot():
     plot_df = pd.read_csv('../data/offensive_v_defensive_pace/data.csv')
-    traces = []
-    layouts = []
-    traces[0] = go.Scatter(
-        x=plot_df['TOTAL_POSSESSIONS'] / plot_df['OFF_TOP'],
-        y=plot_df['ORTG'],
-        text=plot_df['TEAM_NAME']
-    )
-    layouts[0] = go.Layout(
-        title='Offensive Pace vs Offensive Rating',
-        xaxis=dict(
-            title='Offensive Pace'
-        ),
-        yaxis=dict(
-            title='Offensive Rating'
-        )
-    )
-    traces[1] = go.Scatter(
-        x=plot_df['TOTAL_POSSESSIONS'] / plot_df['DEF_TOP'],
-        y=plot_df['DRTG'],
-        text=plot_df['TEAM_NAME']
-    )
-    layouts[1] = go.Layout(
-        title='Defensive Pace vs Defensive Rating',
-        xaxis=dict(
-            title='Defensive Pace'
-        ),
-        yaxis=dict(
-            title='Defensive Rating'
-        )
-    )
-    figs = [go.Figure(data=[traces[0]], layout=layouts[0]), go.Figure(data=[traces[1]], layout=layouts[1])]
-    py.iplot(figs[0], filename='pace/offensive')
-    py.iplot(figs[1], filename='pace/defensive')
+    figs = [0] * 3
+    figs[0] = {
+        'data': [
+            {
+                'x': plot_df.OFF_PACE,
+                'y': plot_df.ORTG,
+                'text': plot_df.DISPLAY,
+                'mode': 'markers'
+            }
+        ],
+        'layout': {
+            'xaxis': {'title': 'Offensive Pace'},
+            'yaxis': {'title': 'Offensive Rating'}
+        }
+    }
+    figs[1] = {
+        'data': [
+            {
+                'x': plot_df.DEF_PACE,
+                'y': plot_df.DRTG,
+                'text': plot_df.DISPLAY,
+                'mode': 'markers'
+            }
+        ],
+        'layout': {
+            'xaxis': {'title': 'Defensive Pace', 'categoryorder': 'category ascending'},
+            'yaxis': {'title': 'Defensive Rating'}
+        }
+    }
+    no_phily_df = plot_df.loc[plot_df['TEAM_NAME'] != 'Philadelphia 76ers']
+    figs[2] = {
+        'data': [
+            {
+                'x': no_phily_df.OFF_PACE,
+                'y': no_phily_df.ORTG,
+                'text': no_phily_df.DISPLAY,
+                'mode': 'markers'
+            }
+        ],
+        'layout': {
+            'xaxis': {'title': 'Offensive Pace'},
+            'yaxis': {'title': 'Offensive Rating'}
+        }
+    }
+    urls = [0] * 3
+    urls[0] = py.plot(figs[0], filename='Offensive_Pace')
+    urls[1] = py.plot(figs[1], filename='Defensive_Pace')
+    urls[2] = py.plot(figs[2], filename='Offensive_Pace_No_Philly')
 
-get_data()
+
+get_data(0)
+generate_plot()
