@@ -49,6 +49,28 @@ def j2p2(url, index):
     return pd.DataFrame(data_dict)
 
 
+def j2pSynergy(url, index):
+    opener = urllib2.build_opener()
+    opener.addheaders = [('User-agent', 'Mozilla/5.0')]
+    try:
+        response = opener.open(url)
+    except Exception:
+        print('Could not get Stats')
+        return None
+    else:
+        data = json.loads(response.read())
+        data = data['results']
+        if len(data) > 0:
+            headers = data[0].keys()
+            rows = [0] * len(data)
+            for i in range(len(data)):
+                rows[i] = data[i].values()
+            data_dict = [dict(zip(headers, r)) for r in rows]
+            return pd.DataFrame(data_dict)
+        else:
+            return pd.DataFrame()
+
+
 def get_year_string(year):
     return str(year) + "-" + str(year + 1)[2:4]
 
@@ -188,6 +210,32 @@ def get_all_sports_vu_stats():
 
 # endregion
 
+# region Synergy
+
+synergy_play_types = ["Transition", "Isolation", "PRBallHandler", "PRRollman", "Postup", "Spotup", "Handoff", "Cut",
+                      "OffScreen", "OffRebound", "Misc"]
+
+
+def get_synergy_stats(team_or_player, synergy_play_type, offense_or_defense):
+    if not os.path.exists('./data/' + team_or_player.title() + '_data/'):
+        os.makedirs('./data/' + team_or_player.title() + '_data')
+        print('MAKING DIRECTORY : ' + './data/' + team_or_player.title() + '_data')
+    if not os.path.exists('./data/' + team_or_player.title() + '_data/Synergy'):
+        os.makedirs('./data/' + team_or_player.title() + '_data/Synergy')
+        print('MAKING DIRECTORY : ' + './data/' + team_or_player.title() + '_data/Synergy')
+    file_path = './data/' + team_or_player.title() + '_data/Synergy/' + synergy_play_type + "_" + offense_or_defense + \
+                '_2015-16.csv'
+    if not os.path.isfile(file_path):
+        print('FILE NOT FOUND, GETTING DATA FROM WEB API')
+        url = "http://stats-prod.nba.com/wp-json/statscms/v1/synergy/{teamOrPlayer}/?category={playType}&limit=500" \
+              "&name={offenseOrDefense}&q=2449554&season=2015&seasonType=Reg"
+        url = url.format(teamOrPlayer=team_or_player, playType=synergy_play_type, offenseOrDefense=offense_or_defense)
+        data_df = j2pSynergy(url, 0)
+        data_df.to_csv(file_path)
+
+
+# endregion
+
 # region Game Logs
 
 def get_player_game_logs(season_year, season_type, player_name, player_id):
@@ -212,5 +260,6 @@ def get_player_game_logs(season_year, season_type, player_name, player_id):
     else:
         print("ALREADY HAVE " + player_name + "'s Game Logs for the " + season_year + " " + season_type + " ON FILE!")
         return pd.read_csv(file_path)
+
 
 # endregion
