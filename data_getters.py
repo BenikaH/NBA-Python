@@ -107,6 +107,7 @@ def get_stat_csv(team_or_player, measure_type, per_mode, season_year, season_typ
               "&TeamID=0&VsConference=&VsDivision=&Weight="
         url = url.format(perMode=per_mode, seasonYear=season_year, seasonType=season_type, measureType=measure_type,
                          teamOrPlayer=team_or_player)
+        print(url)
         df = j2p(url, 0)
         if df is not None:
             df.to_csv(file_path)
@@ -217,13 +218,13 @@ synergy_play_types = ["Transition", "Isolation", "PRBallHandler", "PRRollman", "
 
 
 def get_synergy_stats(team_or_player, synergy_play_type, offense_or_defense):
-    if not os.path.exists('./data/' + team_or_player.title() + '_data/'):
-        os.makedirs('./data/' + team_or_player.title() + '_data')
+    if not os.path.exists('../data/' + team_or_player.title() + '_data/'):
+        os.makedirs('../data/' + team_or_player.title() + '_data')
         print('MAKING DIRECTORY : ' + './data/' + team_or_player.title() + '_data')
-    if not os.path.exists('./data/' + team_or_player.title() + '_data/Synergy'):
-        os.makedirs('./data/' + team_or_player.title() + '_data/Synergy')
+    if not os.path.exists('../data/' + team_or_player.title() + '_data/Synergy'):
+        os.makedirs('../data/' + team_or_player.title() + '_data/Synergy')
         print('MAKING DIRECTORY : ' + './data/' + team_or_player.title() + '_data/Synergy')
-    file_path = './data/' + team_or_player.title() + '_data/Synergy/' + synergy_play_type + "_" + offense_or_defense + \
+    file_path = '../data/' + team_or_player.title() + '_data/Synergy/' + synergy_play_type + "_" + offense_or_defense + \
                 '_2015-16.csv'
     if not os.path.isfile(file_path):
         print('FILE NOT FOUND, GETTING DATA FROM WEB API')
@@ -232,7 +233,8 @@ def get_synergy_stats(team_or_player, synergy_play_type, offense_or_defense):
         url = url.format(teamOrPlayer=team_or_player, playType=synergy_play_type, offenseOrDefense=offense_or_defense)
         data_df = j2pSynergy(url, 0)
         data_df.to_csv(file_path)
-
+        return data_df
+    else : return pd.read_csv(file_path)
 
 # endregion
 

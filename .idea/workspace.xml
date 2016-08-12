@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e58a3ce-0eec-41ff-bb05-b6d014dada65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/synergy_outliers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/synergy_similarity.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/data/Player_data/Synergy/Cut_defensive_2015-16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/data/Player_data/Synergy/Handoff_defensive_2015-16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/data/Player_data/Synergy/Isolation_defensive_2015-16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/data/Player_data/Synergy/Misc_defensive_2015-16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/data/Player_data/Synergy/OffRebound_defensive_2015-16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/data/Player_data/Synergy/OffScreen_defensive_2015-16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/data/Player_data/Synergy/PRBallHandler_defensive_2015-16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/data/Player_data/Synergy/PRRollman_defensive_2015-16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/data/Player_data/Synergy/Postup_defensive_2015-16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/data/Player_data/Synergy/Spotup_defensive_2015-16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/data/Player_data/Synergy/Transition_defensive_2015-16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/synergy_outliers.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_getters.py" afterPath="$PROJECT_DIR$/data_getters.py" />
     </list>
@@ -18,14 +30,15 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/NBA-Python$hiking_strava.coverage" NAME="hiking_strava Coverage Results" MODIFIED="1464624844021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomScripts" />
+    <SUITE FILE_PATH="coverage/NBA-Python$synergy_similarity.coverage" NAME="synergy_similarity Coverage Results" MODIFIED="1470595196820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/NBA-Python$scoring_consistency.coverage" NAME="scoring_consistency Coverage Results" MODIFIED="1468859875539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomScripts" />
+    <SUITE FILE_PATH="coverage/NBA-Python$scoring_consistency__1_.coverage" NAME="scoring_consistency (1) Coverage Results" MODIFIED="1469057249773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$dataGetters.coverage" NAME="dataGetters Coverage Results" MODIFIED="1467076263182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomScripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$Pace.coverage" NAME="Pace Coverage Results" MODIFIED="1467039727504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomScripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$strava.coverage" NAME="strava Coverage Results" MODIFIED="1464201928637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomScripts" />
-    <SUITE FILE_PATH="coverage/NBA-Python$scoring_consistency.coverage" NAME="scoring_consistency Coverage Results" MODIFIED="1468859875539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomScripts" />
-    <SUITE FILE_PATH="coverage/NBA-Python$synergy_outliers.coverage" NAME="synergy_outliers Coverage Results" MODIFIED="1469741116371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/NBA-Python$synergy_outliers.coverage" NAME="synergy_outliers Coverage Results" MODIFIED="1469804179796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$offensive_v_defensive_pace.coverage" NAME="offensive_v_defensive_pace Coverage Results" MODIFIED="1469058910876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$pels_passing.coverage" NAME="pels_passing Coverage Results" MODIFIED="1464707856659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NBA-Python$scoring_consistency__1_.coverage" NAME="scoring_consistency (1) Coverage Results" MODIFIED="1469057249773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$playoffScorers.coverage" NAME="playoffScorers Coverage Results" MODIFIED="1466174565016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomScripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$data_getters.coverage" NAME="data_getters Coverage Results" MODIFIED="1469740649823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NBA-Python$TrueShooting.coverage" NAME="TrueShooting Coverage Results" MODIFIED="1467314965098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/randomScripts" />
@@ -42,31 +55,39 @@
       <file leaf-file-name="data_getters.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_getters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4730">
-              <caret line="264" column="11" selection-start-line="264" selection-start-column="11" selection-end-line="264" selection-end-column="11" />
+            <state relative-caret-position="472">
+              <caret line="226" column="17" selection-start-line="226" selection-start-column="17" selection-end-line="226" selection-end-column="17" />
               <folding>
                 <element signature="e#88#107#0" expanded="true" />
                 <element signature="e#696#917#0" expanded="false" />
                 <element signature="e#946#1295#0" expanded="false" />
-                <element signature="e#2455#2474#0" expanded="false" />
-                <element signature="e#2564#4078#0" expanded="false" />
-                <element signature="e#4113#4499#0" expanded="false" />
-                <element signature="e#4512#4540#0" expanded="false" />
-                <element signature="e#6075#6092#0" expanded="false" />
-                <element signature="e#10035#10053#0" expanded="false" />
+                <element signature="e#4132#4518#0" expanded="false" />
+                <element signature="e#4531#4559#0" expanded="false" />
+                <element signature="e#6094#6111#0" expanded="false" />
+                <element signature="e#10122#10140#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="synergy_outliers.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/synergy_outliers.py">
+      <file leaf-file-name="synergy_similarity.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/synergy_similarity.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+            <state relative-caret-position="515">
+              <caret line="46" column="73" selection-start-line="46" selection-start-column="73" selection-end-line="46" selection-end-column="73" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cut_offensive_2015-16.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/Team_data/Synergy/Cut_offensive_2015-16.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="148" selection-start-line="0" selection-start-column="148" selection-end-line="0" selection-end-column="148" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -99,8 +120,10 @@
         <option value="$PROJECT_DIR$/randomScripts/scoring_consistency.py" />
         <option value="$PROJECT_DIR$/scripts/scoring_consistency.py" />
         <option value="$PROJECT_DIR$/scripts/offensive_v_defensive_pace.py" />
-        <option value="$PROJECT_DIR$/data_getters.py" />
         <option value="$PROJECT_DIR$/scripts/synergy_outliers.py" />
+        <option value="$PROJECT_DIR$/scripts/synergy_similarity" />
+        <option value="$PROJECT_DIR$/data_getters.py" />
+        <option value="$PROJECT_DIR$/scripts/synergy_similarity.py" />
       </list>
     </option>
   </component>
@@ -111,10 +134,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="9584" />
-    <option name="y" value="1142" />
-    <option name="width" value="4832" />
-    <option name="height" value="2632" />
+    <option name="x" value="-16" />
+    <option name="y" value="-16" />
+    <option name="width" value="3872" />
+    <option name="height" value="2092" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -141,6 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -202,7 +226,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Team_data" />
+              <option name="myItemId" value="player_data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -220,17 +244,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Team_data" />
+              <option name="myItemId" value="player_data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Synergy" />
+              <option name="myItemId" value="synergy_similarity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,7 +279,7 @@
       <recent name="C:\git\NBA-Python\randomScripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.synergy_outliers">
+  <component name="RunManager" selected="Python.synergy_similarity">
     <configuration default="false" name="data_getters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,6 +312,24 @@
       <module name="NBA-Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/synergy_outliers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="synergy_similarity" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NBA-Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/synergy_similarity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -501,14 +542,16 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.data_getters" />
       <item index="1" class="java.lang.String" itemvalue="Python.synergy_outliers" />
+      <item index="2" class="java.lang.String" itemvalue="Python.synergy_similarity" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.synergy_outliers" />
-        <item index="1" class="java.lang.String" itemvalue="Python.data_getters" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.synergy_similarity" />
+        <item index="1" class="java.lang.String" itemvalue="Python.synergy_outliers" />
+        <item index="2" class="java.lang.String" itemvalue="Python.data_getters" />
       </list>
     </recent_temporary>
   </component>
@@ -529,20 +572,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9584" y="1142" width="4832" height="2632" extended-state="6" />
-    <editor active="false" />
+    <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24416667" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2513021" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34228188" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="18" y="116" width="3803" height="1828" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3421909" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="18" y="116" width="3803" height="1828" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39848992" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39804772" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -572,12 +615,12 @@
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/scripts/synergy_outliers.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/scripts/synergy_similarity.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="15" />
+      <option name="time" value="20" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -592,12 +635,10 @@
             <element signature="e#88#107#0" expanded="true" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#2455#2474#0" expanded="false" />
-            <element signature="e#2564#4078#0" expanded="false" />
-            <element signature="e#4113#4499#0" expanded="false" />
-            <element signature="e#4512#4540#0" expanded="false" />
-            <element signature="e#6075#6092#0" expanded="false" />
-            <element signature="e#10035#10053#0" expanded="false" />
+            <element signature="e#4132#4518#0" expanded="false" />
+            <element signature="e#4531#4559#0" expanded="false" />
+            <element signature="e#6094#6111#0" expanded="false" />
+            <element signature="e#10122#10140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -619,12 +660,10 @@
             <element signature="e#88#107#0" expanded="true" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#2455#2474#0" expanded="false" />
-            <element signature="e#2564#4078#0" expanded="false" />
-            <element signature="e#4113#4499#0" expanded="false" />
-            <element signature="e#4512#4540#0" expanded="false" />
-            <element signature="e#6075#6092#0" expanded="false" />
-            <element signature="e#10035#10053#0" expanded="false" />
+            <element signature="e#4132#4518#0" expanded="false" />
+            <element signature="e#4531#4559#0" expanded="false" />
+            <element signature="e#6094#6111#0" expanded="false" />
+            <element signature="e#10122#10140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -646,39 +685,10 @@
             <element signature="e#88#107#0" expanded="true" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#2455#2474#0" expanded="false" />
-            <element signature="e#2564#4078#0" expanded="false" />
-            <element signature="e#4113#4499#0" expanded="false" />
-            <element signature="e#4512#4540#0" expanded="false" />
-            <element signature="e#6075#6092#0" expanded="false" />
-            <element signature="e#10035#10053#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/scoring_consistency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomScripts/Passing Chart.py" />
-    <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py" />
-    <entry file="file://$PROJECT_DIR$/data_getters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2537">
-          <caret line="158" column="11" selection-start-line="158" selection-start-column="11" selection-end-line="158" selection-end-column="11" />
-          <folding>
-            <element signature="e#88#107#0" expanded="true" />
-            <element signature="e#696#917#0" expanded="false" />
-            <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#2455#2474#0" expanded="false" />
-            <element signature="e#2564#4078#0" expanded="false" />
-            <element signature="e#4113#4499#0" expanded="false" />
-            <element signature="e#4512#4540#0" expanded="false" />
-            <element signature="e#6075#6092#0" expanded="false" />
-            <element signature="e#10035#10053#0" expanded="false" />
+            <element signature="e#4132#4518#0" expanded="false" />
+            <element signature="e#4531#4559#0" expanded="false" />
+            <element signature="e#6094#6111#0" expanded="false" />
+            <element signature="e#10122#10140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -698,12 +708,10 @@
             <element signature="e#88#107#0" expanded="true" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#2455#2474#0" expanded="false" />
-            <element signature="e#2564#4078#0" expanded="false" />
-            <element signature="e#4113#4499#0" expanded="false" />
-            <element signature="e#4512#4540#0" expanded="false" />
-            <element signature="e#6075#6092#0" expanded="false" />
-            <element signature="e#10035#10053#0" expanded="false" />
+            <element signature="e#4132#4518#0" expanded="false" />
+            <element signature="e#4531#4559#0" expanded="false" />
+            <element signature="e#6094#6111#0" expanded="false" />
+            <element signature="e#10122#10140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -718,12 +726,10 @@
             <element signature="e#88#107#0" expanded="true" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#2455#2474#0" expanded="false" />
-            <element signature="e#2564#4078#0" expanded="false" />
-            <element signature="e#4113#4499#0" expanded="false" />
-            <element signature="e#4512#4540#0" expanded="false" />
-            <element signature="e#6075#6092#0" expanded="false" />
-            <element signature="e#10035#10053#0" expanded="false" />
+            <element signature="e#4132#4518#0" expanded="false" />
+            <element signature="e#4531#4559#0" expanded="false" />
+            <element signature="e#6094#6111#0" expanded="false" />
+            <element signature="e#10122#10140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -736,12 +742,10 @@
             <element signature="e#88#107#0" expanded="true" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#2455#2474#0" expanded="false" />
-            <element signature="e#2564#4078#0" expanded="false" />
-            <element signature="e#4113#4499#0" expanded="false" />
-            <element signature="e#4512#4540#0" expanded="false" />
-            <element signature="e#6075#6092#0" expanded="false" />
-            <element signature="e#10035#10053#0" expanded="false" />
+            <element signature="e#4132#4518#0" expanded="false" />
+            <element signature="e#4531#4559#0" expanded="false" />
+            <element signature="e#6094#6111#0" expanded="false" />
+            <element signature="e#10122#10140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -754,12 +758,10 @@
             <element signature="e#88#107#0" expanded="true" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#2455#2474#0" expanded="false" />
-            <element signature="e#2564#4078#0" expanded="false" />
-            <element signature="e#4113#4499#0" expanded="false" />
-            <element signature="e#4512#4540#0" expanded="false" />
-            <element signature="e#6075#6092#0" expanded="false" />
-            <element signature="e#10035#10053#0" expanded="false" />
+            <element signature="e#4132#4518#0" expanded="false" />
+            <element signature="e#4531#4559#0" expanded="false" />
+            <element signature="e#6094#6111#0" expanded="false" />
+            <element signature="e#10122#10140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -772,12 +774,10 @@
             <element signature="e#88#107#0" expanded="true" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#2455#2474#0" expanded="false" />
-            <element signature="e#2564#4078#0" expanded="false" />
-            <element signature="e#4113#4499#0" expanded="false" />
-            <element signature="e#4512#4540#0" expanded="false" />
-            <element signature="e#6075#6092#0" expanded="false" />
-            <element signature="e#10035#10053#0" expanded="false" />
+            <element signature="e#4132#4518#0" expanded="false" />
+            <element signature="e#4531#4559#0" expanded="false" />
+            <element signature="e#6094#6111#0" expanded="false" />
+            <element signature="e#10122#10140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -790,12 +790,10 @@
             <element signature="e#88#107#0" expanded="true" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#2455#2474#0" expanded="false" />
-            <element signature="e#2564#4078#0" expanded="false" />
-            <element signature="e#4113#4499#0" expanded="false" />
-            <element signature="e#4512#4540#0" expanded="false" />
-            <element signature="e#6075#6092#0" expanded="false" />
-            <element signature="e#10035#10053#0" expanded="false" />
+            <element signature="e#4132#4518#0" expanded="false" />
+            <element signature="e#4531#4559#0" expanded="false" />
+            <element signature="e#6094#6111#0" expanded="false" />
+            <element signature="e#10122#10140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -808,12 +806,10 @@
             <element signature="e#88#107#0" expanded="true" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#2455#2474#0" expanded="false" />
-            <element signature="e#2564#4078#0" expanded="false" />
-            <element signature="e#4113#4499#0" expanded="false" />
-            <element signature="e#4512#4540#0" expanded="false" />
-            <element signature="e#6075#6092#0" expanded="false" />
-            <element signature="e#10035#10053#0" expanded="false" />
+            <element signature="e#4132#4518#0" expanded="false" />
+            <element signature="e#4531#4559#0" expanded="false" />
+            <element signature="e#6094#6111#0" expanded="false" />
+            <element signature="e#10122#10140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -829,12 +825,10 @@
             <element signature="e#88#107#0" expanded="true" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#2455#2474#0" expanded="false" />
-            <element signature="e#2564#4078#0" expanded="false" />
-            <element signature="e#4113#4499#0" expanded="false" />
-            <element signature="e#4512#4540#0" expanded="false" />
-            <element signature="e#6075#6092#0" expanded="false" />
-            <element signature="e#10035#10053#0" expanded="false" />
+            <element signature="e#4132#4518#0" expanded="false" />
+            <element signature="e#4531#4559#0" expanded="false" />
+            <element signature="e#6094#6111#0" expanded="false" />
+            <element signature="e#10122#10140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -849,12 +843,10 @@
             <element signature="e#88#107#0" expanded="true" />
             <element signature="e#696#917#0" expanded="false" />
             <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#2455#2474#0" expanded="false" />
-            <element signature="e#2564#4078#0" expanded="false" />
-            <element signature="e#4113#4499#0" expanded="false" />
-            <element signature="e#4512#4540#0" expanded="false" />
-            <element signature="e#6075#6092#0" expanded="false" />
-            <element signature="e#10035#10053#0" expanded="false" />
+            <element signature="e#4132#4518#0" expanded="false" />
+            <element signature="e#4531#4559#0" expanded="false" />
+            <element signature="e#6094#6111#0" expanded="false" />
+            <element signature="e#10122#10140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -869,13 +861,6 @@
     <entry file="file://$PROJECT_DIR$/randomScripts/Passing Chart.py" />
     <entry file="file://$PROJECT_DIR$/randomScripts/Scoring_Efficiency.py" />
     <entry file="file://$PROJECT_DIR$/randomScripts/__init__.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="937" column="0" selection-start-line="937" selection-start-column="0" selection-end-line="937" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Continuum/Anaconda2/Lib/site-packages/pandas/io/common.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Continuum/Anaconda2/Lib/site-packages/pandas/core/indexing.py" />
     <entry file="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages/pandas/core/internals.py" />
@@ -900,28 +885,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_getters.py">
+    <entry file="file://$PROJECT_DIR$/data/Team_data/Synergy/Consolidated_offensive_2015-16.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4730">
-          <caret line="264" column="11" selection-start-line="264" selection-start-column="11" selection-end-line="264" selection-end-column="11" />
-          <folding>
-            <element signature="e#88#107#0" expanded="true" />
-            <element signature="e#696#917#0" expanded="false" />
-            <element signature="e#946#1295#0" expanded="false" />
-            <element signature="e#2455#2474#0" expanded="false" />
-            <element signature="e#2564#4078#0" expanded="false" />
-            <element signature="e#4113#4499#0" expanded="false" />
-            <element signature="e#4512#4540#0" expanded="false" />
-            <element signature="e#6075#6092#0" expanded="false" />
-            <element signature="e#10035#10053#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/synergy_outliers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+        <state relative-caret-position="1074">
+          <caret line="79" column="22" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="949" column="42" selection-start-line="949" selection-start-column="42" selection-end-line="949" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_monkey_qt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Team_data/Synergy/Cut_offensive_2015-16.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="148" selection-start-line="0" selection-start-column="148" selection-end-line="0" selection-end-column="148" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_getters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="226" column="17" selection-start-line="226" selection-start-column="17" selection-end-line="226" selection-end-column="17" />
+          <folding>
+            <element signature="e#88#107#0" expanded="true" />
+            <element signature="e#696#917#0" expanded="false" />
+            <element signature="e#946#1295#0" expanded="false" />
+            <element signature="e#4132#4518#0" expanded="false" />
+            <element signature="e#4531#4559#0" expanded="false" />
+            <element signature="e#6094#6111#0" expanded="false" />
+            <element signature="e#10122#10140#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/synergy_similarity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="46" column="73" selection-start-line="46" selection-start-column="73" selection-end-line="46" selection-end-column="73" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
