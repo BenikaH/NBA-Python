@@ -9,7 +9,6 @@ import pandas as pd
 import json
 import urllib2
 import os.path
-from enum import Enum
 
 
 # region Utils
@@ -345,8 +344,12 @@ def get_player_passing_dashboard(player_id, season_year):
               'VsDivision='
         url = url.format(playerId=player_id, seasonYear=season_year)
         data_df = j2p(url, 1)
-        data_df.to_csv(file_path)
-        return data_df
+        if data_df is not None:
+            data_df.to_csv(file_path)
+            return data_df
+        else:
+            print('FILE IS NONE')
+            return None
     else:
         print('FILE FOUND, READING FROM FILE')
         return pd.read_csv(file_path)
