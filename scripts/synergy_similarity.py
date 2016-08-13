@@ -2,7 +2,7 @@ import pandas as pd
 import os.path
 from data_getters import get_synergy_stats
 from data_getters import get_stat_csv
-from data_getters import synergy_play_types
+from data_getters import SynergyPlayTypes
 
 
 def get_data(overwrite):
@@ -13,7 +13,7 @@ def get_data(overwrite):
     if (not os.path.isfile(file_path)) or overwrite:
         data_df = get_stat_csv("player", "Base", "Totals", "2015-16", "Regular+Season")
         data_df = data_df[["PLAYER_ID", "PLAYER_NAME"]]
-        for index, stype in enumerate(synergy_play_types):
+        for index, stype in enumerate(SynergyPlayTypes):
             stype_df = get_synergy_stats("player", stype, "offensive")
             stype_df = stype_df[["PlayerIDSID", "Time"]]
             stype_df.columns = ["PLAYER_ID", stype + "_Frequency"]

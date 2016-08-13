@@ -9,6 +9,7 @@ import pandas as pd
 import json
 import urllib2
 import os.path
+from enum import Enum
 
 
 # region Utils
@@ -79,18 +80,68 @@ def get_year_string(year):
 
 # region Enums
 
-# perModes = ["Totals", "PerPossession", "PerPlay", "PerMinute"]
-perModes = ["Totals", "PerPossession"]
-# seasonTypes = ["Pre+Season", "Regular+Season", "Playoffs", "All+Star"]
-seasonTypes = ["Regular+Season", "Playoffs"]
-# measureTypes = ["Base", "Advanced", "Misc", "Scoring", "Usage", "Opponent", "Defense"]
-measureTypes = ["Base", "Advanced"]
+class PlayerOrTeam(object):
+    P = "player"
+    T = "team"
+
+
+class PerModes(object):
+    TOTAL = "Totals"
+    POSS = "PerPossession"
+    PLAY = "PerPlay"
+    MINUTE = "PerMinute"
+
+
+class SeasonTypes(object):
+    PRE = "Pre+Season"
+    REG = "Regular+Season"
+    PLAYOFF = "Playoffs"
+    ALLSTAR = "All+Star"
+
+
+class MeasureTypes(object):
+    BASE = "Base"
+    ADV = "Advanced"
+    MISC = "Misc"
+    SCORING = "Scoring"
+    USAGE = "Usage"
+    OPP = "Opponent"
+    DEF = "Defense"
+
+
+class SportsVUTypes(object):
+    CATCH = "CatchShoot"
+    DEF = "Defense"
+    DRIVE = "Drives"
+    PASS = "Passing"
+    POSS = "Possessions"
+    REB = "Rebounding"
+    PULLUP = "PullUpShot"
+    ELBOW = "ElbowTouch"
+    POST = "PostTouch"
+    PAINT = "PaintTouch"
+
+
+class SynergyPlayTypes(object):
+    TRANS = "Transition"
+    ISO = "Isolation"
+    PRB = "PRBallHandler"
+    PRR = "PRRollman"
+    POST = "Postup"
+    SPOTUP = "Spotup"
+    HANDOFF = "Handoff"
+    CUT = "Cut"
+    SCREEN = "OffScreen"
+    REB = "OffRebound"
+    MISC = "Misc"
+
 years = range(1996, 2015)
 
 
 # endregion
 
 # region Base Stats
+
 
 def get_stat_csv(team_or_player, measure_type, per_mode, season_year, season_type):
     if not os.path.exists('../data/' + team_or_player + '_data/'):
@@ -123,9 +174,9 @@ def get_stat_csv(team_or_player, measure_type, per_mode, season_year, season_typ
 def get_all_player_stats():
     for year in years:
         year_string = get_year_string(year)
-        for measure_type in measureTypes:
-            for season_type in seasonTypes:
-                for per_mode in perModes:
+        for measure_type in MeasureTypes:
+            for season_type in SeasonTypes:
+                for per_mode in PerModes:
                     print(year_string + ": " + measure_type + ", " + season_type + ", " + per_mode)
                     get_stat_csv("player", measure_type, per_mode, year_string, season_type)
 
@@ -153,9 +204,9 @@ def get_shot_location_stats(player_or_team, measure_type, per_mode, season_year,
 def get_all_player_shot_location_stats():
     for year in years:
         year_string = get_year_string(year)
-        for measure_type in measureTypes:
-            for season_type in seasonTypes:
-                for per_mode in perModes:
+        for measure_type in MeasureTypes:
+            for season_type in SeasonTypes:
+                for per_mode in PerModes:
                     print(year_string + ": " + measure_type + ", " + season_type + ", " + per_mode)
                     get_shot_location_stats("player", measure_type, per_mode, year_string, season_type)
 
@@ -163,10 +214,6 @@ def get_all_player_shot_location_stats():
 # endregion
 
 # region SportsVU
-
-sports_vu_types = ["CatchShoot", "Defense", "Drives", "Passing", "Possessions", "Rebounding", "PullUpShot",
-                   "ElbowTouch", "PostTouch", "PaintTouch"]
-
 
 def get_sports_vu_stats(team_or_player, vu_type, per_mode, season_year, season_type, opponent_id):
     if not os.path.exists('../data/' + team_or_player + '_data/'):
@@ -202,9 +249,9 @@ def get_sports_vu_stats(team_or_player, vu_type, per_mode, season_year, season_t
 def get_all_sports_vu_stats():
     for year in range(2013, 2015):
         year_string = get_year_string(year)
-        for vu_type in sports_vu_types:
-            for season_type in seasonTypes:
-                for per_mode in perModes:
+        for vu_type in SportsVUTypes:
+            for season_type in SeasonTypes:
+                for per_mode in PerModes:
                     print(year_string + ": " + vu_type + ", " + season_type + ", " + per_mode)
                     get_sports_vu_stats("player", vu_type, per_mode, year_string, season_type)
 
@@ -212,10 +259,6 @@ def get_all_sports_vu_stats():
 # endregion
 
 # region Synergy
-
-synergy_play_types = ["Transition", "Isolation", "PRBallHandler", "PRRollman", "Postup", "Spotup", "Handoff", "Cut",
-                      "OffScreen", "OffRebound", "Misc"]
-
 
 def get_synergy_stats(team_or_player, synergy_play_type, offense_or_defense):
     if not os.path.exists('../data/' + team_or_player.title() + '_data/'):
@@ -234,7 +277,9 @@ def get_synergy_stats(team_or_player, synergy_play_type, offense_or_defense):
         data_df = j2pSynergy(url, 0)
         data_df.to_csv(file_path)
         return data_df
-    else : return pd.read_csv(file_path)
+    else:
+        return pd.read_csv(file_path)
+
 
 # endregion
 
@@ -263,5 +308,47 @@ def get_player_game_logs(season_year, season_type, player_name, player_id):
         print("ALREADY HAVE " + player_name + "'s Game Logs for the " + season_year + " " + season_type + " ON FILE!")
         return pd.read_csv(file_path)
 
+
+# endregion
+
+
+# region Passing
+
+def get_player_passing_dashboard(player_id, season_year):
+    if not os.path.exists('../data/player_data/'):
+        os.makedirs('../data/player_data')
+        print('MAKING DIRECTORY : ' + './data/player_data')
+    if not os.path.exists('../data/player_data/passing'):
+        os.makedirs('../data/player_data/passing')
+        print('MAKING DIRECTORY : ' + './data/player_data/passing')
+    file_path = '../data/player_data/passing/' + str(player_id) + '_' + season_year + '.csv'
+    if not os.path.isfile(file_path):
+        print('FILE NOT FOUND, GETTING DATA FROM WEB API')
+        url = 'http://stats.nba.com/stats/playerdashptpass?' \
+              'DateFrom=&' \
+              'DateTo=&' \
+              'GameSegment=&' \
+              'LastNGames=0&' \
+              'LeagueID=00&' \
+              'Location=&' \
+              'Month=0&' \
+              'OpponentTeamID=0&' \
+              'Outcome=&' \
+              'PerMode=Totals&' \
+              'Period=0&' \
+              'PlayerID={playerId}&' \
+              'Season={seasonYear}&' \
+              'SeasonSegment=&' \
+              'SeasonType=Regular+Season&' \
+              'TeamID=0&' \
+              'VsConference=&' \
+              'VsDivision='
+        url = url.format(playerId=player_id, seasonYear=season_year)
+        data_df = j2p(url, 1)
+        data_df.to_csv(file_path)
+        return data_df
+    else:
+        print('FILE FOUND, READING FROM FILE')
+        return pd.read_csv(file_path)
 
 # endregion
