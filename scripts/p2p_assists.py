@@ -8,8 +8,6 @@ from plotly.tools import FigureFactory as FF
 from data_getters import PlayerOrTeam, PerModes, SeasonTypes, MeasureTypes
 from data_getters import get_stat_csv, get_player_passing_dashboard, get_year_string
 
-py.sign_in('fenerty64', '5l3888x5bv')
-
 
 def build_csv(overwrite):
     if not os.path.exists('../data/p2p_assists/'):
