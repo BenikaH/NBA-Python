@@ -1,4 +1,4 @@
-from data_getters import get_stat_csv, get_sports_vu_stats
+from data_getters import get_general_stats, get_sports_vu_stats
 import pandas as pd
 import os.path
 import plotly.graph_objs as go
@@ -26,7 +26,7 @@ def get_data(overwrite_file):
                 columns=['GP', 'YEAR', 'TEAM_ID', 'TEAM_NAME', 'OFF_TOP', 'DEF_TOP', 'ORTG', 'DRTG', 'PACE'])
             # get advanced team data for each year for ORTG, DRTG, and PACE
             print('GETTING ADVANCED TEAM DATA')
-            year_adv_df = get_stat_csv("Team", "Advanced", "Totals", season_year, "Regular+Season")
+            year_adv_df = get_general_stats("Team", "Advanced", "Totals", season_year, "Regular+Season")
             # get sportsVU possession data for each year for Offensive Time of Possession
             print('GETTING SPORTSVU POSSESSION DATA')
             year_svu_df = get_sports_vu_stats("Team", "Possessions", "Totals", season_year, "Regular+Season", '0')

@@ -6,7 +6,7 @@ import plotly.plotly as py
 from plotly.tools import FigureFactory as FF
 
 from data_getters import PlayerOrTeam, PerModes, SeasonTypes, MeasureTypes
-from data_getters import get_stat_csv, get_player_passing_dashboard, get_year_string
+from data_getters import get_general_stats, get_player_passing_dashboard, get_year_string
 
 py.sign_in('fenerty64', '5l3888x5bv')
 
@@ -21,8 +21,8 @@ def build_csv(overwrite):
             columns=['Year', 'Receiver_Id', 'Receiver_Name', 'Passer_Id', 'Passer_Name', 'Frequency', 'Pass',
                      'Assists'])
         for year in range(2013, 2016):
-            base_df = get_stat_csv(PlayerOrTeam.P, MeasureTypes.BASE, PerModes.TOTAL, get_year_string(year),
-                                   SeasonTypes.REG)
+            base_df = get_general_stats(PlayerOrTeam.P, MeasureTypes.BASE, PerModes.TOTAL, get_year_string(year),
+                                        SeasonTypes.REG)
             for index, receiver in base_df.iterrows():
                 print(receiver.PLAYER_NAME)
                 player_passing_df = get_player_passing_dashboard(receiver.PLAYER_ID, get_year_string(year))

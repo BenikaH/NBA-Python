@@ -13,7 +13,8 @@ import os.path
 
 # region Utils
 
-def j2p(url, index):
+
+def json_to_pandas(url, index):
     opener = urllib2.build_opener()
     opener.addheaders = [('User-agent', 'Mozilla/5.0')]
     try:
@@ -29,27 +30,7 @@ def j2p(url, index):
         return pd.DataFrame(data_dict)
 
 
-def getJson(url, index):
-    opener = urllib2.build_opener()
-    opener.addheaders = [('User-agent', 'Mozilla/5.0')]
-    response = opener.open(url)
-    data = json.loads(response.read())
-    data = data['resultSets'][index]['rowSet']
-    return data
-
-
-def j2p2(url, index):
-    opener = urllib2.build_opener()
-    opener.addheaders = [('User-agent', 'Mozilla/5.0')]
-    response = opener.open(url)
-    data = json.loads(response.read())
-    headers = data['resultSets'][index]['headers']
-    rows = data['resultSets'][index]['rowSet']
-    data_dict = [dict(zip(headers, row)) for row in rows]
-    return pd.DataFrame(data_dict)
-
-
-def j2pSynergy(url, index):
+def json_to_pandas_for_syngery(url, index):
     opener = urllib2.build_opener()
     opener.addheaders = [('User-agent', 'Mozilla/5.0')]
     try:
@@ -78,6 +59,7 @@ def get_year_string(year):
 # endregion
 
 # region Enums
+
 
 class PlayerOrTeam(object):
     P = "player"
@@ -134,7 +116,14 @@ class SynergyPlayTypes(object):
     REB = "OffRebound"
     MISC = "Misc"
 
-years = range(1996, 2015)
+
+class DistanceOrZone(object):
+    D = "By+Zone"
+    Z = "5ft+Range"
+
+
+years = range(1996, 2016)
+sports_vu_years = range(2013, 2016)
 
 
 # endregion
@@ -142,42 +131,84 @@ years = range(1996, 2015)
 # region Base Stats
 
 
-def get_stat_csv(team_or_player, measure_type, per_mode, season_year, season_type):
-    if not os.path.exists('../data/' + team_or_player + '_data/'):
-        os.makedirs('../data/' + team_or_player + '_data')
-        print('MAKING DIRECTORY : ' + '../data/' + team_or_player + '_data')
-    file_path = '../data/' + team_or_player + '_data/' + season_year + '_' + season_type + '_' + measure_type + '_' + per_mode + '.csv'
+def get_general_stats(player_or_team, measure_type, per_mode, season_year, season_type):
+    print(
+        'Getting General ' + player_or_team + ' ' + measure_type + ' ' + per_mode + ' stats for the ' + get_year_string(
+            season_year) + ' ' + season_type)
+
+    if not os.path.exists('../data/' + player_or_team + '_data/'):
+        os.makedirs('../data/' + player_or_team + '_data')
+        print('MAKING DIRECTORY : ' + '../data/' + player_or_team + '_data')
+
+    file_path = '../data/' + player_or_team + '_data/' + season_year + '_' + season_type + '_' + measure_type + '_' \
+                + per_mode + '.csv'
+
     if not os.path.isfile(file_path):
         print('GET DATA FROM WEB API')
-        url = "http://stats.nba.com/stats/leaguedash{teamOrPlayer}stats?College=&Conference=&Country=&DateFrom=" \
-              "&DateTo=&Division=&DraftPick=&DraftYear=&GameScope=&GameSegment=&Height=&LastNGames=0" \
-              "&LeagueID=00&Location=&MeasureType={measureType}&Month=0&OpponentTeamID=0&Outcome=&PORound=0" \
-              "&PaceAdjust=N&PerMode={perMode}&Period=0&PlayerExperience=&PlayerPosition=&PlusMinus=N" \
-              "&Rank=N&Season={seasonYear}&SeasonSegment=&SeasonType={seasonType}&ShotClockRange=&StarterBench=" \
-              "&TeamID=0&VsConference=&VsDivision=&Weight="
+
+        url = "http://stats.nba.com/stats/leaguedash{teamOrPlayer}stats?" \
+              "College=&" \
+              "Conference=&" \
+              "Country=&" \
+              "DateFrom=&" \
+              "DateTo=&" \
+              "Division=&" \
+              "DraftPick=&" \
+              "DraftYear=&" \
+              "GameScope=&" \
+              "GameSegment=&" \
+              "Height=&" \
+              "LastNGames=0&" \
+              "LeagueID=00&" \
+              "Location=&" \
+              "MeasureType={measureType}&" \
+              "Month=0&" \
+              "OpponentTeamID=0&" \
+              "Outcome=&" \
+              "PORound=0" \
+              "&PaceAdjust=N&" \
+              "PerMode={perMode}&" \
+              "Period=0&" \
+              "PlayerExperience=&" \
+              "PlayerPosition=&" \
+              "PlusMinus=N" \
+              "&Rank=N&" \
+              "Season={seasonYear}&" \
+              "SeasonSegment=&" \
+              "SeasonType={seasonType}&" \
+              "ShotClockRange=&" \
+              "StarterBench=" \
+              "&TeamID=0&" \
+              "VsConference=&" \
+              "VsDivision=&" \
+              "Weight="
         url = url.format(perMode=per_mode, seasonYear=season_year, seasonType=season_type, measureType=measure_type,
-                         teamOrPlayer=team_or_player)
-        print(url)
-        df = j2p(url, 0)
+                         teamOrPlayer=player_or_team)
+
+        df = json_to_pandas(url, 0)
+
         if df is not None:
             df.to_csv(file_path)
             print('GOT DATA FROM WEB API, WRITING TO FILE')
             return df
+
         else:
             print('COULD NOT GET DATA FROM WEB API')
+            return None
+
     else:
         print('GETTING DATA FROM FILE')
         return pd.read_csv(file_path)
 
 
-def get_all_player_stats():
+def get_all_general_stats():
     for year in years:
         year_string = get_year_string(year)
         for measure_type in MeasureTypes:
             for season_type in SeasonTypes:
                 for per_mode in PerModes:
-                    print(year_string + ": " + measure_type + ", " + season_type + ", " + per_mode)
-                    get_stat_csv("player", measure_type, per_mode, year_string, season_type)
+                    get_general_stats(PlayerOrTeam.P, measure_type, per_mode, year_string, season_type)
+                    get_general_stats(PlayerOrTeam.T, measure_type, per_mode, year_string, season_type)
 
 
 # endregion
@@ -185,19 +216,72 @@ def get_all_player_stats():
 # region Shot Location Stats
 
 
-def get_shot_location_stats(player_or_team, measure_type, per_mode, season_year, season_type):
-    url = "http://stats.nba.com/stats/leaguedash{playerOrTeam}shotlocations?College=&Conference=&Country=&DateFrom=" \
-          "&DateTo=&DistanceRange=5ft+Range&Division=&DraftPick=&DraftYear=&GameScope=&GameSegment=&Height=" \
-          "&LastNGames=0&LeagueID=00&Location=&MeasureType={measureType}&Month=0&OpponentTeamID=0&Outcome=&PORound=0" \
-          "&PaceAdjust=N&PerMode={perMode}&Period=0&PlayerExperience=&PlayerPosition=&PlusMinus=N&Rank=N" \
-          "&Season={seasonYear}&SeasonSegment=&SeasonType={seasonType}&ShotClockRange=&StarterBench=&TeamID=0" \
-          "&VsConference=&VsDivision=&Weight="
-    url = url.format(playerOrTeam=player_or_team, measureType=measure_type, perMode=per_mode, seasonYear=season_year,
-                     seasonType=season_type)
-    df = j2p(url, 0)
-    if df is not None:
-        df.to_csv("data\\" + player_or_team + "\\" + measure_type + "\\" + season_type + "\\" + per_mode + "\\" +
-                  season_year + ".csv")
+def get_shot_location_stats(player_or_team, per_mode, season_year, season_type):
+    print(
+        'Getting Shot Location ' + player_or_team + ' ' + per_mode + ' shot location stats for the '
+        + get_year_string(season_year) + ' ' + season_type)
+
+    if not os.path.exists('../data/' + player_or_team + '_data/'):
+        os.makedirs('../data/' + player_or_team + '_data')
+        print('MAKING DIRECTORY : ' + '../data/' + player_or_team + '_data')
+
+    file_path = '../data/' + player_or_team + '_data/' + season_year + '_' + season_type + '_shot_location_' \
+                + per_mode + '.csv'
+
+    if not os.path.isfile(file_path):
+        print('GETTING DATA FROM WEB API')
+        url = "http://stats.nba.com/stats/leaguedash{playerOrTeam}shotlocations?" \
+              "College=&" \
+              "Conference=&" \
+              "Country=&" \
+              "DateFrom=&" \
+              "DateTo=&" \
+              "DistanceRange=5ft+Range&" \
+              "Division=&" \
+              "DraftPick=&" \
+              "DraftYear=&" \
+              "GameScope=&" \
+              "GameSegment=&" \
+              "Height=" \
+              "&LastNGames=0&" \
+              "LeagueID=00&" \
+              "Location=&" \
+              "MeasureType={measureType}&" \
+              "Month=0&" \
+              "OpponentTeamID=0&" \
+              "Outcome=&" \
+              "PORound=0&" \
+              "PaceAdjust=N&" \
+              "PerMode={perMode}&" \
+              "Period=0&" \
+              "PlayerExperience=&" \
+              "PlayerPosition=&" \
+              "PlusMinus=N&" \
+              "Rank=N&" \
+              "Season={seasonYear}&" \
+              "SeasonSegment=&" \
+              "SeasonType={seasonType}&" \
+              "ShotClockRange=&" \
+              "StarterBench=&" \
+              "TeamID=0&" \
+              "VsConference=&" \
+              "VsDivision=&" \
+              "Weight="
+        url = url.format(playerOrTeam=player_or_team, measureType=MeasureTypes.BASE, perMode=per_mode,
+                         seasonYear=season_year, seasonType=season_type)
+
+        df = json_to_pandas(url, 0)
+
+        if df is not None:
+            print('GOT DATA FROM WEB API, WRITING TO FILE')
+            df.to_csv("data\\" + player_or_team + "\\" + measure_type + "\\" + season_type + "\\" + per_mode + "\\" +
+                      season_year + ".csv")
+        else:
+            print('COULD NOT GET DATA FROM WEB API')
+            return None
+    else:
+        print('GETTING DATA FROM FILE')
+        return pd.read_csv(file_path)
 
 
 def get_all_player_shot_location_stats():
@@ -207,7 +291,8 @@ def get_all_player_shot_location_stats():
             for season_type in SeasonTypes:
                 for per_mode in PerModes:
                     print(year_string + ": " + measure_type + ", " + season_type + ", " + per_mode)
-                    get_shot_location_stats("player", measure_type, per_mode, year_string, season_type)
+                    get_shot_location_stats(PlayerOrTeam.P, measure_type, per_mode, year_string, season_type)
+                    get_shot_location_stats(PlayerOrTeam.T, measure_type, per_mode, year_string, season_type)
 
 
 # endregion
@@ -236,7 +321,7 @@ def get_sports_vu_stats(team_or_player, vu_type, per_mode, season_year, season_t
               "&StarterBench=&TeamID=0&VsConference=&VsDivision=&Weight="
         url = url.format(playerOrTeam=team_or_player, vuType=vu_type, seasonYear=season_year, seasonType=season_type,
                          perMode=per_mode, oppId=opponent_id)
-        df = j2p(url, 0)
+        df = json_to_pandas(url, 0)
         if df is not None:
             df.to_csv(file_path)
             return df
@@ -273,7 +358,7 @@ def get_synergy_stats(team_or_player, synergy_play_type, offense_or_defense):
         url = "http://stats-prod.nba.com/wp-json/statscms/v1/synergy/{teamOrPlayer}/?category={playType}&limit=500" \
               "&name={offenseOrDefense}&q=2449554&season=2015&seasonType=Reg"
         url = url.format(teamOrPlayer=team_or_player, playType=synergy_play_type, offenseOrDefense=offense_or_defense)
-        data_df = j2pSynergy(url, 0)
+        data_df = json_to_pandas_for_syngery(url, 0)
         data_df.to_csv(file_path)
         return data_df
     else:
@@ -300,7 +385,7 @@ def get_player_game_logs(season_year, season_type, player_name, player_id):
               "Season={seasonYear}&" \
               "SeasonType={seasonType}"
         url = url.format(pid=player_id, seasonYear=season_year, seasonType=season_type)
-        df = j2p(url, 0)
+        df = json_to_pandas(url, 0)
         df.to_csv(file_path)
         return df
     else:
@@ -343,7 +428,7 @@ def get_player_passing_dashboard(player_id, season_year):
               'VsConference=&' \
               'VsDivision='
         url = url.format(playerId=player_id, seasonYear=season_year)
-        data_df = j2p(url, 1)
+        data_df = json_to_pandas(url, 1)
         if data_df is not None:
             data_df.to_csv(file_path)
             return data_df
@@ -354,4 +439,7 @@ def get_player_passing_dashboard(player_id, season_year):
         print('FILE FOUND, READING FROM FILE')
         return pd.read_csv(file_path)
 
+
 # endregion
+
+

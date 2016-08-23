@@ -1,4 +1,4 @@
-from data_getters import get_stat_csv, PlayerOrTeam, MeasureTypes, PerModes, SeasonTypes, get_year_string
+from data_getters import get_general_stats, PlayerOrTeam, MeasureTypes, PerModes, SeasonTypes, get_year_string
 import pandas as pd
 import os.path
 import plotly.graph_objs as go
@@ -14,14 +14,14 @@ def get_stats(overwrite):
         return_df = pd.DataFrame(columns=['PLAYER_ID', 'TEAM_ID', 'PLAYER_NAME', 'AST_PCT', 'YEAR'])
         for year in range(1996, 2016):
             print(year)
-            adv_stat_df = get_stat_csv(PlayerOrTeam.P, MeasureTypes.ADV, PerModes.TOTAL, get_year_string(year),
-                                       SeasonTypes.REG)
+            adv_stat_df = get_general_stats(PlayerOrTeam.P, MeasureTypes.ADV, PerModes.TOTAL, get_year_string(year),
+                                            SeasonTypes.REG)
             adv_stat_df = adv_stat_df[adv_stat_df.GP >= 50]
             adv_stat_df = adv_stat_df[adv_stat_df.MIN >= 25]
             adv_stat_df = adv_stat_df[adv_stat_df.USG_PCT >= .25]
             adv_stat_df = adv_stat_df[['PLAYER_ID', 'TEAM_ID', 'PLAYER_NAME', 'AST_PCT']]
-            shooting_stat_df = get_stat_csv(PlayerOrTeam.P, MeasureTypes.SCORING, PerModes.TOTAL, get_year_string(year),
-                                            SeasonTypes.REG)
+            shooting_stat_df = get_general_stats(PlayerOrTeam.P, MeasureTypes.SCORING, PerModes.TOTAL, get_year_string(year),
+                                                 SeasonTypes.REG)
             shooting_stat_df = shooting_stat_df[['PLAYER_ID', 'TEAM_ID', 'PLAYER_NAME', 'PCT_AST_FGM']]
             yearly_df = pd.merge(adv_stat_df, shooting_stat_df, how='left', on=['PLAYER_ID', 'TEAM_ID', 'PLAYER_NAME'])
             yearly_df['YEAR'] = " " + get_year_string(year)

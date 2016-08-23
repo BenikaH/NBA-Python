@@ -3,7 +3,7 @@ import plotly.graph_objs as go
 import os.path
 import plotly.plotly as py
 
-from data_getters import j2p, get_stat_csv, get_player_game_logs
+from data_getters import json_to_pandas, get_general_stats, get_player_game_logs
 
 
 def get_yearly_data(overwrite_file):
@@ -26,7 +26,7 @@ def get_yearly_data(overwrite_file):
             year_string = str(year) + "-" + str(year + 1)[2:4]
             print("GETTING STATS FOR: " + year_string)
 
-            year_df = get_stat_csv("player", "Base", "PerGame", year_string, "Regular+Season")
+            year_df = get_general_stats("player", "Base", "PerGame", year_string, "Regular+Season")
 
             year_df = year_df[['PLAYER_ID', 'PLAYER_NAME', 'TEAM_ID', 'TEAM_ABBREVIATION', 'GP', 'PTS']]
             year_df["YEAR"] = year_string

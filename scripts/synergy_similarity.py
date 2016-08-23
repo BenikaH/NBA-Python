@@ -1,7 +1,7 @@
 import pandas as pd
 import os.path
 from data_getters import get_synergy_stats
-from data_getters import get_stat_csv
+from data_getters import get_general_stats
 from data_getters import SynergyPlayTypes
 
 
@@ -11,7 +11,7 @@ def get_data(overwrite):
         os.makedirs(dir_path)
     file_path = dir_path + "/synergy_freqs.csv"
     if (not os.path.isfile(file_path)) or overwrite:
-        data_df = get_stat_csv("player", "Base", "Totals", "2015-16", "Regular+Season")
+        data_df = get_general_stats("player", "Base", "Totals", "2015-16", "Regular+Season")
         data_df = data_df[["PLAYER_ID", "PLAYER_NAME"]]
         for index, stype in enumerate(SynergyPlayTypes):
             stype_df = get_synergy_stats("player", stype, "offensive")
