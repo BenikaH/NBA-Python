@@ -56,6 +56,16 @@ def get_year_string(year):
     return str(year) + "-" + str(year + 1)[2:4]
 
 
+def create_directories_and_check_for_file(filepath):
+    split_path = filepath.split('/')
+    current_path = ''
+    for p in range(0, len(split_path) - 1):
+        current_path += split_path[p] + '/'
+        if not os.path.exists(current_path):
+            os.makedirs(current_path)
+    return os.path.isfile(filepath)
+
+
 # endregion
 
 # region Enums
@@ -128,7 +138,104 @@ sports_vu_years = range(2013, 2016)
 
 # endregion
 
-# region Base Stats
+class GeneralStatsUrl(object):
+    def __init__(self, player_or_team='player', college='', conference='', country='', data_from='', date_to='',
+                 division='', draft_pick='', draft_year='', game_scope='', game_segment='', height='', last_n_games='0',
+                 league_id='00', location='', measure_type=MeasureTypes.BASE, month='0', opponenet_team_id='0',
+                 outcome='', po_round='0', pace_adjust='N', per_mode=PerModes.TOTAL, period='0', player_experience='',
+                 player_position='', plus_minus='N', rank='N', season='2015-16', season_segment='',
+                 season_type=SeasonTypes.REG, shot_clock_range='', stater_bench='', team_id='0', vs_conference='',
+                 vs_division='', weight=''):
+        self.playerOrTeam = player_or_team
+        self.college = college
+        self.conference = conference
+        self.country = country
+        self.dataFrom = data_from
+        self.dateTo = date_to
+        self.division = division
+        self.draftPick = draft_pick
+        self.draftYear = draft_year
+        self.gameScope = game_scope
+        self.gameSegment = game_segment
+        self.height = height
+        self.lastNGames = last_n_games
+        self.leagueId = league_id
+        self.location = location
+        self.measureType = measure_type
+        self.month = month
+        self.opponentTeamId = opponenet_team_id
+        self.outcome = outcome
+        self.poRound = po_round
+        self.paceAdjust = pace_adjust
+        self.perMode = per_mode
+        self.period = period
+        self.playerExperience = player_experience
+        self.playerPosition = player_position
+        self.plusMinus = plus_minus
+        self.rank = rank
+        self.season = season
+        self.seasonSegment = season_segment
+        self.seasonType = season_type
+        self.shotClockRange = shot_clock_range
+        self.starterBench = stater_bench
+        self.teamId = team_id
+        self.vsConference = vs_conference
+        self.vsDivision = vs_division
+        self.weight = weight
+
+    def build_url(self):
+        url = "http://stats.nba.com/stats/leaguedash{teamOrPlayer}stats?" \
+              "College={college}&" \
+              "Conference={conference}&" \
+              "Country={country}&" \
+              "DateFrom={dateFrom}&" \
+              "DateTo={dateTo}&" \
+              "Division={division}&" \
+              "DraftPick={draftPick}&" \
+              "DraftYear={draftYear}&" \
+              "GameScope={gameScope}&" \
+              "GameSegment={gameSegment}&" \
+              "Height={height}&" \
+              "LastNGames={lastNGames}&" \
+              "LeagueID={leagueId}&" \
+              "Location={location}&" \
+              "MeasureType={measureType}&" \
+              "Month={month}&" \
+              "OpponentTeamID={opponentTeamId}&" \
+              "Outcome={outcome}&" \
+              "PORound={poRound}&" \
+              "PaceAdjust={paceAdjust}&" \
+              "PerMode={perMode}&" \
+              "Period={period}&" \
+              "PlayerExperience={playerExperience}&" \
+              "PlayerPosition={playerPosition}&" \
+              "PlusMinus={plusMinus}&" \
+              "Rank={rank}&" \
+              "Season={seasonYear}&" \
+              "SeasonSegment={seasonSegment}&" \
+              "SeasonType={seasonType}&" \
+              "ShotClockRange={shotClockRange}&" \
+              "StarterBench={starterBench}&" \
+              "TeamID={teamId}&" \
+              "VsConference={vsConference}&" \
+              "VsDivision={vsDivision}&" \
+              "Weight={weight}"
+
+        return url.format(teamOrPlayer=self.playerOrTeam, college=self.college, conference=self.conference,
+                          country=self.country, dateFrom=self.dataFrom, dateTo=self.dateTo, division=self.division,
+                          draftPick=self.draftPick, draftYear=self.draftYear, gameScope=self.gameScope,
+                          gameSegment=self.gameSegment, height=self.height, lastNGames=self.lastNGames,
+                          leagueId=self.leagueId, location=self.location, measureType=self.measureType,
+                          month=self.month, opponentTeamId=self.opponentTeamId, outcome=self.outcome,
+                          poRound=self.poRound, paceAdjust=self.paceAdjust, perMode=self.perMode, period=self.period,
+                          playerExperience=self.playerExperience, playerPosition=self.playerPosition,
+                          plusMinus=self.plusMinus, rank=self.rank, seasonYear=self.season,
+                          seasonSegment=self.seasonSegment, seasonType=self.seasonType,
+                          shotClockRange=self.shotClockRange, starterBench=self.starterBench, teamId=self.teamId,
+                          vsConference=self.vsConference, vsDivision=self.vsDivision, weight=self.weight)
+
+
+# region General Stats
 
 
 def get_general_stats(player_or_team, measure_type, per_mode, season_year, season_type):
@@ -136,14 +243,10 @@ def get_general_stats(player_or_team, measure_type, per_mode, season_year, seaso
         'Getting General ' + player_or_team + ' ' + measure_type + ' ' + per_mode + ' stats for the ' + get_year_string(
             season_year) + ' ' + season_type)
 
-    if not os.path.exists('../data/' + player_or_team + '_data/'):
-        os.makedirs('../data/' + player_or_team + '_data')
-        print('MAKING DIRECTORY : ' + '../data/' + player_or_team + '_data')
-
     file_path = '../data/' + player_or_team + '_data/' + season_year + '_' + season_type + '_' + measure_type + '_' \
                 + per_mode + '.csv'
 
-    if not os.path.isfile(file_path):
+    if not create_directories_and_check_for_file(file_path):
         print('GET DATA FROM WEB API')
 
         url = "http://stats.nba.com/stats/leaguedash{teamOrPlayer}stats?" \
@@ -395,7 +498,6 @@ def get_player_game_logs(season_year, season_type, player_name, player_id):
 
 # endregion
 
-
 # region Passing
 
 def get_player_passing_dashboard(player_id, season_year):
@@ -443,3 +545,5 @@ def get_player_passing_dashboard(player_id, season_year):
 # endregion
 
 
+url = GeneralStatsUrl()
+print(url.build_url())
