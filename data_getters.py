@@ -30,7 +30,7 @@ def json_to_pandas(url, index):
         return pd.DataFrame(data_dict)
 
 
-def json_to_pandas_for_syngery(url, index):
+def json_to_pandas_for_syngery(url):
     opener = urllib2.build_opener()
     opener.addheaders = [('User-agent', 'Mozilla/5.0')]
     try:
@@ -138,6 +138,8 @@ sports_vu_years = range(2013, 2016)
 
 # endregion
 
+# region General Stats
+
 class GeneralStatsUrl(object):
     def __init__(self, player_or_team='player', college='', conference='', country='', data_from='', date_to='',
                  division='', draft_pick='', draft_year='', game_scope='', game_segment='', height='', last_n_games='0',
@@ -184,58 +186,58 @@ class GeneralStatsUrl(object):
         self.weight = weight
 
     def build_url(self):
-        url = "http://stats.nba.com/stats/leaguedash{teamOrPlayer}stats?" \
-              "College={college}&" \
-              "Conference={conference}&" \
-              "Country={country}&" \
-              "DateFrom={dateFrom}&" \
-              "DateTo={dateTo}&" \
-              "Division={division}&" \
-              "DraftPick={draftPick}&" \
-              "DraftYear={draftYear}&" \
-              "GameScope={gameScope}&" \
-              "GameSegment={gameSegment}&" \
-              "Height={height}&" \
-              "LastNGames={lastNGames}&" \
-              "LeagueID={leagueId}&" \
-              "Location={location}&" \
-              "MeasureType={measureType}&" \
-              "Month={month}&" \
-              "OpponentTeamID={opponentTeamId}&" \
-              "Outcome={outcome}&" \
-              "PORound={poRound}&" \
-              "PaceAdjust={paceAdjust}&" \
-              "PerMode={perMode}&" \
-              "Period={period}&" \
-              "PlayerExperience={playerExperience}&" \
-              "PlayerPosition={playerPosition}&" \
-              "PlusMinus={plusMinus}&" \
-              "Rank={rank}&" \
-              "Season={seasonYear}&" \
-              "SeasonSegment={seasonSegment}&" \
-              "SeasonType={seasonType}&" \
-              "ShotClockRange={shotClockRange}&" \
-              "StarterBench={starterBench}&" \
-              "TeamID={teamId}&" \
-              "VsConference={vsConference}&" \
-              "VsDivision={vsDivision}&" \
-              "Weight={weight}"
+        general_url = "http://stats.nba.com/stats/leaguedash{teamOrPlayer}stats?" \
+                      "College={college}&" \
+                      "Conference={conference}&" \
+                      "Country={country}&" \
+                      "DateFrom={dateFrom}&" \
+                      "DateTo={dateTo}&" \
+                      "Division={division}&" \
+                      "DraftPick={draftPick}&" \
+                      "DraftYear={draftYear}&" \
+                      "GameScope={gameScope}&" \
+                      "GameSegment={gameSegment}&" \
+                      "Height={height}&" \
+                      "LastNGames={lastNGames}&" \
+                      "LeagueID={leagueId}&" \
+                      "Location={location}&" \
+                      "MeasureType={measureType}&" \
+                      "Month={month}&" \
+                      "OpponentTeamID={opponentTeamId}&" \
+                      "Outcome={outcome}&" \
+                      "PORound={poRound}&" \
+                      "PaceAdjust={paceAdjust}&" \
+                      "PerMode={perMode}&" \
+                      "Period={period}&" \
+                      "PlayerExperience={playerExperience}&" \
+                      "PlayerPosition={playerPosition}&" \
+                      "PlusMinus={plusMinus}&" \
+                      "Rank={rank}&" \
+                      "Season={seasonYear}&" \
+                      "SeasonSegment={seasonSegment}&" \
+                      "SeasonType={seasonType}&" \
+                      "ShotClockRange={shotClockRange}&" \
+                      "StarterBench={starterBench}&" \
+                      "TeamID={teamId}&" \
+                      "VsConference={vsConference}&" \
+                      "VsDivision={vsDivision}&" \
+                      "Weight={weight}"
 
-        return url.format(teamOrPlayer=self.playerOrTeam, college=self.college, conference=self.conference,
-                          country=self.country, dateFrom=self.dataFrom, dateTo=self.dateTo, division=self.division,
-                          draftPick=self.draftPick, draftYear=self.draftYear, gameScope=self.gameScope,
-                          gameSegment=self.gameSegment, height=self.height, lastNGames=self.lastNGames,
-                          leagueId=self.leagueId, location=self.location, measureType=self.measureType,
-                          month=self.month, opponentTeamId=self.opponentTeamId, outcome=self.outcome,
-                          poRound=self.poRound, paceAdjust=self.paceAdjust, perMode=self.perMode, period=self.period,
-                          playerExperience=self.playerExperience, playerPosition=self.playerPosition,
-                          plusMinus=self.plusMinus, rank=self.rank, seasonYear=self.season,
-                          seasonSegment=self.seasonSegment, seasonType=self.seasonType,
-                          shotClockRange=self.shotClockRange, starterBench=self.starterBench, teamId=self.teamId,
-                          vsConference=self.vsConference, vsDivision=self.vsDivision, weight=self.weight)
-
-
-# region General Stats
+        return general_url.format(teamOrPlayer=self.playerOrTeam, college=self.college, conference=self.conference,
+                                  country=self.country, dateFrom=self.dataFrom, dateTo=self.dateTo,
+                                  division=self.division,
+                                  draftPick=self.draftPick, draftYear=self.draftYear, gameScope=self.gameScope,
+                                  gameSegment=self.gameSegment, height=self.height, lastNGames=self.lastNGames,
+                                  leagueId=self.leagueId, location=self.location, measureType=self.measureType,
+                                  month=self.month, opponentTeamId=self.opponentTeamId, outcome=self.outcome,
+                                  poRound=self.poRound, paceAdjust=self.paceAdjust, perMode=self.perMode,
+                                  period=self.period,
+                                  playerExperience=self.playerExperience, playerPosition=self.playerPosition,
+                                  plusMinus=self.plusMinus, rank=self.rank, seasonYear=self.season,
+                                  seasonSegment=self.seasonSegment, seasonType=self.seasonType,
+                                  shotClockRange=self.shotClockRange, starterBench=self.starterBench,
+                                  teamId=self.teamId,
+                                  vsConference=self.vsConference, vsDivision=self.vsDivision, weight=self.weight)
 
 
 def get_general_stats(player_or_team, measure_type, per_mode, season_year, season_type):
@@ -249,46 +251,10 @@ def get_general_stats(player_or_team, measure_type, per_mode, season_year, seaso
     if not create_directories_and_check_for_file(file_path):
         print('GET DATA FROM WEB API')
 
-        url = "http://stats.nba.com/stats/leaguedash{teamOrPlayer}stats?" \
-              "College=&" \
-              "Conference=&" \
-              "Country=&" \
-              "DateFrom=&" \
-              "DateTo=&" \
-              "Division=&" \
-              "DraftPick=&" \
-              "DraftYear=&" \
-              "GameScope=&" \
-              "GameSegment=&" \
-              "Height=&" \
-              "LastNGames=0&" \
-              "LeagueID=00&" \
-              "Location=&" \
-              "MeasureType={measureType}&" \
-              "Month=0&" \
-              "OpponentTeamID=0&" \
-              "Outcome=&" \
-              "PORound=0" \
-              "&PaceAdjust=N&" \
-              "PerMode={perMode}&" \
-              "Period=0&" \
-              "PlayerExperience=&" \
-              "PlayerPosition=&" \
-              "PlusMinus=N" \
-              "&Rank=N&" \
-              "Season={seasonYear}&" \
-              "SeasonSegment=&" \
-              "SeasonType={seasonType}&" \
-              "ShotClockRange=&" \
-              "StarterBench=" \
-              "&TeamID=0&" \
-              "VsConference=&" \
-              "VsDivision=&" \
-              "Weight="
-        url = url.format(perMode=per_mode, seasonYear=season_year, seasonType=season_type, measureType=measure_type,
-                         teamOrPlayer=player_or_team)
+        stats_url = GeneralStatsUrl(player_or_team=player_or_team, measure_type=measure_type, per_mode=per_mode,
+                                    season=season_year, season_type=season_type)
 
-        df = json_to_pandas(url, 0)
+        df = json_to_pandas(stats_url.build_url(), 0)
 
         if df is not None:
             df.to_csv(file_path)
@@ -545,5 +511,114 @@ def get_player_passing_dashboard(player_id, season_year):
 # endregion
 
 
-url = GeneralStatsUrl()
-print(url.build_url())
+# region Shot Data
+
+class ShotDataUrl(object):
+    def __init__(self, ahead_behind='', clutch_time='', context_filter='', context_measure='FGA', date_from='',
+                 date_to='', end_period='', end_range='', game_id='', game_segment='', last_n_games='0',
+                 league_id='00', location='', month='0', opponent_team_id='0', outcome='', period='0', player_id='',
+                 point_diff='', position='', range_type='', rookie_year='', season='2015-16',
+                 season_type=SeasonTypes.REG, season_segment='', start_period='', start_range='', team_id='0',
+                 vs_conference='', vs_division=''):
+        self.aheadBehind = ahead_behind
+        self.clutchTime = clutch_time
+        self.contextFilter = context_filter
+        self.contextMeasure = context_measure
+        self.dateFrom = date_from
+        self.dateTo = date_to
+        self.endPeriod = end_period
+        self.endRange = end_range
+        self.gameId = game_id
+        self.gameSegment = game_segment
+        self.lastNGames = last_n_games
+        self.leagueId = league_id
+        self.location = location
+        self.month = month
+        self.opponentTeamId = opponent_team_id
+        self.outcome = outcome
+        self.period = period
+        self.playerId = player_id
+        self.pointDiff = point_diff
+        self.position = position
+        self.rangeType = range_type
+        self.rookieYear = rookie_year
+        self.season = season
+        self.seasonType = season_type
+        self.seasonSegment = season_segment
+        self.startPeriod = start_period
+        self.startRange = start_range
+        self.teamId = team_id
+        self.vsConference = vs_conference
+        self.vsDivision = vs_division
+
+    def build_url(self):
+        shots_url = 'http://stats.nba.com/stats/shotchartdetail?' \
+                    'AheadBehind={ahead_behind}&' \
+                    'ClutchTime={clutch_time}&' \
+                    'ContextFilter={context_filter}&' \
+                    'ContextMeasure={context_measure}&' \
+                    'DateFrom={date_from}&' \
+                    'DateTo={date_to}&' \
+                    'EndPeriod={end_period}&' \
+                    'EndRange={end_range}&' \
+                    'GameID={game_id}&' \
+                    'GameSegment={game_segment}&' \
+                    'LastNGames={last_n_games}&' \
+                    'LeagueID={league_id}&' \
+                    'Location={location}&' \
+                    'Month={month}&' \
+                    'OpponentTeamID={opponent_team_id}&' \
+                    'Outcome={outcome}&' \
+                    'Period={period}&' \
+                    'PlayerID={player_id}&' \
+                    'PointDiff={point_diff}&' \
+                    'Position={position}&' \
+                    'RangeType={range_type}&' \
+                    'RookieYear={rookie_year}&' \
+                    'Season={season}&' \
+                    'SeasonType={season_type}&' \
+                    'SeasonSegment={season_segment}&' \
+                    'StartPeriodRange={start_period_range}&' \
+                    'TeamID={team_id}&' \
+                    'VsConference={vs_conference}&' \
+                    'VsDivision={vs_division}'
+        return shots_url.format(ahead_behind=self.aheadBehind, clutch_time=self.clutchTime,
+                                context_filter=self.contextFilter, context_measure=self.contextMeasure,
+                                date_from=self.dateFrom, date_to=self.dateTo, end_range=self.endRange,
+                                end_period=self.endPeriod, season_segment=self.seasonSegment,
+                                game_id=self.gameId, game_segment=self.gameSegment, last_n_games=self.lastNGames,
+                                league_id=self.leagueId, location=self.location, month=self.month,
+                                opponent_team_id=self.opponentTeamId, outcome=self.outcome, period=self.period,
+                                player_id=self.playerId, point_diff=self.pointDiff, position=self.position,
+                                range_type=self.rangeType, rookie_year=self.rookieYear, season=self.season,
+                                season_type=self.seasonType, start_period_range=self.startPeriod, team_id=self.teamId,
+                                vs_conference=self.vsConference, vs_division=self.vsDivision)
+
+
+def get_shot_data(player_id, season_year, season_type):
+    print('Getting Shot Data For ' + player_id + ' in the ' + get_year_string(season_year) + ' ' + season_type)
+
+    file_path = '../data/shot_data/' + player_id + '_' + get_year_string(season_year) + '_' + season_type + '.csv'
+
+    if not create_directories_and_check_for_file(file_path):
+        print('GET DATA FROM WEB API')
+
+        data_url = ShotDataUrl(player_id=player_id, season=get_year_string(season_year), season_type=season_type)
+        print(data_url.build_url())
+
+        df = json_to_pandas(data_url.build_url(), 0)
+
+        if df is not None:
+            df.to_csv(file_path)
+            print('GOT DATA FROM WEB API, WRITING TO FILE')
+            return df
+
+        else:
+            print('COULD NOT GET DATA FROM WEB API')
+            return None
+
+    else:
+        print('GETTING DATA FROM FILE')
+        return pd.read_csv(file_path)
+
+# endregion Shot Data
