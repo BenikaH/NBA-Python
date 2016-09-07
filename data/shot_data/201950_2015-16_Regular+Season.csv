@@ -1,0 +1,935 @@
+,ACTION_TYPE,EVENT_TYPE,GAME_EVENT_ID,GAME_ID,GRID_TYPE,LOC_X,LOC_Y,MINUTES_REMAINING,PERIOD,PLAYER_ID,PLAYER_NAME,SECONDS_REMAINING,SHOT_ATTEMPTED_FLAG,SHOT_DISTANCE,SHOT_MADE_FLAG,SHOT_TYPE,SHOT_ZONE_AREA,SHOT_ZONE_BASIC,SHOT_ZONE_RANGE,TEAM_ID,TEAM_NAME
+0,Jump Shot,Missed Shot,3,0021500015,Shot Chart Detail,30,249,11,1,201950,Jrue Holiday,13,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+1,Driving Layup Shot,Missed Shot,10,0021500015,Shot Chart Detail,-4,-11,10,1,201950,Jrue Holiday,30,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+2,Layup Shot,Missed Shot,281,0021500015,Shot Chart Detail,4,-1,1,2,201950,Jrue Holiday,51,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+3,Jump Shot,Missed Shot,289,0021500015,Shot Chart Detail,79,239,0,2,201950,Jrue Holiday,59,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+4,Jump Shot,Missed Shot,300,0021500015,Shot Chart Detail,-50,41,0,2,201950,Jrue Holiday,25,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+5,Jump Shot,Missed Shot,326,0021500015,Shot Chart Detail,-122,144,11,3,201950,Jrue Holiday,37,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+6,Jump Shot,Missed Shot,343,0021500015,Shot Chart Detail,122,223,9,3,201950,Jrue Holiday,2,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+7,Jump Shot,Made Shot,356,0021500015,Shot Chart Detail,53,124,8,3,201950,Jrue Holiday,4,1,13,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+8,Layup Shot,Made Shot,365,0021500015,Shot Chart Detail,-7,7,6,3,201950,Jrue Holiday,12,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+9,Jump Bank Shot,Made Shot,430,0021500015,Shot Chart Detail,-12,36,11,4,201950,Jrue Holiday,27,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+10,Layup Shot,Made Shot,441,0021500015,Shot Chart Detail,22,-1,9,4,201950,Jrue Holiday,50,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+11,Jump Shot,Made Shot,443,0021500015,Shot Chart Detail,223,-1,9,4,201950,Jrue Holiday,21,1,22,1,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+12,Jump Bank Shot,Missed Shot,448,0021500015,Shot Chart Detail,-53,21,8,4,201950,Jrue Holiday,54,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+13,Jump Shot,Missed Shot,522,0021500015,Shot Chart Detail,-148,3,2,4,201950,Jrue Holiday,3,1,14,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+14,Jump Shot,Missed Shot,2,0021500035,Shot Chart Detail,-143,85,11,1,201950,Jrue Holiday,39,1,16,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+15,Jump Shot,Missed Shot,22,0021500035,Shot Chart Detail,112,223,9,1,201950,Jrue Holiday,42,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+16,Layup Shot,Missed Shot,28,0021500035,Shot Chart Detail,-25,13,9,1,201950,Jrue Holiday,14,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+17,Driving Layup Shot,Made Shot,62,0021500035,Shot Chart Detail,9,16,6,1,201950,Jrue Holiday,23,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+18,Floating Jump shot,Made Shot,227,0021500035,Shot Chart Detail,38,41,5,2,201950,Jrue Holiday,32,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+19,Jump Shot,Missed Shot,241,0021500035,Shot Chart Detail,46,67,4,2,201950,Jrue Holiday,43,1,8,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+20,Running Jump Shot,Made Shot,279,0021500035,Shot Chart Detail,22,56,2,2,201950,Jrue Holiday,30,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+21,Layup Shot,Missed Shot,300,0021500035,Shot Chart Detail,24,7,1,2,201950,Jrue Holiday,16,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+22,Reverse Layup Shot,Made Shot,306,0021500035,Shot Chart Detail,-24,8,1,2,201950,Jrue Holiday,0,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+23,Pullup Jump shot,Made Shot,313,0021500035,Shot Chart Detail,177,164,0,2,201950,Jrue Holiday,43,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+24,Driving Floating Jump Shot,Made Shot,328,0021500035,Shot Chart Detail,-6,82,11,3,201950,Jrue Holiday,24,1,8,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+25,Layup Shot,Missed Shot,338,0021500035,Shot Chart Detail,-2,16,10,3,201950,Jrue Holiday,36,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+26,Jump Shot,Missed Shot,345,0021500035,Shot Chart Detail,10,47,10,3,201950,Jrue Holiday,0,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+27,Jump Shot,Missed Shot,373,0021500035,Shot Chart Detail,120,223,6,3,201950,Jrue Holiday,29,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+28,Driving Layup Shot,Made Shot,379,0021500035,Shot Chart Detail,-27,11,5,3,201950,Jrue Holiday,45,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+29,Jump Shot,Missed Shot,484,0021500035,Shot Chart Detail,-112,149,6,4,201950,Jrue Holiday,32,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+30,Layup Shot,Missed Shot,528,0021500035,Shot Chart Detail,-25,16,4,4,201950,Jrue Holiday,12,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+31,Jump Shot,Made Shot,538,0021500035,Shot Chart Detail,-1,139,3,4,201950,Jrue Holiday,30,1,13,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+32,Jump Shot,Missed Shot,557,0021500035,Shot Chart Detail,-174,188,1,4,201950,Jrue Holiday,51,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+33,Layup Shot,Missed Shot,15,0021500056,Shot Chart Detail,-22,3,10,1,201950,Jrue Holiday,12,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+34,Jump Shot,Missed Shot,29,0021500056,Shot Chart Detail,64,13,8,1,201950,Jrue Holiday,45,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+35,Layup Shot,Missed Shot,32,0021500056,Shot Chart Detail,-22,11,8,1,201950,Jrue Holiday,19,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+36,Jump Shot,Missed Shot,230,0021500056,Shot Chart Detail,35,75,3,2,201950,Jrue Holiday,53,1,8,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+37,Pullup Jump shot,Missed Shot,247,0021500056,Shot Chart Detail,-122,154,1,2,201950,Jrue Holiday,30,1,19,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+38,Finger Roll Layup Shot,Missed Shot,286,0021500056,Shot Chart Detail,9,26,10,3,201950,Jrue Holiday,17,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+39,Pullup Jump shot,Made Shot,304,0021500056,Shot Chart Detail,148,16,8,3,201950,Jrue Holiday,12,1,14,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+40,Jump Shot,Made Shot,315,0021500056,Shot Chart Detail,12,262,6,3,201950,Jrue Holiday,50,1,26,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+41,Pullup Jump shot,Made Shot,439,0021500056,Shot Chart Detail,-97,110,7,4,201950,Jrue Holiday,52,1,14,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+42,Jump Shot,Made Shot,460,0021500056,Shot Chart Detail,212,124,6,4,201950,Jrue Holiday,27,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+43,Jump Shot,Missed Shot,478,0021500056,Shot Chart Detail,-74,110,4,4,201950,Jrue Holiday,38,1,13,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+44,Jump Shot,Missed Shot,510,0021500056,Shot Chart Detail,-7,41,1,4,201950,Jrue Holiday,35,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+45,Jump Shot,Missed Shot,534,0021500056,Shot Chart Detail,-184,183,0,4,201950,Jrue Holiday,3,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+46,Jump Shot,Missed Shot,43,0021500081,Shot Chart Detail,197,149,6,1,201950,Jrue Holiday,44,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+47,Jump Shot,Made Shot,527,0021500081,Shot Chart Detail,46,247,1,4,201950,Jrue Holiday,8,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+48,Pullup Jump shot,Made Shot,14,0021500112,Shot Chart Detail,-169,210,10,1,201950,Jrue Holiday,40,1,26,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+49,Pullup Jump shot,Made Shot,28,0021500112,Shot Chart Detail,82,134,8,1,201950,Jrue Holiday,48,1,15,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+50,Driving Finger Roll Layup Shot,Made Shot,51,0021500112,Shot Chart Detail,-2,18,7,1,201950,Jrue Holiday,1,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+51,Pullup Jump shot,Made Shot,87,0021500112,Shot Chart Detail,-65,247,3,1,201950,Jrue Holiday,37,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+52,Jump Shot,Missed Shot,315,0021500112,Shot Chart Detail,-2,51,7,3,201950,Jrue Holiday,45,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+53,Pullup Jump shot,Missed Shot,8,0021500131,Shot Chart Detail,-166,75,10,1,201950,Jrue Holiday,51,1,18,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+54,Driving Layup Shot,Made Shot,13,0021500131,Shot Chart Detail,-25,-1,10,1,201950,Jrue Holiday,23,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+55,Turnaround Fadeaway Bank Jump Shot,Made Shot,16,0021500131,Shot Chart Detail,45,11,9,1,201950,Jrue Holiday,53,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+56,Jump Shot,Missed Shot,41,0021500131,Shot Chart Detail,-245,7,7,1,201950,Jrue Holiday,18,1,24,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+57,Driving Floating Jump Shot,Missed Shot,49,0021500131,Shot Chart Detail,4,56,6,1,201950,Jrue Holiday,4,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+58,Pullup Jump shot,Made Shot,285,0021500131,Shot Chart Detail,64,252,11,3,201950,Jrue Holiday,22,1,26,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+59,Jump Shot,Made Shot,291,0021500131,Shot Chart Detail,-225,139,10,3,201950,Jrue Holiday,46,1,26,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+60,Pullup Jump shot,Made Shot,293,0021500131,Shot Chart Detail,-9,151,10,3,201950,Jrue Holiday,19,1,15,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+61,Driving Floating Jump Shot,Made Shot,317,0021500131,Shot Chart Detail,-6,82,7,3,201950,Jrue Holiday,5,1,8,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+62,Running Layup Shot,Missed Shot,350,0021500131,Shot Chart Detail,1,26,3,3,201950,Jrue Holiday,12,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+63,Pullup Jump shot,Missed Shot,425,0021500131,Shot Chart Detail,130,151,9,4,201950,Jrue Holiday,28,1,19,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+64,Driving Finger Roll Layup Shot,Made Shot,442,0021500131,Shot Chart Detail,-4,33,8,4,201950,Jrue Holiday,6,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+65,Jump Shot,Missed Shot,447,0021500131,Shot Chart Detail,158,210,7,4,201950,Jrue Holiday,8,1,26,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+66,Layup Shot,Made Shot,472,0021500131,Shot Chart Detail,-24,-1,4,4,201950,Jrue Holiday,19,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+67,Jump Shot,Missed Shot,22,0021500145,Shot Chart Detail,4,61,9,1,201950,Jrue Holiday,31,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+68,Jump Shot,Missed Shot,64,0021500145,Shot Chart Detail,53,51,5,1,201950,Jrue Holiday,11,1,7,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+69,Jump Shot,Missed Shot,279,0021500145,Shot Chart Detail,91,170,9,3,201950,Jrue Holiday,39,1,19,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+70,Jump Shot,Made Shot,302,0021500145,Shot Chart Detail,-52,100,6,3,201950,Jrue Holiday,38,1,11,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+71,Jump Shot,Missed Shot,423,0021500145,Shot Chart Detail,104,154,6,4,201950,Jrue Holiday,54,1,18,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+72,Jump Shot,Missed Shot,432,0021500145,Shot Chart Detail,-73,247,6,4,201950,Jrue Holiday,9,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+73,Driving Layup Shot,Made Shot,465,0021500145,Shot Chart Detail,-12,16,1,4,201950,Jrue Holiday,53,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+74,Driving Floating Jump Shot,Missed Shot,468,0021500145,Shot Chart Detail,28,56,1,4,201950,Jrue Holiday,20,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+75,Jump Shot,Missed Shot,2,0021500163,Shot Chart Detail,-151,213,11,1,201950,Jrue Holiday,41,1,26,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+76,Turnaround Jump Shot,Made Shot,15,0021500163,Shot Chart Detail,38,28,10,1,201950,Jrue Holiday,0,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+77,Driving Layup Shot,Made Shot,20,0021500163,Shot Chart Detail,-19,7,9,1,201950,Jrue Holiday,11,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+78,Jump Shot,Missed Shot,33,0021500163,Shot Chart Detail,114,85,7,1,201950,Jrue Holiday,30,1,14,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+79,Layup Shot,Made Shot,40,0021500163,Shot Chart Detail,22,-1,6,1,201950,Jrue Holiday,36,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+80,Jump Shot,Missed Shot,243,0021500163,Shot Chart Detail,-17,134,9,3,201950,Jrue Holiday,48,1,13,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+81,Layup Shot,Missed Shot,275,0021500163,Shot Chart Detail,-4,16,6,3,201950,Jrue Holiday,47,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+82,Jump Shot,Missed Shot,366,0021500163,Shot Chart Detail,-1,41,8,4,201950,Jrue Holiday,50,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+83,Jump Shot,Missed Shot,382,0021500163,Shot Chart Detail,230,2,7,4,201950,Jrue Holiday,32,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+84,Driving Dunk Shot,Made Shot,406,0021500163,Shot Chart Detail,0,1,6,4,201950,Jrue Holiday,2,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+85,Jump Shot,Missed Shot,415,0021500163,Shot Chart Detail,20,239,4,4,201950,Jrue Holiday,41,1,23,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+86,Jump Shot,Missed Shot,418,0021500163,Shot Chart Detail,92,228,4,4,201950,Jrue Holiday,5,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+87,Driving Reverse Layup Shot,Missed Shot,439,0021500163,Shot Chart Detail,-22,11,2,4,201950,Jrue Holiday,35,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+88,Jump Shot,Missed Shot,16,0021500182,Shot Chart Detail,32,65,10,1,201950,Jrue Holiday,1,1,7,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+89,Driving Bank shot,Made Shot,34,0021500182,Shot Chart Detail,-58,16,8,1,201950,Jrue Holiday,42,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+90,Jump Shot,Missed Shot,43,0021500182,Shot Chart Detail,99,80,7,1,201950,Jrue Holiday,43,1,12,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+91,Driving Layup Shot,Made Shot,47,0021500182,Shot Chart Detail,15,23,7,1,201950,Jrue Holiday,13,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+92,Jump Shot,Made Shot,177,0021500182,Shot Chart Detail,-110,193,11,2,201950,Jrue Holiday,1,1,22,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+93,Jump Shot,Missed Shot,215,0021500182,Shot Chart Detail,-114,224,8,2,201950,Jrue Holiday,0,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+94,Jump Shot,Missed Shot,225,0021500182,Shot Chart Detail,-55,7,6,2,201950,Jrue Holiday,55,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+95,Jump Shot,Missed Shot,322,0021500182,Shot Chart Detail,-189,165,9,3,201950,Jrue Holiday,7,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+96,Jump Shot,Missed Shot,511,0021500182,Shot Chart Detail,-17,26,5,4,201950,Jrue Holiday,34,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+97,Layup Shot,Missed Shot,518,0021500182,Shot Chart Detail,-29,3,4,4,201950,Jrue Holiday,58,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+98,Layup Shot,Missed Shot,49,0021500198,Shot Chart Detail,9,2,6,1,201950,Jrue Holiday,47,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+99,Pullup Jump shot,Made Shot,53,0021500198,Shot Chart Detail,-7,51,6,1,201950,Jrue Holiday,16,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+100,Driving Layup Shot,Missed Shot,209,0021500198,Shot Chart Detail,6,21,6,2,201950,Jrue Holiday,43,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+101,Jump Shot,Missed Shot,338,0021500198,Shot Chart Detail,-4,180,11,3,201950,Jrue Holiday,11,1,18,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+102,Running Layup Shot,Made Shot,347,0021500198,Shot Chart Detail,-29,2,10,3,201950,Jrue Holiday,25,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+103,Driving Layup Shot,Made Shot,367,0021500198,Shot Chart Detail,10,8,7,3,201950,Jrue Holiday,57,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+104,Jump Shot,Missed Shot,4,0021500225,Shot Chart Detail,-17,51,11,1,201950,Jrue Holiday,20,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+105,Step Back Jump shot,Missed Shot,10,0021500225,Shot Chart Detail,-101,219,10,1,201950,Jrue Holiday,31,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+106,Jump Shot,Made Shot,28,0021500225,Shot Chart Detail,2,75,8,1,201950,Jrue Holiday,21,1,7,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+107,Reverse Layup Shot,Made Shot,37,0021500225,Shot Chart Detail,-19,-1,7,1,201950,Jrue Holiday,33,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+108,Jump Bank Shot,Made Shot,41,0021500225,Shot Chart Detail,0,87,7,1,201950,Jrue Holiday,8,1,8,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+109,Jump Shot,Missed Shot,71,0021500225,Shot Chart Detail,-158,203,5,1,201950,Jrue Holiday,7,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+110,Driving Bank shot,Made Shot,204,0021500225,Shot Chart Detail,40,18,6,2,201950,Jrue Holiday,43,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+111,Jump Shot,Missed Shot,235,0021500225,Shot Chart Detail,-43,16,4,2,201950,Jrue Holiday,13,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+112,Jump Shot,Made Shot,297,0021500225,Shot Chart Detail,127,213,11,3,201950,Jrue Holiday,11,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+113,Pullup Jump shot,Missed Shot,324,0021500225,Shot Chart Detail,-114,131,8,3,201950,Jrue Holiday,26,1,17,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+114,Jump Shot,Missed Shot,426,0021500225,Shot Chart Detail,-4,65,11,4,201950,Jrue Holiday,31,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+115,Layup Shot,Made Shot,432,0021500225,Shot Chart Detail,-6,11,11,4,201950,Jrue Holiday,6,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+116,Pullup Jump shot,Missed Shot,437,0021500225,Shot Chart Detail,73,154,9,4,201950,Jrue Holiday,59,1,17,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+117,Jump Shot,Missed Shot,535,0021500225,Shot Chart Detail,168,178,0,4,201950,Jrue Holiday,34,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+118,Layup Shot,Missed Shot,548,0021500225,Shot Chart Detail,22,7,0,4,201950,Jrue Holiday,23,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+119,Driving Floating Jump Shot,Made Shot,12,0021500238,Shot Chart Detail,-55,7,10,1,201950,Jrue Holiday,28,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+120,Jump Shot,Missed Shot,18,0021500238,Shot Chart Detail,-173,185,9,1,201950,Jrue Holiday,54,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+121,Pullup Jump shot,Missed Shot,23,0021500238,Shot Chart Detail,66,120,9,1,201950,Jrue Holiday,22,1,13,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+122,Running Jump Shot,Made Shot,194,0021500238,Shot Chart Detail,17,26,5,2,201950,Jrue Holiday,9,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+123,Jump Shot,Missed Shot,211,0021500238,Shot Chart Detail,-241,72,3,2,201950,Jrue Holiday,21,1,25,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+124,Jump Shot,Made Shot,265,0021500238,Shot Chart Detail,-56,129,10,3,201950,Jrue Holiday,55,1,14,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+125,Jump Shot,Missed Shot,10,0021500243,Shot Chart Detail,97,218,10,1,201950,Jrue Holiday,30,1,23,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+126,Jump Shot,Missed Shot,50,0021500243,Shot Chart Detail,56,105,7,1,201950,Jrue Holiday,9,1,11,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+127,Jump Shot,Missed Shot,414,0021500243,Shot Chart Detail,-38,41,10,4,201950,Jrue Holiday,31,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+128,Layup Shot,Missed Shot,464,0021500243,Shot Chart Detail,-16,-5,7,4,201950,Jrue Holiday,7,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+129,Jump Shot,Made Shot,4,0021500266,Shot Chart Detail,-165,188,11,1,201950,Jrue Holiday,19,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+130,Jump Bank Shot,Made Shot,16,0021500266,Shot Chart Detail,-60,8,8,1,201950,Jrue Holiday,56,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+131,Layup Shot,Made Shot,56,0021500266,Shot Chart Detail,-11,2,5,1,201950,Jrue Holiday,33,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+132,Jump Shot,Missed Shot,169,0021500266,Shot Chart Detail,145,193,8,2,201950,Jrue Holiday,24,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+133,Jump Shot,Missed Shot,181,0021500266,Shot Chart Detail,238,28,7,2,201950,Jrue Holiday,22,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+134,Jump Shot,Missed Shot,287,0021500266,Shot Chart Detail,-68,200,10,3,201950,Jrue Holiday,58,1,21,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+135,Jump Shot,Made Shot,322,0021500266,Shot Chart Detail,-1,242,6,3,201950,Jrue Holiday,44,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+136,Jump Shot,Missed Shot,116,0021500288,Shot Chart Detail,33,62,1,1,201950,Jrue Holiday,17,1,7,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+137,Putback Layup Shot,Missed Shot,117,0021500288,Shot Chart Detail,10,5,1,1,201950,Jrue Holiday,14,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+138,Driving Layup Shot,Made Shot,141,0021500288,Shot Chart Detail,-12,7,11,2,201950,Jrue Holiday,7,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+139,Jump Bank Shot,Made Shot,146,0021500288,Shot Chart Detail,-63,62,10,2,201950,Jrue Holiday,34,1,8,1,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+140,Pullup Jump shot,Made Shot,202,0021500288,Shot Chart Detail,-40,146,6,2,201950,Jrue Holiday,6,1,15,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+141,Jump Shot,Missed Shot,426,0021500288,Shot Chart Detail,-124,218,0,3,201950,Jrue Holiday,1,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+142,Pullup Bank shot,Missed Shot,456,0021500288,Shot Chart Detail,-73,51,9,4,201950,Jrue Holiday,26,1,8,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+143,Driving Layup Shot,Missed Shot,559,0021500288,Shot Chart Detail,-7,7,1,4,201950,Jrue Holiday,11,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+144,Jump Shot,Made Shot,586,0021500288,Shot Chart Detail,169,213,0,4,201950,Jrue Holiday,8,1,27,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+145,Driving Finger Roll Layup Shot,Made Shot,611,0021500288,Shot Chart Detail,19,0,3,5,201950,Jrue Holiday,33,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+146,Jump Shot,Made Shot,93,0021500312,Shot Chart Detail,155,183,3,1,201950,Jrue Holiday,11,1,23,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+147,Jump Shot,Missed Shot,105,0021500312,Shot Chart Detail,-63,242,2,1,201950,Jrue Holiday,7,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+148,Layup Shot,Made Shot,118,0021500312,Shot Chart Detail,-17,-1,0,1,201950,Jrue Holiday,42,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+149,Layup Shot,Missed Shot,135,0021500312,Shot Chart Detail,-9,11,11,2,201950,Jrue Holiday,3,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+150,Jump Shot,Made Shot,171,0021500312,Shot Chart Detail,-88,136,8,2,201950,Jrue Holiday,7,1,16,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+151,Driving Floating Bank Jump Shot,Made Shot,188,0021500312,Shot Chart Detail,-92,46,6,2,201950,Jrue Holiday,10,1,10,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+152,Jump Shot,Missed Shot,287,0021500312,Shot Chart Detail,-97,87,8,3,201950,Jrue Holiday,28,1,13,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+153,Layup Shot,Missed Shot,334,0021500312,Shot Chart Detail,-19,7,4,3,201950,Jrue Holiday,14,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+154,Layup Shot,Missed Shot,447,0021500312,Shot Chart Detail,-7,16,7,4,201950,Jrue Holiday,13,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+155,Running Jump Shot,Made Shot,108,0021500339,Shot Chart Detail,107,432,0,1,201950,Jrue Holiday,0,1,44,1,3PT Field Goal,Back Court(BC),Backcourt,Back Court Shot,1610612740,New Orleans Pelicans
+156,Jump Shot,Made Shot,127,0021500339,Shot Chart Detail,-114,224,9,2,201950,Jrue Holiday,58,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+157,Jump Shot,Made Shot,142,0021500339,Shot Chart Detail,123,223,8,2,201950,Jrue Holiday,34,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+158,Pullup Jump shot,Made Shot,144,0021500339,Shot Chart Detail,-65,101,8,2,201950,Jrue Holiday,1,1,12,1,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+159,Jump Shot,Missed Shot,172,0021500339,Shot Chart Detail,128,134,6,2,201950,Jrue Holiday,2,1,18,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+160,Jump Shot,Made Shot,359,0021500339,Shot Chart Detail,-230,2,0,3,201950,Jrue Holiday,54,1,23,1,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+161,Layup Shot,Missed Shot,361,0021500339,Shot Chart Detail,-22,8,0,3,201950,Jrue Holiday,28,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+162,Jump Shot,Missed Shot,385,0021500339,Shot Chart Detail,-30,249,10,4,201950,Jrue Holiday,58,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+163,Jump Shot,Made Shot,446,0021500339,Shot Chart Detail,-117,237,5,4,201950,Jrue Holiday,29,1,26,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+164,Jump Shot,Missed Shot,460,0021500339,Shot Chart Detail,-11,252,4,4,201950,Jrue Holiday,38,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+165,Jump Bank Shot,Missed Shot,50,0021500366,Shot Chart Detail,-117,11,7,1,201950,Jrue Holiday,14,1,11,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+166,Jump Shot,Made Shot,65,0021500366,Shot Chart Detail,-145,218,6,1,201950,Jrue Holiday,16,1,26,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+167,Step Back Jump shot,Made Shot,67,0021500366,Shot Chart Detail,-127,232,5,1,201950,Jrue Holiday,50,1,26,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+168,Jump Shot,Made Shot,86,0021500366,Shot Chart Detail,-102,90,4,1,201950,Jrue Holiday,58,1,13,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+169,Driving Reverse Layup Shot,Missed Shot,166,0021500366,Shot Chart Detail,15,2,10,2,201950,Jrue Holiday,30,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+170,Jump Shot,Made Shot,385,0021500366,Shot Chart Detail,22,257,2,3,201950,Jrue Holiday,49,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+171,Jump Shot,Missed Shot,387,0021500366,Shot Chart Detail,151,210,2,3,201950,Jrue Holiday,16,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+172,Driving Bank shot,Made Shot,399,0021500366,Shot Chart Detail,37,0,1,3,201950,Jrue Holiday,22,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+173,Pullup Jump shot,Missed Shot,415,0021500366,Shot Chart Detail,-30,139,11,4,201950,Jrue Holiday,29,1,14,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+174,Driving Layup Shot,Made Shot,452,0021500366,Shot Chart Detail,28,7,8,4,201950,Jrue Holiday,5,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+175,Jump Shot,Missed Shot,494,0021500366,Shot Chart Detail,-183,180,4,4,201950,Jrue Holiday,19,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+176,Driving Layup Shot,Missed Shot,501,0021500366,Shot Chart Detail,-16,-1,3,4,201950,Jrue Holiday,47,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+177,Jump Shot,Missed Shot,554,0021500366,Shot Chart Detail,-240,51,0,4,201950,Jrue Holiday,17,1,24,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+178,Driving Layup Shot,Made Shot,565,0021500366,Shot Chart Detail,-4,7,0,4,201950,Jrue Holiday,9,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+179,Jump Bank Shot,Missed Shot,73,0021500380,Shot Chart Detail,-104,61,4,1,201950,Jrue Holiday,4,1,12,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+180,Layup Shot,Missed Shot,121,0021500380,Shot Chart Detail,-16,7,0,1,201950,Jrue Holiday,23,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+181,Jump Shot,Made Shot,176,0021500380,Shot Chart Detail,-233,47,7,2,201950,Jrue Holiday,21,1,23,1,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+182,Floating Jump shot,Missed Shot,194,0021500380,Shot Chart Detail,33,21,5,2,201950,Jrue Holiday,56,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+183,Driving Bank shot,Made Shot,347,0021500380,Shot Chart Detail,-48,57,3,3,201950,Jrue Holiday,45,1,7,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+184,Driving Layup Shot,Made Shot,379,0021500380,Shot Chart Detail,9,11,0,3,201950,Jrue Holiday,23,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+185,Jump Bank Shot,Made Shot,393,0021500380,Shot Chart Detail,143,67,10,4,201950,Jrue Holiday,39,1,15,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+186,Jump Shot,Missed Shot,441,0021500380,Shot Chart Detail,-233,-6,5,4,201950,Jrue Holiday,49,1,23,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+187,Driving Bank shot,Made Shot,476,0021500380,Shot Chart Detail,46,43,2,4,201950,Jrue Holiday,4,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+188,Step Back Jump shot,Made Shot,492,0021500380,Shot Chart Detail,91,223,1,4,201950,Jrue Holiday,35,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+189,Jump Shot,Missed Shot,48,0021500396,Shot Chart Detail,-101,101,6,1,201950,Jrue Holiday,58,1,14,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+190,Jump Shot,Missed Shot,53,0021500396,Shot Chart Detail,-187,165,6,1,201950,Jrue Holiday,13,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+191,Jump Shot,Missed Shot,89,0021500396,Shot Chart Detail,-56,31,2,1,201950,Jrue Holiday,50,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+192,Floating Jump shot,Made Shot,160,0021500396,Shot Chart Detail,-9,110,9,2,201950,Jrue Holiday,35,1,11,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+193,Jump Shot,Missed Shot,162,0021500396,Shot Chart Detail,-222,101,9,2,201950,Jrue Holiday,3,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+194,Layup Shot,Missed Shot,368,0021500396,Shot Chart Detail,-9,-5,3,3,201950,Jrue Holiday,30,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+195,Layup Shot,Missed Shot,418,0021500396,Shot Chart Detail,19,18,11,4,201950,Jrue Holiday,45,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+196,Driving Layup Shot,Made Shot,426,0021500396,Shot Chart Detail,2,-1,10,4,201950,Jrue Holiday,47,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+197,Jump Shot,Made Shot,428,0021500396,Shot Chart Detail,-235,75,10,4,201950,Jrue Holiday,18,1,24,1,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+198,Driving Layup Shot,Made Shot,453,0021500396,Shot Chart Detail,-7,8,8,4,201950,Jrue Holiday,41,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+199,Jump Shot,Missed Shot,455,0021500396,Shot Chart Detail,25,244,8,4,201950,Jrue Holiday,1,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+200,Step Back Jump shot,Missed Shot,493,0021500396,Shot Chart Detail,-228,46,5,4,201950,Jrue Holiday,38,1,23,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+201,Jump Shot,Missed Shot,526,0021500396,Shot Chart Detail,-233,13,2,4,201950,Jrue Holiday,12,1,23,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+202,Layup Shot,Missed Shot,145,0021500409,Shot Chart Detail,9,18,0,1,201950,Jrue Holiday,23,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+203,Jump Shot,Made Shot,163,0021500409,Shot Chart Detail,182,169,11,2,201950,Jrue Holiday,6,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+204,Jump Shot,Missed Shot,165,0021500409,Shot Chart Detail,-238,-1,10,2,201950,Jrue Holiday,40,1,23,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+205,Jump Shot,Missed Shot,200,0021500409,Shot Chart Detail,-47,31,8,2,201950,Jrue Holiday,18,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+206,Jump Shot,Made Shot,206,0021500409,Shot Chart Detail,-153,144,7,2,201950,Jrue Holiday,57,1,21,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+207,Jump Shot,Missed Shot,225,0021500409,Shot Chart Detail,245,-5,6,2,201950,Jrue Holiday,4,1,24,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+208,Fadeaway Jump Shot,Missed Shot,393,0021500409,Shot Chart Detail,-99,56,3,3,201950,Jrue Holiday,1,1,11,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+209,Running Layup Shot,Made Shot,405,0021500409,Shot Chart Detail,6,18,2,3,201950,Jrue Holiday,24,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+210,Jump Shot,Missed Shot,407,0021500409,Shot Chart Detail,145,203,1,3,201950,Jrue Holiday,49,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+211,Jump Shot,Made Shot,418,0021500409,Shot Chart Detail,-73,100,1,3,201950,Jrue Holiday,18,1,12,1,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+212,Reverse Layup Shot,Made Shot,421,0021500409,Shot Chart Detail,9,2,1,3,201950,Jrue Holiday,0,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+213,Running Layup Shot,Made Shot,496,0021500409,Shot Chart Detail,9,2,4,4,201950,Jrue Holiday,56,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+214,Jump Shot,Made Shot,512,0021500409,Shot Chart Detail,158,188,2,4,201950,Jrue Holiday,57,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+215,Jump Shot,Missed Shot,69,0021500432,Shot Chart Detail,233,16,3,1,201950,Jrue Holiday,56,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+216,Layup Shot,Missed Shot,148,0021500432,Shot Chart Detail,-24,-1,10,2,201950,Jrue Holiday,28,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+217,Running Jump Shot,Made Shot,153,0021500432,Shot Chart Detail,47,44,10,2,201950,Jrue Holiday,2,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+218,Turnaround Jump Shot,Made Shot,193,0021500432,Shot Chart Detail,-55,131,7,2,201950,Jrue Holiday,40,1,14,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+219,Jump Shot,Missed Shot,199,0021500432,Shot Chart Detail,-117,85,6,2,201950,Jrue Holiday,49,1,14,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+220,Jump Shot,Made Shot,400,0021500432,Shot Chart Detail,163,229,3,3,201950,Jrue Holiday,10,1,28,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+221,Jump Shot,Missed Shot,402,0021500432,Shot Chart Detail,159,219,2,3,201950,Jrue Holiday,42,1,27,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+222,Jump Bank Shot,Made Shot,422,0021500432,Shot Chart Detail,-88,43,1,3,201950,Jrue Holiday,0,1,9,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+223,Pullup Jump shot,Made Shot,425,0021500432,Shot Chart Detail,-79,136,0,3,201950,Jrue Holiday,41,1,15,1,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+224,Jump Shot,Missed Shot,438,0021500432,Shot Chart Detail,86,110,0,3,201950,Jrue Holiday,0,1,13,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+225,Running Jump Shot,Missed Shot,482,0021500432,Shot Chart Detail,-6,70,8,4,201950,Jrue Holiday,59,1,7,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+226,Jump Shot,Made Shot,487,0021500432,Shot Chart Detail,227,75,8,4,201950,Jrue Holiday,27,1,23,1,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+227,Jump Shot,Made Shot,495,0021500432,Shot Chart Detail,222,31,7,4,201950,Jrue Holiday,10,1,22,1,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+228,Driving Finger Roll Layup Shot,Missed Shot,112,0021500436,Shot Chart Detail,4,16,1,1,201950,Jrue Holiday,59,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+229,Jump Shot,Made Shot,152,0021500436,Shot Chart Detail,84,-6,10,2,201950,Jrue Holiday,23,1,8,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+230,Jump Shot,Made Shot,183,0021500436,Shot Chart Detail,238,26,7,2,201950,Jrue Holiday,14,1,23,1,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+231,Jump Shot,Missed Shot,193,0021500436,Shot Chart Detail,1,252,6,2,201950,Jrue Holiday,16,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+232,Driving Finger Roll Layup Shot,Missed Shot,210,0021500436,Shot Chart Detail,-4,21,4,2,201950,Jrue Holiday,55,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+233,Driving Floating Jump Shot,Made Shot,339,0021500436,Shot Chart Detail,14,85,5,3,201950,Jrue Holiday,55,1,8,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+234,Jump Shot,Missed Shot,344,0021500436,Shot Chart Detail,-122,7,5,3,201950,Jrue Holiday,0,1,12,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+235,Jump Shot,Missed Shot,351,0021500436,Shot Chart Detail,96,228,4,3,201950,Jrue Holiday,7,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+236,Jump Bank Shot,Made Shot,452,0021500436,Shot Chart Detail,9,18,6,4,201950,Jrue Holiday,0,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+237,Running Jump Shot,Made Shot,101,0021500445,Shot Chart Detail,-18,54,2,1,201950,Jrue Holiday,42,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+238,Driving Layup Shot,Made Shot,132,0021500445,Shot Chart Detail,17,-1,1,1,201950,Jrue Holiday,1,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+239,Jump Shot,Missed Shot,147,0021500445,Shot Chart Detail,55,115,12,2,201950,Jrue Holiday,0,1,12,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+240,Jump Shot,Made Shot,330,0021500445,Shot Chart Detail,-127,213,6,3,201950,Jrue Holiday,25,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+241,Jump Shot,Missed Shot,351,0021500445,Shot Chart Detail,230,8,4,3,201950,Jrue Holiday,9,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+242,Layup Shot,Missed Shot,473,0021500445,Shot Chart Detail,17,7,4,4,201950,Jrue Holiday,59,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+243,Jump Shot,Missed Shot,504,0021500445,Shot Chart Detail,-101,2,2,4,201950,Jrue Holiday,52,1,10,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+244,Floating Jump shot,Made Shot,98,0021500460,Shot Chart Detail,-25,120,1,1,201950,Jrue Holiday,43,1,12,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+245,Jump Shot,Made Shot,100,0021500460,Shot Chart Detail,-186,174,1,1,201950,Jrue Holiday,14,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+246,Pullup Jump shot,Missed Shot,116,0021500460,Shot Chart Detail,-12,193,11,2,201950,Jrue Holiday,43,1,19,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+247,Pullup Jump shot,Missed Shot,124,0021500460,Shot Chart Detail,12,139,10,2,201950,Jrue Holiday,42,1,13,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+248,Pullup Jump shot,Missed Shot,163,0021500460,Shot Chart Detail,87,100,6,2,201950,Jrue Holiday,47,1,13,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+249,Jump Shot,Made Shot,258,0021500460,Shot Chart Detail,-142,-5,8,3,201950,Jrue Holiday,39,1,14,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+250,Driving Layup Shot,Made Shot,395,0021500460,Shot Chart Detail,-16,-1,7,4,201950,Jrue Holiday,35,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+251,Jump Shot,Missed Shot,401,0021500460,Shot Chart Detail,232,-1,6,4,201950,Jrue Holiday,58,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+252,Floating Jump shot,Missed Shot,410,0021500460,Shot Chart Detail,58,31,5,4,201950,Jrue Holiday,36,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+253,Floating Jump shot,Missed Shot,431,0021500460,Shot Chart Detail,-74,31,3,4,201950,Jrue Holiday,30,1,8,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+254,Jump Shot,Missed Shot,87,0021500487,Shot Chart Detail,-243,11,3,1,201950,Jrue Holiday,11,1,24,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+255,Jump Bank Shot,Made Shot,132,0021500487,Shot Chart Detail,-73,21,10,2,201950,Jrue Holiday,22,1,7,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+256,Jump Shot,Missed Shot,181,0021500487,Shot Chart Detail,-55,82,5,2,201950,Jrue Holiday,21,1,9,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+257,Jump Shot,Missed Shot,300,0021500487,Shot Chart Detail,101,16,6,3,201950,Jrue Holiday,1,1,10,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+258,Jump Shot,Missed Shot,329,0021500487,Shot Chart Detail,-61,80,3,3,201950,Jrue Holiday,27,1,10,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+259,Layup Shot,Made Shot,420,0021500487,Shot Chart Detail,14,3,6,4,201950,Jrue Holiday,55,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+260,Jump Shot,Made Shot,456,0021500487,Shot Chart Detail,-35,247,3,4,201950,Jrue Holiday,25,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+261,Jump Shot,Made Shot,502,0021500487,Shot Chart Detail,2,141,0,4,201950,Jrue Holiday,53,1,14,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+262,Jump Shot,Missed Shot,78,0021500501,Shot Chart Detail,232,0,6,1,201950,Jrue Holiday,18,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+263,Driving Floating Jump Shot,Made Shot,90,0021500501,Shot Chart Detail,64,106,5,1,201950,Jrue Holiday,19,1,12,1,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+264,Running Jump Shot,Missed Shot,111,0021500501,Shot Chart Detail,30,11,2,1,201950,Jrue Holiday,31,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+265,Driving Dunk Shot,Made Shot,119,0021500501,Shot Chart Detail,0,1,1,1,201950,Jrue Holiday,43,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+266,Running Layup Shot,Made Shot,126,0021500501,Shot Chart Detail,14,7,1,1,201950,Jrue Holiday,27,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+267,Driving Layup Shot,Made Shot,162,0021500501,Shot Chart Detail,-16,8,10,2,201950,Jrue Holiday,3,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+268,Jump Shot,Missed Shot,204,0021500501,Shot Chart Detail,-79,160,6,2,201950,Jrue Holiday,21,1,17,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+269,Jump Shot,Made Shot,210,0021500501,Shot Chart Detail,-74,237,5,2,201950,Jrue Holiday,28,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+270,Jump Shot,Missed Shot,369,0021500501,Shot Chart Detail,-35,267,1,3,201950,Jrue Holiday,47,1,26,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+271,Jump Shot,Missed Shot,404,0021500501,Shot Chart Detail,38,341,0,3,201950,Jrue Holiday,1,1,34,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+272,Jump Shot,Missed Shot,422,0021500501,Shot Chart Detail,-97,232,10,4,201950,Jrue Holiday,17,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+273,Turnaround Jump Shot,Made Shot,462,0021500501,Shot Chart Detail,86,247,5,4,201950,Jrue Holiday,55,1,26,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+274,Driving Bank shot,Made Shot,492,0021500501,Shot Chart Detail,-56,51,3,4,201950,Jrue Holiday,53,1,7,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+275,Driving Layup Shot,Made Shot,539,0021500501,Shot Chart Detail,-9,18,0,4,201950,Jrue Holiday,10,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+276,Jump Shot,Missed Shot,87,0021500531,Shot Chart Detail,132,210,4,1,201950,Jrue Holiday,32,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+277,Jump Shot,Missed Shot,93,0021500531,Shot Chart Detail,-1,41,3,1,201950,Jrue Holiday,39,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+278,Jump Shot,Missed Shot,153,0021500531,Shot Chart Detail,-96,-10,10,2,201950,Jrue Holiday,35,1,9,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+279,Tip Layup Shot,Made Shot,159,0021500531,Shot Chart Detail,-11,-1,10,2,201950,Jrue Holiday,12,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+280,Driving Finger Roll Layup Shot,Made Shot,207,0021500531,Shot Chart Detail,1,13,6,2,201950,Jrue Holiday,55,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+281,Driving Layup Shot,Missed Shot,229,0021500531,Shot Chart Detail,-2,11,4,2,201950,Jrue Holiday,58,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+282,Pullup Jump shot,Missed Shot,234,0021500531,Shot Chart Detail,-37,149,4,2,201950,Jrue Holiday,46,1,15,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+283,Jump Shot,Made Shot,348,0021500531,Shot Chart Detail,-20,247,4,3,201950,Jrue Holiday,51,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+284,Layup Shot,Missed Shot,368,0021500531,Shot Chart Detail,15,2,3,3,201950,Jrue Holiday,47,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+285,Jump Bank Shot,Missed Shot,459,0021500531,Shot Chart Detail,-179,170,6,4,201950,Jrue Holiday,3,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+286,Running Layup Shot,Made Shot,485,0021500531,Shot Chart Detail,17,-1,2,4,201950,Jrue Holiday,32,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+287,Pullup Jump shot,Made Shot,502,0021500531,Shot Chart Detail,-115,169,1,4,201950,Jrue Holiday,33,1,20,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+288,Driving Layup Shot,Missed Shot,527,0021500531,Shot Chart Detail,-20,7,0,4,201950,Jrue Holiday,22,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+289,Driving Finger Roll Layup Shot,Made Shot,80,0021500544,Shot Chart Detail,-1,18,5,1,201950,Jrue Holiday,0,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+290,Cutting Layup Shot,Made Shot,112,0021500544,Shot Chart Detail,22,2,2,1,201950,Jrue Holiday,41,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+291,Jump Shot,Missed Shot,192,0021500544,Shot Chart Detail,202,95,6,2,201950,Jrue Holiday,26,1,22,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+292,Jump Shot,Made Shot,236,0021500544,Shot Chart Detail,-20,252,2,2,201950,Jrue Holiday,16,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+293,Jump Shot,Missed Shot,352,0021500544,Shot Chart Detail,163,90,3,3,201950,Jrue Holiday,42,1,18,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+294,Driving Layup Shot,Made Shot,361,0021500544,Shot Chart Detail,-7,0,2,3,201950,Jrue Holiday,36,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+295,Pullup Jump shot,Made Shot,376,0021500544,Shot Chart Detail,-11,170,1,3,201950,Jrue Holiday,2,1,17,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+296,Jump Shot,Missed Shot,380,0021500544,Shot Chart Detail,130,115,0,3,201950,Jrue Holiday,19,1,17,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+297,Jump Shot,Missed Shot,407,0021500544,Shot Chart Detail,-168,70,11,4,201950,Jrue Holiday,19,1,18,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+298,Reverse Layup Shot,Missed Shot,419,0021500544,Shot Chart Detail,9,13,10,4,201950,Jrue Holiday,14,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+299,Jump Shot,Missed Shot,435,0021500544,Shot Chart Detail,-133,47,8,4,201950,Jrue Holiday,37,1,14,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+300,Jump Shot,Missed Shot,525,0021500544,Shot Chart Detail,-189,169,0,4,201950,Jrue Holiday,41,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+301,Jump Shot,Missed Shot,105,0021500558,Shot Chart Detail,117,101,1,1,201950,Jrue Holiday,19,1,15,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+302,Running Layup Shot,Missed Shot,112,0021500558,Shot Chart Detail,22,23,0,1,201950,Jrue Holiday,34,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+303,Pullup Jump shot,Made Shot,133,0021500558,Shot Chart Detail,40,106,11,2,201950,Jrue Holiday,10,1,11,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+304,Driving Layup Shot,Made Shot,141,0021500558,Shot Chart Detail,-4,47,9,2,201950,Jrue Holiday,54,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+305,Jump Shot,Missed Shot,155,0021500558,Shot Chart Detail,-156,106,9,2,201950,Jrue Holiday,2,1,18,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+306,Jump Shot,Missed Shot,183,0021500558,Shot Chart Detail,-133,124,6,2,201950,Jrue Holiday,33,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+307,Jump Shot,Missed Shot,200,0021500558,Shot Chart Detail,-130,-6,4,2,201950,Jrue Holiday,50,1,13,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+308,Floating Jump shot,Missed Shot,227,0021500558,Shot Chart Detail,-19,56,3,2,201950,Jrue Holiday,53,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+309,Driving Layup Shot,Made Shot,237,0021500558,Shot Chart Detail,14,11,3,2,201950,Jrue Holiday,15,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+310,Jump Shot,Missed Shot,254,0021500558,Shot Chart Detail,-138,124,1,2,201950,Jrue Holiday,59,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+311,Driving Layup Shot,Made Shot,270,0021500558,Shot Chart Detail,-20,16,1,2,201950,Jrue Holiday,31,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+312,Layup Shot,Missed Shot,278,0021500558,Shot Chart Detail,-6,14,1,2,201950,Jrue Holiday,4,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+313,Jump Shot,Missed Shot,386,0021500558,Shot Chart Detail,-107,165,2,3,201950,Jrue Holiday,14,1,19,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+314,Pullup Jump shot,Made Shot,394,0021500558,Shot Chart Detail,58,120,0,3,201950,Jrue Holiday,49,1,13,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+315,Driving Dunk Shot,Made Shot,403,0021500558,Shot Chart Detail,0,1,0,3,201950,Jrue Holiday,0,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+316,Jump Shot,Missed Shot,433,0021500558,Shot Chart Detail,-142,219,9,4,201950,Jrue Holiday,18,1,26,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+317,Layup Shot,Missed Shot,437,0021500558,Shot Chart Detail,10,21,9,4,201950,Jrue Holiday,7,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+318,Reverse Dunk Shot,Made Shot,458,0021500558,Shot Chart Detail,0,1,7,4,201950,Jrue Holiday,11,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+319,Jump Shot,Missed Shot,465,0021500558,Shot Chart Detail,-50,174,6,4,201950,Jrue Holiday,17,1,18,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+320,Driving Dunk Shot,Made Shot,480,0021500558,Shot Chart Detail,0,1,4,4,201950,Jrue Holiday,48,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+321,Driving Floating Jump Shot,Made Shot,484,0021500558,Shot Chart Detail,46,21,4,4,201950,Jrue Holiday,1,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+322,Jump Shot,Made Shot,490,0021500558,Shot Chart Detail,138,232,3,4,201950,Jrue Holiday,30,1,26,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+323,Jump Shot,Missed Shot,535,0021500558,Shot Chart Detail,-135,120,0,4,201950,Jrue Holiday,49,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+324,Jump Shot,Made Shot,588,0021500558,Shot Chart Detail,-45,151,2,5,201950,Jrue Holiday,42,1,15,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+325,Jump Shot,Missed Shot,590,0021500558,Shot Chart Detail,-225,164,2,5,201950,Jrue Holiday,6,1,27,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+326,Jump Shot,Missed Shot,594,0021500558,Shot Chart Detail,-92,237,1,5,201950,Jrue Holiday,42,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+327,Driving Layup Shot,Missed Shot,626,0021500558,Shot Chart Detail,-14,26,0,5,201950,Jrue Holiday,24,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+328,Pullup Jump shot,Missed Shot,77,0021500576,Shot Chart Detail,71,232,3,1,201950,Jrue Holiday,27,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+329,Driving Layup Shot,Missed Shot,85,0021500576,Shot Chart Detail,-2,-6,3,1,201950,Jrue Holiday,0,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+330,Pullup Jump shot,Missed Shot,97,0021500576,Shot Chart Detail,-101,70,1,1,201950,Jrue Holiday,17,1,12,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+331,Driving Layup Shot,Made Shot,162,0021500576,Shot Chart Detail,9,11,8,2,201950,Jrue Holiday,22,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+332,Pullup Jump shot,Made Shot,396,0021500576,Shot Chart Detail,74,134,1,3,201950,Jrue Holiday,57,1,15,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+333,Cutting Layup Shot,Made Shot,404,0021500576,Shot Chart Detail,-17,3,1,3,201950,Jrue Holiday,7,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+334,Driving Layup Shot,Made Shot,410,0021500576,Shot Chart Detail,-11,7,0,3,201950,Jrue Holiday,29,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+335,Pullup Bank shot,Missed Shot,421,0021500576,Shot Chart Detail,125,62,11,4,201950,Jrue Holiday,45,1,13,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+336,Pullup Jump shot,Missed Shot,433,0021500576,Shot Chart Detail,0,188,10,4,201950,Jrue Holiday,14,1,18,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+337,Jump Shot,Missed Shot,446,0021500576,Shot Chart Detail,-55,111,8,4,201950,Jrue Holiday,37,1,12,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+338,Jump Shot,Missed Shot,458,0021500576,Shot Chart Detail,81,232,8,4,201950,Jrue Holiday,8,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+339,Driving Layup Shot,Made Shot,471,0021500576,Shot Chart Detail,-9,21,6,4,201950,Jrue Holiday,45,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+340,Driving Floating Jump Shot,Missed Shot,481,0021500576,Shot Chart Detail,-30,57,5,4,201950,Jrue Holiday,49,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+341,Jump Shot,Missed Shot,505,0021500576,Shot Chart Detail,232,-1,3,4,201950,Jrue Holiday,38,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+342,Pullup Jump shot,Made Shot,517,0021500576,Shot Chart Detail,9,169,2,4,201950,Jrue Holiday,23,1,16,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+343,Driving Layup Shot,Missed Shot,523,0021500576,Shot Chart Detail,6,16,1,4,201950,Jrue Holiday,58,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+344,Cutting Layup Shot,Made Shot,538,0021500576,Shot Chart Detail,-16,0,1,4,201950,Jrue Holiday,7,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+345,Jump Shot,Missed Shot,546,0021500576,Shot Chart Detail,64,239,0,4,201950,Jrue Holiday,32,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+346,Jump Shot,Missed Shot,71,0021500585,Shot Chart Detail,236,11,2,1,201950,Jrue Holiday,40,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+347,Jump Shot,Missed Shot,85,0021500585,Shot Chart Detail,-12,129,2,1,201950,Jrue Holiday,1,1,12,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+348,Jump Shot,Missed Shot,112,0021500585,Shot Chart Detail,37,278,0,1,201950,Jrue Holiday,0,1,28,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+349,Jump Shot,Missed Shot,117,0021500585,Shot Chart Detail,0,139,11,2,201950,Jrue Holiday,47,1,13,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+350,Floating Jump shot,Made Shot,288,0021500585,Shot Chart Detail,-4,101,6,3,201950,Jrue Holiday,42,1,10,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+351,Jump Shot,Missed Shot,325,0021500585,Shot Chart Detail,-125,213,3,3,201950,Jrue Holiday,39,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+352,Jump Shot,Missed Shot,338,0021500585,Shot Chart Detail,119,232,2,3,201950,Jrue Holiday,28,1,26,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+353,Reverse Layup Shot,Made Shot,363,0021500585,Shot Chart Detail,-22,21,0,3,201950,Jrue Holiday,19,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+354,Jump Shot,Missed Shot,376,0021500585,Shot Chart Detail,-6,15,11,4,201950,Jrue Holiday,35,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+355,Jump Shot,Missed Shot,383,0021500585,Shot Chart Detail,-38,41,10,4,201950,Jrue Holiday,29,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+356,Jump Shot,Missed Shot,434,0021500585,Shot Chart Detail,138,141,6,4,201950,Jrue Holiday,13,1,19,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+357,Jump Shot,Missed Shot,475,0021500585,Shot Chart Detail,140,134,1,4,201950,Jrue Holiday,54,1,19,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+358,Driving Layup Shot,Made Shot,70,0021500598,Shot Chart Detail,1,16,4,1,201950,Jrue Holiday,33,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+359,Pullup Jump shot,Made Shot,91,0021500598,Shot Chart Detail,-42,149,1,1,201950,Jrue Holiday,38,1,15,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+360,Jump Shot,Missed Shot,109,0021500598,Shot Chart Detail,94,228,11,2,201950,Jrue Holiday,40,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+361,Layup Shot,Missed Shot,114,0021500598,Shot Chart Detail,14,16,10,2,201950,Jrue Holiday,55,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+362,Layup Shot,Missed Shot,144,0021500598,Shot Chart Detail,24,7,6,2,201950,Jrue Holiday,47,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+363,Jump Shot,Missed Shot,291,0021500598,Shot Chart Detail,1,61,4,3,201950,Jrue Holiday,13,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+364,Jump Shot,Missed Shot,316,0021500598,Shot Chart Detail,86,237,2,3,201950,Jrue Holiday,52,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+365,Layup Shot,Missed Shot,359,0021500598,Shot Chart Detail,22,2,10,4,201950,Jrue Holiday,42,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+366,Layup Shot,Missed Shot,371,0021500598,Shot Chart Detail,6,11,9,4,201950,Jrue Holiday,29,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+367,Driving Layup Shot,Made Shot,382,0021500598,Shot Chart Detail,-19,2,8,4,201950,Jrue Holiday,9,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+368,Jump Shot,Made Shot,385,0021500598,Shot Chart Detail,60,244,7,4,201950,Jrue Holiday,48,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+369,Layup Shot,Missed Shot,396,0021500598,Shot Chart Detail,2,7,6,4,201950,Jrue Holiday,42,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+370,Turnaround Jump Shot,Made Shot,426,0021500598,Shot Chart Detail,12,62,4,4,201950,Jrue Holiday,5,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+371,Turnaround Jump Shot,Made Shot,446,0021500598,Shot Chart Detail,82,46,0,4,201950,Jrue Holiday,57,1,9,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+372,Driving Layup Shot,Made Shot,100,0021500618,Shot Chart Detail,-2,-1,0,1,201950,Jrue Holiday,53,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+373,Pullup Jump shot,Made Shot,107,0021500618,Shot Chart Detail,143,116,0,1,201950,Jrue Holiday,16,1,18,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+374,Step Back Jump shot,Missed Shot,122,0021500618,Shot Chart Detail,207,151,11,2,201950,Jrue Holiday,11,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+375,Driving Reverse Layup Shot,Made Shot,130,0021500618,Shot Chart Detail,12,-5,10,2,201950,Jrue Holiday,7,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+376,Pullup Jump shot,Made Shot,189,0021500618,Shot Chart Detail,50,26,3,2,201950,Jrue Holiday,47,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+377,Jump Shot,Missed Shot,304,0021500618,Shot Chart Detail,153,106,5,3,201950,Jrue Holiday,57,1,18,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+378,Driving Reverse Layup Shot,Missed Shot,320,0021500618,Shot Chart Detail,10,7,4,3,201950,Jrue Holiday,23,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+379,Jump Shot,Missed Shot,328,0021500618,Shot Chart Detail,101,165,3,3,201950,Jrue Holiday,26,1,19,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+380,Jump Shot,Made Shot,374,0021500618,Shot Chart Detail,209,146,0,3,201950,Jrue Holiday,1,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+381,Jump Shot,Made Shot,379,0021500618,Shot Chart Detail,-148,-1,11,4,201950,Jrue Holiday,29,1,14,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+382,Layup Shot,Made Shot,450,0021500618,Shot Chart Detail,-4,-6,5,4,201950,Jrue Holiday,50,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+383,Jump Shot,Made Shot,462,0021500618,Shot Chart Detail,1,144,4,4,201950,Jrue Holiday,35,1,14,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+384,Cutting Layup Shot,Made Shot,516,0021500618,Shot Chart Detail,-17,-1,0,4,201950,Jrue Holiday,4,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+385,Jump Shot,Missed Shot,95,0021500626,Shot Chart Detail,-150,144,3,1,201950,Jrue Holiday,5,1,20,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+386,Driving Layup Shot,Made Shot,103,0021500626,Shot Chart Detail,4,21,2,1,201950,Jrue Holiday,50,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+387,Layup Shot,Missed Shot,143,0021500626,Shot Chart Detail,-29,-1,11,2,201950,Jrue Holiday,14,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+388,Jump Shot,Made Shot,151,0021500626,Shot Chart Detail,76,239,10,2,201950,Jrue Holiday,43,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+389,Driving Layup Shot,Made Shot,185,0021500626,Shot Chart Detail,9,8,7,2,201950,Jrue Holiday,51,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+390,Jump Shot,Missed Shot,433,0021500626,Shot Chart Detail,-165,0,2,3,201950,Jrue Holiday,51,1,16,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+391,Jump Shot,Missed Shot,469,0021500626,Shot Chart Detail,-101,232,0,3,201950,Jrue Holiday,49,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+392,Pullup Jump shot,Made Shot,474,0021500626,Shot Chart Detail,-83,121,0,3,201950,Jrue Holiday,2,1,14,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+393,Layup Shot,Missed Shot,494,0021500626,Shot Chart Detail,12,18,10,4,201950,Jrue Holiday,18,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+394,Jump Shot,Missed Shot,504,0021500626,Shot Chart Detail,-53,159,9,4,201950,Jrue Holiday,48,1,16,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+395,Jump Shot,Made Shot,525,0021500626,Shot Chart Detail,-4,247,7,4,201950,Jrue Holiday,47,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+396,Layup Shot,Missed Shot,538,0021500626,Shot Chart Detail,17,-1,6,4,201950,Jrue Holiday,25,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+397,Fadeaway Jump Shot,Made Shot,574,0021500626,Shot Chart Detail,-88,36,4,4,201950,Jrue Holiday,17,1,9,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+398,Driving Finger Roll Layup Shot,Made Shot,606,0021500626,Shot Chart Detail,15,8,1,4,201950,Jrue Holiday,21,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+399,Turnaround Jump Shot,Made Shot,74,0021500641,Shot Chart Detail,-30,7,3,1,201950,Jrue Holiday,46,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+400,Jump Shot,Missed Shot,106,0021500641,Shot Chart Detail,69,136,0,1,201950,Jrue Holiday,59,1,15,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+401,Driving Finger Roll Layup Shot,Made Shot,118,0021500641,Shot Chart Detail,0,11,11,2,201950,Jrue Holiday,48,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+402,Driving Layup Shot,Missed Shot,121,0021500641,Shot Chart Detail,-35,16,11,2,201950,Jrue Holiday,10,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+403,Jump Shot,Missed Shot,156,0021500641,Shot Chart Detail,-25,61,6,2,201950,Jrue Holiday,40,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+404,Pullup Jump shot,Missed Shot,330,0021500641,Shot Chart Detail,78,141,3,3,201950,Jrue Holiday,46,1,16,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+405,Driving Reverse Layup Shot,Made Shot,350,0021500641,Shot Chart Detail,-11,8,2,3,201950,Jrue Holiday,9,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+406,Jump Shot,Missed Shot,352,0021500641,Shot Chart Detail,25,26,1,3,201950,Jrue Holiday,29,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+407,Jump Shot,Missed Shot,382,0021500641,Shot Chart Detail,-58,237,11,4,201950,Jrue Holiday,28,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+408,Jump Shot,Missed Shot,445,0021500641,Shot Chart Detail,-60,16,5,4,201950,Jrue Holiday,44,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+409,Layup Shot,Missed Shot,465,0021500641,Shot Chart Detail,-17,8,4,4,201950,Jrue Holiday,29,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+410,Pullup Jump shot,Missed Shot,92,0021500657,Shot Chart Detail,-40,146,2,1,201950,Jrue Holiday,31,1,15,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+411,Driving Layup Shot,Made Shot,102,0021500657,Shot Chart Detail,-17,0,2,1,201950,Jrue Holiday,9,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+412,Driving Reverse Layup Shot,Missed Shot,229,0021500657,Shot Chart Detail,19,-1,3,2,201950,Jrue Holiday,31,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+413,Running Dunk Shot,Made Shot,235,0021500657,Shot Chart Detail,0,1,2,2,201950,Jrue Holiday,46,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+414,Driving Layup Shot,Made Shot,249,0021500657,Shot Chart Detail,-16,7,1,2,201950,Jrue Holiday,54,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+415,Driving Layup Shot,Made Shot,360,0021500657,Shot Chart Detail,-27,2,0,3,201950,Jrue Holiday,42,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+416,Jump Shot,Missed Shot,378,0021500657,Shot Chart Detail,68,95,11,4,201950,Jrue Holiday,44,1,11,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+417,Pullup Jump shot,Made Shot,401,0021500657,Shot Chart Detail,137,223,9,4,201950,Jrue Holiday,12,1,26,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+418,Driving Finger Roll Layup Shot,Made Shot,430,0021500657,Shot Chart Detail,-2,16,6,4,201950,Jrue Holiday,0,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+419,Jump Shot,Missed Shot,440,0021500657,Shot Chart Detail,-68,169,5,4,201950,Jrue Holiday,3,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+420,Jump Shot,Missed Shot,479,0021500657,Shot Chart Detail,213,110,2,4,201950,Jrue Holiday,25,1,23,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+421,Jump Shot,Missed Shot,82,0021500671,Shot Chart Detail,-104,105,4,1,201950,Jrue Holiday,34,1,14,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+422,Tip Layup Shot,Missed Shot,93,0021500671,Shot Chart Detail,22,5,3,1,201950,Jrue Holiday,17,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+423,Driving Reverse Layup Shot,Made Shot,100,0021500671,Shot Chart Detail,-22,-6,2,1,201950,Jrue Holiday,52,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+424,Pullup Jump shot,Made Shot,140,0021500671,Shot Chart Detail,-7,65,11,2,201950,Jrue Holiday,35,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+425,Layup Shot,Made Shot,143,0021500671,Shot Chart Detail,17,8,11,2,201950,Jrue Holiday,4,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+426,Driving Reverse Layup Shot,Made Shot,149,0021500671,Shot Chart Detail,-19,-11,10,2,201950,Jrue Holiday,23,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+427,Driving Layup Shot,Made Shot,167,0021500671,Shot Chart Detail,6,21,9,2,201950,Jrue Holiday,2,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+428,Jump Shot,Missed Shot,199,0021500671,Shot Chart Detail,-22,242,6,2,201950,Jrue Holiday,30,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+429,Layup Shot,Made Shot,238,0021500671,Shot Chart Detail,12,13,3,2,201950,Jrue Holiday,26,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+430,Jump Shot,Made Shot,389,0021500671,Shot Chart Detail,189,169,2,3,201950,Jrue Holiday,13,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+431,Layup Shot,Made Shot,392,0021500671,Shot Chart Detail,-25,-5,1,3,201950,Jrue Holiday,37,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+432,Jump Shot,Made Shot,404,0021500671,Shot Chart Detail,9,247,0,3,201950,Jrue Holiday,49,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+433,Jump Shot,Missed Shot,430,0021500671,Shot Chart Detail,166,185,11,4,201950,Jrue Holiday,3,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+434,Jump Shot,Missed Shot,447,0021500671,Shot Chart Detail,-74,105,10,4,201950,Jrue Holiday,8,1,12,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+435,Driving Finger Roll Layup Shot,Made Shot,489,0021500671,Shot Chart Detail,-2,13,6,4,201950,Jrue Holiday,50,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+436,Jump Shot,Missed Shot,496,0021500671,Shot Chart Detail,-89,111,6,4,201950,Jrue Holiday,26,1,14,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+437,Fadeaway Jump Shot,Made Shot,533,0021500671,Shot Chart Detail,123,3,3,4,201950,Jrue Holiday,53,1,12,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+438,Jump Shot,Missed Shot,542,0021500671,Shot Chart Detail,125,100,2,4,201950,Jrue Holiday,45,1,16,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+439,Driving Layup Shot,Made Shot,549,0021500671,Shot Chart Detail,6,18,2,4,201950,Jrue Holiday,17,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+440,Driving Layup Shot,Made Shot,573,0021500671,Shot Chart Detail,-22,-5,0,4,201950,Jrue Holiday,28,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+441,Jump Shot,Missed Shot,580,0021500671,Shot Chart Detail,132,301,0,4,201950,Jrue Holiday,0,1,32,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+442,Jump Shot,Missed Shot,74,0021500696,Shot Chart Detail,-4,61,3,1,201950,Jrue Holiday,22,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+443,Pullup Jump shot,Made Shot,80,0021500696,Shot Chart Detail,140,72,2,1,201950,Jrue Holiday,29,1,15,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+444,Step Back Jump shot,Made Shot,93,0021500696,Shot Chart Detail,-178,-1,1,1,201950,Jrue Holiday,28,1,17,1,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+445,Jump Shot,Missed Shot,99,0021500696,Shot Chart Detail,-142,2,0,1,201950,Jrue Holiday,14,1,14,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+446,Layup Shot,Missed Shot,116,0021500696,Shot Chart Detail,14,0,11,2,201950,Jrue Holiday,35,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+447,Driving Layup Shot,Made Shot,127,0021500696,Shot Chart Detail,-12,7,10,2,201950,Jrue Holiday,25,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+448,Step Back Jump shot,Made Shot,130,0021500696,Shot Chart Detail,-101,224,10,2,201950,Jrue Holiday,5,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+449,Jump Shot,Missed Shot,137,0021500696,Shot Chart Detail,-58,139,9,2,201950,Jrue Holiday,20,1,15,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+450,Driving Layup Shot,Made Shot,147,0021500696,Shot Chart Detail,15,11,8,2,201950,Jrue Holiday,9,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+451,Jump Shot,Missed Shot,151,0021500696,Shot Chart Detail,-163,218,7,2,201950,Jrue Holiday,41,1,27,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+452,Cutting Layup Shot,Made Shot,220,0021500696,Shot Chart Detail,-14,7,2,2,201950,Jrue Holiday,28,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+453,Driving Layup Shot,Made Shot,347,0021500696,Shot Chart Detail,-17,-1,4,3,201950,Jrue Holiday,21,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+454,Jump Shot,Missed Shot,373,0021500696,Shot Chart Detail,110,229,2,3,201950,Jrue Holiday,20,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+455,Driving Layup Shot,Missed Shot,419,0021500696,Shot Chart Detail,-20,0,11,4,201950,Jrue Holiday,22,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+456,Jump Shot,Missed Shot,426,0021500696,Shot Chart Detail,38,56,10,4,201950,Jrue Holiday,54,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+457,Jump Shot,Missed Shot,457,0021500696,Shot Chart Detail,-97,159,8,4,201950,Jrue Holiday,59,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+458,Jump Shot,Missed Shot,475,0021500696,Shot Chart Detail,1,41,7,4,201950,Jrue Holiday,14,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+459,Layup Shot,Missed Shot,477,0021500696,Shot Chart Detail,-9,11,7,4,201950,Jrue Holiday,12,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+460,Driving Reverse Layup Shot,Missed Shot,494,0021500696,Shot Chart Detail,-11,8,5,4,201950,Jrue Holiday,51,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+461,Jump Shot,Missed Shot,502,0021500696,Shot Chart Detail,-7,139,5,4,201950,Jrue Holiday,15,1,13,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+462,Layup Shot,Missed Shot,509,0021500696,Shot Chart Detail,22,2,4,4,201950,Jrue Holiday,8,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+463,Jump Shot,Missed Shot,521,0021500696,Shot Chart Detail,191,156,3,4,201950,Jrue Holiday,5,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+464,Jump Shot,Missed Shot,531,0021500696,Shot Chart Detail,-63,70,2,4,201950,Jrue Holiday,21,1,9,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+465,Layup Shot,Made Shot,547,0021500696,Shot Chart Detail,-19,11,1,4,201950,Jrue Holiday,8,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+466,Running Jump Shot,Missed Shot,94,0021500710,Shot Chart Detail,-222,232,0,1,201950,Jrue Holiday,0,1,32,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+467,Driving Bank shot,Made Shot,102,0021500710,Shot Chart Detail,51,8,11,2,201950,Jrue Holiday,33,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+468,Floating Jump shot,Missed Shot,111,0021500710,Shot Chart Detail,37,18,10,2,201950,Jrue Holiday,33,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+469,Jump Shot,Made Shot,125,0021500710,Shot Chart Detail,51,234,9,2,201950,Jrue Holiday,32,1,23,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+470,Jump Shot,Missed Shot,227,0021500710,Shot Chart Detail,-6,252,1,2,201950,Jrue Holiday,16,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+471,Driving Layup Shot,Made Shot,347,0021500710,Shot Chart Detail,12,11,1,3,201950,Jrue Holiday,31,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+472,Driving Layup Shot,Made Shot,355,0021500710,Shot Chart Detail,-17,0,0,3,201950,Jrue Holiday,26,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+473,Pullup Jump shot,Made Shot,363,0021500710,Shot Chart Detail,-120,111,11,4,201950,Jrue Holiday,41,1,16,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+474,Driving Layup Shot,Made Shot,374,0021500710,Shot Chart Detail,-24,2,10,4,201950,Jrue Holiday,43,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+475,Jump Shot,Made Shot,381,0021500710,Shot Chart Detail,68,237,10,4,201950,Jrue Holiday,23,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+476,Running Jump Shot,Made Shot,408,0021500710,Shot Chart Detail,25,75,8,4,201950,Jrue Holiday,31,1,7,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+477,Jump Shot,Missed Shot,417,0021500710,Shot Chart Detail,-163,183,7,4,201950,Jrue Holiday,34,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+478,Jump Shot,Missed Shot,435,0021500710,Shot Chart Detail,-186,169,4,4,201950,Jrue Holiday,54,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+479,Jump Shot,Missed Shot,438,0021500710,Shot Chart Detail,-42,26,4,4,201950,Jrue Holiday,28,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+480,Jump Shot,Missed Shot,441,0021500710,Shot Chart Detail,-35,18,4,4,201950,Jrue Holiday,13,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+481,Driving Layup Shot,Missed Shot,452,0021500710,Shot Chart Detail,-11,3,3,4,201950,Jrue Holiday,39,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+482,Jump Shot,Missed Shot,470,0021500710,Shot Chart Detail,-66,139,1,4,201950,Jrue Holiday,17,1,15,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+483,Jump Shot,Made Shot,486,0021500710,Shot Chart Detail,-214,115,0,4,201950,Jrue Holiday,9,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+484,Fadeaway Jump Shot,Made Shot,495,0021500710,Shot Chart Detail,179,75,0,4,201950,Jrue Holiday,1,1,19,1,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+485,Jump Shot,Missed Shot,93,0021500724,Shot Chart Detail,-168,183,1,1,201950,Jrue Holiday,51,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+486,Jump Shot,Missed Shot,147,0021500724,Shot Chart Detail,232,7,8,2,201950,Jrue Holiday,10,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+487,Driving Layup Shot,Made Shot,151,0021500724,Shot Chart Detail,-22,3,7,2,201950,Jrue Holiday,43,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+488,Jump Shot,Missed Shot,179,0021500724,Shot Chart Detail,-142,62,5,2,201950,Jrue Holiday,41,1,15,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+489,Jump Shot,Missed Shot,193,0021500724,Shot Chart Detail,-79,38,5,2,201950,Jrue Holiday,15,1,8,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+490,Jump Shot,Missed Shot,216,0021500724,Shot Chart Detail,-189,169,2,2,201950,Jrue Holiday,33,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+491,Jump Shot,Missed Shot,319,0021500724,Shot Chart Detail,33,51,2,3,201950,Jrue Holiday,53,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+492,Jump Shot,Missed Shot,326,0021500724,Shot Chart Detail,-47,249,2,3,201950,Jrue Holiday,8,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+493,Layup Shot,Missed Shot,339,0021500724,Shot Chart Detail,-17,0,0,3,201950,Jrue Holiday,3,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+494,Layup Shot,Missed Shot,353,0021500724,Shot Chart Detail,12,2,10,4,201950,Jrue Holiday,32,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+495,Jump Shot,Missed Shot,369,0021500724,Shot Chart Detail,161,70,9,4,201950,Jrue Holiday,35,1,17,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+496,Jump Shot,Missed Shot,381,0021500724,Shot Chart Detail,9,36,8,4,201950,Jrue Holiday,42,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+497,Jump Shot,Missed Shot,410,0021500724,Shot Chart Detail,102,65,6,4,201950,Jrue Holiday,16,1,12,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+498,Layup Shot,Missed Shot,422,0021500724,Shot Chart Detail,4,7,5,4,201950,Jrue Holiday,28,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+499,Jump Shot,Missed Shot,70,0021500742,Shot Chart Detail,-100,222,3,1,201950,Jrue Holiday,41,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+500,Jump Shot,Made Shot,84,0021500742,Shot Chart Detail,0,47,3,1,201950,Jrue Holiday,5,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+501,Finger Roll Layup Shot,Missed Shot,92,0021500742,Shot Chart Detail,-6,3,2,1,201950,Jrue Holiday,4,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+502,Step Back Jump shot,Made Shot,100,0021500742,Shot Chart Detail,-168,23,1,1,201950,Jrue Holiday,11,1,16,1,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+503,Pullup Jump shot,Made Shot,115,0021500742,Shot Chart Detail,62,146,11,2,201950,Jrue Holiday,48,1,15,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+504,Pullup Jump shot,Made Shot,124,0021500742,Shot Chart Detail,122,65,10,2,201950,Jrue Holiday,11,1,13,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+505,Pullup Jump shot,Made Shot,145,0021500742,Shot Chart Detail,-1,139,8,2,201950,Jrue Holiday,22,1,13,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+506,Driving Reverse Layup Shot,Made Shot,175,0021500742,Shot Chart Detail,-17,2,4,2,201950,Jrue Holiday,55,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+507,Driving Floating Bank Jump Shot,Made Shot,325,0021500742,Shot Chart Detail,43,36,3,3,201950,Jrue Holiday,4,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+508,Pullup Jump shot,Made Shot,365,0021500742,Shot Chart Detail,-58,144,11,4,201950,Jrue Holiday,29,1,15,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+509,Jump Shot,Missed Shot,384,0021500742,Shot Chart Detail,9,65,9,4,201950,Jrue Holiday,1,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+510,Jump Shot,Missed Shot,396,0021500742,Shot Chart Detail,0,183,7,4,201950,Jrue Holiday,58,1,18,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+511,Floating Jump shot,Missed Shot,408,0021500742,Shot Chart Detail,12,36,6,4,201950,Jrue Holiday,7,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+512,Finger Roll Layup Shot,Missed Shot,410,0021500742,Shot Chart Detail,-20,7,6,4,201950,Jrue Holiday,2,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+513,Driving Layup Shot,Missed Shot,413,0021500742,Shot Chart Detail,42,8,5,4,201950,Jrue Holiday,27,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+514,Jump Shot,Missed Shot,471,0021500742,Shot Chart Detail,-207,159,1,4,201950,Jrue Holiday,21,1,26,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+515,Jump Shot,Missed Shot,490,0021500742,Shot Chart Detail,205,154,0,4,201950,Jrue Holiday,4,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+516,Jump Shot,Made Shot,46,0021500747,Shot Chart Detail,123,159,7,1,201950,Jrue Holiday,35,1,20,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+517,Running Jump Shot,Missed Shot,66,0021500747,Shot Chart Detail,97,11,4,1,201950,Jrue Holiday,26,1,9,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+518,Jump Shot,Made Shot,131,0021500747,Shot Chart Detail,-88,149,0,1,201950,Jrue Holiday,32,1,17,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+519,Driving Layup Shot,Missed Shot,180,0021500747,Shot Chart Detail,24,2,7,2,201950,Jrue Holiday,59,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+520,Jump Shot,Missed Shot,186,0021500747,Shot Chart Detail,-125,223,7,2,201950,Jrue Holiday,22,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+521,Driving Finger Roll Layup Shot,Made Shot,241,0021500747,Shot Chart Detail,-22,11,2,2,201950,Jrue Holiday,37,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+522,Pullup Jump shot,Made Shot,243,0021500747,Shot Chart Detail,69,77,2,2,201950,Jrue Holiday,4,1,10,1,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+523,Jump Shot,Missed Shot,247,0021500747,Shot Chart Detail,-30,11,1,2,201950,Jrue Holiday,31,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+524,Jump Shot,Made Shot,333,0021500747,Shot Chart Detail,81,178,5,3,201950,Jrue Holiday,28,1,19,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+525,Jump Shot,Missed Shot,339,0021500747,Shot Chart Detail,-27,252,4,3,201950,Jrue Holiday,35,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+526,Jump Shot,Missed Shot,350,0021500747,Shot Chart Detail,-143,97,3,3,201950,Jrue Holiday,42,1,17,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+527,Jump Shot,Missed Shot,379,0021500747,Shot Chart Detail,66,242,1,3,201950,Jrue Holiday,59,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+528,Pullup Jump shot,Made Shot,390,0021500747,Shot Chart Detail,66,57,1,3,201950,Jrue Holiday,8,1,8,1,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+529,Jump Shot,Missed Shot,396,0021500747,Shot Chart Detail,81,85,0,3,201950,Jrue Holiday,26,1,11,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+530,Driving Layup Shot,Made Shot,405,0021500747,Shot Chart Detail,-17,2,11,4,201950,Jrue Holiday,10,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+531,Jump Shot,Missed Shot,407,0021500747,Shot Chart Detail,-94,46,10,4,201950,Jrue Holiday,42,1,10,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+532,Jump Shot,Missed Shot,422,0021500747,Shot Chart Detail,-47,242,8,4,201950,Jrue Holiday,39,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+533,Driving Dunk Shot,Made Shot,465,0021500747,Shot Chart Detail,0,1,5,4,201950,Jrue Holiday,22,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+534,Jump Shot,Made Shot,482,0021500747,Shot Chart Detail,61,244,3,4,201950,Jrue Holiday,35,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+535,Jump Shot,Missed Shot,523,0021500747,Shot Chart Detail,135,214,0,4,201950,Jrue Holiday,0,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+536,Floating Jump shot,Missed Shot,53,0021500763,Shot Chart Detail,-42,70,5,1,201950,Jrue Holiday,37,1,8,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+537,Cutting Layup Shot,Made Shot,60,0021500763,Shot Chart Detail,-20,7,5,1,201950,Jrue Holiday,6,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+538,Jump Shot,Made Shot,103,0021500763,Shot Chart Detail,-122,232,0,1,201950,Jrue Holiday,19,1,26,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+539,Jump Bank Shot,Missed Shot,109,0021500763,Shot Chart Detail,-110,61,11,2,201950,Jrue Holiday,50,1,12,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+540,Reverse Layup Shot,Missed Shot,111,0021500763,Shot Chart Detail,27,3,11,2,201950,Jrue Holiday,47,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+541,Jump Shot,Made Shot,129,0021500763,Shot Chart Detail,143,-11,10,2,201950,Jrue Holiday,32,1,14,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+542,Jump Shot,Missed Shot,132,0021500763,Shot Chart Detail,145,213,10,2,201950,Jrue Holiday,7,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+543,Driving Layup Shot,Made Shot,141,0021500763,Shot Chart Detail,-6,-5,9,2,201950,Jrue Holiday,14,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+544,Driving Layup Shot,Missed Shot,310,0021500763,Shot Chart Detail,-6,2,4,3,201950,Jrue Holiday,44,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+545,Jump Shot,Missed Shot,314,0021500763,Shot Chart Detail,-169,193,4,3,201950,Jrue Holiday,9,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+546,Jump Shot,Missed Shot,335,0021500763,Shot Chart Detail,22,95,2,3,201950,Jrue Holiday,26,1,9,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+547,Jump Shot,Missed Shot,385,0021500763,Shot Chart Detail,223,105,10,4,201950,Jrue Holiday,42,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+548,Jump Shot,Missed Shot,391,0021500763,Shot Chart Detail,38,52,10,4,201950,Jrue Holiday,15,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+549,Jump Shot,Made Shot,394,0021500763,Shot Chart Detail,-63,151,10,4,201950,Jrue Holiday,4,1,16,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+550,Jump Bank Shot,Missed Shot,400,0021500763,Shot Chart Detail,-34,11,9,4,201950,Jrue Holiday,38,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+551,Driving Floating Bank Jump Shot,Missed Shot,408,0021500763,Shot Chart Detail,-22,61,8,4,201950,Jrue Holiday,53,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+552,Driving Layup Shot,Missed Shot,443,0021500763,Shot Chart Detail,-16,2,5,4,201950,Jrue Holiday,50,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+553,Step Back Jump shot,Missed Shot,476,0021500763,Shot Chart Detail,61,124,2,4,201950,Jrue Holiday,25,1,13,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+554,Jump Shot,Made Shot,66,0021500782,Shot Chart Detail,-156,198,5,1,201950,Jrue Holiday,42,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+555,Driving Layup Shot,Missed Shot,68,0021500782,Shot Chart Detail,-14,11,5,1,201950,Jrue Holiday,12,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+556,Jump Shot,Made Shot,73,0021500782,Shot Chart Detail,82,232,4,1,201950,Jrue Holiday,43,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+557,Pullup Jump shot,Missed Shot,80,0021500782,Shot Chart Detail,-83,159,3,1,201950,Jrue Holiday,31,1,17,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+558,Driving Layup Shot,Made Shot,86,0021500782,Shot Chart Detail,9,11,2,1,201950,Jrue Holiday,38,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+559,Pullup Jump shot,Missed Shot,103,0021500782,Shot Chart Detail,109,214,1,1,201950,Jrue Holiday,45,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+560,Driving Layup Shot,Missed Shot,116,0021500782,Shot Chart Detail,-14,7,0,1,201950,Jrue Holiday,28,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+561,Jump Shot,Missed Shot,132,0021500782,Shot Chart Detail,-42,33,11,2,201950,Jrue Holiday,29,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+562,Turnaround Jump Shot,Made Shot,153,0021500782,Shot Chart Detail,-40,75,9,2,201950,Jrue Holiday,57,1,8,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+563,Driving Layup Shot,Made Shot,158,0021500782,Shot Chart Detail,9,0,9,2,201950,Jrue Holiday,32,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+564,Driving Reverse Layup Shot,Made Shot,181,0021500782,Shot Chart Detail,2,7,8,2,201950,Jrue Holiday,6,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+565,Driving Dunk Shot,Made Shot,187,0021500782,Shot Chart Detail,0,1,7,2,201950,Jrue Holiday,41,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+566,Pullup Jump shot,Made Shot,212,0021500782,Shot Chart Detail,-112,95,5,2,201950,Jrue Holiday,37,1,14,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+567,Driving Layup Shot,Missed Shot,317,0021500782,Shot Chart Detail,33,19,8,3,201950,Jrue Holiday,23,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+568,Pullup Jump shot,Made Shot,333,0021500782,Shot Chart Detail,82,139,6,3,201950,Jrue Holiday,36,1,16,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+569,Jump Shot,Missed Shot,343,0021500782,Shot Chart Detail,99,31,5,3,201950,Jrue Holiday,53,1,10,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+570,Driving Layup Shot,Made Shot,387,0021500782,Shot Chart Detail,-12,-1,3,3,201950,Jrue Holiday,1,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+571,Jump Shot,Made Shot,393,0021500782,Shot Chart Detail,-135,200,2,3,201950,Jrue Holiday,35,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+572,Jump Shot,Missed Shot,431,0021500782,Shot Chart Detail,163,565,0,3,201950,Jrue Holiday,0,1,58,0,3PT Field Goal,Back Court(BC),Backcourt,Back Court Shot,1610612740,New Orleans Pelicans
+573,Jump Shot,Missed Shot,451,0021500782,Shot Chart Detail,27,244,9,4,201950,Jrue Holiday,48,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+574,Jump Shot,Missed Shot,473,0021500782,Shot Chart Detail,148,193,8,4,201950,Jrue Holiday,19,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+575,Jump Shot,Missed Shot,482,0021500782,Shot Chart Detail,-70,13,7,4,201950,Jrue Holiday,19,1,7,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+576,Layup Shot,Missed Shot,484,0021500782,Shot Chart Detail,-14,3,7,4,201950,Jrue Holiday,16,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+577,Driving Layup Shot,Missed Shot,57,0021500798,Shot Chart Detail,-2,11,4,1,201950,Jrue Holiday,6,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+578,Jump Shot,Missed Shot,92,0021500798,Shot Chart Detail,105,57,1,1,201950,Jrue Holiday,52,1,11,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+579,Jump Shot,Missed Shot,119,0021500798,Shot Chart Detail,4,80,11,2,201950,Jrue Holiday,29,1,8,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+580,Jump Shot,Made Shot,121,0021500798,Shot Chart Detail,112,3,11,2,201950,Jrue Holiday,26,1,11,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+581,Jump Shot,Made Shot,126,0021500798,Shot Chart Detail,-78,75,10,2,201950,Jrue Holiday,54,1,10,1,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+582,Jump Shot,Missed Shot,177,0021500798,Shot Chart Detail,-70,237,7,2,201950,Jrue Holiday,0,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+583,Pullup Jump shot,Made Shot,196,0021500798,Shot Chart Detail,163,95,4,2,201950,Jrue Holiday,14,1,18,1,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+584,Jump Shot,Missed Shot,202,0021500798,Shot Chart Detail,232,0,3,2,201950,Jrue Holiday,4,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+585,Driving Layup Shot,Missed Shot,308,0021500798,Shot Chart Detail,9,2,3,3,201950,Jrue Holiday,26,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+586,Pullup Jump shot,Made Shot,322,0021500798,Shot Chart Detail,96,149,2,3,201950,Jrue Holiday,30,1,17,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+587,Running Finger Roll Layup Shot,Made Shot,332,0021500798,Shot Chart Detail,17,8,0,3,201950,Jrue Holiday,41,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+588,Running Jump Shot,Missed Shot,338,0021500798,Shot Chart Detail,-168,82,0,3,201950,Jrue Holiday,0,1,18,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+589,Driving Layup Shot,Made Shot,360,0021500798,Shot Chart Detail,12,2,9,4,201950,Jrue Holiday,33,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+590,Jump Shot,Missed Shot,366,0021500798,Shot Chart Detail,151,57,9,4,201950,Jrue Holiday,7,1,16,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+591,Driving Finger Roll Layup Shot,Made Shot,382,0021500798,Shot Chart Detail,17,16,8,4,201950,Jrue Holiday,16,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+592,Jump Shot,Missed Shot,414,0021500798,Shot Chart Detail,-165,65,6,4,201950,Jrue Holiday,25,1,17,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+593,Jump Shot,Made Shot,418,0021500798,Shot Chart Detail,133,51,5,4,201950,Jrue Holiday,41,1,14,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+594,Jump Shot,Missed Shot,440,0021500798,Shot Chart Detail,-112,219,3,4,201950,Jrue Holiday,37,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+595,Layup Shot,Made Shot,447,0021500798,Shot Chart Detail,-16,0,2,4,201950,Jrue Holiday,44,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+596,Driving Layup Shot,Missed Shot,59,0021500802,Shot Chart Detail,9,16,4,1,201950,Jrue Holiday,55,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+597,Pullup Jump shot,Made Shot,63,0021500802,Shot Chart Detail,64,121,4,1,201950,Jrue Holiday,32,1,13,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+598,Driving Reverse Layup Shot,Made Shot,66,0021500802,Shot Chart Detail,-11,2,3,1,201950,Jrue Holiday,53,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+599,Jump Shot,Missed Shot,71,0021500802,Shot Chart Detail,-2,178,3,1,201950,Jrue Holiday,15,1,17,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+600,Driving Layup Shot,Made Shot,99,0021500802,Shot Chart Detail,15,-1,0,1,201950,Jrue Holiday,49,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+601,Pullup Jump shot,Made Shot,109,0021500802,Shot Chart Detail,-16,129,11,2,201950,Jrue Holiday,29,1,12,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+602,Floating Jump shot,Made Shot,119,0021500802,Shot Chart Detail,-20,90,10,2,201950,Jrue Holiday,26,1,9,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+603,Step Back Jump shot,Made Shot,173,0021500802,Shot Chart Detail,-130,203,5,2,201950,Jrue Holiday,42,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+604,Step Back Jump shot,Missed Shot,205,0021500802,Shot Chart Detail,-125,213,3,2,201950,Jrue Holiday,10,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+605,Reverse Layup Shot,Made Shot,220,0021500802,Shot Chart Detail,-11,0,2,2,201950,Jrue Holiday,2,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+606,Pullup Jump shot,Missed Shot,283,0021500802,Shot Chart Detail,69,144,9,3,201950,Jrue Holiday,5,1,15,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+607,Driving Layup Shot,Made Shot,304,0021500802,Shot Chart Detail,9,3,7,3,201950,Jrue Holiday,19,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+608,Jump Shot,Missed Shot,318,0021500802,Shot Chart Detail,53,106,5,3,201950,Jrue Holiday,43,1,11,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+609,Driving Layup Shot,Made Shot,344,0021500802,Shot Chart Detail,0,-1,3,3,201950,Jrue Holiday,10,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+610,Layup Shot,Missed Shot,352,0021500802,Shot Chart Detail,-11,7,1,3,201950,Jrue Holiday,51,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+611,Driving Layup Shot,Made Shot,366,0021500802,Shot Chart Detail,2,-1,1,3,201950,Jrue Holiday,17,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+612,Jump Shot,Missed Shot,375,0021500802,Shot Chart Detail,9,287,0,3,201950,Jrue Holiday,0,1,28,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+613,Jump Shot,Missed Shot,428,0021500802,Shot Chart Detail,92,232,7,4,201950,Jrue Holiday,28,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+614,Jump Shot,Made Shot,432,0021500802,Shot Chart Detail,28,144,6,4,201950,Jrue Holiday,42,1,14,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+615,Fadeaway Jump Shot,Missed Shot,452,0021500802,Shot Chart Detail,14,110,4,4,201950,Jrue Holiday,54,1,11,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+616,Running Layup Shot,Made Shot,82,0021500811,Shot Chart Detail,2,3,5,1,201950,Jrue Holiday,56,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+617,Turnaround Fadeaway shot,Missed Shot,85,0021500811,Shot Chart Detail,127,7,5,1,201950,Jrue Holiday,15,1,12,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+618,Driving Layup Shot,Made Shot,120,0021500811,Shot Chart Detail,-17,11,3,1,201950,Jrue Holiday,29,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+619,Alley Oop Layup shot,Made Shot,144,0021500811,Shot Chart Detail,-22,-16,1,1,201950,Jrue Holiday,28,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+620,Jump Shot,Made Shot,177,0021500811,Shot Chart Detail,96,232,10,2,201950,Jrue Holiday,17,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+621,Jump Shot,Missed Shot,201,0021500811,Shot Chart Detail,245,-6,7,2,201950,Jrue Holiday,41,1,24,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+622,Jump Shot,Missed Shot,275,0021500811,Shot Chart Detail,56,234,1,2,201950,Jrue Holiday,22,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+623,Jump Bank Shot,Made Shot,366,0021500811,Shot Chart Detail,94,34,7,3,201950,Jrue Holiday,23,1,9,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+624,Jump Shot,Missed Shot,379,0021500811,Shot Chart Detail,-84,239,5,3,201950,Jrue Holiday,48,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+625,Pullup Jump shot,Made Shot,399,0021500811,Shot Chart Detail,-145,23,5,3,201950,Jrue Holiday,12,1,14,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+626,Jump Shot,Missed Shot,434,0021500811,Shot Chart Detail,-135,65,1,3,201950,Jrue Holiday,35,1,14,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+627,Pullup Jump shot,Made Shot,466,0021500811,Shot Chart Detail,-63,134,11,4,201950,Jrue Holiday,49,1,14,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+628,Pullup Jump shot,Made Shot,480,0021500811,Shot Chart Detail,-91,159,10,4,201950,Jrue Holiday,23,1,18,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+629,Jump Shot,Missed Shot,519,0021500811,Shot Chart Detail,-66,90,7,4,201950,Jrue Holiday,16,1,11,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+630,Jump Shot,Missed Shot,551,0021500811,Shot Chart Detail,-20,180,5,4,201950,Jrue Holiday,9,1,18,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+631,Driving Finger Roll Layup Shot,Missed Shot,571,0021500811,Shot Chart Detail,4,3,3,4,201950,Jrue Holiday,38,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+632,Layup Shot,Missed Shot,590,0021500811,Shot Chart Detail,-1,2,1,4,201950,Jrue Holiday,56,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+633,Layup Shot,Missed Shot,100,0021500823,Shot Chart Detail,-2,2,2,1,201950,Jrue Holiday,41,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+634,Jump Shot,Missed Shot,160,0021500823,Shot Chart Detail,-186,178,10,2,201950,Jrue Holiday,37,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+635,Driving Dunk Shot,Made Shot,171,0021500823,Shot Chart Detail,0,1,9,2,201950,Jrue Holiday,44,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+636,Jump Shot,Made Shot,176,0021500823,Shot Chart Detail,-91,-6,8,2,201950,Jrue Holiday,49,1,9,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+637,Layup Shot,Missed Shot,195,0021500823,Shot Chart Detail,6,2,7,2,201950,Jrue Holiday,39,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+638,Running Jump Shot,Made Shot,340,0021500823,Shot Chart Detail,-63,31,6,3,201950,Jrue Holiday,11,1,7,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+639,Jump Shot,Missed Shot,353,0021500823,Shot Chart Detail,-117,21,4,3,201950,Jrue Holiday,36,1,11,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+640,Jump Shot,Missed Shot,371,0021500823,Shot Chart Detail,-165,188,2,3,201950,Jrue Holiday,49,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+641,Jump Shot,Missed Shot,382,0021500823,Shot Chart Detail,-127,242,2,3,201950,Jrue Holiday,16,1,27,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+642,Layup Shot,Made Shot,384,0021500823,Shot Chart Detail,1,2,2,3,201950,Jrue Holiday,10,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+643,Jump Shot,Missed Shot,429,0021500823,Shot Chart Detail,42,252,10,4,201950,Jrue Holiday,9,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+644,Jump Shot,Made Shot,467,0021500823,Shot Chart Detail,155,56,6,4,201950,Jrue Holiday,57,1,16,1,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+645,Layup Shot,Made Shot,472,0021500823,Shot Chart Detail,-4,0,6,4,201950,Jrue Holiday,26,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+646,Layup Shot,Missed Shot,495,0021500823,Shot Chart Detail,-4,0,4,4,201950,Jrue Holiday,25,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+647,Jump Shot,Missed Shot,79,0021500841,Shot Chart Detail,-115,190,4,1,201950,Jrue Holiday,42,1,22,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+648,Driving Finger Roll Layup Shot,Made Shot,83,0021500841,Shot Chart Detail,-14,-6,4,1,201950,Jrue Holiday,9,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+649,Floating Jump shot,Made Shot,99,0021500841,Shot Chart Detail,101,144,2,1,201950,Jrue Holiday,56,1,17,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+650,Jump Shot,Missed Shot,116,0021500841,Shot Chart Detail,135,129,2,1,201950,Jrue Holiday,19,1,18,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+651,Jump Shot,Missed Shot,131,0021500841,Shot Chart Detail,-65,244,1,1,201950,Jrue Holiday,5,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+652,Pullup Jump shot,Made Shot,150,0021500841,Shot Chart Detail,81,134,11,2,201950,Jrue Holiday,49,1,15,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+653,Jump Shot,Missed Shot,200,0021500841,Shot Chart Detail,195,170,8,2,201950,Jrue Holiday,0,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+654,Jump Shot,Missed Shot,208,0021500841,Shot Chart Detail,32,273,7,2,201950,Jrue Holiday,2,1,27,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+655,Cutting Dunk Shot,Made Shot,223,0021500841,Shot Chart Detail,0,1,6,2,201950,Jrue Holiday,14,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+656,Layup Shot,Missed Shot,232,0021500841,Shot Chart Detail,-1,18,4,2,201950,Jrue Holiday,52,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+657,Jump Shot,Missed Shot,335,0021500841,Shot Chart Detail,-110,213,9,3,201950,Jrue Holiday,4,1,23,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+658,Jump Shot,Missed Shot,350,0021500841,Shot Chart Detail,-127,75,7,3,201950,Jrue Holiday,33,1,14,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+659,Driving Finger Roll Layup Shot,Made Shot,365,0021500841,Shot Chart Detail,-2,-1,5,3,201950,Jrue Holiday,43,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+660,Jump Shot,Missed Shot,385,0021500841,Shot Chart Detail,-48,11,4,3,201950,Jrue Holiday,19,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+661,Driving Layup Shot,Made Shot,425,0021500841,Shot Chart Detail,-17,18,1,3,201950,Jrue Holiday,35,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+662,Jump Shot,Missed Shot,471,0021500841,Shot Chart Detail,-84,61,9,4,201950,Jrue Holiday,31,1,10,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+663,Layup Shot,Missed Shot,507,0021500841,Shot Chart Detail,-14,11,6,4,201950,Jrue Holiday,13,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+664,Jump Shot,Missed Shot,519,0021500841,Shot Chart Detail,-4,267,5,4,201950,Jrue Holiday,16,1,26,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+665,Step Back Jump shot,Made Shot,528,0021500841,Shot Chart Detail,-81,110,4,4,201950,Jrue Holiday,9,1,13,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+666,Layup Shot,Missed Shot,539,0021500841,Shot Chart Detail,6,-6,3,4,201950,Jrue Holiday,21,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+667,Jump Shot,Missed Shot,553,0021500841,Shot Chart Detail,-83,16,2,4,201950,Jrue Holiday,32,1,8,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+668,Step Back Jump shot,Made Shot,87,0021500857,Shot Chart Detail,-89,154,4,1,201950,Jrue Holiday,11,1,17,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+669,Driving Finger Roll Layup Shot,Made Shot,119,0021500857,Shot Chart Detail,1,16,1,1,201950,Jrue Holiday,20,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+670,Floating Jump shot,Made Shot,129,0021500857,Shot Chart Detail,-81,65,0,1,201950,Jrue Holiday,44,1,10,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+671,Jump Shot,Made Shot,151,0021500857,Shot Chart Detail,-94,136,10,2,201950,Jrue Holiday,3,1,16,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+672,Driving Layup Shot,Made Shot,346,0021500857,Shot Chart Detail,12,0,6,3,201950,Jrue Holiday,2,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+673,Fadeaway Jump Shot,Missed Shot,355,0021500857,Shot Chart Detail,-129,97,5,3,201950,Jrue Holiday,23,1,16,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+674,Jump Shot,Missed Shot,409,0021500857,Shot Chart Detail,6,262,1,3,201950,Jrue Holiday,19,1,26,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+675,Jump Shot,Missed Shot,441,0021500857,Shot Chart Detail,-35,56,10,4,201950,Jrue Holiday,17,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+676,Jump Shot,Made Shot,459,0021500857,Shot Chart Detail,110,223,8,4,201950,Jrue Holiday,14,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+677,Step Back Jump shot,Made Shot,516,0021500857,Shot Chart Detail,-109,237,4,4,201950,Jrue Holiday,3,1,26,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+678,Driving Layup Shot,Made Shot,535,0021500857,Shot Chart Detail,-40,16,2,4,201950,Jrue Holiday,32,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+679,Driving Layup Shot,Missed Shot,559,0021500857,Shot Chart Detail,-17,8,0,4,201950,Jrue Holiday,40,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+680,Jump Shot,Missed Shot,70,0021500870,Shot Chart Detail,61,247,4,1,201950,Jrue Holiday,31,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+681,Driving Reverse Layup Shot,Made Shot,83,0021500870,Shot Chart Detail,-7,7,4,1,201950,Jrue Holiday,9,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+682,Driving Reverse Layup Shot,Made Shot,101,0021500870,Shot Chart Detail,-25,7,3,1,201950,Jrue Holiday,23,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+683,Turnaround Jump Shot,Made Shot,174,0021500870,Shot Chart Detail,-107,100,8,2,201950,Jrue Holiday,8,1,14,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+684,Floating Jump shot,Made Shot,231,0021500870,Shot Chart Detail,35,70,3,2,201950,Jrue Holiday,46,1,7,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+685,Driving Layup Shot,Made Shot,246,0021500870,Shot Chart Detail,-7,-1,2,2,201950,Jrue Holiday,22,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+686,Running Reverse Layup Shot,Made Shot,264,0021500870,Shot Chart Detail,4,23,0,2,201950,Jrue Holiday,29,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+687,Jump Shot,Missed Shot,407,0021500870,Shot Chart Detail,-43,95,1,3,201950,Jrue Holiday,15,1,10,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+688,Pullup Jump shot,Made Shot,428,0021500870,Shot Chart Detail,105,228,0,3,201950,Jrue Holiday,4,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+689,Jump Shot,Missed Shot,451,0021500870,Shot Chart Detail,109,237,10,4,201950,Jrue Holiday,59,1,26,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+690,Driving Layup Shot,Made Shot,522,0021500870,Shot Chart Detail,-20,16,3,4,201950,Jrue Holiday,48,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+691,Layup Shot,Missed Shot,527,0021500870,Shot Chart Detail,9,16,2,4,201950,Jrue Holiday,52,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+692,Step Back Jump shot,Missed Shot,558,0021500870,Shot Chart Detail,-19,190,0,4,201950,Jrue Holiday,42,1,19,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+693,Driving Layup Shot,Made Shot,91,0021500901,Shot Chart Detail,25,2,3,1,201950,Jrue Holiday,29,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+694,Jump Shot,Missed Shot,147,0021500901,Shot Chart Detail,-119,395,0,1,201950,Jrue Holiday,0,1,41,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+695,Running Layup Shot,Made Shot,212,0021500901,Shot Chart Detail,-20,2,6,2,201950,Jrue Holiday,9,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+696,Cutting Layup Shot,Missed Shot,253,0021500901,Shot Chart Detail,17,16,2,2,201950,Jrue Holiday,45,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+697,Jump Shot,Missed Shot,266,0021500901,Shot Chart Detail,-165,205,2,2,201950,Jrue Holiday,1,1,26,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+698,Jump Shot,Missed Shot,382,0021500901,Shot Chart Detail,-179,180,3,3,201950,Jrue Holiday,48,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+699,Jump Shot,Made Shot,406,0021500901,Shot Chart Detail,-140,131,2,3,201950,Jrue Holiday,18,1,19,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+700,Jump Shot,Missed Shot,411,0021500901,Shot Chart Detail,-163,208,1,3,201950,Jrue Holiday,31,1,26,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+701,Pullup Jump shot,Made Shot,450,0021500901,Shot Chart Detail,112,214,11,4,201950,Jrue Holiday,19,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+702,Jump Shot,Missed Shot,465,0021500901,Shot Chart Detail,-197,188,10,4,201950,Jrue Holiday,19,1,27,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+703,Jump Shot,Made Shot,542,0021500901,Shot Chart Detail,-132,115,5,4,201950,Jrue Holiday,3,1,17,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+704,Jump Shot,Missed Shot,555,0021500901,Shot Chart Detail,-43,36,4,4,201950,Jrue Holiday,2,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+705,Jump Shot,Missed Shot,589,0021500901,Shot Chart Detail,-235,21,1,4,201950,Jrue Holiday,56,1,23,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+706,Running Jump Shot,Made Shot,87,0021500909,Shot Chart Detail,35,31,2,1,201950,Jrue Holiday,21,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+707,Jump Shot,Missed Shot,115,0021500909,Shot Chart Detail,27,180,10,2,201950,Jrue Holiday,58,1,18,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+708,Jump Shot,Missed Shot,157,0021500909,Shot Chart Detail,-169,174,7,2,201950,Jrue Holiday,27,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+709,Jump Shot,Missed Shot,181,0021500909,Shot Chart Detail,-43,28,6,2,201950,Jrue Holiday,0,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+710,Tip Layup Shot,Missed Shot,182,0021500909,Shot Chart Detail,-2,3,5,2,201950,Jrue Holiday,58,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+711,Jump Shot,Made Shot,192,0021500909,Shot Chart Detail,89,242,5,2,201950,Jrue Holiday,1,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+712,Driving Finger Roll Layup Shot,Made Shot,204,0021500909,Shot Chart Detail,20,11,3,2,201950,Jrue Holiday,33,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+713,Layup Shot,Missed Shot,218,0021500909,Shot Chart Detail,-19,13,1,2,201950,Jrue Holiday,37,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+714,Pullup Jump shot,Made Shot,353,0021500909,Shot Chart Detail,125,154,11,4,201950,Jrue Holiday,7,1,19,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+715,Layup Shot,Missed Shot,376,0021500909,Shot Chart Detail,9,23,8,4,201950,Jrue Holiday,37,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+716,Layup Shot,Missed Shot,379,0021500909,Shot Chart Detail,-14,8,8,4,201950,Jrue Holiday,23,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+717,Jump Shot,Missed Shot,388,0021500909,Shot Chart Detail,97,228,8,4,201950,Jrue Holiday,2,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+718,Pullup Jump shot,Made Shot,403,0021500909,Shot Chart Detail,-43,164,6,4,201950,Jrue Holiday,55,1,16,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+719,Jump Shot,Missed Shot,424,0021500909,Shot Chart Detail,145,151,5,4,201950,Jrue Holiday,22,1,20,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+720,Driving Layup Shot,Missed Shot,445,0021500909,Shot Chart Detail,-19,16,2,4,201950,Jrue Holiday,53,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+721,Layup Shot,Missed Shot,462,0021500909,Shot Chart Detail,-6,18,0,4,201950,Jrue Holiday,29,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+722,Jump Shot,Missed Shot,466,0021500909,Shot Chart Detail,104,267,0,4,201950,Jrue Holiday,0,1,28,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+723,Fadeaway Jump Shot,Missed Shot,112,0021500925,Shot Chart Detail,-40,75,11,2,201950,Jrue Holiday,28,1,8,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+724,Step Back Jump shot,Made Shot,120,0021500925,Shot Chart Detail,-11,259,10,2,201950,Jrue Holiday,18,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+725,Jump Shot,Made Shot,148,0021500925,Shot Chart Detail,87,-1,7,2,201950,Jrue Holiday,45,1,8,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+726,Jump Shot,Missed Shot,175,0021500925,Shot Chart Detail,-20,101,5,2,201950,Jrue Holiday,24,1,10,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+727,Driving Layup Shot,Made Shot,197,0021500925,Shot Chart Detail,-34,16,3,2,201950,Jrue Holiday,28,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+728,Layup Shot,Missed Shot,209,0021500925,Shot Chart Detail,30,16,2,2,201950,Jrue Holiday,7,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+729,Jump Shot,Missed Shot,212,0021500925,Shot Chart Detail,-102,43,1,2,201950,Jrue Holiday,34,1,11,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+730,Jump Shot,Missed Shot,251,0021500925,Shot Chart Detail,-71,121,10,3,201950,Jrue Holiday,21,1,14,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+731,Jump Shot,Missed Shot,254,0021500925,Shot Chart Detail,-227,115,9,3,201950,Jrue Holiday,58,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+732,Driving Finger Roll Layup Shot,Made Shot,260,0021500925,Shot Chart Detail,-35,13,9,3,201950,Jrue Holiday,11,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+733,Jump Shot,Missed Shot,278,0021500925,Shot Chart Detail,0,46,7,3,201950,Jrue Holiday,32,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+734,Jump Shot,Made Shot,282,0021500925,Shot Chart Detail,-2,144,7,3,201950,Jrue Holiday,27,1,14,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+735,Jump Shot,Missed Shot,321,0021500925,Shot Chart Detail,37,31,4,3,201950,Jrue Holiday,49,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+736,Jump Shot,Missed Shot,327,0021500925,Shot Chart Detail,-235,51,4,3,201950,Jrue Holiday,17,1,24,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+737,Driving Finger Roll Layup Shot,Missed Shot,368,0021500925,Shot Chart Detail,9,31,0,3,201950,Jrue Holiday,35,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+738,Floating Jump shot,Made Shot,394,0021500925,Shot Chart Detail,38,77,10,4,201950,Jrue Holiday,32,1,8,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+739,Jump Shot,Missed Shot,401,0021500925,Shot Chart Detail,-166,115,9,4,201950,Jrue Holiday,21,1,20,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+740,Driving Layup Shot,Made Shot,465,0021500925,Shot Chart Detail,-39,21,4,4,201950,Jrue Holiday,49,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+741,Jump Shot,Made Shot,512,0021500925,Shot Chart Detail,213,124,2,4,201950,Jrue Holiday,32,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+742,Jump Shot,Made Shot,521,0021500925,Shot Chart Detail,145,208,1,4,201950,Jrue Holiday,18,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+743,Jump Shot,Missed Shot,523,0021500925,Shot Chart Detail,-40,257,0,4,201950,Jrue Holiday,49,1,26,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+744,Jump Shot,Missed Shot,549,0021500925,Shot Chart Detail,233,16,0,4,201950,Jrue Holiday,12,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+745,Jump Shot,Missed Shot,28,0021500941,Shot Chart Detail,-104,242,8,1,201950,Jrue Holiday,30,1,26,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+746,Jump Shot,Made Shot,41,0021500941,Shot Chart Detail,119,188,7,1,201950,Jrue Holiday,29,1,22,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+747,Jump Shot,Missed Shot,56,0021500941,Shot Chart Detail,4,178,6,1,201950,Jrue Holiday,33,1,17,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+748,Pullup Jump shot,Made Shot,165,0021500941,Shot Chart Detail,115,90,10,2,201950,Jrue Holiday,44,1,14,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+749,Running Layup Shot,Made Shot,167,0021500941,Shot Chart Detail,-9,-6,10,2,201950,Jrue Holiday,32,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+750,Jump Shot,Missed Shot,188,0021500941,Shot Chart Detail,-227,11,9,2,201950,Jrue Holiday,1,1,22,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+751,Jump Shot,Missed Shot,241,0021500941,Shot Chart Detail,-40,110,4,2,201950,Jrue Holiday,33,1,11,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+752,Driving Layup Shot,Made Shot,246,0021500941,Shot Chart Detail,14,7,3,2,201950,Jrue Holiday,58,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+753,Jump Shot,Missed Shot,251,0021500941,Shot Chart Detail,-73,242,3,2,201950,Jrue Holiday,19,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+754,Jump Shot,Missed Shot,265,0021500941,Shot Chart Detail,-38,169,1,2,201950,Jrue Holiday,57,1,17,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+755,Driving Layup Shot,Made Shot,301,0021500941,Shot Chart Detail,-40,26,10,3,201950,Jrue Holiday,15,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+756,Jump Shot,Missed Shot,358,0021500941,Shot Chart Detail,-107,175,5,3,201950,Jrue Holiday,59,1,20,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+757,Driving Finger Roll Layup Shot,Made Shot,472,0021500941,Shot Chart Detail,-9,2,11,4,201950,Jrue Holiday,45,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+758,Jump Shot,Missed Shot,490,0021500941,Shot Chart Detail,139,222,9,4,201950,Jrue Holiday,34,1,26,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+759,Driving Finger Roll Layup Shot,Made Shot,497,0021500941,Shot Chart Detail,15,8,8,4,201950,Jrue Holiday,40,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+760,Jump Shot,Made Shot,533,0021500941,Shot Chart Detail,-186,174,5,4,201950,Jrue Holiday,59,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+761,Driving Layup Shot,Missed Shot,571,0021500941,Shot Chart Detail,-20,0,2,4,201950,Jrue Holiday,12,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+762,Jump Shot,Made Shot,599,0021500941,Shot Chart Detail,-32,183,0,4,201950,Jrue Holiday,12,1,18,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+763,Jump Shot,Made Shot,10,0021500950,Shot Chart Detail,169,190,11,1,201950,Jrue Holiday,6,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+764,Jump Shot,Missed Shot,23,0021500950,Shot Chart Detail,-66,242,9,1,201950,Jrue Holiday,1,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+765,Driving Layup Shot,Made Shot,29,0021500950,Shot Chart Detail,6,16,8,1,201950,Jrue Holiday,14,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+766,Driving Reverse Layup Shot,Made Shot,49,0021500950,Shot Chart Detail,12,11,5,1,201950,Jrue Holiday,59,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+767,Cutting Layup Shot,Made Shot,67,0021500950,Shot Chart Detail,-7,7,4,1,201950,Jrue Holiday,10,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+768,Layup Shot,Missed Shot,89,0021500950,Shot Chart Detail,-12,7,2,1,201950,Jrue Holiday,27,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+769,Jump Shot,Made Shot,220,0021500950,Shot Chart Detail,-135,26,4,2,201950,Jrue Holiday,12,1,13,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+770,Jump Shot,Made Shot,223,0021500950,Shot Chart Detail,-43,244,3,2,201950,Jrue Holiday,41,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+771,Layup Shot,Missed Shot,226,0021500950,Shot Chart Detail,1,7,3,2,201950,Jrue Holiday,12,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+772,Jump Shot,Missed Shot,240,0021500950,Shot Chart Detail,105,87,2,2,201950,Jrue Holiday,48,1,13,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+773,Driving Layup Shot,Made Shot,292,0021500950,Shot Chart Detail,-24,11,10,3,201950,Jrue Holiday,16,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+774,Jump Shot,Made Shot,301,0021500950,Shot Chart Detail,-119,247,9,3,201950,Jrue Holiday,53,1,27,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+775,Jump Shot,Made Shot,318,0021500950,Shot Chart Detail,-112,234,7,3,201950,Jrue Holiday,57,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+776,Pullup Jump shot,Made Shot,357,0021500950,Shot Chart Detail,127,223,4,3,201950,Jrue Holiday,19,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+777,Jump Shot,Missed Shot,363,0021500950,Shot Chart Detail,120,218,3,3,201950,Jrue Holiday,54,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+778,Layup Shot,Missed Shot,368,0021500950,Shot Chart Detail,15,-1,2,3,201950,Jrue Holiday,49,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+779,Jump Shot,Missed Shot,379,0021500950,Shot Chart Detail,-150,28,2,3,201950,Jrue Holiday,3,1,15,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+780,Floating Jump shot,Made Shot,392,0021500950,Shot Chart Detail,15,105,1,3,201950,Jrue Holiday,7,1,10,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+781,Pullup Jump shot,Made Shot,395,0021500950,Shot Chart Detail,-106,144,0,3,201950,Jrue Holiday,39,1,17,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+782,Jump Shot,Missed Shot,428,0021500950,Shot Chart Detail,-70,252,10,4,201950,Jrue Holiday,9,1,26,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+783,Layup Shot,Missed Shot,520,0021500950,Shot Chart Detail,-9,11,1,4,201950,Jrue Holiday,48,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+784,Driving Layup Shot,Made Shot,555,0021500950,Shot Chart Detail,-1,7,0,4,201950,Jrue Holiday,20,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+785,Jump Shot,Missed Shot,561,0021500950,Shot Chart Detail,78,237,0,4,201950,Jrue Holiday,10,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+786,Jump Shot,Made Shot,7,0021500967,Shot Chart Detail,146,200,11,1,201950,Jrue Holiday,6,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+787,Jump Shot,Missed Shot,9,0021500967,Shot Chart Detail,-148,203,10,1,201950,Jrue Holiday,35,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+788,Driving Layup Shot,Missed Shot,55,0021500967,Shot Chart Detail,14,2,6,1,201950,Jrue Holiday,34,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+789,Driving Reverse Layup Shot,Made Shot,71,0021500967,Shot Chart Detail,-6,0,5,1,201950,Jrue Holiday,45,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+790,Driving Layup Shot,Missed Shot,91,0021500967,Shot Chart Detail,1,7,3,1,201950,Jrue Holiday,33,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+791,Driving Layup Shot,Missed Shot,179,0021500967,Shot Chart Detail,-7,7,9,2,201950,Jrue Holiday,20,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+792,Step Back Jump shot,Missed Shot,182,0021500967,Shot Chart Detail,-53,159,8,2,201950,Jrue Holiday,53,1,16,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+793,Driving Layup Shot,Missed Shot,209,0021500967,Shot Chart Detail,24,2,7,2,201950,Jrue Holiday,22,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+794,Turnaround Jump Shot,Made Shot,223,0021500967,Shot Chart Detail,38,33,6,2,201950,Jrue Holiday,10,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+795,Layup Shot,Missed Shot,226,0021500967,Shot Chart Detail,20,21,5,2,201950,Jrue Holiday,37,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+796,Pullup Jump shot,Made Shot,270,0021500967,Shot Chart Detail,-60,169,2,2,201950,Jrue Holiday,15,1,17,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+797,Jump Shot,Missed Shot,278,0021500967,Shot Chart Detail,-78,237,0,2,201950,Jrue Holiday,31,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+798,Running Jump Shot,Made Shot,288,0021500967,Shot Chart Detail,-70,41,0,2,201950,Jrue Holiday,1,1,8,1,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+799,Jump Shot,Missed Shot,294,0021500967,Shot Chart Detail,-107,193,11,3,201950,Jrue Holiday,37,1,22,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+800,Jump Shot,Made Shot,313,0021500967,Shot Chart Detail,-58,41,9,3,201950,Jrue Holiday,50,1,7,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+801,Driving Layup Shot,Made Shot,320,0021500967,Shot Chart Detail,-12,-5,8,3,201950,Jrue Holiday,54,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+802,Jump Shot,Missed Shot,365,0021500967,Shot Chart Detail,-158,198,4,3,201950,Jrue Holiday,58,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+803,Driving Layup Shot,Missed Shot,374,0021500967,Shot Chart Detail,-9,0,4,3,201950,Jrue Holiday,30,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+804,Finger Roll Layup Shot,Made Shot,466,0021500967,Shot Chart Detail,-11,7,5,4,201950,Jrue Holiday,50,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+805,Layup Shot,Missed Shot,472,0021500967,Shot Chart Detail,12,2,5,4,201950,Jrue Holiday,19,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+806,Driving Reverse Layup Shot,Made Shot,518,0021500967,Shot Chart Detail,19,-6,2,4,201950,Jrue Holiday,1,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+807,Step Back Jump shot,Missed Shot,543,0021500967,Shot Chart Detail,-133,223,0,4,201950,Jrue Holiday,26,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+808,Cutting Finger Roll Layup Shot,Made Shot,572,0021500967,Shot Chart Detail,14,7,3,5,201950,Jrue Holiday,52,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+809,Floating Jump shot,Missed Shot,574,0021500967,Shot Chart Detail,40,95,3,5,201950,Jrue Holiday,22,1,10,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+810,Floating Jump shot,Made Shot,591,0021500967,Shot Chart Detail,43,41,2,5,201950,Jrue Holiday,2,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+811,Jump Shot,Made Shot,619,0021500967,Shot Chart Detail,-92,264,0,5,201950,Jrue Holiday,29,1,27,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+812,Pullup Jump shot,Missed Shot,636,0021500967,Shot Chart Detail,-101,237,0,5,201950,Jrue Holiday,16,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+813,Jump Shot,Missed Shot,66,0021500978,Shot Chart Detail,-71,234,5,1,201950,Jrue Holiday,37,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+814,Jump Shot,Missed Shot,78,0021500978,Shot Chart Detail,-102,232,3,1,201950,Jrue Holiday,37,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+815,Layup Shot,Missed Shot,95,0021500978,Shot Chart Detail,7,21,2,1,201950,Jrue Holiday,11,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+816,Jump Shot,Missed Shot,114,0021500978,Shot Chart Detail,115,391,0,1,201950,Jrue Holiday,0,1,40,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+817,Jump Shot,Missed Shot,141,0021500978,Shot Chart Detail,2,242,9,2,201950,Jrue Holiday,59,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+818,Driving Layup Shot,Made Shot,186,0021500978,Shot Chart Detail,-6,-8,5,2,201950,Jrue Holiday,14,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+819,Jump Shot,Missed Shot,193,0021500978,Shot Chart Detail,-55,20,4,2,201950,Jrue Holiday,37,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+820,Pullup Jump shot,Made Shot,208,0021500978,Shot Chart Detail,76,160,3,2,201950,Jrue Holiday,0,1,17,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+821,Jump Shot,Missed Shot,242,0021500978,Shot Chart Detail,-43,244,0,2,201950,Jrue Holiday,0,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+822,Driving Reverse Layup Shot,Made Shot,323,0021500978,Shot Chart Detail,-37,-8,4,3,201950,Jrue Holiday,22,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+823,Jump Shot,Missed Shot,383,0021500978,Shot Chart Detail,148,210,11,4,201950,Jrue Holiday,18,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+824,Driving Layup Shot,Made Shot,422,0021500978,Shot Chart Detail,-2,0,7,4,201950,Jrue Holiday,45,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+825,Jump Shot,Missed Shot,456,0021500978,Shot Chart Detail,123,128,5,4,201950,Jrue Holiday,13,1,17,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+826,Jump Shot,Missed Shot,14,0021500996,Shot Chart Detail,115,228,10,1,201950,Jrue Holiday,22,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+827,Jump Shot,Missed Shot,24,0021500996,Shot Chart Detail,46,36,9,1,201950,Jrue Holiday,31,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+828,Driving Layup Shot,Made Shot,29,0021500996,Shot Chart Detail,-14,18,8,1,201950,Jrue Holiday,59,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+829,Pullup Jump shot,Made Shot,50,0021500996,Shot Chart Detail,-155,120,6,1,201950,Jrue Holiday,40,1,19,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+830,Driving Floating Jump Shot,Made Shot,71,0021500996,Shot Chart Detail,-6,115,3,1,201950,Jrue Holiday,59,1,11,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+831,Pullup Jump shot,Missed Shot,75,0021500996,Shot Chart Detail,-47,244,3,1,201950,Jrue Holiday,4,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+832,Floating Jump shot,Missed Shot,85,0021500996,Shot Chart Detail,0,75,1,1,201950,Jrue Holiday,32,1,7,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+833,Jump Shot,Missed Shot,206,0021500996,Shot Chart Detail,-173,210,4,2,201950,Jrue Holiday,51,1,27,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+834,Jump Shot,Missed Shot,247,0021500996,Shot Chart Detail,174,178,1,2,201950,Jrue Holiday,30,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+835,Driving Reverse Layup Shot,Made Shot,264,0021500996,Shot Chart Detail,-14,7,0,2,201950,Jrue Holiday,34,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+836,Jump Shot,Missed Shot,267,0021500996,Shot Chart Detail,58,51,0,2,201950,Jrue Holiday,2,1,7,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+837,Layup Shot,Missed Shot,272,0021500996,Shot Chart Detail,-1,21,11,3,201950,Jrue Holiday,38,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+838,Jump Shot,Missed Shot,300,0021500996,Shot Chart Detail,-20,26,8,3,201950,Jrue Holiday,40,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+839,Jump Bank Shot,Missed Shot,315,0021500996,Shot Chart Detail,-153,36,7,3,201950,Jrue Holiday,47,1,15,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+840,Jump Shot,Missed Shot,340,0021500996,Shot Chart Detail,-53,41,5,3,201950,Jrue Holiday,24,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+841,Pullup Jump shot,Made Shot,389,0021500996,Shot Chart Detail,-83,237,1,3,201950,Jrue Holiday,33,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+842,Pullup Jump shot,Missed Shot,2,0021501010,Shot Chart Detail,-133,111,11,1,201950,Jrue Holiday,47,1,17,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+843,Step Back Jump shot,Made Shot,27,0021501010,Shot Chart Detail,-94,95,7,1,201950,Jrue Holiday,46,1,13,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+844,Jump Shot,Missed Shot,37,0021501010,Shot Chart Detail,182,188,6,1,201950,Jrue Holiday,14,1,26,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+845,Layup Shot,Missed Shot,39,0021501010,Shot Chart Detail,-25,13,6,1,201950,Jrue Holiday,4,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+846,Jump Shot,Made Shot,42,0021501010,Shot Chart Detail,97,229,5,1,201950,Jrue Holiday,52,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+847,Finger Roll Layup Shot,Made Shot,66,0021501010,Shot Chart Detail,-27,7,3,1,201950,Jrue Holiday,38,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+848,Pullup Jump shot,Missed Shot,68,0021501010,Shot Chart Detail,-143,105,3,1,201950,Jrue Holiday,13,1,17,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+849,Jump Bank Shot,Made Shot,184,0021501010,Shot Chart Detail,71,38,2,2,201950,Jrue Holiday,55,1,8,1,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+850,Jump Shot,Missed Shot,221,0021501010,Shot Chart Detail,86,149,10,3,201950,Jrue Holiday,55,1,17,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+851,Pullup Jump shot,Made Shot,245,0021501010,Shot Chart Detail,117,151,8,3,201950,Jrue Holiday,15,1,19,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+852,Pullup Jump shot,Made Shot,269,0021501010,Shot Chart Detail,51,100,6,3,201950,Jrue Holiday,27,1,11,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+853,Step Back Jump shot,Made Shot,284,0021501010,Shot Chart Detail,33,183,4,3,201950,Jrue Holiday,54,1,18,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+854,Jump Shot,Missed Shot,315,0021501010,Shot Chart Detail,-219,121,1,3,201950,Jrue Holiday,50,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+855,Driving Layup Shot,Missed Shot,324,0021501010,Shot Chart Detail,-17,16,1,3,201950,Jrue Holiday,35,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+856,Layup Shot,Made Shot,2,0021501025,Shot Chart Detail,-22,11,11,1,201950,Jrue Holiday,46,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+857,Jump Shot,Missed Shot,10,0021501025,Shot Chart Detail,-92,175,10,1,201950,Jrue Holiday,35,1,19,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+858,Pullup Jump shot,Made Shot,13,0021501025,Shot Chart Detail,63,126,10,1,201950,Jrue Holiday,19,1,14,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+859,Driving Layup Shot,Made Shot,126,0021501025,Shot Chart Detail,-4,3,0,1,201950,Jrue Holiday,23,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+860,Driving Layup Shot,Made Shot,217,0021501025,Shot Chart Detail,-20,-6,3,2,201950,Jrue Holiday,59,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+861,Jump Shot,Missed Shot,247,0021501025,Shot Chart Detail,-11,156,2,2,201950,Jrue Holiday,24,1,15,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+862,Layup Shot,Missed Shot,277,0021501025,Shot Chart Detail,15,7,0,2,201950,Jrue Holiday,1,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+863,Jump Shot,Missed Shot,290,0021501025,Shot Chart Detail,-52,62,11,3,201950,Jrue Holiday,11,1,8,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+864,Jump Shot,Missed Shot,353,0021501025,Shot Chart Detail,-133,139,5,3,201950,Jrue Holiday,20,1,19,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+865,Driving Layup Shot,Made Shot,356,0021501025,Shot Chart Detail,-17,13,4,3,201950,Jrue Holiday,55,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+866,Driving Layup Shot,Made Shot,396,0021501025,Shot Chart Detail,-34,11,1,3,201950,Jrue Holiday,42,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+867,Jump Shot,Made Shot,399,0021501025,Shot Chart Detail,133,92,1,3,201950,Jrue Holiday,11,1,16,1,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+868,Pullup Jump shot,Made Shot,488,0021501025,Shot Chart Detail,-101,228,7,4,201950,Jrue Holiday,1,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+869,Jump Shot,Missed Shot,512,0021501025,Shot Chart Detail,-29,190,5,4,201950,Jrue Holiday,20,1,19,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+870,Jump Shot,Made Shot,524,0021501025,Shot Chart Detail,-194,154,3,4,201950,Jrue Holiday,57,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+871,Jump Shot,Made Shot,530,0021501025,Shot Chart Detail,22,242,3,4,201950,Jrue Holiday,15,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+872,Jump Shot,Missed Shot,540,0021501025,Shot Chart Detail,109,156,2,4,201950,Jrue Holiday,34,1,19,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+873,Jump Shot,Missed Shot,556,0021501025,Shot Chart Detail,-60,100,1,4,201950,Jrue Holiday,24,1,11,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+874,Jump Shot,Made Shot,593,0021501025,Shot Chart Detail,-135,228,0,4,201950,Jrue Holiday,4,1,26,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+875,Jump Shot,Missed Shot,4,0021501040,Shot Chart Detail,107,164,11,1,201950,Jrue Holiday,25,1,19,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+876,Driving Layup Shot,Made Shot,14,0021501040,Shot Chart Detail,-11,8,10,1,201950,Jrue Holiday,8,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+877,Jump Shot,Made Shot,27,0021501040,Shot Chart Detail,-137,254,8,1,201950,Jrue Holiday,22,1,28,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+878,Jump Shot,Missed Shot,29,0021501040,Shot Chart Detail,233,23,7,1,201950,Jrue Holiday,55,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+879,Hook Shot,Missed Shot,39,0021501040,Shot Chart Detail,-55,31,6,1,201950,Jrue Holiday,18,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+880,Jump Shot,Missed Shot,74,0021501040,Shot Chart Detail,33,95,2,1,201950,Jrue Holiday,58,1,10,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+881,Pullup Jump shot,Made Shot,191,0021501040,Shot Chart Detail,-112,47,6,2,201950,Jrue Holiday,39,1,12,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+882,Jump Shot,Missed Shot,200,0021501040,Shot Chart Detail,-215,65,5,2,201950,Jrue Holiday,23,1,22,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+883,Pullup Jump shot,Made Shot,245,0021501040,Shot Chart Detail,-27,254,2,2,201950,Jrue Holiday,50,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+884,Jump Shot,Missed Shot,265,0021501040,Shot Chart Detail,76,232,1,2,201950,Jrue Holiday,41,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+885,Driving Layup Shot,Made Shot,275,0021501040,Shot Chart Detail,-24,2,0,2,201950,Jrue Holiday,0,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+886,Jump Shot,Made Shot,303,0021501040,Shot Chart Detail,-50,244,8,3,201950,Jrue Holiday,50,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+887,Layup Shot,Missed Shot,433,0021501040,Shot Chart Detail,-22,-5,10,4,201950,Jrue Holiday,53,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+888,Jump Shot,Missed Shot,450,0021501040,Shot Chart Detail,174,175,9,4,201950,Jrue Holiday,26,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+889,Jump Shot,Missed Shot,465,0021501040,Shot Chart Detail,-7,67,8,4,201950,Jrue Holiday,29,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+890,Driving Layup Shot,Made Shot,573,0021501040,Shot Chart Detail,-16,-1,2,4,201950,Jrue Holiday,18,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+891,Fadeaway Jump Shot,Missed Shot,578,0021501040,Shot Chart Detail,200,11,1,4,201950,Jrue Holiday,24,1,20,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+892,Jump Shot,Missed Shot,2,0021501053,Shot Chart Detail,-73,101,11,1,201950,Jrue Holiday,43,1,12,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+893,Jump Shot,Missed Shot,15,0021501053,Shot Chart Detail,-178,100,10,1,201950,Jrue Holiday,26,1,20,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+894,Driving Layup Shot,Made Shot,18,0021501053,Shot Chart Detail,11,29,10,1,201950,Jrue Holiday,2,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+895,Jump Shot,Missed Shot,45,0021501053,Shot Chart Detail,81,237,8,1,201950,Jrue Holiday,23,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+896,Jump Shot,Missed Shot,58,0021501053,Shot Chart Detail,138,7,6,1,201950,Jrue Holiday,46,1,13,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+897,Jump Shot,Made Shot,77,0021501053,Shot Chart Detail,-71,120,5,1,201950,Jrue Holiday,29,1,13,1,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+898,Jump Shot,Missed Shot,99,0021501053,Shot Chart Detail,119,214,3,1,201950,Jrue Holiday,41,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+899,Jump Shot,Missed Shot,118,0021501053,Shot Chart Detail,125,2,2,1,201950,Jrue Holiday,21,1,12,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+900,Jump Shot,Missed Shot,210,0021501053,Shot Chart Detail,-6,121,6,2,201950,Jrue Holiday,49,1,12,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+901,Jump Shot,Missed Shot,235,0021501053,Shot Chart Detail,71,44,5,2,201950,Jrue Holiday,12,1,8,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+902,Jump Shot,Missed Shot,279,0021501053,Shot Chart Detail,-1,138,1,2,201950,Jrue Holiday,56,1,13,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+903,Jump Shot,Missed Shot,300,0021501053,Shot Chart Detail,-1,62,0,2,201950,Jrue Holiday,4,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+904,Jump Shot,Made Shot,306,0021501053,Shot Chart Detail,14,239,11,3,201950,Jrue Holiday,37,1,23,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+905,Jump Shot,Missed Shot,309,0021501053,Shot Chart Detail,-237,16,11,3,201950,Jrue Holiday,0,1,23,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+906,Pullup Jump shot,Made Shot,339,0021501053,Shot Chart Detail,-3,258,9,3,201950,Jrue Holiday,11,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+907,Jump Shot,Missed Shot,369,0021501053,Shot Chart Detail,-122,224,6,3,201950,Jrue Holiday,30,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+908,Jump Shot,Missed Shot,381,0021501053,Shot Chart Detail,143,95,6,3,201950,Jrue Holiday,4,1,17,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+909,Jump Shot,Missed Shot,391,0021501053,Shot Chart Detail,-6,43,4,3,201950,Jrue Holiday,27,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+910,Jump Shot,Made Shot,494,0021501053,Shot Chart Detail,-220,121,8,4,201950,Jrue Holiday,17,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+911,Pullup Jump shot,Made Shot,516,0021501053,Shot Chart Detail,-101,154,6,4,201950,Jrue Holiday,52,1,18,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+912,Jump Shot,Missed Shot,548,0021501053,Shot Chart Detail,117,219,4,4,201950,Jrue Holiday,20,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+913,Driving Layup Shot,Made Shot,563,0021501053,Shot Chart Detail,-4,7,3,4,201950,Jrue Holiday,1,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+914,Layup Shot,Missed Shot,578,0021501053,Shot Chart Detail,9,18,1,4,201950,Jrue Holiday,47,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+915,Layup Shot,Missed Shot,16,0021501102,Shot Chart Detail,0,7,9,1,201950,Jrue Holiday,38,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+916,Jump Shot,Missed Shot,23,0021501102,Shot Chart Detail,-184,170,8,1,201950,Jrue Holiday,44,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+917,Jump Shot,Missed Shot,29,0021501102,Shot Chart Detail,119,149,8,1,201950,Jrue Holiday,8,1,19,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+918,Jump Shot,Made Shot,48,0021501102,Shot Chart Detail,-37,183,6,1,201950,Jrue Holiday,45,1,18,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+919,Jump Shot,Missed Shot,56,0021501102,Shot Chart Detail,-110,223,4,1,201950,Jrue Holiday,56,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+920,Pullup Jump shot,Made Shot,68,0021501102,Shot Chart Detail,35,129,3,1,201950,Jrue Holiday,56,1,13,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+921,Jump Shot,Missed Shot,77,0021501102,Shot Chart Detail,53,21,3,1,201950,Jrue Holiday,20,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+922,Jump Shot,Missed Shot,195,0021501102,Shot Chart Detail,74,141,4,2,201950,Jrue Holiday,16,1,15,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+923,Jump Shot,Made Shot,206,0021501102,Shot Chart Detail,143,203,3,2,201950,Jrue Holiday,27,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+924,Pullup Jump shot,Made Shot,294,0021501102,Shot Chart Detail,-83,242,7,3,201950,Jrue Holiday,24,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+925,Driving Layup Shot,Made Shot,320,0021501102,Shot Chart Detail,-43,3,4,3,201950,Jrue Holiday,41,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+926,Jump Shot,Missed Shot,334,0021501102,Shot Chart Detail,-78,234,3,3,201950,Jrue Holiday,50,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+927,Jump Shot,Missed Shot,380,0021501102,Shot Chart Detail,-7,144,11,4,201950,Jrue Holiday,32,1,14,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+928,Driving Reverse Layup Shot,Missed Shot,396,0021501102,Shot Chart Detail,-22,13,9,4,201950,Jrue Holiday,17,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+929,Jump Shot,Missed Shot,419,0021501102,Shot Chart Detail,-7,65,7,4,201950,Jrue Holiday,21,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+930,Pullup Jump shot,Made Shot,435,0021501102,Shot Chart Detail,-74,156,6,4,201950,Jrue Holiday,20,1,17,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+931,Pullup Jump shot,Made Shot,442,0021501102,Shot Chart Detail,-47,175,5,4,201950,Jrue Holiday,33,1,18,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+932,Driving Layup Shot,Made Shot,488,0021501102,Shot Chart Detail,12,11,2,4,201950,Jrue Holiday,4,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+933,Turnaround Fadeaway shot,Made Shot,494,0021501102,Shot Chart Detail,-171,18,1,4,201950,Jrue Holiday,19,1,17,1,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans

@@ -1,14 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 03 12:48:48 2016
-
-@author: pfenerty
-"""
-
 import pandas as pd
 import json
 import urllib2
 import os.path
+import difflib
 
 
 # region Utils
@@ -245,7 +239,8 @@ def get_general_stats(player_or_team, measure_type, per_mode, season_year, seaso
         'Getting General ' + player_or_team + ' ' + measure_type + ' ' + per_mode + ' stats for the ' + get_year_string(
             season_year) + ' ' + season_type)
 
-    file_path = '../data/' + player_or_team + '_data/' + season_year + '_' + season_type + '_' + measure_type + '_' \
+    file_path = '../data/' + player_or_team + '_data/' + get_year_string(
+        season_year) + '_' + season_type + '_' + measure_type + '_' \
                 + per_mode + '.csv'
 
     if not create_directories_and_check_for_file(file_path):
@@ -510,13 +505,12 @@ def get_player_passing_dashboard(player_id, season_year):
 
 # endregion
 
-
 # region Shot Data
 
 class ShotDataUrl(object):
     def __init__(self, ahead_behind='', clutch_time='', context_filter='', context_measure='FGA', date_from='',
                  date_to='', end_period='', end_range='', game_id='', game_segment='', last_n_games='0',
-                 league_id='00', location='', month='0', opponent_team_id='0', outcome='', period='0', player_id='',
+                 league_id='00', location='', month='0', opponent_team_id='0', outcome='', period='0', player_id='0',
                  point_diff='', position='', range_type='', rookie_year='', season='2015-16',
                  season_type=SeasonTypes.REG, season_segment='', start_period='', start_range='', team_id='0',
                  vs_conference='', vs_division=''):
@@ -595,23 +589,29 @@ class ShotDataUrl(object):
                                 vs_conference=self.vsConference, vs_division=self.vsDivision)
 
 
-def get_shot_data(player_id, season_year, season_type):
-    print('Getting Shot Data For ' + player_id + ' in the ' + get_year_string(season_year) + ' ' + season_type)
+def get_shot_data(player_id='0', season_year=2015, season_type=SeasonTypes.REG, team_id='0', game_id='',
+                  overwrite=False):
+    print(player_id, season_year, season_type)
+    print(
+        'Getting Shot Data For ' + player_id + team_id + ' in the ' + get_year_string(season_year) + ' ' + season_type)
+    fp_id = player_id + team_id + game_id
 
-    file_path = '../data/shot_data/' + player_id + '_' + get_year_string(season_year) + '_' + season_type + '.csv'
+    file_path = './data/shot_data/' + fp_id + '_' + get_year_string(season_year) + '_' + season_type + '.csv'
+    print(file_path)
 
-    if not create_directories_and_check_for_file(file_path):
+    if (not create_directories_and_check_for_file(file_path)) or overwrite:
         print('GET DATA FROM WEB API')
 
-        data_url = ShotDataUrl(player_id=player_id, season=get_year_string(season_year), season_type=season_type)
-        print(data_url.build_url())
+        data_url = ShotDataUrl(player_id=player_id, season=get_year_string(season_year), season_type=season_type,
+                               team_id=team_id, game_id=game_id)
+        print (data_url.build_url())
 
-        df = json_to_pandas(data_url.build_url(), 0)
+        func_df = json_to_pandas(data_url.build_url(), 0)
 
-        if df is not None:
-            df.to_csv(file_path)
+        if func_df is not None:
+            func_df.to_csv(file_path)
             print('GOT DATA FROM WEB API, WRITING TO FILE')
-            return df
+            return func_df
 
         else:
             print('COULD NOT GET DATA FROM WEB API')
@@ -621,4 +621,36 @@ def get_shot_data(player_id, season_year, season_type):
         print('GETTING DATA FROM FILE')
         return pd.read_csv(file_path)
 
+
 # endregion Shot Data
+
+
+# region Play By Play
+
+def get_pbp_data(game_id, season_year, season_type, overwrite=False):
+    file_path = './data/play_by_play/' + game_id + '_' + season_year + '_' + season_type + '.csv'
+    if (not create_directories_and_check_for_file(file_path)) or overwrite:
+        url = "http://stats.nba.com/stats/playbyplayv2?EndPeriod=10&" \
+              "EndRange=55800&" \
+              "GameID={gameId}&" \
+              "RangeType=2&" \
+              "Season={seasonYear}&" \
+              "SeasonType={seasonType}&" \
+              "StartPeriod=1&S" \
+              "tartRange=0"
+        url = url.format(gameId=game_id, seasonYear=season_year, seasonType=season_type)
+        func_df = json_to_pandas(url, 0)
+        func_df.to_csv(file_path)
+        return func_df
+    else:
+        return pd.read_csv(file_path)
+
+
+pbp_df = get_pbp_data("0021501226", get_year_string(2015), SeasonTypes.REG, overwrite=True)
+shot_df = get_shot_data(game_id="0021501226", overwrite=True)
+shot_df["TIME_MATCH"] = shot_df["PERIOD"].map(str) + (shot_df['MINUTES_REMAINING'] * 60).map(str) + shot_df[
+    'SECONDS_REMAINING'].map(str)
+shot_df['PCTIMESTRING'] = shot_df["PCTIMESTRING"].apply(
+    lambda x: difflib.get_close_matches(x, pbp_df[pbp_df.PERIOD == x.PERIOD]['PCTIMESTRING'])[0])
+merge_df = pd.merge(pbp_df, shot_df, on=['PCTIMESTRING', "PERIOD", "GAME_ID"])
+merge_df.to_csv("merge.csv")
