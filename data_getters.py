@@ -596,7 +596,7 @@ def get_shot_data(player_id='0', season_year=2015, season_type=SeasonTypes.REG, 
         'Getting Shot Data For ' + player_id + team_id + ' in the ' + get_year_string(season_year) + ' ' + season_type)
     fp_id = player_id + team_id + game_id
 
-    file_path = './data/shot_data/' + fp_id + '_' + get_year_string(season_year) + '_' + season_type + '.csv'
+    file_path = '../data/shot_data/' + fp_id + '_' + get_year_string(season_year) + '_' + season_type + '.csv'
     print(file_path)
 
     if (not create_directories_and_check_for_file(file_path)) or overwrite:
@@ -644,13 +644,3 @@ def get_pbp_data(game_id, season_year, season_type, overwrite=False):
         return func_df
     else:
         return pd.read_csv(file_path)
-
-
-pbp_df = get_pbp_data("0021501226", get_year_string(2015), SeasonTypes.REG, overwrite=True)
-shot_df = get_shot_data(game_id="0021501226", overwrite=True)
-shot_df["TIME_MATCH"] = shot_df["PERIOD"].map(str) + (shot_df['MINUTES_REMAINING'] * 60).map(str) + shot_df[
-    'SECONDS_REMAINING'].map(str)
-shot_df['PCTIMESTRING'] = shot_df["PCTIMESTRING"].apply(
-    lambda x: difflib.get_close_matches(x, pbp_df[pbp_df.PERIOD == x.PERIOD]['PCTIMESTRING'])[0])
-merge_df = pd.merge(pbp_df, shot_df, on=['PCTIMESTRING', "PERIOD", "GAME_ID"])
-merge_df.to_csv("merge.csv")
