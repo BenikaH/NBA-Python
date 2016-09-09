@@ -2,7 +2,6 @@ import pandas as pd
 import json
 import urllib2
 import os.path
-import difflib
 
 
 # region Utils
