@@ -1,6 +1,6 @@
 import pandas as pd
 import shot_charts as charts
-
+import matplotlib.pyplot as plt
 import data_getters as data
 
 
@@ -46,37 +46,36 @@ def merge_pbp_and_shot_data():
         full_year_merged_df.to_csv('merge.csv')
 
 
-def chart_assists():
-    df = pd.read_csv('merge.csv')
-    players_df = data.get_general_stats(data.PlayerOrTeam.P, data.MeasureTypes.BASE, data.PerModes.TOTAL, 2015,
+def chart_assists(data_df, year, num_of_players):
+    players_df = data.get_general_stats(data.PlayerOrTeam.P, data.MeasureTypes.BASE, data.PerModes.TOTAL, year,
                                         data.SeasonTypes.REG)
-    players_df = players_df.sort_values(by=['AST'], ascending=False).head(30)
+    players_df = players_df.sort_values(by=['AST'], ascending=False).head(num_of_players)
     for i, player in players_df.iterrows():
-        print(player.PLAYER_ID, player.PLAYER_NAME)
-        player_df = df[df['PLAYER2_ID'] == player.PLAYER_ID]
-        # charts.make_matplot_scatter_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, 2015,
-        #                                       data.SeasonTypes.REG, 'assist')
-        charts.make_matplot_hexbin_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, 2015,
+        player_df = data_df[data_df['PLAYER2_ID'] == player.PLAYER_ID]
+        charts.make_matplot_scatter_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, year,
+                                               data.SeasonTypes.REG, 'assist')
+        charts.make_matplot_hexbin_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, year,
                                               data.SeasonTypes.REG, 'assist')
-        # charts.make_matplot_kde_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, 2015,
-        #                                   data.SeasonTypes.REG, 'assist')
+        charts.make_matplot_kde_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, year,
+                                           data.SeasonTypes.REG, 'assist')
+        charts.make_histogram(player_df, player.PLAYER_NAME, year, data.SeasonTypes.REG, 'assist')
 
 
-def chart_blocks():
-    df = pd.read_csv('merge.csv')
-    players_df = data.get_general_stats(data.PlayerOrTeam.P, data.MeasureTypes.BASE, data.PerModes.TOTAL, 2015,
+def chart_blocks(data_df , year, num_of_players):
+    players_df = data.get_general_stats(data.PlayerOrTeam.P, data.MeasureTypes.BASE, data.PerModes.TOTAL, year,
                                         data.SeasonTypes.REG)
-    players_df = players_df.sort_values(by=['BLK'], ascending=False).head(30)
+    players_df = players_df.sort_values(by=['BLK'], ascending=False).head(num_of_players)
     for i, player in players_df.iterrows():
         print(player.PLAYER_ID, player.PLAYER_NAME)
-        player_df = df[df['PLAYER3_ID'] == player.PLAYER_ID]
-        charts.make_matplot_scatter_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, 2015,
+        player_df = data_df[data_df['PLAYER3_ID'] == player.PLAYER_ID]
+        charts.make_matplot_scatter_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, year,
                                                data.SeasonTypes.REG, 'blocks')
-        charts.make_matplot_hexbin_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, 2015,
+        charts.make_matplot_hexbin_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, year,
                                               data.SeasonTypes.REG, 'blocks')
-        charts.make_matplot_kde_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, 2015,
+        charts.make_matplot_kde_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, year,
                                            data.SeasonTypes.REG, 'blocks')
+        charts.make_histogram(player_df, player.PLAYER_NAME, year, data.SeasonTypes.REG, 'block')
 
 
-chart_assists()
+# chart_assists()
 # chart_blocks()

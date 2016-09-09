@@ -2,6 +2,7 @@ import data_getters as dg
 import matplotlib.pyplot as plt
 from matplotlib.patches import Circle, Rectangle, Arc
 import seaborn as sns
+import numpy as np
 import urllib
 from matplotlib.offsetbox import OffsetImage
 
@@ -207,7 +208,7 @@ def get_player_picture(player_id, player_name):
     file_path = '../player_pictures/' + player_name + '.png'
     if not dg.create_directories_and_check_for_file(file_path):
         pic = urllib.urlretrieve("http://stats.nba.com/media/players/230x185/" + str(player_id) + ".png",
-                             str(player_id) + ".png")
+                                 str(player_id) + ".png")
         player_pic = plt.imread(pic[0])
         plt.imsave(file_path, player_pic)
     else:
@@ -327,9 +328,9 @@ def make_matplot_hexbin_shot_chart(df, player_name, player_id, year, season_type
 
     # create our jointplot
 
-    cmap = plt.cm.gist_heat_r
+    cmap = plt.cm.coolwarm
     plt.axis([-250, 250, 422.5, -47.5])
-    joint_shot_chart = sns.jointplot(df.LOC_X, df.LOC_Y, stat_func=None,
+    joint_shot_chart = sns.jointplot(df.LOC_X, df.LOC_Y, stat_func=None, reduce_C_function=np.sum,
                                      kind='hex', space=0, color=cmap(.2), cmap=cmap, extent=[-250, 250, 422.5, -47.5],
                                      gridsize=30)
 
@@ -373,7 +374,7 @@ def make_matplot_kde_shot_chart(df, player_name, player_id, year, season_type, c
     # get our colormap for the main kde plot
     # Note we can extract a color from cmap to use for
     # the plots that lie on the side and top axes
-    cmap = plt.cm.YlOrRd_r
+    cmap = plt.cm.viridis
 
     # n_levels sets the number of contour lines for the main kde plot
     joint_shot_chart = sns.jointplot(df.LOC_X, df.LOC_Y, stat_func=None,
@@ -421,6 +422,18 @@ def make_matplot_kde_shot_chart(df, player_name, player_id, year, season_type, c
 
     file_path = '../charts/' + chart_type + '/kde/' + player_name + '_' + str(
         year) + '_' + season_type + '.png'
+    dg.create_directories_and_check_for_file(file_path)
+    plt.savefig(file_path)
+    plt.close()
+
+
+def make_histogram(df, player_name, year, season_type, chart_type):
+    plt.figure()
+    title = player_name + ' ' + dg.get_year_string(year) + ' ' + season_type
+    plt.title(title)
+    plt.xlabel('Distance (Feet)')
+    df['SHOT_DISTANCE'].plot.hist(alpha=0.5)
+    file_path = '../charts/' + chart_type + '/hist/' + player_name + '_' + str(year) + '_' + season_type + '.png'
     dg.create_directories_and_check_for_file(file_path)
     plt.savefig(file_path)
     plt.close()
