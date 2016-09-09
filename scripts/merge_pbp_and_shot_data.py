@@ -21,6 +21,7 @@ year = 2015
 game_ids = get_season_game_ids(year)
 full_year_merged_df = pd.DataFrame()
 for i, game_id in enumerate(game_ids):
+    print(i)
     pbp_df = data.get_pbp_data(game_id, data.get_year_string(year), data.SeasonTypes.REG, overwrite=False)
     pbp_df = pbp_df[
         ['GAME_ID', 'EVENTNUM', 'PERIOD', 'PCTIMESTRING', 'HOMEDESCRIPTION', 'NEUTRALDESCRIPTION', 'VISITORDESCRIPTION',
@@ -35,3 +36,5 @@ for i, game_id in enumerate(game_ids):
     merge_df = pd.merge(pbp_df, shot_df, left_on=['GAME_ID', 'EVENTNUM'], right_on=['GAME_ID', 'GAME_EVENT_ID'],
                         how='inner')
     full_year_merged_df = full_year_merged_df.append(merge_df)
+    full_year_merged_df.to_csv('merge.csv')
+

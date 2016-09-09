@@ -1,0 +1,151 @@
+,ACTION_TYPE,EVENT_TYPE,GAME_EVENT_ID,GAME_ID,GRID_TYPE,LOC_X,LOC_Y,MINUTES_REMAINING,PERIOD,PLAYER_ID,PLAYER_NAME,SECONDS_REMAINING,SHOT_ATTEMPTED_FLAG,SHOT_DISTANCE,SHOT_MADE_FLAG,SHOT_TYPE,SHOT_ZONE_AREA,SHOT_ZONE_BASIC,SHOT_ZONE_RANGE,TEAM_ID,TEAM_NAME
+0,Alley Oop Dunk Shot,Made Shot,2,0021501001,Shot Chart Detail,0,1,11,1,201599,DeAndre Jordan,41,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+1,Jump Shot,Missed Shot,3,0021501001,Shot Chart Detail,225,13,11,1,200746,LaMarcus Aldridge,22,1,22,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612759,San Antonio Spurs
+2,Fadeaway Jump Shot,Made Shot,5,0021501001,Shot Chart Detail,-29,85,11,1,101108,Chris Paul,6,1,8,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612746,Los Angeles Clippers
+3,Jump Shot,Missed Shot,6,0021501001,Shot Chart Detail,10,188,10,1,200746,LaMarcus Aldridge,52,1,18,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+4,Jump Shot,Missed Shot,8,0021501001,Shot Chart Detail,45,178,10,1,200755,JJ Redick,39,1,18,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612746,Los Angeles Clippers
+5,Jump Shot,Missed Shot,10,0021501001,Shot Chart Detail,30,242,10,1,202695,Kawhi Leonard,23,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612759,San Antonio Spurs
+6,Jump Shot,Missed Shot,12,0021501001,Shot Chart Detail,-207,164,10,1,200755,JJ Redick,8,1,26,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612746,Los Angeles Clippers
+7,Reverse Layup Shot,Made Shot,14,0021501001,Shot Chart Detail,-12,2,9,1,2225,Tony Parker,56,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+8,Fadeaway Jump Shot,Missed Shot,15,0021501001,Shot Chart Detail,64,80,9,1,200755,JJ Redick,40,1,10,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612746,Los Angeles Clippers
+9,Cutting Dunk Shot,Made Shot,23,0021501001,Shot Chart Detail,0,1,9,1,201599,DeAndre Jordan,13,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+10,Pullup Jump shot,Made Shot,24,0021501001,Shot Chart Detail,33,77,8,1,202695,Kawhi Leonard,56,1,8,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612759,San Antonio Spurs
+11,Jump Shot,Made Shot,25,0021501001,Shot Chart Detail,45,242,8,1,101108,Chris Paul,47,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612746,Los Angeles Clippers
+12,Floating Jump shot,Missed Shot,27,0021501001,Shot Chart Detail,35,57,8,1,200746,LaMarcus Aldridge,28,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612759,San Antonio Spurs
+13,Jump Shot,Missed Shot,29,0021501001,Shot Chart Detail,207,149,8,1,201145,Jeff Green,10,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612746,Los Angeles Clippers
+14,Jump Shot,Missed Shot,31,0021501001,Shot Chart Detail,-81,165,7,1,1495,Tim Duncan,53,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+15,Jump Shot,Missed Shot,36,0021501001,Shot Chart Detail,55,101,7,1,101108,Chris Paul,32,1,11,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612746,Los Angeles Clippers
+16,Layup Shot,Made Shot,39,0021501001,Shot Chart Detail,-29,-1,7,1,200746,LaMarcus Aldridge,12,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+17,Driving Finger Roll Layup Shot,Made Shot,47,0021501001,Shot Chart Detail,17,7,6,1,202695,Kawhi Leonard,31,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+18,Layup Shot,Missed Shot,48,0021501001,Shot Chart Detail,4,3,6,1,201601,Luc Mbah a Moute,23,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+19,Jump Shot,Missed Shot,50,0021501001,Shot Chart Detail,-125,-10,6,1,200746,LaMarcus Aldridge,11,1,12,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612759,San Antonio Spurs
+20,Jump Shot,Missed Shot,55,0021501001,Shot Chart Detail,-81,178,5,1,201145,Jeff Green,41,1,19,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612746,Los Angeles Clippers
+21,Step Back Jump shot,Made Shot,60,0021501001,Shot Chart Detail,87,139,5,1,1938,Manu Ginobili,25,1,16,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+22,Turnaround Jump Shot,Missed Shot,61,0021501001,Shot Chart Detail,82,80,4,1,201145,Jeff Green,59,1,11,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612746,Los Angeles Clippers
+23,Jump Shot,Missed Shot,63,0021501001,Shot Chart Detail,-238,57,4,1,1938,Manu Ginobili,52,1,24,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612759,San Antonio Spurs
+24,Jump Shot,Missed Shot,65,0021501001,Shot Chart Detail,-107,198,4,1,101108,Chris Paul,40,1,22,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612746,Los Angeles Clippers
+25,Jump Shot,Missed Shot,67,0021501001,Shot Chart Detail,181,23,4,1,2225,Tony Parker,28,1,18,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+26,Jump Shot,Missed Shot,69,0021501001,Shot Chart Detail,22,31,4,1,201599,DeAndre Jordan,12,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+27,Jump Shot,Made Shot,71,0021501001,Shot Chart Detail,-61,16,3,1,200746,LaMarcus Aldridge,57,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612759,San Antonio Spurs
+28,Jump Shot,Made Shot,72,0021501001,Shot Chart Detail,-237,51,3,1,200755,JJ Redick,38,1,24,1,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612746,Los Angeles Clippers
+29,Jump Shot,Made Shot,73,0021501001,Shot Chart Detail,-60,165,3,1,200746,LaMarcus Aldridge,24,1,17,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+30,Driving Hook Shot,Missed Shot,74,0021501001,Shot Chart Detail,50,43,3,1,201145,Jeff Green,3,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612746,Los Angeles Clippers
+31,Pullup Jump shot,Missed Shot,76,0021501001,Shot Chart Detail,66,51,2,1,200746,LaMarcus Aldridge,50,1,8,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612759,San Antonio Spurs
+32,Jump Shot,Missed Shot,87,0021501001,Shot Chart Detail,-104,223,2,1,101108,Chris Paul,27,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612746,Los Angeles Clippers
+33,Jump Shot,Made Shot,95,0021501001,Shot Chart Detail,-129,75,1,1,101108,Chris Paul,58,1,14,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612746,Los Angeles Clippers
+34,Jump Shot,Missed Shot,96,0021501001,Shot Chart Detail,-6,97,1,1,2755,Kevin Martin,39,1,9,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612759,San Antonio Spurs
+35,Driving Layup Shot,Made Shot,98,0021501001,Shot Chart Detail,-14,36,1,1,101108,Chris Paul,28,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+36,Jump Shot,Missed Shot,102,0021501001,Shot Chart Detail,-32,164,1,1,2561,David West,11,1,16,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+37,Jump Shot,Missed Shot,104,0021501001,Shot Chart Detail,86,43,0,1,2037,Jamal Crawford,57,1,9,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612746,Los Angeles Clippers
+38,Jump Shot,Missed Shot,118,0021501001,Shot Chart Detail,158,193,0,1,2037,Jamal Crawford,25,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612746,Los Angeles Clippers
+39,Step Back Jump shot,Missed Shot,120,0021501001,Shot Chart Detail,148,193,0,1,1938,Manu Ginobili,1,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612759,San Antonio Spurs
+40,Jump Shot,Missed Shot,122,0021501001,Shot Chart Detail,-122,82,0,1,203937,Kyle Anderson,0,1,14,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612759,San Antonio Spurs
+41,Jump Shot,Missed Shot,135,0021501001,Shot Chart Detail,91,65,11,2,203085,Austin Rivers,15,1,11,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612746,Los Angeles Clippers
+42,Layup Shot,Made Shot,137,0021501001,Shot Chart Detail,9,-5,11,2,2755,Kevin Martin,9,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+43,Jump Shot,Missed Shot,138,0021501001,Shot Chart Detail,-114,82,10,2,202332,Cole Aldrich,43,1,14,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612746,Los Angeles Clippers
+44,Pullup Jump shot,Made Shot,141,0021501001,Shot Chart Detail,-125,134,10,2,201988,Patty Mills,34,1,18,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+45,Pullup Jump shot,Missed Shot,142,0021501001,Shot Chart Detail,-94,169,10,2,2037,Jamal Crawford,17,1,19,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612746,Los Angeles Clippers
+46,Jump Shot,Missed Shot,144,0021501001,Shot Chart Detail,-184,164,10,2,2755,Kevin Martin,10,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612759,San Antonio Spurs
+47,Jump Shot,Made Shot,146,0021501001,Shot Chart Detail,225,2,10,2,201980,Danny Green,1,1,22,1,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612759,San Antonio Spurs
+48,Jump Shot,Made Shot,148,0021501001,Shot Chart Detail,135,208,9,2,201988,Patty Mills,26,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612759,San Antonio Spurs
+49,Driving Finger Roll Layup Shot,Missed Shot,153,0021501001,Shot Chart Detail,15,46,9,2,2037,Jamal Crawford,3,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612746,Los Angeles Clippers
+50,Layup Shot,Made Shot,155,0021501001,Shot Chart Detail,12,11,8,2,1495,Tim Duncan,51,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+51,Jump Shot,Missed Shot,156,0021501001,Shot Chart Detail,58,43,8,2,203143,Pablo Prigioni,37,1,7,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612746,Los Angeles Clippers
+52,Jump Shot,Made Shot,163,0021501001,Shot Chart Detail,15,115,7,2,101108,Chris Paul,59,1,11,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612746,Los Angeles Clippers
+53,Jump Shot,Missed Shot,164,0021501001,Shot Chart Detail,69,134,7,2,203937,Kyle Anderson,43,1,15,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612759,San Antonio Spurs
+54,Reverse Layup Shot,Made Shot,168,0021501001,Shot Chart Detail,-32,-5,7,2,202695,Kawhi Leonard,20,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+55,Turnaround Jump Shot,Made Shot,173,0021501001,Shot Chart Detail,-132,110,6,2,201145,Jeff Green,49,1,17,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612746,Los Angeles Clippers
+56,Jump Shot,Made Shot,175,0021501001,Shot Chart Detail,-122,3,6,2,202695,Kawhi Leonard,24,1,12,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612759,San Antonio Spurs
+57,Jump Shot,Made Shot,176,0021501001,Shot Chart Detail,91,105,6,2,101108,Chris Paul,11,1,13,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612746,Los Angeles Clippers
+58,Jump Shot,Missed Shot,177,0021501001,Shot Chart Detail,0,56,5,2,2225,Tony Parker,51,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612759,San Antonio Spurs
+59,Tip Layup Shot,Made Shot,178,0021501001,Shot Chart Detail,2,-1,5,2,1495,Tim Duncan,50,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+60,Jump Shot,Made Shot,180,0021501001,Shot Chart Detail,233,26,5,2,201145,Jeff Green,32,1,23,1,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612746,Los Angeles Clippers
+61,Turnaround Jump Shot,Missed Shot,184,0021501001,Shot Chart Detail,128,80,5,2,202695,Kawhi Leonard,9,1,15,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612759,San Antonio Spurs
+62,Driving Floating Jump Shot,Made Shot,187,0021501001,Shot Chart Detail,-129,31,4,2,202695,Kawhi Leonard,51,1,13,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612759,San Antonio Spurs
+63,Jump Shot,Missed Shot,191,0021501001,Shot Chart Detail,220,110,4,2,201145,Jeff Green,35,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612746,Los Angeles Clippers
+64,Jump Shot,Missed Shot,193,0021501001,Shot Chart Detail,-228,11,4,2,2225,Tony Parker,20,1,22,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612759,San Antonio Spurs
+65,Alley Oop Layup shot,Made Shot,195,0021501001,Shot Chart Detail,-27,7,4,2,200746,LaMarcus Aldridge,11,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+66,Floating Jump shot,Made Shot,196,0021501001,Shot Chart Detail,35,51,3,2,200755,JJ Redick,51,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612746,Los Angeles Clippers
+67,Jump Shot,Made Shot,201,0021501001,Shot Chart Detail,91,13,3,2,200746,LaMarcus Aldridge,19,1,9,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612759,San Antonio Spurs
+68,Turnaround Hook Shot,Made Shot,202,0021501001,Shot Chart Detail,30,41,3,2,201599,DeAndre Jordan,8,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612746,Los Angeles Clippers
+69,Jump Shot,Missed Shot,220,0021501001,Shot Chart Detail,78,134,2,2,200746,LaMarcus Aldridge,14,1,15,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612759,San Antonio Spurs
+70,Jump Shot,Made Shot,222,0021501001,Shot Chart Detail,81,110,2,2,101108,Chris Paul,2,1,13,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612746,Los Angeles Clippers
+71,Jump Shot,Missed Shot,223,0021501001,Shot Chart Detail,140,200,1,2,201988,Patty Mills,37,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612759,San Antonio Spurs
+72,Jump Shot,Made Shot,227,0021501001,Shot Chart Detail,50,160,1,2,101108,Chris Paul,17,1,16,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612746,Los Angeles Clippers
+73,Jump Shot,Missed Shot,228,0021501001,Shot Chart Detail,69,129,0,2,200746,LaMarcus Aldridge,58,1,14,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612759,San Antonio Spurs
+74,Layup Shot,Made Shot,230,0021501001,Shot Chart Detail,6,28,0,2,201599,DeAndre Jordan,44,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+75,Driving Finger Roll Layup Shot,Made Shot,231,0021501001,Shot Chart Detail,4,26,0,2,202695,Kawhi Leonard,24,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+76,Jump Shot,Made Shot,237,0021501001,Shot Chart Detail,171,178,0,2,203085,Austin Rivers,0,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612746,Los Angeles Clippers
+77,Jump Shot,Missed Shot,241,0021501001,Shot Chart Detail,0,205,11,3,202695,Kawhi Leonard,45,1,20,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+78,Floating Jump shot,Missed Shot,243,0021501001,Shot Chart Detail,-35,75,11,3,200755,JJ Redick,31,1,8,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612746,Los Angeles Clippers
+79,Floating Jump shot,Made Shot,245,0021501001,Shot Chart Detail,73,43,11,3,200746,LaMarcus Aldridge,19,1,8,1,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612759,San Antonio Spurs
+80,Jump Shot,Missed Shot,246,0021501001,Shot Chart Detail,137,214,11,3,201145,Jeff Green,0,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612746,Los Angeles Clippers
+81,Jump Shot,Missed Shot,248,0021501001,Shot Chart Detail,58,56,10,3,202695,Kawhi Leonard,49,1,8,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612759,San Antonio Spurs
+82,Turnaround Bank shot,Missed Shot,257,0021501001,Shot Chart Detail,169,62,10,3,200746,LaMarcus Aldridge,21,1,18,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+83,Jump Shot,Made Shot,260,0021501001,Shot Chart Detail,-138,213,9,3,201980,Danny Green,59,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612759,San Antonio Spurs
+84,Jump Shot,Missed Shot,267,0021501001,Shot Chart Detail,-142,228,9,3,201980,Danny Green,20,1,26,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612759,San Antonio Spurs
+85,Jump Shot,Missed Shot,274,0021501001,Shot Chart Detail,-241,23,8,3,202695,Kawhi Leonard,56,1,24,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612759,San Antonio Spurs
+86,Jump Shot,Made Shot,277,0021501001,Shot Chart Detail,-29,144,8,3,101108,Chris Paul,39,1,14,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612746,Los Angeles Clippers
+87,Jump Shot,Missed Shot,282,0021501001,Shot Chart Detail,-119,164,7,3,101108,Chris Paul,53,1,20,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612746,Los Angeles Clippers
+88,Jump Shot,Missed Shot,285,0021501001,Shot Chart Detail,-30,183,7,3,2225,Tony Parker,39,1,18,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+89,Driving Layup Shot,Made Shot,287,0021501001,Shot Chart Detail,-6,3,7,3,200755,JJ Redick,27,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+90,Jump Shot,Missed Shot,289,0021501001,Shot Chart Detail,9,38,7,3,1495,Tim Duncan,0,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+91,Finger Roll Layup Shot,Missed Shot,297,0021501001,Shot Chart Detail,1,2,6,3,200746,LaMarcus Aldridge,29,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+92,Tip Layup Shot,Made Shot,299,0021501001,Shot Chart Detail,-7,11,6,3,1495,Tim Duncan,28,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+93,Jump Shot,Made Shot,304,0021501001,Shot Chart Detail,227,65,5,3,1938,Manu Ginobili,44,1,23,1,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612759,San Antonio Spurs
+94,Pullup Jump shot,Made Shot,308,0021501001,Shot Chart Detail,0,208,5,3,200755,JJ Redick,27,1,20,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612746,Los Angeles Clippers
+95,Pullup Jump shot,Made Shot,309,0021501001,Shot Chart Detail,-99,11,5,3,202695,Kawhi Leonard,9,1,9,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612759,San Antonio Spurs
+96,Jump Shot,Missed Shot,310,0021501001,Shot Chart Detail,232,21,4,3,101108,Chris Paul,42,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612746,Los Angeles Clippers
+97,Layup Shot,Made Shot,312,0021501001,Shot Chart Detail,6,11,4,3,201599,DeAndre Jordan,36,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+98,Turnaround Bank shot,Made Shot,313,0021501001,Shot Chart Detail,145,21,4,3,200746,LaMarcus Aldridge,20,1,14,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612759,San Antonio Spurs
+99,Jump Shot,Missed Shot,326,0021501001,Shot Chart Detail,228,2,3,3,201988,Patty Mills,31,1,22,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612759,San Antonio Spurs
+100,Jump Shot,Made Shot,328,0021501001,Shot Chart Detail,-147,208,3,3,201145,Jeff Green,21,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612746,Los Angeles Clippers
+101,Reverse Layup Shot,Made Shot,331,0021501001,Shot Chart Detail,-16,3,3,3,1938,Manu Ginobili,1,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+102,Jump Shot,Missed Shot,332,0021501001,Shot Chart Detail,-4,65,2,3,101108,Chris Paul,50,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612746,Los Angeles Clippers
+103,Jump Shot,Made Shot,334,0021501001,Shot Chart Detail,210,111,2,3,201145,Jeff Green,32,1,23,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612746,Los Angeles Clippers
+104,Jump Bank Shot,Made Shot,337,0021501001,Shot Chart Detail,-120,61,2,3,1938,Manu Ginobili,11,1,13,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612759,San Antonio Spurs
+105,Jump Shot,Missed Shot,338,0021501001,Shot Chart Detail,86,36,1,3,201145,Jeff Green,48,1,9,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612746,Los Angeles Clippers
+106,Tip Dunk Shot,Made Shot,340,0021501001,Shot Chart Detail,0,1,1,3,201599,DeAndre Jordan,44,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+107,Pullup Jump shot,Made Shot,341,0021501001,Shot Chart Detail,58,180,1,3,201988,Patty Mills,27,1,18,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+108,Jump Shot,Made Shot,342,0021501001,Shot Chart Detail,-151,70,1,3,201145,Jeff Green,4,1,16,1,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612746,Los Angeles Clippers
+109,Dunk Shot,Missed Shot,351,0021501001,Shot Chart Detail,0,1,0,3,203085,Austin Rivers,40,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+110,Layup Shot,Missed Shot,353,0021501001,Shot Chart Detail,-4,8,0,3,203937,Kyle Anderson,33,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+111,Pullup Jump shot,Made Shot,355,0021501001,Shot Chart Detail,17,193,0,3,2037,Jamal Crawford,16,1,19,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612746,Los Angeles Clippers
+112,Floating Jump shot,Made Shot,356,0021501001,Shot Chart Detail,-129,13,0,3,203937,Kyle Anderson,0,1,12,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612759,San Antonio Spurs
+113,Jump Shot,Missed Shot,361,0021501001,Shot Chart Detail,48,185,11,4,2037,Jamal Crawford,46,1,19,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612746,Los Angeles Clippers
+114,Hook Shot,Made Shot,363,0021501001,Shot Chart Detail,38,56,11,4,2561,David West,37,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612759,San Antonio Spurs
+115,Jump Shot,Missed Shot,365,0021501001,Shot Chart Detail,186,65,11,4,202325,Wesley Johnson,16,1,19,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612746,Los Angeles Clippers
+116,Jump Shot,Made Shot,367,0021501001,Shot Chart Detail,187,151,10,4,1938,Manu Ginobili,59,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612759,San Antonio Spurs
+117,Layup Shot,Made Shot,368,0021501001,Shot Chart Detail,-6,3,10,4,202332,Cole Aldrich,35,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+118,Jump Shot,Missed Shot,369,0021501001,Shot Chart Detail,-96,229,10,4,1938,Manu Ginobili,20,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612759,San Antonio Spurs
+119,Jump Shot,Missed Shot,371,0021501001,Shot Chart Detail,112,-6,10,4,201988,Patty Mills,15,1,11,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612759,San Antonio Spurs
+120,Tip Layup Shot,Made Shot,373,0021501001,Shot Chart Detail,-6,7,10,4,2561,David West,12,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+121,Jump Shot,Missed Shot,374,0021501001,Shot Chart Detail,84,237,9,4,202325,Wesley Johnson,59,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612746,Los Angeles Clippers
+122,Jump Bank Shot,Missed Shot,386,0021501001,Shot Chart Detail,-61,21,9,4,2561,David West,38,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612759,San Antonio Spurs
+123,Tip Layup Shot,Missed Shot,382,0021501001,Shot Chart Detail,-11,2,9,4,2564,Boris Diaw,37,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+124,Putback Layup Shot,Made Shot,384,0021501001,Shot Chart Detail,-37,14,9,4,2561,David West,34,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+125,Driving Layup Shot,Missed Shot,389,0021501001,Shot Chart Detail,9,-1,9,4,203085,Austin Rivers,25,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+126,Pullup Jump shot,Made Shot,391,0021501001,Shot Chart Detail,-29,180,9,4,201988,Patty Mills,17,1,18,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+127,Jump Shot,Missed Shot,392,0021501001,Shot Chart Detail,-240,16,8,4,2037,Jamal Crawford,56,1,24,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612746,Los Angeles Clippers
+128,Layup Shot,Made Shot,397,0021501001,Shot Chart Detail,-6,0,8,4,201599,DeAndre Jordan,25,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+129,Jump Shot,Made Shot,398,0021501001,Shot Chart Detail,-169,8,8,4,2561,David West,11,1,16,1,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+130,Jump Shot,Made Shot,399,0021501001,Shot Chart Detail,161,198,7,4,200755,JJ Redick,50,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612746,Los Angeles Clippers
+131,Jump Bank Shot,Made Shot,403,0021501001,Shot Chart Detail,40,21,7,4,202695,Kawhi Leonard,33,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612759,San Antonio Spurs
+132,Jump Shot,Missed Shot,404,0021501001,Shot Chart Detail,223,7,7,4,201145,Jeff Green,6,1,22,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612746,Los Angeles Clippers
+133,Jump Shot,Made Shot,407,0021501001,Shot Chart Detail,228,43,6,4,201980,Danny Green,45,1,23,1,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612759,San Antonio Spurs
+134,Jump Shot,Made Shot,413,0021501001,Shot Chart Detail,230,80,6,4,201988,Patty Mills,12,1,24,1,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612759,San Antonio Spurs
+135,Layup Shot,Missed Shot,419,0021501001,Shot Chart Detail,4,11,5,4,101108,Chris Paul,50,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+136,Jump Shot,Missed Shot,421,0021501001,Shot Chart Detail,-61,43,5,4,2561,David West,31,1,7,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612759,San Antonio Spurs
+137,Alley Oop Layup shot,Made Shot,426,0021501001,Shot Chart Detail,-11,7,5,4,201988,Patty Mills,5,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612759,San Antonio Spurs
+138,Jump Shot,Made Shot,429,0021501001,Shot Chart Detail,236,11,4,4,201980,Danny Green,29,1,23,1,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612759,San Antonio Spurs
+139,Jump Shot,Made Shot,438,0021501001,Shot Chart Detail,89,156,3,4,202695,Kawhi Leonard,52,1,17,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+140,Hook Shot,Made Shot,444,0021501001,Shot Chart Detail,-12,65,3,4,202332,Cole Aldrich,32,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612746,Los Angeles Clippers
+141,Layup Shot,Missed Shot,446,0021501001,Shot Chart Detail,-1,-1,2,4,203085,Austin Rivers,58,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+142,Jump Shot,Missed Shot,454,0021501001,Shot Chart Detail,-73,174,2,4,2037,Jamal Crawford,23,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612746,Los Angeles Clippers
+143,Jump Shot,Made Shot,456,0021501001,Shot Chart Detail,107,183,1,4,203937,Kyle Anderson,57,1,21,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+144,Cutting Finger Roll Layup Shot,Made Shot,457,0021501001,Shot Chart Detail,-6,3,1,4,202332,Cole Aldrich,40,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612746,Los Angeles Clippers
+145,Jump Shot,Made Shot,461,0021501001,Shot Chart Detail,0,178,1,4,203937,Kyle Anderson,24,1,17,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612759,San Antonio Spurs
+146,Jump Shot,Missed Shot,462,0021501001,Shot Chart Detail,-241,21,1,4,2037,Jamal Crawford,0,1,24,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612746,Los Angeles Clippers
+147,Pullup Jump shot,Made Shot,464,0021501001,Shot Chart Detail,58,129,0,4,2755,Kevin Martin,48,1,14,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612759,San Antonio Spurs
+148,Jump Shot,Made Shot,465,0021501001,Shot Chart Detail,-133,214,0,4,203143,Pablo Prigioni,33,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612746,Los Angeles Clippers
+149,Jump Shot,Missed Shot,466,0021501001,Shot Chart Detail,30,156,0,4,2755,Kevin Martin,13,1,15,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612759,San Antonio Spurs

@@ -1,0 +1,176 @@
+,ACTION_TYPE,EVENT_TYPE,GAME_EVENT_ID,GAME_ID,GRID_TYPE,LOC_X,LOC_Y,MINUTES_REMAINING,PERIOD,PLAYER_ID,PLAYER_NAME,SECONDS_REMAINING,SHOT_ATTEMPTED_FLAG,SHOT_DISTANCE,SHOT_MADE_FLAG,SHOT_TYPE,SHOT_ZONE_AREA,SHOT_ZONE_BASIC,SHOT_ZONE_RANGE,TEAM_ID,TEAM_NAME
+0,Alley Oop Layup shot,Made Shot,4,0021500269,Shot Chart Detail,9,13,11,1,203078,Bradley Beal,33,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+1,Floating Jump shot,Made Shot,5,0021500269,Shot Chart Detail,102,8,11,1,203903,Jordan Clarkson,18,1,10,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+2,Dunk Shot,Made Shot,9,0021500269,Shot Chart Detail,0,1,11,1,202322,John Wall,1,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+3,Jump Shot,Missed Shot,10,0021500269,Shot Chart Detail,137,21,10,1,201579,Roy Hibbert,44,1,13,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+4,Jump Shot,Missed Shot,12,0021500269,Shot Chart Detail,81,16,10,1,101162,Marcin Gortat,36,1,8,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+5,Jump Shot,Made Shot,14,0021500269,Shot Chart Detail,20,57,10,1,203944,Julius Randle,28,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612747,Los Angeles Lakers
+6,Jump Shot,Made Shot,15,0021500269,Shot Chart Detail,156,70,10,1,201162,Jared Dudley,16,1,17,1,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+7,Jump Shot,Missed Shot,16,0021500269,Shot Chart Detail,-114,170,9,1,203944,Julius Randle,53,1,20,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+8,Jump Shot,Missed Shot,18,0021500269,Shot Chart Detail,-243,-5,9,1,202322,John Wall,39,1,24,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612764,Washington Wizards
+9,Jump Shot,Made Shot,20,0021500269,Shot Chart Detail,-53,139,9,1,203490,Otto Porter,34,1,14,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+10,Jump Shot,Made Shot,21,0021500269,Shot Chart Detail,38,174,9,1,1626156,D'Angelo Russell,21,1,17,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+11,Cutting Dunk Shot,Made Shot,22,0021500269,Shot Chart Detail,0,1,9,1,101162,Marcin Gortat,10,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+12,Jump Shot,Missed Shot,37,0021500269,Shot Chart Detail,15,41,7,1,203944,Julius Randle,59,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612747,Los Angeles Lakers
+13,Finger Roll Layup Shot,Made Shot,39,0021500269,Shot Chart Detail,-6,7,7,1,202322,John Wall,52,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+14,Jump Shot,Made Shot,40,0021500269,Shot Chart Detail,0,190,7,1,977,Kobe Bryant,37,1,19,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+15,Jump Shot,Made Shot,42,0021500269,Shot Chart Detail,171,57,7,1,203903,Jordan Clarkson,20,1,18,1,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+16,Jump Shot,Missed Shot,43,0021500269,Shot Chart Detail,-129,41,7,1,203078,Bradley Beal,9,1,13,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+17,Jump Shot,Missed Shot,45,0021500269,Shot Chart Detail,217,111,7,1,1626156,D'Angelo Russell,1,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+18,Jump Shot,Made Shot,48,0021500269,Shot Chart Detail,10,244,6,1,977,Kobe Bryant,45,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+19,Layup Shot,Made Shot,50,0021500269,Shot Chart Detail,12,7,6,1,203903,Jordan Clarkson,24,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+20,Jump Shot,Made Shot,52,0021500269,Shot Chart Detail,10,252,6,1,1626156,D'Angelo Russell,17,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+21,Jump Shot,Missed Shot,58,0021500269,Shot Chart Detail,146,198,5,1,203490,Otto Porter,56,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+22,Jump Shot,Missed Shot,61,0021500269,Shot Chart Detail,19,244,5,1,203490,Otto Porter,25,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+23,Jump Shot,Missed Shot,63,0021500269,Shot Chart Detail,223,-26,5,1,203903,Jordan Clarkson,14,1,22,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612747,Los Angeles Lakers
+24,Hook Shot,Made Shot,65,0021500269,Shot Chart Detail,-27,28,4,1,101162,Marcin Gortat,58,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+25,Jump Shot,Missed Shot,66,0021500269,Shot Chart Detail,-96,237,4,1,977,Kobe Bryant,36,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+26,Jump Shot,Missed Shot,68,0021500269,Shot Chart Detail,2,31,4,1,203944,Julius Randle,24,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+27,Jump Shot,Missed Shot,74,0021500269,Shot Chart Detail,-179,180,4,1,203078,Bradley Beal,10,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+28,Jump Shot,Missed Shot,76,0021500269,Shot Chart Detail,-245,-16,4,1,203903,Jordan Clarkson,0,1,24,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612747,Los Angeles Lakers
+29,Floating Jump shot,Made Shot,78,0021500269,Shot Chart Detail,4,46,3,1,203944,Julius Randle,50,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612747,Los Angeles Lakers
+30,Turnaround Jump Shot,Made Shot,79,0021500269,Shot Chart Detail,-122,26,3,1,101162,Marcin Gortat,27,1,12,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+31,Jump Shot,Missed Shot,80,0021500269,Shot Chart Detail,-47,31,3,1,1897,Metta World Peace,4,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612747,Los Angeles Lakers
+32,Layup Shot,Made Shot,82,0021500269,Shot Chart Detail,-7,18,2,1,1897,Metta World Peace,57,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+33,Cutting Dunk Shot,Made Shot,83,0021500269,Shot Chart Detail,0,1,2,1,101162,Marcin Gortat,47,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+34,Layup Shot,Missed Shot,84,0021500269,Shot Chart Detail,17,11,2,1,201579,Roy Hibbert,26,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+35,Jump Shot,Missed Shot,86,0021500269,Shot Chart Detail,4,51,2,1,201579,Roy Hibbert,23,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612747,Los Angeles Lakers
+36,Layup Shot,Missed Shot,87,0021500269,Shot Chart Detail,6,11,2,1,203944,Julius Randle,19,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+37,Jump Shot,Missed Shot,90,0021500269,Shot Chart Detail,138,65,2,1,202322,John Wall,17,1,15,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+38,Jump Shot,Made Shot,99,0021500269,Shot Chart Detail,48,237,2,1,101150,Lou Williams,2,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+39,Jump Shot,Missed Shot,100,0021500269,Shot Chart Detail,-38,11,1,1,201196,Ramon Sessions,47,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+40,Jump Shot,Made Shot,102,0021500269,Shot Chart Detail,-30,124,1,1,101138,Brandon Bass,32,1,12,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612747,Los Angeles Lakers
+41,Jump Shot,Made Shot,106,0021500269,Shot Chart Detail,-83,16,1,1,203903,Jordan Clarkson,11,1,8,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+42,Jump Shot,Missed Shot,107,0021500269,Shot Chart Detail,233,-16,0,1,202066,Garrett Temple,56,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612764,Washington Wizards
+43,Jump Shot,Made Shot,109,0021500269,Shot Chart Detail,-88,232,0,1,1897,Metta World Peace,36,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+44,Jump Shot,Made Shot,110,0021500269,Shot Chart Detail,-52,185,0,1,203078,Bradley Beal,24,1,19,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+45,Jump Shot,Missed Shot,111,0021500269,Shot Chart Detail,-148,2,0,1,1897,Metta World Peace,4,1,14,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+46,Jump Shot,Missed Shot,115,0021500269,Shot Chart Detail,51,124,0,1,202322,John Wall,0,1,13,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612764,Washington Wizards
+47,Jump Shot,Missed Shot,120,0021500269,Shot Chart Detail,-97,134,11,2,203490,Otto Porter,42,1,16,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+48,Jump Shot,Missed Shot,123,0021500269,Shot Chart Detail,217,97,11,2,977,Kobe Bryant,28,1,23,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+49,Jump Shot,Missed Shot,127,0021500269,Shot Chart Detail,-84,164,11,2,977,Kobe Bryant,6,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+50,Jump Shot,Missed Shot,134,0021500269,Shot Chart Detail,-140,200,10,2,1626156,D'Angelo Russell,38,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+51,Jump Shot,Made Shot,143,0021500269,Shot Chart Detail,79,149,10,2,977,Kobe Bryant,14,1,16,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+52,Layup Shot,Missed Shot,144,0021500269,Shot Chart Detail,-16,3,10,2,201196,Ramon Sessions,7,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+53,Layup Shot,Missed Shot,148,0021500269,Shot Chart Detail,-9,21,9,2,101138,Brandon Bass,47,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+54,Tip Layup Shot,Made Shot,150,0021500269,Shot Chart Detail,2,16,9,2,101138,Brandon Bass,43,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+55,Dunk Shot,Made Shot,152,0021500269,Shot Chart Detail,0,1,9,2,101138,Brandon Bass,31,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+56,Jump Shot,Missed Shot,158,0021500269,Shot Chart Detail,-104,23,9,2,101162,Marcin Gortat,20,1,10,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+57,Jump Shot,Made Shot,160,0021500269,Shot Chart Detail,199,159,9,2,977,Kobe Bryant,2,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+58,Driving Layup Shot,Made Shot,161,0021500269,Shot Chart Detail,9,11,8,2,202322,John Wall,50,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+59,Jump Shot,Missed Shot,162,0021500269,Shot Chart Detail,-70,129,8,2,1626156,D'Angelo Russell,39,1,14,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612747,Los Angeles Lakers
+60,Layup Shot,Made Shot,165,0021500269,Shot Chart Detail,-47,11,8,2,101162,Marcin Gortat,28,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612764,Washington Wizards
+61,Jump Shot,Missed Shot,166,0021500269,Shot Chart Detail,-183,195,8,2,977,Kobe Bryant,17,1,26,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+62,Jump Shot,Missed Shot,171,0021500269,Shot Chart Detail,-66,111,8,2,203078,Bradley Beal,1,1,12,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612764,Washington Wizards
+63,Turnaround Jump Shot,Made Shot,173,0021500269,Shot Chart Detail,179,-1,7,2,977,Kobe Bryant,40,1,17,1,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+64,Jump Shot,Missed Shot,182,0021500269,Shot Chart Detail,-243,-6,7,2,203944,Julius Randle,21,1,24,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612747,Los Angeles Lakers
+65,Jump Shot,Made Shot,184,0021500269,Shot Chart Detail,-11,28,7,2,101162,Marcin Gortat,14,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+66,Jump Shot,Missed Shot,185,0021500269,Shot Chart Detail,-165,134,6,2,1897,Metta World Peace,52,1,21,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+67,Jump Shot,Missed Shot,189,0021500269,Shot Chart Detail,110,36,6,2,1897,Metta World Peace,42,1,11,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+68,Layup Shot,Missed Shot,198,0021500269,Shot Chart Detail,15,18,6,2,101150,Lou Williams,3,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+69,Dunk Shot,Made Shot,206,0021500269,Shot Chart Detail,0,1,5,2,203944,Julius Randle,43,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+70,Jump Shot,Made Shot,212,0021500269,Shot Chart Detail,-96,154,5,2,1897,Metta World Peace,0,1,18,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+71,Jump Shot,Missed Shot,213,0021500269,Shot Chart Detail,101,-6,4,2,101162,Marcin Gortat,45,1,10,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+72,Jump Shot,Missed Shot,215,0021500269,Shot Chart Detail,-102,-1,4,2,1626156,D'Angelo Russell,37,1,10,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+73,Tip Layup Shot,Made Shot,217,0021500269,Shot Chart Detail,-3,-4,4,2,203944,Julius Randle,32,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+74,Layup Shot,Made Shot,218,0021500269,Shot Chart Detail,15,16,4,2,1626162,Kelly Oubre,30,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+75,Jump Shot,Missed Shot,219,0021500269,Shot Chart Detail,43,70,4,2,201579,Roy Hibbert,13,1,8,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612747,Los Angeles Lakers
+76,Jump Shot,Missed Shot,229,0021500269,Shot Chart Detail,238,-16,3,2,1897,Metta World Peace,48,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612747,Los Angeles Lakers
+77,Driving Bank shot,Made Shot,231,0021500269,Shot Chart Detail,-86,46,3,2,203078,Bradley Beal,41,1,9,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+78,Jump Shot,Missed Shot,236,0021500269,Shot Chart Detail,-66,105,3,2,1626156,D'Angelo Russell,28,1,12,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612747,Los Angeles Lakers
+79,Jump Shot,Missed Shot,258,0021500269,Shot Chart Detail,148,75,2,2,977,Kobe Bryant,34,1,16,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+80,Jump Shot,Missed Shot,260,0021500269,Shot Chart Detail,-127,129,2,2,1626162,Kelly Oubre,22,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+81,Jump Shot,Missed Shot,263,0021500269,Shot Chart Detail,43,144,2,2,203944,Julius Randle,6,1,15,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+82,Jump Shot,Made Shot,265,0021500269,Shot Chart Detail,4,239,1,2,2743,Kris Humphries,56,1,23,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+83,Hook Shot,Made Shot,268,0021500269,Shot Chart Detail,-29,31,1,2,101162,Marcin Gortat,26,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612764,Washington Wizards
+84,Jump Shot,Missed Shot,269,0021500269,Shot Chart Detail,-197,159,1,2,977,Kobe Bryant,12,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+85,Jump Shot,Missed Shot,271,0021500269,Shot Chart Detail,104,56,0,2,203903,Jordan Clarkson,49,1,11,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+86,Jump Shot,Made Shot,273,0021500269,Shot Chart Detail,159,13,0,2,202322,John Wall,37,1,15,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+87,Jump Shot,Missed Shot,280,0021500269,Shot Chart Detail,48,239,0,2,2743,Kris Humphries,20,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+88,Layup Shot,Made Shot,284,0021500269,Shot Chart Detail,-1,13,0,2,2743,Kris Humphries,1,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+89,Driving Dunk Shot,Missed Shot,282,0021500269,Shot Chart Detail,0,1,0,2,1626162,Kelly Oubre,1,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+90,Layup Shot,Missed Shot,288,0021500269,Shot Chart Detail,15,24,11,3,101162,Marcin Gortat,46,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+91,Jump Shot,Made Shot,291,0021500269,Shot Chart Detail,-119,219,11,3,203078,Bradley Beal,33,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+92,Layup Shot,Made Shot,292,0021500269,Shot Chart Detail,-19,-1,11,3,1626156,D'Angelo Russell,7,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+93,Jump Shot,Made Shot,293,0021500269,Shot Chart Detail,6,252,10,3,201162,Jared Dudley,57,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+94,Jump Shot,Missed Shot,296,0021500269,Shot Chart Detail,-96,154,10,3,977,Kobe Bryant,12,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+95,Layup Shot,Made Shot,298,0021500269,Shot Chart Detail,4,0,10,3,203490,Otto Porter,5,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+96,Jump Shot,Missed Shot,301,0021500269,Shot Chart Detail,-76,198,9,3,203078,Bradley Beal,28,1,21,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+97,Jump Shot,Made Shot,305,0021500269,Shot Chart Detail,-17,139,9,3,203903,Jordan Clarkson,12,1,14,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+98,Jump Shot,Made Shot,307,0021500269,Shot Chart Detail,177,178,9,3,202322,John Wall,0,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+99,Jump Shot,Missed Shot,308,0021500269,Shot Chart Detail,-61,136,8,3,203944,Julius Randle,47,1,14,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612747,Los Angeles Lakers
+100,Jump Shot,Missed Shot,310,0021500269,Shot Chart Detail,-240,36,8,3,203078,Bradley Beal,40,1,24,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612764,Washington Wizards
+101,Jump Shot,Made Shot,312,0021500269,Shot Chart Detail,-4,72,8,3,1626156,D'Angelo Russell,24,1,7,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612747,Los Angeles Lakers
+102,Jump Shot,Missed Shot,313,0021500269,Shot Chart Detail,53,237,8,3,203078,Bradley Beal,10,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+103,Jump Shot,Missed Shot,315,0021500269,Shot Chart Detail,-233,-26,7,3,1626156,D'Angelo Russell,58,1,23,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612747,Los Angeles Lakers
+104,Jump Shot,Missed Shot,317,0021500269,Shot Chart Detail,-241,-16,7,3,203490,Otto Porter,45,1,24,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612764,Washington Wizards
+105,Layup Shot,Made Shot,319,0021500269,Shot Chart Detail,-29,13,7,3,1626156,D'Angelo Russell,36,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+106,Jump Shot,Made Shot,320,0021500269,Shot Chart Detail,195,139,7,3,201162,Jared Dudley,13,1,23,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+107,Jump Shot,Missed Shot,321,0021500269,Shot Chart Detail,9,38,6,3,203903,Jordan Clarkson,53,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+108,Tip Layup Shot,Missed Shot,324,0021500269,Shot Chart Detail,11,14,6,3,203944,Julius Randle,52,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+109,Jump Shot,Missed Shot,328,0021500269,Shot Chart Detail,42,175,6,3,202322,John Wall,31,1,17,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+110,Jump Bank Shot,Made Shot,331,0021500269,Shot Chart Detail,-40,21,6,3,203944,Julius Randle,18,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612747,Los Angeles Lakers
+111,Layup Shot,Made Shot,333,0021500269,Shot Chart Detail,2,-1,5,3,203903,Jordan Clarkson,56,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+112,Dunk Shot,Made Shot,335,0021500269,Shot Chart Detail,0,1,5,3,203944,Julius Randle,33,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+113,Jump Shot,Missed Shot,336,0021500269,Shot Chart Detail,22,26,5,3,101162,Marcin Gortat,22,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+114,Jump Shot,Missed Shot,339,0021500269,Shot Chart Detail,209,141,5,3,201162,Jared Dudley,13,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+115,Jump Shot,Made Shot,341,0021500269,Shot Chart Detail,48,252,5,3,202322,John Wall,8,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+116,Jump Shot,Missed Shot,346,0021500269,Shot Chart Detail,-187,164,4,3,977,Kobe Bryant,41,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+117,Floating Jump shot,Made Shot,349,0021500269,Shot Chart Detail,-66,51,4,3,202322,John Wall,24,1,8,1,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612764,Washington Wizards
+118,Layup Shot,Missed Shot,362,0021500269,Shot Chart Detail,-19,11,3,3,202322,John Wall,44,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+119,Layup Shot,Made Shot,364,0021500269,Shot Chart Detail,-7,16,3,3,201579,Roy Hibbert,29,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+120,Jump Shot,Missed Shot,365,0021500269,Shot Chart Detail,159,101,3,3,203078,Bradley Beal,14,1,18,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+121,Jump Shot,Missed Shot,377,0021500269,Shot Chart Detail,76,41,2,3,101162,Marcin Gortat,46,1,8,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612764,Washington Wizards
+122,Layup Shot,Made Shot,379,0021500269,Shot Chart Detail,-4,11,2,3,101138,Brandon Bass,25,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+123,Jump Shot,Missed Shot,380,0021500269,Shot Chart Detail,0,185,2,3,202390,Gary Neal,4,1,18,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+124,Jump Shot,Missed Shot,382,0021500269,Shot Chart Detail,66,70,1,3,203903,Jordan Clarkson,49,1,9,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612747,Los Angeles Lakers
+125,Cutting Layup Shot,Made Shot,384,0021500269,Shot Chart Detail,9,11,1,3,101162,Marcin Gortat,32,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+126,Jump Shot,Missed Shot,385,0021500269,Shot Chart Detail,-156,193,1,3,101150,Lou Williams,19,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+127,Jump Shot,Missed Shot,387,0021500269,Shot Chart Detail,151,85,1,3,202322,John Wall,6,1,17,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+128,Jump Shot,Made Shot,400,0021500269,Shot Chart Detail,140,16,0,3,101150,Lou Williams,40,1,14,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+129,Jump Shot,Missed Shot,401,0021500269,Shot Chart Detail,22,214,0,3,2743,Kris Humphries,28,1,21,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+130,Jump Shot,Missed Shot,403,0021500269,Shot Chart Detail,-56,106,0,3,201196,Ramon Sessions,8,1,11,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612764,Washington Wizards
+131,Jump Shot,Missed Shot,405,0021500269,Shot Chart Detail,105,46,0,3,2743,Kris Humphries,4,1,11,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+132,Jump Shot,Missed Shot,417,0021500269,Shot Chart Detail,210,124,11,4,977,Kobe Bryant,41,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+133,Jump Shot,Made Shot,419,0021500269,Shot Chart Detail,151,95,11,4,202390,Gary Neal,28,1,17,1,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+134,Jump Shot,Missed Shot,420,0021500269,Shot Chart Detail,-89,36,11,4,101150,Lou Williams,10,1,9,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+135,Layup Shot,Missed Shot,422,0021500269,Shot Chart Detail,-4,28,11,4,101138,Brandon Bass,5,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+136,Layup Shot,Made Shot,424,0021500269,Shot Chart Detail,19,11,10,4,201196,Ramon Sessions,59,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+137,Jump Shot,Missed Shot,432,0021500269,Shot Chart Detail,120,31,10,4,977,Kobe Bryant,33,1,12,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+138,Jump Bank Shot,Made Shot,434,0021500269,Shot Chart Detail,28,23,10,4,101138,Brandon Bass,30,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+139,Jump Shot,Missed Shot,436,0021500269,Shot Chart Detail,-191,164,9,4,1626156,D'Angelo Russell,57,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+140,Jump Shot,Missed Shot,438,0021500269,Shot Chart Detail,155,85,9,4,202390,Gary Neal,46,1,17,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+141,Dunk Shot,Made Shot,441,0021500269,Shot Chart Detail,0,1,9,4,2743,Kris Humphries,34,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+142,Jump Shot,Made Shot,442,0021500269,Shot Chart Detail,45,31,9,4,977,Kobe Bryant,10,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612747,Los Angeles Lakers
+143,Jump Shot,Made Shot,443,0021500269,Shot Chart Detail,-70,141,8,4,202390,Gary Neal,48,1,15,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+144,Jump Shot,Missed Shot,444,0021500269,Shot Chart Detail,94,188,8,4,1626156,D'Angelo Russell,25,1,21,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+145,Layup Shot,Made Shot,446,0021500269,Shot Chart Detail,-6,16,8,4,201196,Ramon Sessions,14,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+146,Jump Shot,Made Shot,451,0021500269,Shot Chart Detail,-2,252,8,4,101150,Lou Williams,0,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+147,Jump Shot,Missed Shot,457,0021500269,Shot Chart Detail,-210,146,7,4,101150,Lou Williams,41,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+148,Jump Shot,Missed Shot,459,0021500269,Shot Chart Detail,153,188,7,4,977,Kobe Bryant,36,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+149,Jump Shot,Missed Shot,464,0021500269,Shot Chart Detail,186,23,6,4,2743,Kris Humphries,52,1,18,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+150,Layup Shot,Made Shot,466,0021500269,Shot Chart Detail,9,28,6,4,1626156,D'Angelo Russell,40,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+151,Jump Shot,Missed Shot,467,0021500269,Shot Chart Detail,22,198,6,4,203078,Bradley Beal,25,1,19,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+152,Jump Shot,Missed Shot,473,0021500269,Shot Chart Detail,94,44,6,4,101138,Brandon Bass,7,1,10,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+153,Jump Shot,Made Shot,472,0021500269,Shot Chart Detail,0,252,5,4,977,Kobe Bryant,56,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+154,Jump Shot,Missed Shot,476,0021500269,Shot Chart Detail,210,120,5,4,203490,Otto Porter,44,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+155,Jump Shot,Missed Shot,478,0021500269,Shot Chart Detail,-173,77,5,4,101150,Lou Williams,28,1,18,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+156,Jump Shot,Missed Shot,483,0021500269,Shot Chart Detail,-96,156,4,4,977,Kobe Bryant,50,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+157,Layup Shot,Made Shot,485,0021500269,Shot Chart Detail,-9,11,4,4,202322,John Wall,40,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+158,Jump Shot,Missed Shot,487,0021500269,Shot Chart Detail,112,110,4,4,203903,Jordan Clarkson,24,1,15,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+159,Jump Shot,Made Shot,498,0021500269,Shot Chart Detail,25,129,3,4,977,Kobe Bryant,52,1,13,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612747,Los Angeles Lakers
+160,Jump Shot,Missed Shot,499,0021500269,Shot Chart Detail,58,239,3,4,202322,John Wall,45,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+161,Jump Shot,Missed Shot,501,0021500269,Shot Chart Detail,-112,156,3,4,977,Kobe Bryant,32,1,19,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+162,Floating Jump shot,Made Shot,504,0021500269,Shot Chart Detail,19,146,3,4,202322,John Wall,20,1,14,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+163,Layup Shot,Made Shot,505,0021500269,Shot Chart Detail,-17,16,2,4,203944,Julius Randle,55,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612747,Los Angeles Lakers
+164,Jump Shot,Made Shot,507,0021500269,Shot Chart Detail,87,131,2,4,202322,John Wall,37,1,15,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+165,Jump Shot,Missed Shot,518,0021500269,Shot Chart Detail,61,242,2,4,201162,Jared Dudley,4,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+166,Jump Shot,Missed Shot,520,0021500269,Shot Chart Detail,-173,16,1,4,977,Kobe Bryant,47,1,17,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+167,Jump Shot,Missed Shot,536,0021500269,Shot Chart Detail,12,139,1,4,203903,Jordan Clarkson,13,1,13,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612747,Los Angeles Lakers
+168,Jump Shot,Missed Shot,538,0021500269,Shot Chart Detail,-4,82,1,4,203903,Jordan Clarkson,8,1,8,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612747,Los Angeles Lakers
+169,Jump Shot,Made Shot,545,0021500269,Shot Chart Detail,-191,169,0,4,977,Kobe Bryant,58,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612747,Los Angeles Lakers
+170,Cutting Layup Shot,Made Shot,546,0021500269,Shot Chart Detail,4,21,0,4,101162,Marcin Gortat,51,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+171,Jump Shot,Made Shot,547,0021500269,Shot Chart Detail,110,121,0,4,977,Kobe Bryant,30,1,16,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612747,Los Angeles Lakers
+172,Jump Shot,Missed Shot,560,0021500269,Shot Chart Detail,199,126,0,4,203490,Otto Porter,13,1,23,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+173,Jump Shot,Made Shot,568,0021500269,Shot Chart Detail,-148,203,0,4,202322,John Wall,7,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+174,Jump Shot,Missed Shot,579,0021500269,Shot Chart Detail,101,267,0,4,202322,John Wall,0,1,28,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612764,Washington Wizards

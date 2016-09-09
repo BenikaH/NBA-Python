@@ -1,0 +1,164 @@
+,ACTION_TYPE,EVENT_TYPE,GAME_EVENT_ID,GAME_ID,GRID_TYPE,LOC_X,LOC_Y,MINUTES_REMAINING,PERIOD,PLAYER_ID,PLAYER_NAME,SECONDS_REMAINING,SHOT_ATTEMPTED_FLAG,SHOT_DISTANCE,SHOT_MADE_FLAG,SHOT_TYPE,SHOT_ZONE_AREA,SHOT_ZONE_BASIC,SHOT_ZONE_RANGE,TEAM_ID,TEAM_NAME
+0,Driving Dunk Shot,Made Shot,2,0021500881,Shot Chart Detail,1,11,11,1,1626209,Mario Hezonja,53,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+1,Jump Shot,Missed Shot,3,0021500881,Shot Chart Detail,-176,193,11,1,203496,Robert Covington,44,1,26,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+2,Driving Layup Shot,Made Shot,5,0021500881,Shot Chart Detail,14,11,11,1,203932,Aaron Gordon,34,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+3,Layup Shot,Missed Shot,15,0021500881,Shot Chart Detail,-6,16,10,1,203932,Aaron Gordon,33,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+4,Putback Layup Shot,Made Shot,16,0021500881,Shot Chart Detail,0,3,10,1,203932,Aaron Gordon,31,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+5,Floating Jump shot,Missed Shot,20,0021500881,Shot Chart Detail,-50,72,10,1,203496,Robert Covington,8,1,8,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612755,Philadelphia 76ers
+6,Jump Shot,Made Shot,22,0021500881,Shot Chart Detail,32,242,9,1,1626209,Mario Hezonja,54,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612753,Orlando Magic
+7,Pullup Jump shot,Made Shot,28,0021500881,Shot Chart Detail,2,169,9,1,203506,Victor Oladipo,22,1,16,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+8,Hook Shot,Made Shot,29,0021500881,Shot Chart Detail,-48,47,9,1,1626143,Jahlil Okafor,9,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612755,Philadelphia 76ers
+9,Jump Shot,Missed Shot,30,0021500881,Shot Chart Detail,-66,200,8,1,1626209,Mario Hezonja,57,1,21,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+10,Turnaround Jump Shot,Made Shot,32,0021500881,Shot Chart Detail,-52,-11,8,1,1626143,Jahlil Okafor,45,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612755,Philadelphia 76ers
+11,Hook Shot,Made Shot,33,0021500881,Shot Chart Detail,87,11,8,1,202696,Nikola Vucevic,29,1,8,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612753,Orlando Magic
+12,Dunk Shot,Missed Shot,36,0021500881,Shot Chart Detail,0,1,8,1,203457,Nerlens Noel,10,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+13,Jump Shot,Made Shot,38,0021500881,Shot Chart Detail,125,105,8,1,1626143,Jahlil Okafor,6,1,16,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612755,Philadelphia 76ers
+14,Driving Layup Shot,Made Shot,39,0021500881,Shot Chart Detail,9,0,7,1,1626209,Mario Hezonja,57,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+15,Dunk Shot,Made Shot,44,0021500881,Shot Chart Detail,0,1,7,1,203917,Nik Stauskas,47,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+16,Pullup Jump shot,Missed Shot,49,0021500881,Shot Chart Detail,-56,121,7,1,203506,Victor Oladipo,34,1,13,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612753,Orlando Magic
+17,Dunk Shot,Made Shot,51,0021500881,Shot Chart Detail,0,1,7,1,1626143,Jahlil Okafor,25,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+18,Fadeaway Jump Shot,Missed Shot,52,0021500881,Shot Chart Detail,37,120,7,1,202696,Nikola Vucevic,14,1,12,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612753,Orlando Magic
+19,Jump Shot,Missed Shot,59,0021500881,Shot Chart Detail,71,95,6,1,1626143,Jahlil Okafor,55,1,11,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612755,Philadelphia 76ers
+20,Hook Shot,Made Shot,61,0021500881,Shot Chart Detail,0,36,6,1,202696,Nikola Vucevic,47,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+21,Layup Shot,Made Shot,62,0021500881,Shot Chart Detail,-4,7,6,1,203496,Robert Covington,28,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+22,Hook Shot,Made Shot,63,0021500881,Shot Chart Detail,32,41,6,1,202696,Nikola Vucevic,15,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612753,Orlando Magic
+23,Layup Shot,Made Shot,64,0021500881,Shot Chart Detail,-16,18,5,1,1626143,Jahlil Okafor,57,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+24,Jump Shot,Missed Shot,67,0021500881,Shot Chart Detail,14,46,5,1,203457,Nerlens Noel,27,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612755,Philadelphia 76ers
+25,Floating Jump shot,Missed Shot,69,0021500881,Shot Chart Detail,12,41,5,1,203901,Elfrid Payton,8,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612753,Orlando Magic
+26,Alley Oop Layup shot,Made Shot,71,0021500881,Shot Chart Detail,-7,2,5,1,203924,Jerami Grant,1,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+27,Jump Shot,Missed Shot,72,0021500881,Shot Chart Detail,-19,178,4,1,203506,Victor Oladipo,44,1,17,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+28,Pullup Jump shot,Missed Shot,90,0021500881,Shot Chart Detail,-119,36,4,1,204456,TJ McConnell,2,1,12,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612755,Philadelphia 76ers
+29,Layup Shot,Made Shot,92,0021500881,Shot Chart Detail,-29,2,3,1,203457,Nerlens Noel,39,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+30,Jump Shot,Made Shot,93,0021500881,Shot Chart Detail,-42,154,3,1,202696,Nikola Vucevic,28,1,15,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612753,Orlando Magic
+31,Hook Shot,Made Shot,96,0021500881,Shot Chart Detail,-43,28,3,1,202696,Nikola Vucevic,0,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612753,Orlando Magic
+32,Jump Shot,Missed Shot,97,0021500881,Shot Chart Detail,84,178,2,1,203457,Nerlens Noel,52,1,19,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612755,Philadelphia 76ers
+33,Running Jump Shot,Missed Shot,99,0021500881,Shot Chart Detail,230,72,2,1,201228,CJ Watson,44,1,24,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612753,Orlando Magic
+34,Jump Shot,Missed Shot,106,0021500881,Shot Chart Detail,228,8,2,1,201943,Brandon Jennings,4,1,22,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612753,Orlando Magic
+35,Pullup Jump shot,Missed Shot,108,0021500881,Shot Chart Detail,181,3,1,1,204456,TJ McConnell,55,1,18,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612755,Philadelphia 76ers
+36,Running Layup Shot,Made Shot,110,0021500881,Shot Chart Detail,15,2,1,1,203506,Victor Oladipo,48,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+37,Driving Layup Shot,Missed Shot,118,0021500881,Shot Chart Detail,2,11,1,1,201160,Jason Smith,22,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+38,Layup Shot,Made Shot,120,0021500881,Shot Chart Detail,-7,11,1,1,203457,Nerlens Noel,13,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+39,Pullup Jump shot,Made Shot,121,0021500881,Shot Chart Detail,-2,65,1,1,203506,Victor Oladipo,2,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612753,Orlando Magic
+40,Pullup Jump shot,Made Shot,123,0021500881,Shot Chart Detail,-86,144,0,1,203506,Victor Oladipo,38,1,16,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+41,Jump Shot,Made Shot,124,0021500881,Shot Chart Detail,55,185,0,1,1626158,Richaun Holmes,18,1,19,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612755,Philadelphia 76ers
+42,Pullup Jump shot,Made Shot,125,0021500881,Shot Chart Detail,-94,164,0,1,203506,Victor Oladipo,1,1,18,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+43,Jump Shot,Missed Shot,127,0021500881,Shot Chart Detail,69,594,0,1,204456,TJ McConnell,0,1,59,0,3PT Field Goal,Back Court(BC),Backcourt,Back Court Shot,1610612755,Philadelphia 76ers
+44,Pullup Jump shot,Made Shot,133,0021500881,Shot Chart Detail,-140,154,11,2,203477,Isaiah Canaan,38,1,20,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612755,Philadelphia 76ers
+45,Layup Shot,Made Shot,134,0021500881,Shot Chart Detail,17,7,11,2,101141,Ersan Ilyasova,22,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+46,Jump Shot,Missed Shot,135,0021500881,Shot Chart Detail,9,269,11,2,203496,Robert Covington,3,1,26,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+47,Jump Shot,Made Shot,137,0021500881,Shot Chart Detail,-109,218,10,2,101141,Ersan Ilyasova,52,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612753,Orlando Magic
+48,Jump Shot,Missed Shot,147,0021500881,Shot Chart Detail,-1,193,10,2,1626209,Mario Hezonja,16,1,19,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+49,Dunk Shot,Made Shot,149,0021500881,Shot Chart Detail,0,1,9,2,1626143,Jahlil Okafor,54,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+50,Jump Shot,Missed Shot,150,0021500881,Shot Chart Detail,-60,170,9,2,201160,Jason Smith,38,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+51,Jump Shot,Made Shot,156,0021500881,Shot Chart Detail,74,183,9,2,201160,Jason Smith,15,1,19,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+52,Jump Shot,Made Shot,157,0021500881,Shot Chart Detail,114,213,9,2,203477,Isaiah Canaan,0,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+53,Jump Shot,Missed Shot,162,0021500881,Shot Chart Detail,-88,188,8,2,201160,Jason Smith,50,1,20,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+54,Jump Shot,Missed Shot,165,0021500881,Shot Chart Detail,56,252,8,2,203917,Nik Stauskas,37,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+55,Jump Shot,Missed Shot,168,0021500881,Shot Chart Detail,132,129,8,2,201943,Brandon Jennings,27,1,18,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+56,Jump Shot,Missed Shot,172,0021500881,Shot Chart Detail,-99,239,8,2,101141,Ersan Ilyasova,3,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612753,Orlando Magic
+57,Pullup Jump shot,Missed Shot,174,0021500881,Shot Chart Detail,-179,190,7,2,203477,Isaiah Canaan,58,1,26,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+58,Driving Layup Shot,Made Shot,187,0021500881,Shot Chart Detail,19,-1,7,2,202397,Ish Smith,23,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+59,Jump Shot,Made Shot,188,0021500881,Shot Chart Detail,127,139,7,2,201160,Jason Smith,10,1,18,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+60,Jump Shot,Missed Shot,189,0021500881,Shot Chart Detail,-228,120,6,2,203477,Isaiah Canaan,59,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+61,Pullup Jump shot,Made Shot,191,0021500881,Shot Chart Detail,119,229,6,2,203506,Victor Oladipo,43,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612753,Orlando Magic
+62,Jump Shot,Made Shot,193,0021500881,Shot Chart Detail,-96,228,6,2,203932,Aaron Gordon,26,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612753,Orlando Magic
+63,Hook Shot,Made Shot,200,0021500881,Shot Chart Detail,-29,43,6,2,202696,Nikola Vucevic,11,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612753,Orlando Magic
+64,Jump Shot,Missed Shot,201,0021500881,Shot Chart Detail,-91,38,5,2,1626143,Jahlil Okafor,56,1,9,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612755,Philadelphia 76ers
+65,Jump Shot,Made Shot,203,0021500881,Shot Chart Detail,99,169,5,2,202696,Nikola Vucevic,45,1,19,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+66,Pullup Jump shot,Made Shot,204,0021500881,Shot Chart Detail,155,-1,5,2,202397,Ish Smith,23,1,15,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612755,Philadelphia 76ers
+67,Jump Shot,Made Shot,214,0021500881,Shot Chart Detail,151,200,4,2,203932,Aaron Gordon,48,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612753,Orlando Magic
+68,Floating Jump shot,Made Shot,220,0021500881,Shot Chart Detail,-14,70,4,2,203901,Elfrid Payton,15,1,7,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612753,Orlando Magic
+69,Jump Shot,Missed Shot,222,0021500881,Shot Chart Detail,19,183,3,2,202397,Ish Smith,47,1,18,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612755,Philadelphia 76ers
+70,Jump Shot,Missed Shot,226,0021500881,Shot Chart Detail,102,228,3,2,203924,Jerami Grant,8,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+71,Running Jump Shot,Made Shot,228,0021500881,Shot Chart Detail,35,36,2,2,203932,Aaron Gordon,59,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612753,Orlando Magic
+72,Running Alley Oop Dunk Shot,Made Shot,230,0021500881,Shot Chart Detail,0,1,2,2,203506,Victor Oladipo,43,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+73,Step Back Jump shot,Made Shot,241,0021500881,Shot Chart Detail,9,164,2,2,203457,Nerlens Noel,5,1,16,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612755,Philadelphia 76ers
+74,Driving Layup Shot,Missed Shot,242,0021500881,Shot Chart Detail,9,0,1,2,203506,Victor Oladipo,50,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+75,Running Layup Shot,Made Shot,244,0021500881,Shot Chart Detail,0,3,1,2,203477,Isaiah Canaan,44,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+76,Floating Jump shot,Missed Shot,245,0021500881,Shot Chart Detail,74,28,1,2,203901,Elfrid Payton,32,1,7,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612753,Orlando Magic
+77,Tip Layup Shot,Made Shot,246,0021500881,Shot Chart Detail,-1,11,1,2,202696,Nikola Vucevic,30,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+78,Alley Oop Dunk Shot,Made Shot,248,0021500881,Shot Chart Detail,0,1,1,2,203457,Nerlens Noel,10,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+79,Jump Shot,Made Shot,251,0021500881,Shot Chart Detail,119,134,0,2,202696,Nikola Vucevic,48,1,17,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+80,Jump Shot,Missed Shot,252,0021500881,Shot Chart Detail,230,36,0,2,203477,Isaiah Canaan,34,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612755,Philadelphia 76ers
+81,Jump Shot,Made Shot,265,0021500881,Shot Chart Detail,227,41,0,2,201228,CJ Watson,9,1,23,1,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612753,Orlando Magic
+82,Jump Shot,Missed Shot,266,0021500881,Shot Chart Detail,233,65,0,2,203924,Jerami Grant,0,1,24,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612755,Philadelphia 76ers
+83,Driving Reverse Layup Shot,Missed Shot,277,0021500881,Shot Chart Detail,25,-10,11,3,1626209,Mario Hezonja,25,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+84,Tip Layup Shot,Made Shot,278,0021500881,Shot Chart Detail,-2,16,11,3,202696,Nikola Vucevic,24,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+85,Hook Shot,Made Shot,280,0021500881,Shot Chart Detail,0,28,11,3,1626143,Jahlil Okafor,13,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+86,Driving Layup Shot,Missed Shot,286,0021500881,Shot Chart Detail,17,8,10,3,202397,Ish Smith,56,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+87,Jump Shot,Missed Shot,290,0021500881,Shot Chart Detail,-66,244,10,3,1626209,Mario Hezonja,49,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612753,Orlando Magic
+88,Jump Shot,Missed Shot,292,0021500881,Shot Chart Detail,-19,26,10,3,203917,Nik Stauskas,42,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+89,Tip Layup Shot,Missed Shot,324,0021500881,Shot Chart Detail,-8,19,10,3,1626143,Jahlil Okafor,40,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+90,Tip Layup Shot,Made Shot,293,0021500881,Shot Chart Detail,4,8,10,3,1626143,Jahlil Okafor,37,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+91,Jump Shot,Made Shot,296,0021500881,Shot Chart Detail,109,223,10,3,1626209,Mario Hezonja,20,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612753,Orlando Magic
+92,Turnaround Jump Shot,Made Shot,298,0021500881,Shot Chart Detail,81,36,10,3,1626143,Jahlil Okafor,5,1,8,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612755,Philadelphia 76ers
+93,Layup Shot,Made Shot,300,0021500881,Shot Chart Detail,-16,-1,9,3,203901,Elfrid Payton,55,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+94,Driving Reverse Layup Shot,Made Shot,307,0021500881,Shot Chart Detail,9,-1,9,3,1626143,Jahlil Okafor,39,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+95,Step Back Jump shot,Missed Shot,309,0021500881,Shot Chart Detail,-4,203,9,3,203506,Victor Oladipo,17,1,20,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+96,Dunk Shot,Made Shot,311,0021500881,Shot Chart Detail,0,1,9,3,203924,Jerami Grant,2,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+97,Jump Shot,Made Shot,316,0021500881,Shot Chart Detail,-38,193,8,3,201160,Jason Smith,45,1,19,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+98,Floating Jump shot,Made Shot,317,0021500881,Shot Chart Detail,40,41,8,3,1626143,Jahlil Okafor,33,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612755,Philadelphia 76ers
+99,Jump Shot,Missed Shot,318,0021500881,Shot Chart Detail,-70,110,8,3,203901,Elfrid Payton,20,1,13,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612753,Orlando Magic
+100,Jump Shot,Missed Shot,321,0021500881,Shot Chart Detail,-2,252,8,3,203496,Robert Covington,12,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+101,Jump Shot,Made Shot,323,0021500881,Shot Chart Detail,53,188,8,3,201160,Jason Smith,3,1,19,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+102,Driving Layup Shot,Made Shot,325,0021500881,Shot Chart Detail,2,13,7,3,203477,Isaiah Canaan,46,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+103,Jump Shot,Missed Shot,326,0021500881,Shot Chart Detail,96,185,7,3,201160,Jason Smith,39,1,20,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+104,Jump Shot,Missed Shot,329,0021500881,Shot Chart Detail,177,174,7,3,1626143,Jahlil Okafor,15,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+105,Driving Reverse Layup Shot,Made Shot,333,0021500881,Shot Chart Detail,-1,0,6,3,203932,Aaron Gordon,57,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+106,Running Dunk Shot,Made Shot,346,0021500881,Shot Chart Detail,0,1,6,3,203506,Victor Oladipo,25,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+107,Jump Shot,Made Shot,351,0021500881,Shot Chart Detail,174,178,6,3,202397,Ish Smith,10,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+108,Jump Shot,Made Shot,352,0021500881,Shot Chart Detail,9,193,5,3,1626209,Mario Hezonja,55,1,19,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+109,Driving Layup Shot,Made Shot,353,0021500881,Shot Chart Detail,19,7,5,3,202397,Ish Smith,44,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+110,Jump Shot,Missed Shot,354,0021500881,Shot Chart Detail,-66,188,5,3,201160,Jason Smith,23,1,19,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+111,Driving Layup Shot,Missed Shot,356,0021500881,Shot Chart Detail,-1,0,5,3,202397,Ish Smith,11,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+112,Hook Shot,Missed Shot,358,0021500881,Shot Chart Detail,89,3,4,3,203932,Aaron Gordon,55,1,8,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612753,Orlando Magic
+113,Jump Shot,Missed Shot,374,0021500881,Shot Chart Detail,51,247,3,3,203506,Victor Oladipo,57,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612753,Orlando Magic
+114,Running Alley Oop Dunk Shot,Made Shot,377,0021500881,Shot Chart Detail,0,1,3,3,203924,Jerami Grant,41,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+115,Reverse Layup Shot,Made Shot,378,0021500881,Shot Chart Detail,-4,16,3,3,201160,Jason Smith,25,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+116,Dunk Shot,Made Shot,379,0021500881,Shot Chart Detail,0,1,3,3,1626158,Richaun Holmes,11,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+117,Running Dunk Shot,Made Shot,389,0021500881,Shot Chart Detail,0,1,2,3,1626158,Richaun Holmes,54,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+118,Pullup Jump shot,Missed Shot,390,0021500881,Shot Chart Detail,-40,203,2,3,203506,Victor Oladipo,32,1,20,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+119,Pullup Jump shot,Missed Shot,392,0021500881,Shot Chart Detail,-133,214,2,3,203477,Isaiah Canaan,16,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+120,Driving Layup Shot,Made Shot,396,0021500881,Shot Chart Detail,2,2,1,3,202397,Ish Smith,56,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+121,Pullup Jump shot,Missed Shot,397,0021500881,Shot Chart Detail,177,-5,1,3,203932,Aaron Gordon,34,1,17,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+122,Putback Dunk Shot,Made Shot,399,0021500881,Shot Chart Detail,0,1,1,3,1626158,Richaun Holmes,19,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+123,Jump Shot,Made Shot,400,0021500881,Shot Chart Detail,228,-6,0,3,203506,Victor Oladipo,58,1,22,1,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612753,Orlando Magic
+124,Driving Layup Shot,Made Shot,401,0021500881,Shot Chart Detail,17,-6,0,3,202397,Ish Smith,49,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+125,Jump Shot,Missed Shot,405,0021500881,Shot Chart Detail,33,56,0,3,201943,Brandon Jennings,34,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612753,Orlando Magic
+126,Jump Shot,Missed Shot,407,0021500881,Shot Chart Detail,4,121,0,3,201160,Jason Smith,18,1,12,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612753,Orlando Magic
+127,Jump Shot,Missed Shot,409,0021500881,Shot Chart Detail,-86,224,0,3,202397,Ish Smith,0,1,23,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+128,Layup Shot,Made Shot,414,0021500881,Shot Chart Detail,-14,2,11,4,101141,Ersan Ilyasova,44,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+129,Pullup Jump shot,Made Shot,429,0021500881,Shot Chart Detail,-86,237,10,4,203477,Isaiah Canaan,55,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+130,Jump Shot,Made Shot,430,0021500881,Shot Chart Detail,-120,21,10,4,202696,Nikola Vucevic,29,1,12,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612753,Orlando Magic
+131,Driving Hook Shot,Made Shot,432,0021500881,Shot Chart Detail,53,21,10,4,202696,Nikola Vucevic,7,1,5,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612753,Orlando Magic
+132,Jump Shot,Missed Shot,436,0021500881,Shot Chart Detail,74,141,9,4,204456,TJ McConnell,55,1,15,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612755,Philadelphia 76ers
+133,Jump Shot,Missed Shot,442,0021500881,Shot Chart Detail,189,2,9,4,202696,Nikola Vucevic,38,1,18,0,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+134,Hook Shot,Missed Shot,444,0021500881,Shot Chart Detail,-2,51,9,4,203924,Jerami Grant,25,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612755,Philadelphia 76ers
+135,Jump Shot,Made Shot,448,0021500881,Shot Chart Detail,-204,164,9,4,201943,Brandon Jennings,0,1,26,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612753,Orlando Magic
+136,Hook Bank Shot,Made Shot,450,0021500881,Shot Chart Detail,-66,36,8,4,1626143,Jahlil Okafor,42,1,7,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612755,Philadelphia 76ers
+137,Jump Shot,Made Shot,456,0021500881,Shot Chart Detail,-120,223,8,4,101141,Ersan Ilyasova,27,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612753,Orlando Magic
+138,Floating Jump shot,Made Shot,458,0021500881,Shot Chart Detail,91,7,8,4,204456,TJ McConnell,4,1,9,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612755,Philadelphia 76ers
+139,Running Jump Shot,Made Shot,460,0021500881,Shot Chart Detail,-189,164,7,4,203477,Isaiah Canaan,46,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+140,Jump Shot,Missed Shot,469,0021500881,Shot Chart Detail,102,164,7,4,202696,Nikola Vucevic,7,1,19,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+141,Floating Jump shot,Missed Shot,471,0021500881,Shot Chart Detail,32,51,6,4,1626143,Jahlil Okafor,52,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612755,Philadelphia 76ers
+142,Driving Layup Shot,Missed Shot,473,0021500881,Shot Chart Detail,-7,2,6,4,203506,Victor Oladipo,43,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+143,Layup Shot,Missed Shot,476,0021500881,Shot Chart Detail,-1,11,6,4,1626143,Jahlil Okafor,22,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+144,Layup Shot,Missed Shot,484,0021500881,Shot Chart Detail,-6,0,5,4,202696,Nikola Vucevic,47,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+145,Running Jump Shot,Missed Shot,486,0021500881,Shot Chart Detail,197,159,5,4,203477,Isaiah Canaan,41,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+146,Driving Layup Shot,Made Shot,493,0021500881,Shot Chart Detail,9,7,5,4,203496,Robert Covington,31,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+147,Driving Layup Shot,Made Shot,494,0021500881,Shot Chart Detail,-1,3,5,4,202696,Nikola Vucevic,14,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+148,Jump Shot,Missed Shot,499,0021500881,Shot Chart Detail,-233,11,4,4,203506,Victor Oladipo,49,1,23,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612753,Orlando Magic
+149,Driving Layup Shot,Missed Shot,501,0021500881,Shot Chart Detail,10,11,4,4,202397,Ish Smith,39,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+150,Turnaround Jump Shot,Missed Shot,505,0021500881,Shot Chart Detail,-115,65,4,4,202696,Nikola Vucevic,12,1,13,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612753,Orlando Magic
+151,Jump Shot,Made Shot,508,0021500881,Shot Chart Detail,168,208,4,4,203496,Robert Covington,5,1,26,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+152,Jump Shot,Missed Shot,516,0021500881,Shot Chart Detail,2,198,3,4,201160,Jason Smith,31,1,19,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+153,Pullup Jump shot,Missed Shot,519,0021500881,Shot Chart Detail,-86,169,3,4,203901,Elfrid Payton,6,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612753,Orlando Magic
+154,Jump Shot,Missed Shot,526,0021500881,Shot Chart Detail,-11,195,2,4,203477,Isaiah Canaan,50,1,19,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612755,Philadelphia 76ers
+155,Floating Jump shot,Made Shot,528,0021500881,Shot Chart Detail,22,31,2,4,203901,Elfrid Payton,39,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+156,Pullup Jump shot,Missed Shot,541,0021500881,Shot Chart Detail,-68,141,1,4,203901,Elfrid Payton,57,1,15,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612753,Orlando Magic
+157,Driving Layup Shot,Made Shot,543,0021500881,Shot Chart Detail,15,11,1,4,203924,Jerami Grant,47,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612755,Philadelphia 76ers
+158,Layup Shot,Made Shot,544,0021500881,Shot Chart Detail,-22,8,1,4,203901,Elfrid Payton,36,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+159,Jump Shot,Missed Shot,556,0021500881,Shot Chart Detail,43,237,0,4,202397,Ish Smith,47,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+160,Alley Oop Dunk Shot,Made Shot,558,0021500881,Shot Chart Detail,0,1,0,4,203932,Aaron Gordon,36,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612753,Orlando Magic
+161,Jump Shot,Missed Shot,563,0021500881,Shot Chart Detail,97,269,0,4,203496,Robert Covington,29,1,28,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers
+162,Jump Shot,Missed Shot,570,0021500881,Shot Chart Detail,-191,165,0,4,203477,Isaiah Canaan,11,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612755,Philadelphia 76ers

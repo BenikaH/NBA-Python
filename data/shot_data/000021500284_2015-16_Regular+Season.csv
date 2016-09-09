@@ -1,0 +1,166 @@
+,ACTION_TYPE,EVENT_TYPE,GAME_EVENT_ID,GAME_ID,GRID_TYPE,LOC_X,LOC_Y,MINUTES_REMAINING,PERIOD,PLAYER_ID,PLAYER_NAME,SECONDS_REMAINING,SHOT_ATTEMPTED_FLAG,SHOT_DISTANCE,SHOT_MADE_FLAG,SHOT_TYPE,SHOT_ZONE_AREA,SHOT_ZONE_BASIC,SHOT_ZONE_RANGE,TEAM_ID,TEAM_NAME
+0,Layup Shot,Missed Shot,4,0021500284,Shot Chart Detail,-22,18,11,1,203490,Otto Porter,38,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+1,Layup Shot,Missed Shot,7,0021500284,Shot Chart Detail,6,26,11,1,202322,John Wall,33,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+2,Jump Shot,Missed Shot,8,0021500284,Shot Chart Detail,-34,23,11,1,201162,Jared Dudley,18,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612764,Washington Wizards
+3,Jump Shot,Made Shot,17,0021500284,Shot Chart Detail,-138,208,11,1,202688,Brandon Knight,0,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+4,Jump Shot,Missed Shot,18,0021500284,Shot Chart Detail,137,77,10,1,202322,John Wall,52,1,15,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+5,Jump Bank Shot,Made Shot,20,0021500284,Shot Chart Detail,86,33,10,1,203458,Alex Len,40,1,9,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612756,Phoenix Suns
+6,Jump Shot,Missed Shot,21,0021500284,Shot Chart Detail,-151,149,10,1,201162,Jared Dudley,25,1,21,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+7,Jump Shot,Missed Shot,25,0021500284,Shot Chart Detail,-1,208,9,1,201162,Jared Dudley,57,1,20,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+8,Jump Shot,Missed Shot,28,0021500284,Shot Chart Detail,-24,26,9,1,203490,Otto Porter,54,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+9,Jump Shot,Made Shot,30,0021500284,Shot Chart Detail,32,242,9,1,202720,Jon Leuer,45,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+10,Jump Shot,Missed Shot,31,0021500284,Shot Chart Detail,17,203,9,1,203490,Otto Porter,33,1,20,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+11,Jump Shot,Missed Shot,34,0021500284,Shot Chart Detail,-29,8,9,1,202322,John Wall,17,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+12,Turnaround Fadeaway shot,Made Shot,37,0021500284,Shot Chart Detail,-94,36,8,1,203458,Alex Len,53,1,10,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612756,Phoenix Suns
+13,Jump Shot,Missed Shot,44,0021500284,Shot Chart Detail,42,247,8,1,202720,Jon Leuer,14,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+14,Jump Shot,Made Shot,46,0021500284,Shot Chart Detail,-209,141,8,1,203078,Bradley Beal,6,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+15,Jump Shot,Missed Shot,48,0021500284,Shot Chart Detail,230,21,7,1,201162,Jared Dudley,45,1,23,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612764,Washington Wizards
+16,Layup Shot,Made Shot,50,0021500284,Shot Chart Detail,12,7,7,1,202720,Jon Leuer,38,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+17,Jump Shot,Missed Shot,52,0021500284,Shot Chart Detail,20,146,7,1,203490,Otto Porter,24,1,14,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+18,Jump Shot,Missed Shot,54,0021500284,Shot Chart Detail,-237,2,7,1,203458,Alex Len,1,1,23,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612756,Phoenix Suns
+19,Jump Shot,Missed Shot,56,0021500284,Shot Chart Detail,-86,144,6,1,203078,Bradley Beal,41,1,16,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+20,Jump Shot,Missed Shot,58,0021500284,Shot Chart Detail,101,149,6,1,202339,Eric Bledsoe,33,1,18,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612756,Phoenix Suns
+21,Floating Jump shot,Made Shot,60,0021500284,Shot Chart Detail,37,101,6,1,200797,Ryan Hollins,22,1,10,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612764,Washington Wizards
+22,Jump Shot,Made Shot,61,0021500284,Shot Chart Detail,24,190,6,1,202688,Brandon Knight,8,1,19,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612756,Phoenix Suns
+23,Jump Shot,Made Shot,62,0021500284,Shot Chart Detail,155,198,5,1,202322,John Wall,39,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+24,Jump Shot,Made Shot,63,0021500284,Shot Chart Detail,225,0,5,1,200782,PJ Tucker,28,1,22,1,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612756,Phoenix Suns
+25,Driving Layup Shot,Missed Shot,64,0021500284,Shot Chart Detail,27,31,5,1,201162,Jared Dudley,2,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612764,Washington Wizards
+26,Jump Shot,Missed Shot,66,0021500284,Shot Chart Detail,12,38,4,1,202688,Brandon Knight,53,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+27,Jump Shot,Missed Shot,68,0021500284,Shot Chart Detail,-248,52,4,1,202339,Eric Bledsoe,47,1,25,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612756,Phoenix Suns
+28,Jump Shot,Missed Shot,70,0021500284,Shot Chart Detail,20,36,4,1,203078,Bradley Beal,39,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612764,Washington Wizards
+29,Jump Shot,Missed Shot,367,0021500284,Shot Chart Detail,103,92,4,1,202693,Markieff Morris,30,1,13,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612756,Phoenix Suns
+30,Jump Shot,Made Shot,79,0021500284,Shot Chart Detail,9,254,4,1,202322,John Wall,20,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+31,Jump Shot,Made Shot,81,0021500284,Shot Chart Detail,-168,129,3,1,202339,Eric Bledsoe,58,1,21,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612756,Phoenix Suns
+32,Jump Shot,Made Shot,82,0021500284,Shot Chart Detail,-207,149,3,1,203078,Bradley Beal,42,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+33,Jump Shot,Made Shot,92,0021500284,Shot Chart Detail,-133,169,3,1,202693,Markieff Morris,6,1,21,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612756,Phoenix Suns
+34,Jump Shot,Missed Shot,93,0021500284,Shot Chart Detail,78,169,2,1,203078,Bradley Beal,47,1,18,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+35,Layup Shot,Made Shot,95,0021500284,Shot Chart Detail,-7,11,2,1,202720,Jon Leuer,40,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+36,Jump Shot,Missed Shot,250,0021500284,Shot Chart Detail,-239,-6,2,1,203490,Otto Porter,1,1,23,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612764,Washington Wizards
+37,Reverse Layup Shot,Made Shot,107,0021500284,Shot Chart Detail,-24,31,1,1,203490,Otto Porter,58,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+38,Layup Shot,Made Shot,108,0021500284,Shot Chart Detail,-19,3,1,1,1626164,Devin Booker,42,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+39,Floating Jump shot,Made Shot,109,0021500284,Shot Chart Detail,-53,75,1,1,203490,Otto Porter,26,1,9,1,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612764,Washington Wizards
+40,Jump Shot,Missed Shot,110,0021500284,Shot Chart Detail,22,31,1,1,202693,Markieff Morris,13,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+41,Jump Shot,Missed Shot,112,0021500284,Shot Chart Detail,17,51,1,1,202693,Markieff Morris,10,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612756,Phoenix Suns
+42,Jump Shot,Missed Shot,114,0021500284,Shot Chart Detail,2,247,1,1,202390,Gary Neal,3,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+43,Dunk Shot,Made Shot,119,0021500284,Shot Chart Detail,0,1,0,1,202720,Jon Leuer,46,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+44,Layup Shot,Made Shot,122,0021500284,Shot Chart Detail,-17,21,0,1,200782,PJ Tucker,32,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+45,Layup Shot,Made Shot,129,0021500284,Shot Chart Detail,14,21,0,1,202339,Eric Bledsoe,2,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+46,Jump Shot,Made Shot,133,0021500284,Shot Chart Detail,-233,56,11,2,202390,Gary Neal,40,1,23,1,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612764,Washington Wizards
+47,Jump Shot,Missed Shot,134,0021500284,Shot Chart Detail,227,0,11,2,101179,Ronnie Price,14,1,22,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612756,Phoenix Suns
+48,Layup Shot,Made Shot,140,0021500284,Shot Chart Detail,25,16,10,2,201196,Ramon Sessions,28,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+49,Jump Shot,Missed Shot,141,0021500284,Shot Chart Detail,-115,28,10,2,1626164,Devin Booker,13,1,11,0,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612756,Phoenix Suns
+50,Jump Shot,Missed Shot,145,0021500284,Shot Chart Detail,-4,195,9,2,101179,Ronnie Price,55,1,19,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612756,Phoenix Suns
+51,Finger Roll Layup Shot,Made Shot,147,0021500284,Shot Chart Detail,-19,16,9,2,201196,Ramon Sessions,48,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+52,Cutting Layup Shot,Made Shot,148,0021500284,Shot Chart Detail,12,-1,9,2,1626164,Devin Booker,29,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+53,Layup Shot,Made Shot,149,0021500284,Shot Chart Detail,-9,11,9,2,202066,Garrett Temple,22,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+54,Jump Shot,Made Shot,159,0021500284,Shot Chart Detail,97,224,9,2,202390,Gary Neal,2,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+55,Jump Shot,Missed Shot,160,0021500284,Shot Chart Detail,-148,190,8,2,203141,Mirza Teletovic,41,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+56,Jump Shot,Missed Shot,162,0021500284,Shot Chart Detail,-194,159,8,2,201196,Ramon Sessions,31,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+57,Jump Shot,Made Shot,164,0021500284,Shot Chart Detail,-243,-19,8,2,101179,Ronnie Price,9,1,24,1,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612756,Phoenix Suns
+58,Jump Shot,Made Shot,165,0021500284,Shot Chart Detail,61,106,7,2,202390,Gary Neal,58,1,12,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612764,Washington Wizards
+59,Jump Shot,Made Shot,166,0021500284,Shot Chart Detail,-165,21,7,2,202693,Markieff Morris,45,1,16,1,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612756,Phoenix Suns
+60,Jump Shot,Missed Shot,167,0021500284,Shot Chart Detail,89,232,7,2,201162,Jared Dudley,36,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+61,Dunk Shot,Made Shot,170,0021500284,Shot Chart Detail,0,1,7,2,201196,Ramon Sessions,20,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+62,Jump Shot,Made Shot,177,0021500284,Shot Chart Detail,-138,223,6,2,101179,Ronnie Price,43,1,26,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+63,Jump Shot,Missed Shot,179,0021500284,Shot Chart Detail,-243,-6,6,2,101179,Ronnie Price,10,1,24,0,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612756,Phoenix Suns
+64,Layup Shot,Missed Shot,181,0021500284,Shot Chart Detail,-9,13,6,2,203078,Bradley Beal,0,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+65,Jump Shot,Missed Shot,183,0021500284,Shot Chart Detail,48,11,5,2,203933,TJ Warren,53,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612756,Phoenix Suns
+66,Jump Shot,Made Shot,195,0021500284,Shot Chart Detail,161,195,5,2,202688,Brandon Knight,7,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+67,Jump Shot,Made Shot,198,0021500284,Shot Chart Detail,101,77,4,2,203490,Otto Porter,50,1,12,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+68,Jump Shot,Made Shot,199,0021500284,Shot Chart Detail,-102,149,4,2,202688,Brandon Knight,34,1,18,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612756,Phoenix Suns
+69,Floating Jump shot,Made Shot,201,0021500284,Shot Chart Detail,78,57,4,2,202390,Gary Neal,16,1,9,1,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612764,Washington Wizards
+70,Driving Layup Shot,Made Shot,202,0021500284,Shot Chart Detail,-25,23,4,2,202339,Eric Bledsoe,7,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+71,Cutting Layup Shot,Made Shot,203,0021500284,Shot Chart Detail,-22,13,3,2,203078,Bradley Beal,55,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+72,Jump Shot,Made Shot,205,0021500284,Shot Chart Detail,-117,223,3,2,202688,Brandon Knight,40,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+73,Jump Shot,Missed Shot,206,0021500284,Shot Chart Detail,-209,43,3,2,202390,Gary Neal,13,1,21,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+74,Layup Shot,Made Shot,209,0021500284,Shot Chart Detail,9,8,2,2,203490,Otto Porter,56,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+75,Jump Shot,Missed Shot,222,0021500284,Shot Chart Detail,179,170,2,2,202688,Brandon Knight,13,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+76,Layup Shot,Made Shot,224,0021500284,Shot Chart Detail,20,8,2,2,202720,Jon Leuer,4,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+77,Jump Shot,Missed Shot,225,0021500284,Shot Chart Detail,64,51,1,2,202066,Garrett Temple,54,1,8,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612764,Washington Wizards
+78,Layup Shot,Made Shot,229,0021500284,Shot Chart Detail,19,13,1,2,202322,John Wall,34,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+79,Jump Shot,Made Shot,230,0021500284,Shot Chart Detail,91,228,1,2,202339,Eric Bledsoe,19,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+80,Driving Reverse Layup Shot,Made Shot,237,0021500284,Shot Chart Detail,9,16,0,2,202720,Jon Leuer,48,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+81,Jump Shot,Missed Shot,238,0021500284,Shot Chart Detail,66,237,0,2,203078,Bradley Beal,29,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+82,Jump Shot,Missed Shot,240,0021500284,Shot Chart Detail,45,242,0,2,202339,Eric Bledsoe,2,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+83,Layup Shot,Missed Shot,252,0021500284,Shot Chart Detail,25,13,11,3,203078,Bradley Beal,43,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+84,Jump Shot,Missed Shot,254,0021500284,Shot Chart Detail,2,242,11,3,202322,John Wall,31,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+85,Layup Shot,Made Shot,256,0021500284,Shot Chart Detail,-9,23,11,3,203490,Otto Porter,26,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+86,Jump Shot,Missed Shot,258,0021500284,Shot Chart Detail,38,110,11,3,202688,Brandon Knight,1,1,11,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612756,Phoenix Suns
+87,Jump Shot,Missed Shot,264,0021500284,Shot Chart Detail,86,80,10,3,202688,Brandon Knight,59,1,11,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612756,Phoenix Suns
+88,Dunk Shot,Made Shot,260,0021500284,Shot Chart Detail,0,1,10,3,203458,Alex Len,55,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+89,Jump Shot,Missed Shot,262,0021500284,Shot Chart Detail,35,144,10,3,202339,Eric Bledsoe,23,1,14,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612756,Phoenix Suns
+90,Jump Shot,Missed Shot,266,0021500284,Shot Chart Detail,63,144,10,3,202339,Eric Bledsoe,3,1,15,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612756,Phoenix Suns
+91,Layup Shot,Missed Shot,268,0021500284,Shot Chart Detail,0,21,10,3,203458,Alex Len,1,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+92,Jump Shot,Missed Shot,270,0021500284,Shot Chart Detail,89,242,9,3,203078,Bradley Beal,52,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+93,Jump Shot,Missed Shot,272,0021500284,Shot Chart Detail,-138,203,9,3,202066,Garrett Temple,28,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+94,Jump Shot,Missed Shot,277,0021500284,Shot Chart Detail,132,105,8,3,202322,John Wall,52,1,16,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+95,Jump Shot,Made Shot,279,0021500284,Shot Chart Detail,114,139,8,3,203078,Bradley Beal,44,1,17,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+96,Jump Shot,Missed Shot,284,0021500284,Shot Chart Detail,-94,146,8,3,202339,Eric Bledsoe,31,1,17,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612756,Phoenix Suns
+97,Jump Shot,Made Shot,286,0021500284,Shot Chart Detail,179,164,8,3,203078,Bradley Beal,14,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+98,Running Dunk Shot,Made Shot,288,0021500284,Shot Chart Detail,0,1,7,3,203078,Bradley Beal,55,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+99,Layup Shot,Made Shot,290,0021500284,Shot Chart Detail,12,26,7,3,202688,Brandon Knight,38,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+100,Jump Shot,Missed Shot,292,0021500284,Shot Chart Detail,-199,188,7,3,202688,Brandon Knight,14,1,27,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+101,Layup Shot,Missed Shot,294,0021500284,Shot Chart Detail,-27,13,6,3,200782,PJ Tucker,59,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+102,Jump Shot,Made Shot,296,0021500284,Shot Chart Detail,86,239,6,3,202066,Garrett Temple,52,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+103,Jump Shot,Missed Shot,305,0021500284,Shot Chart Detail,78,249,6,3,203078,Bradley Beal,24,1,26,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+104,Jump Shot,Missed Shot,308,0021500284,Shot Chart Detail,220,111,6,3,202066,Garrett Temple,13,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+105,Jump Shot,Made Shot,313,0021500284,Shot Chart Detail,-115,124,5,3,202339,Eric Bledsoe,50,1,16,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612756,Phoenix Suns
+106,Jump Shot,Made Shot,314,0021500284,Shot Chart Detail,155,41,5,3,203078,Bradley Beal,34,1,16,1,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+107,Jump Shot,Made Shot,315,0021500284,Shot Chart Detail,-223,175,5,3,202688,Brandon Knight,19,1,28,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+108,Jump Shot,Missed Shot,316,0021500284,Shot Chart Detail,-42,57,5,3,202322,John Wall,0,1,7,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612764,Washington Wizards
+109,Jump Shot,Missed Shot,318,0021500284,Shot Chart Detail,9,252,4,3,201196,Ramon Sessions,51,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+110,Jump Shot,Made Shot,320,0021500284,Shot Chart Detail,89,146,4,3,202339,Eric Bledsoe,44,1,17,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612756,Phoenix Suns
+111,Layup Shot,Missed Shot,321,0021500284,Shot Chart Detail,-9,2,4,3,203078,Bradley Beal,34,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+112,Jump Shot,Missed Shot,323,0021500284,Shot Chart Detail,-74,242,4,3,202339,Eric Bledsoe,20,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+113,Floating Jump shot,Made Shot,333,0021500284,Shot Chart Detail,43,56,3,3,201971,DeJuan Blair,53,1,7,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612764,Washington Wizards
+114,Jump Shot,Made Shot,334,0021500284,Shot Chart Detail,43,139,3,3,203933,TJ Warren,33,1,14,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612756,Phoenix Suns
+115,Layup Shot,Missed Shot,335,0021500284,Shot Chart Detail,6,11,3,3,202322,John Wall,20,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+116,Tip Layup Shot,Made Shot,337,0021500284,Shot Chart Detail,-4,0,3,3,201971,DeJuan Blair,15,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+117,Jump Shot,Missed Shot,338,0021500284,Shot Chart Detail,48,214,3,3,203141,Mirza Teletovic,5,1,21,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612756,Phoenix Suns
+118,Layup Shot,Made Shot,340,0021500284,Shot Chart Detail,10,11,2,3,201196,Ramon Sessions,57,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+119,Running Layup Shot,Made Shot,341,0021500284,Shot Chart Detail,14,13,2,3,202339,Eric Bledsoe,44,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+120,Jump Shot,Missed Shot,344,0021500284,Shot Chart Detail,-220,124,2,3,202688,Brandon Knight,27,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+121,Layup Shot,Made Shot,346,0021500284,Shot Chart Detail,-16,11,2,3,200782,PJ Tucker,22,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+122,Jump Shot,Made Shot,347,0021500284,Shot Chart Detail,33,244,2,3,203078,Bradley Beal,15,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+123,Jump Shot,Made Shot,353,0021500284,Shot Chart Detail,120,115,1,3,202322,John Wall,37,1,16,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+124,Floating Jump shot,Made Shot,355,0021500284,Shot Chart Detail,-58,46,1,3,202339,Eric Bledsoe,19,1,7,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612756,Phoenix Suns
+125,Cutting Layup Shot,Made Shot,358,0021500284,Shot Chart Detail,-1,21,1,3,1626164,Devin Booker,0,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+126,Jump Shot,Missed Shot,359,0021500284,Shot Chart Detail,84,57,0,3,203078,Bradley Beal,49,1,10,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+127,Floating Jump shot,Made Shot,369,0021500284,Shot Chart Detail,161,-1,0,3,203933,TJ Warren,26,1,16,1,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612756,Phoenix Suns
+128,Jump Shot,Made Shot,370,0021500284,Shot Chart Detail,-122,97,0,3,203078,Bradley Beal,5,1,15,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612764,Washington Wizards
+129,Jump Shot,Missed Shot,371,0021500284,Shot Chart Detail,37,28,0,3,200782,PJ Tucker,2,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612756,Phoenix Suns
+130,Layup Shot,Missed Shot,375,0021500284,Shot Chart Detail,16,5,11,4,202693,Markieff Morris,43,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+131,Jump Shot,Missed Shot,377,0021500284,Shot Chart Detail,-83,174,11,4,202390,Gary Neal,30,1,19,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612764,Washington Wizards
+132,Jump Shot,Made Shot,379,0021500284,Shot Chart Detail,-235,-1,11,4,203933,TJ Warren,13,1,23,1,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612756,Phoenix Suns
+133,Layup Shot,Made Shot,380,0021500284,Shot Chart Detail,0,16,10,4,203078,Bradley Beal,56,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+134,Turnaround Jump Shot,Made Shot,387,0021500284,Shot Chart Detail,-114,67,10,4,202693,Markieff Morris,33,1,13,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612756,Phoenix Suns
+135,Jump Shot,Made Shot,388,0021500284,Shot Chart Detail,168,193,10,4,203078,Bradley Beal,19,1,25,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+136,Jump Shot,Missed Shot,389,0021500284,Shot Chart Detail,-60,28,10,4,1626164,Devin Booker,0,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612756,Phoenix Suns
+137,Layup Shot,Made Shot,394,0021500284,Shot Chart Detail,9,8,9,4,201196,Ramon Sessions,46,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+138,Jump Shot,Missed Shot,396,0021500284,Shot Chart Detail,140,0,9,4,203933,TJ Warren,37,1,14,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612756,Phoenix Suns
+139,Layup Shot,Made Shot,400,0021500284,Shot Chart Detail,-11,23,9,4,203933,TJ Warren,26,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+140,Layup Shot,Made Shot,402,0021500284,Shot Chart Detail,4,-5,9,4,201196,Ramon Sessions,11,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+141,Layup Shot,Made Shot,404,0021500284,Shot Chart Detail,-11,7,9,4,203933,TJ Warren,3,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+142,Jump Shot,Missed Shot,405,0021500284,Shot Chart Detail,14,242,8,4,201162,Jared Dudley,51,1,24,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+143,Jump Shot,Missed Shot,408,0021500284,Shot Chart Detail,81,61,8,4,203933,TJ Warren,34,1,10,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612756,Phoenix Suns
+144,Jump Shot,Missed Shot,410,0021500284,Shot Chart Detail,-132,213,8,4,202066,Garrett Temple,20,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612764,Washington Wizards
+145,Jump Shot,Missed Shot,422,0021500284,Shot Chart Detail,79,141,7,4,202688,Brandon Knight,52,1,16,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612756,Phoenix Suns
+146,Layup Shot,Made Shot,428,0021500284,Shot Chart Detail,-7,2,7,4,1626164,Devin Booker,34,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+147,Driving Layup Shot,Made Shot,430,0021500284,Shot Chart Detail,-9,21,7,4,202322,John Wall,16,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+148,Jump Shot,Made Shot,431,0021500284,Shot Chart Detail,-130,36,7,4,202693,Markieff Morris,4,1,13,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612756,Phoenix Suns
+149,Finger Roll Layup Shot,Made Shot,432,0021500284,Shot Chart Detail,17,16,6,4,201196,Ramon Sessions,44,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+150,Jump Shot,Missed Shot,434,0021500284,Shot Chart Detail,55,21,6,4,203933,TJ Warren,23,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612756,Phoenix Suns
+151,Reverse Layup Shot,Made Shot,452,0021500284,Shot Chart Detail,6,16,5,4,201196,Ramon Sessions,43,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+152,Layup Shot,Missed Shot,460,0021500284,Shot Chart Detail,-16,-1,5,4,203078,Bradley Beal,6,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+153,Jump Shot,Missed Shot,462,0021500284,Shot Chart Detail,-32,16,5,4,202688,Brandon Knight,1,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+154,Jump Shot,Missed Shot,471,0021500284,Shot Chart Detail,-5,496,4,4,202322,John Wall,1,1,49,0,3PT Field Goal,Back Court(BC),Backcourt,Back Court Shot,1610612764,Washington Wizards
+155,Jump Shot,Missed Shot,475,0021500284,Shot Chart Detail,-202,164,3,4,202693,Markieff Morris,42,1,26,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612756,Phoenix Suns
+156,Jump Shot,Missed Shot,477,0021500284,Shot Chart Detail,-12,31,3,4,200782,PJ Tucker,37,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+157,Jump Shot,Missed Shot,483,0021500284,Shot Chart Detail,78,80,2,4,201196,Ramon Sessions,53,1,11,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612764,Washington Wizards
+158,Jump Shot,Missed Shot,489,0021500284,Shot Chart Detail,37,193,2,4,202693,Markieff Morris,34,1,19,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612756,Phoenix Suns
+159,Jump Shot,Missed Shot,506,0021500284,Shot Chart Detail,82,18,1,4,202339,Eric Bledsoe,52,1,8,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612756,Phoenix Suns
+160,Layup Shot,Made Shot,515,0021500284,Shot Chart Detail,-2,16,1,4,203490,Otto Porter,42,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612764,Washington Wizards
+161,Jump Bank Shot,Made Shot,529,0021500284,Shot Chart Detail,-52,41,0,4,203078,Bradley Beal,47,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612764,Washington Wizards
+162,Jump Shot,Missed Shot,530,0021500284,Shot Chart Detail,33,62,0,4,202688,Brandon Knight,31,1,7,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612756,Phoenix Suns
+163,Layup Shot,Made Shot,536,0021500284,Shot Chart Detail,6,2,0,4,202339,Eric Bledsoe,15,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612756,Phoenix Suns
+164,Jump Shot,Missed Shot,577,0021500284,Shot Chart Detail,28,257,0,4,202339,Eric Bledsoe,0,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612756,Phoenix Suns

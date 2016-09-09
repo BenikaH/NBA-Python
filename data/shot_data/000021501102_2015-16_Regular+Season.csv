@@ -1,0 +1,165 @@
+,ACTION_TYPE,EVENT_TYPE,GAME_EVENT_ID,GAME_ID,GRID_TYPE,LOC_X,LOC_Y,MINUTES_REMAINING,PERIOD,PLAYER_ID,PLAYER_NAME,SECONDS_REMAINING,SHOT_ATTEMPTED_FLAG,SHOT_DISTANCE,SHOT_MADE_FLAG,SHOT_TYPE,SHOT_ZONE_AREA,SHOT_ZONE_BASIC,SHOT_ZONE_RANGE,TEAM_ID,TEAM_NAME
+0,Layup Shot,Made Shot,2,0021501102,Shot Chart Detail,-12,16,11,1,201577,Robin Lopez,37,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+1,Jump Shot,Made Shot,3,0021501102,Shot Chart Detail,-91,169,11,1,201582,Alexis Ajinca,25,1,19,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+2,Running Layup Shot,Made Shot,5,0021501102,Shot Chart Detail,-11,16,11,1,201967,Dante Cunningham,3,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+3,Alley Oop Dunk Shot,Made Shot,6,0021501102,Shot Chart Detail,0,1,10,1,204001,Kristaps Porzingis,46,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+4,Fadeaway Jump Shot,Made Shot,8,0021501102,Shot Chart Detail,-19,146,10,1,202337,Luke Babbitt,29,1,14,1,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+5,Jump Shot,Made Shot,11,0021501102,Shot Chart Detail,-114,159,10,1,2756,Sasha Vujacic,5,1,19,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612752,New York Knicks
+6,Jump Shot,Missed Shot,13,0021501102,Shot Chart Detail,115,169,9,1,201582,Alexis Ajinca,55,1,20,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+7,Jump Shot,Made Shot,15,0021501102,Shot Chart Detail,159,208,9,1,2546,Carmelo Anthony,47,1,26,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+8,Layup Shot,Missed Shot,16,0021501102,Shot Chart Detail,0,7,9,1,201950,Jrue Holiday,38,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+9,Fadeaway Jump Shot,Made Shot,18,0021501102,Shot Chart Detail,-140,11,9,1,204001,Kristaps Porzingis,26,1,14,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612752,New York Knicks
+10,Layup Shot,Missed Shot,19,0021501102,Shot Chart Detail,0,23,9,1,201600,Omer Asik,12,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+11,Jump Shot,Missed Shot,21,0021501102,Shot Chart Detail,-127,120,8,1,201577,Robin Lopez,52,1,17,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612752,New York Knicks
+12,Jump Shot,Missed Shot,23,0021501102,Shot Chart Detail,-184,170,8,1,201950,Jrue Holiday,44,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+13,Jump Shot,Made Shot,25,0021501102,Shot Chart Detail,-2,254,8,1,204001,Kristaps Porzingis,32,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612752,New York Knicks
+14,Jump Shot,Missed Shot,29,0021501102,Shot Chart Detail,119,149,8,1,201950,Jrue Holiday,8,1,19,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+15,Jump Shot,Missed Shot,31,0021501102,Shot Chart Detail,120,247,8,1,2546,Carmelo Anthony,2,1,27,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+16,Cutting Dunk Shot,Made Shot,40,0021501102,Shot Chart Detail,0,1,7,1,201577,Robin Lopez,29,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+17,Jump Shot,Made Shot,41,0021501102,Shot Chart Detail,63,46,7,1,201582,Alexis Ajinca,10,1,7,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+18,Jump Shot,Made Shot,48,0021501102,Shot Chart Detail,-37,183,6,1,201950,Jrue Holiday,45,1,18,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+19,Jump Shot,Made Shot,49,0021501102,Shot Chart Detail,58,257,6,1,101181,Jose Calderon,28,1,26,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612752,New York Knicks
+20,Pullup Jump shot,Made Shot,52,0021501102,Shot Chart Detail,17,188,5,1,2756,Sasha Vujacic,47,1,18,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612752,New York Knicks
+21,Cutting Dunk Shot,Made Shot,53,0021501102,Shot Chart Detail,0,1,5,1,201600,Omer Asik,24,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+22,Jump Shot,Missed Shot,54,0021501102,Shot Chart Detail,-101,228,5,1,101181,Jose Calderon,6,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+23,Jump Shot,Missed Shot,56,0021501102,Shot Chart Detail,-110,223,4,1,201950,Jrue Holiday,56,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+24,Jump Shot,Missed Shot,58,0021501102,Shot Chart Detail,-6,262,4,1,204001,Kristaps Porzingis,33,1,26,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612752,New York Knicks
+25,Running Layup Shot,Made Shot,60,0021501102,Shot Chart Detail,-19,11,4,1,201582,Alexis Ajinca,26,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+26,Pullup Jump shot,Made Shot,68,0021501102,Shot Chart Detail,35,129,3,1,201950,Jrue Holiday,56,1,13,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+27,Jump Shot,Missed Shot,72,0021501102,Shot Chart Detail,-43,110,3,1,1626170,Jerian Grant,36,1,11,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612752,New York Knicks
+28,Jump Shot,Missed Shot,77,0021501102,Shot Chart Detail,53,21,3,1,201950,Jrue Holiday,20,1,5,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+29,Jump Shot,Missed Shot,80,0021501102,Shot Chart Detail,-96,178,3,1,204001,Kristaps Porzingis,6,1,20,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612752,New York Knicks
+30,Driving Layup Shot,Made Shot,84,0021501102,Shot Chart Detail,9,-5,2,1,202682,Derrick Williams,49,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+31,Jump Shot,Missed Shot,85,0021501102,Shot Chart Detail,-4,252,2,1,202337,Luke Babbitt,35,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+32,Driving Layup Shot,Made Shot,87,0021501102,Shot Chart Detail,1,3,2,1,201577,Robin Lopez,19,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+33,Layup Shot,Missed Shot,88,0021501102,Shot Chart Detail,24,7,2,1,202087,Alonzo Gee,11,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+34,Jump Shot,Missed Shot,96,0021501102,Shot Chart Detail,104,247,1,1,204038,Langston Galloway,47,1,26,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+35,Jump Shot,Missed Shot,105,0021501102,Shot Chart Detail,-163,80,1,1,202682,Derrick Williams,8,1,18,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612752,New York Knicks
+36,Layup Shot,Missed Shot,107,0021501102,Shot Chart Detail,25,-1,1,1,201962,Toney Douglas,0,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+37,Putback Dunk Shot,Made Shot,109,0021501102,Shot Chart Detail,0,1,0,1,202087,Alonzo Gee,58,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+38,Dunk Shot,Made Shot,110,0021501102,Shot Chart Detail,0,1,0,1,201577,Robin Lopez,39,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+39,Jump Shot,Made Shot,114,0021501102,Shot Chart Detail,-58,183,0,1,201967,Dante Cunningham,28,1,19,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+40,Layup Shot,Missed Shot,115,0021501102,Shot Chart Detail,-2,2,0,1,1626170,Jerian Grant,8,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+41,Running Layup Shot,Made Shot,117,0021501102,Shot Chart Detail,0,11,0,1,202087,Alonzo Gee,2,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+42,Running Layup Shot,Made Shot,124,0021501102,Shot Chart Detail,-9,-10,11,2,204038,Langston Galloway,42,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+43,Layup Shot,Missed Shot,125,0021501102,Shot Chart Detail,-11,11,11,2,201967,Dante Cunningham,27,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+44,Running Layup Shot,Made Shot,127,0021501102,Shot Chart Detail,42,11,11,2,202682,Derrick Williams,12,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612752,New York Knicks
+45,Pullup Jump shot,Made Shot,128,0021501102,Shot Chart Detail,40,188,10,2,201962,Toney Douglas,57,1,19,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+46,Running Layup Shot,Made Shot,130,0021501102,Shot Chart Detail,6,16,10,2,202087,Alonzo Gee,30,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+47,Running Jump Shot,Made Shot,131,0021501102,Shot Chart Detail,91,51,10,2,204038,Langston Galloway,6,1,10,1,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612752,New York Knicks
+48,Jump Shot,Made Shot,139,0021501102,Shot Chart Detail,130,228,9,2,201962,Toney Douglas,34,1,26,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+49,Jump Shot,Missed Shot,140,0021501102,Shot Chart Detail,32,257,9,2,204038,Langston Galloway,15,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612752,New York Knicks
+50,Jump Shot,Missed Shot,142,0021501102,Shot Chart Detail,33,188,9,2,201962,Toney Douglas,1,1,19,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+51,Jump Shot,Missed Shot,144,0021501102,Shot Chart Detail,123,237,8,2,201167,Arron Afflalo,52,1,26,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+52,Layup Shot,Missed Shot,148,0021501102,Shot Chart Detail,-37,-5,8,2,202682,Derrick Williams,44,1,3,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+53,Jump Shot,Missed Shot,150,0021501102,Shot Chart Detail,43,154,8,2,204025,Tim Frazier,33,1,15,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+54,Jump Shot,Made Shot,152,0021501102,Shot Chart Detail,-160,13,8,2,202338,Kevin Seraphin,20,1,16,1,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612752,New York Knicks
+55,Layup Shot,Missed Shot,153,0021501102,Shot Chart Detail,27,11,8,2,204025,Tim Frazier,9,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+56,Dunk Shot,Made Shot,161,0021501102,Shot Chart Detail,0,1,7,2,202338,Kevin Seraphin,47,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+57,Layup Shot,Missed Shot,162,0021501102,Shot Chart Detail,9,7,7,2,202087,Alonzo Gee,30,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+58,Jump Shot,Missed Shot,164,0021501102,Shot Chart Detail,61,115,7,2,201167,Arron Afflalo,19,1,13,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612752,New York Knicks
+59,Jump Shot,Missed Shot,166,0021501102,Shot Chart Detail,-66,252,7,2,202706,Jordan Hamilton,9,1,26,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+60,Jump Shot,Missed Shot,168,0021501102,Shot Chart Detail,-194,188,6,2,1626170,Jerian Grant,49,1,27,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+61,Jump Shot,Made Shot,170,0021501102,Shot Chart Detail,-192,159,6,2,201962,Toney Douglas,38,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+62,Layup Shot,Missed Shot,171,0021501102,Shot Chart Detail,-19,2,6,2,202338,Kevin Seraphin,24,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+63,Running Layup Shot,Made Shot,173,0021501102,Shot Chart Detail,17,11,6,2,202706,Jordan Hamilton,18,1,2,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+64,Running Finger Roll Layup Shot,Made Shot,175,0021501102,Shot Chart Detail,-4,7,6,2,202087,Alonzo Gee,2,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+65,Jump Shot,Missed Shot,183,0021501102,Shot Chart Detail,73,193,5,2,204025,Tim Frazier,34,1,20,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+66,Jump Shot,Missed Shot,189,0021501102,Shot Chart Detail,-153,70,4,2,201582,Alexis Ajinca,58,1,16,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+67,Jump Shot,Made Shot,192,0021501102,Shot Chart Detail,174,105,4,2,2546,Carmelo Anthony,41,1,20,1,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612752,New York Knicks
+68,Jump Shot,Missed Shot,195,0021501102,Shot Chart Detail,74,141,4,2,201950,Jrue Holiday,16,1,15,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+69,Hook Shot,Missed Shot,197,0021501102,Shot Chart Detail,10,75,4,2,201577,Robin Lopez,2,1,7,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612752,New York Knicks
+70,Jump Shot,Missed Shot,204,0021501102,Shot Chart Detail,138,11,3,2,2546,Carmelo Anthony,37,1,13,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612752,New York Knicks
+71,Jump Shot,Made Shot,206,0021501102,Shot Chart Detail,143,203,3,2,201950,Jrue Holiday,27,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+72,Jump Shot,Missed Shot,208,0021501102,Shot Chart Detail,-160,203,3,2,2756,Sasha Vujacic,8,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+73,Jump Shot,Missed Shot,216,0021501102,Shot Chart Detail,-140,224,2,2,101181,Jose Calderon,54,1,26,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+74,Jump Shot,Made Shot,219,0021501102,Shot Chart Detail,-58,244,2,2,2546,Carmelo Anthony,49,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612752,New York Knicks
+75,Jump Shot,Missed Shot,221,0021501102,Shot Chart Detail,66,111,2,2,2546,Carmelo Anthony,23,1,12,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612752,New York Knicks
+76,Jump Shot,Made Shot,224,0021501102,Shot Chart Detail,156,195,2,2,2546,Carmelo Anthony,15,1,24,1,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+77,Jump Shot,Missed Shot,225,0021501102,Shot Chart Detail,76,151,1,2,201967,Dante Cunningham,49,1,16,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+78,Cutting Layup Shot,Made Shot,227,0021501102,Shot Chart Detail,9,-1,1,2,204038,Langston Galloway,35,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+79,Jump Shot,Missed Shot,228,0021501102,Shot Chart Detail,-56,244,1,2,201967,Dante Cunningham,22,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+80,Running Jump Shot,Missed Shot,230,0021501102,Shot Chart Detail,22,129,1,2,204001,Kristaps Porzingis,8,1,13,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612752,New York Knicks
+81,Dunk Shot,Missed Shot,232,0021501102,Shot Chart Detail,0,1,1,2,202087,Alonzo Gee,0,1,0,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+82,Hook Shot,Made Shot,239,0021501102,Shot Chart Detail,-88,13,0,2,201577,Robin Lopez,38,1,8,1,2PT Field Goal,Left Side(L),Mid-Range,8-16 ft.,1610612752,New York Knicks
+83,Jump Shot,Made Shot,240,0021501102,Shot Chart Detail,48,178,0,2,201582,Alexis Ajinca,28,1,18,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+84,Dunk Shot,Made Shot,241,0021501102,Shot Chart Detail,0,1,0,2,201577,Robin Lopez,9,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+85,Jump Shot,Missed Shot,248,0021501102,Shot Chart Detail,105,527,0,2,204038,Langston Galloway,0,1,53,0,3PT Field Goal,Back Court(BC),Backcourt,Back Court Shot,1610612752,New York Knicks
+86,Jump Shot,Missed Shot,253,0021501102,Shot Chart Detail,235,82,11,3,201967,Dante Cunningham,46,1,24,0,3PT Field Goal,Right Side(R),Right Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+87,Jump Shot,Missed Shot,256,0021501102,Shot Chart Detail,60,164,11,3,201582,Alexis Ajinca,13,1,17,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+88,Hook Shot,Missed Shot,259,0021501102,Shot Chart Detail,-74,90,10,3,201577,Robin Lopez,55,1,11,0,2PT Field Goal,Left Side(L),In The Paint (Non-RA),8-16 ft.,1610612752,New York Knicks
+89,Jump Shot,Missed Shot,261,0021501102,Shot Chart Detail,110,219,10,3,201962,Toney Douglas,45,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+90,Jump Shot,Made Shot,264,0021501102,Shot Chart Detail,-120,213,10,3,2546,Carmelo Anthony,25,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+91,Jump Shot,Missed Shot,266,0021501102,Shot Chart Detail,132,61,9,3,204001,Kristaps Porzingis,59,1,14,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612752,New York Knicks
+92,Jump Shot,Missed Shot,268,0021501102,Shot Chart Detail,99,164,9,3,202087,Alonzo Gee,47,1,19,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+93,Dunk Shot,Made Shot,270,0021501102,Shot Chart Detail,0,1,9,3,201577,Robin Lopez,32,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+94,Jump Shot,Missed Shot,274,0021501102,Shot Chart Detail,127,232,8,3,2546,Carmelo Anthony,49,1,26,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+95,Jump Shot,Missed Shot,284,0021501102,Shot Chart Detail,-169,228,8,3,2546,Carmelo Anthony,18,1,28,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+96,Jump Shot,Missed Shot,288,0021501102,Shot Chart Detail,-4,47,8,3,201582,Alexis Ajinca,1,1,4,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+97,Jump Shot,Missed Shot,291,0021501102,Shot Chart Detail,69,190,7,3,2756,Sasha Vujacic,33,1,20,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612752,New York Knicks
+98,Pullup Jump shot,Made Shot,294,0021501102,Shot Chart Detail,-83,242,7,3,201950,Jrue Holiday,24,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+99,Layup Shot,Missed Shot,296,0021501102,Shot Chart Detail,-18,14,7,3,201577,Robin Lopez,1,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+100,Jump Shot,Made Shot,297,0021501102,Shot Chart Detail,-138,214,6,3,202337,Luke Babbitt,42,1,25,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+101,Jump Shot,Missed Shot,298,0021501102,Shot Chart Detail,-81,169,6,3,204001,Kristaps Porzingis,25,1,18,0,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612752,New York Knicks
+102,Jump Shot,Missed Shot,300,0021501102,Shot Chart Detail,60,174,6,3,201582,Alexis Ajinca,12,1,18,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+103,Jump Shot,Missed Shot,304,0021501102,Shot Chart Detail,153,7,5,3,201167,Arron Afflalo,49,1,15,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612752,New York Knicks
+104,Jump Shot,Made Shot,306,0021501102,Shot Chart Detail,17,257,5,3,201967,Dante Cunningham,30,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+105,Jump Shot,Missed Shot,308,0021501102,Shot Chart Detail,-158,259,5,3,2546,Carmelo Anthony,1,1,30,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+106,Driving Layup Shot,Made Shot,320,0021501102,Shot Chart Detail,-43,3,4,3,201950,Jrue Holiday,41,1,4,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+107,Jump Shot,Missed Shot,322,0021501102,Shot Chart Detail,135,210,4,3,2546,Carmelo Anthony,21,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+108,Running Layup Shot,Made Shot,324,0021501102,Shot Chart Detail,20,24,4,3,201962,Toney Douglas,14,1,3,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+109,Jump Shot,Missed Shot,325,0021501102,Shot Chart Detail,-225,151,3,3,201167,Arron Afflalo,56,1,27,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+110,Jump Shot,Missed Shot,334,0021501102,Shot Chart Detail,-78,234,3,3,201950,Jrue Holiday,50,1,24,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+111,Jump Shot,Missed Shot,337,0021501102,Shot Chart Detail,-156,82,3,3,2546,Carmelo Anthony,35,1,17,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612752,New York Knicks
+112,Driving Layup Shot,Missed Shot,345,0021501102,Shot Chart Detail,-9,26,3,3,2546,Carmelo Anthony,3,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+113,Hook Shot,Missed Shot,352,0021501102,Shot Chart Detail,-37,51,2,3,202338,Kevin Seraphin,25,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612752,New York Knicks
+114,Jump Shot,Missed Shot,354,0021501102,Shot Chart Detail,60,120,2,3,201962,Toney Douglas,5,1,13,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+115,Jump Shot,Missed Shot,356,0021501102,Shot Chart Detail,-1,77,1,3,201167,Arron Afflalo,54,1,7,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612752,New York Knicks
+116,Layup Shot,Missed Shot,358,0021501102,Shot Chart Detail,22,3,1,3,204025,Tim Frazier,46,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+117,Jump Shot,Missed Shot,360,0021501102,Shot Chart Detail,102,120,1,3,202338,Kevin Seraphin,30,1,15,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612752,New York Knicks
+118,Floating Jump shot,Made Shot,363,0021501102,Shot Chart Detail,0,65,1,3,202337,Luke Babbitt,10,1,6,1,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+119,Jump Shot,Made Shot,364,0021501102,Shot Chart Detail,4,247,0,3,204001,Kristaps Porzingis,58,1,24,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612752,New York Knicks
+120,Jump Shot,Missed Shot,365,0021501102,Shot Chart Detail,-25,121,0,3,202337,Luke Babbitt,47,1,12,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+121,Hook Shot,Missed Shot,367,0021501102,Shot Chart Detail,-25,77,0,3,202338,Kevin Seraphin,27,1,8,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612752,New York Knicks
+122,Jump Shot,Missed Shot,369,0021501102,Shot Chart Detail,40,92,0,3,201962,Toney Douglas,5,1,10,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+123,Jump Shot,Missed Shot,373,0021501102,Shot Chart Detail,-151,599,0,3,204038,Langston Galloway,0,1,61,0,3PT Field Goal,Back Court(BC),Backcourt,Back Court Shot,1610612752,New York Knicks
+124,Jump Shot,Missed Shot,371,0021501102,Shot Chart Detail,74,33,0,3,201962,Toney Douglas,0,1,8,0,2PT Field Goal,Right Side(R),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+125,Jump Shot,Made Shot,379,0021501102,Shot Chart Detail,189,115,11,4,2546,Carmelo Anthony,50,1,22,1,2PT Field Goal,Right Side(R),Mid-Range,16-24 ft.,1610612752,New York Knicks
+126,Jump Shot,Missed Shot,380,0021501102,Shot Chart Detail,-7,144,11,4,201950,Jrue Holiday,32,1,14,0,2PT Field Goal,Center(C),Mid-Range,8-16 ft.,1610612740,New Orleans Pelicans
+127,Jump Shot,Made Shot,388,0021501102,Shot Chart Detail,-237,13,11,4,201167,Arron Afflalo,18,1,23,1,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612752,New York Knicks
+128,Jump Shot,Made Shot,389,0021501102,Shot Chart Detail,38,252,10,4,202706,Jordan Hamilton,58,1,25,1,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+129,Jump Shot,Missed Shot,390,0021501102,Shot Chart Detail,123,23,10,4,201167,Arron Afflalo,34,1,12,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612752,New York Knicks
+130,Jump Shot,Made Shot,392,0021501102,Shot Chart Detail,61,183,10,4,2546,Carmelo Anthony,23,1,19,1,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612752,New York Knicks
+131,Jump Shot,Made Shot,393,0021501102,Shot Chart Detail,-233,2,9,4,202337,Luke Babbitt,56,1,23,1,3PT Field Goal,Left Side(L),Left Corner 3,24+ ft.,1610612740,New Orleans Pelicans
+132,Jump Shot,Made Shot,395,0021501102,Shot Chart Detail,-158,46,9,4,2546,Carmelo Anthony,28,1,16,1,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612752,New York Knicks
+133,Driving Reverse Layup Shot,Missed Shot,396,0021501102,Shot Chart Detail,-22,13,9,4,201950,Jrue Holiday,17,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+134,Step Back Jump shot,Made Shot,398,0021501102,Shot Chart Detail,-184,26,9,4,2546,Carmelo Anthony,5,1,18,1,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612752,New York Knicks
+135,Jump Shot,Missed Shot,408,0021501102,Shot Chart Detail,87,237,8,4,101181,Jose Calderon,23,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+136,Jump Shot,Missed Shot,410,0021501102,Shot Chart Detail,141,214,8,4,202706,Jordan Hamilton,9,1,25,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+137,Jump Shot,Missed Shot,417,0021501102,Shot Chart Detail,-45,165,7,4,203124,Kyle O'Quinn,34,1,17,0,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612752,New York Knicks
+138,Jump Shot,Missed Shot,419,0021501102,Shot Chart Detail,-7,65,7,4,201950,Jrue Holiday,21,1,6,0,2PT Field Goal,Center(C),In The Paint (Non-RA),Less Than 8 ft.,1610612740,New Orleans Pelicans
+139,Jump Shot,Missed Shot,421,0021501102,Shot Chart Detail,-99,239,7,4,204025,Tim Frazier,17,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+140,Jump Shot,Missed Shot,423,0021501102,Shot Chart Detail,-165,21,6,4,2546,Carmelo Anthony,58,1,16,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612752,New York Knicks
+141,Running Layup Shot,Made Shot,425,0021501102,Shot Chart Detail,4,7,6,4,204025,Tim Frazier,53,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+142,Driving Layup Shot,Missed Shot,430,0021501102,Shot Chart Detail,-19,21,6,4,204038,Langston Galloway,43,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+143,Jump Shot,Made Shot,433,0021501102,Shot Chart Detail,22,120,6,4,201167,Arron Afflalo,36,1,12,1,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612752,New York Knicks
+144,Pullup Jump shot,Made Shot,435,0021501102,Shot Chart Detail,-74,156,6,4,201950,Jrue Holiday,20,1,17,1,2PT Field Goal,Left Side Center(LC),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+145,Jump Shot,Missed Shot,438,0021501102,Shot Chart Detail,37,90,5,4,201582,Alexis Ajinca,43,1,9,0,2PT Field Goal,Center(C),In The Paint (Non-RA),8-16 ft.,1610612740,New Orleans Pelicans
+146,Pullup Jump shot,Made Shot,442,0021501102,Shot Chart Detail,-47,175,5,4,201950,Jrue Holiday,33,1,18,1,2PT Field Goal,Center(C),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+147,Jump Shot,Made Shot,454,0021501102,Shot Chart Detail,-129,214,4,4,101181,Jose Calderon,44,1,24,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+148,Jump Shot,Missed Shot,455,0021501102,Shot Chart Detail,109,224,4,4,202706,Jordan Hamilton,26,1,24,0,3PT Field Goal,Right Side Center(RC),Above the Break 3,24+ ft.,1610612740,New Orleans Pelicans
+149,Running Layup Shot,Missed Shot,459,0021501102,Shot Chart Detail,-6,8,3,4,204025,Tim Frazier,59,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+150,Jump Shot,Missed Shot,461,0021501102,Shot Chart Detail,141,38,3,4,2546,Carmelo Anthony,44,1,14,0,2PT Field Goal,Right Side(R),Mid-Range,8-16 ft.,1610612752,New York Knicks
+151,Jump Shot,Missed Shot,463,0021501102,Shot Chart Detail,-120,223,3,4,204001,Kristaps Porzingis,39,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+152,Tip Layup Shot,Made Shot,464,0021501102,Shot Chart Detail,-1,3,3,4,201577,Robin Lopez,37,1,0,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+153,Finger Roll Layup Shot,Missed Shot,466,0021501102,Shot Chart Detail,9,16,3,4,201582,Alexis Ajinca,21,1,1,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+154,Jump Shot,Made Shot,468,0021501102,Shot Chart Detail,-135,223,3,4,101181,Jose Calderon,5,1,26,1,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+155,Jump Shot,Missed Shot,486,0021501102,Shot Chart Detail,-179,116,2,4,201167,Arron Afflalo,20,1,21,0,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612752,New York Knicks
+156,Driving Layup Shot,Made Shot,488,0021501102,Shot Chart Detail,12,11,2,4,201950,Jrue Holiday,4,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612740,New Orleans Pelicans
+157,Jump Shot,Missed Shot,492,0021501102,Shot Chart Detail,155,149,1,4,101181,Jose Calderon,36,1,21,0,2PT Field Goal,Right Side Center(RC),Mid-Range,16-24 ft.,1610612752,New York Knicks
+158,Turnaround Fadeaway shot,Made Shot,494,0021501102,Shot Chart Detail,-171,18,1,4,201950,Jrue Holiday,19,1,17,1,2PT Field Goal,Left Side(L),Mid-Range,16-24 ft.,1610612740,New Orleans Pelicans
+159,Jump Shot,Missed Shot,516,0021501102,Shot Chart Detail,-181,188,0,4,2546,Carmelo Anthony,48,1,26,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+160,Jump Shot,Missed Shot,553,0021501102,Shot Chart Detail,42,247,0,4,2546,Carmelo Anthony,30,1,25,0,3PT Field Goal,Center(C),Above the Break 3,24+ ft.,1610612752,New York Knicks
+161,Layup Shot,Missed Shot,560,0021501102,Shot Chart Detail,-17,23,0,4,2756,Sasha Vujacic,22,1,2,0,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
+162,Jump Shot,Missed Shot,575,0021501102,Shot Chart Detail,-191,175,0,4,2756,Sasha Vujacic,14,1,25,0,3PT Field Goal,Left Side Center(LC),Above the Break 3,24+ ft.,1610612752,New York Knicks
+163,Driving Finger Roll Layup Shot,Made Shot,577,0021501102,Shot Chart Detail,-6,13,0,4,2756,Sasha Vujacic,9,1,1,1,2PT Field Goal,Center(C),Restricted Area,Less Than 8 ft.,1610612752,New York Knicks
