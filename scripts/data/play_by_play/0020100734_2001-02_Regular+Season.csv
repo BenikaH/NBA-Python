@@ -1,0 +1,421 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020100734,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:12 PM
+1,0,10,1,0020100734,Jump Ball James vs. Battie: Tip to Williams,,12:00,1,4,5,5,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,,,,10:24 PM
+2,1,2,2,0020100734,,,11:47,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Battie 18' Jump Shot,10:24 PM
+3,0,4,3,0020100734,Lewis REBOUND (Off:0 Def:1),,11:44,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:24 PM
+4,3,2,4,0020100734,MISS James 4' Hook Shot,,11:27,1,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:25 PM
+5,0,4,5,0020100734,James REBOUND (Off:1 Def:0),,11:25,1,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:25 PM
+6,2,5,6,0020100734,James Lost Ball Turnover (P1.T1),,11:24,1,4,5,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Pierce STEAL (1 STL),10:25 PM
+7,1,5,7,0020100734,Payton STEAL (1 STL),,11:12,1,5,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Walker Bad Pass Turnover (P1.T1),10:25 PM
+8,1,2,8,0020100734,MISS Barry 25' 3PT Jump Shot,,10:59,1,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:25 PM
+9,0,4,9,0020100734,Barry REBOUND (Off:1 Def:0),,10:58,1,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:25 PM
+10,1,2,10,0020100734,MISS Payton 25' 3PT Jump Shot,,10:53,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:25 PM
+11,0,4,11,0020100734,,,10:51,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:1),10:25 PM
+12,2,6,12,0020100734,James S.FOUL (P1.T1),,10:45,1,4,0,1,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:26 PM
+13,11,3,13,0020100734,,,10:45,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker Free Throw 1 of 2,10:26 PM
+14,1,4,14,0020100734,,,10:45,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,10:26 PM
+15,12,3,15,0020100734,,,10:45,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,1 - 0,-1,Walker Free Throw 2 of 2 (1 PTS),10:26 PM
+16,5,2,16,0020100734,MISS Radmanovic 2' Layup,,10:29,1,4,0,5,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,,,Battie BLOCK (1 BLK),10:26 PM
+17,0,4,17,0020100734,,,10:27,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:2),10:26 PM
+18,17,6,19,0020100734,SUPERSONICS T.Foul (Def. 3 Sec James ),,10:12,1,4,0,1,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:27 PM
+19,16,3,20,0020100734,,,10:12,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,2 - 0,-2,Pierce Free Throw Technical (1 PTS),10:27 PM
+20,1,2,21,0020100734,,,10:04,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 25' 3PT Jump Shot,10:28 PM
+21,0,4,22,0020100734,Lewis REBOUND (Off:0 Def:2),,10:02,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:28 PM
+22,1,1,23,0020100734,Payton 15' Jump Shot (2 PTS),,9:53,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,2 - 2,TIE,,10:28 PM
+23,1,5,24,0020100734,Barry STEAL (1 STL),,9:35,1,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Pierce Bad Pass Turnover (P1.T2),10:28 PM
+24,1,2,25,0020100734,MISS Lewis 24' 3PT Jump Shot,,9:21,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:28 PM
+25,0,4,26,0020100734,James REBOUND (Off:2 Def:0),,9:18,1,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:28 PM
+26,8,1,27,0020100734,James  Slam Dunk (2 PTS),,9:17,1,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,2 - 4,2,,10:28 PM
+27,5,2,28,0020100734,James BLOCK (1 BLK),,8:52,1,5,0,4,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Williams  Layup,10:29 PM
+28,0,4,29,0020100734,,,8:52,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:1 Def:0),10:29 PM
+29,2,6,30,0020100734,Radmanovic S.FOUL (P1.T2),,8:52,1,4,0,1,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:29 PM
+30,11,3,31,0020100734,,,8:52,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,3 - 4,1,Battie Free Throw 1 of 2 (1 PTS),10:29 PM
+31,12,3,33,0020100734,,,8:52,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,4 - 4,TIE,Battie Free Throw 2 of 2 (2 PTS),10:29 PM
+32,1,6,34,0020100734,,,8:41,1,5,0,1,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce P.FOUL (P1.T1),10:30 PM
+33,1,2,35,0020100734,MISS Radmanovic 4' Jump Shot,,8:32,1,4,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:30 PM
+34,0,4,36,0020100734,,,8:31,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:1 Def:1),10:30 PM
+35,1,5,37,0020100734,Radmanovic STEAL (1 STL),,8:28,1,5,4,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Battie Bad Pass Turnover (P1.T3),10:30 PM
+36,1,1,38,0020100734,Lewis 11' Jump Shot (2 PTS) (Barry 1 AST),,8:24,1,4,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,4 - 6,2,,10:30 PM
+37,1,1,39,0020100734,,,8:02,1,5,5,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,6 - 6,TIE,Anderson 15' Jump Shot (2 PTS) (Battie 1 AST),10:31 PM
+38,17,6,40,0020100734,,,7:47,1,5,0,1,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Celtics T.Foul (Def. 3 Sec Battie ),10:31 PM
+39,16,3,41,0020100734,Barry Free Throw Technical (1 PTS),,7:47,1,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,6 - 7,1,,10:31 PM
+40,1,1,42,0020100734,Lewis 15' Jump Shot (4 PTS) (Radmanovic 1 AST),,7:38,1,4,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,6 - 9,3,,10:32 PM
+41,1,1,43,0020100734,,,7:26,1,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,9 - 9,TIE,Pierce 26' 3PT Jump Shot (4 PTS) (Anderson 1 AST),10:32 PM
+42,1,1,44,0020100734,Barry 21' Jump Shot (3 PTS) (Radmanovic 2 AST),,7:07,1,4,4,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,9 - 11,2,,10:32 PM
+43,5,2,45,0020100734,,,6:57,1,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Williams 2' Layup,10:32 PM
+44,0,4,46,0020100734,,,6:55,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:1 Def:0),10:32 PM
+45,5,2,47,0020100734,James BLOCK (2 BLK),,6:54,1,5,0,4,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Pierce  Layup,10:32 PM
+46,0,4,48,0020100734,SUPERSONICS Rebound,,6:54,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:32 PM
+47,46,2,50,0020100734,MISS Payton 3' Running Jump Shot,,6:38,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:33 PM
+48,0,4,51,0020100734,James REBOUND (Off:3 Def:0),,6:36,1,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:33 PM
+49,1,6,52,0020100734,,,6:36,1,5,0,1,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie P.FOUL (P1.T2),10:33 PM
+50,44,1,54,0020100734,Barry  Reverse Layup (5 PTS) (Radmanovic 3 AST),,6:32,1,4,4,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,9 - 13,4,,10:33 PM
+51,1,6,55,0020100734,Payton P.FOUL (P1.T3),,6:21,1,4,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:33 PM
+52,1,1,57,0020100734,,,6:13,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,11 - 13,2,Pierce 19' Jump Shot (6 PTS),10:34 PM
+53,1,2,58,0020100734,MISS Payton 12' Jump Shot,,5:50,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:34 PM
+54,0,4,60,0020100734,Radmanovic REBOUND (Off:1 Def:0),,5:48,1,4,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:34 PM
+55,4,2,59,0020100734,MISS Radmanovic  Tip Shot,,5:48,1,4,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:34 PM
+56,0,4,61,0020100734,,,5:46,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:3),10:34 PM
+57,1,2,62,0020100734,,,5:37,1,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson 6' Jump Shot,10:34 PM
+58,0,4,64,0020100734,,,5:35,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:2 Def:1),10:34 PM
+59,64,1,63,0020100734,,,5:35,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,13 - 13,TIE,Battie  Follow Up Dunk (4 PTS),10:34 PM
+60,1,1,65,0020100734,James 14' Jump Shot (4 PTS) (Payton 1 AST),,5:19,1,4,4,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,13 - 15,2,,10:35 PM
+61,1,1,66,0020100734,,,4:56,1,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,16 - 15,-1,Walker 25' 3PT Jump Shot (4 PTS) (Anderson 2 AST),10:35 PM
+62,1,2,67,0020100734,MISS Radmanovic 6' Jump Shot,,4:40,1,4,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:35 PM
+63,0,4,68,0020100734,,,4:39,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:2 Def:2),10:35 PM
+64,1,1,69,0020100734,,,4:22,1,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,19 - 15,-4,Pierce 26' 3PT Jump Shot (9 PTS) (Anderson 3 AST),10:36 PM
+65,42,1,70,0020100734,Payton  Driving Layup (4 PTS),,4:07,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,19 - 17,-2,,10:36 PM
+66,1,2,71,0020100734,,,3:47,1,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson 21' Jump Shot,10:36 PM
+67,0,4,72,0020100734,Barry REBOUND (Off:1 Def:1),,3:44,1,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:36 PM
+68,8,1,73,0020100734,Lewis  Slam Dunk (6 PTS) (Barry 2 AST),,3:39,1,4,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,19 - 19,TIE,,10:36 PM
+69,1,2,74,0020100734,James BLOCK (3 BLK),,3:16,1,5,0,4,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Anderson 4' Jump Shot,10:37 PM
+70,0,4,75,0020100734,Barry REBOUND (Off:1 Def:2),,3:14,1,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:37 PM
+71,42,1,76,0020100734,Barry  Driving Layup (7 PTS),,3:10,1,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,19 - 21,2,,10:37 PM
+72,1,5,77,0020100734,Radmanovic STEAL (2 STL),,2:55,1,5,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Walker Bad Pass Turnover (P2.T4),10:37 PM
+73,1,2,78,0020100734,MISS Barry 26' 3PT Jump Shot,,2:44,1,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:37 PM
+74,0,4,79,0020100734,,,2:42,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:2 Def:3),10:37 PM
+75,1,9,81,0020100734,,,2:34,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.1 Short 0),10:38 PM
+76,0,8,83,0020100734,,,2:34,1,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Potapenko FOR Battie,10:40 PM
+77,0,8,84,0020100734,,,2:34,1,5,5,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Strickland FOR Anderson,10:40 PM
+78,0,8,85,0020100734,,,2:34,1,5,5,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: McCarty FOR Williams,10:40 PM
+79,0,8,86,0020100734,SUB: Drobnjak FOR Radmanovic,,2:34,1,4,4,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:40 PM
+80,0,8,87,0020100734,SUB: Mason FOR James,,2:34,1,4,4,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:40 PM
+81,1,2,88,0020100734,,,2:23,1,5,0,0,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Strickland 17' Jump Shot,10:40 PM
+82,0,4,89,0020100734,Barry REBOUND (Off:1 Def:3),,2:22,1,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:40 PM
+83,1,6,90,0020100734,,,2:22,1,5,0,1,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty P.FOUL (P1.T3),10:40 PM
+84,1,9,91,0020100734,SUPERSONICS Timeout: Regular (Full 1 Short 0),,2:22,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:40 PM
+85,1,2,93,0020100734,MISS Lewis 17' Jump Shot,,2:10,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:43 PM
+86,0,4,94,0020100734,,,2:09,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:0 Def:1),10:43 PM
+87,1,2,95,0020100734,,,1:53,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 26' 3PT Jump Shot,10:43 PM
+88,0,4,96,0020100734,SUPERSONICS Rebound,,1:52,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:43 PM
+89,0,8,97,0020100734,SUB: Watson FOR Barry,,1:52,1,4,4,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:43 PM
+90,0,8,98,0020100734,,,1:52,1,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Williams FOR Walker,10:43 PM
+91,1,2,99,0020100734,MISS Drobnjak 16' Jump Shot,,1:38,1,4,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:44 PM
+92,0,4,100,0020100734,,,1:35,1,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:1),10:44 PM
+93,47,1,101,0020100734,,,1:30,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,21 - 21,TIE,McCarty 4' Turnaround Jump Shot (2 PTS),10:44 PM
+94,5,2,102,0020100734,MISS Payton  Layup,,1:11,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:44 PM
+95,0,4,104,0020100734,Drobnjak REBOUND (Off:1 Def:0),,1:10,1,4,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:44 PM
+96,4,1,103,0020100734,Drobnjak  Tip Shot (2 PTS),,1:10,1,4,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,21 - 23,2,,10:44 PM
+97,2,9,105,0020100734,,,0:59,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Short (Reg.1 Short 1),10:44 PM
+98,0,8,106,0020100734,,,0:59,1,5,5,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Battie FOR Potapenko,10:45 PM
+99,1,5,107,0020100734,Payton STEAL (2 STL),,0:56,1,5,4,0,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Strickland Bad Pass Turnover (P1.T5),10:45 PM
+100,1,1,109,0020100734,Drobnjak 15' Jump Shot (4 PTS) (Payton 2 AST),,0:41,1,4,4,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,21 - 25,4,,10:46 PM
+101,8,1,110,0020100734,,,0:28,1,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,23 - 25,2,Battie  Slam Dunk (6 PTS) (Strickland 1 AST),10:46 PM
+102,1,6,111,0020100734,,,0:12,1,5,0,1,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Strickland P.FOUL (P1.T4),10:46 PM
+103,1,2,112,0020100734,MISS Mason 15' Jump Shot,,0:01,1,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:47 PM
+104,0,4,113,0020100734,,,0:00,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:1 Def:1),10:47 PM
+105,0,13,114,0020100734,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 25,2,,10:47 PM
+106,0,12,116,0020100734,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 25,2,,10:49 PM
+107,1,2,117,0020100734,MISS Payton 16' Jump Shot,,11:48,2,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:50 PM
+108,0,4,118,0020100734,,,11:46,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:2),10:50 PM
+109,1,5,119,0020100734,,,11:41,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker Bad Pass Turnover (P3.T6),10:51 PM
+110,17,6,120,0020100734,,,11:23,2,5,0,1,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Celtics T.Foul (Def. 3 Sec Strickland ),10:51 PM
+111,16,3,121,0020100734,Payton Free Throw Technical (5 PTS),,11:23,2,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,23 - 26,3,,10:51 PM
+112,1,2,123,0020100734,MISS Lewis 11' Jump Shot,,11:12,2,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:52 PM
+113,0,4,124,0020100734,Watson REBOUND (Off:1 Def:0),,11:09,2,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:52 PM
+114,1,2,125,0020100734,MISS Payton 25' 3PT Jump Shot,,11:03,2,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:52 PM
+115,0,4,126,0020100734,,,11:01,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:3),10:52 PM
+116,5,2,128,0020100734,,,10:50,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker  Layup,10:52 PM
+117,0,4,129,0020100734,Drobnjak REBOUND (Off:1 Def:1),,10:49,2,4,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:52 PM
+118,1,1,130,0020100734,Mason 20' Jump Shot (2 PTS) (Drobnjak 1 AST),,10:28,2,4,4,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,23 - 28,5,,10:52 PM
+119,1,2,131,0020100734,,,10:00,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 24' 3PT Jump Shot,10:53 PM
+120,0,4,132,0020100734,SUPERSONICS Rebound,,9:59,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:53 PM
+121,0,8,133,0020100734,SUB: Barry FOR Payton,,9:59,2,4,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:53 PM
+122,0,8,134,0020100734,,,9:59,2,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Potapenko FOR Battie,10:53 PM
+123,0,8,135,0020100734,SUB: Radmanovic FOR Lewis,,9:59,2,4,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:53 PM
+124,1,1,136,0020100734,Mason 21' Jump Shot (4 PTS) (Radmanovic 4 AST),,9:42,2,4,4,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,23 - 30,7,,10:53 PM
+125,1,2,137,0020100734,,,9:28,2,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 25' 3PT Jump Shot,10:54 PM
+126,0,4,138,0020100734,Drobnjak REBOUND (Off:1 Def:2),,9:25,2,4,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:54 PM
+127,1,6,139,0020100734,,,9:18,2,5,0,1,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Strickland P.FOUL (P2.T1),10:54 PM
+128,0,8,140,0020100734,,,9:18,2,5,5,0,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Anderson FOR Strickland,10:54 PM
+129,1,1,141,0020100734,Barry 26' 3PT Jump Shot (10 PTS) (Radmanovic 5 AST),,9:06,2,4,4,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,23 - 33,10,,10:55 PM
+130,5,2,144,0020100734,,,8:44,2,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Potapenko  Layup,10:55 PM
+131,0,4,145,0020100734,,,8:44,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,10:55 PM
+132,3,6,146,0020100734,Radmanovic L.B.FOUL (P2.T1),,8:44,2,4,0,1,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:55 PM
+133,4,9,148,0020100734,,,8:44,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:57 PM
+134,0,8,149,0020100734,,,8:44,2,5,5,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Pierce FOR Williams,10:57 PM
+135,1,2,151,0020100734,,,8:31,2,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson 15' Jump Shot,10:58 PM
+136,0,4,152,0020100734,SUPERSONICS Rebound,,8:29,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:58 PM
+137,3,6,153,0020100734,,,8:29,2,5,0,1,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko L.B.FOUL (P1.T2),10:58 PM
+138,1,2,154,0020100734,MISS Drobnjak 19' Jump Shot,,8:13,2,4,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:58 PM
+139,0,4,155,0020100734,,,8:12,2,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:0 Def:2),10:58 PM
+140,1,1,156,0020100734,,,8:02,2,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,26 - 33,7,McCarty 24' 3PT Jump Shot (5 PTS) (Pierce 1 AST),10:58 PM
+141,1,2,157,0020100734,MISS Mason 21' Jump Shot,,7:52,2,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:59 PM
+142,0,4,158,0020100734,,,7:50,2,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson REBOUND (Off:0 Def:1),10:59 PM
+143,1,2,159,0020100734,,,7:42,2,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Potapenko 13' Jump Shot,10:59 PM
+144,0,4,160,0020100734,Mason REBOUND (Off:0 Def:1),,7:41,2,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:59 PM
+145,1,2,161,0020100734,MISS Radmanovic 26' 3PT Jump Shot,,7:26,2,4,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:59 PM
+146,0,4,162,0020100734,,,7:24,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:1 Def:2),10:59 PM
+147,1,2,163,0020100734,,,7:17,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 20' Jump Shot,10:59 PM
+148,0,4,164,0020100734,,,7:16,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:1 Def:3),10:59 PM
+149,1,2,165,0020100734,,,7:10,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 16' Jump Shot,10:59 PM
+150,0,4,166,0020100734,Radmanovic REBOUND (Off:1 Def:1),,7:08,2,4,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:59 PM
+151,46,1,167,0020100734,Barry 10' Running Jump Shot (12 PTS) (Mason 1 AST),,6:49,2,4,4,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,26 - 35,9,,11:00 PM
+152,1,1,168,0020100734,,,6:33,2,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,28 - 35,7,Pierce 10' Jump Shot (11 PTS) (Walker 1 AST),11:00 PM
+153,5,1,169,0020100734,Drobnjak  Layup (6 PTS) (Mason 2 AST),,6:15,2,4,4,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,28 - 37,9,,11:00 PM
+154,1,1,170,0020100734,,,6:01,2,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,30 - 37,7,Pierce 12' Jump Shot (13 PTS) (Walker 2 AST),11:00 PM
+155,5,1,171,0020100734,Radmanovic  Layup (2 PTS) (Watson 1 AST),,5:43,2,4,4,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,30 - 39,9,,11:01 PM
+156,42,1,172,0020100734,,,5:27,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,32 - 39,7,Walker  Driving Layup (6 PTS),11:01 PM
+157,1,1,173,0020100734,Mason 19' Jump Shot (6 PTS),,5:11,2,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,32 - 41,9,,11:01 PM
+158,2,5,174,0020100734,Watson STEAL (1 STL),,4:55,2,5,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Walker Lost Ball Turnover (P4.T7),11:02 PM
+159,5,1,175,0020100734,Drobnjak  Layup (8 PTS) (Watson 2 AST),,4:49,2,4,4,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,32 - 43,11,,11:02 PM
+160,2,6,176,0020100734,Radmanovic S.FOUL (P3.T2),,4:25,2,4,0,1,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:02 PM
+161,1,9,177,0020100734,SUPERSONICS Timeout: Regular (Full 2 Short 0),,4:25,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:02 PM
+162,0,8,179,0020100734,,,4:25,2,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Williams FOR Walker,11:04 PM
+163,0,8,180,0020100734,SUB: Lewis FOR Radmanovic,,4:25,2,4,4,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:05 PM
+164,11,3,181,0020100734,,,4:25,2,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,33 - 43,10,Anderson Free Throw 1 of 2 (3 PTS),11:05 PM
+165,12,3,182,0020100734,,,4:25,2,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,34 - 43,9,Anderson Free Throw 2 of 2 (4 PTS),11:05 PM
+166,1,2,183,0020100734,MISS Lewis 6' Jump Shot,,4:12,2,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:05 PM
+167,0,4,184,0020100734,,,4:11,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,11:05 PM
+168,0,8,185,0020100734,SUB: Payton FOR Watson,,4:11,2,4,4,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:06 PM
+169,0,8,186,0020100734,,,4:11,2,5,5,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Strickland FOR Anderson,11:06 PM
+170,4,6,187,0020100734,,,3:48,2,5,0,1,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce OFF.Foul (P2),11:06 PM
+171,5,5,188,0020100734,,,3:48,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce Foul Turnover (P2.T8),11:06 PM
+172,0,8,189,0020100734,SUB: James FOR Drobnjak,,3:48,2,4,4,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:06 PM
+173,1,2,191,0020100734,MISS Barry 27' 3PT Jump Shot,,3:27,2,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:07 PM
+174,0,4,192,0020100734,James REBOUND (Off:4 Def:0),,3:25,2,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:07 PM
+175,1,1,193,0020100734,James 9' Jump Shot (6 PTS),,3:21,2,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,34 - 45,11,,11:07 PM
+176,5,1,194,0020100734,,,2:58,2,5,5,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,36 - 45,9,Potapenko  Layup (2 PTS) (Strickland 2 AST),11:07 PM
+177,2,6,195,0020100734,Lewis S.FOUL (P1.T3),,2:58,2,4,0,1,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:07 PM
+178,1,9,196,0020100734,,,2:58,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.2 Short 1),11:07 PM
+179,10,3,198,0020100734,,,2:58,2,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,37 - 45,8,Potapenko Free Throw 1 of 1 (3 PTS),11:10 PM
+180,14,5,199,0020100734,Payton Illegal Pick Turnover (P1.T2),,2:42,2,4,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:10 PM
+181,1,1,200,0020100734,,,2:33,2,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,40 - 45,5,McCarty 26' 3PT Jump Shot (8 PTS) (Williams 1 AST),11:11 PM
+182,2,6,201,0020100734,,,2:21,2,5,0,1,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty S.FOUL (P2.T3),11:11 PM
+183,11,3,202,0020100734,Barry Free Throw 1 of 2 (13 PTS),,2:21,2,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,40 - 46,6,,11:11 PM
+184,12,3,204,0020100734,Barry Free Throw 2 of 2 (14 PTS),,2:21,2,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,40 - 47,7,,11:11 PM
+185,44,2,206,0020100734,,,2:09,2,5,0,0,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Strickland 4' Reverse Layup,11:12 PM
+186,0,4,207,0020100734,James REBOUND (Off:4 Def:1),,2:08,2,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:12 PM
+187,1,1,208,0020100734,Lewis 13' Jump Shot (8 PTS) (Barry 3 AST),,1:54,2,4,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,40 - 49,9,,11:12 PM
+188,1,6,209,0020100734,Barry P.FOUL (P1.T4),,1:38,2,4,0,1,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:12 PM
+189,2,5,210,0020100734,Mason STEAL (1 STL),,1:32,2,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Pierce Lost Ball Turnover (P3.T9),11:13 PM
+190,1,5,245,0020100734,Payton Bad Pass Turnover (P2.T3),,1:24,2,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:13 PM
+191,3,6,216,0020100734,Payton L.B.FOUL (P2.PN),,1:24,2,4,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:13 PM
+192,11,3,212,0020100734,,,1:24,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,41 - 49,8,Pierce Free Throw 1 of 2 (14 PTS),11:13 PM
+193,12,3,213,0020100734,,,1:24,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,42 - 49,7,Pierce Free Throw 2 of 2 (15 PTS),11:14 PM
+194,5,1,214,0020100734,James  Layup (8 PTS) (Payton 3 AST),,1:06,2,4,4,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,42 - 51,9,,11:14 PM
+195,2,6,215,0020100734,,,1:06,2,5,0,1,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams S.FOUL (P1.T4),11:14 PM
+196,0,8,219,0020100734,SUB: Watson FOR Payton,,1:06,2,4,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:15 PM
+197,10,3,220,0020100734,MISS James Free Throw 1 of 1,,1:06,2,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:15 PM
+198,1,4,222,0020100734,,,1:06,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:4),11:15 PM
+199,45,1,226,0020100734,,,1:06,2,5,5,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,45 - 51,6,Williams  3PT Jump Shot (3 PTS) (Potapenko 1 AST),11:15 PM
+200,5,1,225,0020100734,Watson  Layup (2 PTS) (Barry 4 AST),,0:42,2,4,4,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,45 - 53,8,,11:15 PM
+201,2,6,227,0020100734,Mason S.FOUL (P1.PN),,0:33,2,4,0,1,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:16 PM
+202,11,3,228,0020100734,,,0:33,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,46 - 53,7,Pierce Free Throw 1 of 2 (16 PTS),11:16 PM
+203,12,3,229,0020100734,,,0:33,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,47 - 53,6,Pierce Free Throw 2 of 2 (17 PTS),11:16 PM
+204,5,1,230,0020100734,Mason  Layup (8 PTS) (Barry 5 AST),,0:32,2,4,4,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,47 - 55,8,,11:16 PM
+205,2,7,232,0020100734,,,0:32,2,5,0,1,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Strickland Violation:Defensive Goaltending,11:17 PM
+206,8,5,234,0020100734,,,0:16,2,5,0,1,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko 3 Second Violation Turnover (P1.T10),11:17 PM
+207,2,9,235,0020100734,SUPERSONICS Timeout: Short (Full 2 Short 1),,0:16,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:17 PM
+208,0,8,237,0020100734,SUB: Payton FOR Watson,,0:16,2,4,4,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:18 PM
+209,0,8,239,0020100734,,,0:13,2,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Palacio FOR Pierce,11:18 PM
+210,1,2,240,0020100734,MISS Lewis 21' Jump Shot,,0:01,2,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:18 PM
+211,0,4,241,0020100734,SUPERSONICS Rebound,,0:00,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:18 PM
+212,0,13,242,0020100734,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,47 - 55,8,,11:18 PM
+213,0,12,246,0020100734,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,47 - 55,8,,11:34 PM
+214,1,2,247,0020100734,MISS Payton 27' 3PT Jump Shot,,11:37,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:36 PM
+215,0,4,248,0020100734,,,11:35,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:1 Def:4),11:36 PM
+216,1,6,249,0020100734,Radmanovic P.FOUL (P4.T1),,11:24,3,4,0,1,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:36 PM
+217,1,6,250,0020100734,Lewis P.FOUL (P2.T2),,11:15,3,4,0,1,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:37 PM
+218,0,8,251,0020100734,SUB: Mason FOR Radmanovic,,11:15,3,4,4,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:37 PM
+219,1,2,252,0020100734,,,11:01,3,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson 4' Jump Shot,11:37 PM
+220,0,4,253,0020100734,Barry REBOUND (Off:1 Def:4),,10:58,3,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:37 PM
+221,47,1,254,0020100734,Payton 11' Turnaround Jump Shot (7 PTS),,10:37,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,47 - 57,10,,11:38 PM
+222,1,2,255,0020100734,,,10:27,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 28' 3PT Jump Shot,11:38 PM
+223,0,4,256,0020100734,Payton REBOUND (Off:0 Def:1),,10:25,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:38 PM
+224,1,2,257,0020100734,MISS Payton 11' Jump Shot,,10:10,3,4,0,5,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,,,Pierce BLOCK (1 BLK),11:38 PM
+225,0,4,258,0020100734,,,10:07,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:1 Def:3),11:38 PM
+226,5,1,259,0020100734,,,10:00,3,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,49 - 57,8,Battie 2' Layup (8 PTS) (Williams 2 AST),11:38 PM
+227,1,1,260,0020100734,Payton 20' Jump Shot (9 PTS) (Mason 3 AST),,9:40,3,4,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,49 - 59,10,,11:39 PM
+228,1,2,261,0020100734,James BLOCK (4 BLK),,9:26,3,5,0,4,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Anderson 4' Jump Shot,11:39 PM
+229,0,4,262,0020100734,,,9:23,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:2 Def:3),11:39 PM
+230,1,2,263,0020100734,,,9:18,3,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Williams 25' 3PT Jump Shot,11:39 PM
+231,0,4,264,0020100734,Mason REBOUND (Off:0 Def:2),,9:17,3,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:39 PM
+232,1,1,265,0020100734,Lewis 26' 3PT Jump Shot (11 PTS) (Payton 4 AST),,9:10,3,4,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,49 - 62,13,,11:39 PM
+233,1,9,266,0020100734,,,9:03,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.3 Short 1),11:39 PM
+234,1,2,268,0020100734,,,8:50,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 26' 3PT Jump Shot,11:42 PM
+235,0,4,269,0020100734,SUPERSONICS Rebound,,8:49,3,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:42 PM
+236,8,5,270,0020100734,James 3 Second Violation Turnover (P2.T4),,8:38,3,4,0,1,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:42 PM
+237,1,2,271,0020100734,,,8:28,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 26' 3PT Jump Shot,11:42 PM
+238,0,4,272,0020100734,James REBOUND (Off:4 Def:2),,8:25,3,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:42 PM
+239,1,2,273,0020100734,MISS Payton  3PT Jump Shot,,8:19,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:43 PM
+240,0,4,274,0020100734,,,8:16,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:2 Def:4),11:43 PM
+241,5,2,275,0020100734,,,8:12,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 3' Layup,11:43 PM
+242,0,4,276,0020100734,Lewis REBOUND (Off:0 Def:3),,8:10,3,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:43 PM
+243,1,2,277,0020100734,MISS James 4' Jump Shot,,7:56,3,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:43 PM
+244,0,4,278,0020100734,,,7:54,3,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:2 Def:4),11:43 PM
+245,1,2,279,0020100734,,,7:45,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 25' 3PT Jump Shot,11:43 PM
+246,0,4,280,0020100734,James REBOUND (Off:4 Def:3),,7:43,3,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:43 PM
+247,4,6,281,0020100734,James OFF.Foul (P2),,7:42,3,4,0,1,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:43 PM
+248,5,5,282,0020100734,James Foul Turnover (P3.T5),,7:42,3,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:43 PM
+249,5,2,284,0020100734,,,7:28,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce  Layup,11:44 PM
+250,0,4,285,0020100734,Payton REBOUND (Off:0 Def:2),,7:26,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:44 PM
+251,42,1,286,0020100734,Payton  Driving Layup (11 PTS),,7:24,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,49 - 64,15,,11:44 PM
+252,1,5,287,0020100734,Barry STEAL (2 STL),,7:02,3,5,4,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Anderson Bad Pass Turnover (P1.T11),11:44 PM
+253,8,1,288,0020100734,Mason  Slam Dunk (10 PTS) (Barry 6 AST),,6:58,3,4,4,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,49 - 66,17,,11:44 PM
+254,2,9,289,0020100734,,,6:49,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Short (Reg.3 Short 2),11:45 PM
+255,0,8,291,0020100734,,,6:49,3,5,5,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Strickland FOR Williams,11:45 PM
+256,41,2,293,0020100734,,,6:40,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 4' Running Layup,11:46 PM
+257,0,4,294,0020100734,James REBOUND (Off:4 Def:4),,6:36,3,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:46 PM
+258,1,2,296,0020100734,MISS Lewis 17' Jump Shot,,6:21,3,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:46 PM
+259,0,4,297,0020100734,,,6:20,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:1 Def:5),11:46 PM
+260,4,6,298,0020100734,,,6:14,3,5,0,1,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker OFF.Foul (P1),11:46 PM
+261,5,5,299,0020100734,,,6:14,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker Foul Turnover (P5.T12),11:46 PM
+262,4,6,300,0020100734,James OFF.Foul (P3),,6:03,3,4,0,1,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:47 PM
+263,5,5,301,0020100734,James Foul Turnover (P4.T6),,6:03,3,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:47 PM
+264,1,2,303,0020100734,,,5:40,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 4' Jump Shot,11:47 PM
+265,0,4,304,0020100734,Payton REBOUND (Off:0 Def:3),,5:36,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:47 PM
+266,5,2,305,0020100734,MISS Lewis 3' Layup,,5:34,3,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:47 PM
+267,0,4,306,0020100734,,,5:32,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:2 Def:5),11:47 PM
+268,1,2,307,0020100734,,,5:28,3,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Battie 15' Jump Shot,11:47 PM
+269,0,4,308,0020100734,Barry REBOUND (Off:1 Def:5),,5:26,3,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:47 PM
+270,11,6,310,0020100734,Lewis T.FOUL (P2.T2),,5:26,3,4,0,1,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:48 PM
+271,4,11,316,0020100734,Lewis Ejection:Other,,5:26,3,4,0,1,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:48 PM
+272,16,3,311,0020100734,,,5:26,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,50 - 66,16,Pierce Free Throw Technical (18 PTS),11:48 PM
+273,1,9,314,0020100734,SUPERSONICS Timeout: Regular (Full 3 Short 1),,5:26,3,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:48 PM
+274,0,8,317,0020100734,,,5:26,3,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Potapenko FOR Battie,11:50 PM
+275,0,8,352,0020100734,SUB: Radmanovic FOR Lewis,,5:26,3,4,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:50 PM
+276,1,2,319,0020100734,MISS Payton 4' Jump Shot,,5:06,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:51 PM
+277,0,4,321,0020100734,Mason REBOUND (Off:1 Def:2),,5:04,3,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:51 PM
+278,4,2,320,0020100734,MISS Mason  Tip Shot,,5:04,3,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:51 PM
+279,0,4,322,0020100734,,,5:03,3,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko REBOUND (Off:0 Def:1),11:51 PM
+280,4,6,323,0020100734,,,5:00,3,5,0,1,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker OFF.Foul (P2),11:51 PM
+281,5,5,324,0020100734,,,5:00,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker Foul Turnover (P6.T13),11:51 PM
+282,3,2,325,0020100734,MISS James 3' Hook Shot,,4:52,3,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:51 PM
+283,0,4,326,0020100734,,,4:50,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:1 Def:6),11:51 PM
+284,5,7,327,0020100734,Payton Violation:Kicked Ball,,4:47,3,4,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:51 PM
+285,5,1,328,0020100734,,,4:41,3,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,52 - 66,14,Pierce  Layup (20 PTS) (Walker 3 AST),11:52 PM
+286,1,1,329,0020100734,Payton 26' 3PT Jump Shot (14 PTS) (Barry 7 AST),,4:16,3,4,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,52 - 69,17,,11:52 PM
+287,1,2,330,0020100734,,,3:56,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 26' 3PT Jump Shot,11:53 PM
+288,0,4,331,0020100734,Mason REBOUND (Off:1 Def:3),,3:54,3,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:53 PM
+289,42,1,332,0020100734,Payton  Driving Layup (16 PTS) (Barry 8 AST),,3:40,3,4,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,52 - 71,19,,11:53 PM
+290,5,2,333,0020100734,Payton BLOCK (1 BLK),,3:21,3,5,0,4,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Walker 2' Layup,11:53 PM
+291,0,4,334,0020100734,Payton REBOUND (Off:0 Def:4),,3:19,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:53 PM
+292,2,5,335,0020100734,Radmanovic Lost Ball Turnover (P1.T7),,3:15,3,4,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:53 PM
+293,0,8,336,0020100734,,,3:15,3,5,5,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: McCarty FOR Anderson,11:53 PM
+294,1,2,337,0020100734,,,2:57,3,5,0,0,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Strickland 25' 3PT Jump Shot,11:54 PM
+295,0,4,338,0020100734,,,2:55,3,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko REBOUND (Off:1 Def:1),11:54 PM
+296,5,1,339,0020100734,,,2:49,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,54 - 71,17,Walker  Layup (8 PTS),11:54 PM
+297,1,2,340,0020100734,MISS Radmanovic 27' 3PT Jump Shot,,2:23,3,4,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:55 PM
+298,0,4,341,0020100734,,,2:21,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:2 Def:6),11:55 PM
+299,1,1,342,0020100734,,,2:15,3,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,57 - 71,14,Walker 24' 3PT Jump Shot (11 PTS) (Strickland 3 AST),11:55 PM
+300,1,2,343,0020100734,MISS Mason 17' Jump Shot,,1:55,3,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:55 PM
+301,0,4,344,0020100734,,,1:52,3,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko REBOUND (Off:1 Def:2),11:55 PM
+302,1,2,345,0020100734,,,1:46,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 25' 3PT Jump Shot,11:55 PM
+303,0,4,346,0020100734,,,1:44,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:2 Def:6),11:55 PM
+304,5,1,347,0020100734,,,1:42,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,59 - 71,12,Walker  Layup (13 PTS),11:55 PM
+305,1,5,349,0020100734,Radmanovic Bad Pass Turnover (P2.T8),,1:23,3,4,5,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Strickland STEAL (1 STL),11:56 PM
+306,1,2,350,0020100734,,,1:16,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 26' 3PT Jump Shot,11:56 PM
+307,0,4,351,0020100734,James REBOUND (Off:4 Def:5),,1:12,3,4,0,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:56 PM
+308,17,6,354,0020100734,,,0:59,3,5,0,1,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Celtics T.Foul (Def. 3 Sec Potapenko ),11:56 PM
+309,0,8,360,0020100734,SUB: Watson FOR James,,0:59,3,4,4,0,1744,Jerome James,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:56 PM
+310,16,3,355,0020100734,MISS Barry Free Throw Technical,,0:59,3,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:57 PM
+311,0,4,373,0020100734,SUPERSONICS Rebound,,0:59,3,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:57 PM
+312,0,8,361,0020100734,SUB: Drobnjak FOR Barry,,0:59,3,4,4,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:57 PM
+313,1,6,356,0020100734,,,0:53,3,5,0,1,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker P.FOUL (P3.T1),11:57 PM
+314,11,6,357,0020100734,,,0:53,3,5,0,1,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker T.FOUL (P3.T1),11:57 PM
+315,16,3,359,0020100734,Mason Free Throw Technical (11 PTS),,0:53,3,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,59 - 72,13,,11:57 PM
+316,1,5,362,0020100734,Drobnjak Bad Pass Turnover (P1.T9),,0:46,3,4,5,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Strickland STEAL (2 STL),11:57 PM
+317,42,1,363,0020100734,,,0:44,3,5,0,0,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,61 - 72,11,Strickland  Driving Layup (2 PTS),11:57 PM
+318,4,6,365,0020100734,Payton OFF.Foul (P3),,0:33,3,4,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:58 PM
+319,5,5,366,0020100734,Payton Foul Turnover (P3.T10),,0:33,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:58 PM
+320,1,1,368,0020100734,,,0:14,3,5,5,0,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,64 - 72,8,Strickland 24' 3PT Jump Shot (5 PTS) (McCarty 1 AST),11:58 PM
+321,1,2,369,0020100734,MISS Watson 18' Jump Shot,,0:02,3,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:58 PM
+322,0,4,370,0020100734,,,0:00,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:2 Def:7),11:58 PM
+323,0,13,371,0020100734,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,64 - 72,8,,11:58 PM
+324,0,12,375,0020100734,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,64 - 72,8,,12:01 PM
+325,1,2,376,0020100734,,,11:41,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 6' Jump Shot,12:02 PM
+326,0,4,377,0020100734,Long REBOUND (Off:0 Def:1),,11:40,4,4,0,0,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:02 PM
+327,2,5,379,0020100734,Watson Lost Ball Turnover (P1.T11),,11:23,4,4,5,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Strickland STEAL (3 STL),12:02 PM
+328,1,2,380,0020100734,,,11:13,4,5,0,0,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Strickland 17' Jump Shot,12:02 PM
+329,0,4,381,0020100734,Drobnjak REBOUND (Off:1 Def:3),,11:12,4,4,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:02 PM
+330,1,2,382,0020100734,MISS Mason 20' Jump Shot,,11:03,4,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:02 PM
+331,0,4,383,0020100734,,,11:01,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:2 Def:7),12:02 PM
+332,1,2,384,0020100734,,,10:46,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 26' 3PT Jump Shot,12:03 PM
+333,0,4,385,0020100734,,,10:44,4,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko REBOUND (Off:2 Def:2),12:03 PM
+334,1,2,386,0020100734,,,10:43,4,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Potapenko 13' Jump Shot,12:03 PM
+335,0,4,387,0020100734,Drobnjak REBOUND (Off:1 Def:4),,10:41,4,4,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:03 PM
+336,1,2,389,0020100734,MISS Mason 5' Jump Shot,,10:20,4,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:03 PM
+337,0,4,390,0020100734,Mason REBOUND (Off:2 Def:3),,10:18,4,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:03 PM
+338,1,1,392,0020100734,Mason 12' Jump Shot (13 PTS),,10:17,4,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,64 - 74,10,,12:03 PM
+339,1,2,394,0020100734,,,10:00,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 14' Jump Shot,12:03 PM
+340,0,4,395,0020100734,Payton REBOUND (Off:0 Def:5),,9:59,4,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:03 PM
+341,1,2,396,0020100734,MISS Drobnjak 14' Jump Shot,,9:51,4,4,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:04 PM
+342,0,4,397,0020100734,,,9:50,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:2 Def:8),12:04 PM
+343,1,1,398,0020100734,,,9:37,4,5,5,0,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,67 - 74,7,Strickland 27' 3PT Jump Shot (8 PTS) (Walker 4 AST),12:04 PM
+344,1,1,400,0020100734,Mason 15' Jump Shot (15 PTS) (Watson 3 AST),,9:11,4,4,4,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,67 - 76,9,,12:04 PM
+345,1,2,401,0020100734,,,8:52,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 25' 3PT Jump Shot,12:05 PM
+346,0,4,402,0020100734,Long REBOUND (Off:0 Def:2),,8:50,4,4,0,0,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:05 PM
+347,1,2,403,0020100734,MISS Mason 20' Jump Shot,,8:36,4,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:05 PM
+348,0,4,404,0020100734,,,8:34,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:0 Def:3),12:05 PM
+349,1,2,405,0020100734,,,8:28,4,5,0,0,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Strickland 17' Jump Shot,12:05 PM
+350,0,4,406,0020100734,Payton REBOUND (Off:0 Def:6),,8:27,4,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:05 PM
+351,1,1,407,0020100734,Drobnjak 20' Jump Shot (10 PTS) (Payton 5 AST),,8:19,4,4,4,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,67 - 78,11,,12:05 PM
+352,1,9,408,0020100734,,,8:15,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.4 Short 2),12:05 PM
+353,0,8,410,0020100734,,,8:15,4,5,5,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Battie FOR Potapenko,12:07 PM
+354,0,8,411,0020100734,,,8:15,4,5,5,0,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Anderson FOR Strickland,12:07 PM
+355,1,5,412,0020100734,Drobnjak STEAL (1 STL),,7:57,4,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Pierce Bad Pass Turnover (P4.T14),12:08 PM
+356,42,1,413,0020100734,Drobnjak  Driving Layup (12 PTS) (Watson 4 AST),,7:54,4,4,4,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,67 - 80,13,,12:08 PM
+357,2,6,414,0020100734,,,7:54,4,5,0,1,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty S.FOUL (P3.T1),12:08 PM
+358,10,3,415,0020100734,MISS Drobnjak Free Throw 1 of 1,,7:54,4,4,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:08 PM
+359,0,4,416,0020100734,,,7:53,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:2 Def:9),12:08 PM
+360,17,6,417,0020100734,SUPERSONICS T.Foul (Def. 3 Sec Drobnjak ),,7:38,4,4,0,1,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:09 PM
+361,16,3,418,0020100734,,,7:38,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,68 - 80,12,Pierce Free Throw Technical (21 PTS),12:09 PM
+362,0,8,419,0020100734,,,7:38,4,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Strickland FOR McCarty,12:09 PM
+363,1,2,420,0020100734,,,7:30,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 26' 3PT Jump Shot,12:09 PM
+364,0,4,421,0020100734,Payton REBOUND (Off:0 Def:7),,7:27,4,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:09 PM
+365,3,1,422,0020100734,Drobnjak 3' Hook Shot (14 PTS) (Mason 4 AST),,7:08,4,4,4,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,68 - 82,14,,12:10 PM
+366,2,5,423,0020100734,Mason STEAL (2 STL),,6:50,4,5,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Walker Lost Ball Turnover (P7.T15),12:10 PM
+367,2,5,424,0020100734,Mason Lost Ball Turnover (P1.T12),,6:38,4,4,5,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Battie STEAL (1 STL),12:10 PM
+368,5,1,425,0020100734,,,6:33,4,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,70 - 82,12,Walker  Layup (15 PTS) (Strickland 4 AST),12:10 PM
+369,1,1,426,0020100734,Watson 27' 3PT Jump Shot (5 PTS) (Drobnjak 2 AST),,6:06,4,4,4,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,70 - 85,15,,12:11 PM
+370,1,1,427,0020100734,,,5:50,4,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,73 - 85,12,Walker 26' 3PT Jump Shot (18 PTS) (Strickland 5 AST),12:11 PM
+371,1,2,428,0020100734,MISS Watson 24' 3PT Jump Shot,,5:22,4,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:11 PM
+372,0,4,429,0020100734,,,5:19,4,5,0,0,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Strickland REBOUND (Off:0 Def:1),12:11 PM
+373,1,6,430,0020100734,Watson P.FOUL (P1.T1),,5:13,4,4,0,1,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:12 PM
+374,0,8,432,0020100734,SUB: Barry FOR Watson,,5:13,4,4,4,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,12:12 PM
+375,1,9,433,0020100734,SUPERSONICS Timeout: Regular (Full 4 Short 1),,5:13,4,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,12:12 PM
+376,1,2,436,0020100734,,,5:06,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 26' 3PT Jump Shot,12:14 PM
+377,0,4,437,0020100734,Mason REBOUND (Off:2 Def:4),,5:05,4,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:15 PM
+378,1,2,438,0020100734,MISS Mason 4' Jump Shot,,4:42,4,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:15 PM
+379,0,4,440,0020100734,Long REBOUND (Off:1 Def:2),,4:40,4,4,0,0,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:15 PM
+380,64,1,439,0020100734,Long  Follow Up Dunk (2 PTS),,4:40,4,4,0,0,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,73 - 87,14,,12:15 PM
+381,1,2,441,0020100734,,,4:28,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 24' 3PT Jump Shot,12:15 PM
+382,0,4,442,0020100734,Barry REBOUND (Off:1 Def:6),,4:26,4,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:15 PM
+383,1,1,443,0020100734,Long 10' Jump Shot (4 PTS) (Barry 9 AST),,4:06,4,4,4,0,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,73 - 89,16,,12:16 PM
+384,1,2,444,0020100734,,,3:44,4,5,0,0,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Strickland 25' 3PT Jump Shot,12:16 PM
+385,0,4,445,0020100734,,,3:42,4,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:3 Def:4),12:16 PM
+386,1,9,446,0020100734,,,3:39,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.5 Short 2),12:16 PM
+387,0,8,448,0020100734,,,3:39,4,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Blount FOR Battie,12:18 PM
+388,0,8,449,0020100734,,,3:39,4,5,5,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Palacio FOR Anderson,12:18 PM
+389,1,1,451,0020100734,,,3:30,4,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,76 - 89,13,Pierce 26' 3PT Jump Shot (24 PTS) (Walker 5 AST),12:19 PM
+390,1,2,452,0020100734,MISS Mason 20' Jump Shot,,3:09,4,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:19 PM
+391,0,4,453,0020100734,Long REBOUND (Off:2 Def:2),,3:08,4,4,0,0,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:19 PM
+392,2,6,454,0020100734,,,3:04,4,5,0,1,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Strickland S.FOUL (P3.T2),12:19 PM
+393,11,3,455,0020100734,Drobnjak Free Throw 1 of 2 (15 PTS),,3:04,4,4,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,76 - 90,14,,12:19 PM
+394,12,3,456,0020100734,Drobnjak Free Throw 2 of 2 (16 PTS),,3:04,4,4,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,76 - 91,15,,12:20 PM
+395,1,2,457,0020100734,,,2:52,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 26' 3PT Jump Shot,12:20 PM
+396,0,4,458,0020100734,Barry REBOUND (Off:1 Def:7),,2:51,4,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:20 PM
+397,1,2,459,0020100734,MISS Mason 4' Jump Shot,,2:28,4,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:20 PM
+398,0,4,460,0020100734,,,2:24,4,5,0,0,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Palacio REBOUND (Off:0 Def:1),12:20 PM
+399,2,5,461,0020100734,Mason STEAL (3 STL),,2:16,4,5,4,0,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Palacio Lost Ball Turnover (P1.T16),12:21 PM
+400,1,6,462,0020100734,,,2:14,4,5,0,1,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker P.FOUL (P4.T3),12:21 PM
+401,0,8,463,0020100734,,,2:14,4,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: McCarty FOR Walker,12:21 PM
+402,0,8,464,0020100734,,,2:14,4,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2207,Joe Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Johnson FOR Pierce,12:21 PM
+403,2,6,465,0020100734,,,2:03,4,5,0,1,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty S.FOUL (P4.T4),12:21 PM
+404,11,3,467,0020100734,Long Free Throw 1 of 2 (5 PTS),,2:03,4,4,0,0,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,76 - 92,16,,12:22 PM
+405,12,3,468,0020100734,Long Free Throw 2 of 2 (6 PTS),,2:03,4,4,0,0,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,76 - 93,17,,12:22 PM
+406,1,2,469,0020100734,,,1:45,4,5,0,0,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Strickland 24' 3PT Jump Shot,12:22 PM
+407,0,4,470,0020100734,,,1:43,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,12:22 PM
+408,1,6,471,0020100734,Payton P.FOUL (P4.T2),,1:41,4,4,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:23 PM
+409,1,5,472,0020100734,Payton STEAL (3 STL),,1:33,4,5,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,McCarty Bad Pass Turnover (P1.T17),12:23 PM
+410,9,6,473,0020100734,,,1:32,4,5,0,1,1065,Erick Strickland,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Strickland C.P.FOUL (P4.PN),12:23 PM
+411,10,3,474,0020100734,Payton Free Throw 1 of 1 (17 PTS),,1:32,4,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,76 - 94,18,,12:23 PM
+412,5,2,477,0020100734,MISS Drobnjak  Layup,,1:13,4,4,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:24 PM
+413,0,4,478,0020100734,Barry REBOUND (Off:2 Def:7),,1:10,4,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:24 PM
+414,1,1,479,0020100734,Barry 26' 3PT Jump Shot (17 PTS) (Payton 6 AST),,1:02,4,4,4,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,76 - 97,21,,12:24 PM
+415,1,2,480,0020100734,,,0:46,4,5,0,0,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Palacio 17' Jump Shot,12:24 PM
+416,0,4,481,0020100734,Long REBOUND (Off:2 Def:3),,0:45,4,4,0,0,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:24 PM
+417,42,1,482,0020100734,Payton  Driving Layup (19 PTS),,0:24,4,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,76 - 99,23,,12:25 PM
+418,1,1,483,0020100734,,,0:05,4,5,5,0,2207,Joe Johnson,BOS,Boston,1610612738.0,Celtics,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,0,,,,,,79 - 99,20,Johnson 26' 3PT Jump Shot (3 PTS) (Palacio 1 AST),12:25 PM
+419,0,13,485,0020100734,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,79 - 99,20,,12:25 PM

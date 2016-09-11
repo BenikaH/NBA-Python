@@ -1,0 +1,475 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020900760,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:09 PM
+1,0,10,1,0020900760,Jump Ball Hibbert vs. Miller: Tip to Watson,,12:00,1,4,5,4,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,,,,7:09 PM
+2,1,1,2,0020900760,Murphy 18' Jump Shot (2 PTS) (Hibbert 1 AST),,11:44,1,4,4,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0 - 2,2,,7:10 PM
+3,1,2,3,0020900760,,,11:26,1,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 19' Jump Shot,7:10 PM
+4,0,4,4,0020900760,Murphy REBOUND (Off:0 Def:1),,11:25,1,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:10 PM
+5,2,6,5,0020900760,,,11:19,1,5,4,1,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Rose S.FOUL (P1.T1),7:10 PM
+6,11,3,6,0020900760,MISS Watson Free Throw 1 of 2,,11:19,1,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:10 PM
+7,1,4,7,0020900760,PACERS Rebound,,11:19,1,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,7:10 PM
+8,12,3,8,0020900760,Watson Free Throw 2 of 2 (1 PTS),,11:19,1,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,0 - 3,3,,7:10 PM
+9,2,5,10,0020900760,Murphy STEAL (1 STL),,11:10,1,5,4,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Gibson Lost Ball Turnover (P1.T1),7:11 PM
+10,1,5,11,0020900760,Granger Bad Pass Turnover (P1.T1),,11:00,1,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:11 PM
+11,1,2,12,0020900760,,,10:48,1,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 18' Jump Shot,7:12 PM
+12,0,4,13,0020900760,Hibbert REBOUND (Off:0 Def:1),,10:46,1,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:12 PM
+13,3,6,14,0020900760,,,10:46,1,5,4,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Gibson L.B.FOUL (P1.T2),7:12 PM
+14,78,2,15,0020900760,MISS Watson 9' Floating Jump Shot,,10:35,1,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:12 PM
+15,0,4,16,0020900760,Watson REBOUND (Off:1 Def:0),,10:34,1,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:12 PM
+16,1,2,17,0020900760,MISS Watson 6' Jump Shot,,10:32,1,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:12 PM
+17,0,4,18,0020900760,PACERS Rebound,,10:32,1,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,7:12 PM
+18,63,2,19,0020900760,MISS Granger 14' Fadeaway Jumper,,10:22,1,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:13 PM
+19,0,4,20,0020900760,,,10:21,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:0 Def:1),7:13 PM
+20,1,1,21,0020900760,,,10:15,1,5,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,3 - 3,TIE,Hinrich 25' 3PT Jump Shot (3 PTS) (Deng 1 AST),7:13 PM
+21,79,1,22,0020900760,Granger 21' Pullup Jump Shot (2 PTS),,10:01,1,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,3 - 5,2,,7:13 PM
+22,4,6,23,0020900760,,,9:42,1,5,4,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Gibson OFF.Foul (P2),7:13 PM
+23,5,5,24,0020900760,,,9:42,1,5,0,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson Foul Turnover (P2.T2),7:13 PM
+24,0,8,25,0020900760,,,9:42,1,5,5,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Thomas FOR Gibson,7:14 PM
+25,17,6,26,0020900760,,,9:29,1,5,0,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Bulls T.Foul (Def. 3 Sec Hinrich ),7:14 PM
+26,16,3,27,0020900760,Granger Free Throw Technical (3 PTS),,9:29,1,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,3 - 6,3,,7:14 PM
+27,43,1,29,0020900760,Granger 3' Alley Oop Layup (5 PTS) (Hibbert 2 AST),,9:25,1,4,4,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,3 - 8,5,,7:14 PM
+28,2,5,30,0020900760,Hibbert STEAL (1 STL),,9:07,1,5,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Deng Lost Ball Turnover (P1.T3),7:15 PM
+29,1,5,31,0020900760,Hibbert Bad Pass Turnover (P1.T2),,9:03,1,4,5,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Rose STEAL (1 STL),7:15 PM
+30,1,2,32,0020900760,,,8:55,1,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 18' Jump Shot,7:15 PM
+31,0,4,33,0020900760,Murphy REBOUND (Off:0 Def:2),,8:54,1,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:15 PM
+32,1,1,34,0020900760,Murphy 25' 3PT Jump Shot (5 PTS) (Watson 1 AST),,8:47,1,4,4,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,3 - 11,8,,7:15 PM
+33,1,9,35,0020900760,,,8:41,1,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.1 Short 0),7:15 PM
+34,2,6,37,0020900760,Granger S.FOUL (P1.T1),,8:30,1,4,5,1,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:18 PM
+35,11,3,38,0020900760,,,8:30,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,4 - 11,7,Deng Free Throw 1 of 2 (1 PTS),7:18 PM
+36,12,3,40,0020900760,,,8:30,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,5 - 11,6,Deng Free Throw 2 of 2 (2 PTS),7:18 PM
+37,2,6,42,0020900760,,,8:25,1,5,4,1,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Deng S.FOUL (P1.T3),7:19 PM
+38,11,3,43,0020900760,Granger Free Throw 1 of 2 (6 PTS),,8:25,1,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,5 - 12,7,,7:19 PM
+39,12,3,45,0020900760,Granger Free Throw 2 of 2 (7 PTS),,8:25,1,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,5 - 13,8,,7:19 PM
+40,1,6,47,0020900760,Rush P.FOUL (P1.T2),,8:13,1,4,5,1,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:20 PM
+41,86,1,48,0020900760,,,8:03,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,7 - 13,6,Deng 12' Turnaround Fadeaway (4 PTS),7:20 PM
+42,42,2,49,0020900760,MISS Granger 4' Driving Layup,,7:57,1,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:20 PM
+43,0,4,50,0020900760,,,7:56,1,5,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:1),7:20 PM
+44,5,2,51,0020900760,,,7:50,1,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 2' Layup,7:20 PM
+45,0,4,52,0020900760,,,7:46,1,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:0),7:20 PM
+46,1,1,53,0020900760,,,7:40,1,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,9 - 13,4,Hinrich 21' Jump Shot (5 PTS),7:20 PM
+47,1,5,54,0020900760,Watson Bad Pass Turnover (P1.T3),,7:31,1,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:21 PM
+48,1,1,55,0020900760,,,7:22,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,11 - 13,2,Deng 8' Jump Shot (6 PTS),7:21 PM
+49,2,6,56,0020900760,Granger S.FOUL (P2.T3),,7:22,1,4,5,1,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:21 PM
+50,10,3,57,0020900760,,,7:22,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng Free Throw 1 of 1,7:21 PM
+51,0,4,59,0020900760,Murphy REBOUND (Off:0 Def:3),,7:22,1,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:21 PM
+52,3,2,60,0020900760,MISS Hibbert 11' Hook Shot,,7:06,1,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:22 PM
+53,0,4,61,0020900760,,,7:05,1,5,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:2),7:22 PM
+54,42,1,62,0020900760,,,7:00,1,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,13 - 13,TIE,Rose 2' Driving Layup (2 PTS),7:22 PM
+55,1,1,63,0020900760,Granger 25' 3PT Jump Shot (10 PTS) (Hibbert 3 AST),,6:44,1,4,4,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,13 - 16,3,,7:22 PM
+56,17,6,64,0020900760,PACERS T.Foul (Def. 3 Sec Hibbert ),,6:28,1,4,0,1,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:22 PM
+57,16,3,65,0020900760,,,6:28,1,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Miller Free Throw Technical,7:22 PM
+58,1,4,66,0020900760,,,6:28,1,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,7:22 PM
+59,46,2,67,0020900760,,,6:26,1,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Miller 8' Running Jump Shot,7:23 PM
+60,0,4,68,0020900760,Murphy REBOUND (Off:0 Def:4),,6:25,1,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:23 PM
+61,1,2,69,0020900760,MISS Watson 5' Jump Shot,,6:19,1,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:23 PM
+62,0,4,70,0020900760,,,6:18,1,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:1),7:23 PM
+63,5,2,71,0020900760,,,6:11,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 2' Layup,7:23 PM
+64,0,4,72,0020900760,Rush REBOUND (Off:0 Def:1),,6:10,1,4,0,0,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:23 PM
+65,1,2,73,0020900760,MISS Rush  3PT Jump Shot,,5:55,1,4,0,0,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:23 PM
+66,0,4,74,0020900760,,,5:54,1,5,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:3),7:23 PM
+67,79,2,75,0020900760,,,5:47,1,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 18' Pullup Jump Shot,7:24 PM
+68,0,4,76,0020900760,Granger REBOUND (Off:0 Def:1),,5:46,1,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:24 PM
+69,44,1,77,0020900760,Rush 3' Reverse Layup (2 PTS),,5:33,1,4,0,0,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,13 - 18,5,,7:24 PM
+70,1,1,78,0020900760,,,5:11,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,15 - 18,3,Deng 18' Jump Shot (8 PTS),7:24 PM
+71,1,2,79,0020900760,MISS Hibbert 4' Jump Shot,,4:47,1,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:25 PM
+72,0,4,81,0020900760,Hibbert REBOUND (Off:1 Def:1),,4:46,1,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:25 PM
+73,4,2,80,0020900760,MISS Hibbert 2' Tip Shot,,4:46,1,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:25 PM
+74,0,4,82,0020900760,,,4:44,1,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rose REBOUND (Off:0 Def:1),7:25 PM
+75,5,2,83,0020900760,,,4:40,1,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 1' Layup,7:25 PM
+76,0,4,85,0020900760,,,4:39,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:1 Def:1),7:25 PM
+77,4,1,84,0020900760,,,4:39,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,17 - 18,1,Deng 1' Tip Shot (10 PTS),7:25 PM
+78,1,9,86,0020900760,PACERS Timeout: Regular (Full 1 Short 0),,4:34,1,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,7:25 PM
+79,0,8,88,0020900760,SUB: Dunleavy FOR Granger,,4:34,1,4,4,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:27 PM
+80,0,8,89,0020900760,SUB: Jones FOR Hibbert,,4:34,1,4,4,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,200780,Solomon Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:27 PM
+81,0,8,90,0020900760,,,4:34,1,5,5,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Richard FOR Miller,7:27 PM
+82,0,8,91,0020900760,,,4:34,1,5,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Salmons FOR Hinrich,7:27 PM
+83,1,2,92,0020900760,MISS Dunleavy 21' Jump Shot,,4:27,1,4,0,0,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:28 PM
+84,0,4,93,0020900760,,,4:26,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:1 Def:2),7:28 PM
+85,5,2,94,0020900760,,,4:11,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 4' Layup,7:28 PM
+86,0,4,95,0020900760,,,4:10,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:2 Def:2),7:28 PM
+87,5,1,96,0020900760,,,4:09,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,19 - 18,-1,Deng 2' Layup (12 PTS),7:28 PM
+88,1,1,97,0020900760,Jones 16' Jump Shot (2 PTS) (Watson 2 AST),,3:51,1,4,4,0,200780,Solomon Jones,IND,Indiana,1610612754.0,Pacers,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,19 - 20,1,,7:28 PM
+89,42,1,98,0020900760,,,3:24,1,5,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,21 - 20,-1,Thomas 4' Driving Layup (2 PTS),7:29 PM
+90,0,18,112,0020900760,,,3:24,1,0,0,1,0,,,,,,0,,,,,,0,,,,,,21 - 20,-1,,7:29 PM
+91,2,6,99,0020900760,,,3:19,1,5,4,1,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,200780,Solomon Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Richard S.FOUL (P1.T4),7:29 PM
+92,11,3,100,0020900760,Jones Free Throw 1 of 2 (3 PTS),,3:19,1,4,0,0,200780,Solomon Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,21 - 21,TIE,,7:29 PM
+93,0,8,103,0020900760,SUB: Head FOR Rush,,3:19,1,4,4,0,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,101129,Luther Head,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:30 PM
+94,12,3,104,0020900760,Jones Free Throw 2 of 2 (4 PTS),,3:19,1,4,0,0,200780,Solomon Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,21 - 22,1,,7:30 PM
+95,1,1,106,0020900760,,,3:01,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,23 - 22,-1,Deng 17' Jump Shot (14 PTS),7:30 PM
+96,5,1,107,0020900760,Watson 1' Layup (3 PTS),,2:54,1,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,23 - 24,1,,7:30 PM
+97,2,6,108,0020900760,Jones S.FOUL (P1.T4),,2:39,1,4,5,1,200780,Solomon Jones,IND,Indiana,1610612754.0,Pacers,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:31 PM
+98,11,3,109,0020900760,,,2:39,1,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,24 - 24,TIE,Rose Free Throw 1 of 2 (3 PTS),7:31 PM
+99,12,3,111,0020900760,,,2:39,1,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,25 - 24,-1,Rose Free Throw 2 of 2 (4 PTS),7:31 PM
+100,39,5,114,0020900760,Dunleavy Step Out of Bounds Turnover (P1.T4),,2:23,1,4,0,1,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:32 PM
+101,40,5,115,0020900760,,,2:15,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng Out of Bounds Lost Ball Turnover (P2.T4),7:32 PM
+102,0,8,116,0020900760,,,2:15,1,5,5,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Hinrich FOR Rose,7:32 PM
+103,1,2,117,0020900760,MISS Murphy 20' Jump Shot,,2:00,1,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:33 PM
+104,0,4,118,0020900760,,,1:59,1,5,0,0,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Richard REBOUND (Off:0 Def:1),7:33 PM
+105,3,2,119,0020900760,Jones BLOCK (1 BLK),,1:37,1,5,0,4,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,0,,,,,,200780,Solomon Jones,IND,Indiana,1610612754.0,Pacers,,,MISS Richard 5' Hook Shot,7:33 PM
+106,0,4,120,0020900760,Murphy REBOUND (Off:0 Def:5),,1:36,1,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:33 PM
+107,7,1,121,0020900760,Murphy 2' Dunk (7 PTS),,1:21,1,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,25 - 26,1,,7:33 PM
+108,3,2,122,0020900760,,,1:02,1,5,0,0,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Richard 3' Hook Shot,7:33 PM
+109,0,4,123,0020900760,Murphy REBOUND (Off:0 Def:6),,1:01,1,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:33 PM
+110,42,1,124,0020900760,Watson 2' Driving Layup (5 PTS),,0:56,1,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,25 - 28,3,,7:34 PM
+111,51,1,125,0020900760,,,0:52,1,5,5,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,27 - 28,1,Salmons 3' Reverse Dunk (2 PTS) (Hinrich 1 AST),7:34 PM
+112,1,5,126,0020900760,Watson Bad Pass Turnover (P2.T5),,0:46,1,4,5,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Salmons STEAL (1 STL),7:34 PM
+113,2,6,127,0020900760,Murphy S.FOUL (P1.PN),,0:42,1,4,5,1,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:34 PM
+114,0,8,128,0020900760,,,0:42,1,5,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2484,Devin Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Brown FOR Deng,7:34 PM
+115,11,3,129,0020900760,,,0:42,1,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,28 - 28,TIE,Salmons Free Throw 1 of 2 (3 PTS),7:34 PM
+116,12,3,131,0020900760,,,0:42,1,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,29 - 28,-1,Salmons Free Throw 2 of 2 (4 PTS),7:34 PM
+117,1,2,133,0020900760,MISS Dunleavy 20' Jump Shot,,0:31,1,4,0,0,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:35 PM
+118,0,4,134,0020900760,,,0:30,1,5,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:4),7:35 PM
+119,1,2,135,0020900760,,,0:10,1,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hinrich 17' Jump Shot,7:35 PM
+120,0,4,136,0020900760,Dunleavy REBOUND (Off:0 Def:1),,0:09,1,4,0,0,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:35 PM
+121,1,2,137,0020900760,MISS Head 19' Jump Shot,,0:01,1,4,0,0,101129,Luther Head,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:35 PM
+122,0,4,138,0020900760,,,0:00,1,5,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:5),7:35 PM
+123,0,13,139,0020900760,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,29 - 28,-1,,7:35 PM
+124,0,12,141,0020900760,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,29 - 28,-1,,7:38 PM
+125,1,2,142,0020900760,,,11:48,2,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hinrich 25' 3PT Jump Shot,7:39 PM
+126,0,4,143,0020900760,Dunleavy REBOUND (Off:0 Def:2),,11:47,2,4,0,0,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:39 PM
+127,1,2,144,0020900760,MISS Granger 22' Jump Shot,,11:27,2,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:39 PM
+128,0,4,145,0020900760,,,11:26,2,5,0,0,2484,Devin Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Brown REBOUND (Off:0 Def:1),7:39 PM
+129,5,1,146,0020900760,,,11:19,2,5,5,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,31 - 28,-3,Salmons 3' Layup (6 PTS) (Hinrich 2 AST),7:39 PM
+130,3,1,147,0020900760,Hibbert 4' Hook Shot (2 PTS),,10:58,2,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,31 - 30,-1,,7:40 PM
+131,79,2,148,0020900760,,,10:41,2,5,0,0,2484,Devin Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Brown 19' Pullup Jump Shot,7:40 PM
+132,0,4,149,0020900760,,,10:39,2,5,0,0,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Richard REBOUND (Off:1 Def:1),7:40 PM
+133,5,1,150,0020900760,,,10:31,2,5,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,33 - 30,-3,Thomas 1' Layup (4 PTS),7:40 PM
+134,2,6,151,0020900760,Hibbert S.FOUL (P1.T1),,10:31,2,4,5,1,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:40 PM
+135,10,3,152,0020900760,,,10:31,2,5,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,34 - 30,-4,Thomas Free Throw 1 of 1 (5 PTS),7:40 PM
+136,3,1,154,0020900760,Hibbert 7' Hook Shot (4 PTS),,10:13,2,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,34 - 32,-2,,7:41 PM
+137,2,6,155,0020900760,Dunleavy S.FOUL (P1.T2),,10:01,2,4,5,1,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:41 PM
+138,11,3,156,0020900760,,,10:01,2,5,0,0,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,35 - 32,-3,Richard Free Throw 1 of 2 (1 PTS),7:41 PM
+139,12,3,158,0020900760,,,10:01,2,5,0,0,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Richard Free Throw 2 of 2,7:41 PM
+140,0,4,160,0020900760,Hibbert REBOUND (Off:1 Def:2),,10:01,2,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:42 PM
+141,1,1,161,0020900760,Ford 19' Jump Shot (2 PTS),,9:49,2,4,0,0,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,35 - 34,-1,,7:42 PM
+142,79,1,162,0020900760,,,9:31,2,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,37 - 34,-3,Salmons 16' Pullup Jump Shot (8 PTS),7:42 PM
+143,1,6,163,0020900760,,,9:25,2,5,4,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Hinrich P.FOUL (P1.T1),7:42 PM
+144,0,8,164,0020900760,,,9:25,2,5,5,0,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Miller FOR Richard,7:42 PM
+145,0,8,165,0020900760,SUB: Rush FOR Dunleavy,,9:25,2,4,4,0,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:43 PM
+146,1,2,166,0020900760,MISS Ford 22' Jump Shot,,9:09,2,4,0,0,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:43 PM
+147,0,4,167,0020900760,,,9:08,2,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Salmons REBOUND (Off:0 Def:1),7:43 PM
+148,0,8,168,0020900760,SUB: Murphy FOR Head,,9:00,2,4,4,0,101129,Luther Head,IND,Indiana,1610612754.0,Pacers,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:43 PM
+149,1,2,169,0020900760,,,8:56,2,5,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Thomas 7' Jump Shot,7:44 PM
+150,0,4,170,0020900760,Hibbert REBOUND (Off:1 Def:3),,8:55,2,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:44 PM
+151,1,1,171,0020900760,Granger 26' 3PT Jump Shot (13 PTS) (Rush 1 AST),,8:46,2,4,4,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,0,,,,,,37 - 37,TIE,,7:44 PM
+152,1,1,172,0020900760,,,8:29,2,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,39 - 37,-2,Salmons 17' Jump Shot (10 PTS),7:44 PM
+153,2,6,173,0020900760,,,8:16,2,5,4,1,2484,Devin Brown,CHI,Chicago,1610612741.0,Bulls,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Brown S.FOUL (P1.T2),7:44 PM
+154,4,9,174,0020900760,,,8:16,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:44 PM
+155,0,8,176,0020900760,,,8:16,2,5,5,0,2484,Devin Brown,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Rose FOR Brown,7:47 PM
+156,11,3,177,0020900760,Granger Free Throw 1 of 2 (14 PTS),,8:16,2,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,39 - 38,-1,,7:47 PM
+157,12,3,179,0020900760,Granger Free Throw 2 of 2 (15 PTS),,8:16,2,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,39 - 39,TIE,,7:47 PM
+158,2,6,181,0020900760,Hibbert S.FOUL (P2.T3),,8:05,2,4,5,1,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:48 PM
+159,11,3,182,0020900760,,,8:05,2,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,40 - 39,-1,Salmons Free Throw 1 of 2 (11 PTS),7:48 PM
+160,12,3,184,0020900760,,,8:05,2,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,41 - 39,-2,Salmons Free Throw 2 of 2 (12 PTS),7:48 PM
+161,5,2,186,0020900760,MISS Hibbert 3' Layup,,7:46,2,4,0,5,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,,,Thomas BLOCK (1 BLK),7:49 PM
+162,0,4,187,0020900760,Hibbert REBOUND (Off:2 Def:3),,7:45,2,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:49 PM
+163,5,1,188,0020900760,Hibbert 2' Layup (6 PTS),,7:44,2,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,41 - 41,TIE,,7:49 PM
+164,1,5,189,0020900760,Rush STEAL (1 STL),,7:18,2,5,4,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Miller Bad Pass Turnover (P1.T5),7:49 PM
+165,1,2,190,0020900760,MISS Murphy 26' 3PT Jump Shot,,7:10,2,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:49 PM
+166,0,4,191,0020900760,PACERS Rebound,,7:08,2,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,7:49 PM
+167,1,2,192,0020900760,MISS Rush  3PT Jump Shot,,6:58,2,4,0,0,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:50 PM
+168,0,4,193,0020900760,Hibbert REBOUND (Off:3 Def:3),,6:57,2,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:50 PM
+169,2,6,194,0020900760,,,6:56,2,5,4,1,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Thomas S.FOUL (P1.T3),7:50 PM
+170,11,3,195,0020900760,Hibbert Free Throw 1 of 2 (7 PTS),,6:56,2,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,41 - 42,1,,7:50 PM
+171,0,8,197,0020900760,,,6:56,2,5,5,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Gibson FOR Thomas,7:50 PM
+172,0,8,198,0020900760,,,6:56,2,5,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Deng FOR Hinrich,7:50 PM
+173,12,3,199,0020900760,MISS Hibbert Free Throw 2 of 2,,6:56,2,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:51 PM
+174,0,4,201,0020900760,,,6:56,2,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:2),7:51 PM
+175,1,1,202,0020900760,,,6:44,2,5,5,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,43 - 42,-1,Miller 19' Jump Shot (2 PTS) (Rose 1 AST),7:51 PM
+176,1,2,203,0020900760,MISS Rush 24' 3PT Jump Shot,,6:30,2,4,0,0,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:51 PM
+177,0,4,204,0020900760,,,6:28,2,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:2 Def:3),7:51 PM
+178,5,1,205,0020900760,,,6:24,2,5,5,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,45 - 42,-3,Rose 3' Layup (6 PTS) (Deng 2 AST),7:51 PM
+179,1,9,206,0020900760,PACERS Timeout: Regular (Full 2 Short 0),,6:18,2,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,7:51 PM
+180,0,8,208,0020900760,SUB: Jones FOR Murphy,,6:18,2,4,4,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:54 PM
+181,0,8,209,0020900760,SUB: Watson FOR Ford,,6:18,2,4,4,0,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:54 PM
+182,47,2,210,0020900760,MISS Hibbert 13' Turnaround Jump Shot,,5:58,2,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:55 PM
+183,0,4,211,0020900760,,,5:57,2,5,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:0 Def:1),7:55 PM
+184,1,1,212,0020900760,,,5:39,2,5,5,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,47 - 42,-5,Miller 19' Jump Shot (4 PTS) (Salmons 1 AST),7:55 PM
+185,1,1,213,0020900760,Granger 20' Jump Shot (17 PTS) (Hibbert 4 AST),,5:26,2,4,4,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,47 - 44,-3,,7:55 PM
+186,1,2,214,0020900760,,,5:11,2,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Miller 26' 3PT Jump Shot,7:55 PM
+187,0,4,215,0020900760,Jones REBOUND (Off:0 Def:1),,5:10,2,4,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:55 PM
+188,2,6,216,0020900760,,,5:00,2,5,4,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Gibson S.FOUL (P3.T4),7:56 PM
+189,11,3,217,0020900760,Jones Free Throw 1 of 2 (1 PTS),,5:00,2,4,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,47 - 45,-2,,7:56 PM
+190,0,8,219,0020900760,SUB: Murphy FOR Hibbert,,5:00,2,4,4,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:56 PM
+191,0,8,220,0020900760,,,5:00,2,5,5,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Hinrich FOR Gibson,7:56 PM
+192,12,3,221,0020900760,MISS Jones Free Throw 2 of 2,,5:00,2,4,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:56 PM
+193,0,4,223,0020900760,Granger REBOUND (Off:1 Def:1),,5:00,2,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:56 PM
+194,8,1,224,0020900760,Jones 3' Slam Dunk (3 PTS),,4:52,2,4,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,47 - 47,TIE,,7:56 PM
+195,1,1,225,0020900760,,,4:35,2,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,49 - 47,-2,Rose 7' Jump Shot (8 PTS),7:57 PM
+196,42,1,226,0020900760,Murphy 1' Driving Layup (9 PTS),,4:24,2,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,49 - 49,TIE,,7:57 PM
+197,1,2,227,0020900760,,,4:11,2,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 19' Jump Shot,7:57 PM
+198,0,4,228,0020900760,Murphy REBOUND (Off:0 Def:7),,4:10,2,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:57 PM
+199,4,5,229,0020900760,Jones Traveling Turnover (P1.T6),,4:02,2,4,0,1,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:57 PM
+200,1,5,230,0020900760,Jones STEAL (1 STL),,3:49,2,5,4,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Salmons Bad Pass Turnover (P1.T6),7:58 PM
+201,2,6,231,0020900760,,,3:42,2,5,4,1,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Salmons S.FOUL (P1.PN),7:58 PM
+202,0,8,232,0020900760,,,3:42,2,5,5,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Thomas FOR Miller,7:58 PM
+203,11,3,233,0020900760,Murphy Free Throw 1 of 2 (10 PTS),,3:42,2,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,49 - 50,1,,7:58 PM
+204,12,3,235,0020900760,Murphy Free Throw 2 of 2 (11 PTS),,3:42,2,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,49 - 51,2,,7:58 PM
+205,86,2,237,0020900760,,,3:27,2,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hinrich 11' Turnaround Fadeaway Shot,7:59 PM
+206,0,4,238,0020900760,Murphy REBOUND (Off:0 Def:8),,3:26,2,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:59 PM
+207,1,1,239,0020900760,Jones 5' Jump Shot (5 PTS) (Watson 3 AST),,3:11,2,4,4,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,49 - 53,4,,7:59 PM
+208,1,9,240,0020900760,,,3:05,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.2 Short 0),7:59 PM
+209,1,1,242,0020900760,,,2:57,2,5,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,52 - 53,1,Hinrich 25' 3PT Jump Shot (8 PTS) (Rose 2 AST),8:02 PM
+210,1,5,243,0020900760,Watson Bad Pass Turnover (P3.T7),,2:41,2,4,5,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Deng STEAL (1 STL),8:02 PM
+211,1,5,244,0020900760,Murphy STEAL (2 STL),,2:37,2,5,4,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Rose Bad Pass Turnover (P1.T7),8:02 PM
+212,7,2,245,0020900760,MISS Granger 3' Dunk,,2:31,2,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:03 PM
+213,0,4,246,0020900760,,,2:30,2,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rose REBOUND (Off:0 Def:2),8:03 PM
+214,5,2,247,0020900760,,,2:25,2,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 2' Layup,8:03 PM
+215,0,4,248,0020900760,Granger REBOUND (Off:1 Def:2),,2:24,2,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:03 PM
+216,1,2,249,0020900760,MISS Granger 11' Jump Shot,,2:18,2,4,0,5,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,,,Hinrich BLOCK (1 BLK),8:03 PM
+217,0,4,250,0020900760,,,2:17,2,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Salmons REBOUND (Off:0 Def:2),8:03 PM
+218,1,1,251,0020900760,,,2:10,2,5,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,55 - 53,-2,Hinrich 25' 3PT Jump Shot (11 PTS) (Rose 3 AST),8:03 PM
+219,1,1,252,0020900760,Rush 22' Jump Shot (4 PTS) (Granger 1 AST),,1:42,2,4,4,0,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,55 - 55,TIE,,8:03 PM
+220,1,2,253,0020900760,,,1:24,2,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 21' Jump Shot,8:04 PM
+221,0,4,254,0020900760,PACERS Rebound,,1:22,2,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,8:04 PM
+222,1,2,255,0020900760,MISS Granger 4' Jump Shot,,1:11,2,4,0,5,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,,,Deng BLOCK (1 BLK),8:04 PM
+223,0,4,256,0020900760,Granger REBOUND (Off:2 Def:2),,1:09,2,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:04 PM
+224,1,2,257,0020900760,MISS Jones 21' Jump Shot,,1:06,2,4,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:04 PM
+225,0,4,258,0020900760,,,1:04,2,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:2 Def:4),8:04 PM
+226,4,6,259,0020900760,,,0:59,2,5,4,1,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Thomas OFF.Foul (P2),8:04 PM
+227,5,5,260,0020900760,,,0:59,2,5,0,1,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Thomas Foul Turnover (P1.T8),8:04 PM
+228,0,8,261,0020900760,SUB: Dunleavy FOR Granger,,0:59,2,4,4,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:05 PM
+229,78,1,263,0020900760,Watson 9' Floating Jump Shot (7 PTS),,0:43,2,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,55 - 57,2,,8:05 PM
+230,1,2,264,0020900760,,,0:31,2,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hinrich 24' 3PT Jump Shot,8:05 PM
+231,0,4,265,0020900760,,,0:29,2,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rose REBOUND (Off:1 Def:2),8:05 PM
+232,66,1,266,0020900760,,,0:28,2,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,57 - 57,TIE,Rose 15' Jump Bank Shot (10 PTS),8:05 PM
+233,1,1,267,0020900760,Watson 40' 3PT Jump Shot (10 PTS),,0:02,2,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,57 - 60,3,,8:06 PM
+234,0,18,270,0020900760,,,0:02,2,0,0,1,0,,,,,,0,,,,,,0,,,,,,57 - 60,3,,8:06 PM
+235,2,9,268,0020900760,,,0:02,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Short (Reg.2 Short 1),8:06 PM
+236,1,2,272,0020900760,,,0:00,2,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 27' 3PT Jump Shot,8:08 PM
+237,0,4,273,0020900760,,,0:00,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,8:08 PM
+238,0,13,274,0020900760,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,57 - 60,3,,8:08 PM
+239,0,12,276,0020900760,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,57 - 60,3,,8:24 PM
+240,1,6,277,0020900760,Watson P.FOUL (P1.T1),,11:52,3,4,5,1,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:24 PM
+241,1,6,278,0020900760,Rush P.FOUL (P2.T2),,11:44,3,4,5,1,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:25 PM
+242,1,2,279,0020900760,,,11:40,3,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 26' 3PT Jump Shot,8:25 PM
+243,0,4,280,0020900760,Murphy REBOUND (Off:0 Def:9),,11:39,3,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:25 PM
+244,5,1,281,0020900760,Granger 1' Layup (19 PTS),,11:33,3,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,57 - 62,5,,8:25 PM
+245,4,6,282,0020900760,,,11:20,3,5,4,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Gibson OFF.Foul (P4),8:25 PM
+246,5,5,283,0020900760,,,11:20,3,5,0,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson Foul Turnover (P3.T9),8:25 PM
+247,3,2,284,0020900760,MISS Hibbert 8' Hook Shot,,11:03,3,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:26 PM
+248,0,4,285,0020900760,,,11:02,3,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,8:26 PM
+249,1,1,286,0020900760,,,10:46,3,5,5,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,59 - 62,3,Rose 16' Jump Shot (12 PTS) (Gibson 1 AST),8:26 PM
+250,1,2,287,0020900760,MISS Granger 7' Jump Shot,,10:22,3,4,0,5,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,,,Deng BLOCK (2 BLK),8:27 PM
+251,0,4,288,0020900760,Granger REBOUND (Off:3 Def:2),,10:20,3,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:27 PM
+252,1,5,289,0020900760,Granger Bad Pass Turnover (P2.T8),,10:19,3,4,5,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Gibson STEAL (1 STL),8:27 PM
+253,71,1,290,0020900760,,,10:14,3,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,61 - 62,1,Rose 3' Finger Roll Layup (14 PTS),8:27 PM
+254,2,5,291,0020900760,Rush Lost Ball Turnover (P1.T9),,9:54,3,4,5,0,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Hinrich STEAL (1 STL),8:27 PM
+255,4,6,292,0020900760,,,9:50,3,5,4,1,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Rose OFF.Foul (P2),8:27 PM
+256,5,5,293,0020900760,,,9:50,3,5,0,1,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rose Foul Turnover (P2.T10),8:27 PM
+257,1,1,294,0020900760,Hibbert 14' Jump Shot (9 PTS) (Granger 2 AST),,9:38,3,4,4,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,61 - 64,3,,8:28 PM
+258,2,6,295,0020900760,Murphy S.FOUL (P2.T3),,9:25,3,4,5,1,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:28 PM
+259,11,3,296,0020900760,,,9:25,3,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Miller Free Throw 1 of 2,8:28 PM
+260,1,4,297,0020900760,,,9:25,3,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,8:28 PM
+261,12,3,298,0020900760,,,9:25,3,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Miller Free Throw 2 of 2,8:29 PM
+262,0,4,300,0020900760,Murphy REBOUND (Off:0 Def:10),,9:25,3,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:29 PM
+263,1,1,301,0020900760,Murphy 18' Jump Shot (13 PTS),,9:11,3,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,61 - 66,5,,8:29 PM
+264,42,1,302,0020900760,,,8:59,3,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,63 - 66,3,Miller 2' Driving Layup (6 PTS),8:29 PM
+265,1,2,303,0020900760,MISS Murphy 20' Jump Shot,,8:41,3,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:30 PM
+266,0,4,304,0020900760,,,8:39,3,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:2 Def:5),8:30 PM
+267,66,2,305,0020900760,,,8:34,3,5,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Gibson 4' Jump Bank Shot,8:30 PM
+268,0,4,306,0020900760,Murphy REBOUND (Off:0 Def:11),,8:33,3,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:30 PM
+269,1,1,307,0020900760,Granger 25' 3PT Jump Shot (22 PTS) (Watson 4 AST),,8:26,3,4,4,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,63 - 69,6,,8:30 PM
+270,1,2,308,0020900760,,,8:05,3,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 19' Jump Shot,8:30 PM
+271,0,4,309,0020900760,Hibbert REBOUND (Off:3 Def:4),,8:04,3,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:30 PM
+272,42,2,310,0020900760,MISS Watson 2' Driving Layup,,7:56,3,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:30 PM
+273,0,4,311,0020900760,,,7:55,3,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,8:30 PM
+274,1,2,312,0020900760,,,7:46,3,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Miller 23' Jump Shot,8:31 PM
+275,0,4,313,0020900760,Granger REBOUND (Off:3 Def:3),,7:44,3,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:31 PM
+276,1,2,314,0020900760,MISS Hibbert 18' Jump Shot,,7:30,3,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:31 PM
+277,0,4,315,0020900760,Murphy REBOUND (Off:1 Def:11),,7:29,3,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:31 PM
+278,2,6,316,0020900760,,,7:29,3,5,4,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Hinrich S.FOUL (P2.T1),8:31 PM
+279,11,3,317,0020900760,MISS Murphy Free Throw 1 of 2,,7:29,3,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:31 PM
+280,1,4,318,0020900760,PACERS Rebound,,7:29,3,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,8:31 PM
+281,0,8,321,0020900760,SUB: Jones FOR Hibbert,,7:29,3,4,4,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,200780,Solomon Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:32 PM
+282,12,3,322,0020900760,Murphy Free Throw 2 of 2 (14 PTS),,7:29,3,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,63 - 70,7,,8:32 PM
+283,79,2,324,0020900760,,,7:16,3,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 18' Pullup Jump Shot,8:32 PM
+284,0,4,325,0020900760,Murphy REBOUND (Off:1 Def:12),,7:15,3,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:32 PM
+285,1,1,326,0020900760,Rush 26' 3PT Jump Shot (7 PTS) (Watson 5 AST),,7:09,3,4,4,0,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,63 - 73,10,,8:32 PM
+286,1,9,327,0020900760,,,7:08,3,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.3 Short 1),8:32 PM
+287,42,1,329,0020900760,,,6:56,3,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,65 - 73,8,Miller 2' Driving Layup (8 PTS),8:35 PM
+288,2,6,330,0020900760,Jones S.FOUL (P2.T4),,6:56,3,4,5,1,200780,Solomon Jones,IND,Indiana,1610612754.0,Pacers,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:35 PM
+289,10,3,331,0020900760,,,6:56,3,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,66 - 73,7,Miller Free Throw 1 of 1 (9 PTS),8:35 PM
+290,1,2,333,0020900760,MISS Granger 24' 3PT Jump Shot,,6:32,3,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:36 PM
+291,0,4,334,0020900760,,,6:31,3,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Hinrich REBOUND (Off:0 Def:1),8:36 PM
+292,1,5,335,0020900760,,,6:26,3,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rose Bad Pass Turnover (P3.T11),8:36 PM
+293,63,1,336,0020900760,Watson 11' Fadeaway Jumper (12 PTS),,6:05,3,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,66 - 75,9,,8:36 PM
+294,1,2,337,0020900760,,,5:49,3,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hinrich 26' 3PT Jump Shot,8:37 PM
+295,0,4,338,0020900760,Granger REBOUND (Off:3 Def:4),,5:48,3,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:37 PM
+296,1,1,339,0020900760,Jones 19' Jump Shot (6 PTS) (Granger 3 AST),,5:35,3,4,4,0,200780,Solomon Jones,IND,Indiana,1610612754.0,Pacers,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,66 - 77,11,,8:37 PM
+297,2,5,340,0020900760,Jones STEAL (1 STL),,5:20,3,5,4,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,200780,Solomon Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Rose Lost Ball Turnover (P4.T12),8:37 PM
+298,78,2,341,0020900760,MISS Rush 12' Floating Jump Shot,,5:04,3,4,0,0,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:37 PM
+299,0,4,343,0020900760,Jones REBOUND (Off:1 Def:0),,5:03,3,4,0,0,200780,Solomon Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:37 PM
+300,4,2,342,0020900760,MISS Jones 1' Tip Shot,,5:03,3,4,0,0,200780,Solomon Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:37 PM
+301,0,4,344,0020900760,,,5:01,3,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:3),8:37 PM
+302,1,1,345,0020900760,,,4:50,3,5,5,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,69 - 77,8,Miller 26' 3PT Jump Shot (12 PTS) (Rose 4 AST),8:38 PM
+303,79,2,346,0020900760,MISS Granger 19' Pullup Jump Shot,,4:30,3,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:38 PM
+304,0,4,347,0020900760,,,4:29,3,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:2 Def:6),8:38 PM
+305,1,1,348,0020900760,,,4:21,3,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,71 - 77,6,Deng 19' Jump Shot (16 PTS),8:38 PM
+306,1,2,349,0020900760,MISS Murphy 26' 3PT Jump Shot,,4:06,3,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:38 PM
+307,0,4,350,0020900760,Granger REBOUND (Off:4 Def:4),,4:04,3,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:38 PM
+308,5,2,351,0020900760,MISS Murphy 2' Layup,,3:58,3,4,0,5,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,,,Gibson BLOCK (1 BLK),8:38 PM
+309,0,4,352,0020900760,,,3:57,3,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:2 Def:7),8:39 PM
+310,5,1,353,0020900760,,,3:53,3,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,73 - 77,4,Hinrich 1' Layup (13 PTS),8:39 PM
+311,1,9,354,0020900760,PACERS Timeout: Regular (Full 3 Short 0),,3:51,3,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,8:39 PM
+312,0,8,356,0020900760,SUB: Jones FOR Granger,,3:51,3,4,4,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:41 PM
+313,0,8,357,0020900760,SUB: Ford FOR Murphy,,3:51,3,4,4,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:41 PM
+314,0,8,358,0020900760,SUB: Dunleavy FOR Watson,,3:51,3,4,4,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:41 PM
+315,0,8,359,0020900760,SUB: Hibbert FOR Jones,,3:51,3,4,4,0,200780,Solomon Jones,IND,Indiana,1610612754.0,Pacers,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:41 PM
+316,0,8,360,0020900760,,,3:51,3,5,5,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Salmons FOR Gibson,8:41 PM
+317,1,2,361,0020900760,MISS Dunleavy 26' 3PT Jump Shot,,3:26,3,4,0,0,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:42 PM
+318,0,4,362,0020900760,,,3:25,3,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:4),8:42 PM
+319,1,2,363,0020900760,,,3:07,3,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Miller 25' 3PT Jump Shot,8:42 PM
+320,0,4,364,0020900760,,,3:06,3,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Hinrich REBOUND (Off:1 Def:1),8:42 PM
+321,78,1,365,0020900760,,,2:51,3,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,75 - 77,2,Rose 16' Floating Jump Shot (16 PTS),8:42 PM
+322,5,1,366,0020900760,Ford 3' Layup (4 PTS),,2:27,3,4,0,0,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,75 - 79,4,,8:43 PM
+323,1,2,367,0020900760,,,2:09,3,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hinrich 21' Jump Shot,8:43 PM
+324,0,4,368,0020900760,Ford REBOUND (Off:0 Def:1),,2:08,3,4,0,0,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:43 PM
+325,1,1,369,0020900760,Ford 25' 3PT Jump Shot (7 PTS) (Jones 1 AST),,1:58,3,4,4,0,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,75 - 82,7,,8:43 PM
+326,1,2,370,0020900760,,,1:37,3,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Salmons 25' 3PT Jump Shot,8:44 PM
+327,0,4,371,0020900760,PACERS Rebound,,1:36,3,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,8:44 PM
+328,0,8,372,0020900760,,,1:36,3,5,5,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Thomas FOR Rose,8:44 PM
+329,79,1,373,0020900760,Ford 17' Pullup Jump Shot (9 PTS),,1:24,3,4,0,0,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,75 - 84,9,,8:44 PM
+330,8,1,374,0020900760,,,1:08,3,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,77 - 84,7,Salmons 1' Slam Dunk (14 PTS),8:44 PM
+331,1,5,375,0020900760,Ford Bad Pass Turnover (P1.T10),,1:00,3,4,5,0,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Hinrich STEAL (2 STL),8:45 PM
+332,3,6,376,0020900760,Jones L.B.FOUL (P1.PN),,1:00,3,4,5,1,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:45 PM
+333,0,8,377,0020900760,,,1:00,3,5,5,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Richard FOR Miller,8:45 PM
+334,11,3,378,0020900760,,,1:00,3,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,78 - 84,6,Hinrich Free Throw 1 of 2 (14 PTS),8:45 PM
+335,0,8,380,0020900760,,,1:00,3,5,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2484,Devin Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Brown FOR Deng,8:45 PM
+336,12,3,381,0020900760,,,1:00,3,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,79 - 84,5,Hinrich Free Throw 2 of 2 (15 PTS),8:45 PM
+337,1,2,383,0020900760,MISS Ford 21' Jump Shot,,0:47,3,4,0,0,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:46 PM
+338,0,4,384,0020900760,,,0:46,3,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Hinrich REBOUND (Off:1 Def:2),8:46 PM
+339,1,1,385,0020900760,,,0:39,3,5,5,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,81 - 84,3,Thomas 19' Jump Shot (7 PTS) (Hinrich 3 AST),8:46 PM
+340,85,1,386,0020900760,Dunleavy 8' Turnaround Bank Shot (2 PTS) (Hibbert 5 AST),,0:27,3,4,4,0,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,81 - 86,5,,8:46 PM
+341,63,2,388,0020900760,,,0:04,3,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hinrich 12' Fadeaway Jumper,8:46 PM
+342,0,4,389,0020900760,Dunleavy REBOUND (Off:0 Def:3),,0:03,3,4,0,0,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:46 PM
+343,1,2,390,0020900760,MISS Dunleavy 37' 3PT Jump Shot,,0:00,3,4,0,0,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:47 PM
+344,0,4,391,0020900760,PACERS Rebound,,0:00,3,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,8:47 PM
+345,0,13,392,0020900760,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,81 - 86,5,,8:47 PM
+346,0,12,394,0020900760,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,81 - 86,5,,8:49 PM
+347,84,1,396,0020900760,Jones 6' Running Bank Shot (7 PTS),,11:39,4,4,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,81 - 88,7,,8:50 PM
+348,1,1,398,0020900760,,,11:28,4,5,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,83 - 88,5,Hinrich 18' Jump Shot (17 PTS) (Salmons 2 AST),8:50 PM
+349,1,6,399,0020900760,,,11:19,4,5,4,1,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Richard P.FOUL (P2.T1),8:50 PM
+350,1,5,400,0020900760,Ford Bad Pass Turnover (P2.T11),,11:07,4,4,5,0,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,2484,Devin Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Brown STEAL (1 STL),8:51 PM
+351,7,2,401,0020900760,,,10:58,4,5,0,0,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Richard 2' Dunk,8:51 PM
+352,0,4,402,0020900760,Dunleavy REBOUND (Off:0 Def:4),,10:57,4,4,0,0,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:51 PM
+353,1,2,403,0020900760,MISS Granger 26' 3PT Jump Shot,,10:51,4,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:52 PM
+354,0,4,404,0020900760,,,10:50,4,5,0,0,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Richard REBOUND (Off:1 Def:2),8:52 PM
+355,46,2,405,0020900760,,,10:41,4,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Salmons 9' Running Jump Shot,8:52 PM
+356,0,4,406,0020900760,Jones REBOUND (Off:0 Def:2),,10:40,4,4,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:52 PM
+357,63,2,407,0020900760,MISS Dunleavy 13' Fadeaway Jumper,,10:25,4,4,0,0,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:52 PM
+358,0,4,408,0020900760,,,10:25,4,5,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:6),8:52 PM
+359,1,2,409,0020900760,,,10:11,4,5,0,0,2484,Devin Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Brown 19' Jump Shot,8:52 PM
+360,0,4,410,0020900760,Hibbert REBOUND (Off:3 Def:5),,10:10,4,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:52 PM
+361,1,2,411,0020900760,MISS Granger 27' 3PT Jump Shot,,9:59,4,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:52 PM
+362,0,4,412,0020900760,,,9:58,4,5,0,0,2484,Devin Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Brown REBOUND (Off:0 Def:2),8:52 PM
+363,2,6,413,0020900760,Jones S.FOUL (P2.T1),,9:48,4,4,5,1,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:53 PM
+364,0,8,414,0020900760,,,9:48,4,5,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Rose FOR Hinrich,8:53 PM
+365,11,3,415,0020900760,,,9:48,4,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Salmons Free Throw 1 of 2,8:53 PM
+366,1,4,416,0020900760,,,9:48,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,8:53 PM
+367,0,8,417,0020900760,,,9:48,4,5,5,0,2484,Devin Brown,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Deng FOR Brown,8:53 PM
+368,0,8,418,0020900760,SUB: Murphy FOR Hibbert,,9:48,4,4,4,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:53 PM
+369,0,8,419,0020900760,SUB: Rush FOR Dunleavy,,9:48,4,4,4,0,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:53 PM
+370,12,3,420,0020900760,,,9:48,4,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,84 - 88,4,Salmons Free Throw 2 of 2 (15 PTS),8:53 PM
+371,66,1,422,0020900760,Murphy 14' Jump Bank Shot (16 PTS) (Ford 1 AST),,9:33,4,4,4,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,0,,,,,,84 - 90,6,,8:54 PM
+372,2,5,423,0020900760,Ford STEAL (1 STL),,9:10,4,5,4,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Rose Lost Ball Turnover (P5.T13),8:54 PM
+373,1,2,424,0020900760,MISS Rush 25' 3PT Jump Shot,,9:03,4,4,0,0,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:54 PM
+374,0,4,425,0020900760,,,9:02,4,5,0,0,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Richard REBOUND (Off:1 Def:3),8:54 PM
+375,41,5,426,0020900760,Jones STEAL (2 STL),,9:00,4,5,4,0,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Richard Poss Lost Ball Turnover (P1.T14),8:54 PM
+376,1,2,427,0020900760,MISS Granger 19' Jump Shot,,8:57,4,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:54 PM
+377,0,4,428,0020900760,,,8:56,4,5,0,0,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Richard REBOUND (Off:1 Def:4),8:54 PM
+378,1,6,429,0020900760,Murphy P.FOUL (P3.T2),,8:51,4,4,5,1,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:55 PM
+379,4,9,430,0020900760,,,8:51,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:55 PM
+380,0,8,432,0020900760,,,8:51,4,5,5,0,201181,Chris Richard,CHI,Chicago,1610612741.0,Bulls,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Gibson FOR Richard,8:57 PM
+381,1,6,433,0020900760,Jones P.FOUL (P3.T3),,8:39,4,4,5,1,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:58 PM
+382,1,2,434,0020900760,,,8:28,4,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 23' Jump Shot,8:58 PM
+383,0,4,435,0020900760,,,8:27,4,5,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:1 Def:1),8:58 PM
+384,2,6,436,0020900760,Ford S.FOUL (P1.T4),,8:23,4,4,5,1,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:59 PM
+385,11,3,437,0020900760,,,8:23,4,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Salmons Free Throw 1 of 2,8:59 PM
+386,1,4,438,0020900760,,,8:23,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,8:59 PM
+387,12,3,439,0020900760,,,8:23,4,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,85 - 90,5,Salmons Free Throw 2 of 2 (16 PTS),8:59 PM
+388,1,2,441,0020900760,MISS Rush 20' Jump Shot,,8:00,4,4,0,0,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:59 PM
+389,0,4,443,0020900760,Murphy REBOUND (Off:2 Def:12),,7:59,4,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:59 PM
+390,4,1,442,0020900760,Murphy 2' Tip Shot (18 PTS),,7:59,4,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,85 - 92,7,,8:59 PM
+391,5,1,444,0020900760,,,7:41,4,5,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,87 - 92,5,Deng 3' Layup (18 PTS) (Rose 5 AST),9:00 PM
+392,5,2,445,0020900760,MISS Jones 4' Layup,,7:33,4,4,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:00 PM
+393,0,4,446,0020900760,Granger REBOUND (Off:5 Def:4),,7:32,4,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:00 PM
+394,0,8,447,0020900760,SUB: Watson FOR Ford,,7:21,4,4,4,0,2551,T.J. Ford,IND,Indiana,1610612754.0,Pacers,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,9:00 PM
+395,0,10,448,0020900760,Jump Ball Jones vs. Thomas: Tip to Salmons,,7:21,4,4,5,5,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,,,,9:00 PM
+396,2,5,449,0020900760,Jones Lost Ball Turnover (P2.T12),,7:21,4,4,5,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Thomas STEAL (1 STL),9:00 PM
+397,84,1,450,0020900760,,,7:16,4,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,89 - 92,3,Rose 6' Running Bank Shot (18 PTS),9:01 PM
+398,2,6,451,0020900760,Watson S.FOUL (P2.PN),,7:16,4,4,5,1,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:01 PM
+399,10,3,452,0020900760,,,7:16,4,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,90 - 92,2,Rose Free Throw 1 of 1 (19 PTS),9:01 PM
+400,1,5,454,0020900760,Murphy Bad Pass Turnover (P1.T13),,7:07,4,4,5,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Deng STEAL (2 STL),9:01 PM
+401,8,1,455,0020900760,,,6:59,4,5,5,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,92 - 92,TIE,Gibson 1' Slam Dunk (2 PTS) (Thomas 1 AST),9:01 PM
+402,1,9,456,0020900760,PACERS Timeout: Regular (Full 4 Short 0),,6:59,4,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,9:01 PM
+403,0,8,458,0020900760,SUB: Hibbert FOR Murphy,,6:59,4,4,4,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,9:04 PM
+404,3,2,459,0020900760,MISS Hibbert 7' Hook Shot,,6:47,4,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:04 PM
+405,0,4,460,0020900760,,,6:45,4,5,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:7),9:04 PM
+406,1,1,461,0020900760,,,6:28,4,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,94 - 92,-2,Salmons 6' Jump Shot (18 PTS),9:05 PM
+407,3,2,462,0020900760,MISS Hibbert 7' Hook Shot,,6:07,4,4,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:05 PM
+408,0,4,463,0020900760,,,6:06,4,5,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:1 Def:2),9:05 PM
+409,79,1,464,0020900760,,,5:55,4,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,96 - 92,-4,Rose 18' Pullup Jump Shot (21 PTS),9:05 PM
+410,1,1,465,0020900760,Granger 21' Jump Shot (24 PTS),,5:30,4,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,96 - 94,-2,,9:06 PM
+411,1,1,466,0020900760,,,5:03,4,5,5,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,98 - 94,-4,Thomas 20' Jump Shot (9 PTS) (Rose 6 AST),9:06 PM
+412,1,2,467,0020900760,MISS Granger 18' Jump Shot,,4:48,4,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:06 PM
+413,0,4,468,0020900760,,,4:47,4,5,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:1 Def:3),9:06 PM
+414,1,2,469,0020900760,,,4:23,4,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Salmons 27' 3PT Jump Shot,9:07 PM
+415,0,4,470,0020900760,,,4:23,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,9:07 PM
+416,11,5,471,0020900760,,,4:23,4,3,0,1,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Turnover: Shot Clock (T#15),9:07 PM
+417,1,5,472,0020900760,Hibbert Bad Pass Turnover (P2.T14),,4:04,4,4,5,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Deng STEAL (3 STL),9:07 PM
+418,1,5,474,0020900760,,,3:52,4,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Salmons Bad Pass Turnover (P2.T16),9:08 PM
+419,44,1,475,0020900760,Jones 2' Reverse Layup (9 PTS) (Watson 6 AST),,3:41,4,4,4,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,98 - 96,-2,,9:08 PM
+420,1,9,476,0020900760,,,3:41,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.4 Short 1),9:08 PM
+421,0,8,478,0020900760,SUB: Murphy FOR Jones,,3:41,4,4,4,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,9:10 PM
+422,0,8,479,0020900760,,,3:41,4,5,5,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Hinrich FOR Thomas,9:11 PM
+423,0,8,481,0020900760,,,3:41,4,5,5,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Miller FOR Gibson,9:11 PM
+424,1,2,482,0020900760,,,3:21,4,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Miller 17' Jump Shot,9:11 PM
+425,0,4,483,0020900760,Granger REBOUND (Off:5 Def:5),,3:20,4,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:11 PM
+426,2,6,484,0020900760,,,3:12,4,5,4,1,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Salmons S.FOUL (P2.T2),9:11 PM
+427,11,3,485,0020900760,MISS Granger Free Throw 1 of 2,,3:12,4,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:11 PM
+428,1,4,486,0020900760,PACERS Rebound,,3:12,4,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,9:11 PM
+429,0,8,487,0020900760,SUB: Jones FOR Hibbert,,3:12,4,4,4,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,9:12 PM
+430,12,3,488,0020900760,Granger Free Throw 2 of 2 (25 PTS),,3:12,4,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,98 - 97,-1,,9:12 PM
+431,2,6,490,0020900760,Granger S.FOUL (P3.PN),,2:51,4,4,5,1,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:12 PM
+432,11,3,491,0020900760,,,2:51,4,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,99 - 97,-2,Miller Free Throw 1 of 2 (13 PTS),9:12 PM
+433,0,8,493,0020900760,SUB: Hibbert FOR Jones,,2:51,4,4,4,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,9:13 PM
+434,12,3,494,0020900760,,,2:51,4,5,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Miller Free Throw 2 of 2,9:13 PM
+435,0,4,496,0020900760,Murphy REBOUND (Off:2 Def:13),,2:51,4,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:13 PM
+436,1,5,497,0020900760,Watson Bad Pass Turnover (P4.T15),,2:39,4,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:13 PM
+437,42,1,498,0020900760,,,2:22,4,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,101 - 97,-4,Salmons 3' Driving Layup (20 PTS),9:14 PM
+438,2,5,499,0020900760,Watson Lost Ball Turnover (P5.T16),,1:59,4,4,5,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Rose STEAL (2 STL),9:14 PM
+439,8,1,500,0020900760,,,1:56,4,5,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,103 - 97,-6,Deng 2' Slam Dunk (20 PTS) (Rose 7 AST),9:14 PM
+440,1,9,501,0020900760,PACERS Timeout: Regular (Full 5 Short 0),,1:56,4,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,9:14 PM
+441,0,8,503,0020900760,SUB: Dunleavy FOR Hibbert,,1:56,4,4,4,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,9:16 PM
+442,0,8,504,0020900760,,,1:56,4,5,5,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Gibson FOR Miller,9:16 PM
+443,1,2,505,0020900760,MISS Dunleavy 19' Jump Shot,,1:44,4,4,0,0,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:17 PM
+444,0,4,506,0020900760,,,1:43,4,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:2 Def:8),9:17 PM
+445,1,2,507,0020900760,,,1:25,4,5,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 21' Jump Shot,9:17 PM
+446,0,4,508,0020900760,,,1:23,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,9:17 PM
+447,3,6,509,0020900760,Murphy L.B.FOUL (P4.PN),,1:23,4,4,5,1,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:17 PM
+448,11,3,510,0020900760,,,1:23,4,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng Free Throw 1 of 2,9:17 PM
+449,1,4,511,0020900760,,,1:23,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,9:17 PM
+450,12,3,512,0020900760,,,1:23,4,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,104 - 97,-7,Deng Free Throw 2 of 2 (21 PTS),9:17 PM
+451,5,1,514,0020900760,Watson 2' Layup (14 PTS),,1:14,4,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,104 - 99,-5,,9:18 PM
+452,1,2,515,0020900760,,,0:53,4,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 20' Jump Shot,9:18 PM
+453,0,4,516,0020900760,PACERS Rebound,,0:51,4,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,9:18 PM
+454,2,9,517,0020900760,PACERS Timeout: Short (Full 5 Short 1),,0:51,4,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,9:19 PM
+455,0,18,519,0020900760,,,0:51,4,0,0,1,0,,,,,,0,,,,,,0,,,,,,104 - 99,-5,,9:19 PM
+456,1,2,523,0020900760,MISS Granger 25' 3PT Jump Shot,,0:46,4,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:20 PM
+457,0,4,524,0020900760,,,0:45,4,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:2 Def:9),9:20 PM
+458,1,6,525,0020900760,Dunleavy P.FOUL (P2.PN),,0:45,4,4,5,1,2399,Mike Dunleavy,IND,Indiana,1610612754.0,Pacers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:20 PM
+459,11,3,526,0020900760,,,0:45,4,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,105 - 99,-6,Deng Free Throw 1 of 2 (22 PTS),9:20 PM
+460,12,3,528,0020900760,,,0:45,4,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,106 - 99,-7,Deng Free Throw 2 of 2 (23 PTS),9:20 PM
+461,42,1,530,0020900760,Granger 2' Driving Layup (27 PTS),,0:38,4,4,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,106 - 101,-5,,9:21 PM
+462,1,6,531,0020900760,Watson P.FOUL (P3.PN),,0:28,4,4,5,1,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:21 PM
+463,11,3,532,0020900760,,,0:28,4,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,107 - 101,-6,Salmons Free Throw 1 of 2 (21 PTS),9:21 PM
+464,12,3,534,0020900760,,,0:28,4,5,0,0,2422,John Salmons,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Salmons Free Throw 2 of 2,9:21 PM
+465,0,4,536,0020900760,Murphy REBOUND (Off:2 Def:14),,0:28,4,4,0,0,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:22 PM
+466,73,2,537,0020900760,MISS Watson 1' Driving Reverse Layup,,0:20,4,4,0,0,2248,Earl Watson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:22 PM
+467,0,4,538,0020900760,,,0:19,4,5,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:1 Def:4),9:22 PM
+468,1,6,539,0020900760,Murphy P.FOUL (P5.PN),,0:19,4,4,5,1,2211,Troy Murphy,IND,Indiana,1610612754.0,Pacers,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:22 PM
+469,11,3,540,0020900760,,,0:19,4,5,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,108 - 101,-7,Gibson Free Throw 1 of 2 (3 PTS),9:22 PM
+470,12,3,542,0020900760,,,0:19,4,5,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,109 - 101,-8,Gibson Free Throw 2 of 2 (4 PTS),9:22 PM
+471,1,2,544,0020900760,MISS Rush 18' Jump Shot,,0:08,4,4,0,0,201575,Brandon Rush,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:23 PM
+472,0,4,545,0020900760,,,0:06,4,5,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:1 Def:5),9:23 PM
+473,0,13,546,0020900760,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,109 - 101,-8,,9:23 PM

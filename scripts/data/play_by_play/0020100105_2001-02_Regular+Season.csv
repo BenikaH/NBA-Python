@@ -1,0 +1,422 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020100105,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:41 PM
+1,0,10,1,0020100105,Jump Ball Robinson vs. Cato: Tip to Thomas,,12:00,1,4,5,5,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,,,,8:42 PM
+2,1,2,2,0020100105,,,11:38,1,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Torres 25' 3PT Jump Shot,8:43 PM
+3,0,4,3,0020100105,Robinson REBOUND (Off:0 Def:1),,11:35,1,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:43 PM
+4,5,2,4,0020100105,MISS Parker 2' Layup,,11:30,1,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:43 PM
+5,0,4,5,0020100105,,,11:28,1,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:1),8:43 PM
+6,1,5,6,0020100105,,,11:24,1,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Francis Bad Pass Turnover (P1.T1),8:43 PM
+7,5,1,7,0020100105,Parker 2' Layup (2 PTS),,11:11,1,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,0 - 2,2,,8:43 PM
+8,1,2,8,0020100105,,,10:49,1,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Francis 7' Jump Shot,8:44 PM
+9,0,4,9,0020100105,Smith REBOUND (Off:0 Def:1),,10:47,1,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:44 PM
+10,5,2,10,0020100105,MISS Duncan 3' Layup,,10:39,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:44 PM
+11,0,4,11,0020100105,,,10:37,1,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Francis REBOUND (Off:0 Def:1),8:44 PM
+12,1,1,12,0020100105,,,10:29,1,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,2 - 2,TIE,Thomas 16' Jump Shot (2 PTS),8:44 PM
+13,1,1,13,0020100105,Duncan 9' Jump Shot (2 PTS) (Parker 1 AST),,10:10,1,4,4,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,2 - 4,2,,8:44 PM
+14,5,1,14,0020100105,,,9:47,1,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,4 - 4,TIE,Thomas 2' Layup (4 PTS),8:45 PM
+15,5,2,15,0020100105,MISS Robinson 2' Layup,,9:30,1,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:45 PM
+16,0,4,16,0020100105,Duncan REBOUND (Off:1 Def:0),,9:28,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:45 PM
+17,1,5,17,0020100105,Duncan Bad Pass Turnover (P1.T1),,9:24,1,4,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Francis STEAL (1 STL),8:45 PM
+18,5,2,18,0020100105,,,9:07,1,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas 1' Layup,8:45 PM
+19,0,10,19,0020100105,Jump Ball Robinson vs. Cato: Tip to Parker,,9:07,1,4,5,4,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,,,,8:46 PM
+20,0,4,20,0020100105,SPURS Rebound,,9:07,1,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,8:46 PM
+21,5,2,21,0020100105,MISS Duncan 1' Layup,,8:51,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:46 PM
+22,0,4,23,0020100105,Duncan REBOUND (Off:2 Def:0),,8:49,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:46 PM
+23,5,2,22,0020100105,MISS Duncan 2' Layup,,8:49,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:46 PM
+24,0,4,25,0020100105,Duncan REBOUND (Off:3 Def:0),,8:48,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:46 PM
+25,5,1,24,0020100105,Duncan  Layup (4 PTS),,8:48,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,4 - 6,2,,8:46 PM
+26,1,5,27,0020100105,Smith STEAL (1 STL),,8:31,1,5,4,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Thomas Bad Pass Turnover (P1.T2),8:46 PM
+27,1,6,28,0020100105,,,8:31,1,5,0,1,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Torres P.FOUL (P1.T1),8:46 PM
+28,42,1,29,0020100105,Smith 1' Driving Layup (2 PTS),,8:15,1,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,4 - 8,4,,8:47 PM
+29,2,6,30,0020100105,Robinson S.FOUL (P1.T1),,7:59,1,4,0,1,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:47 PM
+30,11,3,31,0020100105,,,7:59,1,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,5 - 8,3,Francis Free Throw 1 of 2 (1 PTS),8:48 PM
+31,12,3,32,0020100105,,,7:59,1,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,6 - 8,2,Francis Free Throw 2 of 2 (2 PTS),8:48 PM
+32,1,2,33,0020100105,MISS Smith 20' Jump Shot,,7:43,1,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:48 PM
+33,0,4,34,0020100105,,,7:38,1,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:2),8:48 PM
+34,1,2,35,0020100105,,,7:30,1,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Rice 17' Jump Shot,8:48 PM
+35,0,4,36,0020100105,Duncan REBOUND (Off:3 Def:1),,7:28,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:49 PM
+36,1,1,37,0020100105,Robinson 13' Jump Shot (2 PTS) (Duncan 1 AST),,7:21,1,4,4,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,6 - 10,4,,8:49 PM
+37,1,1,38,0020100105,,,7:07,1,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,9 - 10,1,Francis 26' 3PT Jump Shot (5 PTS),8:49 PM
+38,1,6,39,0020100105,,,6:49,1,5,0,1,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Cato P.FOUL (P1.T2),8:49 PM
+39,1,1,40,0020100105,Duncan 4' Jump Shot (6 PTS),,6:42,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,9 - 12,3,,8:50 PM
+40,4,5,41,0020100105,,,6:23,1,5,0,1,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Rice Traveling Turnover (P1.T3),8:50 PM
+41,2,6,42,0020100105,,,6:06,1,5,0,1,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas S.FOUL (P1.T3),8:50 PM
+42,11,3,43,0020100105,Duncan Free Throw 1 of 2 (7 PTS),,6:06,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,9 - 13,4,,8:51 PM
+43,12,3,44,0020100105,Duncan Free Throw 2 of 2 (8 PTS),,6:06,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,9 - 14,5,,8:51 PM
+44,1,5,45,0020100105,Duncan STEAL (1 STL),,5:53,1,5,4,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Thomas Bad Pass Turnover (P2.T4),8:51 PM
+45,1,2,46,0020100105,MISS Robinson 11' Jump Shot,,5:38,1,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:52 PM
+46,0,4,47,0020100105,,,5:36,1,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Francis REBOUND (Off:0 Def:2),8:52 PM
+47,1,2,48,0020100105,,,5:26,1,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Francis 16' Jump Shot,8:52 PM
+48,0,4,49,0020100105,Smith REBOUND (Off:0 Def:2),,5:23,1,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:52 PM
+49,5,2,50,0020100105,MISS Robinson 2' Layup,,5:13,1,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:52 PM
+50,0,4,51,0020100105,,,5:12,1,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,8:52 PM
+51,1,9,52,0020100105,SPURS Timeout: Regular (Full 1 Short 0),,5:12,1,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,8:52 PM
+52,1,2,54,0020100105,,,4:52,1,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Francis 22' Jump Shot,8:55 PM
+53,0,4,55,0020100105,Parker REBOUND (Off:0 Def:1),,4:48,1,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:55 PM
+54,1,6,56,0020100105,,,4:46,1,5,0,1,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Cato P.FOUL (P2.T4),8:55 PM
+55,0,8,57,0020100105,,,4:46,1,5,5,0,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Willis FOR Cato,8:55 PM
+56,1,2,58,0020100105,MISS Bowen 17' Jump Shot,,4:34,1,4,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:55 PM
+57,0,4,59,0020100105,,,4:32,1,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Francis REBOUND (Off:0 Def:3),8:56 PM
+58,1,2,60,0020100105,,,4:09,1,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Torres 10' Jump Shot,8:56 PM
+59,0,4,61,0020100105,,,4:07,1,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Torres REBOUND (Off:1 Def:0),8:56 PM
+60,5,2,62,0020100105,,,4:00,1,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Torres 1' Layup,8:56 PM
+61,0,4,63,0020100105,Duncan REBOUND (Off:3 Def:2),,3:58,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:56 PM
+62,1,2,64,0020100105,MISS Duncan 16' Jump Shot,,3:46,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:57 PM
+63,0,4,65,0020100105,Smith REBOUND (Off:1 Def:2),,3:44,1,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:57 PM
+64,2,5,66,0020100105,Duncan Lost Ball Turnover (P2.T2),,3:36,1,4,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Willis STEAL (1 STL),8:57 PM
+65,1,6,67,0020100105,Robinson P.FOUL (P2.T2),,3:36,1,4,0,1,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:57 PM
+66,0,8,68,0020100105,SUB: Rose FOR Robinson,,3:36,1,4,4,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:57 PM
+67,58,1,69,0020100105,,,3:17,1,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,11 - 14,3,Willis 10' Turnaround Hook Shot (2 PTS),8:57 PM
+68,17,6,70,0020100105,,,3:03,1,5,0,1,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Rockets T.Foul (Def. 3 Sec Willis ),8:58 PM
+69,16,3,71,0020100105,Smith Free Throw Technical (3 PTS),,3:03,1,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,11 - 15,4,,8:58 PM
+70,0,8,72,0020100105,SUB: Daniels FOR Bowen,,3:03,1,4,4,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:58 PM
+71,0,8,73,0020100105,,,3:03,1,5,5,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Norris FOR Torres,8:58 PM
+72,1,2,74,0020100105,MISS Parker 25' 3PT Jump Shot,,2:59,1,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:59 PM
+73,0,4,75,0020100105,,,2:59,1,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,8:59 PM
+74,1,9,76,0020100105,,,2:59,1,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.1 Short 0),8:59 PM
+75,5,2,78,0020100105,Rose BLOCK (1 BLK),,2:46,1,5,0,4,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,,,MISS Willis 3' Layup,9:01 PM
+76,0,4,79,0020100105,Parker REBOUND (Off:0 Def:2),,2:43,1,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:01 PM
+77,5,2,80,0020100105,MISS Parker 1' Layup,,2:32,1,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:01 PM
+78,0,4,81,0020100105,,,2:30,1,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Rice REBOUND (Off:0 Def:1),9:01 PM
+79,2,5,82,0020100105,Duncan STEAL (2 STL),,2:08,1,5,4,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Rice Lost Ball Turnover (P2.T5),9:02 PM
+80,1,1,83,0020100105,Smith 10' Jump Shot (5 PTS) (Daniels 1 AST),,2:02,1,4,4,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,11 - 17,6,,9:02 PM
+81,1,5,84,0020100105,,,1:36,1,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Francis Bad Pass Turnover (P2.T6),9:02 PM
+82,0,8,85,0020100105,SUB: Porter FOR Parker,,1:36,1,4,4,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:02 PM
+83,0,8,86,0020100105,,,1:36,1,5,5,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Williams FOR Rice,9:02 PM
+84,47,1,87,0020100105,Duncan 5' Turnaround Jump Shot (10 PTS),,1:22,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,11 - 19,8,,9:03 PM
+85,1,1,88,0020100105,,,1:00,1,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,13 - 19,6,Thomas 5' Jump Shot (6 PTS),9:03 PM
+86,1,5,89,0020100105,Smith Bad Pass Turnover (P1.T3),,0:48,1,4,5,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Francis STEAL (2 STL),9:03 PM
+87,5,1,90,0020100105,,,0:44,1,5,5,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,15 - 19,4,Willis 2' Layup (4 PTS) (Francis 1 AST),9:03 PM
+88,1,2,91,0020100105,MISS Smith 14' Jump Shot,,0:35,1,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:04 PM
+89,0,4,92,0020100105,,,0:33,1,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:3),9:04 PM
+90,5,2,93,0020100105,Smith BLOCK (1 BLK),,0:28,1,5,0,4,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,,,MISS Willis 3' Layup,9:04 PM
+91,0,4,94,0020100105,Smith REBOUND (Off:1 Def:3),,0:23,1,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:04 PM
+92,5,1,95,0020100105,Rose 3' Layup (2 PTS) (Smith 1 AST),,0:23,1,4,4,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,15 - 21,6,,9:04 PM
+93,1,6,96,0020100105,Smith P.FOUL (P1.T3),,0:05,1,4,0,1,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:04 PM
+94,0,8,97,0020100105,SUB: Bowen FOR Smith,,0:05,1,4,4,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:04 PM
+95,1,2,98,0020100105,,,0:00,1,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Francis 15' Jump Shot,9:05 PM
+96,0,4,99,0020100105,,,0:00,1,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,9:05 PM
+97,0,13,100,0020100105,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,15 - 21,6,,9:05 PM
+98,0,12,102,0020100105,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,15 - 21,6,,9:07 PM
+99,1,2,103,0020100105,MISS Rose 10' Jump Shot,,11:41,2,4,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:08 PM
+100,0,4,104,0020100105,Rose REBOUND (Off:1 Def:0),,11:38,2,4,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:08 PM
+101,1,5,105,0020100105,Rose Bad Pass Turnover (P1.T4),,11:36,2,4,5,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Norris STEAL (1 STL),9:08 PM
+102,5,2,106,0020100105,,,11:22,2,5,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Norris 1' Layup,9:08 PM
+103,0,4,108,0020100105,,,11:20,2,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Francis REBOUND (Off:1 Def:3),9:08 PM
+104,5,1,107,0020100105,,,11:20,2,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,17 - 21,4,Francis  Layup (7 PTS),9:08 PM
+105,1,2,109,0020100105,MISS Porter 15' Jump Shot,,11:09,2,4,0,0,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:08 PM
+106,0,4,110,0020100105,,,11:06,2,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Francis REBOUND (Off:1 Def:4),9:08 PM
+107,1,2,111,0020100105,,,10:49,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas 21' Jump Shot,9:08 PM
+108,0,4,112,0020100105,Daniels REBOUND (Off:0 Def:1),,10:46,2,4,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:09 PM
+109,1,2,113,0020100105,MISS Rose 10' Jump Shot,,10:41,2,4,0,5,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,,,Thomas BLOCK (1 BLK),9:09 PM
+110,0,4,114,0020100105,,,10:38,2,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis REBOUND (Off:0 Def:1),9:09 PM
+111,42,1,115,0020100105,,,10:21,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,19 - 21,2,Thomas 2' Driving Layup (8 PTS),9:09 PM
+112,1,2,116,0020100105,MISS Daniels 26' 3PT Jump Shot,,10:04,2,4,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:09 PM
+113,0,4,117,0020100105,,,10:02,2,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Francis REBOUND (Off:1 Def:5),9:09 PM
+114,1,2,118,0020100105,,,9:51,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas 9' Jump Shot,9:09 PM
+115,0,4,119,0020100105,Ferry REBOUND (Off:0 Def:1),,9:48,2,4,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:09 PM
+116,1,1,120,0020100105,Duncan 7' Jump Shot (12 PTS),,9:32,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,19 - 23,4,,9:10 PM
+117,1,6,121,0020100105,Ferry P.FOUL (P1.T1),,9:17,2,4,0,1,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:10 PM
+118,0,8,122,0020100105,,,9:17,2,5,5,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Griffin FOR Thomas,9:10 PM
+119,0,8,123,0020100105,SUB: Robinson FOR Duncan,,9:17,2,4,4,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:10 PM
+120,0,8,124,0020100105,,,9:17,2,5,5,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Torres FOR Francis,9:10 PM
+121,1,2,125,0020100105,,,9:08,2,5,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Norris 19' Jump Shot,9:11 PM
+122,0,4,126,0020100105,Porter REBOUND (Off:0 Def:1),,9:06,2,4,0,0,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:11 PM
+123,2,6,127,0020100105,,,8:57,2,5,0,1,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Griffin S.FOUL (P1.T1),9:11 PM
+124,3,9,128,0020100105,,,8:57,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:11 PM
+125,11,3,130,0020100105,Rose Free Throw 1 of 2 (3 PTS),,8:57,2,4,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,19 - 24,5,,9:13 PM
+126,12,3,131,0020100105,Rose Free Throw 2 of 2 (4 PTS),,8:57,2,4,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,19 - 25,6,,9:13 PM
+127,1,2,132,0020100105,,,8:38,2,5,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Williams 17' Jump Shot,9:14 PM
+128,0,4,133,0020100105,SPURS Rebound,,8:36,2,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,9:14 PM
+129,2,5,134,0020100105,Rose Lost Ball Turnover (P2.T5),,8:26,2,4,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:14 PM
+130,1,2,135,0020100105,,,8:12,2,5,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Williams 18' Jump Shot,9:14 PM
+131,0,4,136,0020100105,Rose REBOUND (Off:1 Def:1),,8:10,2,4,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:15 PM
+132,1,1,137,0020100105,Rose 14' Jump Shot (6 PTS) (Porter 1 AST),,7:58,2,4,4,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,19 - 27,8,,9:15 PM
+133,0,8,138,0020100105,SUB: Parker FOR Porter,,7:35,2,4,4,0,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:15 PM
+134,2,6,139,0020100105,Parker S.FOUL (P1.T2),,7:34,2,4,0,1,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:16 PM
+135,11,3,140,0020100105,,,7:34,2,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,20 - 27,7,Willis Free Throw 1 of 2 (5 PTS),9:16 PM
+136,12,3,141,0020100105,,,7:34,2,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Willis Free Throw 2 of 2,9:16 PM
+137,0,4,142,0020100105,Ferry REBOUND (Off:0 Def:2),,7:33,2,4,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:17 PM
+138,1,2,143,0020100105,MISS Daniels 5' Jump Shot,,7:16,2,4,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:17 PM
+139,0,4,144,0020100105,,,7:14,2,5,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Norris REBOUND (Off:0 Def:1),9:17 PM
+140,1,2,145,0020100105,,,7:08,2,5,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Williams 8' Jump Shot,9:17 PM
+141,0,4,147,0020100105,,,7:05,2,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis REBOUND (Off:1 Def:1),9:17 PM
+142,5,2,146,0020100105,,,7:05,2,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Willis 3' Layup,9:17 PM
+143,0,4,148,0020100105,Robinson REBOUND (Off:0 Def:2),,7:03,2,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:17 PM
+144,1,2,149,0020100105,MISS Parker 24' 3PT Jump Shot,,6:58,2,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:17 PM
+145,0,4,150,0020100105,,,6:55,2,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Torres REBOUND (Off:1 Def:1),9:17 PM
+146,5,2,151,0020100105,Robinson BLOCK (1 BLK),,6:50,2,5,0,4,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,,,MISS Griffin 2' Layup,9:17 PM
+147,0,4,152,0020100105,Robinson REBOUND (Off:0 Def:3),,6:46,2,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:17 PM
+148,2,5,153,0020100105,Rose Lost Ball Turnover (P3.T6),,6:42,2,4,5,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Norris STEAL (2 STL),9:18 PM
+149,11,5,155,0020100105,,,6:18,2,3,0,1,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Turnover: Shot Clock (T#7),9:18 PM
+150,5,1,156,0020100105,Robinson 15' Layup (4 PTS) (Daniels 2 AST),,5:58,2,4,4,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,20 - 29,9,,9:19 PM
+151,1,2,157,0020100105,,,5:40,2,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Griffin 24' 3PT Jump Shot,9:19 PM
+152,0,4,158,0020100105,,,5:37,2,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis REBOUND (Off:2 Def:1),9:19 PM
+153,14,6,159,0020100105,,,5:29,2,5,0,1,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Williams FLAGRANT.FOUL.TYPE1 (P1.T2),9:19 PM
+154,5,5,161,0020100105,,,5:29,2,5,0,1,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Williams Foul Turnover (P1.T8),9:20 PM
+155,1,9,162,0020100105,SPURS Timeout: Regular (Full 2 Short 0),,5:29,2,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,9:20 PM
+156,0,8,164,0020100105,SUB: Duncan FOR Rose,,5:29,2,4,4,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:21 PM
+157,0,8,165,0020100105,,,5:29,2,5,5,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Francis FOR Torres,9:21 PM
+158,18,3,166,0020100105,Ferry Free Throw Flagrant 1 of 2 (1 PTS),,5:29,2,4,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,20 - 30,10,,9:22 PM
+159,19,3,167,0020100105,Ferry Free Throw Flagrant 2 of 2 (2 PTS),,5:29,2,4,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,20 - 31,11,,9:22 PM
+160,5,1,169,0020100105,Robinson 2' Layup (6 PTS),,5:20,2,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,20 - 33,13,,9:22 PM
+161,2,6,170,0020100105,,,5:20,2,5,0,1,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Griffin S.FOUL (P2.T3),9:22 PM
+162,0,8,171,0020100105,,,5:20,2,5,5,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Thomas FOR Griffin,9:23 PM
+163,0,8,172,0020100105,,,5:20,2,5,5,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Rice FOR Williams,9:23 PM
+164,10,3,173,0020100105,Robinson Free Throw 1 of 1 (7 PTS),,5:20,2,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,20 - 34,14,,9:23 PM
+165,1,2,174,0020100105,,,5:02,2,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Francis 10' Jump Shot,9:23 PM
+166,0,4,175,0020100105,Ferry REBOUND (Off:0 Def:3),,4:58,2,4,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:23 PM
+167,1,5,176,0020100105,Parker Bad Pass Turnover (P1.T7),,4:47,2,4,5,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Francis STEAL (3 STL),9:23 PM
+168,5,1,177,0020100105,,,4:44,2,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,22 - 34,12,Francis 1' Layup (9 PTS),9:23 PM
+169,1,6,178,0020100105,,,4:25,2,5,0,1,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis P.FOUL (P1.T4),9:24 PM
+170,1,1,179,0020100105,Daniels 24' 3PT Jump Shot (3 PTS),,4:15,2,4,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,22 - 37,15,,9:24 PM
+171,5,2,180,0020100105,,,3:50,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas 2' Layup,9:25 PM
+172,0,4,181,0020100105,Robinson REBOUND (Off:0 Def:4),,3:47,2,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:25 PM
+173,1,2,182,0020100105,MISS Duncan 4' Jump Shot,,3:34,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:25 PM
+174,0,4,183,0020100105,,,3:32,2,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis REBOUND (Off:2 Def:2),9:25 PM
+175,0,8,184,0020100105,SUB: Smith FOR Ferry,,3:28,2,4,4,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:25 PM
+176,1,9,185,0020100105,,,3:28,2,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.2 Short 0),9:25 PM
+177,2,6,186,0020100105,Daniels S.FOUL (P1.T3),,3:11,2,4,0,1,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:28 PM
+178,11,3,187,0020100105,,,3:11,2,5,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,23 - 37,14,Norris Free Throw 1 of 2 (1 PTS),9:28 PM
+179,12,3,188,0020100105,,,3:11,2,5,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,24 - 37,13,Norris Free Throw 2 of 2 (2 PTS),9:29 PM
+180,5,1,189,0020100105,Smith 3' Layup (7 PTS),,2:55,2,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,24 - 39,15,,9:29 PM
+181,1,5,190,0020100105,Parker STEAL (1 STL),,2:30,2,5,4,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Thomas Bad Pass Turnover (P3.T9),9:30 PM
+182,5,2,191,0020100105,MISS Parker 3' Layup,,2:26,2,4,0,5,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,,,Francis BLOCK (1 BLK),9:30 PM
+183,0,4,192,0020100105,Daniels REBOUND (Off:1 Def:1),,2:22,2,4,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:30 PM
+184,1,2,193,0020100105,MISS Smith 24' 3PT Jump Shot,,2:20,2,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:30 PM
+185,0,4,194,0020100105,,,2:17,2,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis REBOUND (Off:2 Def:3),9:30 PM
+186,1,2,195,0020100105,Robinson BLOCK (2 BLK),,2:04,2,5,0,4,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,,,MISS Thomas 5' Jump Shot,9:30 PM
+187,0,4,196,0020100105,,,2:01,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:1 Def:3),9:30 PM
+188,1,5,197,0020100105,,,1:59,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas Bad Pass Turnover (P4.T10),9:30 PM
+189,1,6,199,0020100105,,,1:39,2,5,0,1,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas P.FOUL (P2.PN),9:31 PM
+190,0,8,201,0020100105,,,1:39,2,5,5,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Griffin FOR Thomas,9:31 PM
+191,11,3,202,0020100105,Duncan Free Throw 1 of 2 (13 PTS),,1:39,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,24 - 40,16,,9:31 PM
+192,0,8,203,0020100105,SUB: Rose FOR Robinson,,1:39,2,4,4,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:32 PM
+193,12,3,204,0020100105,MISS Duncan Free Throw 2 of 2,,1:39,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:32 PM
+194,0,4,205,0020100105,,,1:38,2,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis REBOUND (Off:2 Def:4),9:32 PM
+195,1,2,206,0020100105,,,1:17,2,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Francis 17' Jump Shot,9:32 PM
+196,0,4,207,0020100105,SPURS Rebound,,1:15,2,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,9:32 PM
+197,1,2,208,0020100105,MISS Daniels 18' Jump Shot,,0:54,2,4,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:33 PM
+198,0,4,209,0020100105,Daniels REBOUND (Off:2 Def:1),,0:51,2,4,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:33 PM
+199,1,1,210,0020100105,Daniels  3PT Jump Shot (6 PTS) (Parker 2 AST),,0:30,2,4,4,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,24 - 43,19,,9:33 PM
+200,1,5,211,0020100105,Parker STEAL (2 STL),,0:07,2,5,4,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Francis Bad Pass Turnover (P3.T11),9:34 PM
+201,7,1,212,0020100105,Daniels 1' Dunk (8 PTS) (Parker 3 AST),,0:03,2,4,4,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,24 - 45,21,,9:34 PM
+202,1,2,213,0020100105,,,0:00,2,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Francis 26' 3PT Jump Shot,9:34 PM
+203,0,4,214,0020100105,,,0:00,2,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,9:34 PM
+204,0,13,215,0020100105,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,24 - 45,21,,9:34 PM
+205,0,12,221,0020100105,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,24 - 45,21,,9:50 PM
+206,1,2,222,0020100105,MISS Smith 4' Jump Shot,,11:40,3,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:51 PM
+207,0,4,224,0020100105,Robinson REBOUND (Off:1 Def:4),,11:38,3,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:51 PM
+208,5,2,223,0020100105,MISS Robinson 2' Layup,,11:38,3,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:51 PM
+209,0,4,226,0020100105,Smith REBOUND (Off:2 Def:3),,11:36,3,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:51 PM
+210,5,1,225,0020100105,Smith 2' Layup (9 PTS),,11:36,3,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,24 - 47,23,,9:51 PM
+211,1,2,227,0020100105,,,11:20,3,5,0,0,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Cato 4' Jump Shot,9:51 PM
+212,0,4,228,0020100105,Robinson REBOUND (Off:1 Def:5),,11:17,3,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:51 PM
+213,1,1,229,0020100105,Duncan 6' Jump Shot (15 PTS),,11:10,3,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,24 - 49,25,,9:52 PM
+214,5,1,230,0020100105,,,10:47,3,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,26 - 49,23,Thomas 2' Layup (10 PTS),9:52 PM
+215,1,2,231,0020100105,MISS Duncan 14' Jump Shot,,10:25,3,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:52 PM
+216,0,4,232,0020100105,,,10:22,3,5,0,0,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Cato REBOUND (Off:0 Def:1),9:52 PM
+217,1,1,233,0020100105,,,10:13,3,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,28 - 49,21,Thomas 10' Jump Shot (12 PTS),9:53 PM
+218,1,2,234,0020100105,MISS Robinson 15' Jump Shot,,9:57,3,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:53 PM
+219,0,4,235,0020100105,,,9:56,3,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,9:53 PM
+220,1,2,236,0020100105,,,9:41,3,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Torres 25' 3PT Jump Shot,9:53 PM
+221,0,4,237,0020100105,Parker REBOUND (Off:0 Def:3),,9:36,3,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:53 PM
+222,5,1,238,0020100105,Robinson 2' Layup (9 PTS) (Parker 4 AST),,9:33,3,4,4,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,28 - 51,23,,9:53 PM
+223,2,6,239,0020100105,,,9:33,3,5,0,1,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Torres S.FOUL (P2.T1),9:53 PM
+224,10,3,240,0020100105,MISS Robinson Free Throw 1 of 1,,9:33,3,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:54 PM
+225,0,4,241,0020100105,,,9:32,3,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:1 Def:4),9:54 PM
+226,1,1,242,0020100105,,,9:18,3,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,30 - 51,21,Rice 21' Jump Shot (2 PTS),9:54 PM
+227,1,2,243,0020100105,MISS Bowen 24' 3PT Jump Shot,,9:00,3,4,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:55 PM
+228,0,4,244,0020100105,Smith REBOUND (Off:3 Def:3),,8:57,3,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:55 PM
+229,5,1,245,0020100105,Smith  Layup (11 PTS),,8:55,3,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,30 - 53,23,,9:55 PM
+230,1,1,246,0020100105,,,8:38,3,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,32 - 53,21,Rice 21' Jump Shot (4 PTS),9:55 PM
+231,1,2,247,0020100105,MISS Bowen 25' 3PT Jump Shot,,8:18,3,4,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:55 PM
+232,0,4,248,0020100105,,,8:15,3,5,0,0,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Cato REBOUND (Off:0 Def:2),9:55 PM
+233,2,6,249,0020100105,Bowen S.FOUL (P1.T1),,8:09,3,4,0,1,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:55 PM
+234,11,3,250,0020100105,,,8:09,3,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,33 - 53,20,Francis Free Throw 1 of 2 (10 PTS),9:56 PM
+235,12,3,251,0020100105,,,8:09,3,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,34 - 53,19,Francis Free Throw 2 of 2 (11 PTS),9:56 PM
+236,2,6,252,0020100105,,,7:49,3,5,0,1,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas S.FOUL (P3.T2),9:57 PM
+237,11,3,253,0020100105,Bowen Free Throw 1 of 2 (1 PTS),,7:49,3,4,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,34 - 54,20,,9:57 PM
+238,12,3,254,0020100105,MISS Bowen Free Throw 2 of 2,,7:49,3,4,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:57 PM
+239,0,4,255,0020100105,,,7:49,3,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Rice REBOUND (Off:0 Def:2),9:58 PM
+240,2,6,256,0020100105,Duncan S.FOUL (P1.T2),,7:36,3,4,0,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:58 PM
+241,11,3,257,0020100105,,,7:36,3,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,35 - 54,19,Rice Free Throw 1 of 2 (5 PTS),9:58 PM
+242,12,3,258,0020100105,,,7:36,3,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,36 - 54,18,Rice Free Throw 2 of 2 (6 PTS),9:58 PM
+243,1,1,259,0020100105,Parker 25' 3PT Jump Shot (5 PTS),,7:23,3,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,36 - 57,21,,9:59 PM
+244,1,6,260,0020100105,Smith P.FOUL (P2.T3),,6:59,3,4,0,1,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:59 PM
+245,1,1,261,0020100105,,,6:51,3,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,38 - 57,19,Rice 21' Jump Shot (8 PTS),10:00 PM
+246,1,5,262,0020100105,Parker Bad Pass Turnover (P2.T8),,6:44,3,4,5,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Francis STEAL (4 STL),10:00 PM
+247,5,2,263,0020100105,,,6:36,3,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas 2' Layup,10:01 PM
+248,0,4,264,0020100105,Duncan REBOUND (Off:3 Def:3),,6:33,3,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:01 PM
+249,1,1,265,0020100105,Parker 9' Jump Shot (7 PTS),,6:12,3,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,38 - 59,21,,10:01 PM
+250,1,6,266,0020100105,Smith P.FOUL (P3.T4),,5:57,3,4,0,1,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:01 PM
+251,1,9,269,0020100105,SPURS Timeout: Regular (Full 3 Short 0),,5:57,3,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,10:02 PM
+252,0,8,271,0020100105,SUB: Ferry FOR Smith,,5:57,3,4,4,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:03 PM
+253,17,6,273,0020100105,SPURS T.Foul (Def. 3 Sec Robinson ),,5:50,3,4,0,1,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:04 PM
+254,16,3,274,0020100105,,,5:50,3,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,39 - 59,20,Francis Free Throw Technical (12 PTS),10:04 PM
+255,1,2,276,0020100105,,,5:35,3,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Torres 17' Jump Shot,10:05 PM
+256,0,4,277,0020100105,,,5:33,3,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:2 Def:4),10:05 PM
+257,1,6,278,0020100105,Ferry P.FOUL (P2.PN),,5:25,3,4,0,1,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:05 PM
+258,11,3,280,0020100105,,,5:25,3,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,40 - 59,19,Rice Free Throw 1 of 2 (9 PTS),10:05 PM
+259,12,3,281,0020100105,,,5:25,3,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Rice Free Throw 2 of 2,10:05 PM
+260,0,4,282,0020100105,Bowen REBOUND (Off:0 Def:1),,5:25,3,4,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:06 PM
+261,1,6,283,0020100105,,,5:14,3,5,0,1,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Cato P.FOUL (P3.T3),10:06 PM
+262,2,6,284,0020100105,,,5:07,3,5,0,1,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas S.FOUL (P4.T4),10:06 PM
+263,11,3,285,0020100105,Duncan Free Throw 1 of 2 (16 PTS),,5:07,3,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,40 - 60,20,,10:07 PM
+264,0,8,286,0020100105,SUB: Daniels FOR Ferry,,5:07,3,4,4,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:07 PM
+265,0,8,288,0020100105,,,5:07,3,5,5,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Griffin FOR Thomas,10:07 PM
+266,12,3,289,0020100105,Duncan Free Throw 2 of 2 (17 PTS),,5:07,3,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,40 - 61,21,,10:07 PM
+267,1,5,290,0020100105,Daniels STEAL (1 STL),,4:54,3,5,4,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Rice Bad Pass Turnover (P3.T12),10:08 PM
+268,7,1,291,0020100105,Daniels 1' Dunk (10 PTS),,4:51,3,4,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,40 - 63,23,,10:08 PM
+269,2,6,292,0020100105,Robinson S.FOUL (P3.PN),,4:30,3,4,0,1,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:08 PM
+270,11,3,293,0020100105,,,4:30,3,5,0,0,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Cato Free Throw 1 of 2,10:08 PM
+271,1,4,294,0020100105,,,4:30,3,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:08 PM
+272,12,3,295,0020100105,,,4:30,3,5,0,0,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,41 - 63,22,Cato Free Throw 2 of 2 (1 PTS),10:08 PM
+273,1,2,296,0020100105,MISS Daniels 17' Jump Shot,,4:15,3,4,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:09 PM
+274,0,4,297,0020100105,,,4:13,3,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:0 Def:1),10:09 PM
+275,1,1,298,0020100105,,,3:59,3,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,43 - 63,20,Francis 18' Jump Shot (14 PTS),10:09 PM
+276,1,5,299,0020100105,Parker Bad Pass Turnover (P3.T9),,3:44,3,4,5,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Cato STEAL (1 STL),10:09 PM
+277,5,1,300,0020100105,,,3:34,3,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,45 - 63,18,Francis 1' Layup (16 PTS),10:10 PM
+278,1,5,301,0020100105,Parker Bad Pass Turnover (P4.T10),,3:15,3,4,5,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Torres STEAL (1 STL),10:10 PM
+279,1,5,302,0020100105,,,3:10,3,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Torres Bad Pass Turnover (P1.T13),10:10 PM
+280,52,1,303,0020100105,Robinson 2' Alley Oop Dunk (11 PTS) (Duncan 2 AST),,2:58,3,4,4,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,45 - 65,20,,10:10 PM
+281,1,9,304,0020100105,,,2:47,3,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.3 Short 0),10:11 PM
+282,1,2,306,0020100105,,,2:36,3,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Torres 19' Jump Shot,10:13 PM
+283,0,4,307,0020100105,,,2:33,3,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:13 PM
+284,5,1,308,0020100105,,,2:31,3,5,5,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,47 - 65,18,Rice 2' Layup (11 PTS) (Torres 1 AST),10:13 PM
+285,1,5,309,0020100105,Duncan Bad Pass Turnover (P3.T11),,2:18,3,4,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Rice STEAL (1 STL),10:14 PM
+286,5,2,310,0020100105,,,2:14,3,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Francis 1' Layup,10:14 PM
+287,0,4,311,0020100105,Daniels REBOUND (Off:2 Def:2),,2:12,3,4,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:14 PM
+288,1,1,312,0020100105,Bowen 24' 3PT Jump Shot (4 PTS) (Daniels 3 AST),,2:04,3,4,4,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,47 - 68,21,,10:14 PM
+289,2,6,313,0020100105,Daniels S.FOUL (P2.PN),,1:44,3,4,0,1,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:14 PM
+290,11,3,314,0020100105,,,1:44,3,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,48 - 68,20,Torres Free Throw 1 of 2 (1 PTS),10:15 PM
+291,0,8,315,0020100105,SUB: Porter FOR Parker,,1:44,3,4,4,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:15 PM
+292,12,3,316,0020100105,,,1:44,3,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,49 - 68,19,Torres Free Throw 2 of 2 (2 PTS),10:15 PM
+293,1,2,317,0020100105,MISS Robinson 13' Jump Shot,,1:30,3,4,0,5,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,,,Cato BLOCK (1 BLK),10:15 PM
+294,0,4,318,0020100105,,,1:26,3,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Francis REBOUND (Off:1 Def:6),10:15 PM
+295,1,2,319,0020100105,,,1:19,3,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Rice 17' Jump Shot,10:15 PM
+296,0,4,320,0020100105,,,1:17,3,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:1 Def:1),10:15 PM
+297,1,6,321,0020100105,Duncan P.FOUL (P2.PN),,1:07,3,4,0,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:16 PM
+298,11,3,322,0020100105,,,1:07,3,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,50 - 68,18,Francis Free Throw 1 of 2 (17 PTS),10:16 PM
+299,0,8,323,0020100105,,,1:07,3,5,5,0,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Willis FOR Cato,10:16 PM
+300,0,8,324,0020100105,SUB: Rose FOR Robinson,,1:07,3,4,4,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:16 PM
+301,12,3,325,0020100105,,,1:07,3,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,51 - 68,17,Francis Free Throw 2 of 2 (18 PTS),10:16 PM
+302,1,2,327,0020100105,MISS Duncan 7' Jump Shot,,0:51,3,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:17 PM
+303,0,4,329,0020100105,Rose REBOUND (Off:2 Def:1),,0:49,3,4,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:17 PM
+304,53,2,328,0020100105,MISS Rose 2' Tip Shot,,0:49,3,4,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:17 PM
+305,0,4,330,0020100105,,,0:47,3,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis REBOUND (Off:2 Def:5),10:17 PM
+306,1,2,331,0020100105,,,0:41,3,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Willis 8' Jump Shot,10:17 PM
+307,0,4,332,0020100105,Bowen REBOUND (Off:0 Def:2),,0:39,3,4,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:17 PM
+308,1,2,333,0020100105,MISS Duncan 5' Jump Shot,,0:23,3,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:17 PM
+309,0,4,335,0020100105,Duncan REBOUND (Off:4 Def:3),,0:20,3,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:17 PM
+310,7,1,334,0020100105,Duncan 2' Dunk (19 PTS),,0:20,3,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,51 - 70,19,,10:17 PM
+311,1,2,336,0020100105,,,0:00,3,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Griffin 25' 3PT Jump Shot,10:18 PM
+312,0,4,337,0020100105,,,0:00,3,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:18 PM
+313,0,13,338,0020100105,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 70,19,,10:18 PM
+314,0,12,340,0020100105,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 70,19,,10:20 PM
+315,42,1,341,0020100105,,,11:40,4,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,53 - 70,17,Francis 1' Driving Layup (20 PTS),10:21 PM
+316,1,2,342,0020100105,MISS Duncan 5' Jump Shot,,11:19,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:21 PM
+317,0,4,343,0020100105,,,11:17,4,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Rice REBOUND (Off:0 Def:3),10:21 PM
+318,1,6,344,0020100105,Rose P.FOUL (P1.T1),,11:07,4,4,0,1,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:22 PM
+319,2,5,345,0020100105,Daniels STEAL (2 STL),,10:56,4,5,4,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Rice Lost Ball Turnover (P4.T14),10:22 PM
+320,1,6,346,0020100105,,,10:44,4,5,0,1,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis P.FOUL (P2.T1),10:22 PM
+321,1,2,347,0020100105,MISS Duncan 15' Jump Shot,,10:35,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:23 PM
+322,0,4,348,0020100105,,,10:33,4,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Rice REBOUND (Off:0 Def:4),10:23 PM
+323,5,2,349,0020100105,,,10:25,4,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Willis  Layup,10:23 PM
+324,0,4,350,0020100105,,,10:22,4,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis REBOUND (Off:3 Def:5),10:23 PM
+325,1,1,351,0020100105,,,10:20,4,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,55 - 70,15,Willis 4' Jump Shot (7 PTS),10:23 PM
+326,1,1,352,0020100105,Rose 4' Jump Shot (8 PTS),,10:08,4,4,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,55 - 72,17,,10:23 PM
+327,1,2,353,0020100105,,,9:51,4,5,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Norris 9' Jump Shot,10:23 PM
+328,0,4,354,0020100105,Rose REBOUND (Off:2 Def:2),,9:47,4,4,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:23 PM
+329,1,2,355,0020100105,MISS Porter 26' 3PT Jump Shot,,9:43,4,4,0,0,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:24 PM
+330,0,4,356,0020100105,,,9:43,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:24 PM
+331,0,8,357,0020100105,,,9:43,4,5,5,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Thomas FOR Griffin,10:24 PM
+332,0,8,358,0020100105,SUB: Robinson FOR Duncan,,9:30,4,4,4,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:24 PM
+333,2,5,359,0020100105,Rose STEAL (1 STL),,9:22,4,5,4,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Thomas Lost Ball Turnover (P5.T15),10:25 PM
+334,1,5,360,0020100105,Porter Bad Pass Turnover (P1.T12),,9:16,4,4,5,0,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Norris STEAL (3 STL),10:25 PM
+335,44,1,361,0020100105,,,8:56,4,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,57 - 72,15,Willis 1' Reverse Layup (9 PTS),10:25 PM
+336,1,2,362,0020100105,MISS Bowen 25' 3PT Jump Shot,,8:40,4,4,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:25 PM
+337,0,4,363,0020100105,,,8:38,4,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis REBOUND (Off:3 Def:6),10:25 PM
+338,1,2,364,0020100105,,,8:27,4,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Francis 15' Jump Shot,10:25 PM
+339,0,4,365,0020100105,,,8:25,4,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Francis REBOUND (Off:2 Def:6),10:26 PM
+340,5,1,366,0020100105,,,8:22,4,5,5,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,59 - 72,13,Thomas 1' Layup (14 PTS) (Francis 2 AST),10:26 PM
+341,1,9,367,0020100105,SPURS Timeout: Regular (Full 4 Short 0),,8:14,4,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,10:26 PM
+342,1,1,369,0020100105,Porter 25' 3PT Jump Shot (3 PTS),,8:08,4,4,0,0,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,59 - 75,16,,10:28 PM
+343,1,2,370,0020100105,Robinson BLOCK (3 BLK),,7:48,4,5,0,4,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,,,MISS Francis 6' Jump Shot,10:28 PM
+344,0,4,371,0020100105,,,7:47,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:29 PM
+345,0,8,372,0020100105,SUB: Smith FOR Bowen,,7:47,4,4,4,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:29 PM
+346,1,1,373,0020100105,,,7:40,4,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,62 - 75,13,Francis 30' 3PT Jump Shot (23 PTS),10:29 PM
+347,1,5,374,0020100105,Porter Bad Pass Turnover (P2.T13),,7:27,4,4,0,0,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:29 PM
+348,2,6,375,0020100105,Robinson S.FOUL (P4.T2),,7:06,4,4,0,1,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:30 PM
+349,0,8,376,0020100105,SUB: Parker FOR Daniels,,7:06,4,4,4,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:30 PM
+350,11,3,377,0020100105,,,7:06,4,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Rice Free Throw 1 of 2,10:30 PM
+351,1,4,378,0020100105,,,7:06,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:30 PM
+352,12,3,379,0020100105,,,7:06,4,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,63 - 75,12,Rice Free Throw 2 of 2 (12 PTS),10:30 PM
+353,1,2,380,0020100105,MISS Rose 13' Jump Shot,,6:51,4,4,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:31 PM
+354,0,4,381,0020100105,Parker REBOUND (Off:1 Def:3),,6:49,4,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:31 PM
+355,1,2,382,0020100105,MISS Rose 18' Jump Shot,,6:31,4,4,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:31 PM
+356,0,4,383,0020100105,,,6:29,4,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis REBOUND (Off:3 Def:7),10:31 PM
+357,1,2,384,0020100105,Robinson BLOCK (4 BLK),,6:16,4,5,0,4,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,,,MISS Thomas 7' Jump Shot,10:32 PM
+358,0,4,385,0020100105,,,6:16,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:32 PM
+359,1,1,386,0020100105,,,6:09,4,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,66 - 75,9,Francis 27' 3PT Jump Shot (26 PTS),10:32 PM
+360,1,1,387,0020100105,Porter 25' 3PT Jump Shot (6 PTS),,5:51,4,4,0,0,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,66 - 78,12,,10:32 PM
+361,2,6,388,0020100105,Parker S.FOUL (P2.T3),,5:27,4,4,0,1,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:33 PM
+362,3,9,389,0020100105,,,5:27,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:33 PM
+363,0,8,390,0020100105,SUB: Duncan FOR Rose,,5:27,4,4,4,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:33 PM
+364,11,3,393,0020100105,,,5:27,4,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,67 - 78,11,Francis Free Throw 1 of 2 (27 PTS),10:35 PM
+365,12,3,394,0020100105,,,5:27,4,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Francis Free Throw 2 of 2,10:35 PM
+366,0,4,395,0020100105,Robinson REBOUND (Off:1 Def:6),,5:26,4,4,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:36 PM
+367,1,2,396,0020100105,MISS Duncan 7' Jump Shot,,5:08,4,4,0,5,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,,,Thomas BLOCK (2 BLK),10:36 PM
+368,0,4,397,0020100105,,,5:05,4,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Francis REBOUND (Off:2 Def:7),10:36 PM
+369,1,1,398,0020100105,,,4:52,4,5,5,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,69 - 78,9,Willis 5' Jump Shot (11 PTS) (Francis 3 AST),10:36 PM
+370,5,2,399,0020100105,MISS Robinson 1' Layup,,4:37,4,4,0,5,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,,,Willis BLOCK (1 BLK),10:36 PM
+371,0,4,400,0020100105,,,4:35,4,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Rice REBOUND (Off:0 Def:5),10:36 PM
+372,5,1,401,0020100105,,,4:31,4,5,5,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,71 - 78,7,Willis  Layup (13 PTS) (Francis 4 AST),10:37 PM
+373,5,2,402,0020100105,MISS Duncan 1' Layup,,4:05,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:37 PM
+374,0,4,403,0020100105,,,4:03,4,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:2 Def:5),10:37 PM
+375,1,2,404,0020100105,,,3:46,4,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Francis 28' 3PT Jump Shot,10:37 PM
+376,0,4,405,0020100105,Parker REBOUND (Off:1 Def:4),,3:44,4,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:37 PM
+377,1,6,406,0020100105,,,3:41,4,5,0,1,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Rice P.FOUL (P1.T2),10:37 PM
+378,5,1,407,0020100105,Porter 2' Layup (8 PTS) (Smith 2 AST),,3:33,4,4,4,0,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,71 - 80,9,,10:38 PM
+379,1,9,408,0020100105,,,3:32,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.4 Short 0),10:38 PM
+380,5,1,410,0020100105,,,3:19,4,5,5,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,73 - 80,7,Willis 1' Layup (15 PTS) (Thomas 1 AST),10:40 PM
+381,48,2,411,0020100105,MISS Duncan 1' Dunk,,2:57,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:41 PM
+382,0,4,412,0020100105,Duncan REBOUND (Off:5 Def:3),,2:55,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:41 PM
+383,1,1,413,0020100105,Parker 25' 3PT Jump Shot (10 PTS) (Smith 3 AST),,2:49,4,4,4,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,73 - 83,10,,10:41 PM
+384,1,1,414,0020100105,,,2:30,4,5,5,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,76 - 83,7,Rice 26' 3PT Jump Shot (15 PTS) (Francis 5 AST),10:41 PM
+385,1,2,415,0020100105,MISS Parker 25' 3PT Jump Shot,,2:07,4,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:42 PM
+386,0,4,416,0020100105,,,2:05,4,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:2 Def:6),10:42 PM
+387,1,2,417,0020100105,,,1:51,4,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas 15' Jump Shot,10:42 PM
+388,0,4,418,0020100105,Duncan REBOUND (Off:5 Def:4),,1:49,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:42 PM
+389,1,1,419,0020100105,Smith 5' Jump Shot (13 PTS),,1:40,4,4,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,76 - 85,9,,10:42 PM
+390,1,9,420,0020100105,,,1:40,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.5 Short 0),10:42 PM
+391,1,1,421,0020100105,,,1:30,4,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,78 - 85,7,Francis 7' Jump Shot (29 PTS),10:44 PM
+392,2,6,422,0020100105,Parker S.FOUL (P3.T4),,1:30,4,4,0,1,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:44 PM
+393,10,3,423,0020100105,,,1:30,4,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,79 - 85,6,Francis Free Throw 1 of 1 (30 PTS),10:45 PM
+394,1,2,424,0020100105,MISS Duncan 10' Jump Shot,,1:13,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:45 PM
+395,0,4,425,0020100105,,,1:10,4,5,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Rice REBOUND (Off:0 Def:6),10:45 PM
+396,1,1,426,0020100105,,,0:56,4,5,5,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,82 - 85,3,Norris 25' 3PT Jump Shot (5 PTS) (Thomas 2 AST),10:46 PM
+397,1,2,427,0020100105,MISS Parker 25' 3PT Jump Shot,,0:40,4,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:46 PM
+398,0,4,428,0020100105,,,0:37,4,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:2 Def:7),10:46 PM
+399,1,9,429,0020100105,,,0:37,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.6 Short 0),10:46 PM
+400,1,2,431,0020100105,,,0:31,4,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Francis 5' Jump Shot,10:48 PM
+401,0,4,432,0020100105,Porter REBOUND (Off:0 Def:2),,0:29,4,4,0,0,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:48 PM
+402,1,6,433,0020100105,,,0:26,4,5,0,1,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas P.FOUL (P5.T3),10:48 PM
+403,1,6,434,0020100105,,,0:24,4,5,0,1,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Francis P.FOUL (P1.PN),10:49 PM
+404,11,3,435,0020100105,Parker Free Throw 1 of 2 (11 PTS),,0:24,4,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,82 - 86,4,,10:49 PM
+405,0,8,436,0020100105,SUB: Bowen FOR Smith,,0:24,4,4,4,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:49 PM
+406,12,3,437,0020100105,Parker Free Throw 2 of 2 (12 PTS),,0:24,4,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,82 - 87,5,,10:49 PM
+407,2,9,438,0020100105,,,0:24,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Short (Reg.6 Short 1),10:50 PM
+408,42,1,440,0020100105,,,0:14,4,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,84 - 87,3,Francis 2' Driving Layup (32 PTS),10:51 PM
+409,1,6,441,0020100105,,,0:13,4,5,0,1,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Francis P.FOUL (P2.PN),10:51 PM
+410,11,3,442,0020100105,Parker Free Throw 1 of 2 (13 PTS),,0:13,4,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,84 - 88,4,,10:51 PM
+411,12,3,443,0020100105,Parker Free Throw 2 of 2 (14 PTS),,0:13,4,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,84 - 89,5,,10:52 PM
+412,5,1,444,0020100105,,,0:02,4,5,5,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,86 - 89,3,Willis 1' Layup (17 PTS) (Norris 1 AST),10:52 PM
+413,1,7,445,0020100105,,,0:02,4,3,0,1,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Violation: Delay of game Violation,10:52 PM
+414,1,6,446,0020100105,,,0:01,4,5,0,1,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Norris P.FOUL (P1.PN),10:53 PM
+415,11,3,447,0020100105,MISS Porter Free Throw 1 of 2,,0:01,4,4,0,0,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:53 PM
+416,1,4,448,0020100105,SPURS Rebound,,0:01,4,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,10:53 PM
+417,12,3,449,0020100105,Porter Free Throw 2 of 2 (9 PTS),,0:01,4,4,0,0,345,Terry Porter,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,86 - 90,4,,10:54 PM
+418,1,2,450,0020100105,,,0:00,4,5,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Francis 31' 3PT Jump Shot,10:54 PM
+419,0,4,451,0020100105,,,0:00,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:54 PM
+420,0,13,452,0020100105,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,86 - 90,4,,10:54 PM

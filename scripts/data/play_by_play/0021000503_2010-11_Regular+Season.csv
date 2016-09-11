@@ -1,0 +1,477 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021000503,,,12:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:12 PM
+1,0,10,1,0021000503,Jump Ball Nene vs. Hill: Tip to Billups,,12:00,1,4.0,5,4,2403,Nene,DEN,Denver,1610612743.0,Nuggets,201941,Jordan Hill,HOU,Houston,1610612745.0,Rockets,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,,,,9:12 PM
+2,1,1,2,0021000503,Billups 18' Jump Shot (2 PTS) (Martin 1 AST),,11:46,1,4.0,4,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0 - 2,2,,9:13 PM
+3,47,2,3,0021000503,,,11:24,1,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Scola 13' Turnaround Jump Shot,9:13 PM
+4,0,4,4,0021000503,,,11:22,1,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:1 Def:0),9:13 PM
+5,56,2,5,0021000503,Nene BLOCK (1 BLK),,11:18,1,5.0,0,4,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,2403,Nene,DEN,Denver,1610612743.0,Nuggets,,,MISS Scola 4' Running Hook Shot,9:13 PM
+6,0,4,6,0021000503,Anthony REBOUND (Off:0 Def:1),,11:16,1,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:13 PM
+7,1,2,7,0021000503,MISS Martin 20' Jump Shot,,10:57,1,4.0,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:14 PM
+8,0,4,8,0021000503,,,10:55,1,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:0 Def:1),9:14 PM
+9,1,2,9,0021000503,,,10:44,1,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Martin 25' 3PT Jump Shot,9:14 PM
+10,0,4,10,0021000503,NUGGETS Rebound,,10:42,1,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,9:14 PM
+11,1,5,12,0021000503,Billups Bad Pass Turnover (P1.T1),,10:23,1,4.0,5,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Battier STEAL (1 STL),9:14 PM
+12,2,7,14,0021000503,Anthony Violation:Defensive Goaltending,,10:19,1,4.0,0,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:14 PM
+13,5,1,13,0021000503,,,10:19,1,5.0,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,2 - 2,TIE,Battier 1' Layup (2 PTS),9:14 PM
+14,1,2,15,0021000503,MISS Anthony 19' Jump Shot,,10:07,1,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:15 PM
+15,0,4,16,0021000503,,,10:06,1,5.0,0,0,201941,Jordan Hill,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hill REBOUND (Off:0 Def:1),9:15 PM
+16,1,2,17,0021000503,,,9:51,1,5.0,0,0,201941,Jordan Hill,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Hill 19' Jump Shot,9:15 PM
+17,0,4,18,0021000503,,,9:50,1,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:1 Def:1),9:15 PM
+18,1,2,19,0021000503,,,9:45,1,5.0,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Battier 25' 3PT Jump Shot,9:15 PM
+19,0,4,20,0021000503,Billups REBOUND (Off:0 Def:1),,9:44,1,4.0,0,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:15 PM
+20,63,1,21,0021000503,Nene 6' Fadeaway Jumper (2 PTS),,9:29,1,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,2 - 4,2,,9:15 PM
+21,1,1,22,0021000503,,,9:10,1,5.0,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,4 - 4,TIE,Scola 7' Jump Shot (2 PTS) (Martin 1 AST),9:16 PM
+22,75,1,23,0021000503,Martin 1' Driving Finger Roll Layup (2 PTS),,8:59,1,4.0,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,4 - 6,2,,9:16 PM
+23,2,6,24,0021000503,,,8:59,1,5.0,4,1,201941,Jordan Hill,HOU,Houston,1610612745.0,Rockets,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Hill S.FOUL (P1.T1),9:16 PM
+24,10,3,25,0021000503,MISS Martin Free Throw 1 of 1,,8:59,1,4.0,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:16 PM
+25,0,4,27,0021000503,,,8:57,1,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:1 Def:1),9:16 PM
+26,46,2,28,0021000503,,,8:41,1,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Martin 7' Running Jump Shot,9:17 PM
+27,0,4,29,0021000503,Nene REBOUND (Off:0 Def:1),,8:40,1,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:17 PM
+28,2,6,30,0021000503,,,8:38,1,5.0,4,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Lowry S.FOUL (P1.T2),9:17 PM
+29,11,3,31,0021000503,Anthony Free Throw 1 of 2 (1 PTS),,8:38,1,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,4 - 7,3,,9:17 PM
+30,12,3,33,0021000503,MISS Anthony Free Throw 2 of 2,,8:38,1,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:17 PM
+31,0,4,35,0021000503,,,8:37,1,5.0,0,0,201941,Jordan Hill,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hill REBOUND (Off:0 Def:2),9:17 PM
+32,1,2,36,0021000503,,,8:25,1,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Scola 18' Jump Shot,9:18 PM
+33,0,4,37,0021000503,Afflalo REBOUND (Off:0 Def:1),,8:23,1,4.0,0,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:18 PM
+34,63,1,38,0021000503,Martin 15' Fadeaway Jumper (4 PTS),,8:13,1,4.0,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,4 - 9,5,,9:18 PM
+35,1,6,39,0021000503,Martin P.FOUL (P1.T1),,8:00,1,4.0,5,1,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:18 PM
+36,1,1,40,0021000503,,,7:55,1,5.0,5,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,7 - 9,2,Lowry 26' 3PT Jump Shot (3 PTS) (Scola 1 AST),9:18 PM
+37,1,1,41,0021000503,Martin 17' Jump Shot (6 PTS) (Anthony 1 AST),,7:38,1,4.0,4,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,7 - 11,4,,9:19 PM
+38,1,1,43,0021000503,,,7:14,1,5.0,5,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,10 - 11,1,Martin  3PT Jump Shot (3 PTS) (Battier 1 AST),9:19 PM
+39,1,6,44,0021000503,,,7:07,1,5.0,4,1,201941,Jordan Hill,HOU,Houston,1610612745.0,Rockets,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Hill P.FOUL (P2.T3),9:20 PM
+40,0,8,45,0021000503,,,7:07,1,5.0,5,0,201941,Jordan Hill,HOU,Houston,1610612745.0,Rockets,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Miller FOR Hill,9:20 PM
+41,63,2,46,0021000503,MISS Nene 4' Fadeaway Jumper,,6:58,1,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:20 PM
+42,0,4,47,0021000503,,,6:57,1,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:1),9:20 PM
+43,56,2,48,0021000503,,,6:48,1,5.0,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Battier 6' Running Hook Shot,9:20 PM
+44,0,4,49,0021000503,Martin REBOUND (Off:0 Def:1),,6:47,1,4.0,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:20 PM
+45,2,5,50,0021000503,Anthony Lost Ball Turnover (P1.T2),,6:43,1,4.0,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Lowry STEAL (1 STL),9:20 PM
+46,1,1,52,0021000503,,,6:31,1,5.0,5,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,12 - 11,-1,Martin 23' Jump Shot (5 PTS) (Miller 1 AST),9:21 PM
+47,1,2,53,0021000503,MISS Nene 18' Jump Shot,,6:16,1,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:21 PM
+48,0,4,54,0021000503,,,6:15,1,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:1 Def:2),9:21 PM
+49,4,5,55,0021000503,,,6:00,1,5.0,0,1,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Martin Traveling Turnover (P1.T1),9:22 PM
+50,1,1,56,0021000503,Anthony 21' Jump Shot (3 PTS) (Afflalo 1 AST),,5:40,1,4.0,4,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,12 - 13,1,,9:22 PM
+51,4,6,59,0021000503,,,5:24,1,5.0,4,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Scola OFF.Foul (P1),9:23 PM
+52,5,5,60,0021000503,,,5:24,1,5.0,0,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola Foul Turnover (P1.T2),9:23 PM
+53,1,9,61,0021000503,NUGGETS Timeout: Regular (Full 1 Short 0),,5:24,1,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,9:23 PM
+54,4,6,65,0021000503,Anthony OFF.Foul (P1),,5:06,1,4.0,5,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:25 PM
+55,5,5,66,0021000503,Anthony Foul Turnover (P2.T3),,5:06,1,4.0,0,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:25 PM
+56,46,2,67,0021000503,Afflalo BLOCK (1 BLK),,4:52,1,5.0,0,4,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,,,MISS Martin 6' Running Jump Shot,9:25 PM
+57,0,4,68,0021000503,Afflalo REBOUND (Off:0 Def:2),,4:50,1,4.0,0,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:25 PM
+58,2,6,69,0021000503,,,4:49,1,5.0,4,1,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Miller S.FOUL (P1.T4),9:26 PM
+59,11,3,70,0021000503,MISS Nene Free Throw 1 of 2,,4:49,1,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:26 PM
+60,1,4,71,0021000503,NUGGETS Rebound,,4:49,1,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,9:26 PM
+61,12,3,72,0021000503,Nene Free Throw 2 of 2 (3 PTS),,4:49,1,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,12 - 14,2,,9:26 PM
+62,5,2,74,0021000503,,,4:32,1,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Martin 2' Layup,9:27 PM
+63,0,4,75,0021000503,,,4:31,1,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:1 Def:0),9:27 PM
+64,1,2,76,0021000503,,,4:27,1,5.0,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Battier 25' 3PT Jump Shot,9:27 PM
+65,0,4,77,0021000503,Nene REBOUND (Off:0 Def:2),,4:26,1,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:27 PM
+66,42,2,78,0021000503,MISS Anthony 1' Driving Layup,,4:19,1,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:27 PM
+67,0,4,79,0021000503,Martin REBOUND (Off:1 Def:1),,4:17,1,4.0,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:27 PM
+68,1,2,80,0021000503,MISS Martin 16' Jump Shot,,4:14,1,4.0,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:27 PM
+69,0,4,81,0021000503,Nene REBOUND (Off:1 Def:2),,4:12,1,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:27 PM
+70,2,6,82,0021000503,,,4:06,1,5.0,4,1,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Battier S.FOUL (P1.PN),9:27 PM
+71,0,8,83,0021000503,SUB: Andersen FOR Martin,,4:06,1,4.0,4,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:27 PM
+72,11,3,84,0021000503,Anthony Free Throw 1 of 2 (4 PTS),,4:06,1,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,12 - 15,3,,9:27 PM
+73,12,3,86,0021000503,Anthony Free Throw 2 of 2 (5 PTS),,4:06,1,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,12 - 16,4,,9:28 PM
+74,1,1,88,0021000503,,,3:52,1,5.0,5,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,15 - 16,1,Lowry 26' 3PT Jump Shot (6 PTS) (Scola 2 AST),9:28 PM
+75,1,2,89,0021000503,MISS Anthony 16' Jump Shot,,3:35,1,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:28 PM
+76,0,4,90,0021000503,,,3:34,1,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:1 Def:3),9:28 PM
+77,5,1,91,0021000503,,,3:29,1,5.0,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,17 - 16,-1,Scola 2' Layup (4 PTS) (Lowry 1 AST),9:28 PM
+78,1,2,92,0021000503,MISS Billups 20' Jump Shot,,3:08,1,4.0,0,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:29 PM
+79,0,4,93,0021000503,,,3:06,1,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:1 Def:4),9:29 PM
+80,5,1,94,0021000503,,,3:01,1,5.0,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,19 - 16,-3,Scola 1' Layup (6 PTS) (Lowry 2 AST),9:29 PM
+81,71,1,95,0021000503,Nene 1' Finger Roll Layup (5 PTS) (Anthony 2 AST),,2:43,1,4.0,4,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,19 - 18,-1,,9:29 PM
+82,11,6,96,0021000503,,,2:36,1,7.0,0,1,1248,,,,,,0,,,,,,0,,,,,,,,,9:29 PM
+83,1,9,97,0021000503,,,2:36,1,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.1 Short 0),9:30 PM
+84,0,8,100,0021000503,SUB: Smith FOR Afflalo,,2:36,1,4.0,4,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:32 PM
+85,16,3,101,0021000503,Billups Free Throw Technical (3 PTS),,2:36,1,4.0,0,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,19 - 19,TIE,,9:32 PM
+86,1,2,103,0021000503,,,2:20,1,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Scola 16' Jump Shot,9:32 PM
+87,0,4,104,0021000503,Anthony REBOUND (Off:0 Def:2),,2:19,1,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:33 PM
+88,4,6,105,0021000503,Nene OFF.Foul (P1),,2:05,1,4.0,5,1,2403,Nene,DEN,Denver,1610612743.0,Nuggets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:33 PM
+89,5,5,106,0021000503,Nene Foul Turnover (P1.T4),,2:05,1,4.0,0,1,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:33 PM
+90,1,2,107,0021000503,,,1:55,1,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lowry 20' Jump Shot,9:33 PM
+91,0,4,108,0021000503,Andersen REBOUND (Off:0 Def:1),,1:54,1,4.0,0,0,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:33 PM
+92,42,2,109,0021000503,MISS Anthony 3' Driving Layup,,1:40,1,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:33 PM
+93,0,4,110,0021000503,,,1:38,1,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:2),9:33 PM
+94,1,5,111,0021000503,Billups STEAL (1 STL),,1:31,1,5.0,4,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Battier Bad Pass Turnover (P1.T3),9:34 PM
+95,1,6,112,0021000503,,,1:30,1,5.0,4,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Lowry P.FOUL (P2.PN),9:34 PM
+96,0,8,113,0021000503,,,1:30,1,5.0,5,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Brooks FOR Lowry,9:34 PM
+97,0,8,114,0021000503,SUB: Shel. Williams FOR Nene,,1:30,1,4.0,4,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,200749,Shelden Williams,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:34 PM
+98,11,3,115,0021000503,Billups Free Throw 1 of 2 (4 PTS),,1:30,1,4.0,0,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,19 - 20,1,,9:34 PM
+99,12,3,117,0021000503,Billups Free Throw 2 of 2 (5 PTS),,1:30,1,4.0,0,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,19 - 21,2,,9:34 PM
+100,2,5,119,0021000503,Billups STEAL (2 STL),,1:14,1,5.0,4,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Martin Lost Ball Turnover (P2.T4),9:35 PM
+101,75,1,120,0021000503,Billups 1' Driving Finger Roll Layup (7 PTS) (Anthony 3 AST),,1:08,1,4.0,4,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,19 - 23,4,,9:35 PM
+102,1,2,121,0021000503,,,1:00,1,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Martin 26' 3PT Jump Shot,9:35 PM
+103,0,4,122,0021000503,Shel. Williams REBOUND (Off:0 Def:1),,0:59,1,4.0,0,0,200749,Shelden Williams,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:35 PM
+104,1,1,123,0021000503,Anthony 15' Jump Shot (7 PTS),,0:44,1,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,19 - 25,6,,9:35 PM
+105,1,2,124,0021000503,,,0:32,1,5.0,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Battier 26' 3PT Jump Shot,9:36 PM
+106,0,4,125,0021000503,Shel. Williams REBOUND (Off:0 Def:2),,0:30,1,4.0,0,0,200749,Shelden Williams,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:36 PM
+107,1,2,126,0021000503,MISS Anthony 19' Jump Shot,,0:13,1,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:36 PM
+108,0,4,127,0021000503,,,0:12,1,5.0,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:0 Def:1),9:36 PM
+109,1,1,128,0021000503,,,0:06,1,5.0,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,21 - 25,4,Scola 17' Jump Shot (8 PTS) (Brooks 1 AST),9:36 PM
+110,46,2,129,0021000503,MISS Smith 10' Running Jump Shot,,0:00,1,4.0,0,0,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:36 PM
+111,0,4,130,0021000503,NUGGETS Rebound,,0:00,1,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,9:36 PM
+112,0,13,131,0021000503,,,0:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,21 - 25,4,,9:36 PM
+113,0,12,133,0021000503,,,12:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,21 - 25,4,,9:39 PM
+114,5,2,134,0021000503,,,11:45,2,5.0,0,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lee 2' Layup,9:39 PM
+115,0,4,135,0021000503,,,11:43,2,5.0,0,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Lee REBOUND (Off:1 Def:0),9:39 PM
+116,2,6,136,0021000503,Shel. Williams S.FOUL (P1.T1),,11:43,2,4.0,5,1,200749,Shelden Williams,DEN,Denver,1610612743.0,Nuggets,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:40 PM
+117,11,3,137,0021000503,,,11:43,2,5.0,0,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lee Free Throw 1 of 2,9:40 PM
+118,1,4,138,0021000503,,,11:43,2,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,9:40 PM
+119,12,3,139,0021000503,,,11:43,2,5.0,0,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,22 - 25,3,Lee Free Throw 2 of 2 (1 PTS),9:40 PM
+120,46,2,142,0021000503,MISS Smith 6' Running Jump Shot,,11:24,2,4.0,0,0,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:41 PM
+121,0,4,143,0021000503,Andersen REBOUND (Off:1 Def:1),,11:23,2,4.0,0,0,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:41 PM
+122,5,2,144,0021000503,MISS Andersen 2' Layup,,11:18,2,4.0,0,5,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,,,Patterson BLOCK (1 BLK),9:41 PM
+123,0,4,145,0021000503,NUGGETS Rebound,,11:17,2,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,9:41 PM
+124,0,8,147,0021000503,SUB: Afflalo FOR Anthony,,11:17,2,4.0,4,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:41 PM
+125,1,2,148,0021000503,MISS Smith 19' Jump Shot,,11:13,2,4.0,0,0,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:41 PM
+126,0,4,149,0021000503,,,11:12,2,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:3),9:41 PM
+127,83,2,150,0021000503,,,10:47,2,5.0,0,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lee 10' Fadeaway Bank Shot,9:42 PM
+128,0,4,151,0021000503,Shel. Williams REBOUND (Off:0 Def:3),,10:46,2,4.0,0,0,200749,Shelden Williams,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:42 PM
+129,1,1,152,0021000503,Lawson 14' Jump Shot (2 PTS),,10:32,2,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,22 - 27,5,,9:42 PM
+130,1,1,153,0021000503,,,10:15,2,5.0,5,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,25 - 27,2,Miller 25' 3PT Jump Shot (3 PTS) (Lee 1 AST),9:42 PM
+131,63,1,154,0021000503,Afflalo 8' Fadeaway Jumper (2 PTS),,9:58,2,4.0,0,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,25 - 29,4,,9:43 PM
+132,1,2,155,0021000503,,,9:45,2,5.0,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brooks 25' 3PT Jump Shot,9:43 PM
+133,0,4,156,0021000503,Andersen REBOUND (Off:1 Def:2),,9:44,2,4.0,0,0,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:43 PM
+134,1,6,157,0021000503,,,9:37,2,5.0,4,1,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Budinger P.FOUL (P1.T1),9:43 PM
+135,2,5,158,0021000503,Lawson Lost Ball Turnover (P1.T5),,9:31,2,4.0,5,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Brooks STEAL (1 STL),9:43 PM
+136,5,1,159,0021000503,,,9:25,2,5.0,5,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,27 - 29,2,Lee  Layup (3 PTS) (Brooks 2 AST),9:43 PM
+137,1,5,160,0021000503,Lawson Bad Pass Turnover (P2.T6),,9:21,2,4.0,5,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Miller STEAL (1 STL),9:44 PM
+138,2,6,161,0021000503,Andersen S.FOUL (P1.T2),,9:19,2,4.0,5,1,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:44 PM
+139,0,18,162,0021000503,,,9:19,2,,0,1,161,,,,,,0,,,,,,0,,,,,,,,,9:44 PM
+140,11,3,163,0021000503,,,9:19,2,5.0,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brooks Free Throw 1 of 2,9:45 PM
+141,1,4,164,0021000503,,,9:19,2,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,9:45 PM
+142,12,3,165,0021000503,,,9:19,2,5.0,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,28 - 29,1,Brooks Free Throw 2 of 2 (1 PTS),9:45 PM
+143,1,2,167,0021000503,MISS Smith 26' 3PT Jump Shot,,8:54,2,4.0,0,0,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:45 PM
+144,0,4,168,0021000503,,,8:52,2,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:4),9:45 PM
+145,1,1,169,0021000503,,,8:38,2,5.0,5,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,31 - 29,-2,Budinger 26' 3PT Jump Shot (3 PTS) (Miller 2 AST),9:45 PM
+146,1,9,170,0021000503,NUGGETS Timeout: Regular (Full 2 Short 0),,8:31,2,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,9:46 PM
+147,63,2,174,0021000503,MISS Shel. Williams 15' Fadeaway Jumper,,8:16,2,4.0,0,0,200749,Shelden Williams,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:48 PM
+148,0,4,175,0021000503,,,8:15,2,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:5),9:48 PM
+149,1,1,176,0021000503,,,8:06,2,5.0,0,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,33 - 29,-4,Lee 19' Jump Shot (5 PTS),9:49 PM
+150,1,1,177,0021000503,Andersen 16' Jump Shot (2 PTS) (Smith 1 AST),,7:48,2,4.0,4,0,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,33 - 31,-2,,9:49 PM
+151,1,2,178,0021000503,,,7:29,2,5.0,0,0,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Patterson 15' Jump Shot,9:49 PM
+152,0,4,179,0021000503,Andersen REBOUND (Off:1 Def:3),,7:28,2,4.0,0,0,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:49 PM
+153,42,2,180,0021000503,MISS Lawson 2' Driving Layup,,7:20,2,4.0,0,5,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,,,Patterson BLOCK (2 BLK),9:49 PM
+154,0,4,181,0021000503,,,7:17,2,5.0,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Budinger REBOUND (Off:0 Def:1),9:49 PM
+155,1,2,182,0021000503,,,7:11,2,5.0,0,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lee 24' 3PT Jump Shot,9:49 PM
+156,0,4,183,0021000503,Afflalo REBOUND (Off:0 Def:3),,7:10,2,4.0,0,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:49 PM
+157,5,2,184,0021000503,MISS Afflalo 2' Layup,,7:02,2,4.0,0,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:50 PM
+158,0,4,186,0021000503,Afflalo REBOUND (Off:1 Def:3),,7:01,2,4.0,0,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:50 PM
+159,4,2,185,0021000503,MISS Afflalo 1' Tip Shot,,7:01,2,4.0,0,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:50 PM
+160,0,4,187,0021000503,,,7:00,2,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:6),9:50 PM
+161,1,1,188,0021000503,,,6:54,2,5.0,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,36 - 31,-5,Brooks 25' 3PT Jump Shot (4 PTS),9:50 PM
+162,42,1,189,0021000503,Smith 1' Driving Layup (2 PTS),,6:38,2,4.0,0,0,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,36 - 33,-3,,9:50 PM
+163,1,1,190,0021000503,,,6:21,2,5.0,5,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,38 - 33,-5,Budinger 17' Jump Shot (5 PTS) (Brooks 3 AST),9:50 PM
+164,65,2,191,0021000503,MISS Shel. Williams 6' Jump Hook Shot,,6:03,2,4.0,0,0,200749,Shelden Williams,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:51 PM
+165,0,4,192,0021000503,,,6:02,2,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:7),9:51 PM
+166,1,6,193,0021000503,Shel. Williams P.FOUL (P2.T3),,6:00,2,4.0,5,1,200749,Shelden Williams,DEN,Denver,1610612743.0,Nuggets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:51 PM
+167,0,8,194,0021000503,SUB: Nene FOR Andersen,,6:00,2,4.0,4,0,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:51 PM
+168,0,8,195,0021000503,SUB: Anthony FOR Shel. Williams,,6:00,2,4.0,4,0,200749,Shelden Williams,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:51 PM
+169,1,1,196,0021000503,,,5:45,2,5.0,5,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,41 - 33,-8,Budinger 25' 3PT Jump Shot (8 PTS) (Brooks 4 AST),9:51 PM
+170,42,1,197,0021000503,Anthony 2' Driving Layup (9 PTS),,5:27,2,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,41 - 35,-6,,9:52 PM
+171,1,1,198,0021000503,,,5:12,2,5.0,5,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,44 - 35,-9,Budinger 24' 3PT Jump Shot (11 PTS) (Brooks 5 AST),9:52 PM
+172,1,1,199,0021000503,Anthony 19' Jump Shot (11 PTS),,4:52,2,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,44 - 37,-7,,9:52 PM
+173,1,6,200,0021000503,Anthony P.FOUL (P2.T4),,4:37,2,4.0,5,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:52 PM
+174,4,9,201,0021000503,,,4:37,2,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:53 PM
+175,0,8,203,0021000503,SUB: Billups FOR Lawson,,4:37,2,4.0,4,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:55 PM
+176,1,2,205,0021000503,,,4:27,2,5.0,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Budinger 18' Jump Shot,9:55 PM
+177,0,4,206,0021000503,Smith REBOUND (Off:0 Def:1),,4:26,2,4.0,0,0,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:55 PM
+178,1,1,207,0021000503,Billups 25' 3PT Jump Shot (10 PTS) (Afflalo 2 AST),,4:03,2,4.0,4,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,44 - 40,-4,,9:56 PM
+179,1,2,208,0021000503,,,3:40,2,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Miller 11' Jump Shot,9:56 PM
+180,0,4,209,0021000503,Nene REBOUND (Off:1 Def:3),,3:39,2,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:56 PM
+181,14,6,210,0021000503,,,3:31,2,5.0,4,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Brooks FLAGRANT.FOUL.TYPE1 (P1.T2),9:56 PM
+182,18,3,211,0021000503,Billups Free Throw Flagrant 1 of 2 (11 PTS),,3:31,2,4.0,0,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,44 - 41,-3,,9:57 PM
+183,19,3,213,0021000503,Billups Free Throw Flagrant 2 of 2 (12 PTS),,3:31,2,4.0,0,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,44 - 42,-2,,9:57 PM
+184,0,8,215,0021000503,,,3:31,2,5.0,5,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Lowry FOR Brooks,9:58 PM
+185,0,8,216,0021000503,,,3:31,2,5.0,5,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Martin FOR Lee,9:58 PM
+186,44,1,217,0021000503,Nene 2' Reverse Layup (7 PTS) (Smith 2 AST),,3:22,2,4.0,4,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,44 - 44,TIE,,9:58 PM
+187,1,2,218,0021000503,,,2:57,2,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lowry 24' 3PT Jump Shot,9:59 PM
+188,0,4,219,0021000503,Anthony REBOUND (Off:0 Def:3),,2:56,2,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:59 PM
+189,1,2,220,0021000503,MISS Anthony 22' Jump Shot,,2:50,2,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:59 PM
+190,0,4,221,0021000503,,,2:48,2,5.0,0,0,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Patterson REBOUND (Off:0 Def:1),9:59 PM
+191,1,2,222,0021000503,,,2:36,2,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Miller 16' Jump Shot,9:59 PM
+192,0,4,223,0021000503,,,2:35,2,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:7),9:59 PM
+193,1,1,224,0021000503,,,2:30,2,5.0,5,0,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,46 - 44,-2,Patterson 17' Jump Shot (2 PTS) (Miller 3 AST),9:59 PM
+194,1,6,225,0021000503,,,2:17,2,5.0,4,1,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Martin P.FOUL (P1.T3),10:00 PM
+195,1,9,226,0021000503,,,2:17,2,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.2 Short 0),10:00 PM
+196,0,8,228,0021000503,,,2:17,2,5.0,5,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Scola FOR Miller,10:02 PM
+197,42,1,230,0021000503,Anthony 1' Driving Layup (13 PTS),,2:09,2,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,46 - 46,TIE,,10:02 PM
+198,42,1,231,0021000503,,,2:00,2,5.0,5,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,48 - 46,-2,Lowry  Driving Layup (8 PTS) (Martin 2 AST),10:03 PM
+199,2,6,232,0021000503,Billups S.FOUL (P1.PN),,2:00,2,4.0,5,1,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:03 PM
+200,0,8,233,0021000503,,,2:00,2,5.0,5,0,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Battier FOR Patterson,10:03 PM
+201,10,3,234,0021000503,,,2:00,2,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,49 - 46,-3,Lowry Free Throw 1 of 1 (9 PTS),10:03 PM
+202,1,6,236,0021000503,,,1:44,2,5.0,4,1,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Battier P.FOUL (P2.T4),10:03 PM
+203,0,8,237,0021000503,SUB: Andersen FOR Smith,,1:44,2,4.0,4,0,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:04 PM
+204,1,1,238,0021000503,Anthony 20' Jump Shot (15 PTS) (Andersen 1 AST),,1:38,2,4.0,4,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,49 - 48,-1,,10:04 PM
+205,66,2,239,0021000503,,,1:28,2,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Martin 14' Jump Bank Shot,10:04 PM
+206,0,4,240,0021000503,Nene REBOUND (Off:1 Def:4),,1:27,2,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:04 PM
+207,47,1,241,0021000503,Anthony 7' Turnaround Jump Shot (17 PTS),,1:14,2,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,49 - 50,1,,10:04 PM
+208,1,2,242,0021000503,,,0:58,2,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Martin 20' Jump Shot,10:05 PM
+209,0,4,243,0021000503,Andersen REBOUND (Off:1 Def:4),,0:57,2,4.0,0,0,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:05 PM
+210,2,6,244,0021000503,,,0:46,2,5.0,4,1,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Budinger S.FOUL (P2.PN),10:05 PM
+211,0,8,245,0021000503,,,0:46,2,5.0,5,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,201941,Jordan Hill,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Hill FOR Budinger,10:05 PM
+212,11,3,246,0021000503,Nene Free Throw 1 of 2 (8 PTS),,0:46,2,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,49 - 51,2,,10:05 PM
+213,12,3,248,0021000503,Nene Free Throw 2 of 2 (9 PTS),,0:46,2,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,49 - 52,3,,10:05 PM
+214,1,6,250,0021000503,Billups P.FOUL (P2.PN),,0:38,2,4.0,5,1,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:06 PM
+215,11,3,251,0021000503,,,0:38,2,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lowry Free Throw 1 of 2,10:06 PM
+216,1,4,252,0021000503,,,0:38,2,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:06 PM
+217,12,3,253,0021000503,,,0:38,2,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,50 - 52,2,Lowry Free Throw 2 of 2 (10 PTS),10:06 PM
+218,2,5,255,0021000503,Billups Lost Ball Turnover (P2.T7),,0:30,2,4.0,5,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Lowry STEAL (2 STL),10:06 PM
+219,1,2,256,0021000503,,,0:22,2,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Martin 24' 3PT Jump Shot,10:07 PM
+220,0,4,257,0021000503,,,0:21,2,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:2 Def:4),10:07 PM
+221,1,1,258,0021000503,,,0:00,2,5.0,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,52 - 52,TIE,Scola 17' Jump Shot (10 PTS) (Lowry 3 AST),10:07 PM
+222,0,18,259,0021000503,,,0:00,2,,0,1,258,Brian Grant,,,,,0,,,,,,0,,,,,,,,,10:07 PM
+223,0,13,260,0021000503,,,0:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,52 - 52,TIE,,10:07 PM
+224,0,12,262,0021000503,,,12:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,52 - 52,TIE,,10:24 PM
+225,1,1,263,0021000503,,,11:50,3,5.0,5,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,55 - 52,-3,Battier 26' 3PT Jump Shot (5 PTS) (Scola 3 AST),10:24 PM
+226,5,2,264,0021000503,MISS Nene 3' Layup,,11:26,3,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:24 PM
+227,0,4,265,0021000503,,,11:25,3,5.0,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:0 Def:2),10:24 PM
+228,1,2,266,0021000503,,,11:08,3,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Martin 20' Jump Shot,10:25 PM
+229,0,4,267,0021000503,Nene REBOUND (Off:1 Def:5),,11:07,3,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:25 PM
+230,1,1,268,0021000503,Anthony 18' Jump Shot (19 PTS),,10:50,3,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,55 - 54,-1,,10:25 PM
+231,1,7,269,0021000503,NUGGETS Violation: Delay of game Violation,,10:44,3,2.0,0,1,1610612743,,,,,,0,,,,,,0,,,,,,,,,10:25 PM
+232,11,6,270,0021000503,Afflalo T.FOUL (P0.T0),,10:44,3,4.0,0,1,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:26 PM
+233,1,7,271,0021000503,NUGGETS Violation: Delay of game Violation,,10:44,3,2.0,0,1,1610612743,,,,,,0,,,,,,0,,,,,,,,,10:26 PM
+234,16,3,272,0021000503,,,10:44,3,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,56 - 54,-2,Martin Free Throw Technical (6 PTS),10:26 PM
+235,1,2,274,0021000503,,,10:26,3,5.0,0,0,201941,Jordan Hill,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Hill 10' Jump Shot,10:26 PM
+236,0,4,275,0021000503,,,10:25,3,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:26 PM
+237,3,6,276,0021000503,Martin L.B.FOUL (P2.T1),,10:25,3,4.0,5,1,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:27 PM
+238,2,6,278,0021000503,Billups S.FOUL (P3.T2),,10:12,3,4.0,5,1,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:27 PM
+239,13,3,279,0021000503,,,10:12,3,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,57 - 54,-3,Lowry Free Throw 1 of 3 (11 PTS),10:28 PM
+240,14,3,281,0021000503,,,10:12,3,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,58 - 54,-4,Lowry Free Throw 2 of 3 (12 PTS),10:28 PM
+241,15,3,283,0021000503,,,10:12,3,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lowry Free Throw 3 of 3,10:28 PM
+242,0,4,285,0021000503,Nene REBOUND (Off:1 Def:6),,10:11,3,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:29 PM
+243,42,2,286,0021000503,MISS Anthony 4' Driving Layup,,9:50,3,4.0,0,5,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,,,Battier BLOCK (1 BLK),10:29 PM
+244,0,4,287,0021000503,Nene REBOUND (Off:2 Def:6),,9:49,3,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:29 PM
+245,41,5,341,0021000503,Nene Poss Lost Ball Turnover (P2.T8),,9:48,3,4.0,5,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Lowry STEAL (3 STL),10:29 PM
+246,1,2,288,0021000503,,,9:39,3,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Martin 26' 3PT Jump Shot,10:29 PM
+247,0,4,289,0021000503,Martin REBOUND (Off:1 Def:2),,9:38,3,4.0,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:29 PM
+248,1,2,290,0021000503,MISS Billups 26' 3PT Jump Shot,,9:32,3,4.0,0,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:29 PM
+249,0,4,291,0021000503,,,9:31,3,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:1 Def:2),10:29 PM
+250,71,1,292,0021000503,,,9:09,3,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,60 - 54,-6,Scola 2' Finger Roll Layup (12 PTS),10:30 PM
+251,2,6,293,0021000503,,,8:53,3,5.0,4,1,201941,Jordan Hill,HOU,Houston,1610612745.0,Rockets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Hill S.FOUL (P3.T1),10:30 PM
+252,11,3,294,0021000503,Anthony Free Throw 1 of 2 (20 PTS),,8:53,3,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,60 - 55,-5,,10:30 PM
+253,12,3,296,0021000503,Anthony Free Throw 2 of 2 (21 PTS),,8:53,3,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,60 - 56,-4,,10:30 PM
+254,40,2,378,0021000503,Martin BLOCK (1 BLK),,8:31,3,5.0,0,4,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,,,MISS Scola 2' Layup,10:31 PM
+255,0,4,379,0021000503,,,8:30,3,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:2 Def:2),10:31 PM
+256,1,2,298,0021000503,,,8:28,3,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Scola 8' Jump Shot,10:31 PM
+257,0,4,299,0021000503,Martin REBOUND (Off:1 Def:3),,8:27,3,4.0,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:31 PM
+258,1,1,300,0021000503,Afflalo 24' 3PT Jump Shot (5 PTS) (Anthony 4 AST),,8:19,3,4.0,4,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,60 - 59,-1,,10:31 PM
+259,42,2,301,0021000503,,,8:06,3,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lowry 1' Driving Layup,10:31 PM
+260,0,4,302,0021000503,,,8:05,3,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:3 Def:4),10:31 PM
+261,2,6,303,0021000503,Billups S.FOUL (P4.T3),,8:05,3,4.0,5,1,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:32 PM
+262,11,3,304,0021000503,,,8:05,3,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,61 - 59,-2,Lowry Free Throw 1 of 2 (13 PTS),10:32 PM
+263,0,8,306,0021000503,SUB: Lawson FOR Billups,,8:05,3,4.0,4,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:32 PM
+264,12,3,307,0021000503,,,8:05,3,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,62 - 59,-3,Lowry Free Throw 2 of 2 (14 PTS),10:32 PM
+265,1,2,309,0021000503,MISS Martin 17' Jump Shot,,7:46,3,4.0,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:33 PM
+266,0,4,310,0021000503,,,7:45,3,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:1 Def:1),10:33 PM
+267,2,5,311,0021000503,Martin STEAL (1 STL),,7:38,3,5.0,4,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Martin Lost Ball Turnover (P3.T5),10:33 PM
+268,5,1,312,0021000503,Afflalo  Layup (7 PTS) (Martin 2 AST),,7:33,3,4.0,4,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,62 - 61,-1,,10:33 PM
+269,1,2,313,0021000503,,,7:20,3,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lowry 21' Jump Shot,10:33 PM
+270,0,4,314,0021000503,,,7:19,3,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:33 PM
+271,1,2,316,0021000503,,,7:16,3,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lowry 24' 3PT Jump Shot,10:33 PM
+272,0,4,317,0021000503,,,7:15,3,5.0,0,0,201941,Jordan Hill,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hill REBOUND (Off:1 Def:2),10:33 PM
+273,5,1,318,0021000503,,,7:12,3,5.0,0,0,201941,Jordan Hill,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,64 - 61,-3,Hill 1' Layup (2 PTS),10:33 PM
+274,42,2,319,0021000503,MISS Anthony 1' Driving Layup,,6:54,3,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:34 PM
+275,0,4,320,0021000503,,,6:52,3,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:2 Def:3),10:34 PM
+276,1,2,321,0021000503,,,6:41,3,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Martin 25' 3PT Jump Shot,10:34 PM
+277,0,4,322,0021000503,Martin REBOUND (Off:1 Def:4),,6:39,3,4.0,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:34 PM
+278,1,5,323,0021000503,Nene Bad Pass Turnover (P3.T9),,6:34,3,4.0,0,1,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:34 PM
+279,1,2,325,0021000503,,,6:12,3,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Martin 16' Jump Shot,10:35 PM
+280,0,4,326,0021000503,Lawson REBOUND (Off:0 Def:1),,6:11,3,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:35 PM
+281,5,1,327,0021000503,Lawson 2' Layup (4 PTS) (Afflalo 3 AST),,6:06,3,4.0,4,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,64 - 63,-1,,10:35 PM
+282,1,5,333,0021000503,Lawson STEAL (1 STL),,6:04,3,5.0,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Scola Bad Pass Turnover (P2.T6),10:35 PM
+283,11,6,328,0021000503,,,6:03,3,5.0,0,1,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Martin T.FOUL (P1.T1),10:35 PM
+284,16,3,330,0021000503,Afflalo Free Throw Technical (8 PTS),,6:03,3,4.0,0,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,64 - 64,TIE,,10:36 PM
+285,0,8,332,0021000503,,,6:03,3,5.0,5,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Lee FOR Martin,10:37 PM
+286,43,1,334,0021000503,Anthony 1' Alley Oop Layup (23 PTS) (Martin 3 AST),,5:58,3,4.0,4,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,64 - 66,2,,10:37 PM
+287,1,1,335,0021000503,,,5:39,3,5.0,5,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,66 - 66,TIE,Lee 17' Jump Shot (7 PTS) (Scola 4 AST),10:37 PM
+288,1,6,336,0021000503,,,5:31,3,5.0,4,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Lowry P.FOUL (P3.T2),10:37 PM
+289,1,9,337,0021000503,NUGGETS Timeout: Regular (Full 3 Short 0),,5:31,3,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,10:38 PM
+290,2,6,342,0021000503,,,5:18,3,5.0,4,1,201941,Jordan Hill,HOU,Houston,1610612745.0,Rockets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Hill S.FOUL (P4.T3),10:40 PM
+291,11,3,343,0021000503,Lawson Free Throw 1 of 2 (5 PTS),,5:18,3,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,66 - 67,1,,10:41 PM
+292,0,8,345,0021000503,,,5:18,3,5.0,5,0,201941,Jordan Hill,HOU,Houston,1610612745.0,Rockets,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Miller FOR Hill,10:41 PM
+293,12,3,346,0021000503,Lawson Free Throw 2 of 2 (6 PTS),,5:18,3,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,66 - 68,2,,10:41 PM
+294,1,2,348,0021000503,,,4:58,3,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lowry 21' Jump Shot,10:41 PM
+295,0,4,349,0021000503,Nene REBOUND (Off:2 Def:7),,4:57,3,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:41 PM
+296,2,6,350,0021000503,,,4:52,3,5.0,4,1,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Battier S.FOUL (P3.T4),10:42 PM
+297,11,3,351,0021000503,Anthony Free Throw 1 of 2 (24 PTS),,4:52,3,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,66 - 69,3,,10:42 PM
+298,12,3,353,0021000503,Anthony Free Throw 2 of 2 (25 PTS),,4:52,3,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,66 - 70,4,,10:42 PM
+299,65,2,355,0021000503,,,4:34,3,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Scola 6' Jump Hook Shot,10:43 PM
+300,0,4,356,0021000503,Lawson REBOUND (Off:0 Def:2),,4:32,3,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:43 PM
+301,5,2,357,0021000503,MISS Nene 2' Layup,,4:27,3,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:43 PM
+302,0,4,358,0021000503,Nene REBOUND (Off:3 Def:7),,4:25,3,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:43 PM
+303,1,2,359,0021000503,MISS Lawson 25' 3PT Jump Shot,,4:20,3,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:43 PM
+304,0,4,360,0021000503,,,4:19,3,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:8),10:43 PM
+305,1,6,361,0021000503,Nene P.FOUL (P2.T4),,4:10,3,4.0,5,1,2403,Nene,DEN,Denver,1610612743.0,Nuggets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:43 PM
+306,2,6,362,0021000503,Anthony S.FOUL (P3.PN),,4:05,3,4.0,5,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:43 PM
+307,0,8,363,0021000503,SUB: Andersen FOR Martin,,4:05,3,4.0,4,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:44 PM
+308,11,3,364,0021000503,,,4:05,3,5.0,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Battier Free Throw 1 of 2,10:44 PM
+309,1,4,365,0021000503,,,4:05,3,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:44 PM
+310,12,3,366,0021000503,,,4:05,3,5.0,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,67 - 70,3,Battier Free Throw 2 of 2 (6 PTS),10:44 PM
+311,1,1,368,0021000503,Afflalo 24' 3PT Jump Shot (11 PTS) (Anthony 5 AST),,3:45,3,4.0,4,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,67 - 73,6,,10:44 PM
+312,1,1,369,0021000503,,,3:17,3,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,69 - 73,4,Miller 15' Jump Shot (5 PTS),10:45 PM
+313,5,1,370,0021000503,Nene 2' Layup (11 PTS),,2:58,3,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,69 - 75,6,,10:45 PM
+314,1,2,371,0021000503,,,2:49,3,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Scola 18' Jump Shot,10:45 PM
+315,0,4,372,0021000503,,,2:48,3,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:3 Def:3),10:45 PM
+316,1,1,373,0021000503,,,2:43,3,5.0,5,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,72 - 75,3,Miller 25' 3PT Jump Shot (8 PTS) (Lowry 4 AST),10:45 PM
+317,1,1,374,0021000503,Anthony 20' Jump Shot (27 PTS) (Lawson 1 AST),,2:29,3,4.0,4,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,72 - 77,5,,10:46 PM
+318,29,6,375,0021000503,Lawson Shooting Block Foul (P1.PN),,2:23,3,4.0,5,1,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:46 PM
+319,1,9,376,0021000503,,,2:23,3,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.3 Short 0),10:46 PM
+320,0,8,381,0021000503,SUB: Smith FOR Nene,,2:23,3,4.0,4,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:49 PM
+321,11,3,382,0021000503,,,2:23,3,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lowry Free Throw 1 of 2,10:49 PM
+322,1,4,383,0021000503,,,2:23,3,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:49 PM
+323,12,3,384,0021000503,,,2:23,3,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,73 - 77,4,Lowry Free Throw 2 of 2 (15 PTS),10:49 PM
+324,5,2,386,0021000503,MISS Andersen 2' Layup,,2:04,3,4.0,0,5,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,,,Miller BLOCK (1 BLK),10:49 PM
+325,0,4,387,0021000503,,,2:02,3,5.0,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:0 Def:3),10:49 PM
+326,1,2,388,0021000503,,,1:56,3,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Miller 25' 3PT Jump Shot,10:49 PM
+327,0,4,389,0021000503,,,1:55,3,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:2 Def:8),10:50 PM
+328,1,1,390,0021000503,,,1:49,3,5.0,5,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,76 - 77,1,Lee  3PT Jump Shot (10 PTS) (Miller 4 AST),10:50 PM
+329,1,2,391,0021000503,MISS Anthony 21' Jump Shot,,1:31,3,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:50 PM
+330,0,4,392,0021000503,,,1:29,3,5.0,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:0 Def:4),10:50 PM
+331,5,1,393,0021000503,,,1:14,3,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,78 - 77,-1,Scola 3' Layup (14 PTS),10:50 PM
+332,40,5,394,0021000503,Lawson Out of Bounds Lost Ball Turnover (P3.T10),,1:01,3,4.0,0,1,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:50 PM
+333,0,8,395,0021000503,,,1:01,3,5.0,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Budinger FOR Scola,10:51 PM
+334,1,2,397,0021000503,,,0:40,3,5.0,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Battier 3' Jump Shot,10:51 PM
+335,0,4,398,0021000503,Anthony REBOUND (Off:0 Def:4),,0:40,3,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:51 PM
+336,27,6,399,0021000503,,,0:40,3,5.0,4,1,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Battier Personal Block Foul (P4.PN),10:51 PM
+337,11,3,400,0021000503,Anthony Free Throw 1 of 2 (28 PTS),,0:40,3,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,78 - 78,TIE,,10:52 PM
+338,0,8,402,0021000503,,,0:40,3,5.0,5,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Patterson FOR Battier,10:52 PM
+339,12,3,403,0021000503,Anthony Free Throw 2 of 2 (29 PTS),,0:40,3,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,78 - 79,1,,10:52 PM
+340,1,1,406,0021000503,,,0:31,3,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,81 - 79,-2,Lowry 25' 3PT Jump Shot (18 PTS),10:52 PM
+341,1,6,407,0021000503,,,0:26,3,5.0,4,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Lowry P.FOUL (P4.PN),10:53 PM
+342,0,8,408,0021000503,,,0:26,3,5.0,5,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Brooks FOR Lowry,10:53 PM
+343,11,3,409,0021000503,Lawson Free Throw 1 of 2 (7 PTS),,0:26,3,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,81 - 80,-1,,10:53 PM
+344,12,3,411,0021000503,Lawson Free Throw 2 of 2 (8 PTS),,0:26,3,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,81 - 81,TIE,,10:53 PM
+345,42,2,413,0021000503,Anthony BLOCK (1 BLK),,0:04,3,5.0,0,4,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,,,MISS Miller 2' Driving Layup,10:54 PM
+346,0,4,414,0021000503,,,0:03,3,5.0,0,0,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Patterson REBOUND (Off:1 Def:1),10:54 PM
+347,72,2,415,0021000503,,,0:02,3,5.0,0,0,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Patterson 1' Putback Layup,10:54 PM
+348,0,4,416,0021000503,Andersen REBOUND (Off:1 Def:5),,0:01,3,4.0,0,0,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:54 PM
+349,1,2,419,0021000503,MISS Andersen 77' 3PT Jump Shot,,0:00,3,4.0,0,0,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:55 PM
+350,0,4,420,0021000503,NUGGETS Rebound,,0:00,3,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,10:55 PM
+351,0,13,421,0021000503,,,0:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,81 - 81,TIE,,10:55 PM
+352,0,12,423,0021000503,,,12:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,81 - 81,TIE,,10:57 PM
+353,1,2,424,0021000503,MISS Anthony 19' Jump Shot,,11:48,4,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:57 PM
+354,0,4,425,0021000503,,,11:47,4,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:2 Def:9),10:57 PM
+355,11,5,426,0021000503,,,11:23,4,3.0,0,1,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Turnover: Shot Clock (T#7),10:58 PM
+356,42,1,427,0021000503,Lawson 2' Driving Layup (10 PTS),,11:11,4,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,81 - 83,2,,10:58 PM
+357,7,1,428,0021000503,,,10:59,4,5.0,5,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,83 - 83,TIE,Budinger  Dunk (13 PTS) (Miller 5 AST),10:58 PM
+358,1,2,429,0021000503,MISS Lawson 3' Jump Shot,,10:46,4,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:58 PM
+359,0,4,430,0021000503,Andersen REBOUND (Off:2 Def:5),,10:45,4,4.0,0,0,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:58 PM
+360,72,1,431,0021000503,Andersen 2' Putback Layup (4 PTS),,10:43,4,4.0,0,0,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,83 - 85,2,,10:58 PM
+361,1,6,432,0021000503,Lawson P.FOUL (P2.T1),,10:31,4,4.0,5,1,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:59 PM
+362,44,2,433,0021000503,Smith BLOCK (1 BLK),,10:26,4,5.0,0,4,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,,,MISS Lee 2' Reverse Layup,10:59 PM
+363,0,4,434,0021000503,Anthony REBOUND (Off:0 Def:5),,10:24,4,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:59 PM
+364,2,6,435,0021000503,,,10:24,4,5.0,4,1,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,201814,Gary Forbes,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Miller S.FOUL (P2.T1),10:59 PM
+365,11,3,436,0021000503,Forbes Free Throw 1 of 2 (1 PTS),,10:24,4,4.0,0,0,201814,Gary Forbes,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,83 - 86,3,,10:59 PM
+366,12,3,438,0021000503,MISS Forbes Free Throw 2 of 2,,10:24,4,4.0,0,0,201814,Gary Forbes,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:00 PM
+367,0,4,440,0021000503,,,10:23,4,5.0,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Budinger REBOUND (Off:0 Def:2),11:00 PM
+368,1,6,441,0021000503,Lawson P.FOUL (P3.T2),,10:05,4,4.0,5,1,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:00 PM
+369,75,1,442,0021000503,,,10:00,4,5.0,0,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,85 - 86,1,Miller 2' Driving Finger Roll Layup (10 PTS),11:00 PM
+370,5,2,443,0021000503,MISS Smith 1' Layup,,9:55,4,4.0,0,5,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,,,Budinger BLOCK (1 BLK),11:01 PM
+371,0,4,444,0021000503,Lawson REBOUND (Off:1 Def:2),,9:54,4,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:01 PM
+372,1,6,445,0021000503,,,9:53,4,5.0,4,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Brooks P.FOUL (P2.T2),11:01 PM
+373,5,1,446,0021000503,Forbes 3' Layup (3 PTS) (Lawson 2 AST),,9:39,4,4.0,4,0,201814,Gary Forbes,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,85 - 88,3,,11:01 PM
+374,1,2,447,0021000503,Forbes BLOCK (1 BLK),,9:20,4,5.0,0,4,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,201814,Gary Forbes,DEN,Denver,1610612743.0,Nuggets,,,MISS Budinger 24' 3PT Jump Shot,11:01 PM
+375,0,4,448,0021000503,Andersen REBOUND (Off:2 Def:6),,9:17,4,4.0,0,0,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:02 PM
+376,5,2,449,0021000503,MISS Anthony 2' Layup,,9:02,4,4.0,0,5,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,,,Patterson BLOCK (3 BLK),11:02 PM
+377,0,4,450,0021000503,,,9:00,4,5.0,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brooks REBOUND (Off:0 Def:1),11:02 PM
+378,1,2,451,0021000503,,,8:50,4,5.0,0,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lee 25' 3PT Jump Shot,11:02 PM
+379,0,4,452,0021000503,Anthony REBOUND (Off:0 Def:6),,8:49,4,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:02 PM
+380,46,2,453,0021000503,MISS Forbes 7' Running Jump Shot,,8:37,4,4.0,0,0,201814,Gary Forbes,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:02 PM
+381,0,4,454,0021000503,,,8:37,4,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,11:02 PM
+382,3,6,455,0021000503,Forbes L.B.FOUL (P1.T3),,8:37,4,4.0,5,1,201814,Gary Forbes,DEN,Denver,1610612743.0,Nuggets,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:02 PM
+383,4,9,456,0021000503,,,8:37,4,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:03 PM
+384,0,8,458,0021000503,SUB: Nene FOR Anthony,,8:37,4,4.0,4,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:04 PM
+385,1,5,460,0021000503,Forbes STEAL (1 STL),,8:22,4,5.0,4,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,201814,Gary Forbes,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Brooks Bad Pass Turnover (P1.T8),11:05 PM
+386,1,2,461,0021000503,MISS Smith 3' Jump Shot,,8:18,4,4.0,0,0,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:05 PM
+387,0,4,463,0021000503,Forbes REBOUND (Off:1 Def:0),,8:16,4,4.0,0,0,201814,Gary Forbes,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:05 PM
+388,4,1,462,0021000503,Forbes  Tip Shot (5 PTS),,8:16,4,4.0,0,0,201814,Gary Forbes,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,85 - 90,5,,11:05 PM
+389,1,1,464,0021000503,,,8:06,4,5.0,5,0,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,87 - 90,3,Patterson 19' Jump Shot (4 PTS) (Lee 2 AST),11:05 PM
+390,1,2,465,0021000503,MISS Smith 24' 3PT Jump Shot,,8:00,4,4.0,0,0,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:05 PM
+391,0,4,466,0021000503,,,7:58,4,5.0,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Budinger REBOUND (Off:0 Def:3),11:05 PM
+392,1,1,467,0021000503,,,7:36,4,5.0,5,0,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,89 - 90,1,Patterson 16' Jump Shot (6 PTS) (Budinger 1 AST),11:06 PM
+393,42,1,468,0021000503,Lawson 3' Driving Layup (12 PTS),,7:15,4,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,89 - 92,3,,11:06 PM
+394,42,2,469,0021000503,Andersen BLOCK (1 BLK),,7:05,4,5.0,0,4,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,,,MISS Brooks 1' Driving Layup,11:06 PM
+395,0,4,470,0021000503,Nene REBOUND (Off:3 Def:8),,7:03,4,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:06 PM
+396,47,2,471,0021000503,MISS Forbes 7' Turnaround Jump Shot,,6:57,4,4.0,0,0,201814,Gary Forbes,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:06 PM
+397,0,4,472,0021000503,Smith REBOUND (Off:1 Def:1),,6:56,4,4.0,0,0,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:06 PM
+398,44,1,473,0021000503,Forbes 2' Reverse Layup (7 PTS) (Andersen 2 AST),,6:49,4,4.0,4,0,201814,Gary Forbes,DEN,Denver,1610612743.0,Nuggets,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,89 - 94,5,,11:06 PM
+399,1,9,474,0021000503,,,6:49,4,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.4 Short 0),11:06 PM
+400,0,8,476,0021000503,SUB: Billups FOR Smith,,6:49,4,4.0,4,0,2747,J.R. Smith,DEN,Denver,1610612743.0,Nuggets,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:09 PM
+401,0,8,477,0021000503,SUB: Afflalo FOR Forbes,,6:49,4,4.0,4,0,201814,Gary Forbes,DEN,Denver,1610612743.0,Nuggets,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:09 PM
+402,0,8,478,0021000503,,,6:49,4,5.0,5,0,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Scola FOR Miller,11:09 PM
+403,1,5,479,0021000503,Billups STEAL (3 STL),,6:34,4,5.0,4,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Budinger Bad Pass Turnover (P1.T9),11:09 PM
+404,2,6,480,0021000503,,,6:32,4,5.0,4,1,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Lee S.FOUL (P1.T3),11:09 PM
+405,11,3,481,0021000503,Afflalo Free Throw 1 of 2 (12 PTS),,6:32,4,4.0,0,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,89 - 95,6,,11:10 PM
+406,12,3,483,0021000503,Afflalo Free Throw 2 of 2 (13 PTS),,6:32,4,4.0,0,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,89 - 96,7,,11:10 PM
+407,1,1,485,0021000503,,,6:20,4,5.0,5,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,91 - 96,5,Lee 20' Jump Shot (12 PTS) (Budinger 2 AST),11:10 PM
+408,1,5,486,0021000503,Nene Bad Pass Turnover (P4.T11),,6:05,4,4.0,0,1,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:10 PM
+409,0,8,487,0021000503,,,6:05,4,5.0,5,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Lowry FOR Brooks,11:10 PM
+410,0,8,488,0021000503,SUB: Anthony FOR Lawson,,6:05,4,4.0,4,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:11 PM
+411,1,2,489,0021000503,,,5:49,4,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Scola 21' Jump Shot,11:11 PM
+412,0,4,490,0021000503,Anthony REBOUND (Off:0 Def:7),,5:48,4,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:11 PM
+413,1,6,491,0021000503,,,5:33,4,5.0,4,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Scola P.FOUL (P2.T4),11:11 PM
+414,0,8,492,0021000503,SUB: Martin FOR Andersen,,5:33,4,4.0,4,0,2365,Chris Andersen,DEN,Denver,1610612743.0,Nuggets,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:11 PM
+415,4,6,493,0021000503,Anthony OFF.Foul (P4),,5:31,4,4.0,5,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:12 PM
+416,5,5,494,0021000503,Anthony Foul Turnover (P3.T12),,5:31,4,4.0,0,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:12 PM
+417,65,1,495,0021000503,,,5:09,4,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,93 - 96,3,Scola 3' Jump Hook Shot (16 PTS),11:12 PM
+418,7,1,496,0021000503,Martin  Dunk (8 PTS) (Nene 1 AST),,4:51,4,4.0,4,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,93 - 98,5,,11:13 PM
+419,1,1,497,0021000503,,,4:31,4,5.0,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,95 - 98,3,Scola 17' Jump Shot (18 PTS) (Budinger 3 AST),11:13 PM
+420,2,6,498,0021000503,,,4:16,4,5.0,4,1,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Lee S.FOUL (P2.PN),11:13 PM
+421,11,3,499,0021000503,Anthony Free Throw 1 of 2 (30 PTS),,4:16,4,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,95 - 99,4,,11:14 PM
+422,12,3,501,0021000503,Anthony Free Throw 2 of 2 (31 PTS),,4:16,4,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,95 - 100,5,,11:14 PM
+423,1,6,503,0021000503,Martin P.FOUL (P3.T4),,4:02,4,4.0,5,1,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:14 PM
+424,0,8,504,0021000503,,,4:02,4,5.0,5,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Battier FOR Budinger,11:14 PM
+425,1,2,505,0021000503,,,3:50,4,5.0,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Battier 24' 3PT Jump Shot,11:15 PM
+426,0,4,506,0021000503,Anthony REBOUND (Off:0 Def:8),,3:49,4,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:15 PM
+427,5,2,507,0021000503,MISS Anthony 1' Layup,,3:40,4,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:15 PM
+428,0,4,508,0021000503,,,3:39,4,5.0,0,0,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Patterson REBOUND (Off:1 Def:2),11:15 PM
+429,1,2,509,0021000503,,,3:24,4,5.0,0,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lee 18' Jump Shot,11:15 PM
+430,0,4,510,0021000503,Martin REBOUND (Off:1 Def:5),,3:22,4,4.0,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:15 PM
+431,5,1,511,0021000503,Nene 1' Layup (13 PTS) (Billups 1 AST),,3:09,4,4.0,4,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,95 - 102,7,,11:16 PM
+432,2,6,512,0021000503,,,3:09,4,5.0,4,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Scola S.FOUL (P3.PN),11:16 PM
+433,1,9,513,0021000503,,,3:09,4,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.5 Short 0),11:16 PM
+434,0,8,516,0021000503,,,3:09,4,5.0,5,0,201584,Courtney Lee,HOU,Houston,1610612745.0,Rockets,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Martin FOR Lee,11:18 PM
+435,0,8,517,0021000503,,,3:09,4,5.0,5,0,202335,Patrick Patterson,HOU,Houston,1610612745.0,Rockets,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Miller FOR Patterson,11:18 PM
+436,10,3,519,0021000503,Nene Free Throw 1 of 1 (14 PTS),,3:09,4,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,95 - 103,8,,11:19 PM
+437,1,1,521,0021000503,,,2:50,4,5.0,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,97 - 103,6,Scola 8' Jump Shot (20 PTS) (Battier 2 AST),11:19 PM
+438,42,2,522,0021000503,MISS Anthony 2' Driving Layup,,2:31,4,4.0,0,5,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,,,Miller BLOCK (2 BLK),11:19 PM
+439,0,4,523,0021000503,Anthony REBOUND (Off:1 Def:8),,2:30,4,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:19 PM
+440,2,6,524,0021000503,,,2:30,4,5.0,4,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Lowry S.FOUL (P5.PN),11:19 PM
+441,1,9,525,0021000503,NUGGETS Timeout: Regular (Full 4 Short 0),,2:30,4,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,11:20 PM
+442,11,3,530,0021000503,Anthony Free Throw 1 of 2 (32 PTS),,2:30,4,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,97 - 104,7,,11:21 PM
+443,12,3,532,0021000503,Anthony Free Throw 2 of 2 (33 PTS),,2:30,4,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,97 - 105,8,,11:22 PM
+444,3,6,534,0021000503,,,2:22,4,5.0,4,1,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Miller L.B.FOUL (P3.PN),11:22 PM
+445,5,5,535,0021000503,,,2:22,4,5.0,0,1,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Miller Foul Turnover (P1.T10),11:22 PM
+446,11,3,536,0021000503,Nene Free Throw 1 of 2 (15 PTS),,2:22,4,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,97 - 106,9,,11:23 PM
+447,12,3,538,0021000503,Nene Free Throw 2 of 2 (16 PTS),,2:22,4,4.0,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,97 - 107,10,,11:23 PM
+448,1,1,540,0021000503,,,2:13,4,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,100 - 107,7,Lowry 28' 3PT Jump Shot (21 PTS),11:23 PM
+449,75,2,541,0021000503,MISS Anthony  Driving Finger Roll Layup,,1:51,4,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:24 PM
+450,0,4,542,0021000503,Anthony REBOUND (Off:2 Def:8),,1:50,4,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:24 PM
+451,40,2,556,0021000503,MISS Anthony 2' Layup,,1:49,4,4.0,0,5,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,,,Battier BLOCK (2 BLK),11:24 PM
+452,0,10,544,0021000503,Jump Ball Anthony vs. Battier: Tip to Miller,,1:49,4,4.0,5,5,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,,,,11:24 PM
+453,0,4,557,0021000503,,,1:49,4,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,11:24 PM
+454,1,6,546,0021000503,Nene P.FOUL (P3.PN),,1:44,4,4.0,5,1,2403,Nene,DEN,Denver,1610612743.0,Nuggets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:24 PM
+455,11,3,547,0021000503,,,1:44,4,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,101 - 107,6,Scola Free Throw 1 of 2 (21 PTS),11:25 PM
+456,12,3,549,0021000503,,,1:44,4,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,102 - 107,5,Scola Free Throw 2 of 2 (22 PTS),11:25 PM
+457,47,1,551,0021000503,Afflalo 19' Turnaround Jump Shot (15 PTS),,1:21,4,4.0,0,0,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,102 - 109,7,,11:25 PM
+458,1,2,552,0021000503,,,1:08,4,5.0,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lowry 28' 3PT Jump Shot,11:26 PM
+459,0,4,553,0021000503,Anthony REBOUND (Off:2 Def:9),,1:06,4,4.0,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:26 PM
+460,7,1,554,0021000503,Martin 1' Dunk (10 PTS) (Nene 2 AST),,1:03,4,4.0,4,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,102 - 111,9,,11:26 PM
+461,1,6,555,0021000503,Afflalo P.FOUL (P1.PN),,0:49,4,4.0,5,1,201167,Arron Afflalo,DEN,Denver,1610612743.0,Nuggets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:26 PM
+462,11,3,558,0021000503,,,0:49,4,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,103 - 111,8,Scola Free Throw 1 of 2 (23 PTS),11:26 PM
+463,12,3,560,0021000503,,,0:49,4,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,104 - 111,7,Scola Free Throw 2 of 2 (24 PTS),11:27 PM
+464,2,6,562,0021000503,,,0:38,4,5.0,4,1,1802,Brad Miller,HOU,Houston,1610612745.0,Rockets,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Miller S.FOUL (P4.PN),11:27 PM
+465,11,3,564,0021000503,MISS Martin Free Throw 1 of 2,,0:38,4,4.0,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:27 PM
+466,1,4,565,0021000503,NUGGETS Rebound,,0:38,4,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,11:27 PM
+467,12,3,566,0021000503,Martin Free Throw 2 of 2 (11 PTS),,0:38,4,4.0,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,104 - 112,8,,11:27 PM
+468,1,9,568,0021000503,,,0:38,4,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.6 Short 0),11:28 PM
+469,46,1,572,0021000503,,,0:30,4,5.0,0,0,2755,Kevin Martin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,106 - 112,6,Martin 4' Running Jump Shot (8 PTS),11:30 PM
+470,1,6,573,0021000503,,,0:25,4,5.0,4,1,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Battier P.FOUL (P5.PN),11:30 PM
+471,11,3,575,0021000503,Billups Free Throw 1 of 2 (13 PTS),,0:25,4,4.0,0,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,106 - 113,7,,11:30 PM
+472,12,3,577,0021000503,MISS Billups Free Throw 2 of 2,,0:25,4,4.0,0,0,1497,Chauncey Billups,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:30 PM
+473,0,4,579,0021000503,,,0:24,4,5.0,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:3 Def:4),11:31 PM
+474,1,5,580,0021000503,,,0:22,4,5.0,0,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola Bad Pass Turnover (P3.T11),11:31 PM
+475,0,13,581,0021000503,,,0:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,106 - 113,7,,11:31 PM

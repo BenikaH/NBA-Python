@@ -1,0 +1,424 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020200616,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:45 PM
+1,0,10,1,0020200616,Jump Ball O'Neal vs. Collins: Tip to Fisher,,12:00,1,4,5,4,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,,,,10:45 PM
+2,1,2,2,0020200616,MISS Fox 25' 3PT Jump Shot,,11:42,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:46 PM
+3,0,4,3,0020200616,,,11:41,1,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:0 Def:1),10:46 PM
+4,1,5,4,0020200616,Bryant STEAL (1 STL),,11:30,1,5,4,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Kittles Bad Pass Turnover (P1.T1),10:46 PM
+5,1,1,5,0020200616,Fisher 22' Jump Shot (2 PTS) (Bryant 1 AST),,11:11,1,4,4,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0 - 2,2,,10:46 PM
+6,5,2,6,0020200616,Walker BLOCK (1 BLK),,10:52,1,5,0,4,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Martin  Layup,10:47 PM
+7,0,4,7,0020200616,O'Neal REBOUND (Off:0 Def:1),,10:48,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:47 PM
+8,1,2,8,0020200616,MISS Fisher 24' 3PT Jump Shot,,10:34,1,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:47 PM
+9,0,4,9,0020200616,,,10:32,1,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:0 Def:2),10:47 PM
+10,1,2,10,0020200616,,,10:26,1,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kittles 25' 3PT Jump Shot,10:47 PM
+11,0,4,11,0020200616,Walker REBOUND (Off:0 Def:1),,10:24,1,4,0,0,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:47 PM
+12,4,6,12,0020200616,O'Neal OFF.Foul (P1),,10:12,1,4,0,1,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:47 PM
+13,5,5,13,0020200616,O'Neal Foul Turnover (P1.T1),,10:12,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:47 PM
+14,1,1,14,0020200616,,,10:01,1,5,5,0,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,2 - 2,TIE,Collins 12' Jump Shot (2 PTS) (Martin 1 AST),10:48 PM
+15,1,1,15,0020200616,Bryant 14' Jump Shot (2 PTS) (O'Neal 1 AST),,9:43,1,4,4,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,2 - 4,2,,10:48 PM
+16,1,1,16,0020200616,,,9:27,1,5,5,0,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,4 - 4,TIE,Collins 15' Jump Shot (4 PTS) (Martin 2 AST),10:48 PM
+17,63,1,17,0020200616,Fisher 15' Fadeaway Jumper (4 PTS),,9:00,1,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,4 - 6,2,,10:49 PM
+18,63,1,18,0020200616,,,8:46,1,5,0,0,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,6 - 6,TIE,Collins 15' Fadeaway Jumper (6 PTS),10:49 PM
+19,1,2,19,0020200616,MISS O'Neal 9' Jump Shot,,8:28,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:50 PM
+20,0,4,20,0020200616,,,8:27,1,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kidd REBOUND (Off:0 Def:1),10:50 PM
+21,2,6,21,0020200616,Fox S.FOUL (P1.T1),,8:14,1,4,0,1,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:50 PM
+22,11,3,22,0020200616,,,8:14,1,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,7 - 6,-1,Kittles Free Throw 1 of 2 (1 PTS),10:50 PM
+23,12,3,23,0020200616,,,8:14,1,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,8 - 6,-2,Kittles Free Throw 2 of 2 (2 PTS),10:50 PM
+24,5,2,24,0020200616,MISS Walker  Layup,,7:55,1,4,0,0,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:51 PM
+25,0,4,25,0020200616,,,7:55,1,5,0,0,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Collins REBOUND (Off:0 Def:1),10:51 PM
+26,4,5,26,0020200616,,,7:49,1,5,0,1,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Jefferson Traveling Turnover (P1.T2),10:51 PM
+27,1,6,27,0020200616,,,7:26,1,5,0,1,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Jefferson P.FOUL (P1.T1),10:52 PM
+28,5,2,29,0020200616,MISS Fox  Layup,,7:20,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:52 PM
+29,0,4,31,0020200616,O'Neal REBOUND (Off:1 Def:1),,7:19,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:52 PM
+30,64,2,30,0020200616,MISS O'Neal  Follow Up Dunk,,7:19,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:52 PM
+31,0,4,32,0020200616,,,7:19,1,3,0,0,1610612751,,,,,,0,,,,,,0,,,,,,,,Nets Rebound,10:52 PM
+32,1,2,33,0020200616,,,7:12,1,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Jefferson 14' Jump Shot,10:52 PM
+33,0,4,34,0020200616,Fox REBOUND (Off:0 Def:1),,7:10,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:52 PM
+34,8,1,35,0020200616,Walker  Slam Dunk (2 PTS) (Bryant 2 AST),,7:03,1,4,4,0,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,8 - 8,TIE,,10:52 PM
+35,1,2,36,0020200616,,,6:41,1,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Martin 20' Jump Shot,10:53 PM
+36,0,4,37,0020200616,Walker REBOUND (Off:0 Def:2),,6:37,1,4,0,0,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:53 PM
+37,1,2,38,0020200616,MISS Fox  3PT Jump Shot,,6:23,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:53 PM
+38,0,4,39,0020200616,LAKERS Rebound,,6:21,1,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,10:53 PM
+39,1,2,40,0020200616,MISS Bryant 16' Jump Shot,,6:19,1,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:53 PM
+40,0,4,41,0020200616,,,6:17,1,3,0,0,1610612751,,,,,,0,,,,,,0,,,,,,,,Nets Rebound,10:53 PM
+41,3,6,42,0020200616,Walker L.B.FOUL (P1.T2),,6:17,1,4,0,1,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:53 PM
+42,1,1,43,0020200616,,,6:06,1,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,10 - 8,-2,Kidd 9' Jump Shot (2 PTS),10:54 PM
+43,1,6,44,0020200616,,,5:50,1,5,0,1,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Collins P.FOUL (P1.T2),10:54 PM
+44,1,9,45,0020200616,LAKERS Timeout: Regular (Full 1 Short 0),,5:50,1,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,10:54 PM
+45,1,1,48,0020200616,O'Neal 6' Jump Shot (2 PTS),,5:42,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,10 - 10,TIE,,10:57 PM
+46,1,2,49,0020200616,,,5:27,1,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Martin 9' Jump Shot,10:58 PM
+47,0,4,50,0020200616,,,5:25,1,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:1 Def:2),10:58 PM
+48,5,2,51,0020200616,,,5:24,1,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Martin  Layup,10:58 PM
+49,0,4,52,0020200616,Fisher REBOUND (Off:0 Def:1),,5:23,1,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:58 PM
+50,5,2,53,0020200616,MISS O'Neal  Layup,,5:17,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:58 PM
+51,0,4,55,0020200616,Bryant REBOUND (Off:1 Def:0),,5:15,1,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:58 PM
+52,64,1,54,0020200616,Bryant  Follow Up Dunk (4 PTS),,5:15,1,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,10 - 12,2,,10:58 PM
+53,1,2,56,0020200616,,,4:58,1,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kidd 17' Jump Shot,10:58 PM
+54,0,4,57,0020200616,Bryant REBOUND (Off:1 Def:1),,4:56,1,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,10:58 PM
+55,1,6,58,0020200616,,,4:50,1,5,0,1,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Collins P.FOUL (P2.T3),10:58 PM
+56,0,8,59,0020200616,,,4:50,1,5,5,0,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,SUB: Williams FOR Collins,10:59 PM
+57,2,5,60,0020200616,Fox Lost Ball Turnover (P1.T2),,4:36,1,4,5,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,Kittles STEAL (1 STL),10:59 PM
+58,1,2,61,0020200616,,,4:28,1,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kittles 24' 3PT Jump Shot,10:59 PM
+59,0,4,62,0020200616,,,4:26,1,5,0,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Williams REBOUND (Off:1 Def:0),10:59 PM
+60,44,1,63,0020200616,,,4:14,1,5,5,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,12 - 12,TIE,Kidd  Reverse Layup (4 PTS) (Kittles 1 AST),10:59 PM
+61,1,5,64,0020200616,Fox Bad Pass Turnover (P2.T3),,3:56,1,4,5,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,Kidd STEAL (1 STL),11:00 PM
+62,44,1,65,0020200616,,,3:51,1,5,5,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,14 - 12,-2,Jefferson  Reverse Layup (2 PTS) (Kidd 1 AST),11:00 PM
+63,1,1,66,0020200616,Fisher 23' Jump Shot (6 PTS) (Walker 1 AST),,3:37,1,4,4,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,14 - 14,TIE,,11:00 PM
+64,42,1,67,0020200616,,,3:20,1,5,5,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,16 - 14,-2,Kittles  Driving Layup (4 PTS) (Jefferson 1 AST),11:00 PM
+65,1,6,68,0020200616,,,3:05,1,5,0,1,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Jefferson P.FOUL (P2.T4),11:01 PM
+66,0,8,69,0020200616,,,3:05,1,5,5,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,SUB: Johnson FOR Kidd,11:01 PM
+67,0,8,70,0020200616,,,3:05,1,5,5,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,SUB: Scalabrine FOR Jefferson,11:01 PM
+68,1,2,71,0020200616,MISS Bryant 22' Jump Shot,,2:57,1,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:01 PM
+69,0,4,72,0020200616,,,2:55,1,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kittles REBOUND (Off:0 Def:1),11:01 PM
+70,46,1,73,0020200616,,,2:51,1,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,18 - 14,-4,Kittles 10' Running Jump Shot (6 PTS),11:01 PM
+71,8,1,74,0020200616,O'Neal  Slam Dunk (4 PTS) (Walker 2 AST),,2:39,1,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,18 - 16,-2,,11:01 PM
+72,1,1,75,0020200616,,,2:26,1,5,5,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,21 - 16,-5,Kittles 25' 3PT Jump Shot (9 PTS) (Johnson 1 AST),11:02 PM
+73,1,1,76,0020200616,Fox 24' 3PT Jump Shot (3 PTS) (Fisher 1 AST),,2:07,1,4,4,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,21 - 19,-2,,11:02 PM
+74,1,5,77,0020200616,Fox STEAL (1 STL),,1:53,1,5,4,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Martin Bad Pass Turnover (P1.T3),11:02 PM
+75,1,2,78,0020200616,MISS O'Neal 7' Jump Shot,,1:43,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:02 PM
+76,0,4,79,0020200616,,,1:41,1,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kittles REBOUND (Off:0 Def:2),11:02 PM
+77,46,2,80,0020200616,,,1:34,1,5,0,0,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Scalabrine 6' Running Jump Shot,11:02 PM
+78,0,4,81,0020200616,Walker REBOUND (Off:0 Def:3),,1:33,1,4,0,0,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:02 PM
+79,1,2,82,0020200616,MISS Bryant 11' Jump Shot,,1:19,1,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:03 PM
+80,0,4,83,0020200616,,,1:17,1,5,0,0,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Scalabrine REBOUND (Off:0 Def:1),11:03 PM
+81,1,9,84,0020200616,,,1:15,1,3,0,0,1610612751,,,,,,0,,,,,,0,,,,,,,,Nets Timeout: Regular (Reg.1 Short 0),11:03 PM
+82,0,8,86,0020200616,SUB: George FOR Fox,,1:15,1,4,4,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,11:05 PM
+83,0,8,87,0020200616,SUB: Horry FOR O'Neal,,1:15,1,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,11:05 PM
+84,0,8,88,0020200616,SUB: Rush FOR Fisher,,1:15,1,4,4,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,2416,Kareem Rush,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,11:06 PM
+85,5,2,89,0020200616,,,0:58,1,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Martin  Layup,11:06 PM
+86,0,4,90,0020200616,Rush REBOUND (Off:0 Def:1),,0:56,1,4,0,0,2416,Kareem Rush,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:06 PM
+87,1,2,91,0020200616,MISS Bryant 15' Jump Shot,,0:39,1,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:06 PM
+88,0,4,92,0020200616,,,0:37,1,5,0,0,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Scalabrine REBOUND (Off:0 Def:2),11:06 PM
+89,1,2,93,0020200616,,,0:31,1,5,0,0,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Johnson 18' Jump Shot,11:07 PM
+90,0,4,95,0020200616,,,0:30,1,5,0,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Williams REBOUND (Off:2 Def:0),11:07 PM
+91,8,1,94,0020200616,,,0:30,1,5,0,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,23 - 19,-4,Williams  Slam Dunk (2 PTS),11:07 PM
+92,1,2,96,0020200616,MISS Rush  3PT Jump Shot,,0:05,1,4,0,0,2416,Kareem Rush,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:07 PM
+93,0,4,97,0020200616,,,0:04,1,3,0,0,1610612751,,,,,,0,,,,,,0,,,,,,,,Nets Rebound,11:07 PM
+94,1,6,98,0020200616,Rush P.FOUL (P1.T3),,0:01,1,4,0,1,2416,Kareem Rush,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:07 PM
+95,1,2,99,0020200616,,,0:00,1,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kittles 26' 3PT Jump Shot,11:08 PM
+96,0,4,100,0020200616,,,0:00,1,3,0,0,1610612751,,,,,,0,,,,,,0,,,,,,,,Nets Rebound,11:08 PM
+97,0,13,101,0020200616,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 19,-4,,11:08 PM
+98,0,12,103,0020200616,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 19,-4,,11:11 PM
+99,1,2,104,0020200616,,,11:46,2,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kittles 15' Jump Shot,11:11 PM
+100,0,4,105,0020200616,LAKERS Rebound,,11:44,2,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,11:11 PM
+101,3,6,106,0020200616,,,11:44,2,5,0,1,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Scalabrine L.B.FOUL (P1.T1),11:11 PM
+102,1,2,107,0020200616,MISS George 20' Jump Shot,,11:27,2,4,0,0,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:12 PM
+103,0,4,108,0020200616,O'Neal REBOUND (Off:2 Def:1),,11:26,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:12 PM
+104,5,1,109,0020200616,O'Neal  Layup (6 PTS),,11:25,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,23 - 21,-2,,11:12 PM
+105,2,6,110,0020200616,,,11:25,2,5,0,1,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Scalabrine S.FOUL (P2.T2),11:12 PM
+106,10,3,111,0020200616,O'Neal Free Throw 1 of 1 (7 PTS),,11:25,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,23 - 22,-1,,11:12 PM
+107,46,1,112,0020200616,,,11:01,2,5,0,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,25 - 22,-3,Williams 7' Running Jump Shot (4 PTS),11:13 PM
+108,1,2,113,0020200616,MISS Rush 11' Jump Shot,,10:35,2,4,0,0,2416,Kareem Rush,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:13 PM
+109,0,4,114,0020200616,,,10:33,2,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Jefferson REBOUND (Off:0 Def:1),11:13 PM
+110,46,1,115,0020200616,,,10:17,2,5,5,0,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,27 - 22,-5,Johnson 8' Running Jump Shot (2 PTS) (Williams 1 AST),11:13 PM
+111,1,2,116,0020200616,MISS O'Neal 6' Jump Shot,,9:54,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:14 PM
+112,0,4,117,0020200616,,,9:52,2,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kittles REBOUND (Off:0 Def:3),11:14 PM
+113,47,1,118,0020200616,,,9:39,2,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,29 - 22,-7,Jefferson 8' Turnaround Jump Shot (4 PTS),11:14 PM
+114,1,6,119,0020200616,,,9:25,2,5,0,1,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Scalabrine P.FOUL (P3.T3),11:14 PM
+115,0,8,120,0020200616,,,9:25,2,5,5,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,SUB: Kidd FOR Kittles,11:14 PM
+116,0,8,121,0020200616,,,9:25,2,5,5,0,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,SUB: Martin FOR Scalabrine,11:15 PM
+117,2,6,122,0020200616,,,9:18,2,5,0,1,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Johnson S.FOUL (P1.T4),11:15 PM
+118,11,3,123,0020200616,Fisher Free Throw 1 of 2 (7 PTS),,9:18,2,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,29 - 23,-6,,11:15 PM
+119,12,3,124,0020200616,Fisher Free Throw 2 of 2 (8 PTS),,9:18,2,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,29 - 24,-5,,11:16 PM
+120,1,2,125,0020200616,,,9:01,2,5,0,0,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Johnson 12' Jump Shot,11:16 PM
+121,0,4,126,0020200616,LAKERS Rebound,,8:59,2,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,11:16 PM
+122,4,9,127,0020200616,,,8:59,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:16 PM
+123,1,5,131,0020200616,Fisher Bad Pass Turnover (P1.T4),,8:45,2,4,5,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,Jefferson STEAL (1 STL),11:20 PM
+124,1,2,132,0020200616,Rush BLOCK (1 BLK),,8:36,2,5,0,4,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,2416,Kareem Rush,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Kidd 14' Jump Shot,11:20 PM
+125,0,4,133,0020200616,Horry REBOUND (Off:0 Def:1),,8:32,2,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:20 PM
+126,1,5,134,0020200616,Fisher Bad Pass Turnover (P2.T5),,8:19,2,4,5,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,Williams STEAL (1 STL),11:20 PM
+127,1,5,135,0020200616,,,8:12,2,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Martin Bad Pass Turnover (P2.T4),11:21 PM
+128,1,2,136,0020200616,MISS O'Neal 8' Jump Shot,,7:59,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:21 PM
+129,0,4,137,0020200616,,,7:56,2,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:1 Def:3),11:21 PM
+130,1,2,138,0020200616,,,7:36,2,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kidd 24' 3PT Jump Shot,11:21 PM
+131,0,4,139,0020200616,O'Neal REBOUND (Off:2 Def:2),,7:34,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:21 PM
+132,1,2,140,0020200616,MISS George 19' Jump Shot,,7:22,2,4,0,0,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:22 PM
+133,0,4,141,0020200616,,,7:20,2,3,0,0,1610612751,,,,,,0,,,,,,0,,,,,,,,Nets Rebound,11:22 PM
+134,1,2,142,0020200616,,,7:04,2,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kidd 17' Jump Shot,11:22 PM
+135,0,4,143,0020200616,,,7:02,2,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Jefferson REBOUND (Off:1 Def:1),11:22 PM
+136,1,1,144,0020200616,,,6:54,2,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,31 - 24,-7,Kidd 22' Jump Shot (6 PTS),11:22 PM
+137,8,1,145,0020200616,George  Slam Dunk (2 PTS) (Rush 1 AST),,6:31,2,4,4,0,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,2416,Kareem Rush,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,31 - 26,-5,,11:23 PM
+138,5,2,146,0020200616,,,6:02,2,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Jefferson 3' Layup,11:23 PM
+139,0,4,147,0020200616,LAKERS Rebound,,6:02,2,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,11:23 PM
+140,2,5,148,0020200616,O'Neal Lost Ball Turnover (P2.T6),,5:50,2,4,5,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,Williams STEAL (2 STL),11:23 PM
+141,1,2,149,0020200616,,,5:41,2,5,0,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Williams 9' Jump Shot,11:24 PM
+142,0,4,150,0020200616,Rush REBOUND (Off:0 Def:2),,5:39,2,4,0,0,2416,Kareem Rush,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:24 PM
+143,5,1,151,0020200616,O'Neal  Layup (9 PTS) (Rush 2 AST),,5:32,2,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,2416,Kareem Rush,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,31 - 28,-3,,11:24 PM
+144,2,5,152,0020200616,Horry STEAL (1 STL),,5:14,2,5,4,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Martin Lost Ball Turnover (P3.T5),11:24 PM
+145,42,1,153,0020200616,Fisher  Driving Layup (10 PTS),,5:09,2,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,31 - 30,-1,,11:24 PM
+146,1,9,154,0020200616,,,4:58,2,3,0,0,1610612751,,,,,,0,,,,,,0,,,,,,,,Nets Timeout: Regular (Reg.2 Short 0),11:24 PM
+147,0,8,155,0020200616,,,4:58,2,5,5,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,SUB: Kittles FOR Williams,11:27 PM
+148,0,8,156,0020200616,,,4:58,2,5,5,0,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,SUB: Collins FOR Johnson,11:27 PM
+149,0,8,157,0020200616,SUB: Bryant FOR Rush,,4:58,2,4,4,0,2416,Kareem Rush,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,11:28 PM
+150,1,2,158,0020200616,,,4:50,2,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kidd 16' Jump Shot,11:28 PM
+151,0,4,159,0020200616,George REBOUND (Off:0 Def:1),,4:48,2,4,0,0,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:28 PM
+152,1,5,160,0020200616,Horry Bad Pass Turnover (P1.T7),,4:37,2,4,5,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,Kittles STEAL (2 STL),11:28 PM
+153,2,6,161,0020200616,George S.FOUL (P1.T1),,4:32,2,4,0,1,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:28 PM
+154,11,3,162,0020200616,,,4:32,2,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Jefferson Free Throw 1 of 2,11:29 PM
+155,1,4,163,0020200616,,,4:32,2,3,0,0,1610612751,,,,,,0,,,,,,0,,,,,,,,Nets Rebound,11:29 PM
+156,12,3,164,0020200616,,,4:32,2,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Jefferson Free Throw 2 of 2,11:29 PM
+157,0,4,165,0020200616,George REBOUND (Off:0 Def:2),,4:31,2,4,0,0,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:29 PM
+158,1,1,166,0020200616,Horry 24' 3PT Jump Shot (3 PTS) (Fisher 2 AST),,4:13,2,4,4,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,31 - 33,2,,11:29 PM
+159,47,1,167,0020200616,,,3:56,2,5,5,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,33 - 33,TIE,Martin 8' Turnaround Jump Shot (2 PTS) (Kidd 2 AST),11:30 PM
+160,46,1,168,0020200616,Fisher 12' Running Jump Shot (12 PTS) (O'Neal 2 AST),,3:37,2,4,4,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,33 - 35,2,,11:30 PM
+161,1,2,169,0020200616,,,3:17,2,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Martin 14' Jump Shot,11:30 PM
+162,0,4,170,0020200616,Fisher REBOUND (Off:0 Def:2),,3:15,2,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:30 PM
+163,5,2,171,0020200616,MISS George  Layup,,3:04,2,4,0,5,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,,,Martin BLOCK (1 BLK),11:31 PM
+164,0,4,172,0020200616,George REBOUND (Off:1 Def:2),,3:02,2,4,0,0,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:31 PM
+165,1,5,173,0020200616,Horry Bad Pass Turnover (P2.T8),,3:00,2,4,5,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,Kidd STEAL (2 STL),11:31 PM
+166,1,9,174,0020200616,LAKERS Timeout: Regular (Full 2 Short 0),,2:49,2,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,11:31 PM
+167,1,1,176,0020200616,,,2:38,2,5,5,0,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,35 - 35,TIE,Collins 15' Jump Shot (8 PTS) (Jefferson 2 AST),11:35 PM
+168,1,2,177,0020200616,MISS George 19' Jump Shot,,2:13,2,4,0,0,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:35 PM
+169,0,4,178,0020200616,,,2:11,2,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kidd REBOUND (Off:0 Def:2),11:35 PM
+170,1,2,179,0020200616,,,1:57,2,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Jefferson 18' Jump Shot,11:35 PM
+171,0,4,180,0020200616,Bryant REBOUND (Off:1 Def:2),,1:55,2,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:35 PM
+172,1,1,181,0020200616,Fisher 21' Jump Shot (14 PTS) (Bryant 3 AST),,1:46,2,4,4,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,35 - 37,2,,11:36 PM
+173,1,6,182,0020200616,Horry P.FOUL (P1.T2),,1:26,2,4,0,1,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:36 PM
+174,1,1,183,0020200616,,,1:20,2,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,37 - 37,TIE,Martin 19' Jump Shot (4 PTS),11:36 PM
+175,1,2,184,0020200616,MISS Horry  3PT Jump Shot,,0:59,2,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:37 PM
+176,0,4,185,0020200616,,,0:57,2,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Jefferson REBOUND (Off:1 Def:2),11:37 PM
+177,3,2,186,0020200616,,,0:44,2,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Martin 9' Hook Shot,11:37 PM
+178,0,4,187,0020200616,Horry REBOUND (Off:0 Def:2),,0:41,2,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:37 PM
+179,1,1,188,0020200616,Bryant 25' 3PT Jump Shot (7 PTS) (Horry 1 AST),,0:36,2,4,4,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,37 - 40,3,,11:37 PM
+180,1,2,189,0020200616,,,0:23,2,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kidd 19' Jump Shot,11:37 PM
+181,0,4,190,0020200616,O'Neal REBOUND (Off:2 Def:3),,0:20,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:37 PM
+182,1,2,191,0020200616,MISS Fisher  3PT Jump Shot,,0:01,2,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:38 PM
+183,0,4,192,0020200616,,,0:00,2,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:1 Def:4),11:38 PM
+184,0,13,193,0020200616,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,37 - 40,3,,11:38 PM
+185,0,12,196,0020200616,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,37 - 40,3,,11:56 PM
+186,1,2,197,0020200616,,,11:41,3,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Martin 13' Jump Shot,11:57 PM
+187,0,4,198,0020200616,Fox REBOUND (Off:0 Def:2),,11:39,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:57 PM
+188,1,2,199,0020200616,MISS O'Neal 10' Jump Shot,,11:24,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:57 PM
+189,0,4,200,0020200616,,,11:21,3,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:1 Def:5),11:57 PM
+190,1,2,201,0020200616,,,11:15,3,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kittles 8' Jump Shot,11:57 PM
+191,0,4,202,0020200616,Fox REBOUND (Off:0 Def:3),,11:11,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:57 PM
+192,7,2,203,0020200616,MISS O'Neal  Dunk,,11:05,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:57 PM
+193,0,4,204,0020200616,O'Neal REBOUND (Off:3 Def:3),,11:03,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:57 PM
+194,0,10,205,0020200616,Jump Ball O'Neal vs. Collins: Tip to Bryant,,11:03,3,4,5,4,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,,,,11:58 PM
+195,1,2,206,0020200616,MISS Fox 26' 3PT Jump Shot,,10:47,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:58 PM
+196,0,4,207,0020200616,,,10:45,3,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Jefferson REBOUND (Off:1 Def:3),11:58 PM
+197,1,2,208,0020200616,,,10:33,3,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Jefferson 21' Jump Shot,11:58 PM
+198,0,4,209,0020200616,,,10:31,3,5,0,0,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Collins REBOUND (Off:1 Def:1),11:59 PM
+199,3,1,210,0020200616,,,10:24,3,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,39 - 40,1,Martin 6' Hook Shot (6 PTS),11:59 PM
+200,2,6,211,0020200616,O'Neal S.FOUL (P2.T1),,10:24,3,4,0,1,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,11:59 PM
+201,10,3,212,0020200616,,,10:24,3,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,40 - 40,TIE,Martin Free Throw 1 of 1 (7 PTS),11:59 PM
+202,1,6,213,0020200616,,,10:15,3,5,0,1,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Martin P.FOUL (P1.T1),11:59 PM
+203,1,2,214,0020200616,MISS Fisher 25' 3PT Jump Shot,,10:07,3,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:00 PM
+204,0,4,215,0020200616,Bryant REBOUND (Off:2 Def:2),,10:04,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:00 PM
+205,1,2,216,0020200616,MISS Walker 18' Jump Shot,,10:01,3,4,0,0,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:00 PM
+206,0,4,217,0020200616,,,9:59,3,5,0,0,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Collins REBOUND (Off:1 Def:2),12:00 PM
+207,1,2,218,0020200616,,,9:50,3,5,0,0,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Collins 12' Jump Shot,12:00 PM
+208,0,4,219,0020200616,O'Neal REBOUND (Off:3 Def:4),,9:49,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:00 PM
+209,1,2,220,0020200616,MISS Bryant 26' 3PT Jump Shot,,9:30,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:00 PM
+210,0,4,221,0020200616,,,9:29,3,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kidd REBOUND (Off:0 Def:3),12:00 PM
+211,1,2,222,0020200616,,,9:23,3,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kittles 25' 3PT Jump Shot,12:00 PM
+212,0,4,223,0020200616,,,9:21,3,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kidd REBOUND (Off:1 Def:3),12:00 PM
+213,1,2,224,0020200616,,,9:18,3,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kidd 25' 3PT Jump Shot,12:00 PM
+214,0,4,225,0020200616,O'Neal REBOUND (Off:3 Def:5),,9:16,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:01 PM
+215,2,6,226,0020200616,,,9:04,3,5,0,1,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Collins S.FOUL (P3.T2),12:01 PM
+216,11,3,227,0020200616,MISS O'Neal Free Throw 1 of 2,,9:04,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:01 PM
+217,1,4,228,0020200616,LAKERS Rebound,,9:04,3,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,12:01 PM
+218,12,3,229,0020200616,MISS O'Neal Free Throw 2 of 2,,9:04,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:01 PM
+219,0,4,230,0020200616,,,9:01,3,5,0,0,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Collins REBOUND (Off:1 Def:3),12:01 PM
+220,1,2,231,0020200616,,,8:50,3,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kidd 21' Jump Shot,12:02 PM
+221,0,4,232,0020200616,Walker REBOUND (Off:0 Def:4),,8:47,3,4,0,0,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:02 PM
+222,1,2,233,0020200616,MISS Fisher 19' Jump Shot,,8:37,3,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:02 PM
+223,0,4,234,0020200616,,,8:34,3,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kidd REBOUND (Off:1 Def:4),12:02 PM
+224,42,1,235,0020200616,,,8:31,3,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,42 - 40,-2,Jefferson  Driving Layup (6 PTS),12:02 PM
+225,2,6,236,0020200616,Fox S.FOUL (P2.T2),,8:31,3,4,0,1,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:02 PM
+226,3,7,238,0020200616,O'Neal Violation:Lane,,8:31,3,4,0,1,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:02 PM
+227,10,3,239,0020200616,,,8:31,3,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,43 - 40,-3,Jefferson Free Throw 1 of 1 (7 PTS),12:03 PM
+228,2,5,241,0020200616,Bryant Lost Ball Turnover (P1.T9),,8:21,3,4,5,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,Kittles STEAL (3 STL),12:03 PM
+229,1,2,242,0020200616,,,8:07,3,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kidd 25' 3PT Jump Shot,12:03 PM
+230,0,4,243,0020200616,Bryant REBOUND (Off:2 Def:3),,8:05,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:03 PM
+231,1,1,244,0020200616,Fox 24' 3PT Jump Shot (6 PTS) (O'Neal 3 AST),,7:50,3,4,4,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,43 - 43,TIE,,12:04 PM
+232,1,2,245,0020200616,,,7:30,3,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Martin 16' Jump Shot,12:04 PM
+233,0,4,246,0020200616,Fox REBOUND (Off:0 Def:4),,7:27,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:04 PM
+234,1,1,247,0020200616,Fisher 19' Jump Shot (16 PTS),,7:17,3,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,43 - 45,2,,12:04 PM
+235,1,9,248,0020200616,,,7:08,3,3,0,0,1610612751,,,,,,0,,,,,,0,,,,,,,,Nets Timeout: Regular (Reg.3 Short 0),12:04 PM
+236,42,1,250,0020200616,,,6:56,3,5,5,0,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,45 - 45,TIE,Collins  Driving Layup (10 PTS) (Kidd 3 AST),12:08 PM
+237,8,1,251,0020200616,O'Neal  Slam Dunk (11 PTS) (Fisher 3 AST),,6:33,3,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,45 - 47,2,,12:09 PM
+238,59,1,252,0020200616,,,6:10,3,5,5,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,47 - 47,TIE,Martin 7' Finger Roll (9 PTS) (Kittles 2 AST),12:09 PM
+239,2,6,253,0020200616,Walker S.FOUL (P2.T3),,6:10,3,4,0,1,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:09 PM
+240,10,3,254,0020200616,,,6:10,3,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,48 - 47,-1,Martin Free Throw 1 of 1 (10 PTS),12:09 PM
+241,1,1,255,0020200616,Fox  3PT Jump Shot (9 PTS) (Walker 3 AST),,5:51,3,4,4,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,48 - 50,2,,12:10 PM
+242,1,2,256,0020200616,,,5:35,3,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kidd 17' Jump Shot,12:10 PM
+243,0,4,257,0020200616,Walker REBOUND (Off:0 Def:5),,5:33,3,4,0,0,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:10 PM
+244,3,2,258,0020200616,MISS O'Neal 8' Hook Shot,,5:23,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:10 PM
+245,0,4,259,0020200616,,,5:20,3,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:1 Def:6),12:10 PM
+246,5,1,260,0020200616,,,5:16,3,5,5,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,50 - 50,TIE,Jefferson  Layup (9 PTS) (Kittles 3 AST),12:10 PM
+247,1,6,261,0020200616,,,4:54,3,5,0,1,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Collins P.FOUL (P4.T3),12:11 PM
+248,0,8,262,0020200616,,,4:54,3,5,5,0,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,SUB: Williams FOR Collins,12:11 PM
+249,11,6,264,0020200616,,,4:54,3,5,0,1,2215,Jason Collins,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Collins T.FOUL (P4.T3),12:11 PM
+250,16,3,265,0020200616,Bryant Free Throw Technical (8 PTS),,4:54,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,50 - 51,1,,12:12 PM
+251,0,8,266,0020200616,SUB: Horry FOR Walker,,4:54,3,4,4,0,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,12:12 PM
+252,1,6,267,0020200616,,,4:47,3,5,0,1,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kittles P.FOUL (P1.T4),12:12 PM
+253,1,2,268,0020200616,MISS Bryant 11' Jump Shot,,4:37,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:13 PM
+254,0,4,270,0020200616,O'Neal REBOUND (Off:4 Def:5),,4:34,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:13 PM
+255,4,1,269,0020200616,O'Neal  Tip Shot (13 PTS),,4:34,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,50 - 53,3,,12:13 PM
+256,1,2,271,0020200616,,,4:18,3,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kittles 25' 3PT Jump Shot,12:13 PM
+257,0,4,272,0020200616,O'Neal REBOUND (Off:4 Def:6),,4:16,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:13 PM
+258,8,1,273,0020200616,O'Neal  Slam Dunk (15 PTS) (Fisher 4 AST),,4:01,3,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,50 - 55,5,,12:13 PM
+259,2,6,274,0020200616,,,4:01,3,5,0,1,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Williams S.FOUL (P1.PN),12:13 PM
+260,10,3,275,0020200616,MISS O'Neal Free Throw 1 of 1,,4:01,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:13 PM
+261,0,4,276,0020200616,,,3:59,3,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Jefferson REBOUND (Off:1 Def:4),12:14 PM
+262,1,1,277,0020200616,,,3:44,3,5,5,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,52 - 55,3,Williams 17' Jump Shot (6 PTS) (Kittles 4 AST),12:14 PM
+263,1,9,278,0020200616,LAKERS Timeout: Regular (Full 3 Short 0),,3:37,3,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,12:14 PM
+264,1,2,280,0020200616,MISS Bryant 7' Jump Shot,,3:29,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:17 PM
+265,0,4,282,0020200616,Bryant REBOUND (Off:3 Def:3),,3:28,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:18 PM
+266,4,2,281,0020200616,MISS Bryant  Tip Shot,,3:28,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:18 PM
+267,0,4,283,0020200616,Bryant REBOUND (Off:4 Def:3),,3:28,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:18 PM
+268,1,6,284,0020200616,,,3:28,3,5,0,1,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Jefferson P.FOUL (P3.PN),12:18 PM
+269,11,3,285,0020200616,Bryant Free Throw 1 of 2 (9 PTS),,3:28,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,52 - 56,4,,12:18 PM
+270,12,3,286,0020200616,MISS Bryant Free Throw 2 of 2,,3:28,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:18 PM
+271,0,4,287,0020200616,,,3:26,3,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Jefferson REBOUND (Off:1 Def:5),12:18 PM
+272,5,2,288,0020200616,Horry BLOCK (1 BLK),,3:04,3,5,0,4,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Martin  Layup,12:19 PM
+273,0,4,289,0020200616,Horry REBOUND (Off:0 Def:3),,2:57,3,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:19 PM
+274,5,1,290,0020200616,O'Neal  Layup (17 PTS) (Horry 2 AST),,2:54,3,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,52 - 58,6,,12:19 PM
+275,1,6,291,0020200616,Fox P.FOUL (P3.T4),,2:36,3,4,0,1,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:19 PM
+276,0,8,292,0020200616,SUB: Walker FOR O'Neal,,2:36,3,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,12:19 PM
+277,0,8,293,0020200616,,,2:36,3,5,5,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,SUB: Johnson FOR Kidd,12:19 PM
+278,1,5,294,0020200616,Horry STEAL (2 STL),,2:25,3,5,4,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Martin Bad Pass Turnover (P4.T6),12:20 PM
+279,42,1,295,0020200616,Fisher  Driving Layup (18 PTS),,2:19,3,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,52 - 60,8,,12:20 PM
+280,46,1,296,0020200616,,,1:57,3,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,54 - 60,6,Martin 4' Running Jump Shot (12 PTS),12:20 PM
+281,2,6,297,0020200616,Walker S.FOUL (P3.PN),,1:57,3,4,0,1,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:20 PM
+282,10,3,298,0020200616,,,1:57,3,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Martin Free Throw 1 of 1,12:20 PM
+283,0,4,299,0020200616,Horry REBOUND (Off:0 Def:4),,1:55,3,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:21 PM
+284,5,2,300,0020200616,MISS Walker  Layup,,1:41,3,4,0,0,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:21 PM
+285,0,4,301,0020200616,,,1:40,3,5,0,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Williams REBOUND (Off:2 Def:1),12:21 PM
+286,1,2,302,0020200616,,,1:28,3,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Martin 19' Jump Shot,12:21 PM
+287,0,4,303,0020200616,Fox REBOUND (Off:0 Def:5),,1:26,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:21 PM
+288,1,2,304,0020200616,MISS Bryant 20' Jump Shot,,1:16,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:21 PM
+289,0,4,305,0020200616,Horry REBOUND (Off:1 Def:4),,1:14,3,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:21 PM
+290,0,8,308,0020200616,,,1:10,3,5,5,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,SUB: Scalabrine FOR Martin,12:22 PM
+291,1,2,309,0020200616,MISS Fisher 21' Jump Shot,,1:02,3,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:22 PM
+292,0,4,310,0020200616,,,1:00,3,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kittles REBOUND (Off:0 Def:4),12:22 PM
+293,1,1,311,0020200616,,,0:49,3,5,5,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,57 - 60,3,Kittles 25' 3PT Jump Shot (12 PTS) (Jefferson 3 AST),12:22 PM
+294,1,2,312,0020200616,MISS Fox 25' 3PT Jump Shot,,0:40,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:23 PM
+295,0,4,313,0020200616,,,0:36,3,5,0,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Williams REBOUND (Off:2 Def:2),12:23 PM
+296,1,1,314,0020200616,,,0:22,3,5,5,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,59 - 60,1,Kittles 20' Jump Shot (14 PTS) (Johnson 2 AST),12:23 PM
+297,8,1,315,0020200616,Walker  Slam Dunk (4 PTS) (Bryant 4 AST),,0:02,3,4,4,0,955,Samaki Walker,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,59 - 62,3,,12:23 PM
+298,0,13,316,0020200616,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,59 - 62,3,,12:23 PM
+299,0,12,318,0020200616,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,59 - 62,3,,12:27 PM
+300,4,6,319,0020200616,Medvedenko OFF.Foul (P1),,11:38,4,4,0,1,2098,Slava Medvedenko,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:27 PM
+301,5,5,320,0020200616,Medvedenko Foul Turnover (P1.T10),,11:38,4,4,0,0,2098,Slava Medvedenko,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:27 PM
+302,47,1,321,0020200616,,,11:24,4,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,61 - 62,1,Jefferson 8' Turnaround Jump Shot (11 PTS),12:28 PM
+303,2,6,322,0020200616,George S.FOUL (P2.T1),,11:24,4,4,0,1,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:28 PM
+304,10,3,323,0020200616,,,11:24,4,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,62 - 62,TIE,Jefferson Free Throw 1 of 1 (12 PTS),12:28 PM
+305,3,5,324,0020200616,Rush Out Of Bounds Turnover (P1.T11),,11:07,4,4,0,1,2416,Kareem Rush,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:29 PM
+306,1,6,326,0020200616,Medvedenko P.FOUL (P2.T2),,10:57,4,4,0,1,2098,Slava Medvedenko,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:29 PM
+307,0,8,327,0020200616,SUB: O'Neal FOR Medvedenko,,10:57,4,4,4,0,2098,Slava Medvedenko,LAL,Los Angeles,1610612747.0,Lakers,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,12:29 PM
+308,0,8,328,0020200616,SUB: Shaw FOR Rush,,10:57,4,4,4,0,2416,Kareem Rush,LAL,Los Angeles,1610612747.0,Lakers,216,Brian Shaw,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,12:29 PM
+309,42,1,329,0020200616,,,10:48,4,5,0,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,64 - 62,-2,Williams  Driving Layup (8 PTS),12:30 PM
+310,1,2,330,0020200616,MISS Horry 26' 3PT Jump Shot,,10:34,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:30 PM
+311,0,4,331,0020200616,,,10:32,4,5,0,0,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Scalabrine REBOUND (Off:0 Def:3),12:30 PM
+312,42,2,332,0020200616,,,10:25,4,5,0,0,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Johnson  Driving Layup,12:30 PM
+313,0,4,333,0020200616,,,10:25,4,3,0,0,1610612751,,,,,,0,,,,,,0,,,,,,,,Nets Rebound,12:30 PM
+314,0,8,334,0020200616,,,10:25,4,5,5,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,SUB: Kidd FOR Kittles,12:30 PM
+315,1,2,335,0020200616,George BLOCK (1 BLK),,10:17,4,5,0,4,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Jefferson 8' Jump Shot,12:31 PM
+316,0,4,336,0020200616,O'Neal REBOUND (Off:4 Def:7),,10:15,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:31 PM
+317,1,2,337,0020200616,MISS Bryant 12' Jump Shot,,10:07,4,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:31 PM
+318,0,4,338,0020200616,,,10:05,4,5,0,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Williams REBOUND (Off:2 Def:3),12:31 PM
+319,5,2,339,0020200616,Horry BLOCK (2 BLK),,10:01,4,5,0,4,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,0,,,,,,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Scalabrine  Layup,12:31 PM
+320,0,4,340,0020200616,,,9:59,4,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Jefferson REBOUND (Off:2 Def:5),12:31 PM
+321,5,1,341,0020200616,,,9:50,4,5,5,0,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,66 - 62,-4,Scalabrine  Layup (2 PTS) (Jefferson 4 AST),12:31 PM
+322,1,6,342,0020200616,,,9:41,4,5,0,1,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Scalabrine P.FOUL (P4.T1),12:31 PM
+323,5,2,343,0020200616,MISS Shaw  Layup,,9:28,4,4,0,0,216,Brian Shaw,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:32 PM
+324,0,4,344,0020200616,,,9:27,4,3,0,0,1610612751,,,,,,0,,,,,,0,,,,,,,,Nets Rebound,12:32 PM
+325,2,5,345,0020200616,,,9:08,4,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kidd Lost Ball Turnover (P1.T7),12:32 PM
+326,5,1,346,0020200616,O'Neal  Layup (19 PTS) (Bryant 5 AST),,8:58,4,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,66 - 64,-2,,12:33 PM
+327,2,6,347,0020200616,,,8:58,4,5,0,1,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Williams S.FOUL (P2.T2),12:33 PM
+328,4,9,348,0020200616,,,8:58,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:33 PM
+329,10,3,352,0020200616,O'Neal Free Throw 1 of 1 (20 PTS),,8:58,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,66 - 65,-1,,12:36 PM
+330,46,1,353,0020200616,,,8:42,4,5,5,0,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,68 - 65,-3,Johnson 13' Running Jump Shot (4 PTS) (Williams 2 AST),12:37 PM
+331,5,1,354,0020200616,O'Neal  Layup (22 PTS) (Shaw 1 AST),,8:26,4,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,216,Brian Shaw,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,68 - 67,-1,,12:37 PM
+332,1,1,355,0020200616,,,8:02,4,5,5,0,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,71 - 67,-4,Scalabrine 25' 3PT Jump Shot (5 PTS) (Williams 3 AST),12:38 PM
+333,1,2,356,0020200616,MISS Shaw 24' 3PT Jump Shot,,7:44,4,4,0,0,216,Brian Shaw,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:38 PM
+334,0,4,357,0020200616,,,7:41,4,5,0,0,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:0 Def:1),12:38 PM
+335,2,6,358,0020200616,Shaw S.FOUL (P1.T3),,7:40,4,4,0,1,216,Brian Shaw,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:38 PM
+336,11,3,359,0020200616,,,7:40,4,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kidd Free Throw 1 of 2,12:38 PM
+337,1,4,360,0020200616,,,7:40,4,3,0,0,1610612751,,,,,,0,,,,,,0,,,,,,,,Nets Rebound,12:38 PM
+338,0,8,361,0020200616,SUB: Fisher FOR Shaw,,7:40,4,4,4,0,216,Brian Shaw,LAL,Los Angeles,1610612747.0,Lakers,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,12:39 PM
+339,12,3,362,0020200616,,,7:40,4,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,72 - 67,-5,Kidd Free Throw 2 of 2 (7 PTS),12:39 PM
+340,1,1,363,0020200616,Fisher 13' Jump Shot (20 PTS) (Horry 3 AST),,7:21,4,4,4,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,72 - 69,-3,,12:39 PM
+341,4,6,364,0020200616,,,7:03,4,5,0,1,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Johnson OFF.Foul (P2),12:40 PM
+342,5,5,365,0020200616,,,7:03,4,5,0,0,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Johnson Foul Turnover (P1.T8),12:40 PM
+343,0,8,366,0020200616,,,7:03,4,5,5,0,1533,Anthony Johnson,NJN,New Jersey,1610612751.0,Nets,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,SUB: Kittles FOR Johnson,12:40 PM
+344,1,1,367,0020200616,George  3PT Jump Shot (5 PTS) (Fisher 5 AST),,6:44,4,4,4,0,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,72 - 72,TIE,,12:40 PM
+345,1,2,369,0020200616,,,6:18,4,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kittles 27' 3PT Jump Shot,12:41 PM
+346,0,4,370,0020200616,LAKERS Rebound,,6:16,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,12:41 PM
+347,1,9,371,0020200616,LAKERS Timeout: Regular (Full 4 Short 0),,6:16,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,12:41 PM
+348,1,2,375,0020200616,MISS George 17' Jump Shot,,6:05,4,4,0,0,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:45 PM
+349,0,4,376,0020200616,,,6:03,4,5,0,0,2210,Richard Jefferson,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Jefferson REBOUND (Off:2 Def:6),12:45 PM
+350,1,5,377,0020200616,,,5:51,4,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kidd Bad Pass Turnover (P2.T9),12:45 PM
+351,1,2,378,0020200616,MISS Fisher 18' Jump Shot,,5:31,4,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:46 PM
+352,0,4,379,0020200616,,,5:30,4,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kidd REBOUND (Off:1 Def:5),12:46 PM
+353,1,1,380,0020200616,,,5:21,4,5,5,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,74 - 72,-2,Williams 10' Jump Shot (10 PTS) (Kidd 4 AST),12:46 PM
+354,2,6,381,0020200616,George S.FOUL (P3.T4),,5:21,4,4,0,1,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:46 PM
+355,0,8,382,0020200616,SUB: Fox FOR George,,5:21,4,4,4,0,1904,Devean George,LAL,Los Angeles,1610612747.0,Lakers,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,12:46 PM
+356,10,3,383,0020200616,,,5:21,4,5,0,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,75 - 72,-3,Williams Free Throw 1 of 1 (11 PTS),12:46 PM
+357,1,2,385,0020200616,MISS Fox  3PT Jump Shot,,5:01,4,4,0,5,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,,,Kittles BLOCK (1 BLK),12:47 PM
+358,0,4,386,0020200616,O'Neal REBOUND (Off:5 Def:7),,4:59,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:47 PM
+359,2,6,387,0020200616,,,4:59,4,5,0,1,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Williams S.FOUL (P3.T3),12:47 PM
+360,11,3,388,0020200616,MISS O'Neal Free Throw 1 of 2,,4:59,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:47 PM
+361,1,4,389,0020200616,LAKERS Rebound,,4:59,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,12:47 PM
+362,12,3,390,0020200616,O'Neal Free Throw 2 of 2 (23 PTS),,4:59,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,75 - 73,-2,,12:47 PM
+363,1,6,391,0020200616,Bryant P.FOUL (P1.PN),,4:48,4,4,0,1,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:48 PM
+364,0,8,392,0020200616,,,4:48,4,5,5,0,2243,Brian Scalabrine,NJN,New Jersey,1610612751.0,Nets,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,,,SUB: Martin FOR Scalabrine,12:48 PM
+365,11,3,393,0020200616,,,4:48,4,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,76 - 73,-3,Kidd Free Throw 1 of 2 (8 PTS),12:48 PM
+366,12,3,394,0020200616,,,4:48,4,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,77 - 73,-4,Kidd Free Throw 2 of 2 (9 PTS),12:48 PM
+367,3,2,395,0020200616,MISS O'Neal 5' Hook Shot,,4:31,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:49 PM
+368,0,4,397,0020200616,Horry REBOUND (Off:2 Def:4),,4:29,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:49 PM
+369,4,2,396,0020200616,MISS Horry  Tip Shot,,4:29,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:49 PM
+370,0,4,398,0020200616,,,4:27,4,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kidd REBOUND (Off:1 Def:6),12:49 PM
+371,2,6,399,0020200616,O'Neal S.FOUL (P3.PN),,4:23,4,4,0,1,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:49 PM
+372,11,3,400,0020200616,,,4:23,4,5,0,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,78 - 73,-5,Williams Free Throw 1 of 2 (12 PTS),12:49 PM
+373,12,3,401,0020200616,,,4:23,4,5,0,0,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Williams Free Throw 2 of 2,12:49 PM
+374,0,4,402,0020200616,Fox REBOUND (Off:0 Def:6),,4:23,4,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:50 PM
+375,1,6,403,0020200616,,,4:09,4,5,0,1,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Williams P.FOUL (P4.T4),12:50 PM
+376,1,1,404,0020200616,Fisher 22' Jump Shot (22 PTS) (O'Neal 4 AST),,4:01,4,4,4,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,78 - 75,-3,,12:50 PM
+377,1,2,405,0020200616,,,3:39,4,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Martin 14' Jump Shot,12:51 PM
+378,0,4,406,0020200616,,,3:37,4,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kidd REBOUND (Off:2 Def:6),12:51 PM
+379,2,6,408,0020200616,Horry S.FOUL (P2.PN),,3:36,4,4,0,1,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:51 PM
+380,11,3,409,0020200616,,,3:36,4,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,79 - 75,-4,Kidd Free Throw 1 of 2 (10 PTS),12:51 PM
+381,12,3,410,0020200616,,,3:36,4,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,80 - 75,-5,Kidd Free Throw 2 of 2 (11 PTS),12:51 PM
+382,47,1,411,0020200616,Bryant 12' Turnaround Jump Shot (11 PTS),,3:13,4,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,80 - 77,-3,,12:52 PM
+383,1,2,412,0020200616,,,2:56,4,5,0,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Kittles 20' Jump Shot,12:52 PM
+384,0,4,413,0020200616,Horry REBOUND (Off:2 Def:5),,2:54,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:52 PM
+385,2,5,414,0020200616,Horry Lost Ball Turnover (P3.T12),,2:50,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:52 PM
+386,1,9,415,0020200616,,,2:50,4,3,0,0,1610612751,,,,,,0,,,,,,0,,,,,,,,Nets Timeout: Regular (Reg.4 Short 0),12:52 PM
+387,2,5,420,0020200616,Bryant STEAL (2 STL),,2:30,4,5,4,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Martin Lost Ball Turnover (P5.T10),12:56 PM
+388,5,1,421,0020200616,Fox  Layup (11 PTS) (Horry 4 AST),,2:21,4,4,4,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,80 - 79,-1,,12:56 PM
+389,1,1,422,0020200616,,,2:03,4,5,5,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,82 - 79,-3,Martin 20' Jump Shot (14 PTS) (Kidd 5 AST),12:56 PM
+390,2,6,423,0020200616,,,1:51,4,5,0,1,1425,Aaron Williams,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Williams S.FOUL (P5.PN),12:57 PM
+391,11,3,424,0020200616,MISS O'Neal Free Throw 1 of 2,,1:51,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,12:57 PM
+392,1,4,425,0020200616,LAKERS Rebound,,1:51,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,12:57 PM
+393,12,3,426,0020200616,O'Neal Free Throw 2 of 2 (24 PTS),,1:51,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,82 - 80,-2,,12:57 PM
+394,1,5,427,0020200616,Fox STEAL (2 STL),,1:36,4,5,4,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Kidd Bad Pass Turnover (P3.T11),12:57 PM
+395,52,1,428,0020200616,O'Neal  Alley Oop Dunk (26 PTS) (Fox 1 AST),,1:22,4,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,82 - 82,TIE,,12:58 PM
+396,1,9,429,0020200616,,,1:17,4,3,0,0,1610612751,,,,,,0,,,,,,0,,,,,,,,Nets Timeout: Regular (Reg.5 Short 0),12:58 PM
+397,3,2,433,0020200616,,,1:07,4,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,MISS Martin 5' Hook Shot,13:01 PM
+398,0,4,434,0020200616,Horry REBOUND (Off:2 Def:6),,1:03,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,13:01 PM
+399,1,2,435,0020200616,MISS Fisher 26' 3PT Jump Shot,,0:49,4,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,13:02 PM
+400,0,4,436,0020200616,O'Neal REBOUND (Off:6 Def:7),,0:47,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,13:02 PM
+401,2,6,437,0020200616,,,0:47,4,5,0,1,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Martin S.FOUL (P2.PN),13:02 PM
+402,11,3,438,0020200616,MISS O'Neal Free Throw 1 of 2,,0:47,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,13:02 PM
+403,0,4,440,0020200616,LAKERS Rebound,,0:47,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,13:02 PM
+404,12,3,439,0020200616,O'Neal Free Throw 2 of 2 (27 PTS),,0:47,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,82 - 83,1,,13:02 PM
+405,1,1,441,0020200616,,,0:39,4,5,5,0,954,Kerry Kittles,NJN,New Jersey,1610612751.0,Nets,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,85 - 83,-2,Kittles 25' 3PT Jump Shot (17 PTS) (Kidd 6 AST),13:03 PM
+406,1,9,442,0020200616,LAKERS Timeout: Regular (Full 5 Short 0),,0:39,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,13:03 PM
+407,2,6,446,0020200616,,,0:34,4,5,0,1,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Martin S.FOUL (P3.PN),13:05 PM
+408,11,3,447,0020200616,MISS O'Neal Free Throw 1 of 2,,0:34,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,13:05 PM
+409,1,4,448,0020200616,LAKERS Rebound,,0:34,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,13:05 PM
+410,12,3,449,0020200616,MISS O'Neal Free Throw 2 of 2,,0:34,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,13:05 PM
+411,0,4,450,0020200616,,,0:33,4,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:1 Def:7),13:06 PM
+412,2,6,451,0020200616,Horry S.FOUL (P3.PN),,0:13,4,4,0,1,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,13:06 PM
+413,11,3,452,0020200616,,,0:13,4,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,86 - 83,-3,Martin Free Throw 1 of 2 (15 PTS),13:06 PM
+414,12,3,453,0020200616,,,0:13,4,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,87 - 83,-4,Martin Free Throw 2 of 2 (16 PTS),13:07 PM
+415,1,9,454,0020200616,LAKERS Timeout: Regular (Full 6 Short 0),,0:13,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,13:07 PM
+416,1,2,456,0020200616,MISS Horry 25' 3PT Jump Shot,,0:09,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,13:09 PM
+417,0,4,457,0020200616,,,0:07,4,5,0,0,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Kidd REBOUND (Off:2 Def:7),13:09 PM
+418,8,1,458,0020200616,,,0:05,4,5,5,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,467,Jason Kidd,NJN,New Jersey,1610612751.0,Nets,0,,,,,,89 - 83,-6,Martin  Slam Dunk (18 PTS) (Kidd 7 AST),13:09 PM
+419,2,9,459,0020200616,LAKERS Timeout: Short (Full 6 Short 1),,0:05,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,13:09 PM
+420,3,2,460,0020200616,MISS O'Neal 6' Hook Shot,,0:02,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,13:10 PM
+421,0,4,461,0020200616,,,0:00,4,5,0,0,2030,Kenyon Martin,NJN,New Jersey,1610612751.0,Nets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:1 Def:8),13:10 PM
+422,0,13,462,0020200616,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,89 - 83,-6,,13:10 PM

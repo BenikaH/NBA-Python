@@ -1,0 +1,436 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020100210,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,13:08 PM
+1,0,10,1,0020100210,Jump Ball Marshall vs. Booth: Tip to Collins,,12:00,1,4,5,4,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,,,,13:09 PM
+2,1,2,2,0020100210,MISS Stockton 19' Jump Shot,,11:39,1,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:10 PM
+3,0,4,3,0020100210,,,11:36,1,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Lewis REBOUND (Off:0 Def:1),13:10 PM
+4,1,2,4,0020100210,,,11:22,1,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker 12' Jump Shot,13:10 PM
+5,0,4,5,0020100210,Marshall REBOUND (Off:0 Def:1),,11:20,1,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:10 PM
+6,2,6,6,0020100210,,,11:15,1,5,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton S.FOUL (P1.T1),13:10 PM
+7,11,6,8,0020100210,,,11:15,1,5,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton T.FOUL (P1.T1),13:11 PM
+8,16,3,9,0020100210,Stockton Free Throw Technical (1 PTS),,11:15,1,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,0 - 1,1,,13:11 PM
+9,11,3,10,0020100210,Stockton Free Throw 1 of 2 (2 PTS),,11:15,1,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,0 - 2,2,,13:11 PM
+10,12,3,11,0020100210,Stockton Free Throw 2 of 2 (3 PTS),,11:15,1,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,0 - 3,3,,13:11 PM
+11,1,2,12,0020100210,,,10:57,1,5,0,0,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Booth 22' Jump Shot,13:12 PM
+12,0,4,13,0020100210,,,10:55,1,5,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Barry REBOUND (Off:1 Def:0),13:12 PM
+13,1,1,14,0020100210,,,10:52,1,5,5,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,2 - 3,1,Payton 19' Jump Shot (2 PTS) (Barry 1 AST),13:12 PM
+14,1,2,15,0020100210,MISS Lewis 25' 3PT Jump Shot,,10:35,1,4,0,0,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:12 PM
+15,0,4,16,0020100210,,,10:32,1,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton REBOUND (Off:0 Def:1),13:12 PM
+16,4,5,17,0020100210,,,10:26,1,5,0,1,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker Traveling Turnover (P1.T1),13:13 PM
+17,4,5,18,0020100210,Marshall Traveling Turnover (P1.T1),,10:12,1,4,0,1,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:13 PM
+18,1,2,19,0020100210,,,9:54,1,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Lewis 20' Jump Shot,13:13 PM
+19,0,4,20,0020100210,Lewis REBOUND (Off:0 Def:1),,9:52,1,4,0,0,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:13 PM
+20,2,6,21,0020100210,,,9:47,1,5,0,1,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Booth S.FOUL (P1.T2),13:14 PM
+21,11,3,22,0020100210,MISS Collins Free Throw 1 of 2,,9:47,1,4,0,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:14 PM
+22,1,4,23,0020100210,JAZZ Rebound,,9:47,1,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,13:14 PM
+23,12,3,24,0020100210,Collins Free Throw 2 of 2 (1 PTS),,9:47,1,4,0,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,2 - 4,2,,13:14 PM
+24,1,1,25,0020100210,,,9:36,1,5,5,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,4 - 4,TIE,Payton 21' Jump Shot (4 PTS) (Lewis 1 AST),13:14 PM
+25,17,6,26,0020100210,,,9:20,1,5,0,1,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,SuperSonics T.Foul (Def. 3 Sec Booth ),13:15 PM
+26,16,3,27,0020100210,Stockton Free Throw Technical (4 PTS),,9:20,1,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,4 - 5,1,,13:15 PM
+27,46,2,28,0020100210,MISS Marshall 15' Running Jump Shot,,9:10,1,4,0,5,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,,,Booth BLOCK (1 BLK),13:15 PM
+28,0,4,30,0020100210,Collins REBOUND (Off:1 Def:0),,9:07,1,4,0,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:15 PM
+29,5,1,29,0020100210,Collins  Layup (3 PTS),,9:07,1,4,0,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,4 - 7,3,,13:15 PM
+30,1,1,31,0020100210,,,8:48,1,5,5,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,6 - 7,1,Lewis 21' Jump Shot (2 PTS) (Barry 2 AST),13:16 PM
+31,5,1,32,0020100210,Lewis  Layup (2 PTS) (Stockton 1 AST),,8:29,1,4,4,0,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,6 - 9,3,,13:16 PM
+32,1,1,33,0020100210,,,8:16,1,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,8 - 9,1,Baker 8' Jump Shot (2 PTS) (Barry 3 AST),13:16 PM
+33,17,6,34,0020100210,,,8:02,1,5,0,1,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,SuperSonics T.Foul (Def. 3 Sec Booth ),13:16 PM
+34,16,3,35,0020100210,Stockton Free Throw Technical (5 PTS),,8:02,1,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,8 - 10,2,,13:17 PM
+35,5,2,36,0020100210,MISS Stockton 2' Layup,,7:49,1,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:17 PM
+36,0,4,37,0020100210,,,7:46,1,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Lewis REBOUND (Off:0 Def:2),13:17 PM
+37,5,1,38,0020100210,,,7:39,1,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,10 - 10,TIE,Baker  Layup (4 PTS) (Barry 4 AST),13:17 PM
+38,1,5,39,0020100210,Malone Bad Pass Turnover (P1.T2),,7:31,1,4,5,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Barry STEAL (1 STL),13:18 PM
+39,1,1,40,0020100210,,,7:25,1,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,12 - 10,-2,Baker 19' Jump Shot (6 PTS) (Payton 1 AST),13:18 PM
+40,1,5,41,0020100210,Malone Bad Pass Turnover (P2.T3),,7:08,1,4,5,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Booth STEAL (1 STL),13:18 PM
+41,1,2,42,0020100210,,,7:00,1,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Lewis 24' 3PT Jump Shot,13:18 PM
+42,0,4,43,0020100210,Lewis REBOUND (Off:0 Def:2),,6:57,1,4,0,0,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:18 PM
+43,2,6,44,0020100210,,,6:43,1,5,0,1,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker S.FOUL (P1.T3),13:18 PM
+44,11,3,45,0020100210,Malone Free Throw 1 of 2 (1 PTS),,6:43,1,4,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,12 - 11,-1,,13:19 PM
+45,12,3,46,0020100210,Malone Free Throw 2 of 2 (2 PTS),,6:43,1,4,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,12 - 12,TIE,,13:19 PM
+46,1,2,47,0020100210,Malone BLOCK (1 BLK),,6:34,1,5,0,4,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,,,MISS Barry 8' Jump Shot,13:19 PM
+47,0,10,48,0020100210,Jump Ball Malone vs. Barry: Tip to Lewis,,6:34,1,4,5,5,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,,,,13:19 PM
+48,0,4,49,0020100210,,,6:34,1,5,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Barry REBOUND (Off:2 Def:0),13:19 PM
+49,3,6,50,0020100210,Collins L.B.FOUL (P1.T1),,6:32,1,4,0,1,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:20 PM
+50,1,2,51,0020100210,,,6:27,1,5,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Barry 24' 3PT Jump Shot,13:20 PM
+51,0,4,52,0020100210,Marshall REBOUND (Off:0 Def:2),,6:24,1,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:20 PM
+52,1,5,53,0020100210,Malone Bad Pass Turnover (P3.T4),,6:15,1,4,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:20 PM
+53,1,1,54,0020100210,,,6:01,1,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,14 - 12,-2,Payton 20' Jump Shot (6 PTS),13:21 PM
+54,1,2,55,0020100210,MISS Lewis 20' Jump Shot,,5:37,1,4,0,0,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:21 PM
+55,0,4,56,0020100210,Marshall REBOUND (Off:1 Def:2),,5:35,1,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:21 PM
+56,1,1,57,0020100210,Malone 21' Jump Shot (4 PTS) (Collins 1 AST),,5:28,1,4,4,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,14 - 14,TIE,,13:21 PM
+57,1,1,58,0020100210,,,5:13,1,5,5,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,17 - 14,-3,Lewis  3PT Jump Shot (5 PTS) (Baker 1 AST),13:22 PM
+58,1,9,59,0020100210,JAZZ Timeout: Regular (Full 1 Short 0),,5:06,1,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,13:22 PM
+59,0,8,61,0020100210,SUB: Crotty FOR Stockton,,5:06,1,4,4,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,13:23 PM
+60,1,5,62,0020100210,Malone Bad Pass Turnover (P4.T5),,4:52,1,4,5,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Lewis STEAL (1 STL),13:24 PM
+61,1,2,63,0020100210,,,4:43,1,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Lewis  3PT Jump Shot,13:24 PM
+62,0,4,64,0020100210,,,4:40,1,5,0,0,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Booth REBOUND (Off:1 Def:0),13:24 PM
+63,1,2,65,0020100210,,,4:26,1,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Payton 25' 3PT Jump Shot,13:24 PM
+64,0,4,66,0020100210,JAZZ Rebound,,4:23,1,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,13:24 PM
+65,0,8,67,0020100210,SUB: Kirilenko FOR Marshall,,4:23,1,4,4,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,13:25 PM
+66,5,1,68,0020100210,Kirilenko  Layup (2 PTS),,4:08,1,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,17 - 16,-1,,13:25 PM
+67,2,6,69,0020100210,Crotty S.FOUL (P1.T2),,3:54,1,4,0,1,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:25 PM
+68,11,3,70,0020100210,,,3:54,1,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,18 - 16,-2,Payton Free Throw 1 of 2 (7 PTS),13:26 PM
+69,12,3,71,0020100210,,,3:54,1,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,19 - 16,-3,Payton Free Throw 2 of 2 (8 PTS),13:26 PM
+70,1,1,72,0020100210,Malone 20' Jump Shot (6 PTS) (Crotty 1 AST),,3:39,1,4,4,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,19 - 18,-1,,13:26 PM
+71,1,2,73,0020100210,,,3:25,1,5,0,0,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Booth 19' Jump Shot,13:26 PM
+72,0,4,74,0020100210,,,3:24,1,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker REBOUND (Off:1 Def:0),13:26 PM
+73,3,6,75,0020100210,Lewis L.B.FOUL (P1.T3),,3:24,1,4,0,1,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:26 PM
+74,0,8,76,0020100210,,,3:24,1,5,5,0,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Drobnjak FOR Booth,13:26 PM
+75,1,1,77,0020100210,,,3:17,1,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,21 - 18,-3,Payton 21' Jump Shot (10 PTS),13:27 PM
+76,1,1,78,0020100210,Crotty 25' 3PT Jump Shot (3 PTS) (Malone 1 AST),,3:06,1,4,4,0,180,John Crotty,UTA,Utah,1610612762.0,Jazz,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,21 - 21,TIE,,13:27 PM
+77,5,7,79,0020100210,Lewis Violation:Kicked Ball,,2:55,1,4,0,0,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:27 PM
+78,1,9,80,0020100210,,,2:55,1,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Timeout: Regular (Reg.1 Short 0),13:27 PM
+79,0,8,82,0020100210,SUB: Starks FOR Lewis,,2:55,1,4,4,0,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,13:29 PM
+80,0,8,83,0020100210,SUB: Ostertag FOR Collins,,2:55,1,4,4,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,13:29 PM
+81,0,8,84,0020100210,,,2:55,1,5,5,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,1742,Shammond Williams,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Williams FOR Barry,13:29 PM
+82,5,7,86,0020100210,Ostertag Violation:Kicked Ball,,2:48,1,4,0,1,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:30 PM
+83,1,2,87,0020100210,,,2:36,1,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker 21' Jump Shot,13:30 PM
+84,0,4,88,0020100210,Crotty REBOUND (Off:0 Def:1),,2:35,1,4,0,0,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:30 PM
+85,5,1,89,0020100210,Malone  Layup (8 PTS) (Crotty 2 AST),,2:31,1,4,4,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,21 - 23,2,,13:30 PM
+86,1,2,90,0020100210,,,2:14,1,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Payton 17' Jump Shot,13:30 PM
+87,0,4,91,0020100210,Kirilenko REBOUND (Off:0 Def:1),,2:12,1,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:30 PM
+88,5,1,92,0020100210,Ostertag  Layup (2 PTS) (Crotty 3 AST),,2:06,1,4,4,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,21 - 25,4,,13:30 PM
+89,1,6,93,0020100210,Starks P.FOUL (P1.T4),,1:49,1,4,0,1,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:31 PM
+90,0,8,94,0020100210,,,1:49,1,5,5,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Mason FOR Lewis,13:31 PM
+91,1,1,95,0020100210,,,1:43,1,5,5,0,1742,Shammond Williams,SEA,Seattle,1610612760.0,SuperSonics,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,23 - 25,2,Williams 20' Jump Shot (2 PTS) (Baker 2 AST),13:31 PM
+92,1,1,96,0020100210,Starks 19' Jump Shot (2 PTS) (Crotty 4 AST),,1:23,1,4,4,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,23 - 27,4,,13:32 PM
+93,2,6,97,0020100210,Ostertag S.FOUL (P1.PN),,0:59,1,4,0,1,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:32 PM
+94,11,3,98,0020100210,,,0:59,1,5,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,24 - 27,3,Mason Free Throw 1 of 2 (1 PTS),13:32 PM
+95,12,3,99,0020100210,,,0:59,1,5,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,25 - 27,2,Mason Free Throw 2 of 2 (2 PTS),13:33 PM
+96,1,6,100,0020100210,,,0:53,1,5,0,1,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Mason P.FOUL (P1.T4),13:33 PM
+97,1,1,101,0020100210,Kirilenko 6' Jump Shot (4 PTS) (Crotty 5 AST),,0:41,1,4,4,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,25 - 29,4,,13:34 PM
+98,2,6,102,0020100210,,,0:41,1,5,0,1,1742,Shammond Williams,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Williams S.FOUL (P1.PN),13:34 PM
+99,10,3,103,0020100210,MISS Kirilenko Free Throw 1 of 1,,0:41,1,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:34 PM
+100,0,4,104,0020100210,,,0:41,1,5,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Drobnjak REBOUND (Off:0 Def:1),13:34 PM
+101,1,6,105,0020100210,Crotty P.FOUL (P2.PN),,0:30,1,4,0,1,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:34 PM
+102,11,3,106,0020100210,,,0:30,1,5,0,0,1742,Shammond Williams,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,26 - 29,3,Williams Free Throw 1 of 2 (3 PTS),13:34 PM
+103,12,3,107,0020100210,,,0:30,1,5,0,0,1742,Shammond Williams,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,27 - 29,2,Williams Free Throw 2 of 2 (4 PTS),13:34 PM
+104,5,2,108,0020100210,MISS Crotty  Layup,,0:18,1,4,0,0,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:35 PM
+105,0,4,109,0020100210,JAZZ Rebound,,0:18,1,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,13:35 PM
+106,4,6,110,0020100210,Kirilenko OFF.Foul (P1),,0:02,1,4,0,1,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:36 PM
+107,5,5,111,0020100210,Kirilenko Foul Turnover (P1.T6),,0:02,1,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:36 PM
+108,1,2,112,0020100210,,,0:00,1,5,0,0,1742,Shammond Williams,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Williams 56' 3PT Jump Shot,13:36 PM
+109,0,4,113,0020100210,,,0:00,1,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,13:36 PM
+110,0,13,115,0020100210,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,27 - 29,2,,13:36 PM
+111,0,12,117,0020100210,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,27 - 29,2,,13:38 PM
+112,1,5,118,0020100210,Starks STEAL (1 STL),,11:48,2,5,4,0,1742,Shammond Williams,SEA,Seattle,1610612760.0,SuperSonics,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Williams Bad Pass Turnover (P1.T2),13:39 PM
+113,42,2,119,0020100210,MISS Kirilenko  Driving Layup,,11:35,2,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:39 PM
+114,0,4,121,0020100210,Ostertag REBOUND (Off:1 Def:0),,11:33,2,4,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:39 PM
+115,4,1,120,0020100210,Ostertag  Tip Shot (4 PTS),,11:33,2,4,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,27 - 31,4,,13:39 PM
+116,1,2,122,0020100210,,,11:21,2,5,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Drobnjak 20' Jump Shot,13:39 PM
+117,0,4,123,0020100210,Kirilenko REBOUND (Off:0 Def:2),,11:17,2,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:39 PM
+118,1,2,124,0020100210,MISS Starks 25' 3PT Jump Shot,,11:00,2,4,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:39 PM
+119,0,4,125,0020100210,,,10:57,2,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Lewis REBOUND (Off:0 Def:3),13:40 PM
+120,1,5,126,0020100210,Kirilenko STEAL (1 STL),,10:38,2,5,4,0,1742,Shammond Williams,SEA,Seattle,1610612760.0,SuperSonics,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Williams Bad Pass Turnover (P2.T3),13:40 PM
+121,5,2,127,0020100210,MISS Crotty  Layup,,10:31,2,4,0,0,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:40 PM
+122,0,4,129,0020100210,Marshall REBOUND (Off:2 Def:2),,10:30,2,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:40 PM
+123,7,1,128,0020100210,Marshall  Dunk (2 PTS),,10:30,2,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,27 - 33,6,,13:40 PM
+124,1,9,130,0020100210,,,10:24,2,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Timeout: Regular (Reg.2 Short 0),13:40 PM
+125,0,8,132,0020100210,SUB: Stockton FOR Crotty,,10:24,2,4,4,0,180,John Crotty,UTA,Utah,1610612762.0,Jazz,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,13:42 PM
+126,1,1,133,0020100210,,,10:08,2,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,29 - 33,4,Lewis 16' Jump Shot (7 PTS),13:42 PM
+127,1,2,134,0020100210,MISS Stockton 22' Jump Shot,,9:52,2,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:43 PM
+128,0,4,135,0020100210,Ostertag REBOUND (Off:2 Def:0),,9:50,2,4,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:43 PM
+129,1,2,136,0020100210,MISS Kirilenko 25' 3PT Jump Shot,,9:41,2,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:43 PM
+130,0,4,137,0020100210,,,9:38,2,5,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Barry REBOUND (Off:2 Def:1),13:43 PM
+131,2,5,138,0020100210,,,9:36,2,5,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Barry Lost Ball Turnover (P1.T4),13:43 PM
+132,1,6,139,0020100210,,,9:19,2,5,0,1,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Mason P.FOUL (P2.T1),13:44 PM
+133,42,1,140,0020100210,Stockton  Driving Layup (7 PTS),,9:17,2,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,29 - 35,6,,13:44 PM
+134,5,2,141,0020100210,,,8:58,2,5,0,0,1742,Shammond Williams,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Williams 2' Layup,13:44 PM
+135,0,4,142,0020100210,Ostertag REBOUND (Off:2 Def:1),,8:57,2,4,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:44 PM
+136,5,1,143,0020100210,Starks  Layup (4 PTS) (Stockton 2 AST),,8:53,2,4,4,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,29 - 37,8,,13:44 PM
+137,2,9,144,0020100210,,,8:42,2,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Timeout: Short (Reg.2 Short 1),13:44 PM
+138,0,8,147,0020100210,,,8:42,2,5,5,0,1742,Shammond Williams,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Payton FOR Williams,13:45 PM
+139,1,2,148,0020100210,,,8:24,2,5,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Mason 17' Jump Shot,13:46 PM
+140,0,4,149,0020100210,,,8:24,2,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,13:46 PM
+141,3,6,150,0020100210,Marshall L.B.FOUL (P1.T1),,8:24,2,4,0,1,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:46 PM
+142,0,8,151,0020100210,,,8:24,2,5,5,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Booth FOR Drobnjak,13:46 PM
+143,0,8,152,0020100210,,,8:24,2,5,5,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Baker FOR Mason,13:46 PM
+144,2,5,153,0020100210,Kirilenko STEAL (2 STL),,8:13,2,5,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Lewis Lost Ball Turnover (P1.T5),13:47 PM
+145,42,1,154,0020100210,Starks  Driving Layup (6 PTS),,8:09,2,4,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,29 - 39,10,,13:47 PM
+146,1,1,155,0020100210,,,7:56,2,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,31 - 39,8,Payton 21' Jump Shot (12 PTS),13:47 PM
+147,5,1,156,0020100210,Marshall  Layup (4 PTS),,7:31,2,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,31 - 41,10,,13:47 PM
+148,1,2,157,0020100210,,,7:13,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker 19' Jump Shot,13:48 PM
+149,0,4,158,0020100210,Marshall REBOUND (Off:2 Def:3),,7:11,2,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:48 PM
+150,5,1,159,0020100210,Ostertag  Layup (6 PTS) (Stockton 3 AST),,7:07,2,4,4,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,31 - 43,12,,13:48 PM
+151,1,9,160,0020100210,,,6:56,2,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Timeout: Regular (Reg.3 Short 1),13:48 PM
+152,1,2,162,0020100210,Ostertag BLOCK (1 BLK),,6:44,2,5,0,4,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,,,MISS Booth 7' Jump Shot,13:50 PM
+153,0,4,163,0020100210,,,6:42,2,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Lewis REBOUND (Off:1 Def:3),13:50 PM
+154,1,2,164,0020100210,,,6:38,2,5,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Barry 26' 3PT Jump Shot,13:51 PM
+155,0,4,165,0020100210,Ostertag REBOUND (Off:2 Def:2),,6:36,2,4,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:51 PM
+156,42,1,166,0020100210,Kirilenko  Driving Layup (6 PTS),,6:29,2,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,31 - 45,14,,13:51 PM
+157,1,6,167,0020100210,Ostertag P.FOUL (P2.T2),,6:12,2,4,0,1,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:51 PM
+158,1,2,168,0020100210,Kirilenko BLOCK (1 BLK),,6:01,2,5,0,4,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,,,MISS Lewis 16' Jump Shot,13:52 PM
+159,0,4,170,0020100210,,,5:57,2,5,0,0,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Booth REBOUND (Off:2 Def:0),13:52 PM
+160,5,2,169,0020100210,,,5:57,2,5,0,0,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Booth  Layup,13:52 PM
+161,0,4,171,0020100210,,,5:54,2,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Lewis REBOUND (Off:2 Def:3),13:52 PM
+162,5,2,172,0020100210,Ostertag BLOCK (2 BLK),,5:53,2,5,0,4,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,,,MISS Lewis 3' Layup,13:52 PM
+163,0,4,173,0020100210,,,5:50,2,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Lewis REBOUND (Off:3 Def:3),13:52 PM
+164,1,1,174,0020100210,,,5:45,2,5,5,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,34 - 45,11,Lewis 25' 3PT Jump Shot (10 PTS) (Payton 2 AST),13:52 PM
+165,1,1,175,0020100210,Kirilenko 24' 3PT Jump Shot (9 PTS) (Starks 1 AST),,5:25,2,4,4,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,34 - 48,14,,13:52 PM
+166,42,1,176,0020100210,,,5:05,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,36 - 48,12,Baker  Driving Layup (8 PTS),13:53 PM
+167,1,1,177,0020100210,Stockton 23' Jump Shot (9 PTS) (Marshall 1 AST),,4:57,2,4,4,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,36 - 50,14,,13:53 PM
+168,1,7,178,0020100210,JAZZ Violation: Delay of game Violation,,4:54,2,2,0,1,1610612762,,,,,,0,,,,,,0,,,,,,,,,13:53 PM
+169,1,6,179,0020100210,Ostertag P.FOUL (P3.T3),,4:38,2,4,0,1,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:53 PM
+170,11,6,180,0020100210,Ostertag T.FOUL (P3.T3),,4:38,2,4,0,1,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:53 PM
+171,16,3,181,0020100210,,,4:38,2,5,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,37 - 50,13,Barry Free Throw Technical (1 PTS),13:54 PM
+172,0,8,182,0020100210,SUB: Malone FOR Ostertag,,4:38,2,4,4,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,13:54 PM
+173,1,2,183,0020100210,Kirilenko BLOCK (2 BLK),,4:32,2,5,0,4,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,,,MISS Lewis 11' Jump Shot,13:54 PM
+174,0,4,184,0020100210,Starks REBOUND (Off:0 Def:1),,4:29,2,4,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:54 PM
+175,2,6,185,0020100210,,,4:26,2,5,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton S.FOUL (P2.T2),13:54 PM
+176,11,3,186,0020100210,Stockton Free Throw 1 of 2 (10 PTS),,4:26,2,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,37 - 51,14,,13:54 PM
+177,12,3,187,0020100210,Stockton Free Throw 2 of 2 (11 PTS),,4:26,2,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,37 - 52,15,,13:54 PM
+178,1,2,188,0020100210,Kirilenko BLOCK (3 BLK),,4:10,2,5,0,4,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,,,MISS Payton 14' Jump Shot,13:55 PM
+179,0,4,189,0020100210,Malone REBOUND (Off:0 Def:1),,4:07,2,4,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:55 PM
+180,1,5,190,0020100210,Starks Bad Pass Turnover (P1.T7),,4:06,2,4,5,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Barry STEAL (2 STL),13:55 PM
+181,65,1,191,0020100210,,,3:58,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,39 - 52,13,Baker 7' Jump Hook Shot (10 PTS),13:55 PM
+182,1,2,192,0020100210,MISS Starks 25' 3PT Jump Shot,,3:37,2,4,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:56 PM
+183,0,4,193,0020100210,,,3:35,2,5,0,0,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Booth REBOUND (Off:2 Def:1),13:56 PM
+184,1,6,194,0020100210,Starks P.FOUL (P2.T4),,3:32,2,4,0,1,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:56 PM
+185,0,8,195,0020100210,SUB: Collins FOR Kirilenko,,3:32,2,4,4,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,13:56 PM
+186,17,6,196,0020100210,JAZZ T.Foul (Def. 3 Sec Marshall ),,3:24,2,4,0,1,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:56 PM
+187,16,3,197,0020100210,,,3:24,2,5,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,40 - 52,12,Barry Free Throw Technical (2 PTS),13:57 PM
+188,5,1,198,0020100210,,,3:17,2,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,42 - 52,10,Baker  Layup (12 PTS) (Payton 3 AST),13:57 PM
+189,1,2,199,0020100210,MISS Malone 15' Jump Shot,,2:59,2,4,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:57 PM
+190,0,4,201,0020100210,Marshall REBOUND (Off:3 Def:3),,2:56,2,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:57 PM
+191,5,1,200,0020100210,Marshall  Layup (6 PTS),,2:56,2,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,42 - 54,12,,13:57 PM
+192,1,6,202,0020100210,Malone P.FOUL (P1.PN),,2:34,2,4,0,1,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,13:58 PM
+193,1,9,203,0020100210,JAZZ Timeout: Regular (Full 2 Short 0),,2:34,2,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,13:58 PM
+194,0,8,205,0020100210,SUB: Lewis FOR Starks,,2:34,2,4,4,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,14:00 PM
+195,11,3,206,0020100210,,,2:34,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,43 - 54,11,Baker Free Throw 1 of 2 (13 PTS),14:00 PM
+196,12,3,207,0020100210,,,2:34,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,44 - 54,10,Baker Free Throw 2 of 2 (14 PTS),14:00 PM
+197,1,1,208,0020100210,Marshall 13' Jump Shot (8 PTS),,2:08,2,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,44 - 56,12,,14:01 PM
+198,2,5,209,0020100210,Stockton STEAL (1 STL),,1:54,2,5,4,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Barry Lost Ball Turnover (P2.T6),14:01 PM
+199,5,1,210,0020100210,Stockton  Layup (13 PTS),,1:51,2,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,44 - 58,14,,14:01 PM
+200,5,1,211,0020100210,,,1:26,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,46 - 58,12,Baker  Layup (16 PTS),14:01 PM
+201,5,1,212,0020100210,Malone  Layup (10 PTS) (Stockton 4 AST),,1:20,2,4,4,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,46 - 60,14,,14:01 PM
+202,1,5,213,0020100210,Stockton STEAL (2 STL),,0:55,2,5,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Payton Bad Pass Turnover (P1.T7),14:02 PM
+203,1,6,214,0020100210,,,0:55,2,5,0,1,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Booth P.FOUL (P2.T3),14:02 PM
+204,5,1,215,0020100210,Stockton  Layup (15 PTS) (Malone 2 AST),,0:46,2,4,4,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,46 - 62,16,,14:02 PM
+205,2,5,216,0020100210,Malone STEAL (1 STL),,0:29,2,5,4,0,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Booth Lost Ball Turnover (P1.T8),14:03 PM
+206,1,6,217,0020100210,,,0:25,2,5,0,1,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Barry P.FOUL (P1.PN),14:03 PM
+207,0,8,218,0020100210,,,0:25,2,5,5,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Watson FOR Payton,14:03 PM
+208,11,3,219,0020100210,MISS Stockton Free Throw 1 of 2,,0:25,2,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:03 PM
+209,1,4,220,0020100210,JAZZ Rebound,,0:25,2,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,14:03 PM
+210,0,8,221,0020100210,,,0:25,2,5,5,0,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Mason FOR Booth,14:03 PM
+211,12,3,222,0020100210,Stockton Free Throw 2 of 2 (16 PTS),,0:25,2,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,46 - 63,17,,14:03 PM
+212,1,2,223,0020100210,,,0:03,2,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Lewis 19' Jump Shot,14:04 PM
+213,0,4,224,0020100210,,,0:01,2,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,14:04 PM
+214,1,2,225,0020100210,,,0:00,2,5,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Barry 19' Jump Shot,14:04 PM
+215,0,4,226,0020100210,Marshall REBOUND (Off:3 Def:4),,0:00,2,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:04 PM
+216,0,13,228,0020100210,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,46 - 63,17,,14:04 PM
+217,0,12,230,0020100210,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,46 - 63,17,,14:20 PM
+218,13,5,231,0020100210,,,11:40,3,5,0,1,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker Backcourt Turnover (P2.T9),14:21 PM
+219,1,2,232,0020100210,MISS Collins 13' Jump Shot,,11:19,3,4,0,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:22 PM
+220,0,4,233,0020100210,,,11:17,3,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker REBOUND (Off:1 Def:1),14:22 PM
+221,42,1,234,0020100210,,,11:11,3,5,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,48 - 63,15,Mason  Driving Layup (4 PTS),14:22 PM
+222,1,6,235,0020100210,,,10:50,3,5,0,1,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Lewis P.FOUL (P1.T1),14:22 PM
+223,1,2,236,0020100210,MISS Malone 4' Jump Shot,,10:46,3,4,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:22 PM
+224,0,4,237,0020100210,,,10:42,3,5,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Barry REBOUND (Off:2 Def:2),14:22 PM
+225,1,1,238,0020100210,,,10:28,3,5,5,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,51 - 63,12,Lewis  3PT Jump Shot (13 PTS) (Barry 5 AST),14:23 PM
+226,11,5,239,0020100210,JAZZ Turnover: Shot Clock (T#8),,10:00,3,2,0,1,1610612762,,,,,,0,,,,,,0,,,,,,,,,14:23 PM
+227,1,2,240,0020100210,,,9:44,3,5,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Mason 21' Jump Shot,14:24 PM
+228,0,4,241,0020100210,Malone REBOUND (Off:0 Def:2),,9:42,3,4,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:24 PM
+229,1,2,242,0020100210,MISS Malone 23' Jump Shot,,9:35,3,4,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:24 PM
+230,0,4,243,0020100210,JAZZ Rebound,,9:35,3,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,14:24 PM
+231,3,6,244,0020100210,,,9:35,3,5,0,1,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Barry L.B.FOUL (P2.T2),14:24 PM
+232,1,2,245,0020100210,MISS Marshall 15' Jump Shot,,9:17,3,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:24 PM
+233,0,4,246,0020100210,,,9:14,3,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Lewis REBOUND (Off:3 Def:4),14:24 PM
+234,1,5,247,0020100210,Lewis STEAL (1 STL),,9:06,3,5,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Lewis Bad Pass Turnover (P2.T10),14:25 PM
+235,7,1,248,0020100210,Lewis  Dunk (4 PTS),,9:04,3,4,0,0,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,51 - 65,14,,14:25 PM
+236,1,2,249,0020100210,,,8:55,3,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Lewis 17' Jump Shot,14:25 PM
+237,0,4,250,0020100210,Malone REBOUND (Off:0 Def:3),,8:52,3,4,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:25 PM
+238,5,2,251,0020100210,MISS Marshall  Layup,,8:34,3,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:25 PM
+239,0,4,253,0020100210,Collins REBOUND (Off:2 Def:0),,8:33,3,4,0,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:25 PM
+240,5,1,252,0020100210,Collins  Layup (5 PTS),,8:33,3,4,0,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,51 - 67,16,,14:25 PM
+241,1,6,254,0020100210,Lewis P.FOUL (P2.T1),,8:18,3,4,0,1,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:25 PM
+242,1,2,255,0020100210,,,8:02,3,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Payton 19' Jump Shot,14:26 PM
+243,0,4,256,0020100210,Collins REBOUND (Off:2 Def:1),,7:59,3,4,0,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:26 PM
+244,5,1,257,0020100210,Marshall  Layup (10 PTS) (Stockton 5 AST),,7:55,3,4,4,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,51 - 69,18,,14:26 PM
+245,1,6,258,0020100210,Stockton P.FOUL (P1.T2),,7:35,3,4,0,1,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:27 PM
+246,0,8,259,0020100210,,,7:35,3,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Booth FOR Baker,14:27 PM
+247,1,2,260,0020100210,,,7:28,3,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Lewis 24' 3PT Jump Shot,14:27 PM
+248,0,4,261,0020100210,Collins REBOUND (Off:2 Def:2),,7:26,3,4,0,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:27 PM
+249,1,5,262,0020100210,Malone Bad Pass Turnover (P5.T9),,7:20,3,4,5,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Mason STEAL (1 STL),14:27 PM
+250,1,5,263,0020100210,Stockton STEAL (3 STL),,7:16,3,5,4,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Barry Bad Pass Turnover (P3.T11),14:27 PM
+251,2,5,264,0020100210,Marshall Lost Ball Turnover (P2.T10),,7:12,3,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:27 PM
+252,2,6,265,0020100210,Stockton S.FOUL (P2.T3),,7:04,3,4,0,1,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:28 PM
+253,11,3,266,0020100210,,,7:04,3,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,52 - 69,17,Payton Free Throw 1 of 2 (13 PTS),14:28 PM
+254,12,3,267,0020100210,,,7:04,3,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,53 - 69,16,Payton Free Throw 2 of 2 (14 PTS),14:28 PM
+255,1,5,268,0020100210,Stockton Bad Pass Turnover (P1.T11),,6:51,3,4,5,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Payton STEAL (1 STL),14:28 PM
+256,1,2,269,0020100210,,,6:44,3,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Payton  3PT Jump Shot,14:28 PM
+257,0,4,270,0020100210,JAZZ Rebound,,6:43,3,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,14:29 PM
+258,5,1,271,0020100210,Malone  Layup (12 PTS) (Marshall 2 AST),,6:29,3,4,4,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,53 - 71,18,,14:29 PM
+259,42,1,272,0020100210,,,6:08,3,5,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,55 - 71,16,Mason  Driving Layup (6 PTS),14:29 PM
+260,1,6,274,0020100210,,,5:57,3,5,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton P.FOUL (P3.T3),14:30 PM
+261,1,9,275,0020100210,JAZZ Timeout: Regular (Full 3 Short 0),,5:57,3,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,14:30 PM
+262,5,2,277,0020100210,MISS Stockton 2' Layup,,5:48,3,4,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:32 PM
+263,0,4,278,0020100210,,,5:47,3,5,0,0,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Booth REBOUND (Off:2 Def:2),14:32 PM
+264,10,6,279,0020100210,,,5:30,3,4,5,1,304,John Stockton,UTA,Utah,1610612762.0,Jazz,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,14:32 PM
+265,0,8,280,0020100210,SUB: Crotty FOR Stockton,,5:30,3,4,4,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,14:33 PM
+266,1,6,281,0020100210,Malone P.FOUL (P2.T4),,5:20,3,4,0,1,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:33 PM
+267,1,2,282,0020100210,,,5:06,3,5,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Barry 25' 3PT Jump Shot,14:34 PM
+268,0,4,283,0020100210,Malone REBOUND (Off:0 Def:4),,5:04,3,4,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:34 PM
+269,3,6,284,0020100210,,,5:04,3,5,0,1,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Lewis L.B.FOUL (P2.T4),14:34 PM
+270,2,6,285,0020100210,,,4:55,3,5,0,1,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Booth S.FOUL (P4.PN),14:34 PM
+271,11,3,286,0020100210,Marshall Free Throw 1 of 2 (11 PTS),,4:55,3,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,55 - 72,17,,14:34 PM
+272,12,3,287,0020100210,Marshall Free Throw 2 of 2 (12 PTS),,4:55,3,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,55 - 73,18,,14:34 PM
+273,1,5,288,0020100210,Collins STEAL (1 STL),,4:37,3,5,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Payton Bad Pass Turnover (P2.T12),14:35 PM
+274,5,1,289,0020100210,Malone  Layup (14 PTS) (Lewis 1 AST),,4:33,3,4,4,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,55 - 75,20,,14:35 PM
+275,1,1,290,0020100210,,,4:18,3,5,5,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,58 - 75,17,Barry 26' 3PT Jump Shot (5 PTS) (Payton 4 AST),14:35 PM
+276,1,1,291,0020100210,Marshall  3PT Jump Shot (15 PTS) (Lewis 2 AST),,3:58,3,4,4,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,58 - 78,20,,14:36 PM
+277,1,1,292,0020100210,,,3:39,3,5,5,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,60 - 78,18,Mason 22' Jump Shot (8 PTS) (Payton 5 AST),14:36 PM
+278,5,1,293,0020100210,Malone  Layup (16 PTS) (Lewis 3 AST),,3:19,3,4,4,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,60 - 80,20,,14:36 PM
+279,2,6,294,0020100210,,,3:19,3,5,0,1,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Mason S.FOUL (P3.PN),14:36 PM
+280,0,8,295,0020100210,SUB: Kirilenko FOR Marshall,,3:19,3,4,4,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,14:36 PM
+281,0,8,296,0020100210,,,3:19,3,5,5,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Watson FOR Payton,14:36 PM
+282,10,3,297,0020100210,Malone Free Throw 1 of 1 (17 PTS),,3:19,3,4,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,60 - 81,21,,14:37 PM
+283,49,1,298,0020100210,,,3:05,3,5,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,62 - 81,19,Mason  Driving Dunk (10 PTS),14:37 PM
+284,1,2,299,0020100210,MISS Lewis  3PT Jump Shot,,2:42,3,4,0,0,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:38 PM
+285,0,4,300,0020100210,Collins REBOUND (Off:3 Def:2),,2:38,3,4,0,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:38 PM
+286,1,2,301,0020100210,MISS Kirilenko 25' 3PT Jump Shot,,2:27,3,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:38 PM
+287,0,4,302,0020100210,,,2:25,3,5,0,0,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Booth REBOUND (Off:2 Def:3),14:38 PM
+288,1,2,303,0020100210,,,2:08,3,5,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Watson 19' Jump Shot,14:38 PM
+289,0,4,304,0020100210,Malone REBOUND (Off:0 Def:5),,2:05,3,4,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:38 PM
+290,1,6,305,0020100210,,,1:59,3,5,0,1,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Mason P.FOUL (P4.PN),14:38 PM
+291,1,9,306,0020100210,,,1:59,3,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Timeout: Regular (Reg.4 Short 1),14:39 PM
+292,0,8,308,0020100210,SUB: Starks FOR Lewis,,1:59,3,4,4,0,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,14:40 PM
+293,0,8,309,0020100210,,,1:59,3,5,5,0,1916,Calvin Booth,SEA,Seattle,1610612760.0,SuperSonics,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Drobnjak FOR Booth,14:40 PM
+294,0,8,310,0020100210,,,1:59,3,5,5,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Baker FOR Lewis,14:40 PM
+295,11,3,311,0020100210,Collins Free Throw 1 of 2 (6 PTS),,1:59,3,4,0,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,62 - 82,20,,14:41 PM
+296,12,3,312,0020100210,MISS Collins Free Throw 2 of 2,,1:59,3,4,0,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:41 PM
+297,0,4,313,0020100210,,,1:57,3,5,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Drobnjak REBOUND (Off:0 Def:2),14:41 PM
+298,1,5,314,0020100210,Kirilenko STEAL (3 STL),,1:39,3,5,4,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Drobnjak Bad Pass Turnover (P1.T13),14:41 PM
+299,1,2,315,0020100210,MISS Crotty 25' 3PT Jump Shot,,1:30,3,4,0,0,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:41 PM
+300,0,4,316,0020100210,,,1:28,3,5,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Barry REBOUND (Off:2 Def:3),14:42 PM
+301,1,2,317,0020100210,,,1:19,3,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker 7' Jump Shot,14:42 PM
+302,0,4,318,0020100210,Collins REBOUND (Off:3 Def:3),,1:16,3,4,0,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:42 PM
+303,1,2,319,0020100210,MISS Kirilenko 4' Jump Shot,,0:58,3,4,0,5,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,,,Baker BLOCK (1 BLK),14:42 PM
+304,0,4,320,0020100210,,,0:55,3,5,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Barry REBOUND (Off:2 Def:4),14:42 PM
+305,7,1,321,0020100210,,,0:51,3,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,64 - 82,18,Baker  Dunk (18 PTS) (Barry 6 AST),14:42 PM
+306,1,6,322,0020100210,,,0:41,3,5,0,1,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker P.FOUL (P2.PN),14:42 PM
+307,0,8,323,0020100210,SUB: Ostertag FOR Collins,,0:41,3,4,4,0,2260,Jarron Collins,UTA,Utah,1610612762.0,Jazz,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,14:43 PM
+308,11,3,324,0020100210,MISS Kirilenko Free Throw 1 of 2,,0:41,3,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:43 PM
+309,1,4,325,0020100210,JAZZ Rebound,,0:41,3,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,14:43 PM
+310,12,3,326,0020100210,Kirilenko Free Throw 2 of 2 (10 PTS),,0:41,3,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,64 - 83,19,,14:43 PM
+311,1,1,327,0020100210,,,0:24,3,5,5,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,66 - 83,17,Drobnjak 20' Jump Shot (2 PTS) (Baker 3 AST),14:43 PM
+312,5,1,328,0020100210,Ostertag  Layup (8 PTS) (Kirilenko 1 AST),,0:15,3,4,4,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,66 - 85,19,,14:44 PM
+313,1,5,329,0020100210,Crotty STEAL (1 STL),,0:02,3,5,4,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Watson Bad Pass Turnover (P1.T14),14:44 PM
+314,5,2,330,0020100210,MISS Starks  Layup,,0:00,3,4,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:44 PM
+315,0,4,331,0020100210,JAZZ Rebound,,0:00,3,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,14:44 PM
+316,0,13,333,0020100210,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,66 - 85,19,,14:44 PM
+317,0,12,334,0020100210,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,66 - 85,19,,14:46 PM
+318,42,2,335,0020100210,MISS Kirilenko  Driving Layup,,11:43,4,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:47 PM
+319,0,4,337,0020100210,Marshall REBOUND (Off:4 Def:4),,11:40,4,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:47 PM
+320,4,1,336,0020100210,Marshall 3' Tip Shot (17 PTS),,11:40,4,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,66 - 87,21,,14:47 PM
+321,1,2,338,0020100210,Ostertag BLOCK (3 BLK),,11:20,4,5,0,4,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,,,MISS Baker 9' Jump Shot,14:47 PM
+322,0,4,339,0020100210,Marshall REBOUND (Off:4 Def:5),,11:18,4,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:47 PM
+323,1,1,340,0020100210,Crotty 19' Jump Shot (5 PTS) (Kirilenko 2 AST),,11:09,4,4,4,0,180,John Crotty,UTA,Utah,1610612762.0,Jazz,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,66 - 89,23,,14:47 PM
+324,1,1,341,0020100210,,,10:49,4,5,5,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,68 - 89,21,Payton 19' Jump Shot (16 PTS) (Baker 4 AST),14:47 PM
+325,1,2,342,0020100210,MISS Kirilenko 19' Jump Shot,,10:23,4,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:48 PM
+326,0,4,343,0020100210,,,10:21,4,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton REBOUND (Off:0 Def:2),14:48 PM
+327,2,5,344,0020100210,Kirilenko STEAL (4 STL),,10:17,4,5,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Payton Lost Ball Turnover (P3.T15),14:48 PM
+328,3,6,345,0020100210,,,10:17,4,5,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton L.B.FOUL (P4.T1),14:48 PM
+329,1,1,346,0020100210,Starks 20' Jump Shot (8 PTS) (Crotty 6 AST),,10:05,4,4,4,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,68 - 91,23,,14:49 PM
+330,1,2,347,0020100210,,,9:42,4,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Lewis 4' Jump Shot,14:49 PM
+331,0,4,348,0020100210,Ostertag REBOUND (Off:2 Def:3),,9:39,4,4,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:49 PM
+332,2,5,349,0020100210,Kirilenko Lost Ball Turnover (P2.T12),,9:29,4,4,5,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Drobnjak STEAL (1 STL),14:49 PM
+333,65,1,350,0020100210,,,9:22,4,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,70 - 91,21,Baker 3' Jump Hook Shot (20 PTS) (Lewis 2 AST),14:49 PM
+334,2,6,351,0020100210,Marshall S.FOUL (P2.T1),,9:22,4,4,0,1,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:49 PM
+335,10,3,352,0020100210,,,9:22,4,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker Free Throw 1 of 1,14:50 PM
+336,0,4,353,0020100210,Kirilenko REBOUND (Off:0 Def:3),,9:18,4,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:50 PM
+337,1,2,354,0020100210,MISS Starks 24' 3PT Jump Shot,,9:01,4,4,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:50 PM
+338,0,4,355,0020100210,,,8:59,4,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton REBOUND (Off:0 Def:3),14:50 PM
+339,1,1,356,0020100210,,,8:53,4,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,72 - 91,19,Payton 19' Jump Shot (18 PTS),14:50 PM
+340,5,1,357,0020100210,Marshall  Layup (19 PTS) (Ostertag 1 AST),,8:29,4,4,4,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,72 - 93,21,,14:51 PM
+341,1,2,358,0020100210,,,8:11,4,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Payton 16' Jump Shot,14:51 PM
+342,0,4,359,0020100210,Ostertag REBOUND (Off:2 Def:4),,8:08,4,4,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:51 PM
+343,1,2,360,0020100210,MISS Kirilenko 12' Jump Shot,,8:03,4,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:51 PM
+344,0,4,361,0020100210,,,8:01,4,5,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Drobnjak REBOUND (Off:0 Def:3),14:51 PM
+345,1,2,362,0020100210,,,7:55,4,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Lewis  3PT Jump Shot,14:51 PM
+346,0,4,363,0020100210,Marshall REBOUND (Off:4 Def:6),,7:53,4,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:51 PM
+347,1,1,364,0020100210,Kirilenko 24' 3PT Jump Shot (13 PTS),,7:39,4,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,72 - 96,24,,14:51 PM
+348,1,2,365,0020100210,Ostertag BLOCK (4 BLK),,7:22,4,5,0,4,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,,,MISS Lewis 6' Jump Shot,14:52 PM
+349,0,4,366,0020100210,,,7:18,4,5,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Lewis REBOUND (Off:4 Def:4),14:52 PM
+350,1,2,367,0020100210,Ostertag BLOCK (5 BLK),,7:17,4,5,0,4,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,,,MISS Lewis 4' Jump Shot,14:52 PM
+351,0,4,368,0020100210,Crotty REBOUND (Off:0 Def:2),,7:14,4,4,0,0,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:52 PM
+352,7,1,369,0020100210,Kirilenko  Dunk (15 PTS) (Crotty 7 AST),,7:10,4,4,4,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,72 - 98,26,,14:52 PM
+353,4,9,371,0020100210,,,7:08,4,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Timeout: Official (Reg.4 Short 1),14:52 PM
+354,11,6,372,0020100210,,,7:08,4,5,0,1,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Lewis T.FOUL (P2.T1),14:53 PM
+355,0,8,373,0020100210,,,7:08,4,5,5,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Mason FOR Lewis,14:54 PM
+356,0,8,374,0020100210,,,7:08,4,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Long FOR Baker,14:54 PM
+357,0,8,375,0020100210,,,7:08,4,5,5,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Radmanovic FOR Payton,14:54 PM
+358,0,8,376,0020100210,,,7:08,4,5,5,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Watson FOR Barry,14:54 PM
+359,16,3,377,0020100210,Marshall Free Throw Technical (20 PTS),,7:08,4,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,72 - 99,27,,14:54 PM
+360,0,8,378,0020100210,SUB: Malone FOR Ostertag,,7:08,4,4,4,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,14:54 PM
+361,0,8,379,0020100210,SUB: Stockton FOR Crotty,,7:08,4,4,4,0,180,John Crotty,UTA,Utah,1610612762.0,Jazz,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,14:54 PM
+362,1,1,380,0020100210,,,6:51,4,5,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,74 - 99,25,Watson 14' Jump Shot (2 PTS),14:55 PM
+363,1,2,381,0020100210,MISS Malone 21' Jump Shot,,6:30,4,4,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:55 PM
+364,0,4,382,0020100210,,,6:28,4,5,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Watson REBOUND (Off:0 Def:1),14:55 PM
+365,1,2,383,0020100210,Marshall BLOCK (1 BLK),,6:10,4,5,0,4,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,,,MISS Drobnjak 11' Jump Shot,14:55 PM
+366,0,4,384,0020100210,Malone REBOUND (Off:0 Def:6),,6:07,4,4,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:55 PM
+367,1,5,385,0020100210,Kirilenko Bad Pass Turnover (P3.T13),,5:59,4,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:55 PM
+368,4,9,386,0020100210,,,5:59,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,14:56 PM
+369,1,2,388,0020100210,,,5:46,4,5,0,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Drobnjak 22' Jump Shot,14:58 PM
+370,0,4,389,0020100210,Kirilenko REBOUND (Off:0 Def:4),,5:43,4,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:58 PM
+371,5,1,390,0020100210,Stockton  Layup (18 PTS) (Malone 3 AST),,5:30,4,4,4,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,74 - 101,27,,14:58 PM
+372,2,6,391,0020100210,Kirilenko S.FOUL (P2.T2),,5:10,4,4,0,1,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,14:58 PM
+373,0,8,392,0020100210,,,5:10,4,5,5,0,1542,Predrag Drobnjak,SEA,Seattle,1610612760.0,SuperSonics,2071,Olumide Oyedeji,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Oyedeji FOR Drobnjak,14:59 PM
+374,0,8,393,0020100210,SUB: Crotty FOR Stockton,,5:10,4,4,4,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,180,John Crotty,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,14:59 PM
+375,11,3,394,0020100210,,,5:10,4,5,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Radmanovic Free Throw 1 of 2,14:59 PM
+376,1,4,395,0020100210,,,5:10,4,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,14:59 PM
+377,12,3,396,0020100210,,,5:10,4,5,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,75 - 101,26,Radmanovic Free Throw 2 of 2 (1 PTS),14:59 PM
+378,1,1,397,0020100210,Malone 18' Jump Shot (19 PTS) (Kirilenko 3 AST),,4:47,4,4,4,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,75 - 103,28,,15:00 PM
+379,1,1,398,0020100210,,,4:35,4,5,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,78 - 103,25,Radmanovic 25' 3PT Jump Shot (4 PTS),15:00 PM
+380,65,2,399,0020100210,MISS Marshall 10' Jump Hook Shot,,4:17,4,4,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:00 PM
+381,0,4,400,0020100210,,,4:14,4,5,0,0,2071,Olumide Oyedeji,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Oyedeji REBOUND (Off:0 Def:1),15:00 PM
+382,1,2,401,0020100210,,,4:05,4,5,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Radmanovic 24' 3PT Jump Shot,15:00 PM
+383,0,4,402,0020100210,JAZZ Rebound,,4:04,4,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,15:00 PM
+384,0,8,403,0020100210,SUB: Padgett FOR Marshall,,4:04,4,4,4,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,1909,Scott Padgett,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,15:00 PM
+385,0,8,404,0020100210,SUB: Amaechi FOR Malone,,4:04,4,4,4,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,680,John Amaechi,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,15:00 PM
+386,1,2,405,0020100210,MISS Kirilenko 24' 3PT Jump Shot,,3:53,4,4,0,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:01 PM
+387,0,4,407,0020100210,Padgett REBOUND (Off:1 Def:0),,3:49,4,4,0,0,1909,Scott Padgett,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:01 PM
+388,5,1,406,0020100210,Padgett  Layup (2 PTS),,3:49,4,4,0,0,1909,Scott Padgett,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,78 - 105,27,,15:01 PM
+389,2,6,408,0020100210,,,3:49,4,5,0,1,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Long S.FOUL (P1.T2),15:01 PM
+390,0,8,409,0020100210,SUB: Stevenson FOR Kirilenko,,3:49,4,4,4,0,1905,Andrei Kirilenko,UTA,Utah,1610612762.0,Jazz,2052,DeShawn Stevenson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,15:01 PM
+391,10,3,410,0020100210,MISS Padgett Free Throw 1 of 1,,3:49,4,4,0,0,1909,Scott Padgett,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:01 PM
+392,0,4,411,0020100210,,,3:47,4,5,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Radmanovic REBOUND (Off:0 Def:1),15:01 PM
+393,1,6,412,0020100210,Starks P.FOUL (P3.T3),,3:35,4,4,0,1,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:02 PM
+394,1,2,413,0020100210,Stevenson BLOCK (1 BLK),,3:29,4,5,0,4,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,2052,DeShawn Stevenson,UTA,Utah,1610612762.0,Jazz,,,MISS Radmanovic 20' Jump Shot,15:02 PM
+395,0,4,414,0020100210,,,3:28,4,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,15:02 PM
+396,1,2,416,0020100210,,,3:22,4,5,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Mason 19' Jump Shot,15:02 PM
+397,0,4,417,0020100210,,,3:21,4,5,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Radmanovic REBOUND (Off:1 Def:1),15:02 PM
+398,2,6,418,0020100210,Amaechi S.FOUL (P1.T4),,3:21,4,4,0,1,680,John Amaechi,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:02 PM
+399,0,8,421,0020100210,SUB: Ostertag FOR Crotty,,3:21,4,4,4,0,180,John Crotty,UTA,Utah,1610612762.0,Jazz,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,15:03 PM
+400,12,3,420,0020100210,,,3:21,4,5,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,80 - 105,25,Radmanovic Free Throw 2 of 2 (6 PTS),15:03 PM
+401,11,3,422,0020100210,,,3:21,4,5,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,80 - 105,25,Radmanovic Free Throw 1 of 2 (6 PTS),15:03 PM
+402,1,2,423,0020100210,MISS Stevenson 24' 3PT Jump Shot,,3:06,4,4,0,0,2052,DeShawn Stevenson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:03 PM
+403,0,4,424,0020100210,Ostertag REBOUND (Off:3 Def:4),,3:04,4,4,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:03 PM
+404,1,1,425,0020100210,Starks 25' 3PT Jump Shot (11 PTS) (Ostertag 2 AST),,3:00,4,4,4,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,80 - 108,28,,15:03 PM
+405,1,2,426,0020100210,,,2:45,4,5,0,0,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Long 22' Jump Shot,15:04 PM
+406,0,4,427,0020100210,Ostertag REBOUND (Off:3 Def:5),,2:43,4,4,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:04 PM
+407,2,6,428,0020100210,,,2:26,4,5,0,1,2071,Olumide Oyedeji,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Oyedeji S.FOUL (P1.T3),15:04 PM
+408,1,9,429,0020100210,JAZZ Timeout: Regular (Full 4 Short 0),,2:26,4,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,15:04 PM
+409,11,3,431,0020100210,Stevenson Free Throw 1 of 2 (1 PTS),,2:26,4,4,0,0,2052,DeShawn Stevenson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,80 - 109,29,,15:06 PM
+410,12,3,433,0020100210,Stevenson Free Throw 2 of 2 (2 PTS),,2:26,4,4,0,0,2052,DeShawn Stevenson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,80 - 110,30,,15:06 PM
+411,1,1,435,0020100210,,,1:56,4,5,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,82 - 110,28,Radmanovic 16' Jump Shot (8 PTS),15:07 PM
+412,1,2,437,0020100210,MISS Starks 18' Jump Shot,,1:48,4,4,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:07 PM
+413,0,4,438,0020100210,Amaechi REBOUND (Off:1 Def:0),,1:45,4,4,0,0,680,John Amaechi,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:07 PM
+414,2,6,439,0020100210,,,1:43,4,5,0,1,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Long S.FOUL (P2.T4),15:07 PM
+415,11,3,441,0020100210,Padgett Free Throw 1 of 2 (3 PTS),,1:43,4,4,0,0,1909,Scott Padgett,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,82 - 111,29,,15:08 PM
+416,12,3,442,0020100210,Padgett Free Throw 2 of 2 (4 PTS),,1:43,4,4,0,0,1909,Scott Padgett,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,82 - 112,30,,15:08 PM
+417,1,1,443,0020100210,,,1:31,4,5,5,0,2071,Olumide Oyedeji,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,84 - 112,28,Oyedeji 7' Jump Shot (2 PTS) (Watson 1 AST),15:08 PM
+418,1,2,445,0020100210,MISS Stevenson 4' Jump Shot,,1:19,4,4,0,5,2052,DeShawn Stevenson,UTA,Utah,1610612762.0,Jazz,0,,,,,,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,,,Mason BLOCK (1 BLK),15:08 PM
+419,0,4,446,0020100210,,,1:16,4,5,0,0,2071,Olumide Oyedeji,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Oyedeji REBOUND (Off:0 Def:2),15:08 PM
+420,1,2,447,0020100210,,,1:09,4,5,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Mason 19' Jump Shot,15:08 PM
+421,0,4,448,0020100210,,,1:06,4,5,0,0,2071,Olumide Oyedeji,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Oyedeji REBOUND (Off:1 Def:2),15:08 PM
+422,1,2,449,0020100210,,,1:02,4,5,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Watson 25' 3PT Jump Shot,15:09 PM
+423,0,4,451,0020100210,,,0:58,4,5,0,0,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Radmanovic REBOUND (Off:2 Def:1),15:09 PM
+424,5,2,450,0020100210,Ostertag BLOCK (6 BLK),,0:58,4,5,0,4,2209,Vladimir Radmanovic,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,,,MISS Radmanovic  Layup,15:09 PM
+425,0,4,453,0020100210,,,0:56,4,5,0,0,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Long REBOUND (Off:1 Def:0),15:09 PM
+426,5,1,452,0020100210,,,0:56,4,5,0,0,1609,Art Long,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,86 - 112,26,Long  Layup (2 PTS),15:09 PM
+427,1,2,455,0020100210,MISS Stevenson 25' 3PT Jump Shot,,0:44,4,4,0,0,2052,DeShawn Stevenson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:09 PM
+428,0,4,456,0020100210,,,0:42,4,5,0,0,2071,Olumide Oyedeji,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Oyedeji REBOUND (Off:1 Def:3),15:09 PM
+429,2,6,457,0020100210,Ostertag S.FOUL (P4.PN),,0:36,4,4,0,1,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:09 PM
+430,11,3,458,0020100210,,,0:36,4,5,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,87 - 112,25,Mason Free Throw 1 of 2 (11 PTS),15:09 PM
+431,12,3,459,0020100210,,,0:36,4,5,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,88 - 112,24,Mason Free Throw 2 of 2 (12 PTS),15:09 PM
+432,1,2,460,0020100210,MISS Starks 24' 3PT Jump Shot,,0:18,4,4,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:10 PM
+433,0,4,461,0020100210,Amaechi REBOUND (Off:2 Def:0),,0:15,4,4,0,0,680,John Amaechi,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,15:10 PM
+434,0,13,462,0020100210,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,88 - 112,24,,15:10 PM

@@ -1,0 +1,428 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020100138,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:43 PM
+1,0,10,1,0020100138,Jump Ball Williams vs. Nowitzki: Tip to Nash,,12:00,1,4,5,5,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,,,,8:43 PM
+2,1,5,2,0020100138,Thomas STEAL (1 STL),,11:48,1,5,4,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Finley Bad Pass Turnover (P1.T1),8:43 PM
+3,1,5,3,0020100138,Williams Bad Pass Turnover (P1.T1),,11:39,1,4,5,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Finley STEAL (1 STL),8:44 PM
+4,5,1,4,0020100138,,,11:34,1,5,5,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,2 - 0,-2,Nash  Layup (2 PTS) (Finley 1 AST),8:44 PM
+5,5,1,5,0020100138,Thomas  Layup (2 PTS) (Williams 1 AST),,11:15,1,4,4,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,2 - 2,TIE,,8:44 PM
+6,47,2,6,0020100138,,,10:59,1,5,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Finley 8' Turnaround Jump Shot,8:44 PM
+7,0,4,7,0020100138,Francis REBOUND (Off:0 Def:1),,10:57,1,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:44 PM
+8,1,5,8,0020100138,Francis Bad Pass Turnover (P1.T2),,10:51,1,4,5,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Nash STEAL (1 STL),8:44 PM
+9,5,1,9,0020100138,,,10:48,1,5,5,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,4 - 2,-2,Finley  Layup (2 PTS) (Nash 1 AST),8:44 PM
+10,1,6,10,0020100138,,,10:30,1,5,0,1,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner P.FOUL (P1.T1),8:45 PM
+11,1,2,11,0020100138,MISS Williams 25' 3PT Jump Shot,,10:18,1,4,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:45 PM
+12,0,4,12,0020100138,,,10:16,1,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner REBOUND (Off:0 Def:1),8:45 PM
+13,1,2,13,0020100138,,,10:09,1,5,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Finley 22' Jump Shot,8:45 PM
+14,0,4,14,0020100138,,,10:07,1,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner REBOUND (Off:1 Def:1),8:45 PM
+15,2,6,15,0020100138,Rice S.FOUL (P1.T1),,10:05,1,4,0,1,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:46 PM
+16,11,3,16,0020100138,,,10:05,1,5,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,5 - 2,-3,Finley Free Throw 1 of 2 (3 PTS),8:46 PM
+17,12,3,17,0020100138,,,10:05,1,5,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Finley Free Throw 2 of 2,8:46 PM
+18,0,4,18,0020100138,Williams REBOUND (Off:0 Def:1),,10:05,1,4,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:46 PM
+19,1,2,19,0020100138,MISS Mobley 14' Jump Shot,,9:47,1,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:46 PM
+20,0,4,21,0020100138,Thomas REBOUND (Off:1 Def:0),,9:45,1,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:46 PM
+21,4,2,20,0020100138,MISS Thomas  Tip Shot,,9:45,1,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:46 PM
+22,0,4,23,0020100138,Thomas REBOUND (Off:2 Def:0),,9:43,1,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:46 PM
+23,4,2,22,0020100138,MISS Thomas  Tip Shot,,9:43,1,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:46 PM
+24,0,4,24,0020100138,,,9:42,1,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:1),8:46 PM
+25,3,1,25,0020100138,,,9:34,1,5,5,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,7 - 2,-5,Howard 9' Hook Shot (2 PTS) (Finley 2 AST),8:47 PM
+26,2,5,26,0020100138,Thomas Lost Ball Turnover (P1.T3),,9:20,1,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:47 PM
+27,1,1,27,0020100138,,,9:11,1,5,5,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,10 - 2,-8,Nash 24' 3PT Jump Shot (5 PTS) (Buckner 1 AST),8:47 PM
+28,1,9,28,0020100138,ROCKETS Timeout: Regular (Full 1 Short 0),,9:02,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:47 PM
+29,42,1,29,0020100138,Francis  Driving Layup (2 PTS),,8:51,1,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,10 - 4,-6,,8:50 PM
+30,2,6,30,0020100138,,,8:51,1,5,0,1,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki S.FOUL (P1.T2),8:50 PM
+31,10,3,31,0020100138,MISS Francis Free Throw 1 of 1,,8:51,1,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:50 PM
+32,0,4,32,0020100138,Thomas REBOUND (Off:3 Def:0),,8:51,1,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:50 PM
+33,1,1,33,0020100138,Francis 24' 3PT Jump Shot (5 PTS),,8:43,1,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,10 - 7,-3,,8:51 PM
+34,1,2,34,0020100138,,,8:24,1,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Buckner 6' Jump Shot,8:51 PM
+35,0,4,36,0020100138,,,8:23,1,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner REBOUND (Off:2 Def:1),8:51 PM
+36,4,1,35,0020100138,,,8:23,1,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,12 - 7,-5,Buckner  Tip Shot (2 PTS),8:51 PM
+37,42,1,37,0020100138,Francis  Driving Layup (7 PTS),,8:07,1,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,12 - 9,-3,,8:51 PM
+38,1,5,38,0020100138,,,7:53,1,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner Bad Pass Turnover (P1.T2),8:51 PM
+39,49,1,39,0020100138,Thomas  Driving Dunk (4 PTS),,7:35,1,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,12 - 11,-1,,8:52 PM
+40,1,2,40,0020100138,,,7:15,1,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki 14' Jump Shot,8:52 PM
+41,0,4,41,0020100138,Mobley REBOUND (Off:0 Def:1),,7:14,1,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:52 PM
+42,1,1,42,0020100138,Williams 24' 3PT Jump Shot (3 PTS) (Mobley 1 AST),,7:08,1,4,4,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,12 - 14,2,,8:52 PM
+43,56,1,43,0020100138,,,6:49,1,5,5,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,14 - 14,TIE,Buckner 4' Running Hook Shot (4 PTS) (Howard 1 AST),8:53 PM
+44,1,6,44,0020100138,,,6:30,1,5,0,1,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner P.FOUL (P2.T3),8:53 PM
+45,2,6,45,0020100138,,,6:23,1,5,0,1,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki S.FOUL (P2.T4),8:53 PM
+46,11,3,46,0020100138,Francis Free Throw 1 of 2 (8 PTS),,6:23,1,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,14 - 15,1,,8:54 PM
+47,12,3,47,0020100138,Francis Free Throw 2 of 2 (9 PTS),,6:23,1,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,14 - 16,2,,8:54 PM
+48,1,6,48,0020100138,Thomas P.FOUL (P1.T2),,6:05,1,4,0,1,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:55 PM
+49,63,2,49,0020100138,,,5:56,1,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nash 17' Fadeaway Jumper,8:55 PM
+50,0,4,50,0020100138,ROCKETS Rebound,,5:55,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:55 PM
+51,17,6,51,0020100138,,,5:45,1,5,0,1,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Mavericks T.Foul (Def. 3 Sec Nowitzki ),8:55 PM
+52,16,3,52,0020100138,Rice Free Throw Technical (1 PTS),,5:45,1,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,14 - 17,3,,8:56 PM
+53,1,1,53,0020100138,Francis 19' Jump Shot (11 PTS),,5:39,1,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,14 - 19,5,,8:56 PM
+54,63,2,54,0020100138,,,5:27,1,5,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Finley 11' Fadeaway Jumper,8:56 PM
+55,0,4,55,0020100138,Rice REBOUND (Off:0 Def:1),,5:25,1,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:56 PM
+56,7,1,56,0020100138,Thomas  Dunk (6 PTS) (Mobley 2 AST),,5:17,1,4,4,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,14 - 21,7,,8:56 PM
+57,1,2,57,0020100138,,,4:55,1,5,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Finley 25' 3PT Jump Shot,8:57 PM
+58,0,4,58,0020100138,Thomas REBOUND (Off:3 Def:1),,4:53,1,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:57 PM
+59,44,1,59,0020100138,Francis  Reverse Layup (13 PTS) (Thomas 1 AST),,4:47,1,4,4,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,14 - 23,9,,8:57 PM
+60,1,9,60,0020100138,,,4:45,1,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Timeout: Regular (Reg.1 Short 0),8:57 PM
+61,5,1,62,0020100138,,,4:29,1,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,16 - 23,7,Nowitzki  Layup (2 PTS),8:59 PM
+62,1,1,63,0020100138,Williams 25' 3PT Jump Shot (6 PTS) (Francis 1 AST),,4:10,1,4,4,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,16 - 26,10,,9:00 PM
+63,1,1,64,0020100138,,,3:54,1,5,5,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,19 - 26,7,Nowitzki 25' 3PT Jump Shot (5 PTS) (Finley 3 AST),9:00 PM
+64,1,2,65,0020100138,MISS Rice  3PT Jump Shot,,3:38,1,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:00 PM
+65,0,4,66,0020100138,Thomas REBOUND (Off:4 Def:1),,3:36,1,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:00 PM
+66,1,5,67,0020100138,Thomas Bad Pass Turnover (P2.T4),,3:33,1,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:00 PM
+67,1,2,68,0020100138,,,3:20,1,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nash 25' 3PT Jump Shot,9:01 PM
+68,0,4,69,0020100138,Francis REBOUND (Off:0 Def:2),,3:18,1,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:01 PM
+69,1,2,70,0020100138,MISS Williams 25' 3PT Jump Shot,,3:08,1,4,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:01 PM
+70,0,4,71,0020100138,Francis REBOUND (Off:1 Def:2),,3:06,1,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:01 PM
+71,5,1,72,0020100138,Mobley  Layup (2 PTS) (Williams 2 AST),,3:03,1,4,4,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,19 - 28,9,,9:01 PM
+72,1,7,73,0020100138,ROCKETS Violation: Delay of game Violation,,3:01,1,2,0,1,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:01 PM
+73,1,1,74,0020100138,,,2:43,1,5,5,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,21 - 28,7,Howard 7' Jump Shot (4 PTS) (Finley 4 AST),9:01 PM
+74,1,6,75,0020100138,,,2:29,1,5,0,1,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner P.FOUL (P3.PN),9:02 PM
+75,11,3,76,0020100138,Francis Free Throw 1 of 2 (14 PTS),,2:29,1,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,21 - 29,8,,9:02 PM
+76,12,3,77,0020100138,Francis Free Throw 2 of 2 (15 PTS),,2:29,1,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,21 - 30,9,,9:02 PM
+77,2,6,78,0020100138,Mobley S.FOUL (P1.T3),,2:17,1,4,0,1,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:03 PM
+78,11,3,79,0020100138,,,2:17,1,5,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,22 - 30,8,Finley Free Throw 1 of 2 (4 PTS),9:03 PM
+79,0,8,80,0020100138,,,2:17,1,5,5,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Griffin FOR Buckner,9:03 PM
+80,12,3,81,0020100138,,,2:17,1,5,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,23 - 30,7,Finley Free Throw 2 of 2 (5 PTS),9:03 PM
+81,11,6,82,0020100138,Mobley T.FOUL (P1.T3),,2:02,1,4,0,1,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:04 PM
+82,16,3,83,0020100138,,,2:02,1,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nash Free Throw Technical,9:04 PM
+83,1,4,84,0020100138,ROCKETS Rebound,,2:02,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:04 PM
+84,1,2,85,0020100138,MISS Rice 7' Jump Shot,,2:00,1,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:05 PM
+85,0,4,86,0020100138,,,1:58,1,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:1),9:05 PM
+86,5,2,87,0020100138,,,1:51,1,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Howard  Layup,9:05 PM
+87,0,4,88,0020100138,Mobley REBOUND (Off:0 Def:2),,1:49,1,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:05 PM
+88,42,1,89,0020100138,Francis  Driving Layup (17 PTS),,1:43,1,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,23 - 32,9,,9:05 PM
+89,1,2,90,0020100138,,,1:34,1,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki 21' Jump Shot,9:05 PM
+90,0,4,91,0020100138,Rice REBOUND (Off:0 Def:2),,1:32,1,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:05 PM
+91,1,6,92,0020100138,,,1:24,1,5,0,1,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nash P.FOUL (P1.PN),9:05 PM
+92,11,3,93,0020100138,MISS Thomas Free Throw 1 of 2,,1:24,1,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:06 PM
+93,1,4,94,0020100138,ROCKETS Rebound,,1:24,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:06 PM
+94,12,3,95,0020100138,Thomas Free Throw 2 of 2 (7 PTS),,1:24,1,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,23 - 33,10,,9:06 PM
+95,2,6,96,0020100138,Williams S.FOUL (P1.T4),,1:15,1,4,0,1,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:06 PM
+96,11,3,97,0020100138,,,1:15,1,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,24 - 33,9,Nowitzki Free Throw 1 of 2 (6 PTS),9:07 PM
+97,12,3,98,0020100138,,,1:15,1,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,25 - 33,8,Nowitzki Free Throw 2 of 2 (7 PTS),9:07 PM
+98,1,2,99,0020100138,MISS Francis 27' 3PT Jump Shot,,0:56,1,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:07 PM
+99,0,4,100,0020100138,,,0:55,1,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:2),9:07 PM
+100,1,6,101,0020100138,Thomas P.FOUL (P2.PN),,0:43,1,4,0,1,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:08 PM
+101,11,3,102,0020100138,,,0:43,1,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Howard Free Throw 1 of 2,9:08 PM
+102,1,4,103,0020100138,,,0:43,1,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Rebound,9:08 PM
+103,0,8,104,0020100138,SUB: Willis FOR Thomas,,0:43,1,4,4,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:08 PM
+104,12,3,105,0020100138,,,0:43,1,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,26 - 33,7,Howard Free Throw 2 of 2 (5 PTS),9:08 PM
+105,1,6,106,0020100138,,,0:32,1,5,0,1,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki P.FOUL (P3.PN),9:09 PM
+106,0,8,107,0020100138,,,0:32,1,5,5,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Buckner FOR Nowitzki,9:09 PM
+107,11,3,108,0020100138,MISS Williams Free Throw 1 of 2,,0:32,1,4,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:09 PM
+108,1,4,109,0020100138,ROCKETS Rebound,,0:32,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:09 PM
+109,0,8,110,0020100138,,,0:32,1,5,5,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,896,Tim Hardaway,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Hardaway FOR Griffin,9:09 PM
+110,12,3,111,0020100138,Williams Free Throw 2 of 2 (7 PTS),,0:32,1,4,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,26 - 34,8,,9:10 PM
+111,44,2,112,0020100138,,,0:27,1,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nash  Reverse Layup,9:10 PM
+112,0,4,113,0020100138,Willis REBOUND (Off:0 Def:1),,0:25,1,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:10 PM
+113,5,1,114,0020100138,Williams  Layup (9 PTS),,0:03,1,4,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,26 - 36,10,,9:10 PM
+114,46,2,115,0020100138,,,0:00,1,5,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Finley 43' 3PT Running Jump Shot,9:10 PM
+115,0,4,116,0020100138,,,0:00,1,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Rebound,9:10 PM
+116,0,13,117,0020100138,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,26 - 36,10,,9:10 PM
+117,0,12,119,0020100138,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,26 - 36,10,,9:13 PM
+118,1,2,120,0020100138,MISS Williams 21' Jump Shot,,11:41,2,4,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:14 PM
+119,0,4,121,0020100138,,,11:39,2,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nash REBOUND (Off:0 Def:1),9:14 PM
+120,1,1,122,0020100138,,,11:28,2,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,28 - 36,8,Nash 21' Jump Shot (7 PTS),9:14 PM
+121,44,2,123,0020100138,MISS Willis  Reverse Layup,,11:08,2,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:14 PM
+122,0,4,124,0020100138,,,11:06,2,5,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Bradley REBOUND (Off:0 Def:1),9:14 PM
+123,42,1,125,0020100138,,,10:53,2,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,30 - 36,6,Nash  Driving Layup (9 PTS),9:15 PM
+124,46,1,126,0020100138,Norris 7' Running Jump Shot (2 PTS),,10:38,2,4,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,30 - 38,8,,9:15 PM
+125,5,2,127,0020100138,,,10:26,2,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Buckner  Layup,9:15 PM
+126,0,4,128,0020100138,Mobley REBOUND (Off:0 Def:3),,10:24,2,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:15 PM
+127,42,1,129,0020100138,Williams  Driving Layup (11 PTS),,10:16,2,4,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,30 - 40,10,,9:15 PM
+128,1,2,130,0020100138,,,9:59,2,5,0,0,896,Tim Hardaway,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Hardaway 14' Jump Shot,9:16 PM
+129,0,4,131,0020100138,Mobley REBOUND (Off:0 Def:4),,9:57,2,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:16 PM
+130,1,1,132,0020100138,Norris 19' Jump Shot (4 PTS) (Mobley 3 AST),,9:47,2,4,4,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,30 - 42,12,,9:16 PM
+131,41,1,133,0020100138,,,9:24,2,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,32 - 42,10,Nash  Running Layup (11 PTS),9:16 PM
+132,2,6,134,0020100138,,,9:05,2,5,0,1,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Finley S.FOUL (P1.T1),9:16 PM
+133,0,8,135,0020100138,SUB: Torres FOR Francis,,9:05,2,4,4,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:17 PM
+134,0,8,136,0020100138,,,9:05,2,5,5,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Nowitzki FOR Nash,9:17 PM
+135,0,8,137,0020100138,,,9:05,2,5,5,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Griffin FOR Buckner,9:17 PM
+136,11,3,138,0020100138,MISS Willis Free Throw 1 of 2,,9:05,2,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:17 PM
+137,1,4,139,0020100138,ROCKETS Rebound,,9:05,2,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:17 PM
+138,12,3,140,0020100138,Willis Free Throw 2 of 2 (1 PTS),,9:05,2,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,32 - 43,11,,9:17 PM
+139,3,1,141,0020100138,,,8:55,2,5,5,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,896,Tim Hardaway,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,34 - 43,9,Bradley 9' Hook Shot (2 PTS) (Hardaway 1 AST),9:18 PM
+140,1,1,142,0020100138,Mobley 14' Jump Shot (4 PTS) (Norris 1 AST),,8:35,2,4,4,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,34 - 45,11,,9:18 PM
+141,1,5,143,0020100138,Williams STEAL (1 STL),,8:16,2,5,4,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Finley Bad Pass Turnover (P2.T3),9:18 PM
+142,42,2,144,0020100138,MISS Williams  Driving Layup,,8:12,2,4,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:18 PM
+143,0,4,145,0020100138,,,8:10,2,5,0,0,896,Tim Hardaway,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Hardaway REBOUND (Off:0 Def:1),9:19 PM
+144,5,2,146,0020100138,,,8:05,2,5,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Bradley  Layup,9:19 PM
+145,0,4,147,0020100138,Willis REBOUND (Off:0 Def:2),,8:03,2,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:19 PM
+146,1,2,148,0020100138,MISS Norris  3PT Jump Shot,,7:56,2,4,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:19 PM
+147,0,4,149,0020100138,,,7:54,2,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Rebound,9:19 PM
+148,3,6,150,0020100138,Williams L.B.FOUL (P2.T1),,7:54,2,4,0,1,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:19 PM
+149,4,9,151,0020100138,,,7:54,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:19 PM
+150,0,8,153,0020100138,SUB: Rice FOR Williams,,7:54,2,4,4,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:21 PM
+151,3,1,154,0020100138,,,7:42,2,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,36 - 45,9,Nowitzki 8' Hook Shot (9 PTS),9:21 PM
+152,1,1,155,0020100138,Torres 15' Jump Shot (2 PTS),,7:22,2,4,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,36 - 47,11,,9:22 PM
+153,1,2,156,0020100138,,,7:04,2,5,0,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Griffin 17' Jump Shot,9:22 PM
+154,0,4,157,0020100138,Rice REBOUND (Off:0 Def:3),,7:03,2,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:22 PM
+155,1,5,158,0020100138,Willis Bad Pass Turnover (P1.T5),,6:49,2,4,5,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Bradley STEAL (1 STL),9:22 PM
+156,17,6,159,0020100138,ROCKETS T.Foul (Def. 3 Sec Willis ),,6:37,2,4,0,1,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:23 PM
+157,16,3,160,0020100138,,,6:37,2,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,37 - 47,10,Nowitzki Free Throw Technical (10 PTS),9:23 PM
+158,0,8,161,0020100138,SUB: Francis FOR Mobley,,6:37,2,4,4,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:23 PM
+159,1,2,162,0020100138,,,6:30,2,5,0,0,896,Tim Hardaway,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Hardaway 22' Jump Shot,9:23 PM
+160,0,4,163,0020100138,Willis REBOUND (Off:0 Def:3),,6:28,2,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:23 PM
+161,2,6,164,0020100138,,,6:17,2,5,0,1,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Griffin S.FOUL (P1.T2),9:24 PM
+162,0,8,165,0020100138,,,6:17,2,5,5,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Howard FOR Finley,9:24 PM
+163,0,8,166,0020100138,,,6:17,2,5,5,0,896,Tim Hardaway,DAL,Dallas,1610612742.0,Mavericks,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Nash FOR Hardaway,9:24 PM
+164,11,3,167,0020100138,Francis Free Throw 1 of 2 (18 PTS),,6:17,2,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,37 - 48,11,,9:24 PM
+165,12,3,168,0020100138,MISS Francis Free Throw 2 of 2,,6:17,2,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:24 PM
+166,0,4,169,0020100138,,,6:17,2,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:3),9:24 PM
+167,1,6,170,0020100138,Rice P.FOUL (P2.T2),,6:11,2,4,0,1,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:25 PM
+168,2,6,171,0020100138,Torres S.FOUL (P1.T3),,6:04,2,4,0,1,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:25 PM
+169,11,3,172,0020100138,,,6:04,2,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,38 - 48,10,Nowitzki Free Throw 1 of 2 (11 PTS),9:25 PM
+170,0,8,173,0020100138,SUB: Thomas FOR Torres,,6:04,2,4,4,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:25 PM
+171,12,3,174,0020100138,,,6:04,2,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki Free Throw 2 of 2,9:26 PM
+172,0,4,175,0020100138,Willis REBOUND (Off:0 Def:4),,6:04,2,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:26 PM
+173,1,2,176,0020100138,MISS Francis 12' Jump Shot,,5:45,2,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:26 PM
+174,0,4,177,0020100138,Willis REBOUND (Off:1 Def:4),,5:44,2,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:26 PM
+175,2,7,179,0020100138,,,5:43,2,5,0,1,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Bradley Violation:Defensive Goaltending,9:26 PM
+176,5,1,178,0020100138,Willis  Layup (3 PTS),,5:43,2,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,38 - 50,12,,9:26 PM
+177,1,1,180,0020100138,,,5:27,2,5,0,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,40 - 50,10,Griffin 15' Jump Shot (2 PTS),9:27 PM
+178,1,2,181,0020100138,MISS Willis 15' Jump Shot,,5:02,2,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:27 PM
+179,0,4,182,0020100138,,,5:00,2,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nash REBOUND (Off:0 Def:2),9:27 PM
+180,1,1,183,0020100138,,,4:55,2,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,43 - 50,7,Nash 25' 3PT Jump Shot (14 PTS),9:27 PM
+181,1,9,184,0020100138,ROCKETS Timeout: Regular (Full 2 Short 0),,4:53,2,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:27 PM
+182,1,5,186,0020100138,Thomas Bad Pass Turnover (P3.T6),,4:37,2,4,5,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Griffin STEAL (1 STL),9:30 PM
+183,4,6,187,0020100138,,,4:33,2,5,0,1,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Howard OFF.Foul (P1),9:30 PM
+184,5,5,188,0020100138,,,4:33,2,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Howard Foul Turnover (P1.T4),9:30 PM
+185,5,1,189,0020100138,Norris  Layup (6 PTS),,4:17,2,4,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,43 - 52,9,,9:30 PM
+186,1,2,190,0020100138,,,4:05,2,5,0,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Griffin 21' Jump Shot,9:30 PM
+187,0,4,191,0020100138,Willis REBOUND (Off:1 Def:5),,4:03,2,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:30 PM
+188,5,1,192,0020100138,Willis  Layup (5 PTS) (Rice 1 AST),,3:40,2,4,4,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,43 - 54,11,,9:31 PM
+189,1,5,193,0020100138,Thomas STEAL (2 STL),,3:28,2,5,4,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Griffin Bad Pass Turnover (P1.T5),9:31 PM
+190,1,2,194,0020100138,MISS Rice 25' 3PT Jump Shot,,3:09,2,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:31 PM
+191,0,4,195,0020100138,,,3:08,2,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:2),9:31 PM
+192,5,1,196,0020100138,,,2:54,2,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,45 - 54,9,Howard  Layup (7 PTS),9:32 PM
+193,2,5,197,0020100138,Norris Lost Ball Turnover (P1.T7),,2:28,2,4,5,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Bradley STEAL (2 STL),9:32 PM
+194,42,1,198,0020100138,,,2:22,2,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,47 - 54,7,Nash  Driving Layup (16 PTS),9:32 PM
+195,1,1,199,0020100138,Francis 13' Jump Shot (20 PTS),,1:56,2,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,47 - 56,9,,9:33 PM
+196,1,5,200,0020100138,Willis STEAL (1 STL),,1:41,2,5,4,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Nowitzki Bad Pass Turnover (P1.T6),9:33 PM
+197,42,2,201,0020100138,MISS Francis  Driving Layup,,1:22,2,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:33 PM
+198,0,4,203,0020100138,Willis REBOUND (Off:2 Def:5),,1:21,2,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:33 PM
+199,4,2,202,0020100138,MISS Willis  Tip Shot,,1:21,2,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:33 PM
+200,0,4,204,0020100138,,,1:19,2,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:3),9:33 PM
+201,1,1,205,0020100138,,,1:13,2,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,50 - 56,6,Nash 24' 3PT Jump Shot (19 PTS),9:33 PM
+202,47,2,206,0020100138,MISS Thomas 9' Turnaround Jump Shot,,0:54,2,4,0,5,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,,,Bradley BLOCK (1 BLK),9:34 PM
+203,0,4,207,0020100138,,,0:53,2,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:4),9:34 PM
+204,1,6,208,0020100138,Francis P.FOUL (P1.T4),,0:52,2,4,0,1,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:34 PM
+205,1,9,209,0020100138,,,0:52,2,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Timeout: Regular (Reg.2 Short 0),9:34 PM
+206,0,8,211,0020100138,SUB: Griffin FOR Thomas,,0:52,2,4,4,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:36 PM
+207,0,8,212,0020100138,SUB: Mobley FOR Norris,,0:52,2,4,4,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:36 PM
+208,0,8,213,0020100138,,,0:52,2,5,5,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Finley FOR Nowitzki,9:36 PM
+209,3,2,214,0020100138,,,0:35,2,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Howard 5' Hook Shot,9:36 PM
+210,0,4,215,0020100138,Griffin REBOUND (Off:0 Def:1),,0:33,2,4,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:36 PM
+211,1,2,216,0020100138,MISS Rice 25' 3PT Jump Shot,,0:13,2,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:37 PM
+212,0,4,217,0020100138,,,0:11,2,5,0,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:0 Def:1),9:37 PM
+213,7,1,218,0020100138,,,0:06,2,5,5,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,52 - 56,4,Bradley  Dunk (4 PTS) (Nash 2 AST),9:37 PM
+214,1,7,219,0020100138,,,0:06,2,3,0,1,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Violation: Delay of game Violation,9:37 PM
+215,1,6,220,0020100138,,,0:02,2,5,0,1,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Griffin P.FOUL (P2.T3),9:37 PM
+216,2,9,221,0020100138,ROCKETS Timeout: Short (Full 2 Short 1),,0:02,2,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:37 PM
+217,1,2,222,0020100138,MISS Francis 31' 3PT Jump Shot,,0:00,2,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:38 PM
+218,0,4,223,0020100138,ROCKETS Rebound,,0:00,2,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:38 PM
+219,0,13,224,0020100138,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,52 - 56,4,,9:39 PM
+220,0,12,226,0020100138,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,52 - 56,4,,9:57 PM
+221,42,2,227,0020100138,MISS Thomas  Driving Layup,,11:40,3,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:58 PM
+222,0,4,228,0020100138,,,11:38,3,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:4),9:58 PM
+223,5,1,229,0020100138,,,11:19,3,5,5,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,54 - 56,2,Buckner  Layup (6 PTS) (Nowitzki 1 AST),9:58 PM
+224,42,1,230,0020100138,Francis  Driving Layup (22 PTS),,11:01,3,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,54 - 58,4,,9:58 PM
+225,1,2,231,0020100138,,,10:41,3,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nash 26' 3PT Jump Shot,9:59 PM
+226,0,4,232,0020100138,Mobley REBOUND (Off:0 Def:5),,10:39,3,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:59 PM
+227,1,2,233,0020100138,MISS Williams 24' 3PT Jump Shot,,10:29,3,4,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:59 PM
+228,0,4,234,0020100138,Francis REBOUND (Off:2 Def:2),,10:27,3,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:59 PM
+229,5,1,235,0020100138,Francis  Layup (24 PTS),,10:26,3,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,54 - 60,6,,9:59 PM
+230,47,1,236,0020100138,,,10:03,3,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,56 - 60,4,Howard 9' Turnaround Jump Shot (9 PTS),9:59 PM
+231,1,1,237,0020100138,Mobley 13' Jump Shot (6 PTS),,9:36,3,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,56 - 62,6,,10:00 PM
+232,1,6,238,0020100138,Thomas P.FOUL (P3.T1),,9:23,3,4,0,1,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:00 PM
+233,4,6,239,0020100138,,,9:20,3,5,0,1,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Howard OFF.Foul (P2),10:00 PM
+234,5,5,240,0020100138,,,9:20,3,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Howard Foul Turnover (P2.T7),10:00 PM
+235,52,1,241,0020100138,Mobley  Alley Oop Dunk (8 PTS) (Francis 2 AST),,9:06,3,4,4,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,56 - 64,8,,10:01 PM
+236,1,1,242,0020100138,,,8:49,3,5,5,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,58 - 64,6,Finley 20' Jump Shot (7 PTS) (Nowitzki 2 AST),10:01 PM
+237,1,1,243,0020100138,Mobley 19' Jump Shot (10 PTS),,8:32,3,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,58 - 66,8,,10:01 PM
+238,2,5,244,0020100138,Williams STEAL (2 STL),,8:26,3,5,4,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Nash Lost Ball Turnover (P1.T8),10:01 PM
+239,1,1,245,0020100138,Mobley  3PT Jump Shot (13 PTS) (Francis 3 AST),,8:09,3,4,4,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,58 - 69,11,,10:02 PM
+240,1,9,246,0020100138,,,8:07,3,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Timeout: Regular (Reg.3 Short 0),10:02 PM
+241,0,8,248,0020100138,,,8:07,3,5,5,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Bradley FOR Buckner,10:04 PM
+242,47,2,249,0020100138,,,7:44,3,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Howard 12' Turnaround Jump Shot,10:05 PM
+243,0,4,250,0020100138,Francis REBOUND (Off:2 Def:3),,7:42,3,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:05 PM
+244,63,1,251,0020100138,Francis 10' Fadeaway Jumper (26 PTS),,7:28,3,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,58 - 71,13,,10:05 PM
+245,1,1,252,0020100138,,,7:10,3,5,5,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,60 - 71,11,Finley 22' Jump Shot (9 PTS) (Nash 3 AST),10:05 PM
+246,42,1,253,0020100138,Francis  Driving Layup (28 PTS),,6:48,3,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,60 - 73,13,,10:06 PM
+247,5,1,254,0020100138,,,6:30,3,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,62 - 73,11,Howard  Layup (11 PTS),10:06 PM
+248,1,6,255,0020100138,,,6:10,3,5,0,1,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Bradley P.FOUL (P1.T1),10:06 PM
+249,42,1,256,0020100138,Rice  Driving Layup (3 PTS),,6:01,3,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,62 - 75,13,,10:07 PM
+250,2,6,257,0020100138,,,6:01,3,5,0,1,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nash S.FOUL (P2.T2),10:07 PM
+251,10,3,258,0020100138,Rice Free Throw 1 of 1 (4 PTS),,6:01,3,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,62 - 76,14,,10:07 PM
+252,42,1,259,0020100138,,,5:47,3,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,64 - 76,12,Nash  Driving Layup (21 PTS),10:08 PM
+253,5,1,260,0020100138,Thomas  Layup (9 PTS),,5:30,3,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,64 - 78,14,,10:08 PM
+254,1,1,261,0020100138,,,5:18,3,5,5,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,66 - 78,12,Howard 11' Jump Shot (13 PTS) (Nash 4 AST),10:08 PM
+255,5,2,262,0020100138,MISS Thomas  Layup,,5:03,3,4,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:08 PM
+256,0,4,263,0020100138,,,5:03,3,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Rebound,10:08 PM
+257,3,6,264,0020100138,Thomas L.B.FOUL (P4.T2),,5:03,3,4,0,1,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:09 PM
+258,0,8,265,0020100138,,,5:03,3,5,5,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Griffin FOR Nowitzki,10:09 PM
+259,0,8,266,0020100138,SUB: Willis FOR Thomas,,5:03,3,4,4,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:09 PM
+260,1,2,267,0020100138,,,4:53,3,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nash 25' 3PT Jump Shot,10:09 PM
+261,0,4,268,0020100138,,,4:51,3,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Howard REBOUND (Off:1 Def:4),10:09 PM
+262,1,2,269,0020100138,,,4:33,3,5,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Finley 21' Jump Shot,10:10 PM
+263,0,4,270,0020100138,Rice REBOUND (Off:0 Def:4),,4:31,3,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:10 PM
+264,7,1,271,0020100138,Williams  Dunk (13 PTS) (Rice 2 AST),,4:27,3,4,4,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,66 - 80,14,,10:10 PM
+265,1,2,272,0020100138,,,4:07,3,5,0,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Griffin 20' Jump Shot,10:10 PM
+266,0,4,273,0020100138,Mobley REBOUND (Off:0 Def:6),,4:06,3,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:10 PM
+267,1,1,274,0020100138,Williams 16' Jump Shot (15 PTS) (Rice 3 AST),,3:52,3,4,4,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,66 - 82,16,,10:10 PM
+268,3,2,275,0020100138,,,3:26,3,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Howard 10' Hook Shot,10:11 PM
+269,0,4,276,0020100138,Rice REBOUND (Off:0 Def:5),,3:24,3,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:11 PM
+270,1,1,277,0020100138,Mobley 26' 3PT Jump Shot (16 PTS),,3:18,3,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,66 - 85,19,,10:11 PM
+271,1,9,278,0020100138,,,3:15,3,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Timeout: Regular (Reg.4 Short 0),10:11 PM
+272,1,2,280,0020100138,,,3:03,3,5,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nash 17' Jump Shot,10:14 PM
+273,0,4,281,0020100138,Rice REBOUND (Off:0 Def:6),,3:01,3,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:14 PM
+274,1,1,282,0020100138,Williams  3PT Jump Shot (18 PTS) (Mobley 4 AST),,2:55,3,4,4,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,66 - 88,22,,10:14 PM
+275,1,2,283,0020100138,,,2:41,3,5,0,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Howard 17' Jump Shot,10:14 PM
+276,0,4,284,0020100138,,,2:39,3,5,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Finley REBOUND (Off:1 Def:0),10:14 PM
+277,1,5,285,0020100138,Rice STEAL (1 STL),,2:33,3,5,4,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Nash Bad Pass Turnover (P2.T9),10:14 PM
+278,2,6,286,0020100138,,,2:29,3,5,0,1,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nash S.FOUL (P3.T3),10:14 PM
+279,0,8,287,0020100138,,,2:29,3,5,5,0,436,Juwan Howard,DAL,Dallas,1610612742.0,Mavericks,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Nowitzki FOR Howard,10:15 PM
+280,11,3,288,0020100138,Mobley Free Throw 1 of 2 (17 PTS),,2:29,3,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,66 - 89,23,,10:15 PM
+281,0,8,289,0020100138,,,2:29,3,5,5,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,896,Tim Hardaway,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Hardaway FOR Nash,10:15 PM
+282,12,3,290,0020100138,Mobley Free Throw 2 of 2 (18 PTS),,2:29,3,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,66 - 90,24,,10:15 PM
+283,1,1,291,0020100138,,,2:12,3,5,5,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,68 - 90,22,Finley 21' Jump Shot (11 PTS) (Griffin 1 AST),10:16 PM
+284,2,6,292,0020100138,,,1:56,3,5,0,1,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Bradley S.FOUL (P2.T4),10:16 PM
+285,11,3,293,0020100138,Rice Free Throw 1 of 2 (5 PTS),,1:56,3,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,68 - 91,23,,10:16 PM
+286,0,8,294,0020100138,,,1:56,3,5,5,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Buckner FOR Griffin,10:16 PM
+287,12,3,295,0020100138,Rice Free Throw 2 of 2 (6 PTS),,1:56,3,4,0,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,68 - 92,24,,10:17 PM
+288,1,6,296,0020100138,Francis P.FOUL (P2.T3),,1:42,3,4,0,1,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:17 PM
+289,1,2,297,0020100138,Willis BLOCK (1 BLK),,1:32,3,5,0,4,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,,,MISS Nowitzki 7' Jump Shot,10:18 PM
+290,0,4,298,0020100138,Francis REBOUND (Off:2 Def:4),,1:30,3,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:18 PM
+291,1,9,299,0020100138,ROCKETS Timeout: Regular (Full 3 Short 1),,1:25,3,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,10:18 PM
+292,5,7,301,0020100138,,,1:25,3,5,0,1,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Finley Violation:Kicked Ball,10:19 PM
+293,0,8,303,0020100138,,,1:25,3,5,5,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,330,Danny Manning,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Manning FOR Bradley,10:20 PM
+294,1,2,304,0020100138,MISS Williams 25' 3PT Jump Shot,,1:15,3,4,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:21 PM
+295,0,4,305,0020100138,,,1:13,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:5),10:21 PM
+296,1,5,306,0020100138,Mobley STEAL (1 STL),,1:11,3,5,4,0,896,Tim Hardaway,DAL,Dallas,1610612742.0,Mavericks,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Hardaway Bad Pass Turnover (P1.T10),10:21 PM
+297,2,6,307,0020100138,,,0:58,3,5,0,1,330,Danny Manning,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Manning S.FOUL (P1.PN),10:21 PM
+298,11,3,308,0020100138,Mobley Free Throw 1 of 2 (19 PTS),,0:58,3,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,68 - 93,25,,10:21 PM
+299,0,8,310,0020100138,,,0:58,3,5,5,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,239,Darrick Martin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Martin FOR Finley,10:21 PM
+300,12,3,311,0020100138,Mobley Free Throw 2 of 2 (20 PTS),,0:58,3,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,68 - 94,26,,10:21 PM
+301,1,2,312,0020100138,,,0:49,3,5,0,0,330,Danny Manning,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Manning 12' Jump Shot,10:22 PM
+302,0,4,313,0020100138,Mobley REBOUND (Off:0 Def:7),,0:46,3,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:22 PM
+303,1,2,314,0020100138,MISS Francis 21' Jump Shot,,0:31,3,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:22 PM
+304,0,4,315,0020100138,,,0:29,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:6),10:22 PM
+305,46,1,316,0020100138,,,0:20,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,70 - 94,24,Nowitzki 6' Running Jump Shot (13 PTS),10:23 PM
+306,1,1,317,0020100138,Williams 25' 3PT Jump Shot (21 PTS) (Mobley 5 AST),,0:01,3,4,4,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,70 - 97,27,,10:23 PM
+307,46,2,318,0020100138,,,0:00,3,5,0,0,239,Darrick Martin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Martin 28' 3PT Running Jump Shot,10:23 PM
+308,0,4,319,0020100138,,,0:00,3,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Rebound,10:23 PM
+309,0,13,320,0020100138,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,70 - 97,27,,10:23 PM
+310,0,12,322,0020100138,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,70 - 97,27,,10:25 PM
+311,1,2,323,0020100138,,,11:42,4,5,0,0,239,Darrick Martin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Martin 24' 3PT Jump Shot,10:26 PM
+312,0,4,324,0020100138,,,11:40,4,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner REBOUND (Off:3 Def:1),10:26 PM
+313,1,1,325,0020100138,,,11:34,4,5,5,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,72 - 97,25,Griffin 19' Jump Shot (4 PTS) (Buckner 2 AST),10:26 PM
+314,1,6,326,0020100138,,,11:16,4,5,0,1,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner P.FOUL (P4.T1),10:26 PM
+315,1,1,327,0020100138,Francis 16' Jump Shot (30 PTS),,11:05,4,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,72 - 99,27,,10:27 PM
+316,2,6,328,0020100138,,,11:05,4,5,0,1,896,Tim Hardaway,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Hardaway S.FOUL (P1.T2),10:27 PM
+317,10,3,329,0020100138,Francis Free Throw 1 of 1 (31 PTS),,11:05,4,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,72 - 100,28,,10:27 PM
+318,1,2,330,0020100138,,,10:54,4,5,0,0,896,Tim Hardaway,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Hardaway 13' Jump Shot,10:27 PM
+319,0,4,331,0020100138,Williams REBOUND (Off:0 Def:2),,10:52,4,4,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:27 PM
+320,1,5,332,0020100138,Francis Bad Pass Turnover (P2.T8),,10:33,4,4,5,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,239,Darrick Martin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Martin STEAL (1 STL),10:28 PM
+321,46,2,333,0020100138,Mobley BLOCK (1 BLK),,10:27,4,5,0,4,239,Darrick Martin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,,,MISS Martin 7' Running Jump Shot,10:28 PM
+322,0,4,334,0020100138,,,10:26,4,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Rebound,10:28 PM
+323,2,6,335,0020100138,Francis S.FOUL (P3.T1),,10:21,4,4,0,1,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:28 PM
+324,11,3,336,0020100138,,,10:21,4,5,0,0,239,Darrick Martin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,73 - 100,27,Martin Free Throw 1 of 2 (1 PTS),10:29 PM
+325,12,3,337,0020100138,,,10:21,4,5,0,0,239,Darrick Martin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Martin Free Throw 2 of 2,10:29 PM
+326,0,4,338,0020100138,Willis REBOUND (Off:2 Def:6),,10:21,4,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:29 PM
+327,5,2,339,0020100138,MISS Mobley  Layup,,9:59,4,4,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:29 PM
+328,0,4,340,0020100138,Francis REBOUND (Off:3 Def:4),,9:57,4,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:29 PM
+329,1,9,341,0020100138,ROCKETS Timeout: Regular (Full 4 Short 1),,9:56,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,10:30 PM
+330,1,1,343,0020100138,Willis 13' Jump Shot (7 PTS),,9:45,4,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,73 - 102,29,,10:32 PM
+331,47,2,344,0020100138,,,9:24,4,5,0,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Griffin 10' Turnaround Jump Shot,10:32 PM
+332,0,4,345,0020100138,Willis REBOUND (Off:2 Def:7),,9:22,4,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:32 PM
+333,1,5,346,0020100138,Rice Bad Pass Turnover (P1.T9),,9:08,4,4,5,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,239,Darrick Martin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Martin STEAL (2 STL),10:33 PM
+334,5,2,347,0020100138,,,9:04,4,5,0,0,239,Darrick Martin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Martin  Layup,10:33 PM
+335,0,4,348,0020100138,Francis REBOUND (Off:3 Def:5),,9:02,4,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:33 PM
+336,1,6,349,0020100138,,,9:02,4,5,0,1,330,Danny Manning,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Manning P.FOUL (P2.T3),10:33 PM
+337,5,2,350,0020100138,MISS Williams  Layup,,8:41,4,4,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:34 PM
+338,0,4,352,0020100138,Francis REBOUND (Off:4 Def:5),,8:40,4,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:34 PM
+339,4,1,351,0020100138,Francis  Tip Shot (33 PTS),,8:40,4,4,0,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,73 - 104,31,,10:34 PM
+340,1,2,353,0020100138,,,8:24,4,5,0,0,896,Tim Hardaway,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Hardaway 22' Jump Shot,10:34 PM
+341,0,4,354,0020100138,Willis REBOUND (Off:2 Def:8),,8:22,4,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:34 PM
+342,2,6,355,0020100138,,,8:15,4,5,0,1,239,Darrick Martin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Martin S.FOUL (P1.T4),10:34 PM
+343,0,8,356,0020100138,SUB: Norris FOR Francis,,8:15,4,4,4,0,1883,Steve Francis,HOU,Houston,1610612745.0,Rockets,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:34 PM
+344,11,3,357,0020100138,Willis Free Throw 1 of 2 (8 PTS),,8:15,4,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,73 - 105,32,,10:35 PM
+345,12,3,358,0020100138,Willis Free Throw 2 of 2 (9 PTS),,8:15,4,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,73 - 106,33,,10:35 PM
+346,1,2,359,0020100138,,,8:04,4,5,0,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Griffin 19' Jump Shot,10:35 PM
+347,0,4,360,0020100138,Willis REBOUND (Off:2 Def:9),,8:02,4,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:35 PM
+348,1,1,361,0020100138,Willis 12' Jump Shot (11 PTS) (Norris 2 AST),,7:49,4,4,4,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,73 - 108,35,,10:36 PM
+349,5,1,362,0020100138,,,7:35,4,5,5,0,330,Danny Manning,DAL,Dallas,1610612742.0,Mavericks,896,Tim Hardaway,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,75 - 108,33,Manning  Layup (2 PTS) (Hardaway 2 AST),10:36 PM
+350,2,6,363,0020100138,,,7:21,4,5,0,1,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner S.FOUL (P5.PN),10:36 PM
+351,0,8,364,0020100138,SUB: Griffin FOR Williams,,7:21,4,4,4,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:36 PM
+352,0,8,365,0020100138,SUB: Morris FOR Rice,,7:21,4,4,4,0,779,Glen Rice,HOU,Houston,1610612745.0,Rockets,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:36 PM
+353,11,3,366,0020100138,MISS Willis Free Throw 1 of 2,,7:21,4,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:37 PM
+354,1,4,367,0020100138,ROCKETS Rebound,,7:21,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,10:37 PM
+355,0,8,368,0020100138,SUB: Torres FOR Mobley,,7:21,4,4,4,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:37 PM
+356,12,3,369,0020100138,MISS Willis Free Throw 2 of 2,,7:21,4,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:37 PM
+357,0,4,370,0020100138,,,7:21,4,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner REBOUND (Off:3 Def:2),10:37 PM
+358,1,1,371,0020100138,,,7:07,4,5,0,0,330,Danny Manning,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,77 - 108,31,Manning 18' Jump Shot (4 PTS),10:37 PM
+359,1,1,372,0020100138,Willis 12' Jump Shot (13 PTS) (Norris 3 AST),,6:52,4,4,4,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,77 - 110,33,,10:38 PM
+360,1,2,373,0020100138,,,6:38,4,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Buckner 25' 3PT Jump Shot,10:38 PM
+361,0,4,374,0020100138,Willis REBOUND (Off:2 Def:10),,6:36,4,4,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:38 PM
+362,1,6,375,0020100138,,,6:21,4,5,0,1,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Griffin P.FOUL (P3.PN),10:38 PM
+363,0,8,376,0020100138,SUB: Cato FOR Willis,,6:21,4,4,4,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:38 PM
+364,0,8,377,0020100138,,,6:21,4,5,5,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Bradley FOR Griffin,10:38 PM
+365,11,3,378,0020100138,Norris Free Throw 1 of 2 (7 PTS),,6:21,4,4,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,77 - 111,34,,10:39 PM
+366,12,3,379,0020100138,Norris Free Throw 2 of 2 (8 PTS),,6:21,4,4,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,77 - 112,35,,10:39 PM
+367,1,2,380,0020100138,,,6:05,4,5,0,0,896,Tim Hardaway,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Hardaway 26' 3PT Jump Shot,10:39 PM
+368,0,4,381,0020100138,Cato REBOUND (Off:0 Def:1),,6:03,4,4,0,0,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:39 PM
+369,1,2,382,0020100138,MISS Morris 22' Jump Shot,,5:51,4,4,0,0,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:39 PM
+370,0,4,383,0020100138,,,5:49,4,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner REBOUND (Off:3 Def:3),10:39 PM
+371,1,2,384,0020100138,,,5:38,4,5,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Bradley 16' Jump Shot,10:40 PM
+372,0,4,385,0020100138,Norris REBOUND (Off:0 Def:1),,5:37,4,4,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:40 PM
+373,1,6,386,0020100138,,,5:36,4,5,0,1,239,Darrick Martin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Martin P.FOUL (P2.PN),10:40 PM
+374,4,9,387,0020100138,,,5:36,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:40 PM
+375,0,8,389,0020100138,,,5:36,4,5,5,0,239,Darrick Martin,DAL,Dallas,1610612742.0,Mavericks,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Griffin FOR Martin,10:41 PM
+376,11,3,390,0020100138,MISS Norris Free Throw 1 of 2,,5:36,4,4,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:42 PM
+377,1,4,391,0020100138,ROCKETS Rebound,,5:36,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,10:42 PM
+378,12,3,392,0020100138,MISS Norris Free Throw 2 of 2,,5:36,4,4,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:42 PM
+379,0,4,393,0020100138,Morris REBOUND (Off:1 Def:0),,5:36,4,4,0,0,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:42 PM
+380,1,1,394,0020100138,Griffin 21' Jump Shot (2 PTS) (Norris 4 AST),,5:20,4,4,4,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,77 - 114,37,,10:42 PM
+381,3,5,395,0020100138,,,5:02,4,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner Out Of Bounds Turnover (P2.T11),10:43 PM
+382,1,1,396,0020100138,Griffin 20' Jump Shot (4 PTS) (Norris 5 AST),,4:50,4,4,4,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,77 - 116,39,,10:43 PM
+383,1,2,397,0020100138,,,4:32,4,5,0,0,896,Tim Hardaway,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Hardaway 20' Jump Shot,10:43 PM
+384,0,4,398,0020100138,Morris REBOUND (Off:1 Def:1),,4:30,4,4,0,0,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:43 PM
+385,42,1,399,0020100138,Griffin  Driving Layup (6 PTS) (Norris 6 AST),,4:25,4,4,4,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,77 - 118,41,,10:43 PM
+386,1,2,400,0020100138,,,4:02,4,5,0,0,330,Danny Manning,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Manning 19' Jump Shot,10:44 PM
+387,0,4,402,0020100138,,,4:01,4,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner REBOUND (Off:4 Def:3),10:44 PM
+388,4,1,401,0020100138,,,4:01,4,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,79 - 118,39,Buckner  Tip Shot (8 PTS),10:44 PM
+389,2,5,403,0020100138,Norris Lost Ball Turnover (P2.T10),,3:40,4,4,5,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,330,Danny Manning,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Manning STEAL (1 STL),10:44 PM
+390,44,1,404,0020100138,,,3:35,4,5,0,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,81 - 118,37,Griffin  Reverse Layup (6 PTS),10:44 PM
+391,1,2,405,0020100138,MISS Griffin 25' 3PT Jump Shot,,3:18,4,4,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:44 PM
+392,0,4,406,0020100138,,,3:16,4,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner REBOUND (Off:4 Def:4),10:45 PM
+393,1,2,407,0020100138,,,3:05,4,5,0,0,330,Danny Manning,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Manning 16' Jump Shot,10:45 PM
+394,0,4,409,0020100138,,,3:04,4,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner REBOUND (Off:5 Def:4),10:45 PM
+395,4,1,408,0020100138,,,3:04,4,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,83 - 118,35,Buckner  Tip Shot (10 PTS),10:45 PM
+396,1,2,410,0020100138,MISS Morris 7' Jump Shot,,2:49,4,4,0,5,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,,,Bradley BLOCK (2 BLK),10:45 PM
+397,0,4,411,0020100138,ROCKETS Rebound,,2:48,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,10:45 PM
+398,1,9,412,0020100138,,,2:48,4,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Timeout: Regular (Reg.5 Short 0),10:45 PM
+399,1,2,414,0020100138,MISS Torres 25' 3PT Jump Shot,,2:42,4,4,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:48 PM
+400,0,4,415,0020100138,Norris REBOUND (Off:1 Def:1),,2:40,4,4,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:48 PM
+401,1,2,416,0020100138,MISS Griffin  Jump Shot,,2:30,4,4,0,5,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,,,Bradley BLOCK (3 BLK),10:48 PM
+402,0,4,417,0020100138,,,2:28,4,5,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Bradley REBOUND (Off:0 Def:2),10:48 PM
+403,1,2,418,0020100138,,,2:18,4,5,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Bradley 11' Jump Shot,10:48 PM
+404,0,4,419,0020100138,Cato REBOUND (Off:0 Def:2),,2:17,4,4,0,0,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:48 PM
+405,1,2,420,0020100138,MISS Morris 25' 3PT Jump Shot,,2:11,4,4,0,0,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:48 PM
+406,0,4,421,0020100138,,,2:09,4,5,0,0,330,Danny Manning,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Manning REBOUND (Off:0 Def:1),10:48 PM
+407,5,7,422,0020100138,Torres Violation:Kicked Ball,,2:04,4,4,0,1,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:49 PM
+408,47,1,423,0020100138,,,1:55,4,5,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,85 - 118,33,Bradley 9' Turnaround Jump Shot (6 PTS),10:49 PM
+409,47,2,424,0020100138,MISS Torres 15' Turnaround Jump Shot,,1:40,4,4,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:49 PM
+410,0,4,425,0020100138,,,1:38,4,5,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Buckner REBOUND (Off:5 Def:5),10:49 PM
+411,5,2,426,0020100138,,,1:25,4,5,0,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Griffin  Layup,10:49 PM
+412,0,4,427,0020100138,Griffin REBOUND (Off:0 Def:2),,1:23,4,4,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:49 PM
+413,2,6,428,0020100138,,,1:18,4,5,0,1,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Griffin S.FOUL (P4.PN),10:50 PM
+414,11,3,429,0020100138,Cato Free Throw 1 of 2 (1 PTS),,1:18,4,4,0,0,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,85 - 119,34,,10:50 PM
+415,12,3,430,0020100138,Cato Free Throw 2 of 2 (2 PTS),,1:18,4,4,0,0,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,85 - 120,35,,10:50 PM
+416,1,2,431,0020100138,,,1:08,4,5,0,0,1559,Adrian Griffin,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Griffin 18' Jump Shot,10:50 PM
+417,0,4,432,0020100138,Griffin REBOUND (Off:0 Def:3),,1:06,4,4,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:51 PM
+418,1,1,433,0020100138,Cato 16' Jump Shot (4 PTS) (Morris 1 AST),,0:53,4,4,4,0,1509,Kelvin Cato,HOU,Houston,1610612745.0,Rockets,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,85 - 122,37,,10:51 PM
+419,2,5,434,0020100138,Torres STEAL (1 STL),,0:41,4,5,4,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Bradley Lost Ball Turnover (P1.T12),10:51 PM
+420,2,6,435,0020100138,,,0:37,4,5,0,1,330,Danny Manning,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Manning S.FOUL (P3.PN),10:51 PM
+421,11,3,436,0020100138,Griffin Free Throw 1 of 2 (7 PTS),,0:37,4,4,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,85 - 123,38,,10:51 PM
+422,12,3,437,0020100138,Griffin Free Throw 2 of 2 (8 PTS),,0:37,4,4,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,85 - 124,39,,10:51 PM
+423,1,2,438,0020100138,Griffin BLOCK (1 BLK),,0:25,4,5,0,4,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,,,MISS Buckner 8' Jump Shot,10:52 PM
+424,0,4,439,0020100138,,,0:24,4,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Rebound,10:52 PM
+425,5,1,440,0020100138,,,0:17,4,5,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,87 - 124,37,Bradley  Layup (8 PTS),10:52 PM
+426,0,13,441,0020100138,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,87 - 124,37,,10:53 PM

@@ -1,0 +1,484 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0029700525,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:41 AM
+1,0,10,1,0029700525,Jump Ball Ratliff vs. Longley: Tip to Harper,,12:00,1,4,5,5,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,,,,11:41 AM
+2,5,2,2,0029700525,,,11:42,1,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Longley 1' Layup,11:42 AM
+3,0,4,3,0029700525,Coleman REBOUND (Off:0 Def:1),,11:40,1,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:42 AM
+4,3,1,4,0029700525,Ratliff 6' Hook Shot (2 PTS) (Coleman 1 AST),,11:19,1,4,4,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0 - 2,2,,11:42 AM
+5,1,2,5,0029700525,Ratliff BLOCK (1 BLK),,11:02,1,5,0,4,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,,,MISS Longley 7' Jump Shot,11:42 AM
+6,0,4,6,0029700525,,,11:02,1,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,11:43 AM
+7,1,2,7,0029700525,,,10:58,1,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Pippen 3' Jump Shot,11:43 AM
+8,0,4,8,0029700525,Davis REBOUND (Off:0 Def:1),,10:55,1,4,0,0,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:43 AM
+9,1,2,9,0029700525,MISS Jackson 17' Jump Shot,,10:46,1,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:43 AM
+10,0,4,10,0029700525,,,10:44,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:0 Def:1),11:43 AM
+11,3,6,11,0029700525,Ratliff L.B.FOUL (P1.T1),,10:43,1,4,0,1,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:43 AM
+12,5,2,12,0029700525,Coleman BLOCK (1 BLK),,10:30,1,5,0,4,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,,,MISS Longley  Layup,11:44 AM
+13,0,4,13,0029700525,,,10:26,1,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley REBOUND (Off:1 Def:0),11:44 AM
+14,2,1,14,0029700525,,,10:19,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,2 - 2,TIE,Jordan 9' Running Jump Shot (2 PTS),11:44 AM
+15,1,2,15,0029700525,MISS Coleman 7' Jump Shot,,10:08,1,4,0,5,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,,,Longley BLOCK (1 BLK),11:44 AM
+16,0,4,16,0029700525,Coleman REBOUND (Off:1 Def:1),,10:05,1,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:44 AM
+17,1,1,17,0029700525,Jackson 29' 3PT Jump Shot (3 PTS) (Coleman 2 AST),,10:01,1,4,4,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,2 - 5,3,,11:44 AM
+18,1,1,18,0029700525,,,9:45,1,5,5,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,4 - 5,1,Jordan 15' Jump Shot (4 PTS) (Harper 1 AST),11:44 AM
+19,1,1,19,0029700525,Iverson 16' Jump Shot (2 PTS),,9:19,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,4 - 7,3,,11:45 AM
+20,1,2,20,0029700525,,,9:03,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 9' Jump Shot,11:45 AM
+21,0,4,21,0029700525,76ERS Rebound,,9:01,1,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,11:45 AM
+22,1,6,22,0029700525,,,8:46,1,5,0,1,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley P.FOUL (P1.T1),11:46 AM
+23,1,2,23,0029700525,MISS Coleman 11' Jump Shot,,8:35,1,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:46 AM
+24,0,4,24,0029700525,,,8:33,1,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley REBOUND (Off:1 Def:1),11:46 AM
+25,2,6,25,0029700525,Iverson S.FOUL (P1.T2),,8:22,1,4,0,1,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:46 AM
+26,11,3,26,0029700525,,,8:22,1,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Longley Free Throw 1 of 2,11:47 AM
+27,0,4,27,0029700525,,,8:22,1,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,11:47 AM
+28,12,3,28,0029700525,,,8:22,1,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Longley Free Throw 2 of 2,11:47 AM
+29,0,4,29,0029700525,,,8:21,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:1 Def:1),11:47 AM
+30,2,1,30,0029700525,,,8:07,1,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,6 - 7,1,Harper 14' Running Jump Shot (2 PTS),11:47 AM
+31,2,5,31,0029700525,Coleman Lost Ball Turnover (P1.T1),,7:49,1,4,5,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Jordan STEAL (1 STL),11:47 AM
+32,6,1,32,0029700525,,,7:45,1,5,5,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,8 - 7,-1,Pippen  Driving Layup (2 PTS) (Jordan 1 AST),11:47 AM
+33,2,6,33,0029700525,,,7:35,1,5,0,1,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley S.FOUL (P2.T2),11:48 AM
+34,11,3,34,0029700525,Iverson Free Throw 1 of 2 (3 PTS),,7:35,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,8 - 8,TIE,,11:48 AM
+35,0,8,35,0029700525,,,7:35,1,5,5,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,170,Joe Kleine,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kleine FOR Longley,11:48 AM
+36,12,3,36,0029700525,Iverson Free Throw 2 of 2 (4 PTS),,7:35,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,8 - 9,1,,11:48 AM
+37,1,1,37,0029700525,,,7:13,1,5,5,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,11 - 9,-2,Pippen 25' 3PT Jump Shot (5 PTS) (Harper 2 AST),11:49 AM
+38,1,2,38,0029700525,MISS Coleman 16' Jump Shot,,6:52,1,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:49 AM
+39,0,4,39,0029700525,,,6:50,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:1 Def:2),11:49 AM
+40,1,5,40,0029700525,Davis STEAL (1 STL),,6:45,1,5,4,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Jordan Bad Pass Turnover (P1.T1),11:49 AM
+41,2,5,41,0029700525,Davis Lost Ball Turnover (P1.T2),,6:43,1,4,5,0,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Pippen STEAL (1 STL),11:49 AM
+42,5,1,42,0029700525,,,6:42,1,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,13 - 9,-4,Pippen  Layup (7 PTS),11:49 AM
+43,2,6,43,0029700525,Davis S.FOUL (P1.T3),,6:42,1,4,0,1,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:49 AM
+44,1,9,44,0029700525,76ERS Timeout: Regular (Full 1 Short 0),,6:42,1,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,11:50 AM
+45,10,3,46,0029700525,,,6:42,1,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,14 - 9,-5,Pippen Free Throw 1 of 1 (8 PTS),11:52 AM
+46,1,1,47,0029700525,Iverson 18' Jump Shot (6 PTS),,6:29,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,14 - 11,-3,,11:52 AM
+47,5,1,48,0029700525,,,6:09,1,5,5,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,16 - 11,-5,Rodman  Layup (2 PTS) (Pippen 1 AST),11:53 AM
+48,1,1,49,0029700525,Iverson 15' Jump Shot (8 PTS) (Davis 1 AST),,5:53,1,4,4,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,16 - 13,-3,,11:53 AM
+49,1,2,50,0029700525,,,5:33,1,5,0,0,170,Joe Kleine,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kleine 11' Jump Shot,11:53 AM
+50,0,4,51,0029700525,Iverson REBOUND (Off:0 Def:1),,5:31,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:53 AM
+51,1,2,52,0029700525,MISS Jackson  3PT Jump Shot,,5:22,1,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:54 AM
+52,0,4,53,0029700525,Coleman REBOUND (Off:2 Def:1),,5:19,1,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:54 AM
+53,1,2,54,0029700525,MISS Iverson 27' 3PT Jump Shot,,5:17,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:54 AM
+54,0,4,56,0029700525,Ratliff REBOUND (Off:1 Def:0),,5:14,1,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:54 AM
+55,4,2,55,0029700525,MISS Ratliff  Tip Shot,,5:14,1,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:54 AM
+56,0,4,57,0029700525,Davis REBOUND (Off:1 Def:1),,5:14,1,4,0,0,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:54 AM
+57,6,1,58,0029700525,Iverson  Driving Layup (10 PTS),,5:08,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,16 - 15,-1,,11:54 AM
+58,1,1,59,0029700525,,,4:58,1,5,5,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,18 - 15,-3,Jordan 14' Jump Shot (6 PTS) (Pippen 2 AST),11:54 AM
+59,6,1,60,0029700525,Davis  Driving Layup (2 PTS),,4:42,1,4,0,0,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,18 - 17,-1,,11:55 AM
+60,2,6,61,0029700525,Jackson S.FOUL (P1.T4),,4:28,1,4,0,1,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:55 AM
+61,11,3,62,0029700525,,,4:28,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan Free Throw 1 of 2,11:55 AM
+62,0,4,63,0029700525,,,4:28,1,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,11:55 AM
+63,12,3,64,0029700525,,,4:28,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,19 - 17,-2,Jordan Free Throw 2 of 2 (7 PTS),11:55 AM
+64,0,8,65,0029700525,,,4:28,1,5,5,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Brown FOR Harper,11:55 AM
+65,1,2,66,0029700525,MISS Coleman 7' Jump Shot,,4:09,1,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:56 AM
+66,0,4,67,0029700525,,,4:07,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:1 Def:3),11:56 AM
+67,1,5,68,0029700525,Jackson STEAL (1 STL),,4:06,1,5,4,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Rodman Bad Pass Turnover (P1.T2),11:56 AM
+68,1,5,69,0029700525,Jackson Bad Pass Turnover (P1.T3),,4:00,1,4,5,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Jordan STEAL (2 STL),11:56 AM
+69,5,1,70,0029700525,,,3:54,1,5,5,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,21 - 17,-4,Jordan  Layup (9 PTS) (Brown 1 AST),11:56 AM
+70,2,6,71,0029700525,Davis S.FOUL (P2.PN),,3:54,1,4,0,1,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:56 AM
+71,0,8,73,0029700525,SUB: Thomas FOR Davis,,3:54,1,4,4,0,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,11:57 AM
+72,0,8,76,0029700525,,,3:54,1,5,5,0,170,Joe Kleine,CHI,Chicago,1610612741.0,Bulls,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kukoc FOR Kleine,11:57 AM
+73,10,3,77,0029700525,,,3:54,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan Free Throw 1 of 1,11:57 AM
+74,0,4,78,0029700525,Thomas REBOUND (Off:0 Def:1),,3:41,1,4,0,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:57 AM
+75,2,6,79,0029700525,,,3:41,1,5,0,1,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc S.FOUL (P1.T3),11:57 AM
+76,11,3,80,0029700525,Ratliff Free Throw 1 of 2 (3 PTS),,3:41,1,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,21 - 18,-3,,11:58 AM
+77,12,3,81,0029700525,Ratliff Free Throw 2 of 2 (4 PTS),,3:41,1,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,21 - 19,-2,,11:58 AM
+78,1,5,82,0029700525,Coleman STEAL (1 STL),,3:31,1,5,4,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Pippen Bad Pass Turnover (P1.T3),11:58 AM
+79,2,5,83,0029700525,Jackson Lost Ball Turnover (P2.T4),,3:17,1,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:59 AM
+80,1,5,84,0029700525,Ratliff STEAL (1 STL),,3:07,1,5,4,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Kukoc Bad Pass Turnover (P1.T4),11:59 AM
+81,1,5,85,0029700525,Ratliff Bad Pass Turnover (P1.T5),,3:05,1,4,5,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Brown STEAL (1 STL),11:59 AM
+82,1,2,86,0029700525,,,2:58,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 17' Jump Shot,11:59 AM
+83,0,4,87,0029700525,Jackson REBOUND (Off:0 Def:1),,2:55,1,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,11:59 AM
+84,5,1,88,0029700525,Ratliff  Layup (6 PTS) (Iverson 1 AST),,2:45,1,4,4,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,21 - 21,TIE,,12:00 PM
+85,1,2,89,0029700525,Ratliff BLOCK (2 BLK),,2:30,1,5,0,4,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,,,MISS Pippen 16' Jump Shot,12:00 PM
+86,0,4,91,0029700525,,,2:27,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:2 Def:3),12:00 PM
+87,7,1,90,0029700525,,,2:27,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,23 - 21,-2,Rodman  Dunk (4 PTS),12:00 PM
+88,1,2,92,0029700525,MISS Iverson 25' 3PT Jump Shot,,2:12,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:00 PM
+89,0,4,93,0029700525,,,2:10,1,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Pippen REBOUND (Off:0 Def:1),12:00 PM
+90,1,2,94,0029700525,,,2:06,1,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kukoc 13' Jump Shot,12:00 PM
+91,0,4,95,0029700525,,,2:04,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:1 Def:0),12:00 PM
+92,5,1,96,0029700525,,,2:01,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,25 - 21,-4,Jordan  Layup (11 PTS),12:00 PM
+93,1,9,97,0029700525,,,1:40,1,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.1 Short 0),12:01 PM
+94,1,6,98,0029700525,,,1:40,1,5,0,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Brown P.FOUL (P1.T4),12:01 PM
+95,0,8,99,0029700525,SUB: Weatherspoon FOR Coleman,,1:40,1,4,4,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,12:03 PM
+96,0,8,100,0029700525,,,1:40,1,5,5,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Caffey FOR Pippen,12:03 PM
+97,0,8,101,0029700525,SUB: McKie FOR Jackson,,1:40,1,4,4,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,12:03 PM
+98,6,1,102,0029700525,Iverson  Driving Layup (12 PTS),,1:33,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,25 - 23,-2,,12:03 PM
+99,2,6,103,0029700525,,,1:33,1,5,0,1,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Brown S.FOUL (P2.PN),12:03 PM
+100,10,3,104,0029700525,Iverson Free Throw 1 of 1 (13 PTS),,1:33,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,25 - 24,-1,,12:04 PM
+101,1,2,105,0029700525,,,1:16,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 12' Jump Shot,12:04 PM
+102,0,4,106,0029700525,,,1:14,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:3 Def:3),12:04 PM
+103,1,2,107,0029700525,,,1:09,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 11' Jump Shot,12:04 PM
+104,0,4,108,0029700525,Ratliff REBOUND (Off:1 Def:1),,1:08,1,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:04 PM
+105,1,2,109,0029700525,MISS Thomas 26' 3PT Jump Shot,,1:02,1,4,0,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:04 PM
+106,0,4,110,0029700525,,,0:58,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:3 Def:4),12:04 PM
+107,2,6,111,0029700525,Iverson S.FOUL (P2.PN),,0:41,1,4,0,1,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:05 PM
+108,0,8,112,0029700525,SUB: Cummings FOR Ratliff,,0:41,1,4,4,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,187,Terry Cummings,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,12:05 PM
+109,11,3,113,0029700525,,,0:41,1,5,0,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Brown Free Throw 1 of 2,12:05 PM
+110,0,4,114,0029700525,,,0:41,1,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,12:05 PM
+111,12,3,115,0029700525,,,0:41,1,5,0,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,26 - 24,-2,Brown Free Throw 2 of 2 (1 PTS),12:05 PM
+112,1,2,116,0029700525,MISS Weatherspoon 15' Jump Shot,,0:30,1,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:06 PM
+113,0,4,117,0029700525,,,0:27,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:1 Def:1),12:06 PM
+114,1,2,118,0029700525,,,0:06,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 11' Jump Shot,12:06 PM
+115,0,4,119,0029700525,,,0:03,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:4 Def:4),12:06 PM
+116,4,5,120,0029700525,,,0:03,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman Traveling Turnover (P2.T5),12:06 PM
+117,0,8,121,0029700525,,,0:03,1,5,5,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kerr FOR Brown,12:06 PM
+118,0,8,122,0029700525,SUB: Jackson FOR Cummings,,0:03,1,4,4,0,187,Terry Cummings,PHI,Philadelphia,1610612755.0,76ers,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,12:06 PM
+119,1,2,123,0029700525,MISS Jackson 25' 3PT Jump Shot,,0:00,1,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:07 PM
+120,0,4,124,0029700525,,,0:00,1,5,0,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kerr REBOUND (Off:0 Def:1),12:07 PM
+121,0,13,125,0029700525,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,26 - 24,-2,,12:07 PM
+122,0,12,126,0029700525,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,26 - 24,-2,,12:09 PM
+123,1,1,127,0029700525,Thomas 27' 3PT Jump Shot (3 PTS),,11:37,2,4,0,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,26 - 27,1,,12:10 PM
+124,1,1,128,0029700525,,,11:13,2,5,5,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,28 - 27,-1,Pippen 10' Jump Shot (10 PTS) (Kerr 1 AST),12:10 PM
+125,1,6,129,0029700525,,,10:52,2,5,0,1,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Pippen P.FOUL (P1.T1),12:11 PM
+126,1,2,130,0029700525,MISS Weatherspoon 3' Jump Shot,,10:39,2,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:11 PM
+127,0,4,131,0029700525,,,10:37,2,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc REBOUND (Off:0 Def:1),12:11 PM
+128,2,1,132,0029700525,,,10:31,2,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,30 - 27,-3,Pippen 22' Running Jump Shot (12 PTS),12:12 PM
+129,6,1,133,0029700525,McKie  Driving Layup (2 PTS),,10:17,2,4,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,30 - 29,-1,,12:12 PM
+130,1,2,135,0029700525,,,10:02,2,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kukoc 13' Jump Shot,12:12 PM
+131,0,4,136,0029700525,Jackson REBOUND (Off:0 Def:2),,10:00,2,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:12 PM
+132,1,5,137,0029700525,Jackson Bad Pass Turnover (P3.T6),,9:55,2,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:12 PM
+133,1,2,139,0029700525,,,9:44,2,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Longley 7' Jump Shot,12:13 PM
+134,0,4,140,0029700525,Jackson REBOUND (Off:0 Def:3),,9:42,2,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:13 PM
+135,1,6,141,0029700525,,,9:40,2,5,0,1,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Harper P.FOUL (P1.T2),12:13 PM
+136,1,2,142,0029700525,MISS Thomas 19' Jump Shot,,9:22,2,4,0,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:13 PM
+137,0,4,143,0029700525,Weatherspoon REBOUND (Off:1 Def:0),,9:21,2,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:13 PM
+138,2,6,144,0029700525,,,9:21,2,5,0,1,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Harper S.FOUL (P2.T3),12:13 PM
+139,11,3,145,0029700525,Weatherspoon Free Throw 1 of 2 (1 PTS),,9:21,2,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,30 - 30,TIE,,12:14 PM
+140,12,3,146,0029700525,MISS Weatherspoon Free Throw 2 of 2,,9:21,2,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:14 PM
+141,0,4,147,0029700525,,,9:20,2,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Pippen REBOUND (Off:0 Def:2),12:14 PM
+142,2,5,148,0029700525,Cummings STEAL (1 STL),,9:12,2,5,4,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,187,Terry Cummings,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Pippen Lost Ball Turnover (P2.T6),12:14 PM
+143,5,2,149,0029700525,MISS Cummings  Layup,,9:07,2,4,0,0,187,Terry Cummings,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:14 PM
+144,0,4,151,0029700525,Thomas REBOUND (Off:1 Def:1),,9:03,2,4,0,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:14 PM
+145,7,1,150,0029700525,Thomas  Dunk (5 PTS),,9:03,2,4,0,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,30 - 32,2,,12:14 PM
+146,11,5,152,0029700525,,,8:41,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Turnover: Shot Clock (T#7),12:15 PM
+147,5,2,153,0029700525,MISS McKie  Layup,,8:25,2,4,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:15 PM
+148,0,4,155,0029700525,Weatherspoon REBOUND (Off:2 Def:0),,8:21,2,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:15 PM
+149,8,1,154,0029700525,Weatherspoon  Slam Dunk (3 PTS),,8:21,2,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,30 - 34,4,,12:15 PM
+150,2,6,156,0029700525,Weatherspoon S.FOUL (P1.T1),,8:08,2,4,0,1,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:16 PM
+151,11,3,157,0029700525,,,8:08,2,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,31 - 34,3,Longley Free Throw 1 of 2 (1 PTS),12:16 PM
+152,0,8,158,0029700525,SUB: Iverson FOR Jackson,,8:08,2,4,4,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,12:16 PM
+153,12,3,159,0029700525,,,8:08,2,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Longley Free Throw 2 of 2,12:16 PM
+154,0,4,160,0029700525,,,8:04,2,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc REBOUND (Off:1 Def:1),12:16 PM
+155,4,1,161,0029700525,,,8:00,2,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,33 - 34,1,Kukoc  Tip Shot (2 PTS),12:16 PM
+156,2,5,162,0029700525,Iverson Lost Ball Turnover (P1.T7),,7:56,2,4,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Harper STEAL (1 STL),12:16 PM
+157,5,2,163,0029700525,McKie BLOCK (1 BLK),,7:55,2,5,0,4,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,,,MISS Harper 3' Layup,12:16 PM
+158,0,4,164,0029700525,Thomas REBOUND (Off:1 Def:2),,7:51,2,4,0,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:16 PM
+159,1,2,166,0029700525,MISS Cummings 12' Jump Shot,,7:46,2,4,0,5,187,Terry Cummings,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,,,Longley BLOCK (2 BLK),12:17 PM
+160,0,4,167,0029700525,,,7:44,2,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley REBOUND (Off:1 Def:2),12:17 PM
+161,2,6,168,0029700525,Thomas S.FOUL (P1.T2),,7:40,2,4,0,1,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:17 PM
+162,11,3,169,0029700525,,,7:40,2,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,34 - 34,TIE,Pippen Free Throw 1 of 2 (13 PTS),12:17 PM
+163,12,3,170,0029700525,,,7:40,2,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,35 - 34,-1,Pippen Free Throw 2 of 2 (14 PTS),12:17 PM
+164,1,5,171,0029700525,McKie Bad Pass Turnover (P1.T8),,7:24,2,4,5,0,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Harper STEAL (2 STL),12:18 PM
+165,6,1,172,0029700525,,,7:19,2,5,5,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,37 - 34,-3,Pippen  Driving Layup (16 PTS) (Harper 3 AST),12:18 PM
+166,1,9,173,0029700525,76ERS Timeout: Regular (Full 2 Short 0),,7:06,2,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,12:18 PM
+167,0,8,182,0029700525,SUB: Coleman FOR Cummings,,7:06,2,4,4,0,187,Terry Cummings,PHI,Philadelphia,1610612755.0,76ers,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,12:18 PM
+168,0,8,176,0029700525,,,7:06,2,5,5,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Jordan FOR Kukoc,12:20 PM
+169,0,8,177,0029700525,,,7:06,2,5,5,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Rodman FOR Kerr,12:20 PM
+170,7,1,175,0029700525,Thomas  Dunk (7 PTS) (Iverson 2 AST),,7:01,2,4,4,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,37 - 36,-1,,12:20 PM
+171,1,2,178,0029700525,,,6:36,2,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 10' Jump Shot,12:21 PM
+172,0,4,179,0029700525,,,6:31,2,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:2 Def:1),12:21 PM
+173,0,8,180,0029700525,SUB: Jackson FOR McKie,,6:28,2,4,4,0,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,12:21 PM
+174,1,6,181,0029700525,Coleman P.FOUL (P1.T3),,6:28,2,4,0,1,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:21 PM
+175,11,3,183,0029700525,,,6:28,2,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,38 - 36,-2,Pippen Free Throw 1 of 2 (17 PTS),12:21 PM
+176,12,3,184,0029700525,,,6:28,2,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,39 - 36,-3,Pippen Free Throw 2 of 2 (18 PTS),12:21 PM
+177,8,1,185,0029700525,Coleman  Slam Dunk (2 PTS) (Jackson 1 AST),,6:06,2,4,4,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,39 - 38,-1,,12:22 PM
+178,5,2,186,0029700525,Thomas BLOCK (1 BLK),,5:54,2,5,0,4,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,,,MISS Pippen 5' Layup,12:22 PM
+179,0,4,187,0029700525,Thomas REBOUND (Off:1 Def:3),,5:51,2,4,0,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:22 PM
+180,2,6,188,0029700525,,,5:37,2,5,0,1,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman S.FOUL (P1.T4),12:23 PM
+181,11,3,189,0029700525,Weatherspoon Free Throw 1 of 2 (4 PTS),,5:37,2,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,39 - 39,TIE,,12:23 PM
+182,0,8,191,0029700525,,,5:37,2,5,5,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kukoc FOR Harper,12:23 PM
+183,12,3,193,0029700525,Weatherspoon Free Throw 2 of 2 (5 PTS),,5:37,2,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,39 - 40,1,,12:23 PM
+184,1,2,195,0029700525,,,5:18,2,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Pippen 7' Jump Shot,12:24 PM
+185,0,4,197,0029700525,,,5:17,2,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc REBOUND (Off:2 Def:1),12:24 PM
+186,4,2,196,0029700525,,,5:16,2,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kukoc  Tip Shot,12:24 PM
+187,0,4,199,0029700525,,,5:15,2,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:5 Def:4),12:24 PM
+188,4,1,198,0029700525,,,5:15,2,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,41 - 40,-1,Rodman  Tip Shot (6 PTS),12:24 PM
+189,2,6,200,0029700525,,,5:05,2,5,0,1,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan S.FOUL (P1.PN),12:24 PM
+190,11,3,201,0029700525,Iverson Free Throw 1 of 2 (14 PTS),,5:05,2,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,41 - 41,TIE,,12:25 PM
+191,12,3,202,0029700525,Iverson Free Throw 2 of 2 (15 PTS),,5:05,2,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,41 - 42,1,,12:25 PM
+192,1,2,203,0029700525,,,4:52,2,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Pippen 26' 3PT Jump Shot,12:25 PM
+193,0,4,204,0029700525,76ERS Rebound,,4:50,2,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,12:25 PM
+194,1,2,205,0029700525,MISS Coleman 5' Jump Shot,,4:37,2,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:25 PM
+195,0,4,206,0029700525,,,4:35,2,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:2 Def:2),12:26 PM
+196,1,1,207,0029700525,,,4:23,2,5,5,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,43 - 42,-1,Longley 14' Jump Shot (3 PTS) (Jordan 2 AST),12:26 PM
+197,1,2,208,0029700525,MISS Coleman 16' Jump Shot,,3:58,2,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:26 PM
+198,0,4,209,0029700525,,,3:56,2,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:5 Def:5),12:26 PM
+199,2,7,210,0029700525,Coleman Violation:Defensive Goaltending,,3:48,2,4,0,1,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:26 PM
+200,0,8,211,0029700525,SUB: Ratliff FOR Weatherspoon,,3:48,2,4,4,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,12:27 PM
+201,1,5,212,0029700525,Iverson STEAL (1 STL),,3:41,2,5,4,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Kukoc Bad Pass Turnover (P2.T8),12:27 PM
+202,5,1,213,0029700525,Iverson  Layup (17 PTS) (Jackson 2 AST),,3:36,2,4,4,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,43 - 44,1,,12:27 PM
+203,6,1,214,0029700525,,,3:30,2,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,45 - 44,-1,Jordan  Driving Layup (13 PTS),12:27 PM
+204,2,9,215,0029700525,76ERS Timeout: Short (Full 2 Short 1),,3:23,2,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,12:27 PM
+205,1,2,217,0029700525,MISS Iverson 6' Jump Shot,,3:06,2,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:28 PM
+206,0,4,218,0029700525,,,3:04,2,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:2 Def:3),12:28 PM
+207,1,6,219,0029700525,Iverson P.FOUL (P3.T4),,3:02,2,4,0,1,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:28 PM
+208,0,8,220,0029700525,SUB: McKie FOR Iverson,,3:02,2,4,4,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,12:29 PM
+209,1,9,221,0029700525,,,3:02,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.2 Short 0),12:29 PM
+210,0,8,222,0029700525,,,3:02,2,5,5,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kerr FOR Kukoc,12:31 PM
+211,1,1,223,0029700525,,,2:50,2,5,5,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,47 - 44,-3,Kerr 18' Jump Shot (2 PTS) (Pippen 3 AST),12:31 PM
+212,1,6,224,0029700525,,,2:30,2,5,0,1,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Pippen P.FOUL (P2.PN),12:31 PM
+213,11,3,225,0029700525,Coleman Free Throw 1 of 2 (3 PTS),,2:30,2,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,47 - 45,-2,,12:32 PM
+214,12,3,226,0029700525,MISS Coleman Free Throw 2 of 2,,2:30,2,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:32 PM
+215,0,4,227,0029700525,Thomas REBOUND (Off:2 Def:3),,2:28,2,4,0,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:32 PM
+216,1,2,228,0029700525,MISS Thomas 4' Jump Shot,,2:27,2,4,0,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:32 PM
+217,0,4,230,0029700525,Thomas REBOUND (Off:3 Def:3),,2:25,2,4,0,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:32 PM
+218,4,1,229,0029700525,Thomas  Tip Shot (9 PTS),,2:25,2,4,0,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,47 - 47,TIE,,12:32 PM
+219,1,1,231,0029700525,,,2:08,2,5,5,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,49 - 47,-2,Kerr 20' Jump Shot (4 PTS) (Pippen 4 AST),12:32 PM
+220,6,1,232,0029700525,Jackson  Driving Layup (5 PTS),,1:52,2,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,49 - 49,TIE,,12:33 PM
+221,2,6,233,0029700525,Thomas S.FOUL (P2.PN),,1:39,2,4,0,1,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:33 PM
+222,11,3,234,0029700525,,,1:39,2,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,50 - 49,-1,Pippen Free Throw 1 of 2 (19 PTS),12:33 PM
+223,12,3,235,0029700525,,,1:39,2,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,51 - 49,-2,Pippen Free Throw 2 of 2 (20 PTS),12:33 PM
+224,0,8,236,0029700525,SUB: Davis FOR Thomas,,1:39,2,4,4,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,12:34 PM
+225,2,6,238,0029700525,,,1:22,2,5,0,1,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kerr S.FOUL (P1.PN),12:34 PM
+226,11,3,239,0029700525,Coleman Free Throw 1 of 2 (4 PTS),,1:22,2,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,51 - 50,-1,,12:34 PM
+227,12,3,240,0029700525,MISS Coleman Free Throw 2 of 2,,1:22,2,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:35 PM
+228,0,4,241,0029700525,Ratliff REBOUND (Off:2 Def:1),,1:21,2,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:35 PM
+229,4,1,242,0029700525,Ratliff  Tip Shot (8 PTS),,1:19,2,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,51 - 52,1,,12:35 PM
+230,5,2,243,0029700525,Ratliff BLOCK (3 BLK),,0:57,2,5,0,4,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,,,MISS Longley 1' Layup,12:35 PM
+231,0,4,244,0029700525,,,0:54,2,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Pippen REBOUND (Off:1 Def:2),12:35 PM
+232,11,5,245,0029700525,,,0:53,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Turnover: Shot Clock (T#9),12:35 PM
+233,5,2,246,0029700525,MISS Ratliff  Layup,,0:35,2,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:36 PM
+234,0,4,247,0029700525,,,0:32,2,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:5 Def:6),12:36 PM
+235,1,2,248,0029700525,,,0:17,2,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Pippen 27' 3PT Jump Shot,12:37 PM
+236,0,4,249,0029700525,,,0:14,2,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:6 Def:6),12:37 PM
+237,5,2,250,0029700525,,,0:00,2,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Longley  Layup,12:37 PM
+238,0,4,251,0029700525,Coleman REBOUND (Off:2 Def:2),,0:00,2,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:37 PM
+239,0,13,252,0029700525,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 52,1,,12:37 PM
+240,0,12,253,0029700525,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 52,1,,12:53 PM
+241,1,1,254,0029700525,Coleman 10' Jump Shot (6 PTS) (Jackson 3 AST),,11:41,3,4,4,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,51 - 54,3,,12:53 PM
+242,1,2,255,0029700525,,,11:24,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 16' Jump Shot,12:53 PM
+243,0,4,256,0029700525,Davis REBOUND (Off:1 Def:2),,11:21,3,4,0,0,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:53 PM
+244,5,2,257,0029700525,MISS Davis  Layup,,11:16,3,4,0,5,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,,,Pippen BLOCK (1 BLK),12:54 PM
+245,0,4,258,0029700525,76ERS Rebound,,11:15,3,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,12:54 PM
+246,6,1,259,0029700525,Coleman  Driving Layup (8 PTS) (Jackson 4 AST),,11:07,3,4,4,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,51 - 56,5,,12:54 PM
+247,2,6,260,0029700525,,,11:07,3,5,0,1,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley S.FOUL (P3.T1),12:54 PM
+248,10,3,261,0029700525,MISS Coleman Free Throw 1 of 1,,11:07,3,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:54 PM
+249,0,4,262,0029700525,,,11:07,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:6 Def:7),12:54 PM
+250,1,2,263,0029700525,,,10:46,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 27' 3PT Jump Shot,12:55 PM
+251,0,4,264,0029700525,,,10:43,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:7 Def:7),12:55 PM
+252,1,2,265,0029700525,,,10:41,3,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Longley 4' Jump Shot,12:55 PM
+253,0,4,266,0029700525,Coleman REBOUND (Off:2 Def:3),,10:38,3,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:55 PM
+254,5,2,267,0029700525,MISS Ratliff  Layup,,10:35,3,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:55 PM
+255,0,4,268,0029700525,,,10:31,3,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley REBOUND (Off:1 Def:3),12:55 PM
+256,3,7,272,0029700525,Ratliff Violation:Lane,,10:31,3,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:55 PM
+257,5,1,270,0029700525,,,10:17,3,5,5,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,53 - 56,3,Longley  Layup (5 PTS) (Harper 4 AST),12:55 PM
+258,1,1,271,0029700525,Iverson 20' Jump Shot (19 PTS),,10:09,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,53 - 58,5,,12:56 PM
+259,1,2,273,0029700525,,,9:51,3,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Longley 8' Jump Shot,12:56 PM
+260,0,4,275,0029700525,,,9:48,3,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Harper REBOUND (Off:1 Def:0),12:56 PM
+261,5,2,274,0029700525,,,9:48,3,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Harper  Layup,12:56 PM
+262,0,4,276,0029700525,Ratliff REBOUND (Off:2 Def:2),,9:46,3,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:56 PM
+263,1,1,277,0029700525,Coleman 26' 3PT Jump Shot (11 PTS) (Iverson 3 AST),,9:41,3,4,4,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,53 - 61,8,,12:56 PM
+264,1,2,279,0029700525,,,9:16,3,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Pippen 28' 3PT Jump Shot,12:56 PM
+265,0,4,281,0029700525,,,9:14,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:8 Def:7),12:56 PM
+266,1,1,282,0029700525,,,9:06,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,55 - 61,6,Jordan 16' Jump Shot (15 PTS),12:57 PM
+267,1,2,283,0029700525,MISS Jackson 18' Jump Shot,,8:50,3,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:57 PM
+268,0,4,284,0029700525,Ratliff REBOUND (Off:3 Def:2),,8:47,3,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:57 PM
+269,6,1,285,0029700525,Iverson  Driving Layup (21 PTS) (Ratliff 1 AST),,8:41,3,4,4,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,55 - 63,8,,12:57 PM
+270,1,1,286,0029700525,,,8:25,3,5,5,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,57 - 63,6,Longley 17' Jump Shot (7 PTS) (Harper 5 AST),12:57 PM
+271,1,6,287,0029700525,,,8:08,3,5,0,1,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Harper P.FOUL (P3.T2),12:58 PM
+272,1,2,288,0029700525,MISS Davis 14' Jump Shot,,8:02,3,4,0,0,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:58 PM
+273,0,4,289,0029700525,,,7:59,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:2 Def:4),12:58 PM
+274,1,2,290,0029700525,,,7:42,3,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Harper 19' Jump Shot,12:59 PM
+275,0,4,291,0029700525,,,7:39,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:9 Def:7),12:59 PM
+276,5,1,292,0029700525,,,7:37,3,5,5,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,59 - 63,4,Longley  Layup (9 PTS) (Rodman 1 AST),12:59 PM
+277,1,2,293,0029700525,MISS Coleman 25' 3PT Jump Shot,,7:14,3,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:59 PM
+278,0,4,294,0029700525,,,7:12,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:2 Def:5),12:59 PM
+279,1,2,295,0029700525,Coleman BLOCK (2 BLK),,7:06,3,5,0,4,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,,,MISS Jordan 18' Jump Shot,12:59 PM
+280,0,4,296,0029700525,Ratliff REBOUND (Off:3 Def:3),,7:04,3,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:59 PM
+281,1,2,297,0029700525,MISS Coleman 12' Jump Shot,,6:57,3,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:59 PM
+282,0,4,299,0029700525,Jackson REBOUND (Off:1 Def:3),,6:54,3,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:59 PM
+283,4,2,298,0029700525,MISS Jackson  Tip Shot,,6:54,3,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,12:59 PM
+284,0,4,300,0029700525,,,6:52,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:2 Def:6),12:59 PM
+285,1,2,301,0029700525,,,6:49,3,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Pippen 13' Jump Shot,1:00 PM
+286,0,4,302,0029700525,Coleman REBOUND (Off:2 Def:4),,6:46,3,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:00 PM
+287,1,6,304,0029700525,,,6:41,3,5,0,1,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Harper P.FOUL (P4.T3),1:00 PM
+288,1,9,306,0029700525,76ERS Timeout: Regular (Full 3 Short 1),,6:41,3,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,1:00 PM
+289,2,6,307,0029700525,,,6:35,3,5,0,1,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Pippen S.FOUL (P3.T4),1:03 PM
+290,11,3,308,0029700525,Iverson Free Throw 1 of 2 (22 PTS),,6:35,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,59 - 64,5,,1:03 PM
+291,12,3,309,0029700525,MISS Iverson Free Throw 2 of 2,,6:35,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:03 PM
+292,0,4,396,0029700525,,,6:35,3,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley REBOUND (Off:1 Def:4),1:03 PM
+293,0,8,310,0029700525,,,6:35,3,5,5,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Brown FOR Harper,1:03 PM
+294,5,1,313,0029700525,,,6:18,3,5,5,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,61 - 64,3,Brown 4' Layup (3 PTS) (Jordan 3 AST),1:03 PM
+295,5,2,314,0029700525,MISS Jackson  Layup,,6:03,3,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:04 PM
+296,0,4,316,0029700525,Jackson REBOUND (Off:2 Def:3),,6:01,3,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:04 PM
+297,5,1,315,0029700525,Jackson  Layup (7 PTS),,6:01,3,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,61 - 66,5,,1:04 PM
+298,1,2,317,0029700525,,,5:39,3,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Pippen 27' 3PT Jump Shot,1:04 PM
+299,0,4,318,0029700525,76ERS Rebound,,5:38,3,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,1:04 PM
+300,3,6,319,0029700525,,,5:38,3,5,0,1,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley L.B.FOUL (P4.PN),1:04 PM
+301,0,8,320,0029700525,SUB: Thomas FOR Davis,,5:38,3,4,4,0,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,1:04 PM
+302,11,3,321,0029700525,Ratliff Free Throw 1 of 2 (9 PTS),,5:38,3,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,61 - 67,6,,1:05 PM
+303,12,3,322,0029700525,MISS Ratliff Free Throw 2 of 2,,5:38,3,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:05 PM
+304,0,8,323,0029700525,,,5:38,3,5,5,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kukoc FOR Longley,1:05 PM
+305,0,4,324,0029700525,,,5:38,3,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc REBOUND (Off:2 Def:2),1:05 PM
+306,1,1,325,0029700525,,,5:25,3,5,5,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,63 - 67,4,Jordan 15' Jump Shot (17 PTS) (Pippen 5 AST),1:06 PM
+307,1,2,326,0029700525,MISS Jackson 27' 3PT Jump Shot,,5:00,3,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:06 PM
+308,0,4,327,0029700525,76ERS Rebound,,5:00,3,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,1:06 PM
+309,3,6,328,0029700525,,,5:00,3,5,0,1,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc L.B.FOUL (P2.PN),1:06 PM
+310,11,3,329,0029700525,Ratliff Free Throw 1 of 2 (10 PTS),,5:00,3,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,63 - 68,5,,1:06 PM
+311,0,8,330,0029700525,SUB: Weatherspoon FOR Coleman,,5:00,3,4,4,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,1:07 PM
+312,12,3,331,0029700525,MISS Ratliff Free Throw 2 of 2,,5:00,3,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:07 PM
+313,0,4,332,0029700525,,,4:58,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:9 Def:8),1:07 PM
+314,1,2,333,0029700525,,,4:46,3,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kukoc 19' Jump Shot,1:07 PM
+315,0,4,334,0029700525,,,4:44,3,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Pippen REBOUND (Off:2 Def:2),1:07 PM
+316,1,2,335,0029700525,,,4:28,3,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Pippen 12' Jump Shot,1:07 PM
+317,0,4,336,0029700525,Iverson REBOUND (Off:0 Def:2),,4:26,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:08 PM
+318,1,2,337,0029700525,MISS Jackson  3PT Jump Shot,,4:21,3,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:08 PM
+319,0,4,338,0029700525,,,4:18,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:9 Def:9),1:08 PM
+320,1,2,339,0029700525,,,3:59,3,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kukoc 21' Jump Shot,1:08 PM
+321,0,4,340,0029700525,Iverson REBOUND (Off:0 Def:3),,3:56,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:08 PM
+322,1,1,341,0029700525,Thomas 27' 3PT Jump Shot (12 PTS) (Iverson 4 AST),,3:43,3,4,4,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,63 - 71,8,,1:08 PM
+323,1,5,342,0029700525,Iverson STEAL (2 STL),,3:24,3,5,4,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Kukoc Bad Pass Turnover (P3.T10),1:09 PM
+324,2,5,343,0029700525,Thomas Lost Ball Turnover (P1.T9),,3:22,3,4,0,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:09 PM
+325,0,8,344,0029700525,SUB: Coleman FOR Ratliff,,3:22,3,4,4,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,1:09 PM
+326,4,5,345,0029700525,,,3:07,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan Traveling Turnover (P2.T11),1:09 PM
+327,1,2,346,0029700525,MISS Iverson 17' Jump Shot,,2:57,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:10 PM
+328,0,4,347,0029700525,,,2:56,3,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,1:10 PM
+329,3,6,348,0029700525,Weatherspoon L.B.FOUL (P2.T1),,2:56,3,4,0,1,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:10 PM
+330,1,9,349,0029700525,,,2:56,3,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.3 Short 0),1:10 PM
+331,0,8,358,0029700525,,,2:56,3,5,5,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,170,Joe Kleine,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kleine FOR Pippen,1:10 PM
+332,2,6,350,0029700525,Thomas S.FOUL (P3.T2),,2:44,3,4,0,1,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:12 PM
+333,11,3,351,0029700525,,,2:44,3,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,64 - 71,7,Kukoc Free Throw 1 of 2 (3 PTS),1:13 PM
+334,12,3,352,0029700525,,,2:44,3,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kukoc Free Throw 2 of 2,1:13 PM
+335,0,4,353,0029700525,Coleman REBOUND (Off:2 Def:5),,2:43,3,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:13 PM
+336,1,1,354,0029700525,Coleman 9' Jump Shot (13 PTS),,2:21,3,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,64 - 73,9,,1:13 PM
+337,4,5,355,0029700525,,,2:01,3,5,0,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Brown Traveling Turnover (P1.T12),1:14 PM
+338,2,6,356,0029700525,,,1:44,3,5,0,1,170,Joe Kleine,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kleine S.FOUL (P1.PN),1:14 PM
+339,11,3,357,0029700525,Coleman Free Throw 1 of 2 (14 PTS),,1:44,3,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,64 - 74,10,,1:14 PM
+340,12,3,359,0029700525,MISS Coleman Free Throw 2 of 2,,1:44,3,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:15 PM
+341,0,4,360,0029700525,,,1:42,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:9 Def:10),1:15 PM
+342,1,5,361,0029700525,Weatherspoon STEAL (1 STL),,1:34,3,5,4,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Kukoc Bad Pass Turnover (P4.T13),1:15 PM
+343,1,2,362,0029700525,MISS Coleman 27' 3PT Jump Shot,,1:22,3,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:15 PM
+344,0,4,363,0029700525,,,1:19,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:2 Def:7),1:15 PM
+345,8,5,364,0029700525,,,1:08,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman 3 Second Violation Turnover (P3.T14),1:16 PM
+346,11,6,365,0029700525,,,1:04,3,7,0,1,1219,,,,,,0,,,,,,0,,,,,,,,,1:16 PM
+347,16,3,366,0029700525,Jackson Free Throw Technical (8 PTS),,1:04,3,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,64 - 75,11,,1:16 PM
+348,1,1,367,0029700525,Weatherspoon 10' Jump Shot (7 PTS) (Iverson 5 AST),,0:51,3,4,4,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,64 - 77,13,,1:17 PM
+349,1,6,368,0029700525,Jackson P.FOUL (P2.T3),,0:38,3,4,0,1,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:17 PM
+350,0,8,369,0029700525,,,0:38,3,5,5,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kerr FOR Brown,1:17 PM
+351,1,2,370,0029700525,,,0:28,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 15' Jump Shot,1:18 PM
+352,0,4,371,0029700525,,,0:26,3,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,1:18 PM
+353,0,8,372,0029700525,SUB: McKie FOR Iverson,,0:26,3,4,4,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,1:18 PM
+354,1,1,373,0029700525,,,0:22,3,5,5,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,67 - 77,10,Kukoc  3PT Jump Shot (6 PTS) (Rodman 2 AST),1:18 PM
+355,2,6,374,0029700525,,,0:02,3,5,0,1,170,Joe Kleine,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kleine S.FOUL (P2.PN),1:19 PM
+356,11,3,375,0029700525,Jackson Free Throw 1 of 2 (9 PTS),,0:02,3,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,67 - 78,11,,1:19 PM
+357,12,3,376,0029700525,Jackson Free Throw 2 of 2 (10 PTS),,0:02,3,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,67 - 79,12,,1:19 PM
+358,1,2,377,0029700525,,,0:00,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 17' Jump Shot,1:20 PM
+359,0,4,378,0029700525,,,0:00,3,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc REBOUND (Off:3 Def:2),1:20 PM
+360,0,13,379,0029700525,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,67 - 79,12,,1:20 PM
+361,0,12,380,0029700525,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,67 - 79,12,,1:22 PM
+362,1,1,381,0029700525,,,11:39,4,5,5,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,69 - 79,10,Kerr 18' Jump Shot (6 PTS) (Burrell 1 AST),1:23 PM
+363,2,5,382,0029700525,Coleman Lost Ball Turnover (P2.T10),,11:18,4,4,5,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Burrell STEAL (1 STL),1:23 PM
+364,6,1,383,0029700525,,,11:15,4,5,5,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,71 - 79,8,Harper  Driving Layup (4 PTS) (Burrell 2 AST),1:23 PM
+365,2,6,384,0029700525,Thomas S.FOUL (P4.T1),,11:15,4,4,0,1,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:23 PM
+366,10,3,385,0029700525,,,11:15,4,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,72 - 79,7,Harper Free Throw 1 of 1 (5 PTS),1:24 PM
+367,1,2,386,0029700525,MISS Iverson 26' 3PT Jump Shot,,10:58,4,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:24 PM
+368,0,4,387,0029700525,,,10:55,4,5,0,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kerr REBOUND (Off:0 Def:2),1:24 PM
+369,7,1,388,0029700525,,,10:47,4,5,5,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,74 - 79,5,Burrell  Dunk (2 PTS) (Kerr 2 AST),1:25 PM
+370,1,9,389,0029700525,76ERS Timeout: Regular (Full 4 Short 1),,10:46,4,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,1:25 PM
+371,11,5,390,0029700525,76ERS Turnover: Shot Clock (T#11),,10:22,4,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,1:27 PM
+372,2,6,391,0029700525,McKie S.FOUL (P1.T2),,10:03,4,4,0,1,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:27 PM
+373,11,3,392,0029700525,,,10:03,4,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,75 - 79,4,Harper Free Throw 1 of 2 (6 PTS),1:28 PM
+374,12,3,394,0029700525,,,10:03,4,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,76 - 79,3,Harper Free Throw 2 of 2 (7 PTS),1:28 PM
+375,1,2,397,0029700525,MISS Thomas 27' 3PT Jump Shot,,9:45,4,4,0,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:29 PM
+376,0,4,405,0029700525,Coleman REBOUND (Off:3 Def:5),,9:45,4,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:29 PM
+377,4,2,398,0029700525,MISS Coleman  Tip Shot,,9:42,4,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:29 PM
+378,0,4,400,0029700525,Coleman REBOUND (Off:4 Def:5),,9:40,4,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:29 PM
+379,7,1,399,0029700525,Coleman  Dunk (16 PTS),,9:40,4,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,76 - 81,5,,1:29 PM
+380,1,2,401,0029700525,Coleman BLOCK (3 BLK),,9:14,4,5,0,4,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,,,MISS Kerr 11' Jump Shot,1:29 PM
+381,0,4,403,0029700525,,,9:13,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,1:29 PM
+382,11,5,406,0029700525,,,9:13,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Turnover: Shot Clock (T#15),1:29 PM
+383,0,8,408,0029700525,SUB: Jackson FOR Thomas,,9:13,4,4,4,0,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,1:30 PM
+384,0,8,411,0029700525,,,9:13,4,5,5,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Jordan FOR Kerr,1:31 PM
+385,1,9,412,0029700525,,,9:13,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.4 Short 0),1:31 PM
+386,1,2,413,0029700525,MISS Jackson 11' Jump Shot,,8:55,4,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:32 PM
+387,0,4,414,0029700525,,,8:52,4,5,0,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Burrell REBOUND (Off:0 Def:1),1:32 PM
+388,1,5,415,0029700525,Coleman STEAL (2 STL),,8:49,4,5,4,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Burrell Bad Pass Turnover (P1.T16),1:32 PM
+389,1,2,416,0029700525,MISS McKie 4' Jump Shot,,8:27,4,4,0,5,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,,,Pippen BLOCK (2 BLK),1:32 PM
+390,0,4,417,0029700525,Weatherspoon REBOUND (Off:3 Def:0),,8:26,4,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:32 PM
+391,2,6,418,0029700525,,,8:26,4,5,0,1,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Pippen S.FOUL (P4.T1),1:32 PM
+392,11,3,419,0029700525,Weatherspoon Free Throw 1 of 2 (8 PTS),,8:26,4,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,76 - 82,6,,1:32 PM
+393,12,3,420,0029700525,Weatherspoon Free Throw 2 of 2 (9 PTS),,8:26,4,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,76 - 83,7,,1:33 PM
+394,1,6,421,0029700525,Jackson P.FOUL (P3.T3),,8:17,4,4,0,1,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:33 PM
+395,1,2,422,0029700525,,,8:09,4,5,0,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Burrell 28' 3PT Jump Shot,1:33 PM
+396,0,4,423,0029700525,,,8:05,4,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:10 Def:10),1:33 PM
+397,1,5,424,0029700525,Jackson STEAL (2 STL),,7:58,4,5,4,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Jordan Bad Pass Turnover (P3.T17),1:34 PM
+398,1,2,521,0029700525,MISS Iverson 18' Jump Shot,,7:56,4,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:34 PM
+399,0,4,524,0029700525,,,7:56,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,1:34 PM
+400,1,2,427,0029700525,,,7:33,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 14' Jump Shot,1:34 PM
+401,0,4,428,0029700525,Coleman REBOUND (Off:4 Def:6),,7:31,4,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:34 PM
+402,2,6,429,0029700525,,,7:28,4,5,0,1,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Harper S.FOUL (P5.T2),1:34 PM
+403,11,3,430,0029700525,Weatherspoon Free Throw 1 of 2 (10 PTS),,7:28,4,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,76 - 84,8,,1:34 PM
+404,0,8,431,0029700525,SUB: Ratliff FOR Coleman,,7:28,4,4,4,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,1:35 PM
+405,0,8,432,0029700525,,,7:28,4,5,5,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Longley FOR Burrell,1:35 PM
+406,12,3,433,0029700525,Weatherspoon Free Throw 2 of 2 (11 PTS),,7:28,4,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,76 - 85,9,,1:35 PM
+407,1,1,434,0029700525,,,7:12,4,5,5,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,78 - 85,7,Pippen 16' Jump Shot (22 PTS) (Jordan 4 AST),1:35 PM
+408,2,6,435,0029700525,,,6:59,4,5,0,1,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley S.FOUL (P5.T3),1:36 PM
+409,11,3,436,0029700525,MISS Ratliff Free Throw 1 of 2,,6:59,4,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:36 PM
+410,0,4,438,0029700525,76ERS Rebound,,6:59,4,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,1:36 PM
+411,0,8,437,0029700525,,,6:59,4,5,5,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Brown FOR Harper,1:36 PM
+412,12,3,439,0029700525,MISS Ratliff Free Throw 2 of 2,,6:59,4,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:36 PM
+413,0,4,440,0029700525,Ratliff REBOUND (Off:4 Def:3),,6:54,4,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:37 PM
+414,2,6,441,0029700525,,,6:54,4,5,0,1,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley S.FOUL (P6.T4),1:37 PM
+415,11,3,442,0029700525,Weatherspoon Free Throw 1 of 2 (12 PTS),,6:54,4,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,78 - 86,8,,1:37 PM
+416,0,8,443,0029700525,,,6:54,4,5,5,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Caffey FOR Longley,1:37 PM
+417,12,3,444,0029700525,Weatherspoon Free Throw 2 of 2 (13 PTS),,6:54,4,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,78 - 87,9,,1:37 PM
+418,1,5,445,0029700525,Iverson STEAL (3 STL),,6:41,4,5,4,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Jordan Bad Pass Turnover (P4.T18),1:38 PM
+419,2,5,446,0029700525,Iverson Lost Ball Turnover (P2.T12),,6:37,4,4,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Brown STEAL (2 STL),1:38 PM
+420,1,6,447,0029700525,Iverson P.FOUL (P4.T4),,6:37,4,4,0,1,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:38 PM
+421,1,2,448,0029700525,,,6:19,4,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Pippen 27' 3PT Jump Shot,1:39 PM
+422,0,4,449,0029700525,Jackson REBOUND (Off:2 Def:4),,6:16,4,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:39 PM
+423,6,1,450,0029700525,Iverson  Driving Layup (24 PTS),,6:04,4,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,78 - 89,11,,1:39 PM
+424,1,2,451,0029700525,Weatherspoon BLOCK (1 BLK),,5:51,4,5,0,4,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,,,MISS Brown 14' Jump Shot,1:39 PM
+425,0,4,452,0029700525,76ERS Rebound,,5:50,4,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,1:39 PM
+426,3,6,453,0029700525,,,5:50,4,5,0,1,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman L.B.FOUL (P2.PN),1:39 PM
+427,11,3,454,0029700525,Iverson Free Throw 1 of 2 (25 PTS),,5:50,4,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,78 - 90,12,,1:40 PM
+428,12,3,455,0029700525,Iverson Free Throw 2 of 2 (26 PTS),,5:50,4,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,78 - 91,13,,1:40 PM
+429,1,6,456,0029700525,Ratliff P.FOUL (P2.PN),,5:37,4,4,0,1,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:40 PM
+430,11,3,457,0029700525,,,5:37,4,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,79 - 91,12,Caffey Free Throw 1 of 2 (1 PTS),1:40 PM
+431,12,3,458,0029700525,,,5:37,4,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,80 - 91,11,Caffey Free Throw 2 of 2 (2 PTS),1:41 PM
+432,1,1,459,0029700525,Ratliff 5' Jump Shot (12 PTS) (Iverson 6 AST),,5:20,4,4,4,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,80 - 93,13,,1:41 PM
+433,2,5,460,0029700525,,,4:57,4,5,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Pippen Lost Ball Turnover (P3.T19),1:42 PM
+434,1,6,461,0029700525,,,4:45,4,5,0,1,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey P.FOUL (P1.PN),1:42 PM
+435,11,3,462,0029700525,Weatherspoon Free Throw 1 of 2 (14 PTS),,4:45,4,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,80 - 94,14,,1:42 PM
+436,12,3,463,0029700525,Weatherspoon Free Throw 2 of 2 (15 PTS),,4:45,4,4,0,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,80 - 95,15,,1:43 PM
+437,0,8,464,0029700525,,,4:45,4,5,5,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,146,Jud Buechler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Buechler FOR Brown,1:43 PM
+438,2,5,467,0029700525,McKie STEAL (1 STL),,4:35,4,5,4,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Pippen Lost Ball Turnover (P4.T20),1:44 PM
+439,6,1,468,0029700525,Iverson  Driving Layup (28 PTS),,4:15,4,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,80 - 97,17,,1:44 PM
+440,1,1,469,0029700525,,,4:03,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,82 - 97,15,Jordan 10' Jump Shot (19 PTS),1:44 PM
+441,2,6,470,0029700525,Weatherspoon S.FOUL (P3.PN),,4:03,4,4,0,1,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:44 PM
+442,10,3,471,0029700525,,,4:03,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,83 - 97,14,Jordan Free Throw 1 of 1 (20 PTS),1:44 PM
+443,0,8,472,0029700525,,,4:03,4,5,5,0,146,Jud Buechler,CHI,Chicago,1610612741.0,Bulls,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Brown FOR Buechler,1:44 PM
+444,1,6,474,0029700525,,,3:53,4,5,0,1,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey P.FOUL (P2.PN),1:45 PM
+445,11,3,476,0029700525,Iverson Free Throw 1 of 2 (29 PTS),,3:53,4,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,83 - 98,15,,1:45 PM
+446,0,8,478,0029700525,,,3:53,4,5,5,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,146,Jud Buechler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Buechler FOR Brown,1:45 PM
+447,0,8,479,0029700525,SUB: Coleman FOR Weatherspoon,,3:53,4,4,4,0,221,Clar. Weatherspoon,PHI,Philadelphia,1610612755.0,76ers,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,1:45 PM
+448,12,3,480,0029700525,Iverson Free Throw 2 of 2 (30 PTS),,3:53,4,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,83 - 99,16,,1:45 PM
+449,1,2,482,0029700525,,,3:40,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 16' Jump Shot,1:46 PM
+450,0,4,483,0029700525,Ratliff REBOUND (Off:4 Def:4),,3:37,4,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:46 PM
+451,1,6,484,0029700525,,,3:23,4,5,0,1,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Pippen P.FOUL (P5.PN),1:46 PM
+452,11,3,485,0029700525,Iverson Free Throw 1 of 2 (31 PTS),,3:23,4,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,83 - 100,17,,1:46 PM
+453,0,8,486,0029700525,,,3:23,4,5,5,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Brown FOR Pippen,1:47 PM
+454,12,3,487,0029700525,MISS Iverson Free Throw 2 of 2,,3:23,4,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:47 PM
+455,0,4,488,0029700525,,,3:21,4,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey REBOUND (Off:0 Def:1),1:47 PM
+456,1,2,489,0029700525,,,3:07,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 13' Jump Shot,1:47 PM
+457,0,4,491,0029700525,,,3:04,4,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey REBOUND (Off:1 Def:1),1:47 PM
+458,4,1,490,0029700525,,,3:04,4,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,85 - 100,15,Caffey  Tip Shot (4 PTS),1:47 PM
+459,1,1,492,0029700525,Coleman 12' Jump Shot (18 PTS),,2:39,4,4,0,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,85 - 102,17,,1:48 PM
+460,5,1,494,0029700525,,,2:27,4,5,5,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,87 - 102,15,Caffey  Layup (6 PTS) (Brown 2 AST),1:48 PM
+461,5,1,495,0029700525,Jackson  Layup (12 PTS) (Ratliff 2 AST),,2:03,4,4,4,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,87 - 104,17,,1:48 PM
+462,2,6,496,0029700525,,,2:03,4,5,0,1,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman S.FOUL (P3.PN),1:48 PM
+463,10,3,497,0029700525,MISS Jackson Free Throw 1 of 1,,2:03,4,4,0,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:49 PM
+464,0,8,498,0029700525,,,2:03,4,5,5,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kukoc FOR Rodman,1:49 PM
+465,0,8,499,0029700525,,,2:03,4,5,5,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Burrell FOR Jordan,1:49 PM
+466,0,4,501,0029700525,,,2:02,4,5,0,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Burrell REBOUND (Off:0 Def:2),1:49 PM
+467,1,5,502,0029700525,Coleman STEAL (3 STL),,1:56,4,5,4,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Caffey Bad Pass Turnover (P1.T21),1:49 PM
+468,7,1,503,0029700525,Jackson  Dunk (14 PTS) (Coleman 3 AST),,1:56,4,4,4,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,87 - 106,19,,1:49 PM
+469,1,1,504,0029700525,,,1:43,4,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,89 - 106,17,Caffey 14' Jump Shot (8 PTS),1:49 PM
+470,15,5,505,0029700525,Ratliff Offensive Goaltending Turnover (P2.T13),,1:22,4,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:50 PM
+471,0,8,506,0029700525,SUB: Walters FOR Coleman,,1:22,4,4,4,0,934,Derrick Coleman,PHI,Philadelphia,1610612755.0,76ers,777,Rex Walters,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,1:50 PM
+472,0,8,507,0029700525,SUB: Thomas FOR Jackson,,1:22,4,4,4,0,754,Jim Jackson,PHI,Philadelphia,1610612755.0,76ers,1501,Tim Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,1:50 PM
+473,0,8,508,0029700525,SUB: Davis FOR Iverson,,1:22,4,4,4,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,707,Mark Davis,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,1:50 PM
+474,0,8,509,0029700525,SUB: Parker FOR McKie,,1:22,4,4,4,0,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,1515,Anthony Parker,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,1:50 PM
+475,1,1,511,0029700525,,,1:11,4,5,5,0,146,Jud Buechler,CHI,Chicago,1610612741.0,Bulls,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,92 - 106,14,Buechler 28' 3PT Jump Shot (3 PTS) (Caffey 1 AST),1:51 PM
+476,7,2,512,0029700525,MISS Ratliff  Dunk,,0:47,4,4,0,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,1:51 PM
+477,0,4,513,0029700525,,,0:45,4,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc REBOUND (Off:3 Def:3),1:51 PM
+478,1,1,514,0029700525,,,0:40,4,5,5,0,146,Jud Buechler,CHI,Chicago,1610612741.0,Bulls,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,94 - 106,12,Buechler 19' Jump Shot (5 PTS) (Burrell 3 AST),1:51 PM
+479,0,8,515,0029700525,SUB: McKie FOR Ratliff,,0:20,4,4,4,0,689,Theo Ratliff,PHI,Philadelphia,1610612755.0,76ers,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,1:52 PM
+480,11,5,516,0029700525,76ERS Turnover: Shot Clock (T#14),,0:15,4,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,1:52 PM
+481,8,1,517,0029700525,,,0:11,4,5,0,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,96 - 106,10,Burrell  Slam Dunk (4 PTS),1:52 PM
+482,0,13,518,0029700525,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,96 - 106,10,,1:53 PM

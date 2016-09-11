@@ -1,0 +1,476 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,1,0029700032,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:41 AM
+1,0,10,2,0029700032,Jump Ball Ewing vs. Knight: Tip to,,12:00,1,4,5,3,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,1610612738,,,,,,,,,11:42 AM
+2,1,1,3,0029700032,,,11:45,1,5,5,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,2 - 0,-2,Knight 15' Jump Shot (2 PTS) (McCarty 1 AST),11:42 AM
+3,5,2,4,0029700032,MISS Ewing  Layup,,11:29,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:43 AM
+4,0,4,6,0029700032,Ewing REBOUND (Off:1 Def:0),,11:27,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:43 AM
+5,4,2,5,0029700032,MISS Ewing  Tip Shot,,11:27,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:43 AM
+6,0,4,7,0029700032,,,11:26,1,5,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Billups REBOUND (Off:0 Def:1),11:43 AM
+7,1,5,8,0029700032,,,11:23,1,5,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Billups Bad Pass Turnover (P1.T1),11:43 AM
+8,5,1,10,0029700032,Oakley  Layup (2 PTS),,11:08,1,4,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,2 - 2,TIE,,11:43 AM
+9,2,6,11,0029700032,,,11:08,1,5,0,1,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty S.FOUL (P1.T1),11:43 AM
+10,10,3,12,0029700032,Oakley Free Throw 1 of 1 (3 PTS),,11:08,1,4,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,2 - 3,1,,11:43 AM
+11,1,5,13,0029700032,Ward STEAL (1 STL),,11:02,1,5,4,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Billups Bad Pass Turnover (P2.T2),11:44 AM
+12,1,1,14,0029700032,Ewing 11' Jump Shot (2 PTS) (Oakley 1 AST),,10:48,1,4,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,2 - 5,3,,11:44 AM
+13,1,1,15,0029700032,,,10:37,1,5,5,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,5 - 5,TIE,Knight 24' 3PT Jump Shot (5 PTS) (Walker 1 AST),11:44 AM
+14,1,2,16,0029700032,MISS Houston 11' Jump Shot,,10:15,1,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:45 AM
+15,0,4,17,0029700032,,,10:13,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:0 Def:1),11:45 AM
+16,4,5,18,0029700032,,,10:10,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty Traveling Turnover (P1.T3),11:45 AM
+17,1,2,19,0029700032,MISS Johnson 26' 3PT Jump Shot,,9:57,1,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:45 AM
+18,0,4,20,0029700032,,,9:55,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:0 Def:2),11:45 AM
+19,1,1,21,0029700032,,,9:45,1,5,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,7 - 5,-2,Mercer 7' Jump Shot (2 PTS),11:45 AM
+20,1,5,22,0029700032,Ewing Bad Pass Turnover (P1.T1),,9:31,1,4,5,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Walker STEAL (1 STL),11:46 AM
+21,1,6,23,0029700032,Johnson P.FOUL (P1.T1),,9:29,1,4,0,1,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:46 AM
+22,1,1,24,0029700032,,,9:18,1,5,5,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,9 - 5,-4,Mercer 15' Jump Shot (4 PTS) (Billups 1 AST),11:46 AM
+23,2,6,25,0029700032,,,8:58,1,5,0,1,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Knight S.FOUL (P1.T2),11:47 AM
+24,11,3,26,0029700032,Ewing Free Throw 1 of 2 (3 PTS),,8:58,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,9 - 6,-3,,11:47 AM
+25,12,3,27,0029700032,Ewing Free Throw 2 of 2 (4 PTS),,8:58,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,9 - 7,-2,,11:47 AM
+26,1,1,29,0029700032,,,8:42,1,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,12 - 7,-5,Walker 25' 3PT Jump Shot (3 PTS) (Billups 2 AST),11:47 AM
+27,1,2,30,0029700032,MISS Houston 20' Jump Shot,,8:21,1,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:48 AM
+28,0,4,31,0029700032,,,8:19,1,5,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Billups REBOUND (Off:0 Def:2),11:48 AM
+29,1,2,32,0029700032,,,8:12,1,5,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Knight 25' 3PT Jump Shot,11:48 AM
+30,0,4,34,0029700032,,,8:12,1,5,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Mercer REBOUND (Off:1 Def:0),11:48 AM
+31,4,2,36,0029700032,,,8:12,1,5,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Mercer  Tip Shot,11:48 AM
+32,0,4,33,0029700032,Ward REBOUND (Off:0 Def:1),,8:10,1,4,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:48 AM
+33,1,6,35,0029700032,,,7:59,1,5,0,1,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Billups P.FOUL (P1.T3),11:48 AM
+34,1,6,37,0029700032,,,7:53,1,5,0,1,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Knight P.FOUL (P2.T4),11:49 AM
+35,0,8,39,0029700032,,,7:53,1,5,5,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Ellison FOR Knight,11:49 AM
+36,1,1,40,0029700032,Ewing 10' Jump Shot (6 PTS) (Ward 1 AST),,7:45,1,4,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,12 - 9,-3,,11:49 AM
+37,1,6,42,0029700032,Oakley P.FOUL (P1.T2),,7:36,1,4,0,1,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:49 AM
+38,2,6,43,0029700032,Houston S.FOUL (P1.T3),,7:21,1,4,0,1,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:50 AM
+39,11,3,44,0029700032,,,7:21,1,5,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Mercer Free Throw 1 of 2,11:50 AM
+40,0,4,45,0029700032,,,7:21,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,11:50 AM
+41,12,3,46,0029700032,,,7:21,1,5,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,13 - 9,-4,Mercer Free Throw 2 of 2 (5 PTS),11:50 AM
+42,1,1,47,0029700032,Houston 19' Jump Shot (2 PTS) (Oakley 2 AST),,7:08,1,4,4,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,13 - 11,-2,,11:51 AM
+43,1,2,48,0029700032,Ward BLOCK (1 BLK),,6:52,1,5,0,4,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,,,MISS Billups 13' Jump Shot,11:51 AM
+44,0,4,49,0029700032,Ewing REBOUND (Off:1 Def:1),,6:49,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:51 AM
+45,1,2,50,0029700032,MISS Oakley 13' Jump Shot,,6:46,1,4,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:51 AM
+46,0,4,51,0029700032,,,6:43,1,5,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Mercer REBOUND (Off:1 Def:1),11:51 AM
+47,1,2,52,0029700032,,,6:33,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 25' 3PT Jump Shot,11:51 AM
+48,0,4,53,0029700032,Houston REBOUND (Off:0 Def:1),,6:31,1,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:51 AM
+49,1,2,54,0029700032,MISS Houston 25' 3PT Jump Shot,,6:22,1,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:51 AM
+50,0,4,55,0029700032,,,6:20,1,5,0,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Ellison REBOUND (Off:0 Def:1),11:51 AM
+51,1,2,56,0029700032,,,6:15,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 12' Jump Shot,11:52 AM
+52,0,4,57,0029700032,Oakley REBOUND (Off:0 Def:1),,6:13,1,4,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:52 AM
+53,1,9,58,0029700032,KNICKS Timeout: Regular (Full 1 Short 0),,6:08,1,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,11:52 AM
+54,0,8,60,0029700032,,,6:08,1,5,5,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Barros FOR Billups,11:54 AM
+55,1,1,61,0029700032,Houston 17' Jump Shot (4 PTS) (Oakley 3 AST),,6:01,1,4,4,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,13 - 13,TIE,,11:54 AM
+56,1,5,62,0029700032,Ward STEAL (2 STL),,5:53,1,5,4,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Barros Bad Pass Turnover (P1.T4),11:54 AM
+57,5,1,63,0029700032,Oakley  Layup (5 PTS) (Ward 2 AST),,5:49,1,4,4,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,13 - 15,2,,11:54 AM
+58,1,6,64,0029700032,Ward P.FOUL (P1.T4),,5:27,1,4,0,1,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:55 AM
+59,0,8,65,0029700032,,,5:27,1,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Bowen FOR McCarty,11:55 AM
+60,4,5,66,0029700032,,,5:25,1,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Barros Traveling Turnover (P2.T5),11:55 AM
+61,1,2,67,0029700032,MISS Ewing 13' Jump Shot,,5:06,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:56 AM
+62,0,4,68,0029700032,,,5:04,1,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Barros REBOUND (Off:0 Def:1),11:56 AM
+63,2,6,69,0029700032,Ewing S.FOUL (P1.PN),,4:54,1,4,0,1,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:56 AM
+64,11,3,70,0029700032,,,4:54,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker Free Throw 1 of 2,11:56 AM
+65,0,4,71,0029700032,,,4:54,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,11:56 AM
+66,12,3,72,0029700032,,,4:54,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,14 - 15,1,Walker Free Throw 2 of 2 (4 PTS),11:57 AM
+67,1,1,73,0029700032,Ewing 6' Jump Shot (8 PTS),,4:35,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,14 - 17,3,,11:57 AM
+68,1,2,74,0029700032,,,4:15,1,5,0,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Ellison 10' Jump Shot,11:58 AM
+69,0,4,75,0029700032,Oakley REBOUND (Off:0 Def:2),,4:13,1,4,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:58 AM
+70,1,5,76,0029700032,Ewing Bad Pass Turnover (P2.T2),,4:03,1,4,5,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Ellison STEAL (1 STL),11:58 AM
+71,1,6,77,0029700032,Oakley P.FOUL (P2.PN),,3:55,1,4,0,1,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:58 AM
+72,0,8,78,0029700032,SUB: Childs FOR Ward,,3:55,1,4,4,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,11:58 AM
+73,11,3,79,0029700032,,,3:55,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,15 - 17,2,Walker Free Throw 1 of 2 (5 PTS),11:58 AM
+74,0,8,80,0029700032,SUB: Williams FOR Oakley,,3:55,1,4,4,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,11:59 AM
+75,0,8,81,0029700032,,,3:55,1,5,5,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Brown FOR Mercer,11:59 AM
+76,12,3,82,0029700032,,,3:55,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,16 - 17,1,Walker Free Throw 2 of 2 (6 PTS),11:59 AM
+77,8,5,84,0029700032,Williams 3 Second Violation Turnover (P1.T3),,3:41,1,4,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:59 AM
+78,1,2,85,0029700032,,,3:29,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 15' Jump Shot,12:00 PM
+79,0,4,86,0029700032,Ewing REBOUND (Off:1 Def:2),,3:27,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:00 PM
+80,1,2,87,0029700032,MISS Ewing 9' Jump Shot,,3:16,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:00 PM
+81,0,4,88,0029700032,,,3:14,1,5,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Brown REBOUND (Off:0 Def:1),12:00 PM
+82,1,2,89,0029700032,Williams BLOCK (1 BLK),,3:06,1,5,0,4,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,433,Buck Williams,NYK,New York,1610612752.0,Knicks,,,MISS Walker 10' Jump Shot,12:00 PM
+83,0,4,90,0029700032,Williams REBOUND (Off:0 Def:1),,3:03,1,4,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:00 PM
+84,2,6,91,0029700032,,,2:59,1,5,0,1,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Ellison S.FOUL (P1.PN),12:00 PM
+85,1,9,92,0029700032,,,2:59,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.1 Short 0),12:00 PM
+86,0,8,94,0029700032,,,2:59,1,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: McCarty FOR Walker,12:02 PM
+87,11,3,95,0029700032,Ewing Free Throw 1 of 2 (9 PTS),,2:59,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,16 - 18,2,,12:02 PM
+88,4,7,97,0029700032,,,2:59,1,5,0,1,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Ellison Violation:Jump Ball,12:03 PM
+89,12,3,98,0029700032,MISS Ewing Free Throw 2 of 2,,2:59,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:03 PM
+90,0,4,99,0029700032,,,2:59,1,5,0,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Ellison REBOUND (Off:0 Def:2),12:03 PM
+91,1,2,100,0029700032,,,2:43,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 20' Jump Shot,12:03 PM
+92,0,4,101,0029700032,Ewing REBOUND (Off:1 Def:3),,2:41,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:03 PM
+93,1,6,102,0029700032,,,2:30,1,5,0,1,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Ellison P.FOUL (P2.PN),12:04 PM
+94,11,3,103,0029700032,Ewing Free Throw 1 of 2 (10 PTS),,2:30,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,16 - 19,3,,12:04 PM
+95,0,8,104,0029700032,SUB: Starks FOR Houston,,2:30,1,4,4,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:04 PM
+96,0,8,105,0029700032,,,2:30,1,5,5,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: DeClercq FOR Ellison,12:04 PM
+97,12,3,106,0029700032,Ewing Free Throw 2 of 2 (11 PTS),,2:30,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,16 - 20,4,,12:04 PM
+98,1,1,107,0029700032,,,2:18,1,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,18 - 20,2,McCarty 9' Jump Shot (2 PTS) (Barros 1 AST),12:05 PM
+99,0,8,108,0029700032,SUB: Dudley FOR Ewing,,2:05,1,4,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:05 PM
+100,1,5,109,0029700032,Childs Bad Pass Turnover (P1.T4),,1:56,1,4,5,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,McCarty STEAL (1 STL),12:05 PM
+101,1,2,110,0029700032,,,1:49,1,5,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Brown 25' 3PT Jump Shot,12:05 PM
+102,0,4,111,0029700032,Dudley REBOUND (Off:0 Def:1),,1:46,1,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:05 PM
+103,2,6,112,0029700032,,,1:41,1,5,0,1,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,DeClercq S.FOUL (P1.PN),12:06 PM
+104,11,3,113,0029700032,MISS Johnson Free Throw 1 of 2,,1:41,1,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:06 PM
+105,0,4,114,0029700032,KNICKS Rebound,,1:41,1,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:06 PM
+106,12,3,115,0029700032,Johnson Free Throw 2 of 2 (1 PTS),,1:41,1,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,18 - 21,3,,12:06 PM
+107,1,5,116,0029700032,Williams STEAL (1 STL),,1:28,1,5,4,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Bowen Bad Pass Turnover (P1.T6),12:07 PM
+108,1,5,117,0029700032,Williams Bad Pass Turnover (P2.T5),,1:26,1,4,5,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Bowen STEAL (1 STL),12:07 PM
+109,1,1,118,0029700032,,,1:22,1,5,5,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,20 - 21,1,Brown 15' Jump Shot (2 PTS) (Bowen 1 AST),12:07 PM
+110,2,9,119,0029700032,KNICKS Timeout: Short (Full 1 Short 1),,1:18,1,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:07 PM
+111,0,8,120,0029700032,SUB: Mills FOR Johnson,,1:18,1,4,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:07 PM
+112,1,2,121,0029700032,MISS Mills 2' Jump Shot,,1:02,1,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:08 PM
+113,0,4,122,0029700032,,,1:00,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:0 Def:3),12:08 PM
+114,1,5,123,0029700032,,,0:56,1,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Barros Bad Pass Turnover (P3.T7),12:08 PM
+115,1,2,124,0029700032,MISS Mills 25' 3PT Jump Shot,,0:43,1,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:09 PM
+116,0,4,125,0029700032,Williams REBOUND (Off:1 Def:1),,0:40,1,4,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:09 PM
+117,1,2,126,0029700032,MISS Starks 25' 3PT Jump Shot,,0:36,1,4,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:09 PM
+118,0,4,127,0029700032,,,0:34,1,5,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Brown REBOUND (Off:0 Def:2),12:09 PM
+119,1,6,128,0029700032,Childs P.FOUL (P1.PN),,0:14,1,4,0,1,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:10 PM
+120,11,3,130,0029700032,,,0:14,1,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,21 - 21,TIE,Barros Free Throw 1 of 2 (1 PTS),12:10 PM
+121,12,3,131,0029700032,,,0:14,1,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,22 - 21,-1,Barros Free Throw 2 of 2 (2 PTS),12:10 PM
+122,8,1,132,0029700032,Dudley  Slam Dunk (2 PTS) (Mills 1 AST),,0:02,1,4,4,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,22 - 23,1,,12:10 PM
+123,0,13,133,0029700032,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,22 - 23,1,,12:11 PM
+124,0,12,135,0029700032,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,22 - 23,1,,12:13 PM
+125,1,6,136,0029700032,,,11:45,2,5,0,1,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,DeClercq P.FOUL (P2.T1),12:14 PM
+126,1,1,137,0029700032,Starks 25' 3PT Jump Shot (3 PTS) (Childs 1 AST),,11:27,2,4,4,0,317,John Starks,NYK,New York,1610612752.0,Knicks,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,22 - 26,4,,12:14 PM
+127,1,2,138,0029700032,,,11:08,2,5,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Brown 25' 3PT Jump Shot,12:15 PM
+128,0,4,139,0029700032,Williams REBOUND (Off:1 Def:2),,11:05,2,4,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:15 PM
+129,0,8,140,0029700032,,,10:59,2,5,5,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Knight FOR DeClercq,12:15 PM
+130,1,1,141,0029700032,Childs 26' 3PT Jump Shot (3 PTS),,10:46,2,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,22 - 29,7,,12:15 PM
+131,1,1,142,0029700032,,,10:31,2,5,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,24 - 29,5,Bowen 9' Jump Shot (2 PTS),12:16 PM
+132,1,2,143,0029700032,MISS Childs 4' Jump Shot,,10:04,2,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:16 PM
+133,0,4,145,0029700032,Dudley REBOUND (Off:1 Def:1),,10:02,2,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:16 PM
+134,4,1,144,0029700032,Dudley  Tip Shot (4 PTS),,10:02,2,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,24 - 31,7,,12:16 PM
+135,1,2,146,0029700032,,,9:49,2,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 10' Jump Shot,12:16 PM
+136,0,4,147,0029700032,Williams REBOUND (Off:1 Def:3),,9:47,2,4,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:16 PM
+137,1,5,148,0029700032,Williams Bad Pass Turnover (P3.T6),,9:33,2,4,5,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Barros STEAL (1 STL),12:17 PM
+138,1,1,149,0029700032,,,9:29,2,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,27 - 31,4,Barros 24' 3PT Jump Shot (5 PTS),12:17 PM
+139,1,5,150,0029700032,Childs Bad Pass Turnover (P2.T7),,9:21,2,4,5,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Bowen STEAL (2 STL),12:17 PM
+140,6,1,151,0029700032,,,9:16,2,5,5,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,29 - 31,2,Barros  Driving Layup (7 PTS) (Bowen 2 AST),12:17 PM
+141,1,9,152,0029700032,KNICKS Timeout: Regular (Full 2 Short 1),,9:16,2,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:17 PM
+142,0,8,154,0029700032,,,9:16,2,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Walker FOR McCarty,12:18 PM
+143,0,8,155,0029700032,,,9:16,2,5,5,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Jones FOR Barros,12:18 PM
+144,0,8,156,0029700032,,,9:16,2,5,5,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Billups FOR Bowen,12:18 PM
+145,0,8,157,0029700032,,,9:16,2,5,5,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Mercer FOR Brown,12:18 PM
+146,0,8,158,0029700032,SUB: Oakley FOR Williams,,9:16,2,4,4,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:19 PM
+147,4,6,159,0029700032,Dudley OFF.Foul (P1),,9:04,2,4,0,1,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:19 PM
+148,5,5,160,0029700032,Dudley Foul Turnover (P1.T8),,9:04,2,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:19 PM
+149,5,1,161,0029700032,,,8:50,2,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,31 - 31,TIE,Walker  Layup (8 PTS) (Knight 1 AST),12:19 PM
+150,1,2,162,0029700032,MISS Childs 26' 3PT Jump Shot,,8:32,2,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:19 PM
+151,0,4,163,0029700032,,,8:31,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,12:19 PM
+152,3,6,164,0029700032,Dudley L.B.FOUL (P2.T1),,8:31,2,4,0,1,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:19 PM
+153,1,2,165,0029700032,,,8:15,2,5,0,0,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Jones 19' Jump Shot,12:20 PM
+154,0,4,166,0029700032,Oakley REBOUND (Off:0 Def:3),,8:13,2,4,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:20 PM
+155,1,6,167,0029700032,,,8:13,2,5,0,1,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Mercer P.FOUL (P1.T2),12:20 PM
+156,6,1,168,0029700032,Starks  Driving Layup (5 PTS),,7:56,2,4,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,31 - 33,2,,12:20 PM
+157,1,2,169,0029700032,,,7:37,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 9' Jump Shot,12:21 PM
+158,0,4,170,0029700032,Mills REBOUND (Off:0 Def:1),,7:35,2,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:21 PM
+159,1,2,171,0029700032,MISS Mills 7' Jump Shot,,7:26,2,4,0,5,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,,,Walker BLOCK (1 BLK),12:21 PM
+160,0,4,183,0029700032,,,7:25,2,5,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Knight REBOUND (Off:0 Def:1),12:21 PM
+161,1,5,174,0029700032,Starks STEAL (1 STL),,7:24,2,5,4,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Knight Bad Pass Turnover (P1.T8),12:21 PM
+162,5,1,173,0029700032,Mills  Layup (2 PTS),,7:14,2,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,31 - 35,4,,12:21 PM
+163,1,2,175,0029700032,,,7:01,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 8' Jump Shot,12:21 PM
+164,0,4,176,0029700032,Mills REBOUND (Off:0 Def:2),,6:59,2,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:21 PM
+165,1,1,177,0029700032,Starks 24' 3PT Jump Shot (8 PTS) (Oakley 4 AST),,6:48,2,4,4,0,317,John Starks,NYK,New York,1610612752.0,Knicks,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,31 - 38,7,,12:22 PM
+166,1,2,178,0029700032,,,6:26,2,5,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Knight 14' Jump Shot,12:22 PM
+167,0,4,179,0029700032,Starks REBOUND (Off:0 Def:1),,6:24,2,4,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:22 PM
+168,4,5,180,0029700032,Dudley Traveling Turnover (P2.T9),,6:07,2,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:22 PM
+169,0,8,181,0029700032,,,6:07,2,5,5,0,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: McCarty FOR Jones,12:22 PM
+170,0,8,182,0029700032,SUB: Ewing FOR Dudley,,6:07,2,4,4,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:23 PM
+171,5,2,184,0029700032,,,5:49,2,5,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Mercer  Layup,12:23 PM
+172,0,4,186,0029700032,Oakley REBOUND (Off:0 Def:4),,5:47,2,4,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:23 PM
+173,6,1,187,0029700032,Mills  Driving Layup (4 PTS) (Starks 1 AST),,5:44,2,4,4,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,31 - 40,9,,12:23 PM
+174,1,9,188,0029700032,,,5:39,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.2 Short 0),12:24 PM
+175,1,6,190,0029700032,Mills P.FOUL (P1.T2),,5:30,2,4,0,1,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:26 PM
+176,1,2,191,0029700032,,,5:14,2,5,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Knight 20' Jump Shot,12:26 PM
+177,0,4,192,0029700032,Childs REBOUND (Off:0 Def:1),,5:14,2,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:27 PM
+178,3,6,193,0029700032,,,5:14,2,5,0,1,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker L.B.FOUL (P1.T3),12:27 PM
+179,1,2,194,0029700032,MISS Ewing 10' Jump Shot,,5:03,2,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:27 PM
+180,0,4,195,0029700032,Mills REBOUND (Off:1 Def:2),,5:01,2,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:27 PM
+181,5,1,196,0029700032,Mills  Layup (6 PTS),,5:00,2,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,31 - 42,11,,12:27 PM
+182,1,1,197,0029700032,,,4:47,2,5,5,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,33 - 42,9,Knight 11' Jump Shot (7 PTS) (Walker 2 AST),12:27 PM
+183,7,1,198,0029700032,Ewing  Dunk (13 PTS) (Starks 2 AST),,4:25,2,4,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,33 - 44,11,,12:28 PM
+184,1,6,199,0029700032,Childs P.FOUL (P2.T3),,4:10,2,4,0,1,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:28 PM
+185,1,6,200,0029700032,Mills P.FOUL (P2.T4),,3:59,2,4,0,1,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:28 PM
+186,1,2,201,0029700032,,,3:41,2,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 13' Jump Shot,12:29 PM
+187,0,4,202,0029700032,Ewing REBOUND (Off:1 Def:4),,3:39,2,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:29 PM
+188,1,5,203,0029700032,Starks Bad Pass Turnover (P1.T10),,3:32,2,4,5,0,317,John Starks,NYK,New York,1610612752.0,Knicks,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Knight STEAL (1 STL),12:29 PM
+189,5,1,204,0029700032,,,3:26,2,5,5,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,35 - 44,9,Knight  Layup (9 PTS) (Walker 3 AST),12:29 PM
+190,1,5,205,0029700032,Mills Bad Pass Turnover (P1.T11),,3:03,2,4,5,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Walker STEAL (2 STL),12:29 PM
+191,2,5,206,0029700032,Oakley STEAL (1 STL),,2:57,2,5,4,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Mercer Lost Ball Turnover (P1.T9),12:30 PM
+192,5,2,207,0029700032,MISS Mills  Layup,,2:41,2,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:30 PM
+193,0,4,208,0029700032,Mills REBOUND (Off:2 Def:2),,2:40,2,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:30 PM
+194,5,2,209,0029700032,MISS Mills  Layup,,2:40,2,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:30 PM
+195,0,4,211,0029700032,Mills REBOUND (Off:3 Def:2),,2:38,2,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:30 PM
+196,4,1,210,0029700032,Mills  Tip Shot (8 PTS),,2:38,2,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,35 - 46,11,,12:30 PM
+197,2,9,212,0029700032,,,2:29,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Short (Reg.2 Short 1),12:30 PM
+198,0,8,214,0029700032,,,2:29,2,5,5,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: DeClercq FOR Knight,12:31 PM
+199,1,2,215,0029700032,,,2:18,2,5,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Mercer 17' Jump Shot,12:31 PM
+200,0,4,216,0029700032,KNICKS Rebound,,2:17,2,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:31 PM
+201,2,5,217,0029700032,Oakley Lost Ball Turnover (P1.T12),,2:05,2,4,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:32 PM
+202,1,2,218,0029700032,,,2:00,2,5,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Billups 25' 3PT Jump Shot,12:32 PM
+203,0,4,219,0029700032,Childs REBOUND (Off:0 Def:2),,1:56,2,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:32 PM
+204,5,1,220,0029700032,Mills  Layup (10 PTS) (Childs 2 AST),,1:53,2,4,4,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,35 - 48,13,,12:32 PM
+205,5,2,221,0029700032,,,1:38,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker  Layup,12:32 PM
+206,0,4,222,0029700032,Ewing REBOUND (Off:1 Def:5),,1:36,2,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:32 PM
+207,2,6,223,0029700032,,,1:19,2,5,0,1,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,DeClercq S.FOUL (P3.T4),12:33 PM
+208,11,3,224,0029700032,Ewing Free Throw 1 of 2 (14 PTS),,1:19,2,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,35 - 49,14,,12:33 PM
+209,0,8,225,0029700032,,,1:19,2,5,5,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Ellison FOR DeClercq,12:33 PM
+210,0,8,226,0029700032,,,1:19,2,5,5,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Barros FOR Billups,12:33 PM
+211,0,8,227,0029700032,,,1:19,2,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Bowen FOR Walker,12:33 PM
+212,12,3,228,0029700032,Ewing Free Throw 2 of 2 (15 PTS),,1:19,2,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,35 - 50,15,,12:33 PM
+213,1,5,229,0029700032,Childs STEAL (1 STL),,1:07,2,5,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,,,McCarty Bad Pass Turnover (P2.T10),12:34 PM
+214,1,1,230,0029700032,Oakley 11' Jump Shot (7 PTS) (Mills 2 AST),,0:51,2,4,4,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,35 - 52,17,,12:34 PM
+215,1,1,231,0029700032,,,0:29,2,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,37 - 52,15,McCarty 4' Jump Shot (4 PTS) (Barros 2 AST),12:34 PM
+216,1,6,232,0029700032,,,0:28,2,5,0,1,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Mercer P.FOUL (P2.PN),12:34 PM
+217,0,8,233,0029700032,,,0:28,2,5,5,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Brown FOR Mercer,12:35 PM
+218,11,3,234,0029700032,Starks Free Throw 1 of 2 (9 PTS),,0:28,2,4,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,37 - 53,16,,12:35 PM
+219,0,8,235,0029700032,SUB: Johnson FOR Oakley,,0:28,2,4,4,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:35 PM
+220,12,3,236,0029700032,Starks Free Throw 2 of 2 (10 PTS),,0:28,2,4,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,37 - 54,17,,12:35 PM
+221,1,2,237,0029700032,,,0:13,2,5,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Bowen 11' Jump Shot,12:36 PM
+222,0,4,238,0029700032,Childs REBOUND (Off:0 Def:3),,0:12,2,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:36 PM
+223,1,6,239,0029700032,,,0:08,2,5,0,1,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Bowen P.FOUL (P1.PN),12:36 PM
+224,11,3,240,0029700032,Childs Free Throw 1 of 2 (4 PTS),,0:08,2,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,37 - 55,18,,12:37 PM
+225,12,3,242,0029700032,Childs Free Throw 2 of 2 (5 PTS),,0:08,2,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,37 - 56,19,,12:37 PM
+226,5,1,243,0029700032,,,0:01,2,5,5,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,39 - 56,17,Bowen  Layup (4 PTS) (Barros 3 AST),12:37 PM
+227,0,13,244,0029700032,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,39 - 56,17,,12:38 PM
+228,0,12,246,0029700032,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,39 - 56,17,,12:54 PM
+229,1,1,247,0029700032,Houston 16' Jump Shot (6 PTS) (Johnson 1 AST),,11:44,3,4,4,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,39 - 58,19,,12:54 PM
+230,1,2,248,0029700032,,,11:22,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 10' Jump Shot,12:55 PM
+231,0,4,249,0029700032,Oakley REBOUND (Off:0 Def:5),,11:19,3,4,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:55 PM
+232,1,2,250,0029700032,MISS Johnson 15' Jump Shot,,11:07,3,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:55 PM
+233,0,4,251,0029700032,,,11:04,3,5,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Billups REBOUND (Off:0 Def:3),12:55 PM
+234,5,1,252,0029700032,,,10:50,3,5,5,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,41 - 58,17,Knight  Layup (11 PTS) (McCarty 2 AST),12:55 PM
+235,1,1,253,0029700032,Ewing 9' Jump Shot (17 PTS) (Houston 1 AST),,10:27,3,4,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,41 - 60,19,,12:56 PM
+236,1,2,254,0029700032,Ward BLOCK (2 BLK),,10:15,3,5,0,4,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,,,MISS Billups 5' Jump Shot,12:56 PM
+237,0,4,255,0029700032,Ewing REBOUND (Off:1 Def:6),,10:12,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:56 PM
+238,0,8,257,0029700032,,,10:12,3,5,5,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Bowen FOR Mercer,12:56 PM
+239,2,6,260,0029700032,,,10:07,3,5,0,1,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Bowen S.FOUL (P2.T1),12:57 PM
+240,11,3,261,0029700032,Houston Free Throw 1 of 2 (7 PTS),,10:07,3,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,41 - 61,20,,12:57 PM
+241,12,3,262,0029700032,Houston Free Throw 2 of 2 (8 PTS),,10:07,3,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,41 - 62,21,,12:57 PM
+242,1,1,264,0029700032,,,9:58,3,5,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,44 - 62,18,Bowen 25' 3PT Jump Shot (7 PTS),12:57 PM
+243,6,7,265,0029700032,,,9:44,3,5,0,1,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Billups Violation:Double Lane,12:57 PM
+244,2,6,266,0029700032,,,9:39,3,5,0,1,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty S.FOUL (P2.T2),12:58 PM
+245,11,3,267,0029700032,MISS Ewing Free Throw 1 of 2,,9:39,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:58 PM
+246,0,4,268,0029700032,KNICKS Rebound,,9:39,3,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:58 PM
+247,12,3,269,0029700032,Ewing Free Throw 2 of 2 (18 PTS),,9:39,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,44 - 63,19,,12:58 PM
+248,5,2,270,0029700032,,,9:29,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker  Layup,12:59 PM
+249,0,4,271,0029700032,,,9:28,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,12:59 PM
+250,3,6,272,0029700032,Houston L.B.FOUL (P2.T1),,9:27,3,4,0,1,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:59 PM
+251,1,1,273,0029700032,,,9:19,3,5,5,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,46 - 63,17,Bowen 21' Jump Shot (9 PTS) (Billups 3 AST),12:59 PM
+252,5,1,274,0029700032,Johnson  Layup (3 PTS) (Oakley 5 AST),,8:52,3,4,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,46 - 65,19,,12:59 PM
+253,2,9,275,0029700032,,,8:42,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Short (Reg.2 Short 2),1:00 PM
+254,0,8,277,0029700032,,,8:42,3,5,5,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Mercer FOR Bowen,1:00 PM
+255,1,6,278,0029700032,Ewing P.FOUL (P2.T2),,8:31,3,4,0,1,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:01 PM
+256,2,6,279,0029700032,Ewing S.FOUL (P3.T3),,8:16,3,4,0,1,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:01 PM
+257,11,3,280,0029700032,,,8:16,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker Free Throw 1 of 2,1:02 PM
+258,0,4,281,0029700032,,,8:16,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,1:02 PM
+259,12,3,282,0029700032,,,8:16,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,47 - 65,18,Walker Free Throw 2 of 2 (9 PTS),1:02 PM
+260,1,2,283,0029700032,MISS Oakley 18' Jump Shot,,8:03,3,4,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:02 PM
+261,0,4,284,0029700032,Ewing REBOUND (Off:2 Def:6),,8:01,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:02 PM
+262,15,5,285,0029700032,Johnson Offensive Goaltending Turnover (P1.T13),,7:59,3,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:02 PM
+263,1,1,286,0029700032,,,7:43,3,5,5,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,49 - 65,16,Knight 16' Jump Shot (13 PTS) (Mercer 1 AST),1:03 PM
+264,1,2,287,0029700032,MISS Johnson 6' Jump Shot,,7:15,3,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:04 PM
+265,0,4,288,0029700032,,,7:13,3,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:0 Def:4),1:04 PM
+266,2,5,289,0029700032,,,7:13,3,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty Lost Ball Turnover (P3.T11),1:04 PM
+267,1,2,290,0029700032,MISS Ewing 7' Jump Shot,,7:10,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:04 PM
+268,0,4,291,0029700032,,,7:08,3,5,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Knight REBOUND (Off:0 Def:2),1:04 PM
+269,1,2,292,0029700032,,,6:59,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 26' 3PT Jump Shot,1:04 PM
+270,0,4,293,0029700032,Ward REBOUND (Off:0 Def:2),,6:56,3,4,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:04 PM
+271,5,1,294,0029700032,Oakley  Layup (9 PTS) (Ward 3 AST),,6:54,3,4,4,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,49 - 67,18,,1:04 PM
+272,1,2,295,0029700032,,,6:41,3,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 13' Jump Shot,1:04 PM
+273,0,4,296,0029700032,Johnson REBOUND (Off:0 Def:1),,6:38,3,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:05 PM
+274,2,6,297,0029700032,,,6:29,3,5,0,1,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Mercer S.FOUL (P3.T3),1:05 PM
+275,1,9,298,0029700032,KNICKS Timeout: Regular (Full 3 Short 1),,6:29,3,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,1:05 PM
+276,0,8,300,0029700032,,,6:29,3,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Bowen FOR McCarty,1:07 PM
+277,0,8,301,0029700032,,,6:29,3,5,5,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Jones FOR Knight,1:07 PM
+278,0,8,302,0029700032,,,6:29,3,5,5,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: DeClercq FOR Mercer,1:07 PM
+279,11,3,303,0029700032,Ewing Free Throw 1 of 2 (19 PTS),,6:29,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,49 - 68,19,,1:07 PM
+280,12,3,304,0029700032,Ewing Free Throw 2 of 2 (20 PTS),,6:29,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,49 - 69,20,,1:08 PM
+281,4,6,305,0029700032,,,6:16,3,5,0,1,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Jones OFF.Foul (P1),1:08 PM
+282,5,5,306,0029700032,,,6:16,3,5,0,0,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Jones Foul Turnover (P1.T12),1:08 PM
+283,1,2,307,0029700032,MISS Oakley 18' Jump Shot,,5:58,3,4,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:09 PM
+284,0,4,308,0029700032,,,5:56,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:1),1:09 PM
+285,1,6,309,0029700032,Oakley P.FOUL (P3.T4),,5:52,3,4,0,1,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:09 PM
+286,5,2,310,0029700032,,,5:36,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker  Layup,1:09 PM
+287,0,4,311,0029700032,Ewing REBOUND (Off:2 Def:7),,5:34,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:09 PM
+288,1,2,312,0029700032,MISS Houston 24' 3PT Jump Shot,,5:25,3,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:09 PM
+289,0,4,313,0029700032,,,5:22,3,5,0,0,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Jones REBOUND (Off:0 Def:1),1:09 PM
+290,1,6,314,0029700032,Ward P.FOUL (P2.PN),,5:17,3,4,0,1,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:10 PM
+291,11,3,316,0029700032,,,5:17,3,5,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,50 - 69,19,Billups Free Throw 1 of 2 (1 PTS),1:10 PM
+292,12,3,318,0029700032,,,5:17,3,5,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,51 - 69,18,Billups Free Throw 2 of 2 (2 PTS),1:10 PM
+293,1,5,319,0029700032,Ward Bad Pass Turnover (P1.T14),,5:06,3,4,5,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Bowen STEAL (3 STL),1:10 PM
+294,1,5,320,0029700032,Ward STEAL (3 STL),,5:03,3,5,4,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Bowen Bad Pass Turnover (P2.T13),1:11 PM
+295,5,1,321,0029700032,Ward  Layup (2 PTS),,4:58,3,4,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,51 - 71,20,,1:11 PM
+296,1,2,323,0029700032,,,4:39,3,5,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Bowen 25' 3PT Jump Shot,1:11 PM
+297,0,4,324,0029700032,KNICKS Rebound,,4:36,3,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,1:11 PM
+298,2,6,325,0029700032,,,4:25,3,5,0,1,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,DeClercq S.FOUL (P4.T4),1:12 PM
+299,0,8,326,0029700032,SUB: Childs FOR Ward,,4:25,3,4,4,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,1:12 PM
+300,0,8,327,0029700032,,,4:25,3,5,5,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Barros FOR Billups,1:12 PM
+301,11,3,328,0029700032,Ewing Free Throw 1 of 2 (21 PTS),,4:25,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,51 - 72,21,,1:12 PM
+302,0,8,329,0029700032,,,4:25,3,5,5,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Ellison FOR DeClercq,1:12 PM
+303,12,3,330,0029700032,Ewing Free Throw 2 of 2 (22 PTS),,4:25,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,51 - 73,22,,1:12 PM
+304,1,2,331,0029700032,Ewing BLOCK (1 BLK),,4:12,3,5,0,4,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,,,MISS Walker 3' Jump Shot,1:12 PM
+305,0,4,332,0029700032,,,4:08,3,5,0,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Ellison REBOUND (Off:1 Def:2),1:13 PM
+306,5,1,333,0029700032,,,4:07,3,5,0,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,53 - 73,20,Ellison  Layup (2 PTS),1:13 PM
+307,2,5,334,0029700032,Childs Lost Ball Turnover (P3.T15),,3:55,3,4,5,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Barros STEAL (2 STL),1:13 PM
+308,1,6,335,0029700032,Childs P.FOUL (P3.PN),,3:54,3,4,0,1,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:13 PM
+309,11,3,336,0029700032,,,3:54,3,5,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,54 - 73,19,Bowen Free Throw 1 of 2 (10 PTS),1:13 PM
+310,12,3,338,0029700032,,,3:54,3,5,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,55 - 73,18,Bowen Free Throw 2 of 2 (11 PTS),1:13 PM
+311,1,2,339,0029700032,MISS Houston 25' 3PT Jump Shot,,3:40,3,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:14 PM
+312,0,4,340,0029700032,Johnson REBOUND (Off:1 Def:1),,3:37,3,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:14 PM
+313,1,6,341,0029700032,,,3:23,3,5,0,1,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Ellison P.FOUL (P3.PN),1:14 PM
+314,11,3,342,0029700032,MISS Ewing Free Throw 1 of 2,,3:23,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:14 PM
+315,0,4,343,0029700032,KNICKS Rebound,,3:23,3,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,1:14 PM
+316,4,7,345,0029700032,,,3:23,3,5,0,1,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker Violation:Jump Ball,1:15 PM
+317,12,3,346,0029700032,Ewing Free Throw 2 of 2 (23 PTS),,3:23,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,55 - 74,19,,1:15 PM
+318,1,1,347,0029700032,,,3:02,3,5,5,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,57 - 74,17,Ellison 13' Jump Shot (4 PTS) (Jones 1 AST),1:16 PM
+319,1,9,348,0029700032,,,2:59,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.3 Short 2),1:16 PM
+320,0,8,350,0029700032,SUB: Mills FOR Johnson,,2:59,3,4,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,1:18 PM
+321,0,8,351,0029700032,,,2:59,3,5,5,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Brown FOR Bowen,1:18 PM
+322,1,1,352,0029700032,Ewing 11' Jump Shot (25 PTS),,2:41,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,57 - 76,19,,1:18 PM
+323,2,6,353,0029700032,,,2:41,3,5,0,1,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Ellison S.FOUL (P4.PN),1:18 PM
+324,10,3,354,0029700032,Ewing Free Throw 1 of 1 (26 PTS),,2:41,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,57 - 77,20,,1:18 PM
+325,1,2,355,0029700032,,,2:30,3,5,0,0,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Jones 11' Jump Shot,1:19 PM
+326,0,4,356,0029700032,Ewing REBOUND (Off:2 Def:8),,2:27,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:19 PM
+327,1,6,357,0029700032,,,2:23,3,5,0,1,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Jones P.FOUL (P2.PN),1:19 PM
+328,11,3,358,0029700032,Houston Free Throw 1 of 2 (9 PTS),,2:23,3,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,57 - 78,21,,1:19 PM
+329,0,8,359,0029700032,,,2:23,3,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: McCarty FOR Walker,1:19 PM
+330,12,3,360,0029700032,Houston Free Throw 2 of 2 (10 PTS),,2:23,3,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,57 - 79,22,,1:20 PM
+331,1,2,361,0029700032,,,2:08,3,5,0,0,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Jones 5' Jump Shot,1:20 PM
+332,0,4,362,0029700032,,,2:06,3,5,0,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Ellison REBOUND (Off:2 Def:2),1:20 PM
+333,1,2,363,0029700032,,,2:01,3,5,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Brown  3PT Jump Shot,1:20 PM
+334,0,4,364,0029700032,Mills REBOUND (Off:3 Def:3),,1:59,3,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:20 PM
+335,1,2,365,0029700032,MISS Mills 3' Jump Shot,,1:46,3,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:20 PM
+336,0,4,366,0029700032,,,1:44,3,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:0 Def:5),1:20 PM
+337,1,2,367,0029700032,,,1:23,3,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Barros 26' 3PT Jump Shot,1:21 PM
+338,0,4,368,0029700032,Oakley REBOUND (Off:0 Def:6),,1:20,3,4,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:21 PM
+339,1,5,369,0029700032,Oakley Bad Pass Turnover (P2.T16),,1:19,3,4,5,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Barros STEAL (3 STL),1:21 PM
+340,1,2,370,0029700032,,,1:12,3,5,0,0,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Jones 25' 3PT Jump Shot,1:21 PM
+341,0,4,371,0029700032,Ewing REBOUND (Off:2 Def:9),,1:09,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:21 PM
+342,1,1,372,0029700032,Childs 16' Jump Shot (7 PTS),,0:56,3,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,57 - 81,24,,1:21 PM
+343,1,5,373,0029700032,Ewing STEAL (1 STL),,0:38,3,5,4,0,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Jones Bad Pass Turnover (P2.T14),1:22 PM
+344,1,5,374,0029700032,Childs Bad Pass Turnover (P4.T17),,0:31,3,4,5,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Brown STEAL (1 STL),1:22 PM
+345,4,5,375,0029700032,,,0:26,3,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty Traveling Turnover (P4.T15),1:22 PM
+346,2,6,376,0029700032,,,0:06,3,5,0,1,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Jones S.FOUL (P3.PN),1:22 PM
+347,11,3,377,0029700032,Houston Free Throw 1 of 2 (11 PTS),,0:06,3,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,57 - 82,25,,1:22 PM
+348,0,8,378,0029700032,,,0:06,3,5,5,0,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Mercer FOR Jones,1:23 PM
+349,12,3,379,0029700032,Houston Free Throw 2 of 2 (12 PTS),,0:06,3,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,57 - 83,26,,1:23 PM
+350,6,1,380,0029700032,,,0:00,3,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,59 - 83,24,Barros  Driving Layup (9 PTS),1:23 PM
+351,0,13,381,0029700032,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,59 - 83,24,,1:23 PM
+352,0,12,384,0029700032,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,59 - 83,24,,1:26 PM
+353,1,5,385,0029700032,Oakley STEAL (2 STL),,11:47,4,5,4,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Knight Bad Pass Turnover (P2.T16),1:26 PM
+354,6,1,386,0029700032,Mills  Driving Layup (12 PTS),,11:24,4,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,59 - 85,26,,1:27 PM
+355,2,6,387,0029700032,,,11:24,4,5,0,1,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty S.FOUL (P3.T1),1:27 PM
+356,10,3,388,0029700032,Mills Free Throw 1 of 1 (13 PTS),,11:24,4,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,59 - 86,27,,1:27 PM
+357,1,6,389,0029700032,Mills P.FOUL (P3.T1),,11:08,4,4,0,1,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:28 PM
+358,1,1,391,0029700032,,,10:56,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,61 - 86,25,McCarty 17' Jump Shot (6 PTS),1:28 PM
+359,1,5,392,0029700032,Childs Bad Pass Turnover (P5.T18),,10:46,4,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:28 PM
+360,1,2,393,0029700032,,,10:35,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 13' Jump Shot,1:29 PM
+361,0,4,394,0029700032,,,10:32,4,5,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Mercer REBOUND (Off:2 Def:1),1:29 PM
+362,1,6,395,0029700032,Childs P.FOUL (P4.T2),,10:32,4,4,0,1,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:29 PM
+363,0,8,396,0029700032,SUB: Johnson FOR Oakley,,10:32,4,4,4,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,1:29 PM
+364,1,2,397,0029700032,,,10:27,4,5,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Knight 25' 3PT Jump Shot,1:29 PM
+365,0,4,398,0029700032,Dudley REBOUND (Off:1 Def:2),,10:25,4,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:29 PM
+366,1,5,399,0029700032,Dudley Bad Pass Turnover (P3.T19),,10:12,4,4,5,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Mercer STEAL (1 STL),1:30 PM
+367,1,2,400,0029700032,,,10:04,4,5,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Brown 26' 3PT Jump Shot,1:30 PM
+368,0,4,401,0029700032,Dudley REBOUND (Off:1 Def:3),,10:02,4,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:30 PM
+369,1,2,402,0029700032,MISS Johnson 7' Jump Shot,,9:49,4,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:30 PM
+370,0,4,403,0029700032,,,9:47,4,5,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Brown REBOUND (Off:0 Def:3),1:30 PM
+371,6,1,404,0029700032,,,9:37,4,5,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,63 - 86,23,Brown  Driving Layup (4 PTS),1:30 PM
+372,5,1,405,0029700032,Dudley  Layup (6 PTS) (Johnson 2 AST),,9:20,4,4,4,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,63 - 88,25,,1:30 PM
+373,2,6,406,0029700032,,,9:20,4,5,0,1,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Knight S.FOUL (P3.T2),1:30 PM
+374,0,8,407,0029700032,,,9:20,4,5,5,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Billups FOR Barros,1:31 PM
+375,10,3,408,0029700032,MISS Dudley Free Throw 1 of 1,,9:20,4,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:31 PM
+376,0,4,409,0029700032,,,9:20,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:0 Def:6),1:31 PM
+377,1,2,410,0029700032,,,9:01,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 25' 3PT Jump Shot,1:31 PM
+378,0,4,411,0029700032,Dudley REBOUND (Off:1 Def:4),,8:59,4,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:31 PM
+379,1,2,412,0029700032,MISS Mills 26' 3PT Jump Shot,,8:47,4,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:32 PM
+380,0,4,413,0029700032,,,8:45,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:0 Def:7),1:32 PM
+381,1,6,414,0029700032,Dudley P.FOUL (P3.T3),,8:45,4,4,0,1,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:32 PM
+382,0,8,415,0029700032,,,8:45,4,5,5,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Ellison FOR Knight,1:32 PM
+383,1,5,416,0029700032,Mills STEAL (1 STL),,8:34,4,5,4,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Billups Bad Pass Turnover (P3.T17),1:32 PM
+384,2,6,417,0029700032,,,8:20,4,5,0,1,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Brown S.FOUL (P1.T3),1:33 PM
+385,11,3,418,0029700032,MISS Dudley Free Throw 1 of 2,,8:20,4,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:33 PM
+386,0,4,419,0029700032,KNICKS Rebound,,8:20,4,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,1:33 PM
+387,4,7,437,0029700032,Mills Violation:Jump Ball,,8:20,4,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:33 PM
+388,17,5,421,0029700032,Mills Lane Violation Turnover (P2.T20),,8:20,4,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:34 PM
+389,1,2,423,0029700032,,,8:01,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 11' Jump Shot,1:34 PM
+390,0,4,424,0029700032,Childs REBOUND (Off:0 Def:4),,7:59,4,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:34 PM
+391,1,2,426,0029700032,MISS Starks 21' Jump Shot,,7:39,4,4,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:35 PM
+392,0,4,427,0029700032,Mills REBOUND (Off:4 Def:3),,7:36,4,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:35 PM
+393,4,5,428,0029700032,Dudley Traveling Turnover (P4.T21),,7:20,4,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:35 PM
+394,0,8,429,0029700032,,,7:20,4,5,5,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Bowen FOR Brown,1:35 PM
+395,0,8,430,0029700032,,,7:20,4,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Walker FOR McCarty,1:35 PM
+396,5,2,431,0029700032,,,7:02,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker  Layup,1:35 PM
+397,0,4,432,0029700032,,,7:00,4,5,0,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Ellison REBOUND (Off:3 Def:2),1:35 PM
+398,1,6,433,0029700032,Dudley P.FOUL (P4.T4),,7:00,4,4,0,1,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:36 PM
+399,0,8,434,0029700032,SUB: Ward FOR Childs,,7:00,4,4,4,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,1:36 PM
+400,5,2,435,0029700032,,,6:44,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker  Layup,1:36 PM
+401,0,4,436,0029700032,Dudley REBOUND (Off:1 Def:5),,6:42,4,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:36 PM
+402,2,6,438,0029700032,,,6:36,4,5,0,1,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Ellison S.FOUL (P5.T4),1:36 PM
+403,1,9,439,0029700032,KNICKS Timeout: Regular (Full 4 Short 1),,6:36,4,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,1:36 PM
+404,11,3,442,0029700032,Johnson Free Throw 1 of 2 (4 PTS),,6:36,4,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,63 - 89,26,,1:39 PM
+405,12,3,443,0029700032,Johnson Free Throw 2 of 2 (5 PTS),,6:36,4,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,63 - 90,27,,1:39 PM
+406,1,1,444,0029700032,,,6:23,4,5,5,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,66 - 90,24,Billups 25' 3PT Jump Shot (5 PTS) (Walker 4 AST),1:40 PM
+407,1,6,445,0029700032,,,6:00,4,5,0,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Ellison P.FOUL (P6.PN),1:40 PM
+408,0,8,446,0029700032,,,6:00,4,5,5,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: DeClercq FOR Ellison,1:41 PM
+409,11,3,447,0029700032,Starks Free Throw 1 of 2 (11 PTS),,6:00,4,4,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,66 - 91,25,,1:41 PM
+410,12,3,448,0029700032,Starks Free Throw 2 of 2 (12 PTS),,6:00,4,4,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,66 - 92,26,,1:41 PM
+411,2,5,450,0029700032,Ward STEAL (4 STL),,5:57,4,5,4,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Billups Lost Ball Turnover (P4.T18),1:42 PM
+412,5,1,451,0029700032,Ward  Layup (4 PTS),,5:55,4,4,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,66 - 94,28,,1:42 PM
+413,1,6,452,0029700032,Mills P.FOUL (P4.PN),,5:41,4,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:42 PM
+414,11,3,453,0029700032,,,5:41,4,5,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Bowen Free Throw 1 of 2,1:43 PM
+415,0,4,454,0029700032,,,5:41,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,1:43 PM
+416,0,8,455,0029700032,SUB: Myers FOR Johnson,,5:41,4,4,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,939,Pete Myers,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,1:43 PM
+417,0,8,456,0029700032,,,5:41,4,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1519,John Thomas,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Thomas FOR Walker,1:43 PM
+418,12,3,457,0029700032,,,5:41,4,5,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Bowen Free Throw 2 of 2,1:43 PM
+419,0,4,458,0029700032,Mills REBOUND (Off:4 Def:4),,5:40,4,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:43 PM
+420,1,2,459,0029700032,MISS Starks 16' Jump Shot,,5:23,4,4,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:43 PM
+421,0,4,460,0029700032,Mills REBOUND (Off:5 Def:4),,5:20,4,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:43 PM
+422,1,2,461,0029700032,MISS Dudley 8' Jump Shot,,5:08,4,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:44 PM
+423,0,4,462,0029700032,Dudley REBOUND (Off:2 Def:5),,5:06,4,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:44 PM
+424,2,6,463,0029700032,,,5:00,4,5,0,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,DeClercq S.FOUL (P5.PN),1:44 PM
+425,11,3,464,0029700032,MISS Myers Free Throw 1 of 2,,5:00,4,4,0,0,939,Pete Myers,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:44 PM
+426,0,4,465,0029700032,KNICKS Rebound,,5:00,4,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,1:44 PM
+427,12,3,466,0029700032,Myers Free Throw 2 of 2 (1 PTS),,5:00,4,4,0,0,939,Pete Myers,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,66 - 95,29,,1:44 PM
+428,1,5,467,0029700032,,,4:41,4,5,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Billups Bad Pass Turnover (P5.T19),1:45 PM
+429,1,2,468,0029700032,MISS Starks 19' Jump Shot,,4:22,4,4,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:45 PM
+430,0,4,469,0029700032,,,4:19,4,5,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Billups REBOUND (Off:0 Def:4),1:45 PM
+431,6,2,470,0029700032,,,4:12,4,5,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Mercer  Driving Layup,1:46 PM
+432,0,4,471,0029700032,Dudley REBOUND (Off:2 Def:6),,4:09,4,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:46 PM
+433,2,6,472,0029700032,,,4:07,4,5,0,1,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Bowen S.FOUL (P3.PN),1:46 PM
+434,11,3,473,0029700032,MISS Ward Free Throw 1 of 2,,4:07,4,4,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:46 PM
+435,0,4,474,0029700032,KNICKS Rebound,,4:07,4,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,1:46 PM
+436,0,8,475,0029700032,,,4:07,4,5,5,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Jones FOR Mercer,1:46 PM
+437,12,3,476,0029700032,Ward Free Throw 2 of 2 (5 PTS),,4:07,4,4,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,66 - 96,30,,1:46 PM
+438,1,1,477,0029700032,,,3:53,4,5,5,0,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,68 - 96,28,Jones 22' Jump Shot (2 PTS) (Bowen 3 AST),1:47 PM
+439,5,1,478,0029700032,Mills  Layup (15 PTS) (Ward 4 AST),,3:22,4,4,4,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,68 - 98,30,,1:47 PM
+440,1,2,479,0029700032,Dudley BLOCK (1 BLK),,3:00,4,5,0,4,1519,John Thomas,BOS,Boston,1610612738.0,Celtics,0,,,,,,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,,,MISS Thomas 5' Jump Shot,1:48 PM
+441,0,4,480,0029700032,,,3:00,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,1:48 PM
+442,1,2,481,0029700032,Ward BLOCK (3 BLK),,2:55,4,5,0,4,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,,,MISS Billups 22' Jump Shot,1:48 PM
+443,0,4,482,0029700032,Mills REBOUND (Off:5 Def:5),,2:52,4,4,0,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:48 PM
+444,1,5,483,0029700032,Mills Bad Pass Turnover (P3.T22),,2:51,4,4,5,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Billups STEAL (1 STL),1:48 PM
+445,1,2,484,0029700032,,,2:47,4,5,0,0,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Jones 24' 3PT Jump Shot,1:48 PM
+446,0,4,485,0029700032,Starks REBOUND (Off:0 Def:2),,2:44,4,4,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:48 PM
+447,1,1,486,0029700032,Starks 20' Jump Shot (14 PTS),,2:31,4,4,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,68 - 100,32,,1:49 PM
+448,1,2,488,0029700032,,,2:15,4,5,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Bowen 16' Jump Shot,1:49 PM
+449,0,4,489,0029700032,Starks REBOUND (Off:0 Def:3),,2:13,4,4,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:49 PM
+450,1,2,490,0029700032,MISS Myers 12' Jump Shot,,2:05,4,4,0,0,939,Pete Myers,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:49 PM
+451,0,4,491,0029700032,,,2:02,4,5,0,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,DeClercq REBOUND (Off:0 Def:1),1:49 PM
+452,2,5,492,0029700032,Starks STEAL (2 STL),,1:58,4,5,4,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Billups Lost Ball Turnover (P6.T20),1:49 PM
+453,6,1,493,0029700032,Mills  Driving Layup (17 PTS) (Myers 1 AST),,1:54,4,4,4,0,168,Chris Mills,NYK,New York,1610612752.0,Knicks,939,Pete Myers,NYK,New York,1610612752.0,Knicks,0,,,,,,68 - 102,34,,1:49 PM
+454,2,5,494,0029700032,Ward STEAL (5 STL),,1:42,4,5,4,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Billups Lost Ball Turnover (P7.T21),1:49 PM
+455,1,2,495,0029700032,MISS Dudley 9' Jump Shot,,1:36,4,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:50 PM
+456,0,4,496,0029700032,,,1:32,4,5,0,0,1519,John Thomas,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:1),1:50 PM
+457,1,2,497,0029700032,,,1:24,4,5,0,0,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Jones 11' Jump Shot,1:50 PM
+458,0,4,498,0029700032,Dudley REBOUND (Off:2 Def:7),,1:22,4,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:50 PM
+459,2,5,499,0029700032,Myers Lost Ball Turnover (P1.T23),,1:16,4,4,0,0,939,Pete Myers,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:50 PM
+460,1,9,500,0029700032,,,1:16,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.4 Short 2),1:50 PM
+461,2,5,503,0029700032,Dudley STEAL (1 STL),,0:59,4,5,4,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Bowen Lost Ball Turnover (P3.T22),1:53 PM
+462,2,6,504,0029700032,,,0:55,4,5,0,1,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Jones S.FOUL (P4.PN),1:53 PM
+463,11,3,505,0029700032,MISS Dudley Free Throw 1 of 2,,0:55,4,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:53 PM
+464,0,4,506,0029700032,KNICKS Rebound,,0:55,4,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,1:53 PM
+465,12,3,507,0029700032,MISS Dudley Free Throw 2 of 2,,0:55,4,4,0,0,201,Chris Dudley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:53 PM
+466,0,4,508,0029700032,Myers REBOUND (Off:1 Def:0),,0:54,4,4,0,0,939,Pete Myers,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:54 PM
+467,6,2,509,0029700032,MISS Myers  Driving Layup,,0:33,4,4,0,0,939,Pete Myers,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:54 PM
+468,0,4,510,0029700032,Myers REBOUND (Off:2 Def:0),,0:30,4,4,0,0,939,Pete Myers,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:54 PM
+469,4,6,511,0029700032,Myers OFF.Foul (P1),,0:25,4,4,0,0,939,Pete Myers,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:54 PM
+470,5,5,512,0029700032,Myers Foul Turnover (P2.T24),,0:25,4,4,0,0,939,Pete Myers,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:54 PM
+471,1,2,513,0029700032,Ward BLOCK (4 BLK),,0:12,4,5,0,4,963,Dontae' Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,,,MISS Jones 10' Jump Shot,1:55 PM
+472,0,4,514,0029700032,,,0:12,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,1:55 PM
+473,6,1,515,0029700032,,,0:09,4,5,0,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,70 - 102,32,DeClercq  Driving Layup (2 PTS),1:55 PM
+474,0,13,517,0029700032,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,70 - 102,32,,1:55 PM

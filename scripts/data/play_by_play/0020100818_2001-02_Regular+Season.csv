@@ -1,0 +1,490 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020100818,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:07 PM
+1,0,10,1,0020100818,Jump Ball Ilgauskas vs. Robinson: Tip to Miller,,12:00,1,4,5,4,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,,,,7:08 PM
+2,1,2,2,0020100818,MISS Ilgauskas 15' Jump Shot,,11:44,1,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:08 PM
+3,0,4,3,0020100818,,,11:43,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:0 Def:1),7:08 PM
+4,1,2,4,0020100818,,,11:21,1,5,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Bowen 13' Jump Shot,7:09 PM
+5,0,4,5,0020100818,Hill REBOUND (Off:0 Def:1),,11:20,1,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:09 PM
+6,63,1,6,0020100818,Ilgauskas 9' Fadeaway Jumper (2 PTS) (Person 1 AST),,11:01,1,4,4,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0 - 2,2,,7:09 PM
+7,1,1,7,0020100818,,,10:51,1,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,2 - 2,TIE,Robinson 13' Jump Shot (2 PTS) (Smith 1 AST),7:09 PM
+8,2,6,8,0020100818,,,10:33,1,5,0,1,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson S.FOUL (P1.T1),7:10 PM
+9,11,3,9,0020100818,MISS Ilgauskas Free Throw 1 of 2,,10:33,1,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:10 PM
+10,1,4,10,0020100818,CAVALIERS Rebound,,10:33,1,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,7:10 PM
+11,12,3,11,0020100818,Ilgauskas Free Throw 2 of 2 (3 PTS),,10:33,1,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,2 - 3,1,,7:10 PM
+12,1,1,12,0020100818,,,10:14,1,5,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,4 - 3,-1,Bowen 8' Jump Shot (2 PTS),7:11 PM
+13,2,6,13,0020100818,,,10:03,1,5,0,1,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bowen S.FOUL (P1.T2),7:11 PM
+14,11,3,14,0020100818,Miller Free Throw 1 of 2 (1 PTS),,10:03,1,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,4 - 4,TIE,,7:11 PM
+15,12,3,15,0020100818,Miller Free Throw 2 of 2 (2 PTS),,10:03,1,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,4 - 5,1,,7:11 PM
+16,2,6,16,0020100818,Hill S.FOUL (P1.T1),,9:52,1,4,0,1,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:12 PM
+17,11,3,17,0020100818,,,9:52,1,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Robinson Free Throw 1 of 2,7:12 PM
+18,1,4,18,0020100818,,,9:52,1,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,7:12 PM
+19,12,3,19,0020100818,,,9:52,1,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,5 - 5,TIE,Robinson Free Throw 2 of 2 (3 PTS),7:12 PM
+20,1,1,20,0020100818,Miller 3' Jump Shot (4 PTS),,9:33,1,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,5 - 7,2,,7:13 PM
+21,1,1,21,0020100818,,,9:17,1,5,5,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,7 - 7,TIE,Parker 18' Jump Shot (2 PTS) (Duncan 1 AST),7:13 PM
+22,1,2,22,0020100818,MISS Person 26' 3PT Jump Shot,,8:52,1,4,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:13 PM
+23,0,4,23,0020100818,,,8:50,1,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:0 Def:1),7:13 PM
+24,5,1,24,0020100818,,,8:40,1,5,5,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,9 - 7,-2,Bowen 1' Layup (4 PTS) (Duncan 2 AST),7:14 PM
+25,63,1,25,0020100818,Murray 12' Fadeaway Jumper (2 PTS),,8:16,1,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,9 - 9,TIE,,7:14 PM
+26,1,2,26,0020100818,,,7:59,1,5,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Smith 24' 3PT Jump Shot,7:14 PM
+27,0,4,27,0020100818,Hill REBOUND (Off:0 Def:2),,7:57,1,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:14 PM
+28,4,6,28,0020100818,Miller OFF.Foul (P1),,7:50,1,4,0,1,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:14 PM
+29,5,5,29,0020100818,Miller Foul Turnover (P1.T1),,7:50,1,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:14 PM
+30,65,1,30,0020100818,,,7:38,1,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,11 - 9,-2,Duncan 4' Jump Hook Shot (2 PTS) (Smith 2 AST),7:15 PM
+31,1,1,31,0020100818,Ilgauskas 15' Jump Shot (5 PTS),,7:22,1,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,11 - 11,TIE,,7:15 PM
+32,8,1,32,0020100818,,,7:08,1,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,13 - 11,-2,Robinson 1' Slam Dunk (5 PTS) (Duncan 3 AST),7:15 PM
+33,1,1,33,0020100818,Murray 25' 3PT Jump Shot (5 PTS) (Miller 1 AST),,6:51,1,4,4,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,13 - 14,1,,7:16 PM
+34,65,2,34,0020100818,,,6:35,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 10' Jump Hook Shot,7:16 PM
+35,0,4,35,0020100818,Ilgauskas REBOUND (Off:0 Def:1),,6:31,1,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:16 PM
+36,1,2,36,0020100818,MISS Hill 14' Jump Shot,,6:20,1,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:16 PM
+37,0,4,37,0020100818,,,6:18,1,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:0 Def:2),7:16 PM
+38,1,5,38,0020100818,,,6:08,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan Bad Pass Turnover (P1.T1),7:16 PM
+39,1,2,39,0020100818,MISS Miller 16' Jump Shot,,5:54,1,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:17 PM
+40,0,4,40,0020100818,Murray REBOUND (Off:1 Def:0),,5:52,1,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:17 PM
+41,1,5,41,0020100818,Person Bad Pass Turnover (P1.T2),,5:47,1,4,5,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Robinson STEAL (1 STL),7:17 PM
+42,5,2,42,0020100818,,,5:33,1,5,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Smith 3' Layup,7:17 PM
+43,0,4,43,0020100818,Murray REBOUND (Off:1 Def:1),,5:32,1,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:17 PM
+44,4,6,44,0020100818,Ilgauskas OFF.Foul (P1),,5:20,1,4,0,1,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:17 PM
+45,5,5,45,0020100818,Ilgauskas Foul Turnover (P1.T3),,5:20,1,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:17 PM
+46,1,9,46,0020100818,CAVALIERS Timeout: Regular (Full 1 Short 0),,5:20,1,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,7:18 PM
+47,0,8,49,0020100818,SUB: Davis FOR Miller,,5:20,1,4,4,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,7:19 PM
+48,5,1,50,0020100818,,,5:07,1,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,15 - 14,-1,Duncan 1' Layup (4 PTS) (Robinson 1 AST),7:20 PM
+49,2,6,51,0020100818,Davis S.FOUL (P1.T2),,5:07,1,4,0,1,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:20 PM
+50,10,3,52,0020100818,,,5:07,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan Free Throw 1 of 1,7:20 PM
+51,0,4,53,0020100818,Hill REBOUND (Off:0 Def:3),,5:07,1,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:20 PM
+52,1,1,54,0020100818,Person 16' Jump Shot (2 PTS) (Murray 1 AST),,4:54,1,4,4,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,15 - 16,1,,7:21 PM
+53,2,6,55,0020100818,,,4:54,1,5,0,1,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Parker S.FOUL (P1.T3),7:21 PM
+54,10,3,56,0020100818,Person Free Throw 1 of 1 (3 PTS),,4:54,1,4,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,15 - 17,2,,7:21 PM
+55,42,1,57,0020100818,,,4:41,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,17 - 17,TIE,Duncan 1' Driving Layup (6 PTS),7:21 PM
+56,63,1,58,0020100818,Ilgauskas 12' Fadeaway Jumper (7 PTS),,4:19,1,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,17 - 19,2,,7:22 PM
+57,2,6,59,0020100818,Davis S.FOUL (P2.T3),,4:01,1,4,0,1,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:22 PM
+58,0,8,60,0020100818,SUB: Jones FOR Ilgauskas,,4:01,1,4,4,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,1908,Jumaine Jones,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,7:22 PM
+59,0,8,61,0020100818,SUB: Miller FOR Davis,,4:01,1,4,4,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,7:22 PM
+60,11,3,62,0020100818,,,4:01,1,5,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,18 - 19,1,Bowen Free Throw 1 of 2 (5 PTS),7:22 PM
+61,0,8,63,0020100818,,,4:01,1,5,5,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Smith FOR Smith,7:23 PM
+62,0,8,64,0020100818,,,4:01,1,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Rose FOR Robinson,7:23 PM
+63,12,3,65,0020100818,,,4:01,1,5,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,19 - 19,TIE,Bowen Free Throw 2 of 2 (6 PTS),7:23 PM
+64,2,6,66,0020100818,,,3:49,1,5,0,1,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bowen S.FOUL (P2.T4),7:23 PM
+65,11,3,67,0020100818,Murray Free Throw 1 of 2 (6 PTS),,3:49,1,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,19 - 20,1,,7:23 PM
+66,0,8,68,0020100818,,,3:49,1,5,5,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Daniels FOR Bowen,7:24 PM
+67,12,3,69,0020100818,Murray Free Throw 2 of 2 (7 PTS),,3:49,1,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,19 - 21,2,,7:24 PM
+68,1,5,70,0020100818,Jones STEAL (1 STL),,3:28,1,5,4,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,1908,Jumaine Jones,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Rose Bad Pass Turnover (P1.T2),7:24 PM
+69,5,1,71,0020100818,Person 1' Layup (5 PTS) (Miller 2 AST),,3:23,1,4,4,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,19 - 23,4,,7:24 PM
+70,5,7,72,0020100818,Person Violation:Kicked Ball,,3:09,1,4,0,1,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:25 PM
+71,1,9,73,0020100818,,,3:09,1,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.1 Short 0),7:25 PM
+72,1,2,77,0020100818,,,2:59,1,5,0,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Smith  3PT Jump Shot,7:27 PM
+73,0,4,78,0020100818,,,2:57,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:1 Def:1),7:27 PM
+74,65,1,79,0020100818,,,2:55,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,21 - 23,2,Duncan 1' Jump Hook Shot (8 PTS),7:27 PM
+75,1,2,80,0020100818,MISS Jones 17' Jump Shot,,2:38,1,4,0,5,1908,Jumaine Jones,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,,,Smith BLOCK (1 BLK),7:27 PM
+76,0,4,81,0020100818,,,2:33,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:1 Def:2),7:27 PM
+77,1,2,82,0020100818,Murray BLOCK (1 BLK),,2:26,1,5,0,4,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,,,MISS Smith 11' Jump Shot,7:28 PM
+78,0,4,83,0020100818,,,2:26,1,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,7:28 PM
+79,1,2,84,0020100818,Person BLOCK (1 BLK),,2:21,1,5,0,4,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,,,MISS Daniels 13' Jump Shot,7:28 PM
+80,0,4,85,0020100818,Hill REBOUND (Off:0 Def:4),,2:17,1,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:28 PM
+81,1,2,86,0020100818,MISS Murray 25' 3PT Jump Shot,,2:13,1,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:28 PM
+82,0,4,87,0020100818,,,2:11,1,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Parker REBOUND (Off:0 Def:1),7:28 PM
+83,2,6,88,0020100818,Jones S.FOUL (P1.T4),,1:51,1,4,0,1,1908,Jumaine Jones,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:29 PM
+84,11,3,89,0020100818,,,1:51,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,22 - 23,1,Duncan Free Throw 1 of 2 (9 PTS),7:29 PM
+85,12,3,90,0020100818,,,1:51,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,23 - 23,TIE,Duncan Free Throw 2 of 2 (10 PTS),7:29 PM
+86,63,1,91,0020100818,Murray 7' Fadeaway Jumper (9 PTS),,1:40,1,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,23 - 25,2,,7:29 PM
+87,1,2,92,0020100818,,,1:22,1,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Daniels  3PT Jump Shot,7:30 PM
+88,0,4,93,0020100818,Miller REBOUND (Off:0 Def:1),,1:18,1,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:30 PM
+89,5,1,94,0020100818,Miller 1' Layup (6 PTS),,1:16,1,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,23 - 27,4,,7:30 PM
+90,2,6,95,0020100818,,,1:16,1,5,0,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan S.FOUL (P1.PN),7:30 PM
+91,0,8,96,0020100818,SUB: Skinner FOR Hill,,1:16,1,4,4,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,7:30 PM
+92,10,3,97,0020100818,Miller Free Throw 1 of 1 (7 PTS),,1:16,1,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,23 - 28,5,,7:30 PM
+93,2,7,103,0020100818,Jones Violation:Defensive Goaltending,,1:01,1,4,0,1,1908,Jumaine Jones,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:30 PM
+94,3,1,98,0020100818,,,1:01,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,25 - 28,3,Duncan 3' Hook Shot (12 PTS),7:31 PM
+95,2,6,100,0020100818,Skinner S.FOUL (P1.PN),,1:01,1,4,0,1,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:31 PM
+96,10,3,101,0020100818,,,1:01,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,26 - 28,2,Duncan Free Throw 1 of 1 (13 PTS),7:31 PM
+97,1,1,102,0020100818,Murray 8' Jump Shot (11 PTS) (Miller 3 AST),,0:47,1,4,4,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,26 - 30,4,,7:32 PM
+98,1,2,104,0020100818,,,0:27,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 15' Jump Shot,7:32 PM
+99,0,4,106,0020100818,,,0:26,1,5,0,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:0),7:32 PM
+100,4,1,105,0020100818,,,0:26,1,5,0,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,28 - 30,2,Smith 1' Tip Shot (2 PTS),7:32 PM
+101,63,2,108,0020100818,MISS Murray 19' Fadeaway Jumper,,0:05,1,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:32 PM
+102,0,4,109,0020100818,,,0:03,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:1 Def:3),7:32 PM
+103,1,2,110,0020100818,,,0:00,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 31' 3PT Jump Shot,7:33 PM
+104,0,4,111,0020100818,,,0:00,1,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,7:33 PM
+105,0,13,112,0020100818,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,28 - 30,2,,7:33 PM
+106,0,12,115,0020100818,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,28 - 30,2,,7:35 PM
+107,43,1,116,0020100818,,,11:41,2,5,5,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,30 - 30,TIE,Rose 3' Alley Oop Layup (2 PTS) (Duncan 4 AST),7:36 PM
+108,1,1,117,0020100818,Jones 16' Jump Shot (2 PTS),,11:14,2,4,0,0,1908,Jumaine Jones,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,30 - 32,2,,7:36 PM
+109,1,2,118,0020100818,,,10:59,2,5,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Rose 16' Jump Shot,7:36 PM
+110,0,4,119,0020100818,Person REBOUND (Off:0 Def:1),,10:57,2,4,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:36 PM
+111,1,1,120,0020100818,Miller 16' Jump Shot (9 PTS),,10:50,2,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,30 - 34,4,,7:36 PM
+112,3,1,121,0020100818,,,10:23,2,5,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,32 - 34,2,Rose 4' Hook Shot (4 PTS),7:37 PM
+113,63,2,122,0020100818,MISS Miller 14' Fadeaway Jumper,,10:08,2,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:37 PM
+114,0,4,123,0020100818,,,10:05,2,5,0,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:1),7:37 PM
+115,1,1,124,0020100818,,,10:00,2,5,5,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,34 - 34,TIE,Daniels 13' Jump Shot (2 PTS) (Smith 1 AST),7:37 PM
+116,1,1,125,0020100818,Person 19' Jump Shot (7 PTS) (Miller 4 AST),,9:49,2,4,4,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,34 - 36,2,,7:37 PM
+117,1,1,126,0020100818,,,9:26,2,5,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,36 - 36,TIE,Rose 12' Jump Shot (6 PTS),7:38 PM
+118,46,2,127,0020100818,MISS Davis 6' Running Jump Shot,,9:10,2,4,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:38 PM
+119,0,4,128,0020100818,,,9:07,2,5,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Ferry REBOUND (Off:0 Def:1),7:38 PM
+120,2,6,129,0020100818,Jones S.FOUL (P2.T1),,8:53,2,4,0,1,1908,Jumaine Jones,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:38 PM
+121,4,9,130,0020100818,,,8:53,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:39 PM
+122,0,8,132,0020100818,,,8:53,2,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Robinson FOR Duncan,7:40 PM
+123,0,8,133,0020100818,SUB: Ilgauskas FOR Person,,8:53,2,4,4,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,7:40 PM
+124,0,8,134,0020100818,SUB: Murray FOR Jones,,8:53,2,4,4,0,1908,Jumaine Jones,CLE,Cleveland,1610612739.0,Cavaliers,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,7:40 PM
+125,11,3,135,0020100818,,,8:53,2,5,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,37 - 36,-1,Rose Free Throw 1 of 2 (7 PTS),7:41 PM
+126,12,3,136,0020100818,,,8:53,2,5,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,38 - 36,-2,Rose Free Throw 2 of 2 (8 PTS),7:41 PM
+127,44,1,137,0020100818,Skinner 1' Reverse Layup (2 PTS) (Davis 1 AST),,8:41,2,4,4,0,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,38 - 38,TIE,,7:41 PM
+128,1,5,138,0020100818,,,8:25,2,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson Bad Pass Turnover (P1.T3),7:42 PM
+129,1,2,139,0020100818,MISS Murray 22' Jump Shot,,8:13,2,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:42 PM
+130,0,4,140,0020100818,Ilgauskas REBOUND (Off:1 Def:1),,8:11,2,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:42 PM
+131,1,1,141,0020100818,Murray 24' 3PT Jump Shot (14 PTS) (Ilgauskas 1 AST),,8:08,2,4,4,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,38 - 41,3,,7:42 PM
+132,2,9,142,0020100818,,,8:01,2,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Short (Reg.1 Short 1),7:42 PM
+133,1,5,144,0020100818,,,7:51,2,5,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Ferry Bad Pass Turnover (P1.T4),7:43 PM
+134,47,2,145,0020100818,MISS Ilgauskas 11' Turnaround Jump Shot,,7:36,2,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:43 PM
+135,0,4,146,0020100818,,,7:35,2,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,7:44 PM
+136,3,6,147,0020100818,Ilgauskas L.B.FOUL (P2.T2),,7:35,2,4,0,1,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:44 PM
+137,0,8,148,0020100818,,,7:35,2,5,5,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Duncan FOR Rose,7:44 PM
+138,0,8,149,0020100818,SUB: Hill FOR Skinner,,7:35,2,4,4,0,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,7:44 PM
+139,1,1,150,0020100818,,,7:19,2,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,40 - 41,1,Duncan 12' Jump Shot (15 PTS) (Smith 2 AST),7:44 PM
+140,2,6,151,0020100818,,,7:01,2,5,0,1,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson S.FOUL (P2.T1),7:45 PM
+141,0,8,152,0020100818,,,7:01,2,5,5,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Bowen FOR Smith,7:45 PM
+142,11,3,153,0020100818,MISS Murray Free Throw 1 of 2,,7:01,2,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:45 PM
+143,1,4,154,0020100818,CAVALIERS Rebound,,7:01,2,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,7:45 PM
+144,12,3,155,0020100818,Murray Free Throw 2 of 2 (15 PTS),,7:01,2,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,40 - 42,2,,7:45 PM
+145,17,6,156,0020100818,CAVALIERS T.Foul (Def. 3 Sec Hill ),,6:51,2,4,0,1,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:46 PM
+146,16,3,157,0020100818,,,6:51,2,5,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,41 - 42,1,Ferry Free Throw Technical (1 PTS),7:46 PM
+147,1,1,158,0020100818,,,6:43,2,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,43 - 42,-1,Robinson 13' Jump Shot (7 PTS) (Duncan 5 AST),7:46 PM
+148,1,2,159,0020100818,MISS Miller 26' 3PT Jump Shot,,6:18,2,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:47 PM
+149,0,4,160,0020100818,,,6:16,2,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:0 Def:3),7:47 PM
+150,1,2,161,0020100818,,,6:09,2,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Robinson 16' Jump Shot,7:47 PM
+151,0,4,162,0020100818,Davis REBOUND (Off:0 Def:1),,6:08,2,4,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:47 PM
+152,63,2,163,0020100818,MISS Ilgauskas 14' Fadeaway Jumper,,5:55,2,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:47 PM
+153,0,4,164,0020100818,,,5:51,2,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:1 Def:4),7:47 PM
+154,1,2,165,0020100818,,,5:42,2,5,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Ferry 13' Jump Shot,7:47 PM
+155,0,4,166,0020100818,Ilgauskas REBOUND (Off:1 Def:2),,5:40,2,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:47 PM
+156,1,1,167,0020100818,Davis 25' 3PT Jump Shot (3 PTS) (Murray 2 AST),,5:33,2,4,4,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,43 - 45,2,,7:47 PM
+157,63,1,168,0020100818,,,5:06,2,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,45 - 45,TIE,Duncan 10' Fadeaway Jumper (17 PTS) (Robinson 2 AST),7:48 PM
+158,42,1,169,0020100818,Miller 3' Driving Layup (11 PTS),,4:44,2,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,45 - 47,2,,7:48 PM
+159,2,6,170,0020100818,Ilgauskas S.FOUL (P3.T3),,4:27,2,4,0,1,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:48 PM
+160,1,9,171,0020100818,CAVALIERS Timeout: Regular (Full 2 Short 0),,4:27,2,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,7:49 PM
+161,0,8,173,0020100818,,,4:27,2,5,5,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Smith FOR Ferry,7:50 PM
+162,0,8,174,0020100818,SUB: Doleac FOR Ilgauskas,,4:27,2,4,4,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,7:50 PM
+163,11,3,175,0020100818,,,4:27,2,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Robinson Free Throw 1 of 2,7:51 PM
+164,1,4,176,0020100818,,,4:27,2,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,7:51 PM
+165,12,3,177,0020100818,,,4:27,2,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Robinson Free Throw 2 of 2,7:51 PM
+166,0,4,178,0020100818,Murray REBOUND (Off:1 Def:2),,4:26,2,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:51 PM
+167,1,2,179,0020100818,MISS Miller 19' Jump Shot,,4:07,2,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:51 PM
+168,0,4,180,0020100818,Davis REBOUND (Off:1 Def:1),,4:04,2,4,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:51 PM
+169,5,2,181,0020100818,MISS Davis 1' Layup,,4:03,2,4,0,5,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,,,Robinson BLOCK (1 BLK),7:52 PM
+170,0,4,182,0020100818,,,4:01,2,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,7:52 PM
+171,2,6,183,0020100818,Miller S.FOUL (P2.T4),,3:37,2,4,0,1,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:52 PM
+172,11,3,184,0020100818,,,3:37,2,5,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,46 - 47,1,Smith Free Throw 1 of 2 (1 PTS),7:52 PM
+173,0,8,186,0020100818,,,3:37,2,5,5,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Parker FOR Daniels,7:53 PM
+174,12,3,187,0020100818,,,3:37,2,5,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,47 - 47,TIE,Smith Free Throw 2 of 2 (2 PTS),7:53 PM
+175,1,2,188,0020100818,MISS Murray 25' 3PT Jump Shot,,3:23,2,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:53 PM
+176,0,4,189,0020100818,Davis REBOUND (Off:2 Def:1),,3:21,2,4,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:53 PM
+177,1,1,190,0020100818,Miller 16' Jump Shot (13 PTS),,3:06,2,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,47 - 49,2,,7:54 PM
+178,63,2,191,0020100818,,,2:40,2,5,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Smith 12' Fadeaway Jumper,7:54 PM
+179,0,4,192,0020100818,Hill REBOUND (Off:0 Def:5),,2:37,2,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:54 PM
+180,1,5,193,0020100818,Miller Bad Pass Turnover (P2.T4),,2:20,2,4,5,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Robinson STEAL (2 STL),7:54 PM
+181,1,6,194,0020100818,Hill P.FOUL (P2.PN),,2:12,2,4,0,1,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:55 PM
+182,1,9,195,0020100818,,,2:12,2,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.2 Short 1),7:55 PM
+183,11,3,199,0020100818,,,2:12,2,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,48 - 49,1,Duncan Free Throw 1 of 2 (18 PTS),7:57 PM
+184,12,3,200,0020100818,,,2:12,2,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,49 - 49,TIE,Duncan Free Throw 2 of 2 (19 PTS),7:57 PM
+185,1,6,201,0020100818,,,2:02,2,5,0,1,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Parker P.FOUL (P2.T2),7:58 PM
+186,1,2,202,0020100818,MISS Murray  3PT Jump Shot,,1:51,2,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:58 PM
+187,0,4,203,0020100818,Doleac REBOUND (Off:1 Def:0),,1:49,2,4,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:58 PM
+188,1,2,204,0020100818,MISS Miller 15' Jump Shot,,1:30,2,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,7:58 PM
+189,0,4,205,0020100818,,,1:28,2,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:1 Def:5),7:58 PM
+190,41,1,206,0020100818,,,1:09,2,5,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,51 - 49,-2,Bowen 1' Running Layup (8 PTS),7:59 PM
+191,2,9,207,0020100818,CAVALIERS Timeout: Short (Full 2 Short 1),,1:00,2,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,7:59 PM
+192,47,2,211,0020100818,MISS Davis 12' Turnaround Jump Shot,,0:42,2,4,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:00 PM
+193,0,4,212,0020100818,Doleac REBOUND (Off:2 Def:0),,0:41,2,4,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:00 PM
+194,1,6,213,0020100818,,,0:41,2,5,0,1,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bowen P.FOUL (P3.T3),8:00 PM
+195,0,8,214,0020100818,,,0:41,2,5,5,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Daniels FOR Bowen,8:01 PM
+196,1,1,215,0020100818,Doleac 14' Jump Shot (2 PTS) (Miller 5 AST),,0:34,2,4,4,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,51 - 51,TIE,,8:01 PM
+197,65,2,217,0020100818,,,0:10,2,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 11' Jump Hook Shot,8:01 PM
+198,0,4,218,0020100818,Doleac REBOUND (Off:2 Def:1),,0:06,2,4,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:01 PM
+199,2,6,219,0020100818,,,0:05,2,5,0,1,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Smith S.FOUL (P1.PN),8:02 PM
+200,11,3,220,0020100818,MISS Davis Free Throw 1 of 2,,0:05,2,4,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:02 PM
+201,1,4,221,0020100818,CAVALIERS Rebound,,0:05,2,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:02 PM
+202,12,3,222,0020100818,Davis Free Throw 2 of 2 (4 PTS),,0:05,2,4,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,51 - 52,1,,8:02 PM
+203,1,2,223,0020100818,,,0:00,2,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Parker 15' Jump Shot,8:02 PM
+204,0,4,224,0020100818,,,0:00,2,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,8:02 PM
+205,0,13,225,0020100818,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 52,1,,8:02 PM
+206,0,12,227,0020100818,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 52,1,,8:18 PM
+207,46,2,228,0020100818,,,11:40,3,5,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Bowen 5' Running Jump Shot,8:19 PM
+208,0,4,229,0020100818,Murray REBOUND (Off:1 Def:3),,11:39,3,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:19 PM
+209,46,1,230,0020100818,Miller 15' Running Jump Shot (15 PTS),,11:31,3,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,51 - 54,3,,8:19 PM
+210,2,6,231,0020100818,Hill S.FOUL (P3.T1),,11:07,3,4,0,1,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:19 PM
+211,11,3,232,0020100818,,,11:07,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,52 - 54,2,Duncan Free Throw 1 of 2 (20 PTS),8:19 PM
+212,12,3,233,0020100818,,,11:07,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,53 - 54,1,Duncan Free Throw 2 of 2 (21 PTS),8:19 PM
+213,1,2,234,0020100818,MISS Person 17' Jump Shot,,10:51,3,4,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:20 PM
+214,0,4,235,0020100818,,,10:49,3,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:0 Def:4),8:20 PM
+215,2,5,236,0020100818,Miller STEAL (1 STL),,10:41,3,5,4,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Bowen Lost Ball Turnover (P1.T5),8:20 PM
+216,1,5,237,0020100818,Miller Bad Pass Turnover (P3.T5),,10:39,3,4,5,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Smith STEAL (1 STL),8:20 PM
+217,5,1,238,0020100818,,,10:36,3,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,55 - 54,-1,Robinson 1' Layup (9 PTS) (Smith 3 AST),8:20 PM
+218,2,9,239,0020100818,CAVALIERS Timeout: Short (Full 2 Short 2),,10:36,3,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:21 PM
+219,63,2,240,0020100818,MISS Ilgauskas 15' Fadeaway Jumper,,10:20,3,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:21 PM
+220,0,4,241,0020100818,,,10:17,3,5,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:1),8:21 PM
+221,3,5,242,0020100818,,,10:09,3,5,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Smith Out Of Bounds Turnover (P1.T6),8:22 PM
+222,46,1,243,0020100818,Miller 2' Running Jump Shot (17 PTS),,9:59,3,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,55 - 56,1,,8:22 PM
+223,1,1,244,0020100818,,,9:46,3,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,57 - 56,-1,Robinson 12' Jump Shot (11 PTS) (Parker 1 AST),8:22 PM
+224,2,6,245,0020100818,,,9:30,3,5,0,1,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Smith S.FOUL (P2.T1),8:22 PM
+225,11,3,246,0020100818,Murray Free Throw 1 of 2 (16 PTS),,9:30,3,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,57 - 57,TIE,,8:23 PM
+226,12,3,247,0020100818,Murray Free Throw 2 of 2 (17 PTS),,9:30,3,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,57 - 58,1,,8:23 PM
+227,2,6,248,0020100818,Murray S.FOUL (P1.T2),,9:13,3,4,0,1,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:23 PM
+228,11,3,249,0020100818,,,9:13,3,5,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,58 - 58,TIE,Smith Free Throw 1 of 2 (3 PTS),8:24 PM
+229,12,3,250,0020100818,,,9:13,3,5,0,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,59 - 58,-1,Smith Free Throw 2 of 2 (4 PTS),8:24 PM
+230,1,2,251,0020100818,MISS Ilgauskas 15' Jump Shot,,8:57,3,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:24 PM
+231,0,4,252,0020100818,,,8:53,3,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:0 Def:5),8:24 PM
+232,8,1,253,0020100818,,,8:49,3,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,61 - 58,-3,Duncan 1' Slam Dunk (23 PTS) (Parker 2 AST),8:25 PM
+233,1,6,254,0020100818,,,8:38,3,5,0,1,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Smith P.FOUL (P3.T2),8:25 PM
+234,1,1,255,0020100818,Murray 24' 3PT Jump Shot (20 PTS) (Ilgauskas 2 AST),,8:28,3,4,4,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,61 - 61,TIE,,8:25 PM
+235,1,2,256,0020100818,,,8:04,3,5,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Bowen 15' Jump Shot,8:26 PM
+236,0,4,257,0020100818,Murray REBOUND (Off:1 Def:4),,8:02,3,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:26 PM
+237,1,2,258,0020100818,MISS Person 16' Jump Shot,,7:56,3,4,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:26 PM
+238,0,4,259,0020100818,,,7:55,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:1 Def:6),8:26 PM
+239,2,6,260,0020100818,Person S.FOUL (P1.T3),,7:50,3,4,0,1,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:26 PM
+240,0,8,261,0020100818,,,7:50,3,5,5,0,120,Steven Smith,SAS,San Antonio,1610612759.0,Spurs,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Smith FOR Smith,8:26 PM
+241,11,3,262,0020100818,,,7:50,3,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,62 - 61,-1,Robinson Free Throw 1 of 2 (12 PTS),8:26 PM
+242,12,3,263,0020100818,,,7:50,3,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,63 - 61,-2,Robinson Free Throw 2 of 2 (13 PTS),8:26 PM
+243,1,2,264,0020100818,MISS Miller 15' Jump Shot,,7:39,3,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:27 PM
+244,0,4,265,0020100818,,,7:38,3,5,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bowen REBOUND (Off:0 Def:1),8:27 PM
+245,5,1,266,0020100818,,,7:17,3,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,65 - 61,-4,Duncan 4' Layup (25 PTS) (Smith 3 AST),8:27 PM
+246,1,2,267,0020100818,MISS Ilgauskas 9' Jump Shot,,6:57,3,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:28 PM
+247,0,4,268,0020100818,Hill REBOUND (Off:1 Def:5),,6:54,3,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:28 PM
+248,63,2,269,0020100818,MISS Person 12' Fadeaway Jumper,,6:48,3,4,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:28 PM
+249,0,4,270,0020100818,CAVALIERS Rebound,,6:45,3,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:28 PM
+250,1,1,271,0020100818,Person 13' Jump Shot (9 PTS) (Murray 3 AST),,6:44,3,4,4,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,65 - 63,-2,,8:28 PM
+251,41,2,272,0020100818,,,6:29,3,5,0,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Smith 5' Running Layup,8:28 PM
+252,0,4,273,0020100818,Ilgauskas REBOUND (Off:1 Def:3),,6:26,3,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:28 PM
+253,2,6,274,0020100818,,,6:20,3,5,0,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan S.FOUL (P2.T3),8:29 PM
+254,11,3,275,0020100818,Miller Free Throw 1 of 2 (18 PTS),,6:20,3,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,65 - 64,-1,,8:29 PM
+255,12,3,276,0020100818,Miller Free Throw 2 of 2 (19 PTS),,6:20,3,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,65 - 65,TIE,,8:29 PM
+256,1,1,277,0020100818,,,6:07,3,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,67 - 65,-2,Robinson 17' Jump Shot (15 PTS) (Parker 3 AST),8:29 PM
+257,5,1,278,0020100818,Hill 3' Layup (2 PTS) (Miller 6 AST),,5:47,3,4,4,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,67 - 67,TIE,,8:30 PM
+258,1,2,279,0020100818,,,5:19,3,5,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Bowen 19' Jump Shot,8:30 PM
+259,0,4,280,0020100818,,,5:18,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,8:30 PM
+260,3,6,281,0020100818,Murray L.B.FOUL (P2.T4),,5:18,3,4,0,1,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:30 PM
+261,1,9,282,0020100818,CAVALIERS Timeout: Regular (Full 3 Short 2),,5:18,3,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:31 PM
+262,0,8,285,0020100818,SUB: Doleac FOR Ilgauskas,,5:18,3,4,4,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:32 PM
+263,1,2,286,0020100818,,,5:09,3,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Robinson 16' Jump Shot,8:33 PM
+264,0,4,287,0020100818,Person REBOUND (Off:0 Def:2),,5:08,3,4,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:33 PM
+265,5,1,288,0020100818,Hill 1' Layup (4 PTS),,5:01,3,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,67 - 69,2,,8:33 PM
+266,1,5,289,0020100818,Hill STEAL (1 STL),,4:46,3,5,4,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Duncan Bad Pass Turnover (P2.T7),8:33 PM
+267,5,1,290,0020100818,Hill 2' Layup (6 PTS) (Miller 7 AST),,4:40,3,4,4,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,67 - 71,4,,8:33 PM
+268,1,9,291,0020100818,,,4:36,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.3 Short 1),8:33 PM
+269,1,2,295,0020100818,,,4:22,3,5,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Bowen 25' 3PT Jump Shot,8:35 PM
+270,0,4,296,0020100818,Doleac REBOUND (Off:2 Def:2),,4:20,3,4,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:35 PM
+271,1,6,297,0020100818,,,4:18,3,5,0,1,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bowen P.FOUL (P4.T4),8:36 PM
+272,11,6,298,0020100818,,,4:18,3,5,0,1,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bowen T.FOUL (P4.T4),8:36 PM
+273,16,3,299,0020100818,Person Free Throw Technical (10 PTS),,4:18,3,4,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,67 - 72,5,,8:36 PM
+274,0,8,300,0020100818,,,4:18,3,5,5,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Daniels FOR Bowen,8:36 PM
+275,0,8,301,0020100818,,,4:18,3,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Rose FOR Robinson,8:36 PM
+276,17,6,302,0020100818,,,4:09,3,5,0,1,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Spurs T.Foul (Def. 3 Sec Rose ),8:37 PM
+277,16,3,303,0020100818,Person Free Throw Technical (11 PTS),,4:09,3,4,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,67 - 73,6,,8:37 PM
+278,1,2,304,0020100818,MISS Miller 29' 3PT Jump Shot,,3:55,3,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:37 PM
+279,0,4,305,0020100818,CAVALIERS Rebound,,3:55,3,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:37 PM
+280,11,5,306,0020100818,CAVALIERS Turnover: Shot Clock (T#6),,3:55,3,2,0,1,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:37 PM
+281,1,2,308,0020100818,,,3:34,3,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Daniels 25' 3PT Jump Shot,8:38 PM
+282,0,4,309,0020100818,,,3:32,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:2 Def:6),8:38 PM
+283,5,2,310,0020100818,,,3:29,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 2' Layup,8:38 PM
+284,0,4,312,0020100818,,,3:27,3,5,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Rose REBOUND (Off:1 Def:0),8:38 PM
+285,4,1,311,0020100818,,,3:27,3,5,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,69 - 73,4,Rose 1' Tip Shot (10 PTS),8:38 PM
+286,1,2,313,0020100818,MISS Hill 12' Jump Shot,,3:17,3,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:38 PM
+287,0,4,314,0020100818,,,3:15,3,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Daniels REBOUND (Off:0 Def:1),8:38 PM
+288,5,2,315,0020100818,Hill BLOCK (1 BLK),,3:11,3,5,0,4,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,,,MISS Smith 1' Layup,8:38 PM
+289,0,4,316,0020100818,Doleac REBOUND (Off:2 Def:3),,3:08,3,4,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:38 PM
+290,4,6,317,0020100818,Murray OFF.Foul (P3),,3:04,3,4,0,1,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:38 PM
+291,5,5,318,0020100818,Murray Foul Turnover (P1.T7),,3:04,3,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:38 PM
+292,0,8,319,0020100818,SUB: Davis FOR Miller,,3:04,3,4,4,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:39 PM
+293,0,8,320,0020100818,SUB: Skinner FOR Hill,,3:04,3,4,4,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:39 PM
+294,1,1,321,0020100818,,,2:49,3,5,5,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,72 - 73,1,Smith  3PT Jump Shot (5 PTS) (Parker 4 AST),8:39 PM
+295,1,1,322,0020100818,Person 15' Jump Shot (13 PTS) (Davis 2 AST),,2:35,3,4,4,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,72 - 75,3,,8:39 PM
+296,42,1,323,0020100818,,,2:19,3,5,5,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,74 - 75,1,Daniels 2' Driving Layup (4 PTS) (Parker 5 AST),8:40 PM
+297,1,9,324,0020100818,CAVALIERS Timeout: Regular (Full 4 Short 2),,2:07,3,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:40 PM
+298,0,8,328,0020100818,,,2:07,3,5,5,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Ferry FOR Parker,8:42 PM
+299,1,5,329,0020100818,Doleac Bad Pass Turnover (P1.T8),,1:59,3,4,5,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Smith STEAL (1 STL),8:42 PM
+300,65,1,330,0020100818,,,1:36,3,5,5,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,76 - 75,-1,Rose 9' Jump Hook Shot (12 PTS) (Ferry 1 AST),8:42 PM
+301,1,2,331,0020100818,MISS Murray 21' Jump Shot,,1:15,3,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:43 PM
+302,0,4,332,0020100818,,,1:12,3,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Daniels REBOUND (Off:0 Def:2),8:43 PM
+303,1,5,333,0020100818,,,1:10,3,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Daniels Bad Pass Turnover (P1.T8),8:43 PM
+304,0,8,334,0020100818,SUB: Miller FOR Murray,,1:10,3,4,4,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:43 PM
+305,63,2,335,0020100818,MISS Miller 7' Fadeaway Jumper,,0:51,3,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:43 PM
+306,0,4,336,0020100818,,,0:49,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:2 Def:7),8:43 PM
+307,1,5,337,0020100818,,,0:39,3,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Daniels Bad Pass Turnover (P2.T9),8:44 PM
+308,1,2,338,0020100818,MISS Skinner 3' Jump Shot,,0:25,3,4,0,5,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,,,Smith BLOCK (2 BLK),8:44 PM
+309,0,4,340,0020100818,Skinner REBOUND (Off:1 Def:0),,0:24,3,4,0,0,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:44 PM
+310,5,1,339,0020100818,Skinner  Layup (4 PTS),,0:24,3,4,0,0,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,76 - 77,1,,8:44 PM
+311,1,2,341,0020100818,,,0:06,3,5,0,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Smith 25' 3PT Jump Shot,8:44 PM
+312,0,4,342,0020100818,Davis REBOUND (Off:2 Def:2),,0:04,3,4,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:44 PM
+313,1,5,343,0020100818,Davis Bad Pass Turnover (P1.T9),,0:00,3,4,5,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Daniels STEAL (1 STL),8:44 PM
+314,1,2,344,0020100818,,,0:00,3,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Daniels 62' 3PT Jump Shot,8:45 PM
+315,0,4,345,0020100818,,,0:00,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,8:45 PM
+316,0,13,346,0020100818,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,76 - 77,1,,8:45 PM
+317,0,12,349,0020100818,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,76 - 77,1,,8:47 PM
+318,1,2,350,0020100818,MISS Person 16' Jump Shot,,11:48,4,4,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:47 PM
+319,0,4,351,0020100818,,,11:45,4,5,0,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:2),8:47 PM
+320,1,1,352,0020100818,,,11:31,4,5,5,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,78 - 77,-1,Daniels 18' Jump Shot (6 PTS) (Smith 4 AST),8:48 PM
+321,1,1,353,0020100818,Person 17' Jump Shot (15 PTS) (Davis 3 AST),,11:09,4,4,4,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,78 - 79,1,,8:48 PM
+322,1,2,354,0020100818,Skinner BLOCK (1 BLK),,10:49,4,5,0,4,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,,,MISS Ferry 13' Jump Shot,8:48 PM
+323,0,4,355,0020100818,Doleac REBOUND (Off:2 Def:4),,10:46,4,4,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:48 PM
+324,1,1,356,0020100818,Miller 15' Jump Shot (21 PTS) (Doleac 1 AST),,10:43,4,4,4,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,78 - 81,3,,8:48 PM
+325,1,2,357,0020100818,,,10:21,4,5,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Ferry  3PT Jump Shot,8:49 PM
+326,0,4,358,0020100818,,,10:19,4,5,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Rose REBOUND (Off:2 Def:0),8:49 PM
+327,1,1,359,0020100818,,,10:12,4,5,5,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,81 - 81,TIE,Daniels 26' 3PT Jump Shot (9 PTS) (Smith 5 AST),8:49 PM
+328,1,6,360,0020100818,,,9:56,4,5,0,1,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Daniels P.FOUL (P1.T1),8:49 PM
+329,2,5,361,0020100818,Doleac Lost Ball Turnover (P2.T10),,9:48,4,4,5,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Ferry STEAL (1 STL),8:50 PM
+330,1,2,362,0020100818,,,9:35,4,5,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Ferry 25' 3PT Jump Shot,8:50 PM
+331,0,4,363,0020100818,,,9:34,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:3 Def:7),8:50 PM
+332,1,6,364,0020100818,Doleac P.FOUL (P1.T1),,9:34,4,4,0,1,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:50 PM
+333,0,8,365,0020100818,SUB: Hill FOR Doleac,,9:34,4,4,4,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,8:50 PM
+334,41,1,366,0020100818,,,9:26,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,83 - 81,-2,Duncan 3' Running Layup (27 PTS),8:51 PM
+335,3,2,367,0020100818,MISS Davis 3' Hook Shot,,9:03,4,4,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:51 PM
+336,0,4,369,0020100818,Skinner REBOUND (Off:2 Def:0),,8:59,4,4,0,0,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:51 PM
+337,4,1,368,0020100818,Skinner 1' Tip Shot (6 PTS),,8:59,4,4,0,0,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,83 - 83,TIE,,8:51 PM
+338,17,6,370,0020100818,CAVALIERS T.Foul (Def. 3 Sec Hill ),,8:44,4,4,0,1,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:51 PM
+339,4,9,371,0020100818,,,8:44,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:51 PM
+340,16,3,375,0020100818,,,8:44,4,5,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,84 - 83,-1,Ferry Free Throw Technical (2 PTS),8:54 PM
+341,1,2,376,0020100818,Skinner BLOCK (2 BLK),,8:31,4,5,0,4,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,,,MISS Duncan 16' Jump Shot,8:54 PM
+342,0,4,377,0020100818,Davis REBOUND (Off:2 Def:3),,8:28,4,4,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:54 PM
+343,14,6,378,0020100818,Hill FLAGRANT.FOUL.TYPE1 (P4.T2),,8:13,4,4,0,1,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:55 PM
+344,5,5,379,0020100818,Hill Foul Turnover (P1.T11),,8:13,4,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:55 PM
+345,18,3,380,0020100818,,,8:13,4,5,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,85 - 83,-2,Rose Free Throw Flagrant 1 of 2 (13 PTS),8:55 PM
+346,19,3,381,0020100818,,,8:13,4,5,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,86 - 83,-3,Rose Free Throw Flagrant 2 of 2 (14 PTS),8:55 PM
+347,8,1,382,0020100818,,,7:58,4,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,88 - 83,-5,Duncan  Slam Dunk (29 PTS) (Smith 6 AST),8:56 PM
+348,2,6,383,0020100818,,,7:44,4,5,0,1,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Smith S.FOUL (P1.T2),8:56 PM
+349,11,3,384,0020100818,Davis Free Throw 1 of 2 (5 PTS),,7:44,4,4,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,88 - 84,-4,,8:57 PM
+350,12,3,385,0020100818,MISS Davis Free Throw 2 of 2,,7:44,4,4,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,8:57 PM
+351,0,4,386,0020100818,,,7:43,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:3 Def:8),8:57 PM
+352,1,1,387,0020100818,,,7:21,4,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,90 - 84,-6,Duncan 8' Jump Shot (31 PTS) (Daniels 1 AST),8:57 PM
+353,11,6,388,0020100818,,,7:12,4,6,0,1,1992,,,,,,0,,,,,,0,,,,,,,,,8:58 PM
+354,16,3,389,0020100818,,,7:12,4,5,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,91 - 84,-7,Ferry Free Throw Technical (3 PTS),8:58 PM
+355,2,5,390,0020100818,Davis Lost Ball Turnover (P2.T12),,6:52,4,4,5,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Ferry STEAL (2 STL),8:59 PM
+356,8,1,391,0020100818,,,6:47,4,5,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,93 - 84,-9,Rose 1' Slam Dunk (16 PTS),8:59 PM
+357,1,9,392,0020100818,CAVALIERS Timeout: Regular (Full 5 Short 2),,6:47,4,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,8:59 PM
+358,1,2,396,0020100818,MISS Miller 4' Jump Shot,,6:34,4,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:01 PM
+359,0,4,398,0020100818,Skinner REBOUND (Off:3 Def:0),,6:32,4,4,0,0,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:01 PM
+360,4,1,397,0020100818,Skinner 1' Tip Shot (8 PTS),,6:32,4,4,0,0,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,93 - 86,-7,,9:01 PM
+361,4,6,399,0020100818,,,6:16,4,5,0,1,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Rose OFF.Foul (P1),9:01 PM
+362,5,5,400,0020100818,,,6:16,4,5,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Rose Foul Turnover (P2.T10),9:01 PM
+363,1,6,401,0020100818,,,6:00,4,5,0,1,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Smith P.FOUL (P2.T3),9:02 PM
+364,0,8,402,0020100818,SUB: Murray FOR Davis,,6:00,4,4,4,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:02 PM
+365,1,2,403,0020100818,MISS Miller 18' Jump Shot,,5:47,4,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:02 PM
+366,0,4,404,0020100818,,,5:44,4,5,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Ferry REBOUND (Off:0 Def:2),9:02 PM
+367,1,1,405,0020100818,,,5:30,4,5,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,95 - 86,-9,Rose 14' Jump Shot (18 PTS),9:03 PM
+368,5,1,406,0020100818,Miller 3' Layup (23 PTS) (Person 2 AST),,5:14,4,4,4,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,95 - 88,-7,,9:03 PM
+369,2,6,407,0020100818,,,5:14,4,5,0,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan S.FOUL (P3.T4),9:03 PM
+370,10,3,408,0020100818,Miller Free Throw 1 of 1 (24 PTS),,5:14,4,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,95 - 89,-6,,9:03 PM
+371,0,8,409,0020100818,SUB: Ilgauskas FOR Skinner,,4:57,4,4,4,0,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:04 PM
+372,1,2,410,0020100818,,,4:54,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 18' Jump Shot,9:04 PM
+373,0,4,411,0020100818,CAVALIERS Rebound,,4:54,4,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,9:04 PM
+374,3,6,412,0020100818,,,4:54,4,5,0,1,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Rose L.B.FOUL (P2.PN),9:04 PM
+375,11,3,413,0020100818,Hill Free Throw 1 of 2 (7 PTS),,4:54,4,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,95 - 90,-5,,9:04 PM
+376,12,3,414,0020100818,Hill Free Throw 2 of 2 (8 PTS),,4:54,4,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,95 - 91,-4,,9:05 PM
+377,63,2,415,0020100818,,,4:33,4,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Daniels 19' Fadeaway Jumper,9:05 PM
+378,0,4,416,0020100818,Hill REBOUND (Off:1 Def:6),,4:31,4,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:05 PM
+379,2,6,417,0020100818,,,4:18,4,5,0,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan S.FOUL (P4.PN),9:06 PM
+380,11,3,418,0020100818,MISS Ilgauskas Free Throw 1 of 2,,4:18,4,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:06 PM
+381,1,4,419,0020100818,CAVALIERS Rebound,,4:18,4,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,9:06 PM
+382,0,8,420,0020100818,SUB: Davis FOR Person,,4:18,4,4,4,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:06 PM
+383,12,3,421,0020100818,MISS Ilgauskas Free Throw 2 of 2,,4:18,4,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:06 PM
+384,0,4,422,0020100818,,,4:17,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:3 Def:9),9:06 PM
+385,1,2,423,0020100818,,,3:58,4,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Daniels 26' 3PT Jump Shot,9:07 PM
+386,0,4,424,0020100818,CAVALIERS Rebound,,3:58,4,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,9:07 PM
+387,1,2,425,0020100818,MISS Miller 12' Jump Shot,,3:34,4,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:07 PM
+388,0,4,426,0020100818,,,3:33,4,5,0,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:3),9:07 PM
+389,1,2,427,0020100818,,,3:13,4,5,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Ferry  3PT Jump Shot,9:08 PM
+390,0,4,428,0020100818,Ilgauskas REBOUND (Off:1 Def:4),,3:11,4,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:08 PM
+391,1,2,429,0020100818,MISS Hill 15' Jump Shot,,2:58,4,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:08 PM
+392,0,4,430,0020100818,,,2:56,4,5,0,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Rose REBOUND (Off:2 Def:1),9:08 PM
+393,3,2,431,0020100818,Ilgauskas BLOCK (1 BLK),,2:33,4,5,0,4,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,,,MISS Duncan 4' Hook Shot,9:08 PM
+394,0,4,432,0020100818,,,2:31,4,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,9:08 PM
+395,11,5,433,0020100818,,,2:31,4,3,0,1,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Turnover: Shot Clock (T#11),9:08 PM
+396,1,9,434,0020100818,,,2:31,4,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.4 Short 1),9:09 PM
+397,0,8,436,0020100818,,,2:31,4,5,5,0,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Robinson FOR Rose,9:10 PM
+398,0,8,437,0020100818,SUB: Person FOR Davis,,2:31,4,4,4,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:10 PM
+399,2,6,438,0020100818,,,2:15,4,5,0,1,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson S.FOUL (P3.PN),9:11 PM
+400,11,3,439,0020100818,Ilgauskas Free Throw 1 of 2 (8 PTS),,2:15,4,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,95 - 92,-3,,9:11 PM
+401,12,3,440,0020100818,Ilgauskas Free Throw 2 of 2 (9 PTS),,2:15,4,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,95 - 93,-2,,9:11 PM
+402,2,5,441,0020100818,Murray STEAL (1 STL),,2:01,4,5,4,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Daniels Lost Ball Turnover (P3.T12),9:12 PM
+403,5,2,442,0020100818,MISS Miller 2' Layup,,1:56,4,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:12 PM
+404,0,4,443,0020100818,,,1:53,4,5,0,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:4),9:12 PM
+405,1,6,444,0020100818,Hill P.FOUL (P5.T3),,1:43,4,4,0,1,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:12 PM
+406,2,6,445,0020100818,Ilgauskas S.FOUL (P4.PN),,1:37,4,4,0,1,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:12 PM
+407,11,3,446,0020100818,,,1:37,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan Free Throw 1 of 2,9:13 PM
+408,1,4,447,0020100818,,,1:37,4,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,9:13 PM
+409,12,3,448,0020100818,,,1:37,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,96 - 93,-3,Duncan Free Throw 2 of 2 (32 PTS),9:13 PM
+410,1,1,449,0020100818,Ilgauskas 4' Jump Shot (11 PTS),,1:18,4,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,96 - 95,-1,,9:13 PM
+411,2,6,450,0020100818,,,1:18,4,5,0,1,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson S.FOUL (P4.PN),9:13 PM
+412,10,3,451,0020100818,Ilgauskas Free Throw 1 of 1 (12 PTS),,1:18,4,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,96 - 96,TIE,,9:13 PM
+413,1,2,453,0020100818,,,1:03,4,5,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Ferry  3PT Jump Shot,9:14 PM
+414,0,4,454,0020100818,Ilgauskas REBOUND (Off:1 Def:5),,1:01,4,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:14 PM
+415,10,6,455,0020100818,,,0:53,4,4,5,1,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:14 PM
+416,4,6,457,0020100818,Murray OFF.Foul (P5),,0:45,4,4,0,1,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:15 PM
+417,5,5,458,0020100818,Murray Foul Turnover (P2.T13),,0:45,4,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:15 PM
+418,52,1,459,0020100818,,,0:33,4,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,98 - 96,-2,Robinson 1' Alley Oop Dunk (17 PTS) (Duncan 6 AST),9:15 PM
+419,1,9,460,0020100818,CAVALIERS Timeout: Regular (Full 6 Short 2),,0:33,4,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,9:15 PM
+420,0,8,463,0020100818,,,0:33,4,5,5,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Bowen FOR Ferry,9:17 PM
+421,1,2,464,0020100818,MISS Murray 27' 3PT Jump Shot,,0:21,4,4,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:18 PM
+422,0,4,465,0020100818,,,0:20,4,5,0,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:5),9:18 PM
+423,1,6,466,0020100818,Ilgauskas P.FOUL (P5.PN),,0:20,4,4,0,1,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:18 PM
+424,11,3,467,0020100818,,,0:20,4,5,0,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,99 - 96,-3,Smith Free Throw 1 of 2 (6 PTS),9:18 PM
+425,12,3,469,0020100818,,,0:20,4,5,0,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,100 - 96,-4,Smith Free Throw 2 of 2 (7 PTS),9:19 PM
+426,1,1,471,0020100818,Miller 4' Jump Shot (26 PTS),,0:14,4,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,100 - 98,-2,,9:19 PM
+427,1,9,472,0020100818,,,0:14,4,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.5 Short 1),9:19 PM
+428,0,8,474,0020100818,,,0:14,4,5,5,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Ferry FOR Bowen,9:21 PM
+429,0,8,475,0020100818,SUB: Skinner FOR Ilgauskas,,0:14,4,4,4,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:21 PM
+430,1,6,476,0020100818,Skinner P.FOUL (P2.PN),,0:11,4,4,0,1,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:21 PM
+431,0,8,477,0020100818,,,0:11,4,5,5,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Bowen FOR Ferry,9:21 PM
+432,11,3,478,0020100818,,,0:11,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,101 - 98,-3,Duncan Free Throw 1 of 2 (33 PTS),9:22 PM
+433,0,8,480,0020100818,SUB: Ilgauskas FOR Skinner,,0:11,4,4,4,0,1730,Brian Skinner,CLE,Cleveland,1610612739.0,Cavaliers,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:22 PM
+434,0,8,481,0020100818,,,0:11,4,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Rose FOR Robinson,9:22 PM
+435,0,8,482,0020100818,SUB: Davis FOR Hill,,0:11,4,4,4,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:22 PM
+436,17,5,484,0020100818,,,0:11,4,5,0,1,990,Malik Rose,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Rose Lane Violation Turnover (P3.T13),9:23 PM
+437,0,8,485,0020100818,SUB: Jones FOR Ilgauskas,,0:11,4,4,4,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,1908,Jumaine Jones,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:23 PM
+438,0,8,486,0020100818,,,0:11,4,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Parker FOR Duncan,9:23 PM
+439,1,1,488,0020100818,Miller 26' 3PT Jump Shot (29 PTS) (Murray 4 AST),,0:00,4,4,4,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,101 - 101,TIE,,9:24 PM
+440,0,13,489,0020100818,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,101 - 101,TIE,,9:24 PM
+441,0,12,491,0020100818,,,5:00,5,0,0,0,0,,,,,,0,,,,,,0,,,,,,101 - 101,TIE,,9:26 PM
+442,0,10,492,0020100818,Jump Ball Ilgauskas vs. Robinson: Tip to Ferry,,5:00,5,4,5,5,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,,,,9:26 PM
+443,1,1,493,0020100818,,,4:37,5,5,5,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,104 - 101,-3,Ferry 25' 3PT Jump Shot (6 PTS) (Smith 7 AST),9:26 PM
+444,1,2,494,0020100818,MISS Hill 16' Jump Shot,,4:16,5,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:27 PM
+445,0,4,495,0020100818,,,4:13,5,5,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Ferry REBOUND (Off:0 Def:3),9:27 PM
+446,1,2,497,0020100818,,,4:01,5,5,0,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Ferry  3PT Jump Shot,9:27 PM
+447,0,4,498,0020100818,Hill REBOUND (Off:1 Def:7),,3:59,5,4,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:27 PM
+448,1,1,499,0020100818,Murray 16' Jump Shot (22 PTS) (Ilgauskas 3 AST),,3:42,5,4,4,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,104 - 103,-1,,9:27 PM
+449,2,6,500,0020100818,Murray S.FOUL (P6.T1),,3:19,5,4,0,1,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:28 PM
+450,0,8,501,0020100818,SUB: Davis FOR Murray,,3:19,5,4,4,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:28 PM
+451,11,3,502,0020100818,,,3:19,5,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,105 - 103,-2,Duncan Free Throw 1 of 2 (34 PTS),9:28 PM
+452,12,3,503,0020100818,,,3:19,5,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,106 - 103,-3,Duncan Free Throw 2 of 2 (35 PTS),9:29 PM
+453,4,6,504,0020100818,Ilgauskas OFF.Foul (P6),,2:59,5,4,0,1,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:29 PM
+454,5,5,505,0020100818,Ilgauskas Foul Turnover (P2.T14),,2:59,5,4,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:30 PM
+455,0,8,506,0020100818,SUB: Doleac FOR Ilgauskas,,2:59,5,4,4,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,,9:30 PM
+456,1,2,507,0020100818,,,2:38,5,5,0,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Smith 24' 3PT Jump Shot,9:31 PM
+457,0,4,508,0020100818,Doleac REBOUND (Off:2 Def:5),,2:36,5,4,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:31 PM
+458,2,6,509,0020100818,,,2:27,5,5,0,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan S.FOUL (P5.T1),9:31 PM
+459,11,3,510,0020100818,Miller Free Throw 1 of 2 (30 PTS),,2:27,5,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,106 - 104,-2,,9:31 PM
+460,12,3,511,0020100818,Miller Free Throw 2 of 2 (31 PTS),,2:27,5,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,106 - 105,-1,,9:31 PM
+461,1,2,512,0020100818,,,2:06,5,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Daniels 17' Jump Shot,9:32 PM
+462,0,4,513,0020100818,Doleac REBOUND (Off:2 Def:6),,2:04,5,4,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:32 PM
+463,2,6,514,0020100818,,,1:58,5,5,0,1,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Smith S.FOUL (P3.T2),9:32 PM
+464,11,3,515,0020100818,Miller Free Throw 1 of 2 (32 PTS),,1:58,5,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,106 - 106,TIE,,9:32 PM
+465,12,3,516,0020100818,Miller Free Throw 2 of 2 (33 PTS),,1:58,5,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,106 - 107,1,,9:33 PM
+466,1,5,517,0020100818,Person STEAL (1 STL),,1:50,5,5,4,0,198,Danny Ferry,SAS,San Antonio,1610612759.0,Spurs,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Ferry Bad Pass Turnover (P2.T14),9:33 PM
+467,1,9,518,0020100818,CAVALIERS Timeout: Regular (Full 7 Short 2),,1:43,5,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,9:33 PM
+468,47,1,522,0020100818,Miller 10' Turnaround Jump Shot (35 PTS),,1:32,5,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,106 - 109,3,,9:36 PM
+469,1,6,523,0020100818,Davis P.FOUL (P3.T2),,1:18,5,4,0,1,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:36 PM
+470,1,2,525,0020100818,,,1:13,5,5,0,0,1520,Charles Smith,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Smith 18' Jump Shot,9:36 PM
+471,0,4,526,0020100818,Davis REBOUND (Off:2 Def:4),,1:12,5,4,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:36 PM
+472,1,1,527,0020100818,Miller 9' Jump Shot (37 PTS),,0:51,5,4,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,106 - 111,5,,9:37 PM
+473,1,9,529,0020100818,,,0:51,5,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.6 Short 1),9:37 PM
+474,1,2,533,0020100818,,,0:44,5,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Daniels 17' Jump Shot,9:39 PM
+475,0,4,534,0020100818,CAVALIERS Rebound,,0:44,5,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,9:39 PM
+476,1,1,535,0020100818,Hill 14' Jump Shot (10 PTS) (Doleac 2 AST),,0:24,5,4,4,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,106 - 113,7,,9:40 PM
+477,1,9,536,0020100818,,,0:24,5,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.7 Short 1),9:40 PM
+478,8,2,540,0020100818,,,0:19,5,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Daniels 1' Slam Dunk,9:41 PM
+479,0,4,541,0020100818,Doleac REBOUND (Off:2 Def:7),,0:18,5,4,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:42 PM
+480,1,6,542,0020100818,,,0:18,5,5,0,1,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson P.FOUL (P5.PN),9:42 PM
+481,11,3,543,0020100818,MISS Doleac Free Throw 1 of 2,,0:18,5,4,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:42 PM
+482,1,4,544,0020100818,CAVALIERS Rebound,,0:18,5,2,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,,9:42 PM
+483,12,3,545,0020100818,Doleac Free Throw 2 of 2 (3 PTS),,0:18,5,4,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,106 - 114,8,,9:42 PM
+484,1,6,546,0020100818,Davis P.FOUL (P4.PN),,0:16,5,4,0,1,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,,9:42 PM
+485,11,3,547,0020100818,,,0:16,5,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Daniels Free Throw 1 of 2,9:43 PM
+486,1,4,548,0020100818,,,0:16,5,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,9:43 PM
+487,12,3,549,0020100818,,,0:16,5,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,107 - 114,7,Daniels Free Throw 2 of 2 (10 PTS),9:43 PM
+488,0,13,550,0020100818,,,0:00,5,0,0,0,0,,,,,,0,,,,,,0,,,,,,107 - 114,7,,9:44 PM

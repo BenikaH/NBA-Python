@@ -1,0 +1,482 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020300723,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:13 PM
+1,0,10,1,0020300723,Jump Ball McCaskill vs. Blount: Tip to James,,12:00,1,4,5,5,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,2229,Mike James,BOS,Boston,1610612738.0,Celtics,,,,7:13 PM
+2,4,6,2,0020300723,,,11:51,1,5,0,1,2036,Chris Mihm,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Mihm OFF.Foul (P1),7:14 PM
+3,5,5,3,0020300723,,,11:51,1,5,0,0,2036,Chris Mihm,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Mihm Foul Turnover (P1.T1),7:14 PM
+4,5,7,4,0020300723,,,11:38,1,5,0,1,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce Violation:Kicked Ball,7:14 PM
+5,2,6,5,0020300723,,,11:26,1,5,0,1,2036,Chris Mihm,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Mihm S.FOUL (P2.T1),7:15 PM
+6,0,8,6,0020300723,,,11:26,1,5,5,0,2036,Chris Mihm,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: McCarty FOR Mihm,7:15 PM
+7,11,3,7,0020300723,MISS Thomas Free Throw 1 of 2,,11:26,1,4,0,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:15 PM
+8,1,4,8,0020300723,76ERS Rebound,,11:26,1,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,7:15 PM
+9,12,3,9,0020300723,Thomas Free Throw 2 of 2 (1 PTS),,11:26,1,4,0,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,0 - 1,1,,7:16 PM
+10,42,1,10,0020300723,,,11:16,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,2 - 1,-1,Pierce  Driving Layup (2 PTS),7:16 PM
+11,2,6,11,0020300723,McCaskill S.FOUL (P1.T1),,11:16,1,4,0,1,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:16 PM
+12,10,3,12,0020300723,,,11:16,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,3 - 1,-2,Pierce Free Throw 1 of 1 (3 PTS),7:16 PM
+13,5,2,13,0020300723,MISS Robinson  Layup,,11:00,1,4,0,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:17 PM
+14,0,4,14,0020300723,Thomas REBOUND (Off:1 Def:0),,10:59,1,4,0,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:17 PM
+15,1,5,15,0020300723,Snow Bad Pass Turnover (P1.T1),,10:53,1,4,5,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,James STEAL (1 STL),7:17 PM
+16,42,1,16,0020300723,,,10:49,1,5,0,0,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,5 - 1,-4,James  Driving Layup (2 PTS),7:17 PM
+17,5,7,17,0020300723,McCaskill Violation:Kicked Ball,,10:20,1,4,0,1,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:18 PM
+18,41,5,18,0020300723,McCaskill Poss Lost Ball Turnover (P1.T2),,10:20,1,4,0,0,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:18 PM
+19,1,1,19,0020300723,,,10:11,1,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,7 - 1,-6,Pierce 20' Jump Shot (5 PTS) (McCarty 1 AST),7:18 PM
+20,1,1,21,0020300723,Robinson 15' Jump Shot (2 PTS) (Snow 1 AST),,9:51,1,4,4,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,7 - 3,-4,,7:18 PM
+21,47,1,22,0020300723,,,9:33,1,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,9 - 3,-6,Pierce 14' Turnaround Jump Shot (7 PTS) (McCarty 2 AST),7:19 PM
+22,2,5,23,0020300723,Iverson Lost Ball Turnover (P1.T3),,9:18,1,4,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Pierce STEAL (1 STL),7:19 PM
+23,2,6,24,0020300723,Snow S.FOUL (P1.T2),,9:14,1,4,0,1,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:19 PM
+24,11,3,25,0020300723,,,9:14,1,5,0,0,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,10 - 3,-7,James Free Throw 1 of 2 (3 PTS),7:19 PM
+25,12,3,26,0020300723,,,9:14,1,5,0,0,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,11 - 3,-8,James Free Throw 2 of 2 (4 PTS),7:20 PM
+26,5,2,27,0020300723,MISS McCaskill 3' Layup,,9:00,1,4,0,0,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:20 PM
+27,0,4,28,0020300723,McCaskill REBOUND (Off:1 Def:0),,9:00,1,4,0,0,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:20 PM
+28,15,5,29,0020300723,McCaskill Offensive Goaltending Turnover (P2.T4),,9:00,1,4,0,1,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:21 PM
+29,1,1,30,0020300723,,,8:49,1,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,13 - 3,-10,Pierce 10' Jump Shot (9 PTS) (McCarty 3 AST),7:21 PM
+30,1,9,31,0020300723,76ERS Timeout: Regular (Full 1 Short 0),,8:43,1,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,7:21 PM
+31,1,1,33,0020300723,Thomas 14' Jump Shot (3 PTS) (Snow 2 AST),,8:32,1,4,4,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,13 - 5,-8,,7:23 PM
+32,1,1,34,0020300723,,,8:15,1,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,16 - 5,-11,McCarty  3PT Jump Shot (3 PTS) (Pierce 1 AST),7:24 PM
+33,1,2,35,0020300723,MISS Robinson 4' Jump Shot,,7:55,1,4,0,5,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,,,McCarty BLOCK (1 BLK),7:24 PM
+34,0,4,36,0020300723,,,7:53,1,5,0,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Blount REBOUND (Off:0 Def:1),7:24 PM
+35,1,1,37,0020300723,,,7:43,1,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,19 - 5,-14,McCarty 24' 3PT Jump Shot (6 PTS) (Welsch 1 AST),7:24 PM
+36,1,1,38,0020300723,Robinson 15' Jump Shot (4 PTS) (Iverson 1 AST),,7:25,1,4,4,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,19 - 7,-12,,7:24 PM
+37,50,1,39,0020300723,,,7:07,1,5,5,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,21 - 7,-14,Blount  Running Dunk (2 PTS) (James 1 AST),7:25 PM
+38,1,2,40,0020300723,MISS Iverson 19' Jump Shot,,6:51,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:25 PM
+39,0,4,41,0020300723,,,6:49,1,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Welsch REBOUND (Off:0 Def:1),7:25 PM
+40,1,2,42,0020300723,,,6:44,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 10' Jump Shot,7:25 PM
+41,0,4,45,0020300723,Snow REBOUND (Off:0 Def:1),,6:41,1,4,0,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:25 PM
+42,1,2,46,0020300723,MISS Robinson 16' Jump Shot,,6:27,1,4,0,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:25 PM
+43,0,4,47,0020300723,,,6:25,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:0 Def:1),7:25 PM
+44,0,8,48,0020300723,SUB: Dalembert FOR McCaskill,,6:25,1,4,4,0,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:26 PM
+45,1,6,49,0020300723,Thomas P.FOUL (P1.T3),,6:25,1,4,0,1,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:26 PM
+46,0,8,50,0020300723,SUB: Buckner FOR Thomas,,6:25,1,4,4,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:26 PM
+47,1,1,51,0020300723,,,6:14,1,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,24 - 7,-17,McCarty 24' 3PT Jump Shot (9 PTS) (James 2 AST),7:26 PM
+48,2,9,52,0020300723,76ERS Timeout: Short (Full 1 Short 1),,6:07,1,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,7:26 PM
+49,44,1,56,0020300723,Robinson  Reverse Layup (6 PTS),,5:57,1,4,0,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,24 - 9,-15,,7:27 PM
+50,4,6,58,0020300723,,,5:52,1,5,0,1,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce OFF.Foul (P1),7:27 PM
+51,5,5,59,0020300723,,,5:52,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce Foul Turnover (P1.T2),7:27 PM
+52,1,2,60,0020300723,MISS Iverson 15' Jump Shot,,5:43,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:28 PM
+53,0,4,61,0020300723,,,5:41,1,5,0,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Blount REBOUND (Off:0 Def:2),7:28 PM
+54,1,2,62,0020300723,,,5:36,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 19' Jump Shot,7:28 PM
+55,0,4,63,0020300723,Dalembert REBOUND (Off:0 Def:1),,5:34,1,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:28 PM
+56,66,1,65,0020300723,Iverson 6' Jump Bank Shot (2 PTS),,5:25,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,24 - 11,-13,,7:28 PM
+57,2,6,67,0020300723,,,5:25,1,5,0,1,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,James S.FOUL (P1.T2),7:28 PM
+58,10,3,68,0020300723,Iverson Free Throw 1 of 1 (3 PTS),,5:25,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,24 - 12,-12,,7:28 PM
+59,39,5,69,0020300723,,,5:11,1,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Welsch Step Out of Bounds Turnover (P1.T3),7:29 PM
+60,1,1,70,0020300723,Robinson 16' Jump Shot (8 PTS) (Iverson 2 AST),,4:50,1,4,4,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,24 - 14,-10,,7:29 PM
+61,1,2,71,0020300723,,,4:35,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 7' Jump Shot,7:30 PM
+62,0,4,72,0020300723,Buckner REBOUND (Off:0 Def:1),,4:33,1,4,0,0,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:30 PM
+63,42,1,73,0020300723,Snow  Driving Layup (2 PTS),,4:29,1,4,0,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,24 - 16,-8,,7:30 PM
+64,1,9,74,0020300723,,,4:23,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.1 Short 0),7:30 PM
+65,1,2,76,0020300723,,,4:15,1,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Welsch 18' Jump Shot,7:32 PM
+66,0,4,77,0020300723,76ERS Rebound,,4:13,1,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,7:32 PM
+67,1,5,78,0020300723,Iverson Bad Pass Turnover (P2.T5),,3:59,1,4,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,McCarty STEAL (1 STL),7:33 PM
+68,1,5,79,0020300723,Buckner STEAL (1 STL),,3:50,1,5,4,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Welsch Bad Pass Turnover (P2.T4),7:33 PM
+69,1,5,80,0020300723,Snow Bad Pass Turnover (P2.T6),,3:47,1,4,0,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:33 PM
+70,0,8,81,0020300723,,,3:47,1,5,5,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Davis FOR Welsch,7:33 PM
+71,1,2,82,0020300723,,,3:35,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 27' 3PT Jump Shot,7:33 PM
+72,0,4,83,0020300723,Buckner REBOUND (Off:0 Def:2),,3:33,1,4,0,0,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:33 PM
+73,63,1,84,0020300723,Iverson 17' Fadeaway Jumper (5 PTS),,3:26,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,24 - 18,-6,,7:33 PM
+74,1,1,85,0020300723,,,3:09,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,26 - 18,-8,Pierce 17' Jump Shot (11 PTS),7:34 PM
+75,1,5,86,0020300723,Snow Bad Pass Turnover (P3.T7),,2:49,1,4,5,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Blount STEAL (1 STL),7:34 PM
+76,1,5,87,0020300723,,,2:46,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce Bad Pass Turnover (P2.T5),7:34 PM
+77,0,8,88,0020300723,SUB: McKie FOR Snow,,2:46,1,4,4,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:34 PM
+78,1,6,89,0020300723,,,2:39,1,5,0,1,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,James P.FOUL (P2.T3),7:35 PM
+79,0,8,90,0020300723,,,2:39,1,5,5,0,2229,Mike James,BOS,Boston,1610612738.0,Celtics,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Banks FOR James,7:35 PM
+80,1,6,91,0020300723,,,2:33,1,5,0,1,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Banks P.FOUL (P1.T4),7:35 PM
+81,1,2,92,0020300723,MISS Iverson 27' 3PT Jump Shot,,2:23,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:36 PM
+82,0,4,93,0020300723,,,2:21,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:0 Def:1),7:36 PM
+83,5,2,94,0020300723,Dalembert BLOCK (1 BLK),,2:13,1,5,0,4,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,,,MISS Blount  Layup,7:36 PM
+84,0,4,95,0020300723,Dalembert REBOUND (Off:0 Def:2),,2:12,1,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:36 PM
+85,1,1,96,0020300723,Robinson 26' 3PT Jump Shot (11 PTS) (McKie 1 AST),,2:03,1,4,4,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,26 - 21,-5,,7:36 PM
+86,1,2,97,0020300723,,,1:46,1,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Davis 26' 3PT Jump Shot,7:36 PM
+87,0,4,98,0020300723,Iverson REBOUND (Off:0 Def:1),,1:44,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:36 PM
+88,1,2,99,0020300723,MISS Iverson 6' Jump Shot,,1:37,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:36 PM
+89,0,4,100,0020300723,,,1:35,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:0 Def:2),7:36 PM
+90,2,6,101,0020300723,Dalembert S.FOUL (P1.T4),,1:23,1,4,0,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:37 PM
+91,11,3,102,0020300723,,,1:23,1,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,27 - 21,-6,Davis Free Throw 1 of 2 (1 PTS),7:37 PM
+92,12,3,103,0020300723,,,1:23,1,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Davis Free Throw 2 of 2,7:37 PM
+93,0,4,104,0020300723,Dalembert REBOUND (Off:0 Def:3),,1:22,1,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:37 PM
+94,63,1,105,0020300723,Iverson 17' Fadeaway Jumper (7 PTS),,1:08,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,27 - 23,-4,,7:37 PM
+95,1,2,106,0020300723,,,0:53,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 11' Jump Shot,7:38 PM
+96,0,4,107,0020300723,Buckner REBOUND (Off:0 Def:3),,0:51,1,4,0,0,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:38 PM
+97,1,5,108,0020300723,McKie Bad Pass Turnover (P1.T8),,0:44,1,4,5,0,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,McCarty STEAL (2 STL),7:38 PM
+98,41,1,109,0020300723,,,0:37,1,5,5,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,29 - 23,-6,Blount  Running Layup (4 PTS) (Davis 1 AST),7:38 PM
+99,1,2,110,0020300723,MISS Iverson 5' Jump Shot,,0:25,1,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:38 PM
+100,0,4,111,0020300723,,,0:23,1,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Banks REBOUND (Off:0 Def:1),7:38 PM
+101,42,1,112,0020300723,,,0:11,1,5,5,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,31 - 23,-8,Davis  Driving Layup (3 PTS) (McCarty 4 AST),7:38 PM
+102,1,2,113,0020300723,MISS Buckner 24' 3PT Jump Shot,,0:00,1,4,0,0,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:39 PM
+103,0,4,114,0020300723,,,0:00,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,7:39 PM
+104,0,13,115,0020300723,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,31 - 23,-8,,7:39 PM
+105,0,12,117,0020300723,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,31 - 23,-8,,7:41 PM
+106,1,2,118,0020300723,MISS Snow 16' Jump Shot,,11:39,2,4,0,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:42 PM
+107,0,4,119,0020300723,,,11:37,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,7:42 PM
+108,1,5,120,0020300723,Thomas STEAL (1 STL),,11:28,2,5,4,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Davis Bad Pass Turnover (P1.T6),7:42 PM
+109,3,2,121,0020300723,MISS Dalembert 6' Hook Shot,,11:16,2,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:42 PM
+110,0,4,122,0020300723,,,11:14,2,5,0,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Blount REBOUND (Off:0 Def:3),7:42 PM
+111,1,2,123,0020300723,,,11:04,2,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Davis 16' Jump Shot,7:43 PM
+112,0,4,124,0020300723,,,11:02,2,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:1 Def:2),7:43 PM
+113,63,1,125,0020300723,,,10:58,2,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,33 - 23,-10,Davis 15' Fadeaway Jumper (5 PTS),7:43 PM
+114,2,6,126,0020300723,,,10:39,2,5,0,1,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty S.FOUL (P1.T1),7:43 PM
+115,11,3,127,0020300723,MISS Dalembert Free Throw 1 of 2,,10:39,2,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:43 PM
+116,1,4,128,0020300723,76ERS Rebound,,10:39,2,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,7:43 PM
+117,12,3,129,0020300723,MISS Dalembert Free Throw 2 of 2,,10:39,2,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:43 PM
+118,0,4,130,0020300723,,,10:38,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,7:44 PM
+119,1,2,131,0020300723,,,10:26,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 15' Jump Shot,7:44 PM
+120,0,4,132,0020300723,Dalembert REBOUND (Off:0 Def:4),,10:24,2,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:44 PM
+121,1,2,133,0020300723,MISS Iverson 7' Jump Shot,,10:16,2,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:44 PM
+122,0,4,134,0020300723,,,10:16,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,7:44 PM
+123,2,7,136,0020300723,Dalembert Violation:Defensive Goaltending,,9:58,2,4,0,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:44 PM
+124,61,1,135,0020300723,,,9:58,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,35 - 23,-12,Pierce  Driving Finger Roll (13 PTS),7:44 PM
+125,1,6,137,0020300723,,,9:44,2,5,0,1,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Blount P.FOUL (P1.T2),7:45 PM
+126,1,5,138,0020300723,Thomas Bad Pass Turnover (P1.T9),,9:39,2,4,5,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Davis STEAL (1 STL),7:45 PM
+127,63,1,139,0020300723,,,9:30,2,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,37 - 23,-14,Davis 12' Fadeaway Jumper (7 PTS),7:45 PM
+128,5,1,140,0020300723,Thomas  Layup (5 PTS) (Iverson 3 AST),,9:13,2,4,4,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,37 - 25,-12,,7:46 PM
+129,1,2,141,0020300723,,,8:56,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 16' Jump Shot,7:46 PM
+130,0,4,142,0020300723,McKie REBOUND (Off:0 Def:1),,8:54,2,4,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:46 PM
+131,1,2,143,0020300723,MISS Iverson 18' Jump Shot,,8:38,2,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:46 PM
+132,0,4,144,0020300723,Thomas REBOUND (Off:2 Def:0),,8:36,2,4,0,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:46 PM
+133,1,2,145,0020300723,MISS Snow 16' Jump Shot,,8:32,2,4,0,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:46 PM
+134,0,4,146,0020300723,,,8:30,2,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Banks REBOUND (Off:0 Def:2),7:46 PM
+135,4,9,147,0020300723,,,8:21,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:47 PM
+136,0,8,149,0020300723,SUB: Robinson FOR McKie,,8:21,2,4,4,0,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:49 PM
+137,5,2,150,0020300723,,,8:18,2,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Banks  Layup,7:49 PM
+138,0,4,151,0020300723,Dalembert REBOUND (Off:0 Def:5),,8:18,2,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:49 PM
+139,2,6,152,0020300723,,,7:58,2,5,0,1,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Blount S.FOUL (P2.T3),7:50 PM
+140,11,3,153,0020300723,Snow Free Throw 1 of 2 (3 PTS),,7:58,2,4,0,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,37 - 26,-11,,7:50 PM
+141,0,8,154,0020300723,,,7:58,2,5,5,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,2036,Chris Mihm,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Mihm FOR Blount,7:50 PM
+142,12,3,155,0020300723,Snow Free Throw 2 of 2 (4 PTS),,7:58,2,4,0,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,37 - 27,-10,,7:50 PM
+143,1,1,156,0020300723,,,7:41,2,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,39 - 27,-12,Davis 18' Jump Shot (9 PTS),7:51 PM
+144,1,1,157,0020300723,Snow 17' Jump Shot (6 PTS) (Iverson 4 AST),,7:25,2,4,4,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,39 - 29,-10,,7:51 PM
+145,1,1,158,0020300723,,,7:05,2,5,5,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,41 - 29,-12,Davis 19' Jump Shot (11 PTS) (McCarty 5 AST),7:51 PM
+146,1,1,159,0020300723,Robinson 15' Jump Shot (13 PTS) (Iverson 5 AST),,6:50,2,4,4,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,41 - 31,-10,,7:52 PM
+147,1,5,160,0020300723,Iverson STEAL (1 STL),,6:43,2,5,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,McCarty Bad Pass Turnover (P1.T7),7:52 PM
+148,1,2,161,0020300723,MISS Robinson 5' Jump Shot,,6:36,2,4,0,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:52 PM
+149,0,4,162,0020300723,,,6:34,2,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Davis REBOUND (Off:0 Def:1),7:52 PM
+150,1,2,163,0020300723,,,6:25,2,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Davis 11' Jump Shot,7:52 PM
+151,0,4,164,0020300723,Thomas REBOUND (Off:2 Def:1),,6:23,2,4,0,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:52 PM
+152,2,5,165,0020300723,Dalembert Lost Ball Turnover (P1.T10),,6:16,2,4,5,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Pierce STEAL (2 STL),7:52 PM
+153,1,1,166,0020300723,,,6:09,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,44 - 31,-13,Pierce 24' 3PT Jump Shot (16 PTS),7:52 PM
+154,1,9,167,0020300723,76ERS Timeout: Regular (Full 2 Short 1),,6:01,2,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,7:53 PM
+155,0,8,168,0020300723,,,6:00,2,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Welsch FOR Pierce,7:53 PM
+156,4,5,170,0020300723,Robinson Traveling Turnover (P1.T11),,5:49,2,4,0,1,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:55 PM
+157,1,5,171,0020300723,Snow STEAL (1 STL),,5:37,2,5,4,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Davis Bad Pass Turnover (P2.T8),7:55 PM
+158,1,5,172,0020300723,Robinson Bad Pass Turnover (P2.T12),,5:31,2,4,5,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Welsch STEAL (1 STL),7:56 PM
+159,1,1,173,0020300723,,,5:25,2,5,5,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,46 - 31,-15,Banks 22' Jump Shot (2 PTS) (Welsch 2 AST),7:56 PM
+160,1,2,174,0020300723,MISS Iverson 24' 3PT Jump Shot,,5:08,2,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:56 PM
+161,0,4,175,0020300723,,,5:06,2,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Welsch REBOUND (Off:0 Def:2),7:56 PM
+162,1,2,176,0020300723,,,4:50,2,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Welsch 25' 3PT Jump Shot,7:56 PM
+163,0,4,177,0020300723,,,4:49,2,5,0,0,2036,Chris Mihm,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Mihm REBOUND (Off:1 Def:0),7:56 PM
+164,5,2,178,0020300723,,,4:43,2,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Banks 3' Layup,7:56 PM
+165,0,4,180,0020300723,,,4:42,2,5,0,0,2036,Chris Mihm,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Mihm REBOUND (Off:2 Def:0),7:56 PM
+166,4,1,179,0020300723,,,4:42,2,5,0,0,2036,Chris Mihm,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,48 - 31,-17,Mihm  Tip Shot (2 PTS),7:56 PM
+167,1,1,181,0020300723,Robinson 15' Jump Shot (15 PTS) (Iverson 6 AST),,4:23,2,4,4,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,48 - 33,-15,,7:57 PM
+168,1,2,182,0020300723,,,4:08,2,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Welsch 17' Jump Shot,7:57 PM
+169,0,4,183,0020300723,Robinson REBOUND (Off:0 Def:1),,4:07,2,4,0,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:57 PM
+170,0,8,184,0020300723,SUB: Hamilton FOR Dalembert,,3:59,2,4,4,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,1985,Zendon Hamilton,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:57 PM
+171,0,8,185,0020300723,SUB: Buckner FOR Thomas,,3:59,2,4,4,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:57 PM
+172,2,5,186,0020300723,Iverson Lost Ball Turnover (P3.T13),,3:51,2,4,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Welsch STEAL (2 STL),7:58 PM
+173,8,1,187,0020300723,,,3:47,2,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,50 - 33,-17,McCarty  Slam Dunk (11 PTS) (Welsch 3 AST),7:58 PM
+174,1,6,188,0020300723,,,3:35,2,5,0,1,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Banks P.FOUL (P2.T4),7:58 PM
+175,1,2,189,0020300723,MISS Robinson 15' Jump Shot,,3:28,2,4,0,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:58 PM
+176,0,4,190,0020300723,,,3:27,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,7:58 PM
+177,4,6,192,0020300723,,,3:15,2,5,0,1,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Banks OFF.Foul (P3),7:59 PM
+178,5,5,193,0020300723,,,3:15,2,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Banks Foul Turnover (P1.T9),7:59 PM
+179,0,8,194,0020300723,SUB: McKie FOR Iverson,,3:15,2,4,4,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:59 PM
+180,0,8,195,0020300723,,,3:15,2,5,5,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: James FOR Banks,7:59 PM
+181,0,8,196,0020300723,SUB: Thomas FOR Hamilton,,3:15,2,4,4,0,1985,Zendon Hamilton,PHI,Philadelphia,1610612755.0,76ers,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:59 PM
+182,1,5,197,0020300723,McKie Bad Pass Turnover (P2.T14),,3:06,2,4,0,0,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,7:59 PM
+183,1,2,198,0020300723,,,2:49,2,5,0,0,2036,Chris Mihm,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Mihm 7' Jump Shot,8:00 PM
+184,0,4,199,0020300723,Snow REBOUND (Off:0 Def:2),,2:47,2,4,0,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:00 PM
+185,50,1,200,0020300723,Thomas  Running Dunk (7 PTS) (Snow 3 AST),,2:40,2,4,4,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,50 - 35,-15,,8:00 PM
+186,1,9,201,0020300723,,,2:25,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.2 Short 0),8:00 PM
+187,0,8,203,0020300723,,,2:25,2,5,5,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Pierce FOR Davis,8:03 PM
+188,2,6,204,0020300723,Buckner S.FOUL (P1.T1),,2:13,2,4,0,1,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:03 PM
+189,11,3,205,0020300723,,,2:13,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,51 - 35,-16,Pierce Free Throw 1 of 2 (17 PTS),8:03 PM
+190,12,3,206,0020300723,,,2:13,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,52 - 35,-17,Pierce Free Throw 2 of 2 (18 PTS),8:03 PM
+191,1,2,207,0020300723,MISS Robinson 21' Jump Shot,,1:59,2,4,0,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:04 PM
+192,0,4,208,0020300723,Thomas REBOUND (Off:3 Def:1),,1:57,2,4,0,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:04 PM
+193,1,2,209,0020300723,MISS Robinson 18' Jump Shot,,1:54,2,4,0,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:04 PM
+194,0,4,210,0020300723,,,1:53,2,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Welsch REBOUND (Off:0 Def:3),8:04 PM
+195,2,6,211,0020300723,Thomas S.FOUL (P2.T2),,1:43,2,4,0,1,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:04 PM
+196,11,6,212,0020300723,Robinson T.FOUL (P0.T2),,1:43,2,4,0,1,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:04 PM
+197,16,3,213,0020300723,,,1:43,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce Free Throw Technical,8:04 PM
+198,1,4,214,0020300723,,,1:43,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,8:04 PM
+199,11,3,215,0020300723,,,1:43,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,53 - 35,-18,Pierce Free Throw 1 of 2 (19 PTS),8:05 PM
+200,0,8,216,0020300723,SUB: Iverson FOR Snow,,1:43,2,4,4,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:05 PM
+201,0,8,217,0020300723,SUB: Dalembert FOR Thomas,,1:43,2,4,4,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:05 PM
+202,12,3,218,0020300723,,,1:43,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,54 - 35,-19,Pierce Free Throw 2 of 2 (20 PTS),8:05 PM
+203,42,1,219,0020300723,Robinson  Driving Layup (17 PTS) (McKie 2 AST),,1:26,2,4,4,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,243,Aaron McKie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,54 - 37,-17,,8:06 PM
+204,2,5,220,0020300723,Robinson STEAL (1 STL),,1:13,2,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Pierce Lost Ball Turnover (P3.T10),8:06 PM
+205,2,5,221,0020300723,Robinson Lost Ball Turnover (P3.T15),,1:07,2,4,5,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,James STEAL (2 STL),8:06 PM
+206,1,1,222,0020300723,,,1:02,2,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,56 - 37,-19,Pierce 13' Jump Shot (22 PTS) (James 3 AST),8:06 PM
+207,5,2,223,0020300723,MISS Iverson  Layup,,0:48,2,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:06 PM
+208,0,4,224,0020300723,Dalembert REBOUND (Off:1 Def:5),,0:47,2,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:06 PM
+209,1,2,225,0020300723,MISS Iverson 19' Jump Shot,,0:43,2,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:07 PM
+210,0,4,226,0020300723,,,0:41,2,5,0,0,2036,Chris Mihm,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Mihm REBOUND (Off:2 Def:1),8:07 PM
+211,1,1,227,0020300723,,,0:35,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,59 - 37,-22,Pierce 25' 3PT Jump Shot (25 PTS),8:07 PM
+212,42,1,229,0020300723,Iverson  Driving Layup (9 PTS),,0:26,2,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,59 - 39,-20,,8:07 PM
+213,2,6,230,0020300723,,,0:26,2,5,0,1,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty S.FOUL (P2.PN),8:07 PM
+214,0,8,231,0020300723,SUB: Salmons FOR Robinson,,0:26,2,4,4,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:07 PM
+215,10,3,232,0020300723,MISS Iverson Free Throw 1 of 1,,0:26,2,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:07 PM
+216,0,4,233,0020300723,,,0:25,2,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:1 Def:3),8:07 PM
+217,1,2,234,0020300723,,,0:03,2,5,0,0,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS James 21' Jump Shot,8:08 PM
+218,0,4,235,0020300723,,,0:02,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,8:08 PM
+219,2,9,236,0020300723,,,0:02,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Short (Reg.2 Short 1),8:08 PM
+220,1,2,238,0020300723,,,0:00,2,5,0,0,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS James  3PT Jump Shot,8:09 PM
+221,0,4,239,0020300723,76ERS Rebound,,0:00,2,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,8:09 PM
+222,0,13,240,0020300723,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,59 - 39,-20,,8:09 PM
+223,0,12,242,0020300723,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,59 - 39,-20,,8:25 PM
+224,1,5,243,0020300723,Iverson Bad Pass Turnover (P4.T16),,11:52,3,4,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,McCarty STEAL (3 STL),8:26 PM
+225,1,6,244,0020300723,Thomas P.FOUL (P3.T1),,11:49,3,4,0,1,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:26 PM
+226,2,6,245,0020300723,Dalembert S.FOUL (P2.T2),,11:41,3,4,0,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:26 PM
+227,11,3,246,0020300723,,,11:41,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,60 - 39,-21,Pierce Free Throw 1 of 2 (26 PTS),8:26 PM
+228,12,3,247,0020300723,,,11:41,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,61 - 39,-22,Pierce Free Throw 2 of 2 (27 PTS),8:26 PM
+229,1,2,248,0020300723,MISS Thomas 15' Jump Shot,,11:20,3,4,0,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:27 PM
+230,0,4,249,0020300723,,,11:18,3,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Welsch REBOUND (Off:0 Def:4),8:27 PM
+231,1,2,250,0020300723,,,11:11,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 26' 3PT Jump Shot,8:27 PM
+232,0,4,251,0020300723,Thomas REBOUND (Off:3 Def:2),,11:10,3,4,0,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:27 PM
+233,1,2,252,0020300723,MISS Robinson 12' Jump Shot,,11:01,3,4,0,5,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,,,Pierce BLOCK (1 BLK),8:27 PM
+234,0,4,253,0020300723,Dalembert REBOUND (Off:2 Def:5),,10:59,3,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:27 PM
+235,7,1,254,0020300723,Thomas  Dunk (9 PTS),,10:53,3,4,0,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,61 - 41,-20,,8:29 PM
+236,5,2,255,0020300723,,,10:33,3,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Welsch  Layup,8:29 PM
+237,0,4,256,0020300723,Dalembert REBOUND (Off:2 Def:6),,10:32,3,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:29 PM
+238,1,5,257,0020300723,Snow Bad Pass Turnover (P4.T17),,10:18,3,4,5,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,McCarty STEAL (4 STL),8:29 PM
+239,1,1,258,0020300723,,,10:11,3,5,5,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,64 - 41,-23,Welsch 26' 3PT Jump Shot (3 PTS) (James 4 AST),8:29 PM
+240,1,2,259,0020300723,MISS Robinson 25' 3PT Jump Shot,,9:55,3,4,0,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:29 PM
+241,0,4,260,0020300723,Iverson REBOUND (Off:1 Def:1),,9:53,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:30 PM
+242,1,2,261,0020300723,MISS Iverson 26' 3PT Jump Shot,,9:51,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:30 PM
+243,0,4,262,0020300723,,,9:49,3,5,0,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Blount REBOUND (Off:0 Def:4),8:30 PM
+244,1,2,263,0020300723,,,9:39,3,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty  3PT Jump Shot,8:30 PM
+245,0,4,264,0020300723,Dalembert REBOUND (Off:2 Def:7),,9:37,3,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:30 PM
+246,1,2,265,0020300723,MISS Iverson 25' 3PT Jump Shot,,9:30,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:30 PM
+247,0,4,266,0020300723,Thomas REBOUND (Off:4 Def:2),,9:28,3,4,0,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:30 PM
+248,1,5,267,0020300723,Thomas Bad Pass Turnover (P2.T18),,9:26,3,4,5,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Welsch STEAL (3 STL),8:30 PM
+249,4,6,268,0020300723,,,9:24,3,5,0,1,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Welsch OFF.Foul (P1),8:30 PM
+250,5,5,269,0020300723,,,9:24,3,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Welsch Foul Turnover (P3.T11),8:30 PM
+251,1,6,270,0020300723,,,9:13,3,5,0,1,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Welsch P.FOUL (P2.T1),8:30 PM
+252,1,2,272,0020300723,MISS Robinson 14' Jump Shot,,9:06,3,4,0,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:31 PM
+253,0,4,273,0020300723,,,9:05,3,5,0,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Blount REBOUND (Off:0 Def:5),8:31 PM
+254,1,6,274,0020300723,Robinson P.FOUL (P1.T3),,8:55,3,4,0,1,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:31 PM
+255,1,1,275,0020300723,,,8:48,3,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,66 - 41,-25,Pierce 20' Jump Shot (29 PTS) (Blount 1 AST),8:32 PM
+256,1,2,276,0020300723,MISS Robinson 25' 3PT Jump Shot,,8:22,3,4,0,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:33 PM
+257,0,4,277,0020300723,76ERS Rebound,,8:22,3,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,8:33 PM
+258,11,5,278,0020300723,76ERS Turnover: Shot Clock (T#19),,8:22,3,2,0,1,1610612755,,,,,,0,,,,,,0,,,,,,,,,8:33 PM
+259,1,2,279,0020300723,,,8:08,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 25' 3PT Jump Shot,8:33 PM
+260,0,4,280,0020300723,76ERS Rebound,,8:05,3,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,8:33 PM
+261,2,9,281,0020300723,76ERS Timeout: Short (Full 2 Short 2),,8:05,3,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,8:34 PM
+262,1,6,282,0020300723,,,8:02,3,5,0,1,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,James P.FOUL (P3.T2),8:34 PM
+263,5,2,283,0020300723,MISS Iverson  Layup,,7:50,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:35 PM
+264,0,4,285,0020300723,Thomas REBOUND (Off:5 Def:2),,7:48,3,4,0,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:35 PM
+265,64,1,284,0020300723,Thomas  Follow Up Dunk (11 PTS),,7:48,3,4,0,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,66 - 43,-23,,8:35 PM
+266,1,2,286,0020300723,,,7:29,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 15' Jump Shot,8:35 PM
+267,0,4,287,0020300723,Thomas REBOUND (Off:5 Def:3),,7:28,3,4,0,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:35 PM
+268,1,5,288,0020300723,Thomas Bad Pass Turnover (P3.T20),,7:17,3,4,5,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,McCarty STEAL (5 STL),8:35 PM
+269,2,5,289,0020300723,Snow STEAL (2 STL),,7:13,3,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Pierce Lost Ball Turnover (P4.T12),8:35 PM
+270,2,6,290,0020300723,,,7:10,3,5,0,1,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty S.FOUL (P3.T3),8:35 PM
+271,11,3,291,0020300723,MISS Snow Free Throw 1 of 2,,7:10,3,4,0,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:36 PM
+272,1,4,293,0020300723,76ERS Rebound,,7:10,3,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,8:36 PM
+273,0,8,292,0020300723,SUB: Buckner FOR Robinson,,7:10,3,4,4,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:36 PM
+274,0,8,294,0020300723,SUB: Green FOR Thomas,,7:10,3,4,4,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:36 PM
+275,12,3,295,0020300723,Snow Free Throw 2 of 2 (7 PTS),,7:10,3,4,0,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,66 - 44,-22,,8:36 PM
+276,2,6,296,0020300723,Green S.FOUL (P1.T4),,7:05,3,4,0,1,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:37 PM
+277,11,3,297,0020300723,,,7:05,3,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,67 - 44,-23,Welsch Free Throw 1 of 2 (4 PTS),8:37 PM
+278,12,3,298,0020300723,,,7:05,3,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,68 - 44,-24,Welsch Free Throw 2 of 2 (5 PTS),8:37 PM
+279,2,5,299,0020300723,Buckner Lost Ball Turnover (P1.T21),,6:52,3,4,5,0,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,McCarty STEAL (6 STL),8:38 PM
+280,1,2,300,0020300723,Dalembert BLOCK (2 BLK),,6:43,3,5,0,4,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,,,MISS Blount 8' Jump Shot,8:38 PM
+281,0,4,301,0020300723,,,6:41,3,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Welsch REBOUND (Off:1 Def:4),8:38 PM
+282,1,2,302,0020300723,,,6:38,3,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Welsch 14' Jump Shot,8:38 PM
+283,0,4,303,0020300723,76ERS Rebound,,6:38,3,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,8:38 PM
+284,5,2,304,0020300723,MISS Green  Layup,,6:18,3,4,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:38 PM
+285,0,4,305,0020300723,,,6:17,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:0 Def:2),8:38 PM
+286,3,6,306,0020300723,Green L.B.FOUL (P2.PN),,6:17,3,4,0,1,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:38 PM
+287,11,3,307,0020300723,,,6:17,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,69 - 44,-25,Pierce Free Throw 1 of 2 (30 PTS),8:38 PM
+288,12,3,308,0020300723,,,6:17,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,70 - 44,-26,Pierce Free Throw 2 of 2 (31 PTS),8:39 PM
+289,5,2,309,0020300723,MISS Dalembert  Layup,,6:00,3,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:39 PM
+290,0,4,311,0020300723,Dalembert REBOUND (Off:3 Def:7),,5:58,3,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:39 PM
+291,5,2,310,0020300723,MISS Dalembert  Layup,,5:58,3,4,0,5,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,,,Blount BLOCK (1 BLK),8:39 PM
+292,0,4,312,0020300723,,,5:55,3,5,0,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Blount REBOUND (Off:0 Def:6),8:39 PM
+293,1,1,313,0020300723,,,5:48,3,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,73 - 44,-29,McCarty 24' 3PT Jump Shot (14 PTS) (Pierce 2 AST),8:39 PM
+294,1,9,314,0020300723,76ERS Timeout: Regular (Full 3 Short 2),,5:47,3,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,8:40 PM
+295,11,6,315,0020300723,,,5:47,3,6,0,1,1865,,,,,,0,,,,,,0,,,,,,,,,8:40 PM
+296,16,3,316,0020300723,,,5:47,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,74 - 44,-30,Pierce Free Throw Technical (32 PTS),8:40 PM
+297,0,8,317,0020300723,,,5:47,3,5,5,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Davis FOR Welsch,8:42 PM
+298,1,1,318,0020300723,Green 19' Jump Shot (2 PTS) (Snow 4 AST),,5:34,3,4,4,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,74 - 46,-28,,8:43 PM
+299,1,2,319,0020300723,,,5:14,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 21' Jump Shot,8:43 PM
+300,0,4,320,0020300723,,,5:12,3,5,0,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Blount REBOUND (Off:1 Def:6),8:43 PM
+301,5,2,321,0020300723,Dalembert BLOCK (3 BLK),,5:03,3,5,0,4,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,,,MISS James  Layup,8:43 PM
+302,0,4,322,0020300723,76ERS Rebound,,5:03,3,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,8:43 PM
+303,0,8,323,0020300723,SUB: Korver FOR Snow,,5:03,3,4,4,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:43 PM
+304,2,6,324,0020300723,,,4:51,3,5,0,1,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Davis S.FOUL (P1.T4),8:44 PM
+305,11,3,325,0020300723,Iverson Free Throw 1 of 2 (10 PTS),,4:51,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,74 - 47,-27,,8:44 PM
+306,12,3,326,0020300723,MISS Iverson Free Throw 2 of 2,,4:51,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:44 PM
+307,0,4,327,0020300723,,,4:50,3,5,0,0,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,James REBOUND (Off:0 Def:1),8:44 PM
+308,1,6,328,0020300723,Buckner P.FOUL (P2.PN),,4:41,3,4,0,1,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:45 PM
+309,11,3,329,0020300723,,,4:41,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,75 - 47,-28,Pierce Free Throw 1 of 2 (33 PTS),8:45 PM
+310,12,3,330,0020300723,,,4:41,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,76 - 47,-29,Pierce Free Throw 2 of 2 (34 PTS),8:45 PM
+311,2,6,331,0020300723,,,4:29,3,5,0,1,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce S.FOUL (P2.PN),8:45 PM
+312,11,3,332,0020300723,Buckner Free Throw 1 of 2 (1 PTS),,4:29,3,4,0,0,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,76 - 48,-28,,8:45 PM
+313,12,3,333,0020300723,Buckner Free Throw 2 of 2 (2 PTS),,4:29,3,4,0,0,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,76 - 49,-27,,8:46 PM
+314,1,2,334,0020300723,,,4:22,3,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Davis 17' Jump Shot,8:46 PM
+315,0,4,335,0020300723,Iverson REBOUND (Off:1 Def:2),,4:20,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:46 PM
+316,2,6,336,0020300723,,,4:13,3,5,0,1,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,James S.FOUL (P4.PN),8:46 PM
+317,11,3,338,0020300723,Buckner Free Throw 1 of 2 (3 PTS),,4:13,3,4,0,0,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,76 - 50,-26,,8:46 PM
+318,0,8,339,0020300723,,,4:13,3,5,5,0,2229,Mike James,BOS,Boston,1610612738.0,Celtics,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Banks FOR James,8:47 PM
+319,12,3,340,0020300723,MISS Buckner Free Throw 2 of 2,,4:13,3,4,0,0,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:47 PM
+320,0,4,341,0020300723,,,4:12,3,5,0,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Blount REBOUND (Off:1 Def:7),8:47 PM
+321,2,6,342,0020300723,Dalembert S.FOUL (P3.PN),,4:00,3,4,0,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:47 PM
+322,11,3,343,0020300723,,,4:00,3,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,77 - 50,-27,Banks Free Throw 1 of 2 (3 PTS),8:47 PM
+323,12,3,344,0020300723,,,4:00,3,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Banks Free Throw 2 of 2,8:48 PM
+324,0,4,345,0020300723,Buckner REBOUND (Off:0 Def:4),,3:58,3,4,0,0,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:48 PM
+325,1,2,346,0020300723,MISS Iverson 18' Jump Shot,,3:47,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:48 PM
+326,0,4,347,0020300723,,,3:44,3,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Banks REBOUND (Off:0 Def:3),8:48 PM
+327,44,1,348,0020300723,,,3:24,3,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,79 - 50,-29,Banks  Reverse Layup (5 PTS),8:48 PM
+328,1,2,349,0020300723,MISS Dalembert 15' Jump Shot,,3:02,3,4,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:49 PM
+329,0,4,350,0020300723,,,3:00,3,5,0,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Blount REBOUND (Off:1 Def:8),8:49 PM
+330,39,5,352,0020300723,,,3:00,3,5,0,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Blount Step Out of Bounds Turnover (P1.T13),8:49 PM
+331,1,9,351,0020300723,,,2:59,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.3 Short 1),8:49 PM
+332,1,6,353,0020300723,,,2:52,3,5,0,1,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Banks P.FOUL (P4.PN),8:52 PM
+333,11,3,354,0020300723,Iverson Free Throw 1 of 2 (11 PTS),,2:52,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,79 - 51,-28,,8:52 PM
+334,12,3,355,0020300723,Iverson Free Throw 2 of 2 (12 PTS),,2:52,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,79 - 52,-27,,8:53 PM
+335,2,6,357,0020300723,Dalembert S.FOUL (P4.PN),,2:37,3,4,0,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:53 PM
+336,11,3,359,0020300723,,,2:37,3,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Davis Free Throw 1 of 2,8:53 PM
+337,1,4,361,0020300723,,,2:37,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,8:53 PM
+338,0,8,362,0020300723,SUB: Hamilton FOR Dalembert,,2:37,3,4,4,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,1985,Zendon Hamilton,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:54 PM
+339,0,8,365,0020300723,SUB: Robinson FOR Buckner,,2:37,3,4,4,0,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:54 PM
+340,12,3,363,0020300723,,,2:37,3,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Davis Free Throw 2 of 2,8:54 PM
+341,0,4,364,0020300723,Robinson REBOUND (Off:0 Def:2),,2:36,3,4,0,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:54 PM
+342,2,5,366,0020300723,Iverson Lost Ball Turnover (P5.T22),,2:22,3,4,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,McCarty STEAL (7 STL),8:54 PM
+343,1,6,367,0020300723,Robinson P.FOUL (P2.PN),,2:19,3,4,0,1,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:54 PM
+344,11,3,368,0020300723,,,2:19,3,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Banks Free Throw 1 of 2,8:54 PM
+345,0,4,370,0020300723,,,2:19,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,8:55 PM
+346,12,3,369,0020300723,,,2:19,3,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,80 - 52,-28,Banks Free Throw 2 of 2 (6 PTS),8:55 PM
+347,2,6,371,0020300723,,,2:03,3,5,0,1,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Blount S.FOUL (P3.PN),8:55 PM
+348,11,3,372,0020300723,MISS Hamilton Free Throw 1 of 2,,2:03,3,4,0,0,1985,Zendon Hamilton,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:55 PM
+349,1,4,373,0020300723,76ERS Rebound,,2:03,3,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,8:55 PM
+350,12,3,374,0020300723,MISS Hamilton Free Throw 2 of 2,,2:03,3,4,0,0,1985,Zendon Hamilton,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:56 PM
+351,0,4,375,0020300723,Robinson REBOUND (Off:1 Def:2),,2:02,3,4,0,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:56 PM
+352,5,2,376,0020300723,MISS Iverson  Layup,,1:56,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:56 PM
+353,0,4,377,0020300723,,,1:55,3,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Davis REBOUND (Off:0 Def:2),8:56 PM
+354,1,1,378,0020300723,,,1:35,3,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,82 - 52,-30,Davis 17' Jump Shot (13 PTS),8:56 PM
+355,58,1,379,0020300723,Robinson 7' Turnaround Hook Shot (19 PTS),,1:14,3,4,0,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,82 - 54,-28,,8:57 PM
+356,1,1,380,0020300723,,,0:43,3,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,84 - 54,-30,Davis 20' Jump Shot (15 PTS),8:57 PM
+357,1,1,381,0020300723,Iverson 25' 3PT Jump Shot (15 PTS),,0:36,3,4,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,84 - 57,-27,,8:58 PM
+358,2,6,382,0020300723,Green S.FOUL (P3.PN),,0:15,3,4,0,1,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:58 PM
+359,11,3,383,0020300723,,,0:15,3,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,85 - 57,-28,Davis Free Throw 1 of 2 (16 PTS),8:58 PM
+360,0,8,384,0020300723,,,0:15,3,5,5,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Welsch FOR Banks,8:58 PM
+361,12,3,385,0020300723,,,0:15,3,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Davis Free Throw 2 of 2,8:59 PM
+362,0,4,386,0020300723,Korver REBOUND (Off:0 Def:1),,0:14,3,4,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:59 PM
+363,1,2,387,0020300723,MISS Green 18' Jump Shot,,0:06,3,4,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,8:59 PM
+364,0,4,388,0020300723,,,0:05,3,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:1 Def:4),8:59 PM
+365,0,13,391,0020300723,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,85 - 57,-28,,8:59 PM
+366,0,12,393,0020300723,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,85 - 57,-28,,9:01 PM
+367,7,1,394,0020300723,,,11:40,4,5,5,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,87 - 57,-30,Blount  Dunk (6 PTS) (Davis 2 AST),9:02 PM
+368,1,2,395,0020300723,MISS Korver 25' 3PT Jump Shot,,11:27,4,4,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:02 PM
+369,0,4,396,0020300723,,,11:25,4,5,0,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Blount REBOUND (Off:1 Def:9),9:02 PM
+370,1,6,397,0020300723,Green P.FOUL (P4.T1),,11:20,4,4,0,1,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:02 PM
+371,2,5,398,0020300723,Korver STEAL (1 STL),,11:12,4,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Pierce Lost Ball Turnover (P5.T14),9:03 PM
+372,2,6,399,0020300723,,,11:09,4,5,0,1,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty S.FOUL (P4.T1),9:03 PM
+373,11,3,400,0020300723,Green Free Throw 1 of 2 (3 PTS),,11:09,4,4,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,87 - 58,-29,,9:03 PM
+374,0,8,401,0020300723,SUB: Salmons FOR Robinson,,11:09,4,4,4,0,299,Glenn Robinson,PHI,Philadelphia,1610612755.0,76ers,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:03 PM
+375,12,3,402,0020300723,MISS Green Free Throw 2 of 2,,11:09,4,4,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:03 PM
+376,0,4,403,0020300723,,,11:07,4,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Davis REBOUND (Off:0 Def:3),9:03 PM
+377,1,6,404,0020300723,Snow P.FOUL (P2.T2),,10:59,4,4,0,1,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:04 PM
+378,1,2,405,0020300723,,,10:56,4,5,0,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Blount 19' Jump Shot,9:04 PM
+379,0,4,406,0020300723,Korver REBOUND (Off:0 Def:2),,10:54,4,4,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:04 PM
+380,1,1,407,0020300723,Green 15' Jump Shot (5 PTS),,10:41,4,4,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,87 - 60,-27,,9:04 PM
+381,2,6,408,0020300723,Green S.FOUL (P5.T3),,10:25,4,4,0,1,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:05 PM
+382,11,3,409,0020300723,,,10:25,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,88 - 60,-28,Pierce Free Throw 1 of 2 (35 PTS),9:05 PM
+383,12,3,410,0020300723,,,10:25,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce Free Throw 2 of 2,9:05 PM
+384,0,4,411,0020300723,Thomas REBOUND (Off:5 Def:4),,10:23,4,4,0,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:05 PM
+385,1,2,412,0020300723,MISS Korver 25' 3PT Jump Shot,,10:06,4,4,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:05 PM
+386,0,4,413,0020300723,76ERS Rebound,,10:04,4,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,9:05 PM
+387,1,2,414,0020300723,MISS Korver 19' Jump Shot,,10:01,4,4,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:06 PM
+388,0,4,415,0020300723,,,9:59,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:1 Def:5),9:06 PM
+389,2,5,416,0020300723,Snow STEAL (3 STL),,9:52,4,5,4,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Davis Lost Ball Turnover (P3.T15),9:06 PM
+390,1,1,417,0020300723,Green 25' 3PT Jump Shot (8 PTS) (Snow 5 AST),,9:30,4,4,4,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,88 - 63,-25,,9:06 PM
+391,7,1,418,0020300723,,,9:08,4,5,5,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,90 - 63,-27,Blount  Dunk (8 PTS) (Pierce 3 AST),9:07 PM
+392,1,2,419,0020300723,MISS Korver 18' Jump Shot,,8:54,4,4,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:07 PM
+393,0,4,420,0020300723,,,8:51,4,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Davis REBOUND (Off:0 Def:4),9:07 PM
+394,2,6,421,0020300723,Thomas S.FOUL (P4.T4),,8:41,4,4,0,1,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:07 PM
+395,4,9,422,0020300723,,,8:41,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:07 PM
+396,0,8,427,0020300723,,,8:41,4,5,5,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: James FOR Welsch,9:07 PM
+397,0,8,441,0020300723,SUB: Buckner FOR Snow,,8:41,4,4,4,0,727,Eric Snow,PHI,Philadelphia,1610612755.0,76ers,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:07 PM
+398,11,3,425,0020300723,,,8:41,4,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,91 - 63,-28,Davis Free Throw 1 of 2 (17 PTS),9:10 PM
+399,12,3,426,0020300723,,,8:41,4,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,92 - 63,-29,Davis Free Throw 2 of 2 (18 PTS),9:10 PM
+400,2,6,428,0020300723,,,8:23,4,5,0,1,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty S.FOUL (P5.T2),9:11 PM
+401,11,3,429,0020300723,Green Free Throw 1 of 2 (9 PTS),,8:23,4,4,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,92 - 64,-28,,9:11 PM
+402,0,8,430,0020300723,SUB: McCaskill FOR Thomas,,8:23,4,4,4,0,1903,Kenny Thomas,PHI,Philadelphia,1610612755.0,76ers,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:11 PM
+403,12,3,431,0020300723,Green Free Throw 2 of 2 (10 PTS),,8:23,4,4,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,92 - 65,-27,,9:11 PM
+404,1,2,432,0020300723,,,8:10,4,5,0,0,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS James  3PT Jump Shot,9:11 PM
+405,0,4,433,0020300723,McCaskill REBOUND (Off:1 Def:1),,8:08,4,4,0,0,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:11 PM
+406,1,5,434,0020300723,Salmons Bad Pass Turnover (P1.T23),,7:58,4,4,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:12 PM
+407,1,1,435,0020300723,,,7:43,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,94 - 65,-29,McCarty 17' Jump Shot (16 PTS),9:12 PM
+408,1,2,436,0020300723,MISS Salmons 17' Jump Shot,,7:26,4,4,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:12 PM
+409,0,4,437,0020300723,,,7:25,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:1 Def:6),9:12 PM
+410,1,5,438,0020300723,Buckner STEAL (2 STL),,7:11,4,5,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,McCarty Bad Pass Turnover (P2.T16),9:13 PM
+411,5,1,439,0020300723,Salmons  Layup (2 PTS) (Buckner 1 AST),,7:08,4,4,4,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,94 - 67,-27,,9:13 PM
+412,1,5,440,0020300723,,,6:48,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce Bad Pass Turnover (P6.T17),9:13 PM
+413,1,1,443,0020300723,McCaskill 15' Jump Shot (2 PTS) (Green 1 AST),,6:31,4,4,4,0,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,94 - 69,-25,,9:13 PM
+414,2,5,444,0020300723,Salmons STEAL (1 STL),,6:15,4,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Pierce Lost Ball Turnover (P7.T18),9:14 PM
+415,41,5,445,0020300723,Salmons Poss Lost Ball Turnover (P2.T24),,6:12,4,4,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:14 PM
+416,0,8,446,0020300723,,,6:12,4,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Banks FOR Pierce,9:14 PM
+417,1,1,447,0020300723,,,5:58,4,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,96 - 69,-27,Davis 14' Jump Shot (20 PTS),9:14 PM
+418,1,2,449,0020300723,MISS Korver 19' Jump Shot,,5:44,4,4,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:15 PM
+419,0,4,450,0020300723,,,5:42,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:1 Def:7),9:15 PM
+420,1,2,451,0020300723,,,5:28,4,5,0,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Davis 25' 3PT Jump Shot,9:15 PM
+421,0,4,452,0020300723,Salmons REBOUND (Off:0 Def:1),,5:26,4,4,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:15 PM
+422,5,2,453,0020300723,MISS Green  Layup,,5:21,4,4,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:15 PM
+423,0,4,454,0020300723,,,5:20,4,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Banks REBOUND (Off:0 Def:4),9:15 PM
+424,1,2,455,0020300723,,,5:13,4,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Banks 27' 3PT Jump Shot,9:15 PM
+425,0,4,456,0020300723,Green REBOUND (Off:0 Def:1),,5:12,4,4,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:15 PM
+426,46,1,457,0020300723,Buckner 8' Running Jump Shot (5 PTS),,5:02,4,4,0,0,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,96 - 71,-25,,9:15 PM
+427,1,9,458,0020300723,,,4:58,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.4 Short 1),9:15 PM
+428,0,8,464,0020300723,,,4:58,4,5,5,0,1548,Mark Blount,BOS,Boston,1610612738.0,Celtics,2036,Chris Mihm,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Mihm FOR Blount,9:15 PM
+429,1,5,460,0020300723,McCaskill STEAL (1 STL),,4:36,4,5,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,McCarty Bad Pass Turnover (P3.T19),9:18 PM
+430,1,2,461,0020300723,MISS Korver 16' Jump Shot,,4:26,4,4,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:18 PM
+431,0,4,462,0020300723,,,4:24,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:1 Def:8),9:18 PM
+432,1,1,463,0020300723,,,4:13,4,5,0,0,2229,Mike James,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,98 - 71,-27,James 23' Jump Shot (6 PTS),9:18 PM
+433,2,6,465,0020300723,,,3:55,4,5,0,1,2036,Chris Mihm,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Mihm S.FOUL (P3.T3),9:18 PM
+434,0,8,467,0020300723,,,3:55,4,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,2599,Brandon Hunter,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Hunter FOR McCarty,9:19 PM
+435,0,8,478,0020300723,,,3:55,4,5,5,0,1729,Ricky Davis,BOS,Boston,1610612738.0,Celtics,1908,Jumaine Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Jones FOR Davis,9:19 PM
+436,0,8,468,0020300723,,,3:55,4,5,5,0,2036,Chris Mihm,BOS,Boston,1610612738.0,Celtics,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Perkins FOR Mihm,9:19 PM
+437,11,3,469,0020300723,McCaskill Free Throw 1 of 2 (3 PTS),,3:55,4,4,0,0,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,98 - 72,-26,,9:19 PM
+438,12,3,470,0020300723,McCaskill Free Throw 2 of 2 (4 PTS),,3:55,4,4,0,0,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,98 - 73,-25,,9:19 PM
+439,1,1,471,0020300723,,,3:36,4,5,5,0,2229,Mike James,BOS,Boston,1610612738.0,Celtics,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,101 - 73,-28,James 26' 3PT Jump Shot (9 PTS) (Banks 1 AST),9:19 PM
+440,42,1,472,0020300723,Green  Driving Layup (12 PTS),,3:28,4,4,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,101 - 75,-26,,9:20 PM
+441,47,1,473,0020300723,,,3:04,4,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,103 - 75,-28,Perkins 8' Turnaround Jump Shot (2 PTS),9:20 PM
+442,1,5,474,0020300723,Korver Bad Pass Turnover (P1.T25),,2:50,4,4,5,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Banks STEAL (1 STL),9:20 PM
+443,2,6,475,0020300723,Salmons S.FOUL (P1.PN),,2:47,4,4,0,1,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:20 PM
+444,1,9,477,0020300723,76ERS Timeout: Regular (Full 4 Short 2),,2:47,4,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,9:21 PM
+445,0,8,479,0020300723,,,2:47,4,5,5,0,2229,Mike James,BOS,Boston,1610612738.0,Celtics,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Welsch FOR James,9:22 PM
+446,0,8,489,0020300723,SUB: Hamilton FOR Buckner,,2:47,4,4,4,0,1761,Greg Buckner,PHI,Philadelphia,1610612755.0,76ers,1985,Zendon Hamilton,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:22 PM
+447,11,3,482,0020300723,,,2:47,4,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Perkins Free Throw 1 of 2,9:23 PM
+448,1,4,483,0020300723,,,2:47,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,9:23 PM
+449,12,3,484,0020300723,,,2:47,4,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Perkins Free Throw 2 of 2,9:23 PM
+450,0,4,485,0020300723,Salmons REBOUND (Off:0 Def:2),,2:47,4,4,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:23 PM
+451,2,6,486,0020300723,,,2:33,4,5,0,1,2599,Brandon Hunter,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Hunter S.FOUL (P1.T4),9:23 PM
+452,11,3,487,0020300723,MISS Hamilton Free Throw 1 of 2,,2:33,4,4,0,0,1985,Zendon Hamilton,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:24 PM
+453,1,4,488,0020300723,76ERS Rebound,,2:33,4,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,9:24 PM
+454,12,3,490,0020300723,Hamilton Free Throw 2 of 2 (1 PTS),,2:33,4,4,0,0,1985,Zendon Hamilton,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,103 - 76,-27,,9:24 PM
+455,2,6,492,0020300723,Hamilton S.FOUL (P1.PN),,2:20,4,4,0,1,1985,Zendon Hamilton,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:24 PM
+456,11,3,493,0020300723,,,2:20,4,5,0,0,2599,Brandon Hunter,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,104 - 76,-28,Hunter Free Throw 1 of 2 (1 PTS),9:24 PM
+457,12,3,494,0020300723,,,2:20,4,5,0,0,2599,Brandon Hunter,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Hunter Free Throw 2 of 2,9:25 PM
+458,0,4,495,0020300723,,,2:19,4,5,0,0,1908,Jumaine Jones,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Jones REBOUND (Off:1 Def:0),9:25 PM
+459,1,1,496,0020300723,,,2:15,4,5,5,0,1908,Jumaine Jones,BOS,Boston,1610612738.0,Celtics,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,107 - 76,-31,Jones 24' 3PT Jump Shot (3 PTS) (Welsch 4 AST),9:25 PM
+460,1,2,498,0020300723,MISS Salmons 21' Jump Shot,,2:01,4,4,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:25 PM
+461,0,4,499,0020300723,Hamilton REBOUND (Off:1 Def:0),,1:59,4,4,0,0,1985,Zendon Hamilton,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:25 PM
+462,2,6,500,0020300723,,,1:57,4,5,0,1,2599,Brandon Hunter,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Hunter S.FOUL (P2.PN),9:25 PM
+463,11,3,501,0020300723,MISS Hamilton Free Throw 1 of 2,,1:57,4,4,0,0,1985,Zendon Hamilton,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:25 PM
+464,1,4,502,0020300723,76ERS Rebound,,1:57,4,2,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,,9:25 PM
+465,12,3,503,0020300723,MISS Hamilton Free Throw 2 of 2,,1:57,4,4,0,0,1985,Zendon Hamilton,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:26 PM
+466,0,4,504,0020300723,,,1:55,4,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Banks REBOUND (Off:0 Def:5),9:26 PM
+467,1,1,505,0020300723,,,1:30,4,5,0,0,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,109 - 76,-33,Banks 21' Jump Shot (8 PTS),9:26 PM
+468,1,1,506,0020300723,Green 19' Jump Shot (14 PTS) (Salmons 1 AST),,1:20,4,4,4,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,109 - 78,-31,,9:26 PM
+469,1,2,507,0020300723,,,1:00,4,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Perkins 6' Jump Shot,9:27 PM
+470,0,4,508,0020300723,Korver REBOUND (Off:0 Def:3),,0:58,4,4,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:27 PM
+471,7,2,509,0020300723,MISS Green  Dunk,,0:52,4,4,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:27 PM
+472,0,4,510,0020300723,,,0:51,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,9:27 PM
+473,2,6,511,0020300723,McCaskill S.FOUL (P2.PN),,0:28,4,4,0,1,1043,Amal McCaskill,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,,9:27 PM
+474,11,3,512,0020300723,,,0:28,4,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Welsch Free Throw 1 of 2,9:28 PM
+475,1,4,514,0020300723,,,0:28,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,9:28 PM
+476,12,3,515,0020300723,,,0:28,4,5,0,0,2412,Jiri Welsch,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,110 - 78,-32,Welsch Free Throw 2 of 2 (6 PTS),9:28 PM
+477,2,6,516,0020300723,,,0:22,4,5,0,1,2556,Marcus Banks,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Banks S.FOUL (P5.PN),9:28 PM
+478,11,3,517,0020300723,Green Free Throw 1 of 2 (15 PTS),,0:22,4,4,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,110 - 79,-31,,9:28 PM
+479,12,3,518,0020300723,Green Free Throw 2 of 2 (16 PTS),,0:22,4,4,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,110 - 80,-30,,9:28 PM
+480,0,13,520,0020300723,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,110 - 80,-30,,9:29 PM

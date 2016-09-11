@@ -1,0 +1,414 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020600384,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:11 PM
+1,0,10,1,0020600384,Jump Ball Jefferson vs. Dalembert: Tip to Henderson,,12:00,1,4,5,5,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,,,,8:11 PM
+2,1,2,2,0020600384,,,11:44,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Dalembert 15' Jump Shot,8:11 PM
+3,0,4,3,0020600384,Allen REBOUND (Off:0 Def:1),,11:42,1,4,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:11 PM
+4,1,1,4,0020600384,Jefferson 4' Jump Shot (2 PTS),,11:25,1,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,0 - 2,2,,8:12 PM
+5,8,1,5,0020600384,,,11:06,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,2 - 2,TIE,Dalembert 1' Slam Dunk (2 PTS),8:12 PM
+6,1,2,6,0020600384,MISS Allen 21' Jump Shot,,10:43,1,4,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:12 PM
+7,0,4,7,0020600384,,,10:42,1,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,8:12 PM
+8,2,6,8,0020600384,Jefferson S.FOUL (P1.T1),,10:30,1,4,5,1,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:13 PM
+9,11,3,9,0020600384,,,10:30,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,3 - 2,-1,Dalembert Free Throw 1 of 2 (3 PTS),8:13 PM
+10,12,3,10,0020600384,,,10:30,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,4 - 2,-2,Dalembert Free Throw 2 of 2 (4 PTS),8:13 PM
+11,1,1,11,0020600384,Green 19' Jump Shot (2 PTS) (Telfair 1 AST),,10:24,1,4,4,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,4 - 4,TIE,,8:13 PM
+12,1,2,12,0020600384,,,10:04,1,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iguodala 17' Jump Shot,8:14 PM
+13,0,4,13,0020600384,,,10:02,1,5,0,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Henderson REBOUND (Off:1 Def:0),8:14 PM
+14,4,1,14,0020600384,,,10:00,1,5,0,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,6 - 4,-2,Henderson 1' Tip Shot (2 PTS),8:14 PM
+15,1,1,15,0020600384,Telfair 19' Jump Shot (2 PTS),,9:49,1,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,6 - 6,TIE,,8:14 PM
+16,42,1,16,0020600384,,,9:35,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,8 - 6,-2,Dalembert 2' Driving Layup (6 PTS),8:14 PM
+17,5,2,17,0020600384,MISS Green 2' Layup,,9:27,1,4,0,5,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,,,Henderson BLOCK (1 BLK),8:14 PM
+18,0,4,18,0020600384,,,9:24,1,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Ollie REBOUND (Off:0 Def:1),8:14 PM
+19,1,1,19,0020600384,,,9:17,1,5,5,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,10 - 6,-4,Ollie 18' Jump Shot (2 PTS) (Iguodala 1 AST),8:15 PM
+20,1,1,20,0020600384,Gomes 22' Jump Shot (2 PTS) (Telfair 2 AST),,9:02,1,4,4,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,10 - 8,-2,,8:15 PM
+21,8,1,21,0020600384,,,8:37,1,5,5,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,12 - 8,-4,Henderson 1' Slam Dunk (4 PTS) (Iguodala 2 AST),8:15 PM
+22,17,6,22,0020600384,,,8:21,1,5,0,1,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,76ers T.Foul (Def. 3 Sec Iguodala ),8:16 PM
+23,16,3,23,0020600384,Telfair Free Throw Technical (3 PTS),,8:21,1,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,12 - 9,-3,,8:16 PM
+24,1,2,24,0020600384,MISS Green 15' Jump Shot,,8:10,1,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:16 PM
+25,0,4,25,0020600384,,,8:09,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:0 Def:1),8:16 PM
+26,52,1,26,0020600384,,,7:59,1,5,5,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,14 - 9,-5,Dalembert 1' Alley Oop Dunk (8 PTS) (Ollie 1 AST),8:16 PM
+27,1,2,27,0020600384,MISS Gomes 8' Jump Shot,,7:39,1,4,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:17 PM
+28,0,4,28,0020600384,,,7:38,1,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,8:17 PM
+29,8,5,30,0020600384,,,7:20,1,5,0,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert 3 Second Violation Turnover (P1.T1),8:17 PM
+30,1,1,31,0020600384,Allen 17' Jump Shot (2 PTS) (Gomes 1 AST),,7:07,1,4,4,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,14 - 11,-3,,8:18 PM
+31,1,2,32,0020600384,,,6:47,1,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Ollie 15' Jump Shot,8:18 PM
+32,0,4,33,0020600384,Gomes REBOUND (Off:0 Def:1),,6:45,1,4,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:18 PM
+33,1,2,34,0020600384,MISS Jefferson 7' Jump Shot,,6:34,1,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:18 PM
+34,0,4,35,0020600384,CELTICS Rebound,,6:32,1,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,8:18 PM
+35,1,2,36,0020600384,MISS Green 6' Jump Shot,,6:26,1,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:19 PM
+36,0,4,37,0020600384,Jefferson REBOUND (Off:1 Def:0),,6:25,1,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:19 PM
+37,5,1,38,0020600384,Jefferson 1' Layup (4 PTS),,6:25,1,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,14 - 13,-1,,8:19 PM
+38,2,6,39,0020600384,,,6:25,1,5,4,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Dalembert S.FOUL (P1.T1),8:19 PM
+39,10,3,40,0020600384,Jefferson Free Throw 1 of 1 (5 PTS),,6:25,1,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,14 - 14,TIE,,8:19 PM
+40,5,1,41,0020600384,,,6:14,1,5,5,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,16 - 14,-2,Henderson 2' Layup (6 PTS) (Ollie 2 AST),8:19 PM
+41,1,1,42,0020600384,Allen 21' Jump Shot (4 PTS) (Gomes 2 AST),,5:56,1,4,4,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,16 - 16,TIE,,8:20 PM
+42,1,2,43,0020600384,,,5:35,1,5,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Green 18' Jump Shot,8:20 PM
+43,0,4,44,0020600384,,,5:34,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:1 Def:1),8:20 PM
+44,5,2,45,0020600384,,,5:32,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Dalembert 1' Layup,8:20 PM
+45,0,4,46,0020600384,,,5:31,1,5,0,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Henderson REBOUND (Off:2 Def:0),8:20 PM
+46,17,6,47,0020600384,CELTICS T.Foul (Def. 3 Sec Telfair ),,5:15,1,4,0,1,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:21 PM
+47,1,9,49,0020600384,CELTICS Timeout: Regular (Full 1 Short 0),,5:15,1,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,8:21 PM
+48,16,3,51,0020600384,,,5:15,1,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Ollie Free Throw Technical,8:23 PM
+49,1,4,52,0020600384,,,5:15,1,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,8:23 PM
+50,1,6,53,0020600384,Allen P.FOUL (P1.T2),,5:12,1,4,5,1,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:23 PM
+51,66,1,54,0020600384,,,5:02,1,5,5,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,18 - 16,-2,Iguodala 11' Jump Bank Shot (2 PTS) (Green 1 AST),8:24 PM
+52,1,2,55,0020600384,MISS Jefferson 6' Jump Shot,,4:43,1,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:24 PM
+53,0,4,56,0020600384,,,4:41,1,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Ollie REBOUND (Off:0 Def:2),8:24 PM
+54,1,2,57,0020600384,,,4:29,1,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iguodala 4' Jump Shot,8:24 PM
+55,0,4,58,0020600384,CELTICS Rebound,,4:28,1,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,8:24 PM
+56,0,8,59,0020600384,SUB: West FOR Green,,4:28,1,4,4,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:24 PM
+57,1,2,60,0020600384,MISS Jefferson 5' Jump Shot,,4:12,1,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:25 PM
+58,0,4,61,0020600384,,,4:10,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:1 Def:2),8:25 PM
+59,4,6,62,0020600384,,,4:05,1,5,4,1,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Green OFF.Foul (P1),8:25 PM
+60,5,5,63,0020600384,,,4:05,1,5,0,1,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Green Foul Turnover (P1.T2),8:25 PM
+61,2,5,64,0020600384,Allen Lost Ball Turnover (P1.T1),,3:44,1,4,5,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Dalembert STEAL (1 STL),8:25 PM
+62,1,6,65,0020600384,West P.FOUL (P1.T3),,3:32,1,4,5,1,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:26 PM
+63,1,2,66,0020600384,,,3:25,1,5,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Green 16' Jump Shot,8:26 PM
+64,0,4,67,0020600384,CELTICS Rebound,,3:25,1,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,8:26 PM
+65,42,1,68,0020600384,Telfair 2' Driving Layup (5 PTS),,3:15,1,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,18 - 18,TIE,,8:26 PM
+66,1,9,69,0020600384,,,3:06,1,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.1 Short 0),8:27 PM
+67,1,2,71,0020600384,,,2:53,1,5,0,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Henderson 9' Jump Shot,8:29 PM
+68,0,4,72,0020600384,Jefferson REBOUND (Off:1 Def:1),,2:51,1,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:29 PM
+69,5,2,73,0020600384,MISS Jefferson 2' Layup,,2:30,1,4,0,5,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,,,Iguodala BLOCK (1 BLK),8:30 PM
+70,0,4,74,0020600384,,,2:28,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:1 Def:3),8:30 PM
+71,1,2,75,0020600384,Allen BLOCK (1 BLK),,2:20,1,5,0,4,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,,,MISS Green 5' Jump Shot,8:30 PM
+72,0,4,76,0020600384,,,2:19,1,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,8:30 PM
+73,0,8,77,0020600384,,,2:19,1,5,5,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Williams FOR Ollie,8:30 PM
+74,0,8,78,0020600384,,,2:19,1,5,5,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Korver FOR Henderson,8:30 PM
+75,1,2,79,0020600384,,,2:08,1,5,0,0,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Williams 8' Jump Shot,8:30 PM
+76,0,4,80,0020600384,Telfair REBOUND (Off:0 Def:1),,2:06,1,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:30 PM
+77,1,6,81,0020600384,,,1:51,1,5,4,1,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Iguodala P.FOUL (P1.T2),8:31 PM
+78,44,1,82,0020600384,Gomes 1' Reverse Layup (4 PTS),,1:46,1,4,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,18 - 20,2,,8:31 PM
+79,1,2,83,0020600384,,,1:22,1,5,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Green 11' Jump Shot,8:31 PM
+80,0,4,84,0020600384,Jefferson REBOUND (Off:1 Def:2),,1:20,1,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:31 PM
+81,1,5,85,0020600384,Telfair Bad Pass Turnover (P1.T2),,1:16,1,4,5,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Green STEAL (1 STL),8:32 PM
+82,14,6,86,0020600384,Telfair FLAGRANT.FOUL.TYPE1 (P1.T4),,1:13,1,4,5,1,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:32 PM
+83,18,3,87,0020600384,,,1:13,1,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,19 - 20,1,Iguodala Free Throw Flagrant 1 of 2 (3 PTS),8:32 PM
+84,19,3,88,0020600384,,,1:13,1,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,20 - 20,TIE,Iguodala Free Throw Flagrant 2 of 2 (4 PTS),8:32 PM
+85,0,8,89,0020600384,SUB: Rondo FOR Telfair,,1:13,1,4,4,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:33 PM
+86,8,1,90,0020600384,,,1:03,1,5,5,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,22 - 20,-2,Dalembert 1' Slam Dunk (10 PTS) (Williams 1 AST),8:33 PM
+87,5,2,91,0020600384,MISS Gomes 1' Layup,,0:44,1,4,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:33 PM
+88,0,4,92,0020600384,,,0:42,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:1 Def:4),8:34 PM
+89,1,2,93,0020600384,,,0:35,1,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Korver 24' 3PT Jump Shot,8:34 PM
+90,0,4,94,0020600384,West REBOUND (Off:0 Def:1),,0:33,1,4,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:34 PM
+91,4,5,95,0020600384,Rondo Traveling Turnover (P1.T3),,0:29,1,4,0,1,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:34 PM
+92,0,8,96,0020600384,SUB: Powe FOR Jefferson,,0:29,1,4,4,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:34 PM
+93,0,8,97,0020600384,SUB: Ray FOR Gomes,,0:29,1,4,4,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,200810,Allan Ray,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:34 PM
+94,0,8,98,0020600384,,,0:29,1,5,5,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Hunter FOR Dalembert,8:34 PM
+95,2,6,99,0020600384,Powe S.FOUL (P1.PN),,0:09,1,4,5,1,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:35 PM
+96,11,3,100,0020600384,,,0:09,1,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,23 - 20,-3,Iguodala Free Throw 1 of 2 (5 PTS),8:35 PM
+97,0,8,101,0020600384,,,0:09,1,5,5,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Carney FOR Green,8:35 PM
+98,12,3,102,0020600384,,,0:09,1,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,24 - 20,-4,Iguodala Free Throw 2 of 2 (6 PTS),8:36 PM
+99,0,13,103,0020600384,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,24 - 20,-4,,8:36 PM
+100,0,12,105,0020600384,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,24 - 20,-4,,8:39 PM
+101,5,2,106,0020600384,MISS West 2' Layup,,11:36,2,4,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:39 PM
+102,0,4,107,0020600384,,,11:34,2,5,0,0,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Carney REBOUND (Off:0 Def:1),8:39 PM
+103,1,6,108,0020600384,Ray P.FOUL (P1.T1),,11:24,2,4,5,1,200810,Allan Ray,BOS,Boston,1610612738.0,Celtics,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:39 PM
+104,1,1,109,0020600384,,,11:18,2,5,5,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,27 - 20,-7,Korver 24' 3PT Jump Shot (3 PTS) (Williams 2 AST),8:40 PM
+105,1,2,110,0020600384,MISS Ray 5' Jump Shot,,11:02,2,4,0,0,200810,Allan Ray,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:40 PM
+106,0,4,111,0020600384,Powe REBOUND (Off:1 Def:0),,11:00,2,4,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:40 PM
+107,2,6,112,0020600384,,,10:59,2,5,4,1,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Hunter S.FOUL (P1.T1),8:40 PM
+108,11,3,113,0020600384,Powe Free Throw 1 of 2 (1 PTS),,10:59,2,4,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,27 - 21,-6,,8:40 PM
+109,12,3,114,0020600384,MISS Powe Free Throw 2 of 2,,10:59,2,4,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:41 PM
+110,0,4,115,0020600384,,,10:58,2,5,0,0,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Hunter REBOUND (Off:0 Def:1),8:41 PM
+111,51,1,116,0020600384,,,10:42,2,5,5,0,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,29 - 21,-8,Carney 1' Reverse Dunk (2 PTS) (Williams 3 AST),8:41 PM
+112,1,2,117,0020600384,MISS West 14' Jump Shot,,10:31,2,4,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:41 PM
+113,0,4,118,0020600384,,,10:29,2,5,0,0,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:1),8:41 PM
+114,2,6,119,0020600384,Allen S.FOUL (P2.T2),,10:21,2,4,5,1,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:42 PM
+115,11,3,120,0020600384,,,10:21,2,5,0,0,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Hunter Free Throw 1 of 2,8:42 PM
+116,1,4,121,0020600384,,,10:21,2,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,8:42 PM
+117,0,8,122,0020600384,SUB: Green FOR Allen,,10:21,2,4,4,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:42 PM
+118,12,3,123,0020600384,,,10:21,2,5,0,0,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Hunter Free Throw 2 of 2,8:42 PM
+119,0,4,124,0020600384,Powe REBOUND (Off:1 Def:1),,10:20,2,4,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:42 PM
+120,1,2,125,0020600384,MISS Ray 25' 3PT Jump Shot,,10:07,2,4,0,0,200810,Allan Ray,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:43 PM
+121,0,4,126,0020600384,,,10:05,2,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Korver REBOUND (Off:0 Def:1),8:43 PM
+122,44,1,127,0020600384,,,10:01,2,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,31 - 21,-10,Iguodala 1' Reverse Layup (8 PTS),8:43 PM
+123,1,2,128,0020600384,MISS Green 17' Jump Shot,,9:39,2,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:43 PM
+124,0,4,129,0020600384,Green REBOUND (Off:1 Def:0),,9:37,2,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:43 PM
+125,4,5,130,0020600384,Green Traveling Turnover (P1.T4),,9:37,2,4,0,1,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:43 PM
+126,0,8,131,0020600384,SUB: Gomes FOR Rondo,,9:37,2,4,4,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:43 PM
+127,0,8,132,0020600384,SUB: Jefferson FOR Powe,,9:37,2,4,4,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:43 PM
+128,0,8,133,0020600384,SUB: Telfair FOR Ray,,9:37,2,4,4,0,200810,Allan Ray,BOS,Boston,1610612738.0,Celtics,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:43 PM
+129,7,1,134,0020600384,,,9:15,2,5,5,0,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,33 - 21,-12,Hunter 1' Dunk (2 PTS) (Korver 1 AST),8:44 PM
+130,1,9,135,0020600384,CELTICS Timeout: Regular (Full 2 Short 0),,9:08,2,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,8:44 PM
+131,0,8,137,0020600384,,,9:08,2,5,5,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Henderson FOR Iguodala,8:46 PM
+132,1,2,138,0020600384,MISS Telfair  3PT Jump Shot,,8:59,2,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:47 PM
+133,0,4,139,0020600384,,,8:58,2,5,0,0,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Carney REBOUND (Off:0 Def:2),8:47 PM
+134,49,1,140,0020600384,,,8:55,2,5,0,0,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,35 - 21,-14,Carney 1' Driving Dunk (4 PTS),8:47 PM
+135,2,6,141,0020600384,West S.FOUL (P2.T3),,8:55,2,4,5,1,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:47 PM
+136,10,3,142,0020600384,,,8:55,2,5,0,0,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Carney Free Throw 1 of 1,8:47 PM
+137,0,4,143,0020600384,Jefferson REBOUND (Off:1 Def:3),,8:54,2,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:47 PM
+138,2,6,144,0020600384,,,8:34,2,5,4,1,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Korver S.FOUL (P1.T2),8:47 PM
+139,11,3,145,0020600384,Telfair Free Throw 1 of 2 (6 PTS),,8:34,2,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,35 - 22,-13,,8:48 PM
+140,12,3,146,0020600384,Telfair Free Throw 2 of 2 (7 PTS),,8:34,2,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,35 - 23,-12,,8:48 PM
+141,1,2,147,0020600384,,,8:17,2,5,0,0,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Williams 20' Jump Shot,8:49 PM
+142,0,4,148,0020600384,,,8:15,2,5,0,0,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Carney REBOUND (Off:1 Def:2),8:49 PM
+143,1,2,149,0020600384,,,8:13,2,5,0,0,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Carney 18' Jump Shot,8:49 PM
+144,0,4,150,0020600384,Green REBOUND (Off:1 Def:1),,8:11,2,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:49 PM
+145,1,2,151,0020600384,MISS Green 25' 3PT Jump Shot,,8:04,2,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:49 PM
+146,0,4,152,0020600384,Jefferson REBOUND (Off:2 Def:3),,8:03,2,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:49 PM
+147,1,6,153,0020600384,,,8:02,2,5,4,1,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Henderson P.FOUL (P1.T3),8:49 PM
+148,0,8,154,0020600384,,,8:02,2,5,5,0,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Dalembert FOR Hunter,8:49 PM
+149,0,8,155,0020600384,,,8:02,2,5,5,0,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Ollie FOR Williams,8:49 PM
+150,1,2,156,0020600384,MISS Telfair 24' 3PT Jump Shot,,7:51,2,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:50 PM
+151,0,4,157,0020600384,Green REBOUND (Off:2 Def:1),,7:50,2,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:50 PM
+152,44,1,158,0020600384,Green  Reverse Layup (4 PTS),,7:48,2,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,35 - 25,-10,,8:50 PM
+153,1,2,159,0020600384,,,7:31,2,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Korver 19' Jump Shot,8:50 PM
+154,0,4,160,0020600384,,,7:30,2,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,8:50 PM
+155,1,6,161,0020600384,Telfair P.FOUL (P2.T4),,7:19,2,4,5,1,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:51 PM
+156,1,2,162,0020600384,,,7:07,2,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Dalembert 15' Jump Shot,8:51 PM
+157,0,4,163,0020600384,Green REBOUND (Off:2 Def:2),,7:05,2,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:51 PM
+158,5,1,164,0020600384,Jefferson 1' Layup (7 PTS) (Green 1 AST),,6:55,2,4,4,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,35 - 27,-8,,8:51 PM
+159,2,6,165,0020600384,,,6:55,2,5,4,1,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Carney S.FOUL (P1.T4),8:51 PM
+160,0,8,166,0020600384,,,6:55,2,5,5,0,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Iguodala FOR Carney,8:52 PM
+161,10,3,167,0020600384,Jefferson Free Throw 1 of 1 (8 PTS),,6:55,2,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,35 - 28,-7,,8:52 PM
+162,44,1,168,0020600384,,,6:36,2,5,5,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,37 - 28,-9,Korver 1' Reverse Layup (5 PTS) (Dalembert 1 AST),8:52 PM
+163,1,2,169,0020600384,MISS Gomes 19' Jump Shot,,6:26,2,4,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:52 PM
+164,0,4,170,0020600384,,,6:24,2,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:1 Def:5),8:52 PM
+165,1,1,171,0020600384,,,6:08,2,5,5,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,39 - 28,-11,Korver 19' Jump Shot (7 PTS) (Ollie 3 AST),8:53 PM
+166,1,2,172,0020600384,MISS Green 8' Jump Shot,,5:41,2,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:53 PM
+167,0,4,173,0020600384,,,5:40,2,5,0,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Henderson REBOUND (Off:2 Def:1),8:53 PM
+168,5,1,174,0020600384,,,5:28,2,5,5,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,41 - 28,-13,Henderson 1' Layup (8 PTS) (Iguodala 3 AST),8:53 PM
+169,2,6,175,0020600384,,,5:07,2,5,4,1,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Henderson S.FOUL (P2.PN),8:54 PM
+170,4,9,176,0020600384,,,5:07,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:54 PM
+171,11,3,178,0020600384,West Free Throw 1 of 2 (1 PTS),,5:07,2,4,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,41 - 29,-12,,8:56 PM
+172,0,8,180,0020600384,,,5:07,2,5,5,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Green FOR Henderson,8:57 PM
+173,12,3,181,0020600384,West Free Throw 2 of 2 (2 PTS),,5:07,2,4,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,41 - 30,-11,,8:57 PM
+174,1,5,182,0020600384,Green STEAL (1 STL),,4:52,2,5,4,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Ollie Bad Pass Turnover (P1.T3),8:57 PM
+175,5,1,183,0020600384,West 1' Layup (4 PTS) (Telfair 3 AST),,4:47,2,4,4,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,41 - 32,-9,,8:57 PM
+176,1,2,184,0020600384,,,4:28,2,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iguodala 15' Jump Shot,8:58 PM
+177,0,4,185,0020600384,Jefferson REBOUND (Off:2 Def:4),,4:26,2,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:58 PM
+178,1,1,186,0020600384,Green 25' 3PT Jump Shot (7 PTS) (Telfair 4 AST),,4:20,2,4,4,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,41 - 35,-6,,8:58 PM
+179,1,9,187,0020600384,,,4:09,2,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.2 Short 0),8:58 PM
+180,0,8,189,0020600384,SUB: Allen FOR Gomes,,4:09,2,4,4,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:00 PM
+181,1,6,190,0020600384,West P.FOUL (P3.PN),,3:59,2,4,5,1,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:01 PM
+182,0,8,192,0020600384,SUB: Gomes FOR West,,3:59,2,4,4,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:01 PM
+183,11,3,193,0020600384,,,3:59,2,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iguodala Free Throw 1 of 2,9:01 PM
+184,1,4,194,0020600384,,,3:59,2,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,9:01 PM
+185,12,3,195,0020600384,,,3:59,2,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,42 - 35,-7,Iguodala Free Throw 2 of 2 (9 PTS),9:01 PM
+186,2,6,196,0020600384,,,3:43,2,5,4,1,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Korver S.FOUL (P2.PN),9:02 PM
+187,11,3,197,0020600384,Gomes Free Throw 1 of 2 (5 PTS),,3:43,2,4,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,42 - 36,-6,,9:02 PM
+188,12,3,198,0020600384,Gomes Free Throw 2 of 2 (6 PTS),,3:43,2,4,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,42 - 37,-5,,9:03 PM
+189,1,2,199,0020600384,,,3:22,2,5,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Green 26' 3PT Jump Shot,9:03 PM
+190,0,4,200,0020600384,Jefferson REBOUND (Off:2 Def:5),,3:20,2,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:03 PM
+191,2,5,201,0020600384,Jefferson Lost Ball Turnover (P1.T5),,3:09,2,4,5,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Dalembert STEAL (2 STL),9:03 PM
+192,7,1,202,0020600384,,,3:03,2,5,5,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,44 - 37,-7,Iguodala  Dunk (11 PTS) (Ollie 4 AST),9:03 PM
+193,1,2,203,0020600384,MISS Telfair 16' Jump Shot,,2:46,2,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:04 PM
+194,0,4,204,0020600384,,,2:45,2,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:1 Def:6),9:04 PM
+195,1,2,205,0020600384,,,2:26,2,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iguodala 3' Jump Shot,9:04 PM
+196,0,4,206,0020600384,,,2:24,2,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Iguodala REBOUND (Off:1 Def:0),9:04 PM
+197,0,8,207,0020600384,,,2:23,2,5,5,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Carney FOR Korver,9:04 PM
+198,1,2,208,0020600384,,,2:20,2,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Dalembert 17' Jump Shot,9:05 PM
+199,0,4,209,0020600384,Jefferson REBOUND (Off:2 Def:6),,2:19,2,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:05 PM
+200,39,5,210,0020600384,Allen Step Out of Bounds Turnover (P2.T6),,2:07,2,4,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:05 PM
+201,5,2,211,0020600384,,,1:49,2,5,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Green 3' Layup,9:05 PM
+202,0,4,212,0020600384,Jefferson REBOUND (Off:2 Def:7),,1:47,2,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:05 PM
+203,1,1,213,0020600384,Green 24' 3PT Jump Shot (10 PTS) (Telfair 5 AST),,1:38,2,4,4,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,44 - 40,-4,,9:06 PM
+204,63,1,214,0020600384,,,1:16,2,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,46 - 40,-6,Ollie 11' Fadeaway Jumper (4 PTS),9:06 PM
+205,1,6,215,0020600384,,,0:55,2,5,4,1,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Iguodala P.FOUL (P2.PN),9:06 PM
+206,11,3,216,0020600384,MISS Telfair Free Throw 1 of 2,,0:55,2,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:06 PM
+207,1,4,217,0020600384,CELTICS Rebound,,0:55,2,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,9:06 PM
+208,0,8,218,0020600384,,,0:55,2,5,5,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,200784,Bobby Jones,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Jones FOR Iguodala,9:07 PM
+209,12,3,219,0020600384,Telfair Free Throw 2 of 2 (8 PTS),,0:55,2,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,46 - 41,-5,,9:07 PM
+210,42,1,220,0020600384,,,0:35,2,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,48 - 41,-7,Ollie 1' Driving Layup (6 PTS),9:08 PM
+211,1,2,221,0020600384,MISS Green 24' 3PT Jump Shot,,0:29,2,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:08 PM
+212,0,4,222,0020600384,,,0:27,2,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Ollie REBOUND (Off:0 Def:3),9:08 PM
+213,2,9,223,0020600384,,,0:23,2,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Short (Reg.2 Short 1),9:08 PM
+214,0,8,225,0020600384,SUB: Rondo FOR Gomes,,0:23,2,4,4,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:09 PM
+215,0,8,228,0020600384,,,0:23,2,5,5,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Korver FOR Green,9:09 PM
+216,1,2,226,0020600384,,,0:03,2,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Korver 21' Jump Shot,9:10 PM
+217,0,4,227,0020600384,,,0:00,2,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:2 Def:6),9:10 PM
+218,0,13,230,0020600384,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,48 - 41,-7,,9:10 PM
+219,0,12,231,0020600384,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,48 - 41,-7,,9:26 PM
+220,2,7,233,0020600384,,,11:42,3,5,0,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert Violation:Defensive Goaltending,9:26 PM
+221,42,1,232,0020600384,Green 1' Driving Layup (12 PTS) (Jefferson 1 AST),,11:42,3,4,4,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,48 - 43,-5,,9:26 PM
+222,3,1,234,0020600384,,,11:26,3,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,50 - 43,-7,Dalembert 11' Hook Shot (12 PTS),9:27 PM
+223,4,5,235,0020600384,Allen Traveling Turnover (P3.T7),,11:07,3,4,0,1,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:27 PM
+224,1,2,236,0020600384,,,10:49,3,5,0,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Henderson 3' Jump Shot,9:28 PM
+225,0,4,237,0020600384,Jefferson REBOUND (Off:2 Def:8),,10:47,3,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:28 PM
+226,1,2,238,0020600384,MISS Telfair 18' Jump Shot,,10:34,3,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:28 PM
+227,0,4,239,0020600384,,,10:32,3,5,0,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Henderson REBOUND (Off:2 Def:2),9:28 PM
+228,1,1,240,0020600384,,,10:21,3,5,5,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,52 - 43,-9,Green 18' Jump Shot (2 PTS) (Iguodala 4 AST),9:28 PM
+229,1,2,241,0020600384,MISS Green 15' Jump Shot,,10:02,3,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:29 PM
+230,0,4,242,0020600384,,,10:00,3,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Ollie REBOUND (Off:0 Def:4),9:29 PM
+231,1,2,243,0020600384,,,9:43,3,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Dalembert 8' Jump Shot,9:29 PM
+232,0,4,244,0020600384,,,9:42,3,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,9:29 PM
+233,1,2,245,0020600384,,,9:32,3,5,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Green 25' 3PT Jump Shot,9:29 PM
+234,0,4,246,0020600384,Green REBOUND (Off:2 Def:3),,9:30,3,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:29 PM
+235,3,1,247,0020600384,Jefferson 4' Hook Shot (10 PTS),,9:19,3,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,52 - 45,-7,,9:29 PM
+236,2,6,248,0020600384,,,9:19,3,5,4,1,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Henderson S.FOUL (P3.T1),9:29 PM
+237,10,3,249,0020600384,Jefferson Free Throw 1 of 1 (11 PTS),,9:19,3,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,52 - 46,-6,,9:30 PM
+238,1,2,250,0020600384,,,8:59,3,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Dalembert 6' Jump Shot,9:30 PM
+239,0,4,251,0020600384,Gomes REBOUND (Off:0 Def:2),,8:58,3,4,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:30 PM
+240,1,1,252,0020600384,Jefferson 7' Jump Shot (13 PTS),,8:44,3,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,52 - 48,-4,,9:31 PM
+241,1,2,253,0020600384,,,8:30,3,5,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Green 6' Jump Shot,9:31 PM
+242,0,4,254,0020600384,Gomes REBOUND (Off:0 Def:3),,8:28,3,4,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:31 PM
+243,5,2,255,0020600384,MISS Jefferson 1' Layup,,8:13,3,4,0,5,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,,,Dalembert BLOCK (1 BLK),9:31 PM
+244,0,4,256,0020600384,,,8:12,3,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Ollie REBOUND (Off:0 Def:5),9:31 PM
+245,7,1,257,0020600384,,,8:08,3,5,5,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,54 - 48,-6,Iguodala 1' Dunk (13 PTS) (Ollie 5 AST),9:31 PM
+246,1,2,258,0020600384,MISS Green 24' 3PT Jump Shot,,7:45,3,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:32 PM
+247,0,4,259,0020600384,,,7:43,3,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:2 Def:7),9:32 PM
+248,8,1,260,0020600384,,,7:30,3,5,5,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,56 - 48,-8,Dalembert  Slam Dunk (14 PTS) (Iguodala 5 AST),9:32 PM
+249,46,1,261,0020600384,Allen 5' Running Jump Shot (6 PTS),,7:11,3,4,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,56 - 50,-6,,9:32 PM
+250,2,6,262,0020600384,,,7:11,3,5,4,1,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Green S.FOUL (P2.T2),9:32 PM
+251,10,3,263,0020600384,Allen Free Throw 1 of 1 (7 PTS),,7:11,3,4,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,56 - 51,-5,,9:33 PM
+252,63,1,264,0020600384,,,6:51,3,5,5,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,58 - 51,-7,Ollie 16' Fadeaway Jumper (8 PTS) (Iguodala 6 AST),9:33 PM
+253,1,5,265,0020600384,Allen Bad Pass Turnover (P4.T8),,6:29,3,4,5,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Iguodala STEAL (1 STL),9:33 PM
+254,8,1,266,0020600384,,,6:25,3,5,5,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,60 - 51,-9,Green 1' Slam Dunk (4 PTS) (Ollie 6 AST),9:33 PM
+255,3,2,267,0020600384,MISS Jefferson 4' Hook Shot,,6:01,3,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:34 PM
+256,0,4,268,0020600384,,,6:00,3,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:2 Def:8),9:34 PM
+257,1,2,269,0020600384,,,5:42,3,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Ollie 5' Jump Shot,9:34 PM
+258,0,4,270,0020600384,Jefferson REBOUND (Off:2 Def:9),,5:40,3,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:34 PM
+259,40,5,271,0020600384,Telfair Out of Bounds Lost Ball Turnover (P2.T9),,5:29,3,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:34 PM
+260,1,9,273,0020600384,CELTICS Timeout: Regular (Full 3 Short 0),,5:29,3,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,9:35 PM
+261,0,8,274,0020600384,SUB: West FOR Telfair,,5:29,3,4,4,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:37 PM
+262,3,2,275,0020600384,,,5:10,3,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Dalembert 4' Hook Shot,9:37 PM
+263,0,4,276,0020600384,Allen REBOUND (Off:0 Def:2),,5:09,3,4,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:37 PM
+264,1,2,277,0020600384,MISS Gomes 20' Jump Shot,,4:58,3,4,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:38 PM
+265,0,4,278,0020600384,,,4:56,3,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:2 Def:9),9:38 PM
+266,44,1,279,0020600384,,,4:42,3,5,5,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,62 - 51,-11,Iguodala 1' Reverse Layup (15 PTS) (Dalembert 2 AST),9:38 PM
+267,63,1,280,0020600384,West 14' Fadeaway Jumper (6 PTS) (Jefferson 2 AST),,4:25,3,4,4,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,62 - 53,-9,,9:38 PM
+268,1,2,281,0020600384,,,4:00,3,5,0,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Henderson 5' Jump Shot,9:39 PM
+269,0,4,282,0020600384,,,3:59,3,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,9:39 PM
+270,5,2,283,0020600384,,,3:40,3,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Dalembert 2' Layup,9:39 PM
+271,0,4,284,0020600384,Green REBOUND (Off:2 Def:4),,3:39,3,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:39 PM
+272,2,5,285,0020600384,Gomes Lost Ball Turnover (P1.T10),,3:25,3,4,5,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Henderson STEAL (1 STL),9:39 PM
+273,8,1,286,0020600384,,,3:21,3,5,5,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,64 - 53,-11,Iguodala 1' Slam Dunk (17 PTS) (Ollie 7 AST),9:39 PM
+274,1,6,287,0020600384,,,3:02,3,5,4,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Dalembert P.FOUL (P2.T3),9:40 PM
+275,0,8,288,0020600384,SUB: Scalabrine FOR Gomes,,3:02,3,4,4,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:40 PM
+276,0,8,289,0020600384,,,3:02,3,5,5,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Korver FOR Henderson,9:40 PM
+277,0,8,290,0020600384,,,3:02,3,5,5,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Hunter FOR Dalembert,9:40 PM
+278,8,1,291,0020600384,Jefferson 1' Slam Dunk (15 PTS) (West 1 AST),,2:54,3,4,4,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,64 - 55,-9,,9:41 PM
+279,1,1,292,0020600384,,,2:33,3,5,5,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,66 - 55,-11,Ollie 20' Jump Shot (10 PTS) (Korver 2 AST),9:41 PM
+280,1,1,293,0020600384,West 25' 3PT Jump Shot (9 PTS) (Jefferson 3 AST),,2:18,3,4,4,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,66 - 58,-8,,9:41 PM
+281,1,9,294,0020600384,,,2:08,3,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.3 Short 1),9:41 PM
+282,1,1,296,0020600384,,,1:56,3,5,5,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,69 - 58,-11,Green 24' 3PT Jump Shot (7 PTS) (Ollie 8 AST),9:44 PM
+283,44,2,297,0020600384,MISS Allen 1' Reverse Layup,,1:39,3,4,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:45 PM
+284,0,4,298,0020600384,,,1:36,3,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Iguodala REBOUND (Off:1 Def:1),9:45 PM
+285,1,2,299,0020600384,,,1:20,3,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Korver 21' Jump Shot,9:45 PM
+286,0,4,300,0020600384,Allen REBOUND (Off:0 Def:3),,1:18,3,4,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:45 PM
+287,42,1,301,0020600384,Allen  Driving Layup (9 PTS),,1:12,3,4,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,69 - 60,-9,,9:45 PM
+288,1,1,302,0020600384,,,0:48,3,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,71 - 60,-11,Iguodala 17' Jump Shot (19 PTS),9:45 PM
+289,1,1,303,0020600384,West 26' 3PT Jump Shot (12 PTS) (Allen 1 AST),,0:32,3,4,4,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,71 - 63,-8,,9:46 PM
+290,1,6,304,0020600384,Scalabrine P.FOUL (P1.T1),,0:19,3,4,5,1,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:46 PM
+291,0,8,305,0020600384,,,0:19,3,5,5,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Williams FOR Ollie,9:46 PM
+292,0,8,306,0020600384,SUB: Rondo FOR Scalabrine,,0:19,3,4,4,0,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:46 PM
+293,1,1,307,0020600384,,,0:08,3,5,5,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,73 - 63,-10,Green 20' Jump Shot (9 PTS) (Iguodala 7 AST),9:47 PM
+294,1,6,308,0020600384,,,0:03,3,5,4,1,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Iguodala P.FOUL (P3.T4),9:47 PM
+295,0,8,309,0020600384,,,0:03,3,5,5,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Carney FOR Iguodala,9:47 PM
+296,0,8,310,0020600384,SUB: Scalabrine FOR Rondo,,0:03,3,4,4,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:47 PM
+297,5,2,311,0020600384,MISS Scalabrine 1' Layup,,0:01,3,4,0,0,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:47 PM
+298,0,4,312,0020600384,Jefferson REBOUND (Off:3 Def:9),,0:00,3,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:47 PM
+299,0,13,314,0020600384,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,73 - 63,-10,,9:48 PM
+300,0,12,315,0020600384,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,73 - 63,-10,,9:50 PM
+301,1,1,316,0020600384,,,11:39,4,5,5,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,75 - 63,-12,Korver 22' Jump Shot (9 PTS) (Williams 4 AST),9:51 PM
+302,2,6,317,0020600384,,,11:20,4,5,4,1,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Korver S.FOUL (P3.T1),9:51 PM
+303,11,3,318,0020600384,Green Free Throw 1 of 2 (13 PTS),,11:20,4,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,75 - 64,-11,,9:52 PM
+304,12,3,319,0020600384,Green Free Throw 2 of 2 (14 PTS),,11:20,4,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,75 - 65,-10,,9:52 PM
+305,39,5,320,0020600384,,,11:01,4,5,0,1,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Hunter Step Out of Bounds Turnover (P1.T4),9:52 PM
+306,1,2,321,0020600384,MISS Allen 5' Jump Shot,,10:47,4,4,0,5,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,,,Hunter BLOCK (1 BLK),9:53 PM
+307,0,4,322,0020600384,CELTICS Rebound,,10:46,4,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,9:53 PM
+308,1,1,323,0020600384,Green 24' 3PT Jump Shot (17 PTS) (West 2 AST),,10:36,4,4,4,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,75 - 68,-7,,9:53 PM
+309,1,5,324,0020600384,,,10:21,4,5,0,0,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Williams Bad Pass Turnover (P1.T5),9:53 PM
+310,1,2,325,0020600384,MISS West 18' Jump Shot,,10:09,4,4,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:54 PM
+311,0,4,326,0020600384,,,10:07,4,5,0,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Green REBOUND (Off:0 Def:1),9:54 PM
+312,1,6,327,0020600384,Green P.FOUL (P1.T1),,9:58,4,4,5,1,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:54 PM
+313,0,8,328,0020600384,,,9:58,4,5,5,0,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Iguodala FOR Carney,9:54 PM
+314,1,5,329,0020600384,Green STEAL (2 STL),,9:54,4,5,4,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Iguodala Bad Pass Turnover (P1.T6),9:54 PM
+315,5,1,330,0020600384,Allen 1' Layup (11 PTS),,9:52,4,4,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,75 - 70,-5,,9:55 PM
+316,2,6,331,0020600384,,,9:52,4,5,4,1,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Iguodala S.FOUL (P4.T2),9:55 PM
+317,0,8,332,0020600384,,,9:52,4,5,5,0,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Dalembert FOR Hunter,9:55 PM
+318,10,3,333,0020600384,Allen Free Throw 1 of 1 (12 PTS),,9:52,4,4,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,75 - 71,-4,,9:55 PM
+319,1,1,334,0020600384,,,9:26,4,5,5,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,78 - 71,-7,Korver 25' 3PT Jump Shot (12 PTS) (Williams 5 AST),9:56 PM
+320,39,5,335,0020600384,Gomes Step Out of Bounds Turnover (P2.T11),,9:10,4,4,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:56 PM
+321,47,1,336,0020600384,,,8:55,4,5,5,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,80 - 71,-9,Korver 14' Turnaround Jump Shot (14 PTS) (Williams 6 AST),9:56 PM
+322,1,9,338,0020600384,CELTICS Timeout: Regular (Full 4 Short 0),,8:55,4,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,9:56 PM
+323,2,6,339,0020600384,,,8:43,4,5,4,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Dalembert S.FOUL (P3.T3),9:59 PM
+324,11,3,340,0020600384,Gomes Free Throw 1 of 2 (7 PTS),,8:43,4,4,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,80 - 72,-8,,9:59 PM
+325,12,3,341,0020600384,Gomes Free Throw 2 of 2 (8 PTS),,8:43,4,4,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,80 - 73,-7,,9:59 PM
+326,1,5,342,0020600384,Scalabrine STEAL (1 STL),,8:29,4,5,4,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Green Bad Pass Turnover (P2.T7),10:00 PM
+327,5,7,343,0020600384,,,8:23,4,5,0,1,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Iguodala Violation:Kicked Ball,10:00 PM
+328,0,8,344,0020600384,SUB: Jefferson FOR Scalabrine,,8:23,4,4,4,0,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:00 PM
+329,0,8,345,0020600384,,,8:23,4,5,5,0,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Ollie FOR Williams,10:00 PM
+330,1,6,346,0020600384,,,8:14,4,5,4,1,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Korver P.FOUL (P4.T4),10:01 PM
+331,11,5,347,0020600384,CELTICS Turnover: Shot Clock (T#12),,8:00,4,2,0,1,1610612738,,,,,,0,,,,,,0,,,,,,,,,10:01 PM
+332,1,2,348,0020600384,,,7:49,4,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Korver  3PT Jump Shot,10:01 PM
+333,0,4,349,0020600384,Green REBOUND (Off:2 Def:5),,7:43,4,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:02 PM
+334,1,2,350,0020600384,MISS Jefferson 7' Jump Shot,,7:34,4,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:02 PM
+335,0,4,351,0020600384,Jefferson REBOUND (Off:4 Def:9),,7:32,4,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:02 PM
+336,2,6,352,0020600384,,,7:32,4,5,4,1,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Korver S.FOUL (P5.PN),10:02 PM
+337,11,3,353,0020600384,MISS Jefferson Free Throw 1 of 2,,7:32,4,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:02 PM
+338,1,4,354,0020600384,CELTICS Rebound,,7:32,4,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,10:02 PM
+339,0,8,355,0020600384,,,7:32,4,5,5,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Carney FOR Korver,10:02 PM
+340,12,3,356,0020600384,Jefferson Free Throw 2 of 2 (16 PTS),,7:32,4,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,80 - 74,-6,,10:02 PM
+341,1,1,357,0020600384,,,7:19,4,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,82 - 74,-8,Iguodala 17' Jump Shot (21 PTS),10:03 PM
+342,42,1,358,0020600384,Green 1' Driving Layup (19 PTS),,7:09,4,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,82 - 76,-6,,10:03 PM
+343,2,6,359,0020600384,,,7:09,4,5,4,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Dalembert S.FOUL (P4.PN),10:03 PM
+344,0,8,361,0020600384,,,7:09,4,5,5,0,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Henderson FOR Carney,10:03 PM
+345,10,3,362,0020600384,Green Free Throw 1 of 1 (20 PTS),,7:09,4,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,82 - 77,-5,,10:03 PM
+346,42,1,363,0020600384,,,6:58,4,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,84 - 77,-7,Iguodala 1' Driving Layup (23 PTS),10:04 PM
+347,1,1,364,0020600384,Jefferson 9' Jump Shot (18 PTS) (West 3 AST),,6:48,4,4,4,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,84 - 79,-5,,10:04 PM
+348,1,6,365,0020600384,Allen P.FOUL (P3.T2),,6:29,4,4,5,1,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,10:05 PM
+349,13,5,366,0020600384,,,6:19,4,5,0,1,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Iguodala Backcourt Turnover (P2.T8),10:05 PM
+350,4,5,368,0020600384,Jefferson Traveling Turnover (P2.T13),,6:11,4,4,0,1,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:06 PM
+351,1,1,370,0020600384,,,5:46,4,5,5,0,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,86 - 79,-7,Green 20' Jump Shot (11 PTS) (Iguodala 8 AST),10:06 PM
+352,1,2,371,0020600384,MISS Jefferson 8' Jump Shot,,5:29,4,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:07 PM
+353,0,4,372,0020600384,,,5:28,4,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,10:07 PM
+354,3,6,373,0020600384,Green L.B.FOUL (P2.T3),,5:28,4,4,5,1,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,10:07 PM
+355,4,9,374,0020600384,,,5:28,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:07 PM
+356,2,6,376,0020600384,Allen S.FOUL (P4.T4),,5:15,4,4,5,1,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,10:10 PM
+357,11,3,377,0020600384,,,5:15,4,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iguodala Free Throw 1 of 2,10:10 PM
+358,1,4,378,0020600384,,,5:15,4,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,10:10 PM
+359,12,3,379,0020600384,,,5:15,4,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iguodala Free Throw 2 of 2,10:10 PM
+360,0,4,380,0020600384,Green REBOUND (Off:2 Def:6),,5:13,4,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:10 PM
+361,1,2,381,0020600384,MISS Allen 15' Jump Shot,,4:59,4,4,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:11 PM
+362,0,10,382,0020600384,Jump Ball Jefferson vs. Dalembert: Tip to,,4:58,4,4,5,3,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,1610612755,,,,,,,,,10:11 PM
+363,0,4,383,0020600384,,,4:58,4,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,10:11 PM
+364,7,5,384,0020600384,,,4:46,4,5,0,1,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Iguodala Discontinue Dribble Turnover (P3.T9),10:12 PM
+365,5,2,385,0020600384,MISS Green 3' Layup,,4:30,4,4,0,5,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,,,Dalembert BLOCK (2 BLK),10:12 PM
+366,0,4,386,0020600384,,,4:28,4,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:2 Def:10),10:12 PM
+367,1,1,387,0020600384,,,4:09,4,5,5,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,88 - 79,-9,Ollie 21' Jump Shot (12 PTS) (Iguodala 9 AST),10:12 PM
+368,1,2,388,0020600384,MISS Allen 4' Jump Shot,,3:54,4,4,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:13 PM
+369,0,4,389,0020600384,West REBOUND (Off:1 Def:1),,3:52,4,4,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:13 PM
+370,5,2,390,0020600384,MISS Jefferson 3' Layup,,3:39,4,4,0,5,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,,,Dalembert BLOCK (3 BLK),10:13 PM
+371,0,4,391,0020600384,,,3:37,4,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Ollie REBOUND (Off:0 Def:6),10:13 PM
+372,1,9,392,0020600384,,,3:37,4,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.4 Short 1),10:13 PM
+373,0,8,394,0020600384,SUB: Telfair FOR Gomes,,3:37,4,4,4,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:15 PM
+374,0,8,395,0020600384,SUB: Rondo FOR Green,,3:37,4,4,4,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:15 PM
+375,11,5,396,0020600384,,,3:13,4,3,0,1,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Turnover: Shot Clock (T#10),10:16 PM
+376,0,8,397,0020600384,,,3:13,4,5,5,0,673,Alan Henderson,PHI,Philadelphia,1610612755.0,76ers,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Korver FOR Henderson,10:16 PM
+377,1,2,398,0020600384,MISS Allen 26' 3PT Jump Shot,,3:01,4,4,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:17 PM
+378,0,4,399,0020600384,,,2:59,4,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Korver REBOUND (Off:0 Def:2),10:17 PM
+379,1,2,400,0020600384,Jefferson BLOCK (1 BLK),,2:38,4,5,0,4,2584,Willie Green,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,,,MISS Green 5' Jump Shot,10:17 PM
+380,0,4,401,0020600384,,,2:36,4,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Iguodala REBOUND (Off:2 Def:1),10:17 PM
+381,1,1,402,0020600384,,,2:34,4,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,90 - 79,-11,Iguodala 18' Jump Shot (25 PTS),10:17 PM
+382,5,2,403,0020600384,MISS West 3' Layup,,2:25,4,4,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:17 PM
+383,0,4,404,0020600384,Jefferson REBOUND (Off:5 Def:9),,2:22,4,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:17 PM
+384,8,1,405,0020600384,Jefferson 1' Slam Dunk (20 PTS),,2:21,4,4,0,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,90 - 81,-9,,10:17 PM
+385,1,2,406,0020600384,,,2:01,4,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Ollie 25' 3PT Jump Shot,10:18 PM
+386,0,4,407,0020600384,Rondo REBOUND (Off:0 Def:1),,1:57,4,4,0,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:18 PM
+387,1,1,408,0020600384,West 18' Jump Shot (14 PTS) (Rondo 1 AST),,1:49,4,4,4,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,90 - 83,-7,,10:18 PM
+388,2,6,409,0020600384,Jefferson S.FOUL (P2.PN),,1:33,4,4,5,1,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,10:18 PM
+389,11,3,411,0020600384,,,1:33,4,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,91 - 83,-8,Iguodala Free Throw 1 of 2 (26 PTS),10:19 PM
+390,0,8,414,0020600384,SUB: Green FOR Jefferson,,1:33,4,4,4,0,2744,Al Jefferson,BOS,Boston,1610612738.0,Celtics,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:19 PM
+391,0,8,415,0020600384,SUB: Ray FOR Allen,,1:33,4,4,4,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,200810,Allan Ray,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:19 PM
+392,0,8,416,0020600384,,,1:33,4,5,5,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,200760,Rodney Carney,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Carney FOR Dalembert,10:19 PM
+393,12,3,417,0020600384,,,1:33,4,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,92 - 83,-9,Iguodala Free Throw 2 of 2 (27 PTS),10:19 PM
+394,1,2,418,0020600384,MISS Rondo 25' 3PT Jump Shot,,1:25,4,4,0,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:20 PM
+395,0,4,419,0020600384,Green REBOUND (Off:3 Def:6),,1:23,4,4,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:20 PM
+396,1,9,420,0020600384,CELTICS Timeout: Regular (Full 5 Short 0),,1:21,4,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,10:20 PM
+397,1,5,422,0020600384,Telfair Bad Pass Turnover (P3.T14),,1:13,4,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:22 PM
+398,1,6,425,0020600384,Rondo P.FOUL (P1.PN),,1:07,4,4,5,1,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,10:22 PM
+399,11,3,426,0020600384,,,1:07,4,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,93 - 83,-10,Ollie Free Throw 1 of 2 (13 PTS),10:22 PM
+400,0,8,427,0020600384,SUB: Powe FOR West,,1:07,4,4,4,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:23 PM
+401,12,3,428,0020600384,,,1:07,4,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,94 - 83,-11,Ollie Free Throw 2 of 2 (14 PTS),10:23 PM
+402,5,2,429,0020600384,MISS Telfair 1' Layup,,1:01,4,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:23 PM
+403,0,4,430,0020600384,,,0:59,4,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Iguodala REBOUND (Off:2 Def:2),10:23 PM
+404,1,6,431,0020600384,Powe P.FOUL (P2.PN),,0:54,4,4,5,1,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,10:23 PM
+405,11,3,432,0020600384,,,0:54,4,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,95 - 83,-12,Iguodala Free Throw 1 of 2 (28 PTS),10:23 PM
+406,12,3,433,0020600384,,,0:54,4,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,96 - 83,-13,Iguodala Free Throw 2 of 2 (29 PTS),10:24 PM
+407,39,5,434,0020600384,Rondo Step Out of Bounds Turnover (P2.T15),,0:49,4,4,0,1,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:24 PM
+408,1,1,435,0020600384,,,0:27,4,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,98 - 83,-15,Iguodala 20' Jump Shot (31 PTS),10:24 PM
+409,1,2,436,0020600384,MISS Telfair 6' Jump Shot,,0:21,4,4,0,0,2742,Sebastian Telfair,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:25 PM
+410,0,4,437,0020600384,Powe REBOUND (Off:2 Def:1),,0:20,4,4,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,10:25 PM
+411,1,5,438,0020600384,Rondo Bad Pass Turnover (P3.T16),,0:15,4,4,5,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Korver STEAL (1 STL),10:25 PM
+412,0,13,440,0020600384,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,98 - 83,-15,,10:25 PM

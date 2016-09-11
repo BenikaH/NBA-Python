@@ -1,0 +1,433 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,1,0021000096,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:13 PM
+1,0,10,2,0021000096,Jump Ball Howard vs. Smith: Tip to Horford,,12:00,1,4,5,5,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,,,,7:13 PM
+2,65,2,3,0021000096,,,11:37,1,5,0,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Horford 10' Jump Hook Shot,7:14 PM
+3,0,4,4,0021000096,Howard REBOUND (Off:0 Def:1),,11:36,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:14 PM
+4,3,1,5,0021000096,Howard 4' Hook Shot (2 PTS),,11:20,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,0 - 2,2,,7:14 PM
+5,1,6,6,0021000096,Anderson P.FOUL (P1.T1),,11:04,1,4,5,1,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,7:14 PM
+6,1,1,7,0021000096,,,10:55,1,5,5,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,2 - 2,TIE,Smith 21' Jump Shot (2 PTS) (Johnson 1 AST),7:15 PM
+7,56,1,8,0021000096,Howard 6' Running Hook Shot (4 PTS),,10:36,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,2 - 4,2,,7:15 PM
+8,1,1,9,0021000096,,,10:18,1,5,0,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,4 - 4,TIE,Bibby 19' Jump Shot (2 PTS),7:15 PM
+9,66,2,10,0021000096,MISS Howard 12' Jump Bank Shot,,9:59,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:16 PM
+10,0,4,11,0021000096,,,9:57,1,5,0,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Horford REBOUND (Off:0 Def:1),7:16 PM
+11,1,1,12,0021000096,,,9:48,1,5,5,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,7 - 4,-3,Smith 25' 3PT Jump Shot (5 PTS) (Johnson 2 AST),7:16 PM
+12,4,6,13,0021000096,Howard OFF.Foul (P1),,9:36,1,4,5,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,7:16 PM
+13,5,5,14,0021000096,Howard Foul Turnover (P1.T1),,9:36,1,4,0,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:16 PM
+14,1,1,15,0021000096,,,9:20,1,5,5,0,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,9 - 4,-5,Collins 3' Jump Shot (2 PTS) (Smith 1 AST),7:17 PM
+15,3,2,16,0021000096,MISS Howard 5' Hook Shot,,9:05,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:17 PM
+16,0,4,17,0021000096,Anderson REBOUND (Off:1 Def:0),,9:03,1,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:17 PM
+17,2,6,18,0021000096,,,9:02,1,5,4,1,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Horford S.FOUL (P1.T1),7:17 PM
+18,11,3,19,0021000096,Anderson Free Throw 1 of 2 (1 PTS),,9:02,1,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,9 - 5,-4,,7:17 PM
+19,12,3,21,0021000096,Anderson Free Throw 2 of 2 (2 PTS),,9:02,1,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,9 - 6,-3,,7:17 PM
+20,1,6,23,0021000096,Carter P.FOUL (P1.T2),,8:50,1,4,5,1,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,7:18 PM
+21,1,1,24,0021000096,,,8:43,1,5,5,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,11 - 6,-5,Smith 20' Jump Shot (7 PTS) (Horford 1 AST),7:18 PM
+22,1,2,25,0021000096,MISS Carter 7' Jump Shot,,8:29,1,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:18 PM
+23,0,4,26,0021000096,,,8:28,1,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:1),7:18 PM
+24,1,2,27,0021000096,,,8:22,1,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Johnson 17' Jump Shot,7:19 PM
+25,0,4,28,0021000096,Howard REBOUND (Off:0 Def:2),,8:21,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:19 PM
+26,1,2,29,0021000096,MISS Anderson 27' 3PT Jump Shot,,8:08,1,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:19 PM
+27,0,4,30,0021000096,,,8:06,1,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:2),7:19 PM
+28,5,1,31,0021000096,,,8:00,1,5,5,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,13 - 6,-7,Johnson 2' Layup (2 PTS) (Smith 2 AST),7:19 PM
+29,1,9,32,0021000096,MAGIC Timeout: Regular (Full 1 Short 0),,7:54,1,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:19 PM
+30,1,5,35,0021000096,Anderson Bad Pass Turnover (P1.T2),,7:40,1,4,5,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Smith STEAL (1 STL),7:22 PM
+31,65,1,36,0021000096,,,7:26,1,5,0,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,15 - 6,-9,Horford 5' Jump Hook Shot (2 PTS),7:22 PM
+32,1,2,37,0021000096,MISS Anderson 16' Jump Shot,,7:13,1,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:22 PM
+33,0,4,38,0021000096,,,7:11,1,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:3),7:22 PM
+34,1,1,39,0021000096,,,7:01,1,5,5,0,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,17 - 6,-11,Collins 16' Jump Shot (4 PTS) (Horford 2 AST),7:23 PM
+35,4,6,40,0021000096,Howard OFF.Foul (P2),,6:53,1,4,5,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,7:23 PM
+36,5,5,41,0021000096,Howard Foul Turnover (P2.T3),,6:53,1,4,0,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:23 PM
+37,0,8,42,0021000096,SUB: Gortat FOR Anderson,,6:53,1,4,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:23 PM
+38,0,8,43,0021000096,SUB: Bass FOR Howard,,6:53,1,4,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:23 PM
+39,63,1,44,0021000096,,,6:36,1,5,0,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,19 - 6,-13,Bibby 18' Fadeaway Jumper (4 PTS),7:24 PM
+40,1,2,45,0021000096,MISS Bass 10' Jump Shot,,6:16,1,4,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:24 PM
+41,0,4,46,0021000096,MAGIC Rebound,,6:16,1,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:24 PM
+42,1,6,47,0021000096,,,6:16,1,5,4,1,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Collins P.FOUL (P1.T2),7:24 PM
+43,0,8,48,0021000096,,,6:16,1,5,5,0,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Pachulia FOR Collins,7:24 PM
+44,0,8,49,0021000096,,,6:16,1,5,5,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Crawford FOR Bibby,7:24 PM
+45,63,2,50,0021000096,MISS Carter 9' Fadeaway Jumper,,5:57,1,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:25 PM
+46,0,4,51,0021000096,,,5:54,1,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:4),7:25 PM
+47,1,5,52,0021000096,,,5:52,1,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith Bad Pass Turnover (P1.T1),7:25 PM
+48,1,2,53,0021000096,MISS Bass 6' Jump Shot,,5:33,1,4,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:25 PM
+49,0,4,54,0021000096,,,5:31,1,5,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Pachulia REBOUND (Off:0 Def:1),7:25 PM
+50,1,2,55,0021000096,,,5:16,1,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Crawford 24' 3PT Jump Shot,7:26 PM
+51,0,4,56,0021000096,Bass REBOUND (Off:0 Def:1),,5:14,1,4,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:26 PM
+52,1,1,57,0021000096,Lewis 16' Jump Shot (2 PTS),,4:58,1,4,0,0,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,19 - 8,-11,,7:26 PM
+53,1,9,58,0021000096,,,4:52,1,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Timeout: Regular (Reg.1 Short 0),7:26 PM
+54,0,8,60,0021000096,,,4:52,1,5,5,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Powell FOR Horford,7:29 PM
+55,1,1,61,0021000096,,,4:42,1,5,5,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,21 - 8,-13,Johnson 17' Jump Shot (4 PTS) (Smith 3 AST),7:29 PM
+56,1,5,62,0021000096,Carter Bad Pass Turnover (P1.T4),,4:24,1,4,5,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Powell STEAL (1 STL),7:29 PM
+57,1,2,63,0021000096,,,4:13,1,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Johnson 26' 3PT Jump Shot,7:29 PM
+58,0,4,68,0021000096,,,4:12,1,5,0,0,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Powell REBOUND (Off:1 Def:0),7:29 PM
+59,1,5,74,0021000096,Carter STEAL (1 STL),,4:11,1,5,4,0,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Powell Bad Pass Turnover (P1.T2),7:29 PM
+60,1,2,65,0021000096,MISS Lewis 25' 3PT Jump Shot,,4:02,1,4,0,0,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:30 PM
+61,0,4,66,0021000096,Gortat REBOUND (Off:1 Def:0),,4:01,1,4,0,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:30 PM
+62,1,1,67,0021000096,Gortat 4' Jump Shot (2 PTS),,3:59,1,4,0,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,21 - 10,-11,,7:30 PM
+63,5,2,69,0021000096,Lewis BLOCK (1 BLK),,3:40,1,5,0,4,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,,,MISS Powell 3' Layup,7:30 PM
+64,0,4,70,0021000096,,,3:38,1,5,0,0,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Powell REBOUND (Off:2 Def:0),7:30 PM
+65,5,1,71,0021000096,,,3:36,1,5,0,0,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,23 - 10,-13,Powell 3' Layup (2 PTS),7:30 PM
+66,1,1,72,0021000096,Carter 5' Jump Shot (2 PTS),,3:21,1,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,23 - 12,-11,,7:30 PM
+67,2,6,73,0021000096,,,3:21,1,5,4,1,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Powell S.FOUL (P1.T3),7:30 PM
+68,0,8,75,0021000096,,,3:21,1,5,5,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,201952,Jeff Teague,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Teague FOR Johnson,7:30 PM
+69,10,3,76,0021000096,Carter Free Throw 1 of 1 (3 PTS),,3:21,1,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,23 - 13,-10,,7:31 PM
+70,1,2,78,0021000096,,,3:03,1,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Crawford 17' Jump Shot,7:31 PM
+71,0,4,80,0021000096,MAGIC Rebound,,3:02,1,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:31 PM
+72,1,2,82,0021000096,MISS Lewis 16' Jump Shot,,2:45,1,4,0,5,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,201952,Jeff Teague,ATL,Atlanta,1610612737.0,Hawks,,,Teague BLOCK (1 BLK),7:32 PM
+73,0,4,83,0021000096,,,2:43,1,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Rebound,7:32 PM
+74,3,6,84,0021000096,Carter L.B.FOUL (P2.T3),,2:43,1,4,5,1,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,7:32 PM
+75,1,5,85,0021000096,,,2:25,1,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Crawford Bad Pass Turnover (P1.T3),7:32 PM
+76,78,2,86,0021000096,MISS Duhon 6' Floating Jump Shot,,2:14,1,4,0,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:33 PM
+77,0,4,88,0021000096,Gortat REBOUND (Off:2 Def:0),,2:12,1,4,0,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:33 PM
+78,4,1,87,0021000096,Gortat 1' Tip Shot (4 PTS),,2:12,1,4,0,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,23 - 15,-8,,7:33 PM
+79,2,5,89,0021000096,Lewis STEAL (1 STL),,1:56,1,5,4,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Pachulia Lost Ball Turnover (P1.T4),7:33 PM
+80,1,1,90,0021000096,Carter 25' 3PT Jump Shot (6 PTS) (Duhon 1 AST),,1:46,1,4,4,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,23 - 18,-5,,7:33 PM
+81,1,2,91,0021000096,,,1:26,1,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Crawford 15' Jump Shot,7:33 PM
+82,0,4,92,0021000096,Gortat REBOUND (Off:2 Def:1),,1:25,1,4,0,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:33 PM
+83,1,6,93,0021000096,,,1:21,1,5,4,1,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Crawford P.FOUL (P1.T4),7:34 PM
+84,11,6,94,0021000096,Lewis T.FOUL (P0.T3),,1:21,1,4,0,1,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:34 PM
+85,0,8,95,0021000096,SUB: Redick FOR Carter,,1:21,1,4,4,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:34 PM
+86,0,8,96,0021000096,SUB: Williams FOR Duhon,,1:21,1,4,4,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:34 PM
+87,16,3,97,0021000096,,,1:21,1,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Crawford Free Throw Technical,7:34 PM
+88,1,4,98,0021000096,MAGIC Rebound,,1:21,1,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:34 PM
+89,1,1,99,0021000096,Gortat 4' Jump Shot (6 PTS) (Redick 1 AST),,1:15,1,4,4,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,23 - 20,-3,,7:35 PM
+90,2,5,100,0021000096,Williams STEAL (1 STL),,0:54,1,5,4,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Pachulia Lost Ball Turnover (P2.T5),7:35 PM
+91,1,2,101,0021000096,MISS Redick 4' Jump Shot,,0:48,1,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:35 PM
+92,0,4,102,0021000096,,,0:47,1,5,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Pachulia REBOUND (Off:0 Def:2),7:35 PM
+93,1,5,103,0021000096,Gortat STEAL (1 STL),,0:41,1,5,4,0,201952,Jeff Teague,ATL,Atlanta,1610612737.0,Hawks,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Teague Bad Pass Turnover (P1.T6),7:35 PM
+94,1,6,104,0021000096,,,0:28,1,5,4,1,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Pachulia P.FOUL (P1.PN),7:36 PM
+95,11,3,106,0021000096,Redick Free Throw 1 of 2 (1 PTS),,0:28,1,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,23 - 21,-2,,7:36 PM
+96,12,3,109,0021000096,MISS Redick Free Throw 2 of 2,,0:28,1,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:36 PM
+97,0,4,111,0021000096,,,0:27,1,5,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Pachulia REBOUND (Off:0 Def:3),7:36 PM
+98,1,2,112,0021000096,,,0:03,1,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 7' Jump Shot,7:37 PM
+99,0,4,113,0021000096,Williams REBOUND (Off:0 Def:1),,0:01,1,4,0,0,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:37 PM
+100,0,13,114,0021000096,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 21,-2,,7:37 PM
+101,0,12,116,0021000096,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 21,-2,,7:40 PM
+102,3,2,117,0021000096,MISS Howard 4' Hook Shot,,11:45,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:40 PM
+103,0,4,118,0021000096,MAGIC Rebound,,11:45,2,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:40 PM
+104,1,6,119,0021000096,,,11:40,2,5,4,1,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Pachulia P.FOUL (P2.T1),7:40 PM
+105,2,6,120,0021000096,,,11:28,2,5,4,1,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Johnson S.FOUL (P1.T2),7:41 PM
+106,11,3,121,0021000096,Howard Free Throw 1 of 2 (5 PTS),,11:28,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,23 - 22,-1,,7:41 PM
+107,0,8,123,0021000096,,,11:28,2,5,5,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Collins FOR Pachulia,7:41 PM
+108,12,3,124,0021000096,Howard Free Throw 2 of 2 (6 PTS),,11:28,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,23 - 23,TIE,,7:42 PM
+109,1,1,125,0021000096,,,11:09,2,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,25 - 23,-2,Crawford 18' Jump Shot (2 PTS),7:42 PM
+110,42,1,126,0021000096,Redick 5' Driving Layup (3 PTS),,10:56,2,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,25 - 25,TIE,,7:42 PM
+111,1,2,127,0021000096,,,10:41,2,5,0,0,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Powell 20' Jump Shot,7:43 PM
+112,0,4,128,0021000096,Williams REBOUND (Off:0 Def:2),,10:39,2,4,0,0,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:43 PM
+113,3,1,129,0021000096,Howard 4' Hook Shot (8 PTS) (Redick 2 AST),,10:29,2,4,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,25 - 27,2,,7:43 PM
+114,1,2,130,0021000096,,,10:15,2,5,0,0,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Collins 20' Jump Shot,7:43 PM
+115,0,4,131,0021000096,Redick REBOUND (Off:0 Def:1),,10:13,2,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:43 PM
+116,65,1,132,0021000096,Howard 6' Jump Hook Shot (10 PTS),,10:01,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,25 - 29,4,,7:43 PM
+117,1,2,133,0021000096,,,9:34,2,5,0,0,201952,Jeff Teague,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Teague 20' Jump Shot,7:44 PM
+118,0,4,134,0021000096,Howard REBOUND (Off:0 Def:3),,9:32,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:44 PM
+119,5,2,135,0021000096,MISS Williams 1' Layup,,9:22,2,4,0,0,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:44 PM
+120,0,4,136,0021000096,,,9:20,2,5,0,0,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Powell REBOUND (Off:2 Def:1),7:44 PM
+121,1,2,137,0021000096,Howard BLOCK (1 BLK),,9:11,2,5,0,4,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,,,MISS Collins 3' Jump Shot,7:44 PM
+122,0,4,138,0021000096,Williams REBOUND (Off:0 Def:3),,9:09,2,4,0,0,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:44 PM
+123,1,6,139,0021000096,,,9:05,2,5,4,1,201952,Jeff Teague,ATL,Atlanta,1610612737.0,Hawks,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Teague P.FOUL (P1.T3),7:44 PM
+124,0,8,140,0021000096,,,9:05,2,5,5,0,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Horford FOR Powell,7:45 PM
+125,0,8,141,0021000096,,,9:05,2,5,5,0,201952,Jeff Teague,ATL,Atlanta,1610612737.0,Hawks,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Bibby FOR Teague,7:45 PM
+126,2,5,142,0021000096,Redick Lost Ball Turnover (P1.T5),,9:00,2,4,5,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Crawford STEAL (1 STL),7:45 PM
+127,1,1,143,0021000096,,,8:55,2,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,27 - 29,2,Crawford 4' Jump Shot (4 PTS),7:45 PM
+128,1,2,144,0021000096,MISS Redick 26' 3PT Jump Shot,,8:45,2,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:45 PM
+129,0,4,145,0021000096,MAGIC Rebound,,8:44,2,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:45 PM
+130,1,6,146,0021000096,,,8:44,2,5,4,1,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Horford P.FOUL (P2.T4),7:45 PM
+131,4,9,147,0021000096,,,8:44,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:45 PM
+132,42,1,150,0021000096,Redick 4' Driving Layup (5 PTS),,8:38,2,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,27 - 31,4,,7:48 PM
+133,1,1,151,0021000096,,,8:20,2,5,5,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,30 - 31,1,Bibby 25' 3PT Jump Shot (7 PTS) (Horford 3 AST),7:48 PM
+134,1,2,152,0021000096,MISS Redick 24' 3PT Jump Shot,,7:59,2,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:49 PM
+135,0,4,153,0021000096,,,7:56,2,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Crawford REBOUND (Off:0 Def:1),7:49 PM
+136,1,1,154,0021000096,,,7:47,2,5,5,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,32 - 31,-1,Horford 18' Jump Shot (4 PTS) (Crawford 1 AST),7:49 PM
+137,3,2,155,0021000096,MISS Howard 6' Hook Shot,,7:34,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:49 PM
+138,0,4,157,0021000096,Richardson REBOUND (Off:1 Def:0),,7:29,2,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:49 PM
+139,4,1,156,0021000096,Richardson 3' Tip Shot (2 PTS),,7:29,2,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,32 - 33,1,,7:49 PM
+140,1,1,158,0021000096,,,7:14,2,5,5,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,34 - 33,-1,Crawford 17' Jump Shot (6 PTS) (Horford 4 AST),7:49 PM
+141,1,2,159,0021000096,MISS Richardson 26' 3PT Jump Shot,,6:59,2,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:50 PM
+142,0,4,160,0021000096,,,6:58,2,5,0,0,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Collins REBOUND (Off:0 Def:1),7:50 PM
+143,1,6,161,0021000096,Richardson P.FOUL (P1.T1),,6:54,2,4,5,1,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,7:50 PM
+144,0,8,162,0021000096,SUB: Bass FOR Gortat,,6:54,2,4,4,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:50 PM
+145,1,5,163,0021000096,Richardson STEAL (1 STL),,6:46,2,5,4,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Bibby Bad Pass Turnover (P1.T7),7:50 PM
+146,1,5,164,0021000096,Richardson Bad Pass Turnover (P1.T6),,6:45,2,4,5,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Horford STEAL (1 STL),7:50 PM
+147,46,1,165,0021000096,,,6:32,2,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,36 - 33,-3,Johnson 6' Running Jump Shot (6 PTS),7:51 PM
+148,1,2,166,0021000096,MISS Redick 25' 3PT Jump Shot,,6:15,2,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:51 PM
+149,0,4,167,0021000096,,,6:14,2,5,0,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Bibby REBOUND (Off:0 Def:1),7:51 PM
+150,4,6,170,0021000096,,,6:12,2,5,4,1,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Crawford OFF.Foul (P2),7:51 PM
+151,5,5,171,0021000096,,,6:12,2,5,0,1,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Crawford Foul Turnover (P2.T8),7:51 PM
+152,1,2,172,0021000096,MISS Richardson 25' 3PT Jump Shot,,5:56,2,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:51 PM
+153,0,4,173,0021000096,Bass REBOUND (Off:1 Def:1),,5:54,2,4,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:51 PM
+154,3,2,174,0021000096,MISS Howard 5' Hook Shot,,5:42,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:52 PM
+155,0,4,175,0021000096,,,5:40,2,5,0,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Horford REBOUND (Off:0 Def:2),7:52 PM
+156,1,6,176,0021000096,Redick P.FOUL (P1.T2),,5:33,2,4,5,1,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,7:52 PM
+157,1,9,177,0021000096,MAGIC Timeout: Regular (Full 2 Short 0),,5:33,2,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:52 PM
+158,0,8,181,0021000096,SUB: Carter FOR Redick,,5:33,2,4,4,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:55 PM
+159,0,8,182,0021000096,,,5:33,2,5,5,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Smith FOR Horford,7:55 PM
+160,1,5,183,0021000096,Carter STEAL (2 STL),,5:26,2,5,4,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Bibby Bad Pass Turnover (P2.T9),7:55 PM
+161,1,6,184,0021000096,,,5:21,2,5,4,1,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Collins P.FOUL (P2.PN),7:55 PM
+162,11,3,185,0021000096,Howard Free Throw 1 of 2 (11 PTS),,5:21,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,36 - 34,-2,,7:55 PM
+163,0,8,187,0021000096,,,5:21,2,5,5,0,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,2041,Etan Thomas,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Thomas FOR Collins,7:56 PM
+164,12,3,188,0021000096,MISS Howard Free Throw 2 of 2,,5:21,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:56 PM
+165,0,4,191,0021000096,Richardson REBOUND (Off:2 Def:0),,5:21,2,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:56 PM
+166,4,2,190,0021000096,MISS Richardson 3' Tip Shot,,5:21,2,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:56 PM
+167,0,4,192,0021000096,Bass REBOUND (Off:2 Def:1),,5:19,2,4,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:56 PM
+168,8,1,193,0021000096,Howard 3' Slam Dunk (13 PTS),,5:13,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,36 - 36,TIE,,7:56 PM
+169,1,2,194,0021000096,,,4:45,2,5,0,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Bibby 20' Jump Shot,7:57 PM
+170,0,4,195,0021000096,Howard REBOUND (Off:0 Def:4),,4:44,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:57 PM
+171,1,1,196,0021000096,Williams 27' 3PT Jump Shot (3 PTS) (Carter 1 AST),,4:37,2,4,4,0,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,36 - 39,3,,7:57 PM
+172,1,5,197,0021000096,Williams STEAL (2 STL),,4:14,2,5,4,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Smith Bad Pass Turnover (P2.T10),7:57 PM
+173,1,1,198,0021000096,Bass 12' Jump Shot (2 PTS) (Carter 2 AST),,4:07,2,4,4,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,36 - 41,5,,7:57 PM
+174,1,9,199,0021000096,,,3:58,2,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Timeout: Regular (Reg.2 Short 0),7:58 PM
+175,0,8,202,0021000096,SUB: Lewis FOR Bass,,3:58,2,4,4,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:00 PM
+176,0,8,203,0021000096,SUB: Duhon FOR Williams,,3:58,2,4,4,0,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:00 PM
+177,1,5,204,0021000096,Howard STEAL (1 STL),,3:43,2,5,4,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Smith Bad Pass Turnover (P3.T11),8:01 PM
+178,2,6,205,0021000096,,,3:34,2,5,4,1,2041,Etan Thomas,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Thomas S.FOUL (P1.PN),8:01 PM
+179,11,3,206,0021000096,Howard Free Throw 1 of 2 (14 PTS),,3:34,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,36 - 42,6,,8:01 PM
+180,12,3,208,0021000096,Howard Free Throw 2 of 2 (15 PTS),,3:34,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,36 - 43,7,,8:01 PM
+181,1,2,210,0021000096,,,3:20,2,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 12' Jump Shot,8:02 PM
+182,0,4,211,0021000096,,,3:18,2,5,0,0,2041,Etan Thomas,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:1 Def:0),8:02 PM
+183,40,2,212,0021000096,,,3:16,2,5,0,0,2041,Etan Thomas,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Thomas 4' Layup,8:02 PM
+184,0,4,213,0021000096,,,3:13,2,5,0,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Bibby REBOUND (Off:1 Def:1),8:02 PM
+185,1,2,214,0021000096,,,3:11,2,5,0,0,2041,Etan Thomas,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Thomas 5' Jump Shot,8:02 PM
+186,0,4,215,0021000096,Lewis REBOUND (Off:0 Def:1),,3:09,2,4,0,0,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:02 PM
+187,1,5,216,0021000096,Lewis Bad Pass Turnover (P1.T7),,3:06,2,4,5,0,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Crawford STEAL (2 STL),8:02 PM
+188,2,6,217,0021000096,Lewis S.FOUL (P1.T3),,3:06,2,4,5,1,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:02 PM
+189,11,3,218,0021000096,,,3:06,2,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,37 - 43,6,Crawford Free Throw 1 of 2 (7 PTS),8:03 PM
+190,12,3,220,0021000096,,,3:06,2,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,38 - 43,5,Crawford Free Throw 2 of 2 (8 PTS),8:03 PM
+191,1,1,222,0021000096,Carter 18' Jump Shot (8 PTS) (Duhon 2 AST),,2:53,2,4,4,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,38 - 45,7,,8:03 PM
+192,4,5,223,0021000096,,,2:37,2,5,0,1,2041,Etan Thomas,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Thomas Traveling Turnover (P1.T12),8:03 PM
+193,42,1,226,0021000096,Carter 2' Driving Layup (10 PTS),,2:24,2,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,38 - 47,9,,8:04 PM
+194,2,6,227,0021000096,,,2:24,2,5,4,1,2041,Etan Thomas,ATL,Atlanta,1610612737.0,Hawks,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Thomas S.FOUL (P2.PN),8:04 PM
+195,0,8,228,0021000096,SUB: Gortat FOR Howard,,2:24,2,4,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:04 PM
+196,10,3,229,0021000096,MISS Carter Free Throw 1 of 1,,2:24,2,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:04 PM
+197,0,4,231,0021000096,,,2:23,2,5,0,0,2041,Etan Thomas,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:1 Def:1),8:04 PM
+198,1,1,232,0021000096,,,2:03,2,5,5,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,41 - 47,6,Johnson  3PT Jump Shot (9 PTS) (Smith 4 AST),8:05 PM
+199,1,2,233,0021000096,MISS Gortat 14' Jump Shot,,1:46,2,4,0,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:05 PM
+200,0,4,234,0021000096,,,1:44,2,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:5),8:05 PM
+201,1,1,235,0021000096,,,1:39,2,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,43 - 47,4,Smith 11' Jump Shot (9 PTS),8:05 PM
+202,2,6,236,0021000096,Lewis S.FOUL (P2.T4),,1:39,2,4,5,1,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:05 PM
+203,0,8,237,0021000096,SUB: Redick FOR Carter,,1:39,2,4,4,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:05 PM
+204,0,8,238,0021000096,SUB: Bass FOR Lewis,,1:39,2,4,4,0,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:06 PM
+205,10,3,240,0021000096,,,1:39,2,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith Free Throw 1 of 1,8:06 PM
+206,0,4,242,0021000096,Gortat REBOUND (Off:2 Def:2),,1:38,2,4,0,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:06 PM
+207,1,1,243,0021000096,Bass 15' Jump Shot (4 PTS),,1:18,2,4,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,43 - 49,6,,8:06 PM
+208,1,2,244,0021000096,,,0:57,2,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 7' Jump Shot,8:07 PM
+209,0,4,245,0021000096,Duhon REBOUND (Off:0 Def:1),,0:54,2,4,0,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:07 PM
+210,1,2,246,0021000096,MISS Richardson 27' 3PT Jump Shot,,0:44,2,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:07 PM
+211,0,4,247,0021000096,,,0:43,2,5,0,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Bibby REBOUND (Off:1 Def:2),8:07 PM
+212,2,6,248,0021000096,Redick S.FOUL (P2.PN),,0:38,2,4,5,1,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:07 PM
+213,11,3,249,0021000096,,,0:38,2,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,44 - 49,5,Crawford Free Throw 1 of 2 (9 PTS),8:07 PM
+214,12,3,251,0021000096,,,0:38,2,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,45 - 49,4,Crawford Free Throw 2 of 2 (10 PTS),8:08 PM
+215,5,2,253,0021000096,MISS Gortat 2' Layup,,0:20,2,4,0,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:08 PM
+216,0,4,255,0021000096,Bass REBOUND (Off:3 Def:1),,0:19,2,4,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:08 PM
+217,92,1,254,0021000096,Bass 2' Putback Slam Dunk (6 PTS),,0:19,2,4,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,45 - 51,6,,8:08 PM
+218,5,1,256,0021000096,,,0:01,2,5,5,0,2041,Etan Thomas,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,47 - 51,4,Thomas 4' Layup (2 PTS) (Johnson 3 AST),8:09 PM
+219,1,2,257,0021000096,MISS Duhon 49' 3PT Jump Shot,,0:00,2,4,0,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:09 PM
+220,0,4,258,0021000096,MAGIC Rebound,,0:00,2,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,8:09 PM
+221,0,13,259,0021000096,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,47 - 51,4,,8:09 PM
+222,0,12,261,0021000096,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,47 - 51,4,,8:26 PM
+223,3,2,262,0021000096,MISS Howard 4' Hook Shot,,11:46,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:27 PM
+224,0,4,263,0021000096,,,11:43,3,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:0 Def:1),8:27 PM
+225,2,6,264,0021000096,Carter S.FOUL (P3.T1),,11:29,3,4,5,1,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:27 PM
+226,11,3,265,0021000096,,,11:29,3,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,48 - 51,3,Johnson Free Throw 1 of 2 (10 PTS),8:27 PM
+227,12,3,267,0021000096,,,11:29,3,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,49 - 51,2,Johnson Free Throw 2 of 2 (11 PTS),8:27 PM
+228,42,1,269,0021000096,Carter 3' Driving Layup (12 PTS),,11:18,3,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,49 - 53,4,,8:28 PM
+229,46,2,270,0021000096,,,10:50,3,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Johnson 9' Running Jump Shot,8:28 PM
+230,0,4,271,0021000096,Lewis REBOUND (Off:0 Def:2),,10:48,3,4,0,0,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:28 PM
+231,1,1,272,0021000096,Carter 19' Jump Shot (14 PTS) (Duhon 3 AST),,10:40,3,4,4,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,49 - 55,6,,8:29 PM
+232,44,1,273,0021000096,,,10:15,3,5,5,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,51 - 55,4,Smith 3' Reverse Layup (11 PTS) (Horford 5 AST),8:29 PM
+233,1,2,274,0021000096,MISS Lewis 25' 3PT Jump Shot,,10:00,3,4,0,0,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:29 PM
+234,0,4,275,0021000096,,,9:59,3,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:0 Def:2),8:29 PM
+235,1,1,276,0021000096,,,9:52,3,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,53 - 55,2,Johnson 11' Jump Shot (13 PTS),8:29 PM
+236,1,2,277,0021000096,MISS Anderson 28' 3PT Jump Shot,,9:36,3,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:30 PM
+237,0,4,278,0021000096,,,9:35,3,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:6),8:30 PM
+238,3,2,279,0021000096,,,9:19,3,5,0,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Horford 6' Hook Shot,8:30 PM
+239,0,4,280,0021000096,Duhon REBOUND (Off:0 Def:2),,9:17,3,4,0,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:30 PM
+240,40,5,281,0021000096,Duhon Out of Bounds Lost Ball Turnover (P1.T8),,9:13,3,4,0,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:30 PM
+241,5,2,282,0021000096,,,8:58,3,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 4' Layup,8:30 PM
+242,0,4,283,0021000096,Howard REBOUND (Off:0 Def:5),,8:56,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:30 PM
+243,44,1,284,0021000096,Anderson 2' Reverse Layup (4 PTS) (Duhon 4 AST),,8:46,3,4,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,53 - 57,4,,8:31 PM
+244,65,1,285,0021000096,,,8:23,3,5,0,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,55 - 57,2,Horford 6' Jump Hook Shot (6 PTS),8:31 PM
+245,5,6,286,0021000096,,,8:20,3,5,4,1,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Horford IN.FOUL (P3.T1),8:31 PM
+246,11,3,287,0021000096,MISS Duhon Free Throw 1 of 2,,8:20,3,4,0,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:32 PM
+247,1,4,288,0021000096,MAGIC Rebound,,8:20,3,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,8:32 PM
+248,12,3,289,0021000096,Duhon Free Throw 2 of 2 (1 PTS),,8:20,3,4,0,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,55 - 58,3,,8:32 PM
+249,1,2,291,0021000096,,,7:58,3,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Johnson 9' Jump Shot,8:32 PM
+250,0,4,292,0021000096,,,7:56,3,5,0,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Horford REBOUND (Off:1 Def:2),8:33 PM
+251,1,2,293,0021000096,,,7:51,3,5,0,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Bibby 19' Jump Shot,8:33 PM
+252,0,4,294,0021000096,Howard REBOUND (Off:0 Def:6),,7:50,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:33 PM
+253,66,1,295,0021000096,Howard 10' Jump Bank Shot (17 PTS),,7:30,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,55 - 60,5,,8:33 PM
+254,11,6,296,0021000096,Howard T.FOUL (P2.T1),,7:29,3,4,0,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:33 PM
+255,16,3,297,0021000096,,,7:29,3,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,56 - 60,4,Johnson Free Throw Technical (14 PTS),8:33 PM
+256,1,2,298,0021000096,,,7:16,3,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith  3PT Jump Shot,8:34 PM
+257,0,4,299,0021000096,Carter REBOUND (Off:0 Def:1),,7:15,3,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:34 PM
+258,1,2,300,0021000096,MISS Howard 8' Jump Shot,,6:58,3,4,0,5,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,,,Smith BLOCK (1 BLK),8:34 PM
+259,0,4,301,0021000096,MAGIC Rebound,,6:58,3,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,8:34 PM
+260,1,2,302,0021000096,MISS Carter 22' Jump Shot,,6:55,3,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:35 PM
+261,0,4,303,0021000096,,,6:53,3,5,0,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Bibby REBOUND (Off:1 Def:3),8:35 PM
+262,1,2,304,0021000096,,,6:45,3,5,0,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Horford 17' Jump Shot,8:35 PM
+263,0,4,305,0021000096,Howard REBOUND (Off:0 Def:7),,6:44,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:35 PM
+264,1,2,306,0021000096,MISS Anderson 24' 3PT Jump Shot,,6:23,3,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:35 PM
+265,0,4,307,0021000096,,,6:22,3,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:7),8:35 PM
+266,1,5,308,0021000096,Lewis STEAL (2 STL),,6:09,3,5,4,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Bibby Bad Pass Turnover (P3.T13),8:35 PM
+267,1,2,309,0021000096,MISS Lewis 25' 3PT Jump Shot,,6:03,3,4,0,0,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:35 PM
+268,0,4,310,0021000096,,,6:01,3,5,0,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Horford REBOUND (Off:1 Def:3),8:35 PM
+269,1,9,311,0021000096,,,5:56,3,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Timeout: Regular (Reg.3 Short 0),8:36 PM
+270,1,6,315,0021000096,Carter P.FOUL (P4.T2),,5:51,3,4,5,1,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:38 PM
+271,0,8,316,0021000096,SUB: Redick FOR Carter,,5:51,3,4,4,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:39 PM
+272,47,1,317,0021000096,,,5:36,3,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,58 - 60,2,Johnson 8' Turnaround Jump Shot (16 PTS),8:39 PM
+273,1,5,318,0021000096,Duhon Bad Pass Turnover (P2.T9),,5:20,3,4,5,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Horford STEAL (2 STL),8:39 PM
+274,5,1,319,0021000096,,,5:10,3,5,5,0,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,60 - 60,TIE,Collins 2' Layup (6 PTS) (Smith 5 AST),8:39 PM
+275,67,1,320,0021000096,Howard 4' Hook Bank Shot (19 PTS),,4:52,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,60 - 62,2,,8:40 PM
+276,1,2,321,0021000096,,,4:27,3,5,0,0,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Collins 17' Jump Shot,8:40 PM
+277,0,4,322,0021000096,Lewis REBOUND (Off:0 Def:3),,4:26,3,4,0,0,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:40 PM
+278,1,1,323,0021000096,Duhon 26' 3PT Jump Shot (4 PTS) (Lewis 1 AST),,4:14,3,4,4,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,60 - 65,5,,8:40 PM
+279,11,5,324,0021000096,,,3:47,3,3,0,1,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Turnover: Shot Clock (T#14),8:41 PM
+280,1,2,326,0021000096,MISS Redick 21' Jump Shot,,3:33,3,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:41 PM
+281,0,4,327,0021000096,,,3:30,3,5,0,0,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Collins REBOUND (Off:0 Def:2),8:41 PM
+282,1,1,328,0021000096,,,3:21,3,5,5,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,62 - 65,3,Horford 19' Jump Shot (8 PTS) (Johnson 4 AST),8:41 PM
+283,5,1,329,0021000096,Howard 3' Layup (21 PTS) (Anderson 1 AST),,3:00,3,4,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,62 - 67,5,,8:42 PM
+284,2,6,330,0021000096,,,3:00,3,5,4,1,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Smith S.FOUL (P1.T2),8:42 PM
+285,0,8,331,0021000096,,,3:00,3,5,5,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Crawford FOR Johnson,8:42 PM
+286,10,3,332,0021000096,Howard Free Throw 1 of 1 (22 PTS),,3:00,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,62 - 68,6,,8:42 PM
+287,1,1,334,0021000096,,,2:38,3,5,5,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,64 - 68,4,Horford 21' Jump Shot (10 PTS) (Bibby 1 AST),8:43 PM
+288,1,2,335,0021000096,MISS Lewis 25' 3PT Jump Shot,,2:17,3,4,0,0,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:43 PM
+289,0,4,337,0021000096,,,2:17,3,5,0,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Bibby REBOUND (Off:1 Def:4),8:43 PM
+290,1,1,341,0021000096,,,2:08,3,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,66 - 68,2,Smith 14' Jump Shot (13 PTS),8:44 PM
+291,3,1,342,0021000096,Howard 3' Hook Shot (24 PTS),,1:52,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,66 - 70,4,,8:44 PM
+292,2,6,343,0021000096,,,1:52,3,5,4,1,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Collins S.FOUL (P3.T3),8:44 PM
+293,1,9,344,0021000096,MAGIC Timeout: Regular (Full 3 Short 0),,1:52,3,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,8:44 PM
+294,0,8,346,0021000096,SUB: Williams FOR Anderson,,1:52,3,4,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:46 PM
+295,0,8,347,0021000096,SUB: Bass FOR Duhon,,1:52,3,4,4,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:46 PM
+296,0,8,348,0021000096,,,1:52,3,5,5,0,2215,Jason Collins,ATL,Atlanta,1610612737.0,Hawks,201952,Jeff Teague,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Teague FOR Collins,8:46 PM
+297,0,8,349,0021000096,,,1:52,3,5,5,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Pachulia FOR Bibby,8:46 PM
+298,10,3,350,0021000096,MISS Howard Free Throw 1 of 1,,1:52,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:47 PM
+299,0,4,353,0021000096,,,1:51,3,5,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Pachulia REBOUND (Off:0 Def:4),8:47 PM
+300,65,1,354,0021000096,,,1:40,3,5,0,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,68 - 70,2,Horford 8' Jump Hook Shot (12 PTS),8:47 PM
+301,1,2,355,0021000096,MISS Bass 17' Jump Shot,,1:25,3,4,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:47 PM
+302,0,4,356,0021000096,,,1:24,3,5,0,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Horford REBOUND (Off:1 Def:4),8:47 PM
+303,1,2,357,0021000096,,,1:08,3,5,0,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Horford 20' Jump Shot,8:48 PM
+304,0,4,358,0021000096,Lewis REBOUND (Off:0 Def:4),,1:07,3,4,0,0,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:48 PM
+305,3,1,359,0021000096,Howard 3' Hook Shot (26 PTS) (Williams 1 AST),,1:00,3,4,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,68 - 72,4,,8:48 PM
+306,2,6,360,0021000096,,,1:00,3,5,4,1,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Pachulia S.FOUL (P3.PN),8:48 PM
+307,0,8,361,0021000096,,,1:00,3,5,5,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Powell FOR Horford,8:48 PM
+308,10,3,362,0021000096,MISS Howard Free Throw 1 of 1,,1:00,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:48 PM
+309,0,4,364,0021000096,,,0:59,3,5,0,0,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Powell REBOUND (Off:2 Def:2),8:49 PM
+310,46,2,365,0021000096,,,0:42,3,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Crawford 6' Running Jump Shot,8:49 PM
+311,0,4,366,0021000096,Howard REBOUND (Off:0 Def:8),,0:40,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:49 PM
+312,46,2,367,0021000096,MISS Redick 5' Running Jump Shot,,0:18,3,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:49 PM
+313,0,4,368,0021000096,,,0:16,3,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:8),8:49 PM
+314,1,6,369,0021000096,Redick P.FOUL (P3.T3),,0:07,3,4,5,1,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:50 PM
+315,2,6,371,0021000096,Redick S.FOUL (P4.PN),,0:01,3,4,5,1,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:50 PM
+316,13,3,372,0021000096,,,0:01,3,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,69 - 72,3,Crawford Free Throw 1 of 3 (11 PTS),8:50 PM
+317,14,3,374,0021000096,,,0:01,3,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,70 - 72,2,Crawford Free Throw 2 of 3 (12 PTS),8:50 PM
+318,15,3,376,0021000096,,,0:01,3,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Crawford Free Throw 3 of 3,8:51 PM
+319,0,4,378,0021000096,Howard REBOUND (Off:0 Def:9),,0:00,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:51 PM
+320,1,2,379,0021000096,MISS Howard 76' 3PT Jump Shot,,0:00,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:51 PM
+321,0,4,380,0021000096,MAGIC Rebound,,0:00,3,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,8:51 PM
+322,0,13,381,0021000096,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,70 - 72,2,,8:51 PM
+323,0,12,383,0021000096,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,70 - 72,2,,8:53 PM
+324,2,6,384,0021000096,Howard S.FOUL (P3.T1),,11:38,4,4,5,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:54 PM
+325,11,3,385,0021000096,,,11:38,4,5,0,0,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,71 - 72,1,Powell Free Throw 1 of 2 (3 PTS),8:55 PM
+326,12,3,387,0021000096,,,11:38,4,5,0,0,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,72 - 72,TIE,Powell Free Throw 2 of 2 (4 PTS),8:55 PM
+327,2,6,389,0021000096,,,11:22,4,5,4,1,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Pachulia S.FOUL (P4.T1),8:55 PM
+328,11,3,390,0021000096,MISS Howard Free Throw 1 of 2,,11:22,4,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:56 PM
+329,1,4,391,0021000096,MAGIC Rebound,,11:22,4,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,8:56 PM
+330,12,3,392,0021000096,Howard Free Throw 2 of 2 (27 PTS),,11:22,4,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,72 - 73,1,,8:56 PM
+331,2,6,394,0021000096,Howard S.FOUL (P4.T2),,11:11,4,4,5,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:57 PM
+332,11,3,395,0021000096,,,11:11,4,5,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,73 - 73,TIE,Pachulia Free Throw 1 of 2 (1 PTS),8:57 PM
+333,0,8,397,0021000096,SUB: Gortat FOR Howard,,11:11,4,4,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:57 PM
+334,12,3,398,0021000096,,,11:11,4,5,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,74 - 73,-1,Pachulia Free Throw 2 of 2 (2 PTS),8:57 PM
+335,1,1,400,0021000096,Williams 16' Jump Shot (5 PTS) (Bass 1 AST),,10:50,4,4,4,0,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,74 - 75,1,,8:58 PM
+336,1,2,401,0021000096,,,10:23,4,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Crawford 26' 3PT Jump Shot,8:58 PM
+337,0,4,402,0021000096,,,10:22,4,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Crawford REBOUND (Off:1 Def:1),8:58 PM
+338,1,2,403,0021000096,,,10:13,4,5,0,0,201952,Jeff Teague,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Teague 26' 3PT Jump Shot,8:58 PM
+339,0,4,404,0021000096,Williams REBOUND (Off:0 Def:4),,10:11,4,4,0,0,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:59 PM
+340,3,2,405,0021000096,MISS Gortat 4' Hook Shot,,10:05,4,4,0,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:59 PM
+341,0,4,406,0021000096,,,10:02,4,5,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Pachulia REBOUND (Off:0 Def:5),8:59 PM
+342,4,6,407,0021000096,,,9:55,4,5,4,1,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Powell OFF.Foul (P2),8:59 PM
+343,5,5,408,0021000096,,,9:55,4,5,0,1,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Powell Foul Turnover (P2.T15),8:59 PM
+344,0,8,409,0021000096,SUB: Carter FOR Redick,,9:55,4,4,4,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:59 PM
+345,5,1,410,0021000096,Gortat 3' Layup (8 PTS) (Richardson 1 AST),,9:42,4,4,4,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,74 - 77,3,,8:59 PM
+346,1,2,411,0021000096,,,9:17,4,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Crawford 28' 3PT Jump Shot,9:00 PM
+347,0,4,412,0021000096,,,9:16,4,5,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Pachulia REBOUND (Off:1 Def:5),9:00 PM
+348,1,6,413,0021000096,Carter P.FOUL (P5.T3),,9:14,4,4,5,1,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,9:00 PM
+349,0,8,414,0021000096,SUB: Redick FOR Carter,,9:14,4,4,4,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,9:00 PM
+350,1,1,415,0021000096,,,8:55,4,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,76 - 77,1,Johnson 19' Jump Shot (18 PTS),9:01 PM
+351,1,1,416,0021000096,Redick 22' Jump Shot (7 PTS) (Williams 2 AST),,8:40,4,4,4,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,76 - 79,3,,9:01 PM
+352,63,2,417,0021000096,,,8:20,4,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Johnson 18' Fadeaway Jumper,9:01 PM
+353,0,4,418,0021000096,Bass REBOUND (Off:3 Def:2),,8:18,4,4,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:01 PM
+354,3,2,419,0021000096,MISS Gortat 5' Hook Shot,,8:09,4,4,0,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:01 PM
+355,0,4,420,0021000096,,,8:06,4,5,0,0,201952,Jeff Teague,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Teague REBOUND (Off:0 Def:1),9:01 PM
+356,78,2,421,0021000096,,,7:59,4,5,0,0,201952,Jeff Teague,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Teague 6' Floating Jump Shot,9:02 PM
+357,0,4,422,0021000096,Williams REBOUND (Off:0 Def:5),,7:57,4,4,0,0,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:02 PM
+358,1,2,423,0021000096,MISS Richardson 25' 3PT Jump Shot,,7:48,4,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:02 PM
+359,0,4,424,0021000096,Richardson REBOUND (Off:3 Def:0),,7:46,4,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:02 PM
+360,1,2,425,0021000096,MISS Redick 28' 3PT Jump Shot,,7:43,4,4,0,5,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,,,Crawford BLOCK (1 BLK),9:02 PM
+361,0,4,426,0021000096,Williams REBOUND (Off:1 Def:5),,7:41,4,4,0,0,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:02 PM
+362,1,2,427,0021000096,MISS Redick 24' 3PT Jump Shot,,7:37,4,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:02 PM
+363,0,4,428,0021000096,Gortat REBOUND (Off:3 Def:2),,7:35,4,4,0,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:02 PM
+364,1,2,429,0021000096,MISS Bass 17' Jump Shot,,7:26,4,4,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:02 PM
+365,0,4,430,0021000096,,,7:24,4,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:0 Def:3),9:02 PM
+366,1,1,431,0021000096,,,7:10,4,5,0,0,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,78 - 79,1,Powell 9' Jump Shot (6 PTS),9:02 PM
+367,1,2,432,0021000096,MISS Bass 16' Jump Shot,,6:54,4,4,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:03 PM
+368,0,4,433,0021000096,,,6:52,4,5,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Pachulia REBOUND (Off:1 Def:6),9:03 PM
+369,11,5,434,0021000096,,,6:27,4,3,0,1,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Turnover: Shot Clock (T#16),9:03 PM
+370,4,9,435,0021000096,,,6:27,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:03 PM
+371,0,8,437,0021000096,SUB: Howard FOR Bass,,6:27,4,4,4,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,9:05 PM
+372,0,8,438,0021000096,,,6:27,4,5,5,0,2694,Josh Powell,ATL,Atlanta,1610612737.0,Hawks,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Bibby FOR Powell,9:06 PM
+373,0,8,439,0021000096,,,6:27,4,5,5,0,201952,Jeff Teague,ATL,Atlanta,1610612737.0,Hawks,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Horford FOR Teague,9:06 PM
+374,71,2,440,0021000096,MISS Howard 3' Finger Roll Layup,,6:07,4,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:06 PM
+375,0,4,441,0021000096,,,6:05,4,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:0 Def:4),9:06 PM
+376,1,1,442,0021000096,,,5:50,4,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,80 - 79,-1,Johnson 13' Jump Shot (20 PTS),9:07 PM
+377,1,1,443,0021000096,Redick 18' Jump Shot (9 PTS),,5:37,4,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,80 - 81,1,,9:07 PM
+378,1,1,444,0021000096,,,5:13,4,5,5,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,82 - 81,-1,Horford 8' Jump Shot (14 PTS) (Bibby 2 AST),9:07 PM
+379,1,6,445,0021000096,,,5:02,4,5,4,1,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Crawford P.FOUL (P3.T2),9:07 PM
+380,1,9,446,0021000096,MAGIC Timeout: Regular (Full 4 Short 0),,5:02,4,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,9:08 PM
+381,0,8,447,0021000096,SUB: Lewis FOR Gortat,,5:02,4,4,4,0,101162,Marcin Gortat,ORL,Orlando,1610612753.0,Magic,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,9:10 PM
+382,0,8,448,0021000096,SUB: Carter FOR Richardson,,5:02,4,4,4,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,9:10 PM
+383,0,8,449,0021000096,,,5:02,4,5,5,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Smith FOR Pachulia,9:10 PM
+384,4,6,450,0021000096,Howard OFF.Foul (P5),,4:48,4,4,5,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,9:10 PM
+385,5,5,451,0021000096,Howard Foul Turnover (P3.T10),,4:48,4,4,0,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:10 PM
+386,40,5,452,0021000096,,,4:36,4,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Johnson Out of Bounds Lost Ball Turnover (P1.T17),9:11 PM
+387,1,1,453,0021000096,Williams 24' 3PT Jump Shot (8 PTS) (Redick 3 AST),,4:15,4,4,4,0,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,82 - 84,2,,9:11 PM
+388,1,2,454,0021000096,,,3:59,4,5,0,0,1710,Mike Bibby,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Bibby 24' 3PT Jump Shot,9:12 PM
+389,0,4,463,0021000096,,,3:57,4,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:8),9:12 PM
+390,53,2,458,0021000096,,,3:57,4,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 1' Tip Shot,9:12 PM
+391,0,4,455,0021000096,Lewis REBOUND (Off:0 Def:5),,3:54,4,4,0,0,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:12 PM
+392,1,1,461,0021000096,Lewis 22' Jump Shot (4 PTS) (Howard 1 AST),,3:34,4,4,4,0,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,82 - 86,4,,9:12 PM
+393,1,2,462,0021000096,,,3:13,4,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Johnson 25' 3PT Jump Shot,9:13 PM
+394,0,4,464,0021000096,Williams REBOUND (Off:1 Def:6),,3:06,4,4,0,0,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:13 PM
+395,1,2,465,0021000096,MISS Carter 19' Jump Shot,,2:56,4,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:13 PM
+396,0,4,466,0021000096,,,2:55,4,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:9),9:13 PM
+397,1,2,467,0021000096,,,2:39,4,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith  3PT Jump Shot,9:13 PM
+398,0,4,468,0021000096,Williams REBOUND (Off:1 Def:7),,2:38,4,4,0,0,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:13 PM
+399,66,2,469,0021000096,MISS Howard 11' Jump Bank Shot,,2:26,4,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:14 PM
+400,0,4,470,0021000096,,,2:23,4,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:10),9:14 PM
+401,1,9,471,0021000096,,,2:19,4,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Timeout: Regular (Reg.4 Short 0),9:14 PM
+402,1,1,476,0021000096,,,2:09,4,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,84 - 86,2,Crawford 17' Jump Shot (14 PTS),9:17 PM
+403,1,2,477,0021000096,MISS Williams 23' Jump Shot,,1:50,4,4,0,0,1715,Jason Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:17 PM
+404,0,4,478,0021000096,,,1:49,4,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:11),9:17 PM
+405,1,2,479,0021000096,,,1:34,4,5,0,0,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Crawford 18' Jump Shot,9:17 PM
+406,0,4,480,0021000096,Howard REBOUND (Off:0 Def:10),,1:33,4,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:17 PM
+407,42,1,481,0021000096,Carter 3' Driving Layup (16 PTS),,1:12,4,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,84 - 88,4,,9:18 PM
+408,5,2,482,0021000096,,,0:55,4,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 2' Layup,9:18 PM
+409,0,4,483,0021000096,,,0:53,4,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:2 Def:11),9:18 PM
+410,5,2,484,0021000096,,,0:50,4,5,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 3' Layup,9:18 PM
+411,0,4,485,0021000096,Lewis REBOUND (Off:0 Def:6),,0:49,4,4,0,0,1740,Rashard Lewis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:18 PM
+412,1,6,486,0021000096,,,0:40,4,5,4,1,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Smith P.FOUL (P2.T3),9:18 PM
+413,1,6,487,0021000096,,,0:36,4,5,4,1,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Smith P.FOUL (P3.PN),9:19 PM
+414,11,3,488,0021000096,MISS Carter Free Throw 1 of 2,,0:36,4,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:19 PM
+415,1,4,489,0021000096,MAGIC Rebound,,0:36,4,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,9:19 PM
+416,12,3,490,0021000096,Carter Free Throw 2 of 2 (17 PTS),,0:36,4,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,84 - 89,5,,9:19 PM
+417,2,9,492,0021000096,,,0:36,4,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Timeout: Short (Reg.4 Short 1),9:20 PM
+418,1,1,494,0021000096,,,0:34,4,5,5,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,87 - 89,2,Johnson 28' 3PT Jump Shot (23 PTS) (Smith 6 AST),9:21 PM
+419,42,1,495,0021000096,Carter 3' Driving Layup (19 PTS),,0:15,4,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,87 - 91,4,,9:21 PM
+420,2,6,496,0021000096,,,0:15,4,5,4,1,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Horford S.FOUL (P4.PN),9:21 PM
+421,10,3,497,0021000096,MISS Carter Free Throw 1 of 1,,0:15,4,4,0,0,1713,Vince Carter,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:22 PM
+422,0,4,499,0021000096,,,0:15,4,5,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:0 Def:5),9:22 PM
+423,1,9,500,0021000096,,,0:15,4,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Timeout: Regular (Reg.5 Short 1),9:22 PM
+424,3,1,503,0021000096,,,0:11,4,5,0,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,89 - 91,2,Horford 5' Hook Shot (16 PTS),9:24 PM
+425,1,6,504,0021000096,,,0:10,4,5,4,1,2037,Jamal Crawford,ATL,Atlanta,1610612737.0,Hawks,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Crawford P.FOUL (P4.PN),9:24 PM
+426,11,3,505,0021000096,Redick Free Throw 1 of 2 (10 PTS),,0:10,4,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,89 - 92,3,,9:24 PM
+427,12,3,507,0021000096,Redick Free Throw 2 of 2 (11 PTS),,0:10,4,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,89 - 93,4,,9:25 PM
+428,2,9,509,0021000096,,,0:10,4,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Timeout: Short (Reg.5 Short 2),9:25 PM
+429,5,2,510,0021000096,,,0:03,4,5,0,0,201143,Al Horford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Horford 1' Layup,9:26 PM
+430,0,4,511,0021000096,Howard REBOUND (Off:0 Def:11),,0:01,4,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:26 PM
+431,0,13,513,0021000096,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,89 - 93,4,,9:26 PM

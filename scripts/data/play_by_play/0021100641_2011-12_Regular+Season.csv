@@ -1,0 +1,517 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021100641,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:12 PM
+1,0,10,1,0021100641,Jump Ball Jefferson vs. Pekovic: Tip to Love,,12:00,1,4,5,5,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,,,,9:13 PM
+2,3,2,2,0021100641,,,11:44,1,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Pekovic 7' Hook Shot,9:13 PM
+3,0,4,3,0021100641,Howard REBOUND (Off:0 Def:1),,11:43,1,4,0,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:13 PM
+4,1,1,4,0021100641,Jefferson 19' Jump Shot (2 PTS) (Howard 1 AST),,11:27,1,4,4,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0 - 2,2,,9:14 PM
+5,1,2,5,0021100641,,,11:09,1,5,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Webster 24' 3PT Jump Shot,9:14 PM
+6,0,4,6,0021100641,Millsap REBOUND (Off:0 Def:1),,11:08,1,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:14 PM
+7,2,5,7,0021100641,Millsap Lost Ball Turnover (P1.T1),,11:00,1,4,5,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Ridnour STEAL (1 STL),9:14 PM
+8,2,6,8,0021100641,Howard S.FOUL (P1.T1),,10:56,1,4,5,1,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:14 PM
+9,11,3,9,0021100641,,,10:56,1,5,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,1 - 2,1,Webster Free Throw 1 of 2 (1 PTS),9:14 PM
+10,12,3,11,0021100641,,,10:56,1,5,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,2 - 2,TIE,Webster Free Throw 2 of 2 (2 PTS),9:14 PM
+11,1,2,13,0021100641,MISS Howard 21' Jump Shot,,10:41,1,4,0,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:15 PM
+12,0,4,14,0021100641,,,10:40,1,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:0 Def:1),9:15 PM
+13,26,6,15,0021100641,,,10:29,1,5,4,1,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Webster Offensive Charge Foul (P1.T1),9:15 PM
+14,5,5,16,0021100641,,,10:29,1,5,0,1,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Webster Foul Turnover (P1.T1),9:15 PM
+15,1,2,17,0021100641,MISS Bell 20' Jump Shot,,10:19,1,4,0,0,1952,Raja Bell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:16 PM
+16,0,4,18,0021100641,,,10:18,1,5,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Webster REBOUND (Off:0 Def:1),9:16 PM
+17,2,5,19,0021100641,Millsap STEAL (1 STL),,10:09,1,5,4,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Ridnour Lost Ball Turnover (P1.T2),9:16 PM
+18,46,2,20,0021100641,MISS Harris 7' Running Jump Shot,,9:57,1,4,0,5,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,,,Ridnour BLOCK (1 BLK),9:16 PM
+19,0,4,21,0021100641,JAZZ Rebound,,9:57,1,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,9:16 PM
+20,1,2,22,0021100641,MISS Jefferson 9' Jump Shot,,9:47,1,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:16 PM
+21,0,4,23,0021100641,,,9:44,1,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Rebound,9:17 PM
+22,2,6,24,0021100641,Millsap S.FOUL (P1.T2),,9:32,1,4,5,1,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:17 PM
+23,11,3,25,0021100641,,,9:32,1,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love Free Throw 1 of 2,9:17 PM
+24,1,4,26,0021100641,,,9:32,1,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Rebound,9:17 PM
+25,12,3,27,0021100641,,,9:32,1,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,3 - 2,-1,Love Free Throw 2 of 2 (1 PTS),9:17 PM
+26,46,2,29,0021100641,MISS Howard 9' Running Jump Shot,,9:17,1,4,0,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:18 PM
+27,0,4,30,0021100641,,,9:16,1,5,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Webster REBOUND (Off:0 Def:2),9:18 PM
+28,2,6,31,0021100641,Bell S.FOUL (P1.T3),,9:08,1,4,5,1,1952,Raja Bell,UTA,Utah,1610612762.0,Jazz,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:18 PM
+29,11,3,32,0021100641,,,9:08,1,5,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,4 - 2,-2,W. Johnson Free Throw 1 of 2 (1 PTS),9:18 PM
+30,12,3,34,0021100641,,,9:08,1,5,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,5 - 2,-3,W. Johnson Free Throw 2 of 2 (2 PTS),9:18 PM
+31,43,1,36,0021100641,Jefferson 3' Alley Oop Layup (4 PTS) (Harris 1 AST),,8:53,1,4,4,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,5 - 4,-1,,9:19 PM
+32,66,1,37,0021100641,,,8:40,1,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,7 - 4,-3,Love 13' Jump Bank Shot (3 PTS),9:19 PM
+33,46,1,38,0021100641,Howard 9' Running Jump Shot (2 PTS),,8:20,1,4,0,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,7 - 6,-1,,9:20 PM
+34,2,6,39,0021100641,Bell S.FOUL (P2.T4),,8:03,1,4,5,1,1952,Raja Bell,UTA,Utah,1610612762.0,Jazz,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:20 PM
+35,13,3,40,0021100641,,,8:03,1,5,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,8 - 6,-2,Webster Free Throw 1 of 3 (3 PTS),9:20 PM
+36,0,8,42,0021100641,SUB: Hayward FOR Bell,,8:03,1,4,4,0,1952,Raja Bell,UTA,Utah,1610612762.0,Jazz,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:20 PM
+37,14,3,43,0021100641,,,8:03,1,5,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,9 - 6,-3,Webster Free Throw 2 of 3 (4 PTS),9:20 PM
+38,15,3,45,0021100641,,,8:03,1,5,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,10 - 6,-4,Webster Free Throw 3 of 3 (5 PTS),9:21 PM
+39,1,2,47,0021100641,MISS Howard 4' Jump Shot,,7:48,1,4,0,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:21 PM
+40,0,4,48,0021100641,Howard REBOUND (Off:1 Def:1),,7:46,1,4,0,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:21 PM
+41,2,6,49,0021100641,,,7:45,1,5,4,1,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,W. Johnson S.FOUL (P1.T2),9:21 PM
+42,11,3,50,0021100641,Howard Free Throw 1 of 2 (3 PTS),,7:45,1,4,0,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,10 - 7,-3,,9:21 PM
+43,12,3,52,0021100641,Howard Free Throw 2 of 2 (4 PTS),,7:45,1,4,0,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,10 - 8,-2,,9:22 PM
+44,1,2,54,0021100641,,,7:31,1,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love 24' 3PT Jump Shot,9:22 PM
+45,0,4,55,0021100641,Harris REBOUND (Off:0 Def:1),,7:29,1,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:22 PM
+46,5,1,56,0021100641,Howard 1' Layup (6 PTS) (Harris 2 AST),,7:27,1,4,4,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,10 - 10,TIE,,9:22 PM
+47,5,1,57,0021100641,,,7:08,1,5,5,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,12 - 10,-2,Pekovic 2' Layup (2 PTS) (Ridnour 1 AST),9:22 PM
+48,1,2,58,0021100641,MISS Howard 18' Jump Shot,,6:50,1,4,0,5,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,,,W. Johnson BLOCK (1 BLK),9:23 PM
+49,0,4,59,0021100641,,,6:49,1,5,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Ridnour REBOUND (Off:0 Def:1),9:23 PM
+50,1,2,60,0021100641,,,6:43,1,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love 24' 3PT Jump Shot,9:23 PM
+51,0,4,61,0021100641,Hayward REBOUND (Off:0 Def:1),,6:42,1,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:23 PM
+52,1,2,62,0021100641,MISS Millsap 17' Jump Shot,,6:34,1,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:23 PM
+53,0,4,63,0021100641,,,6:33,1,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:0 Def:2),9:23 PM
+54,1,1,64,0021100641,,,6:19,1,5,5,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,14 - 10,-4,Pekovic 4' Jump Shot (4 PTS) (Ridnour 2 AST),9:23 PM
+55,5,1,65,0021100641,Hayward 1' Layup (2 PTS) (Millsap 1 AST),,5:57,1,4,4,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,14 - 12,-2,,9:24 PM
+56,42,1,66,0021100641,,,5:38,1,5,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,16 - 12,-4,Ridnour 3' Driving Layup (2 PTS),9:24 PM
+57,1,1,67,0021100641,Jefferson 21' Jump Shot (6 PTS),,5:13,1,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,16 - 14,-2,,9:24 PM
+58,1,2,68,0021100641,,,4:50,1,5,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS W. Johnson 22' Jump Shot,9:25 PM
+59,0,4,69,0021100641,Jefferson REBOUND (Off:0 Def:1),,4:49,1,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:25 PM
+60,1,2,70,0021100641,MISS Harris 24' 3PT Jump Shot,,4:34,1,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:25 PM
+61,0,4,71,0021100641,,,4:33,1,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Pekovic REBOUND (Off:0 Def:1),9:25 PM
+62,1,1,72,0021100641,,,4:22,1,5,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,18 - 14,-4,Ridnour 15' Jump Shot (4 PTS),9:25 PM
+63,1,9,73,0021100641,JAZZ Timeout: Regular (Full 1 Short 0),,4:13,1,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,9:25 PM
+64,0,8,75,0021100641,SUB: Tinsley FOR Harris,,4:13,1,4,4,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:28 PM
+65,17,6,76,0021100641,,,4:02,1,5,0,1,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Timberwolves T.Foul (Def. 3 Sec Pekovic ),9:28 PM
+66,16,3,77,0021100641,Hayward Free Throw Technical (3 PTS),,4:02,1,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,18 - 15,-3,,9:28 PM
+67,1,2,79,0021100641,MISS Millsap 20' Jump Shot,,3:48,1,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:29 PM
+68,0,4,80,0021100641,,,3:47,1,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:0 Def:3),9:29 PM
+69,5,2,81,0021100641,,,3:34,1,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love 3' Layup,9:29 PM
+70,0,4,82,0021100641,Jefferson REBOUND (Off:0 Def:2),,3:34,1,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:29 PM
+71,47,2,83,0021100641,MISS Millsap 5' Turnaround Jump Shot,,3:23,1,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:29 PM
+72,0,4,84,0021100641,,,3:22,1,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:0 Def:4),9:29 PM
+73,3,2,85,0021100641,,,3:06,1,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Pekovic 7' Hook Shot,9:29 PM
+74,0,4,86,0021100641,Millsap REBOUND (Off:0 Def:2),,3:03,1,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:29 PM
+75,5,1,87,0021100641,Tinsley 2' Layup (2 PTS),,2:45,1,4,0,0,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,18 - 17,-1,,9:30 PM
+76,1,2,88,0021100641,,,2:29,1,5,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Ridnour 26' 3PT Jump Shot,9:30 PM
+77,0,4,89,0021100641,Jefferson REBOUND (Off:0 Def:3),,2:28,1,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:30 PM
+78,42,1,90,0021100641,Millsap 3' Driving Layup (2 PTS) (Tinsley 1 AST),,2:21,1,4,4,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,0,,,,,,18 - 19,1,,9:30 PM
+79,2,6,91,0021100641,,,2:21,1,5,4,1,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Love S.FOUL (P1.T3),9:30 PM
+80,1,9,92,0021100641,,,2:21,1,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Timeout: Regular (Reg.1 Short 0),9:30 PM
+81,0,8,93,0021100641,SUB: Burks FOR Howard,,2:21,1,4,4,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:32 PM
+82,0,8,94,0021100641,,,2:21,1,5,5,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Williams FOR Pekovic,9:32 PM
+83,0,8,95,0021100641,,,2:21,1,5,5,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Barea FOR Ridnour,9:33 PM
+84,0,8,96,0021100641,,,2:21,1,5,5,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Ellington FOR W. Johnson,9:33 PM
+85,10,3,97,0021100641,MISS Millsap Free Throw 1 of 1,,2:21,1,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:33 PM
+86,0,4,99,0021100641,,,2:20,1,5,0,0,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:1),9:33 PM
+87,65,2,100,0021100641,,,2:01,1,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love 2' Jump Hook Shot,9:33 PM
+88,0,4,101,0021100641,Millsap REBOUND (Off:0 Def:3),,2:00,1,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:33 PM
+89,2,6,102,0021100641,,,1:49,1,5,4,1,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Ellington S.FOUL (P1.T4),9:33 PM
+90,11,3,103,0021100641,MISS Jefferson Free Throw 1 of 2,,1:49,1,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:34 PM
+91,1,4,104,0021100641,JAZZ Rebound,,1:49,1,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,9:34 PM
+92,0,8,105,0021100641,SUB: Favors FOR Millsap,,1:49,1,4,4,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:34 PM
+93,12,3,106,0021100641,MISS Jefferson Free Throw 2 of 2,,1:49,1,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:34 PM
+94,0,4,108,0021100641,,,1:48,1,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:0 Def:5),9:34 PM
+95,2,5,109,0021100641,Jefferson STEAL (1 STL),,1:32,1,5,4,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Love Lost Ball Turnover (P1.T3),9:34 PM
+96,0,8,110,0021100641,SUB: Kanter FOR Jefferson,,1:19,1,4,4,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:35 PM
+97,1,1,111,0021100641,Hayward 25' 3PT Jump Shot (6 PTS) (Tinsley 2 AST),,1:07,1,4,4,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,0,,,,,,18 - 22,4,,9:35 PM
+98,4,5,112,0021100641,,,0:56,1,5,0,1,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Barea Traveling Turnover (P1.T4),9:35 PM
+99,1,2,113,0021100641,MISS Hayward 17' Jump Shot,,0:46,1,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:36 PM
+100,0,4,114,0021100641,,,0:45,1,5,0,0,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:2),9:36 PM
+101,1,6,115,0021100641,Kanter P.FOUL (P1.PN),,0:38,1,4,5,1,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:36 PM
+102,11,3,116,0021100641,,,0:38,1,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,19 - 22,3,Love Free Throw 1 of 2 (4 PTS),9:36 PM
+103,12,3,118,0021100641,,,0:38,1,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,20 - 22,2,Love Free Throw 2 of 2 (5 PTS),9:36 PM
+104,1,2,120,0021100641,MISS Kanter 11' Jump Shot,,0:25,1,4,0,0,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:37 PM
+105,0,4,121,0021100641,Favors REBOUND (Off:1 Def:0),,0:23,1,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:37 PM
+106,42,1,122,0021100641,Burks 2' Driving Layup (2 PTS),,0:05,1,4,0,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,20 - 24,4,,9:37 PM
+107,1,2,123,0021100641,,,0:01,1,5,0,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Barea 4' Jump Shot,9:37 PM
+108,0,4,124,0021100641,,,0:00,1,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Rebound,9:37 PM
+109,0,13,126,0021100641,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,20 - 24,4,,9:37 PM
+110,0,12,128,0021100641,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,20 - 24,4,,9:40 PM
+111,1,2,129,0021100641,MISS Favors 3' Jump Shot,,11:42,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:40 PM
+112,0,4,131,0021100641,Favors REBOUND (Off:2 Def:0),,11:40,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:40 PM
+113,4,2,130,0021100641,MISS Favors 2' Tip Shot,,11:40,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:40 PM
+114,0,4,133,0021100641,Favors REBOUND (Off:3 Def:0),,11:38,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:40 PM
+115,4,1,132,0021100641,Favors 1' Tip Shot (2 PTS),,11:38,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,20 - 26,6,,9:40 PM
+116,2,5,134,0021100641,Burks STEAL (1 STL),,11:23,2,5,4,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Barea Lost Ball Turnover (P2.T5),9:41 PM
+117,8,1,135,0021100641,Burks 1' Slam Dunk (4 PTS) (Tinsley 3 AST),,11:19,2,4,4,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,0,,,,,,20 - 28,8,,9:41 PM
+118,1,2,136,0021100641,,,11:09,2,5,0,0,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Randolph 16' Jump Shot,9:41 PM
+119,0,4,137,0021100641,Favors REBOUND (Off:3 Def:1),,11:08,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:41 PM
+120,1,1,138,0021100641,Tinsley 16' Jump Shot (4 PTS),,10:48,2,4,0,0,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,20 - 30,10,,9:41 PM
+121,1,1,139,0021100641,,,10:37,2,5,5,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,23 - 30,7,Barea  3PT Jump Shot (3 PTS) (Randolph 1 AST),9:42 PM
+122,1,2,140,0021100641,MISS Favors 3' Jump Shot,,10:21,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:42 PM
+123,0,4,141,0021100641,Favors REBOUND (Off:4 Def:1),,10:19,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:42 PM
+124,5,2,142,0021100641,MISS Favors 2' Layup,,10:17,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:42 PM
+125,0,4,143,0021100641,Favors REBOUND (Off:5 Def:1),,10:15,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:42 PM
+126,2,5,144,0021100641,Favors Lost Ball Turnover (P1.T2),,10:13,2,4,5,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Randolph STEAL (1 STL),9:42 PM
+127,2,6,145,0021100641,Tinsley S.FOUL (P1.T1),,10:02,2,4,5,1,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:42 PM
+128,11,3,146,0021100641,,,10:02,2,5,0,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,24 - 30,6,Barea Free Throw 1 of 2 (4 PTS),9:42 PM
+129,12,3,148,0021100641,,,10:02,2,5,0,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Barea Free Throw 2 of 2,9:43 PM
+130,0,4,150,0021100641,Favors REBOUND (Off:5 Def:2),,10:01,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:43 PM
+131,1,2,151,0021100641,MISS Favors 9' Jump Shot,,9:46,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:43 PM
+132,0,4,152,0021100641,,,9:45,2,5,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Ellington REBOUND (Off:0 Def:1),9:43 PM
+133,2,6,153,0021100641,Kanter S.FOUL (P2.T2),,9:40,2,4,5,1,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:43 PM
+134,11,3,155,0021100641,,,9:40,2,5,0,0,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,25 - 30,5,Randolph Free Throw 1 of 2 (1 PTS),9:43 PM
+135,12,3,157,0021100641,,,9:40,2,5,0,0,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Randolph Free Throw 2 of 2,9:44 PM
+136,0,4,159,0021100641,Favors REBOUND (Off:5 Def:3),,9:38,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:44 PM
+137,1,2,160,0021100641,MISS Hayward 16' Jump Shot,,9:26,2,4,0,5,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,,,W. Johnson BLOCK (2 BLK),9:44 PM
+138,0,4,161,0021100641,,,9:22,2,5,0,0,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:3),9:44 PM
+139,1,2,162,0021100641,,,9:18,2,5,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS W. Johnson  3PT Jump Shot,9:44 PM
+140,0,4,163,0021100641,Kanter REBOUND (Off:0 Def:1),,9:17,2,4,0,0,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:44 PM
+141,2,6,164,0021100641,,,9:11,2,5,4,1,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,W. Johnson S.FOUL (P2.T1),9:44 PM
+142,11,3,165,0021100641,Burks Free Throw 1 of 2 (5 PTS),,9:11,2,4,0,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,25 - 31,6,,9:44 PM
+143,12,3,167,0021100641,MISS Burks Free Throw 2 of 2,,9:11,2,4,0,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:45 PM
+144,0,4,169,0021100641,Kanter REBOUND (Off:1 Def:1),,9:08,2,4,0,0,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:45 PM
+145,5,2,170,0021100641,MISS Kanter 2' Layup,,9:08,2,4,0,0,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:45 PM
+146,0,4,171,0021100641,,,9:08,2,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Rebound,9:45 PM
+147,1,2,172,0021100641,,,8:53,2,5,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Ellington 25' 3PT Jump Shot,9:45 PM
+148,0,4,173,0021100641,Favors REBOUND (Off:5 Def:4),,8:52,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:45 PM
+149,42,2,174,0021100641,MISS Hayward 2' Driving Layup,,8:42,2,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:45 PM
+150,0,4,175,0021100641,,,8:41,2,5,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Ellington REBOUND (Off:0 Def:2),9:45 PM
+151,42,1,176,0021100641,,,8:36,2,5,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,27 - 31,4,Ellington 3' Driving Layup (2 PTS),9:45 PM
+152,1,5,177,0021100641,Tinsley Bad Pass Turnover (P1.T3),,8:11,2,4,5,0,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Randolph STEAL (2 STL),9:46 PM
+153,1,2,178,0021100641,,,8:05,2,5,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS W. Johnson  3PT Jump Shot,9:46 PM
+154,0,4,179,0021100641,Kanter REBOUND (Off:1 Def:2),,8:04,2,4,0,0,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:46 PM
+155,5,1,180,0021100641,Hayward 1' Layup (8 PTS) (Burks 1 AST),,7:59,2,4,4,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,27 - 33,6,,9:46 PM
+156,42,1,181,0021100641,,,7:39,2,5,5,0,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,29 - 33,4,Randolph 3' Driving Layup (3 PTS) (Barea 1 AST),9:46 PM
+157,1,2,182,0021100641,MISS Kanter 19' Jump Shot,,7:23,2,4,0,0,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:47 PM
+158,0,4,183,0021100641,,,7:22,2,5,0,0,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:4),9:47 PM
+159,1,2,184,0021100641,,,7:15,2,5,0,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Barea 25' 3PT Jump Shot,9:47 PM
+160,0,4,185,0021100641,Kanter REBOUND (Off:1 Def:3),,7:14,2,4,0,0,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:47 PM
+161,1,5,186,0021100641,Favors Bad Pass Turnover (P2.T4),,6:58,2,4,5,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,W. Johnson STEAL (1 STL),9:47 PM
+162,1,6,187,0021100641,Tinsley P.FOUL (P2.T3),,6:57,2,4,5,1,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:47 PM
+163,4,9,188,0021100641,,,6:57,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:47 PM
+164,0,8,190,0021100641,SUB: Millsap FOR Kanter,,6:57,2,4,4,0,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:49 PM
+165,0,8,191,0021100641,,,6:57,2,5,5,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Tolliver FOR W. Johnson,9:49 PM
+166,1,5,192,0021100641,Hayward STEAL (1 STL),,6:49,2,5,4,0,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Williams Bad Pass Turnover (P1.T6),9:50 PM
+167,5,1,193,0021100641,Millsap 2' Layup (4 PTS) (Hayward 1 AST),,6:43,2,4,4,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,29 - 35,6,,9:50 PM
+168,1,2,194,0021100641,,,6:22,2,5,0,0,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Williams 20' Jump Shot,9:50 PM
+169,0,4,195,0021100641,Millsap REBOUND (Off:0 Def:4),,6:20,2,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:50 PM
+170,1,2,196,0021100641,MISS Favors 13' Jump Shot,,6:05,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:51 PM
+171,0,4,197,0021100641,Favors REBOUND (Off:6 Def:4),,6:03,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:51 PM
+172,1,2,198,0021100641,MISS Burks 3' Jump Shot,,5:56,2,4,0,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:51 PM
+173,0,4,200,0021100641,Favors REBOUND (Off:7 Def:4),,5:54,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:51 PM
+174,4,1,199,0021100641,Favors 3' Tip Shot (4 PTS),,5:54,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,29 - 37,8,,9:51 PM
+175,42,1,201,0021100641,,,5:48,2,5,0,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,31 - 37,6,Barea 2' Driving Layup (6 PTS),9:51 PM
+176,1,5,202,0021100641,Tinsley Bad Pass Turnover (P2.T5),,5:33,2,4,5,0,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Randolph STEAL (3 STL),9:51 PM
+177,1,6,203,0021100641,Millsap P.FOUL (P2.T4),,5:33,2,4,5,1,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:51 PM
+178,1,9,204,0021100641,JAZZ Timeout: Regular (Full 2 Short 0),,5:33,2,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,9:51 PM
+179,0,8,206,0021100641,,,5:33,2,5,5,0,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Pekovic FOR Randolph,9:53 PM
+180,0,8,207,0021100641,,,5:33,2,5,5,0,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Ridnour FOR Williams,9:53 PM
+181,0,8,208,0021100641,SUB: Harris FOR Tinsley,,5:33,2,4,4,0,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:53 PM
+182,0,8,209,0021100641,,,5:33,2,5,5,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Love FOR Barea,9:53 PM
+183,1,2,210,0021100641,,,5:23,2,5,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Ellington 16' Jump Shot,9:54 PM
+184,0,4,211,0021100641,Millsap REBOUND (Off:0 Def:5),,5:22,2,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:54 PM
+185,1,2,212,0021100641,MISS Hayward 25' 3PT Jump Shot,,5:11,2,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:54 PM
+186,0,4,213,0021100641,,,5:10,2,5,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Ellington REBOUND (Off:0 Def:3),9:54 PM
+187,1,2,214,0021100641,,,4:56,2,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love 21' Jump Shot,9:54 PM
+188,0,4,215,0021100641,,,4:54,2,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Pekovic REBOUND (Off:1 Def:1),9:54 PM
+189,1,1,216,0021100641,,,4:48,2,5,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,33 - 37,4,Ridnour 12' Jump Shot (6 PTS),9:54 PM
+190,1,2,217,0021100641,MISS Harris 24' 3PT Jump Shot,,4:38,2,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:54 PM
+191,0,4,218,0021100641,Favors REBOUND (Off:8 Def:4),,4:36,2,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:54 PM
+192,2,6,219,0021100641,,,4:24,2,5,4,1,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Tolliver S.FOUL (P1.T2),9:55 PM
+193,11,3,220,0021100641,Millsap Free Throw 1 of 2 (5 PTS),,4:24,2,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,33 - 38,5,,9:55 PM
+194,0,8,222,0021100641,SUB: Jefferson FOR Favors,,4:24,2,4,4,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:55 PM
+195,0,8,224,0021100641,SUB: Howard FOR Hayward,,4:24,2,4,4,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:55 PM
+196,0,8,225,0021100641,SUB: Bell FOR Burks,,4:24,2,4,4,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,1952,Raja Bell,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:55 PM
+197,12,3,226,0021100641,Millsap Free Throw 2 of 2 (6 PTS),,4:24,2,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,33 - 39,6,,9:55 PM
+198,5,1,228,0021100641,,,4:02,2,5,5,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,35 - 39,4,Love 2' Layup (7 PTS) (Ridnour 3 AST),9:56 PM
+199,1,1,229,0021100641,Harris 25' 3PT Jump Shot (3 PTS) (Millsap 2 AST),,3:35,2,4,4,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,35 - 42,7,,9:56 PM
+200,1,2,230,0021100641,,,3:23,2,5,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Ellington 19' Jump Shot,9:57 PM
+201,0,4,231,0021100641,Jefferson REBOUND (Off:0 Def:4),,3:22,2,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:57 PM
+202,5,2,232,0021100641,MISS Howard 2' Layup,,3:16,2,4,0,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:57 PM
+203,0,4,233,0021100641,,,3:14,2,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:0 Def:6),9:57 PM
+204,2,6,234,0021100641,Howard S.FOUL (P2.PN),,3:05,2,4,5,1,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:57 PM
+205,11,3,235,0021100641,,,3:05,2,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,36 - 42,6,Pekovic Free Throw 1 of 2 (5 PTS),9:57 PM
+206,0,8,237,0021100641,,,3:05,2,5,5,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Webster FOR Ellington,9:57 PM
+207,12,3,238,0021100641,,,3:05,2,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,37 - 42,5,Pekovic Free Throw 2 of 2 (6 PTS),9:58 PM
+208,1,5,240,0021100641,Harris Bad Pass Turnover (P1.T6),,2:47,2,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,9:58 PM
+209,1,9,241,0021100641,,,2:47,2,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Timeout: Regular (Reg.2 Short 0),9:58 PM
+210,1,2,243,0021100641,,,2:36,2,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love 4' Jump Shot,10:01 PM
+211,0,4,244,0021100641,Millsap REBOUND (Off:0 Def:6),,2:35,2,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:01 PM
+212,42,1,245,0021100641,Millsap 1' Driving Layup (8 PTS),,2:29,2,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,37 - 44,7,,10:01 PM
+213,1,1,246,0021100641,,,2:11,2,5,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,39 - 44,5,Ridnour 19' Jump Shot (8 PTS),10:01 PM
+214,5,7,247,0021100641,,,1:57,2,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love Violation:Kicked Ball,10:01 PM
+215,1,1,248,0021100641,Millsap 8' Jump Shot (10 PTS),,1:51,2,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,39 - 46,7,,10:02 PM
+216,2,6,249,0021100641,Harris S.FOUL (P1.PN),,1:41,2,4,5,1,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:02 PM
+217,11,3,250,0021100641,,,1:41,2,5,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,40 - 46,6,Ridnour Free Throw 1 of 2 (9 PTS),10:02 PM
+218,12,3,252,0021100641,,,1:41,2,5,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,41 - 46,5,Ridnour Free Throw 2 of 2 (10 PTS),10:02 PM
+219,1,2,254,0021100641,MISS Bell 24' 3PT Jump Shot,,1:30,2,4,0,0,1952,Raja Bell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:02 PM
+220,0,4,255,0021100641,Millsap REBOUND (Off:1 Def:6),,1:28,2,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:03 PM
+221,2,5,256,0021100641,Millsap Lost Ball Turnover (P2.T7),,1:26,2,4,5,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Ridnour STEAL (2 STL),10:03 PM
+222,2,6,257,0021100641,Harris S.FOUL (P2.PN),,1:21,2,4,5,1,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:03 PM
+223,11,3,258,0021100641,,,1:21,2,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love Free Throw 1 of 2,10:03 PM
+224,1,4,259,0021100641,,,1:21,2,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Rebound,10:03 PM
+225,12,3,260,0021100641,,,1:21,2,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,42 - 46,4,Love Free Throw 2 of 2 (8 PTS),10:03 PM
+226,1,1,262,0021100641,Harris 25' 3PT Jump Shot (6 PTS) (Bell 1 AST),,1:03,2,4,4,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,1952,Raja Bell,UTA,Utah,1610612762.0,Jazz,0,,,,,,42 - 49,7,,10:04 PM
+227,5,1,263,0021100641,,,0:50,2,5,5,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,44 - 49,5,Pekovic 2' Layup (8 PTS) (Ridnour 4 AST),10:04 PM
+228,2,6,264,0021100641,Bell S.FOUL (P3.PN),,0:50,2,4,5,1,1952,Raja Bell,UTA,Utah,1610612762.0,Jazz,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:04 PM
+229,0,8,266,0021100641,SUB: Hayward FOR Bell,,0:50,2,4,4,0,1952,Raja Bell,UTA,Utah,1610612762.0,Jazz,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,10:04 PM
+230,10,3,267,0021100641,,,0:50,2,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Pekovic Free Throw 1 of 1,10:04 PM
+231,0,4,269,0021100641,Jefferson REBOUND (Off:0 Def:5),,0:46,2,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:04 PM
+232,2,6,270,0021100641,,,0:43,2,5,4,1,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Ridnour S.FOUL (P1.T3),10:05 PM
+233,13,3,271,0021100641,MISS Harris Free Throw 1 of 3,,0:43,2,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:05 PM
+234,1,4,272,0021100641,JAZZ Rebound,,0:43,2,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,10:05 PM
+235,14,3,273,0021100641,Harris Free Throw 2 of 3 (7 PTS),,0:43,2,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,44 - 50,6,,10:05 PM
+236,15,3,275,0021100641,Harris Free Throw 3 of 3 (8 PTS),,0:43,2,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,44 - 51,7,,10:05 PM
+237,1,2,277,0021100641,,,0:30,2,5,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Ridnour 18' Jump Shot,10:05 PM
+238,0,4,278,0021100641,Jefferson REBOUND (Off:0 Def:6),,0:29,2,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:05 PM
+239,29,6,279,0021100641,,,0:24,2,5,4,1,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Tolliver Shooting Block Foul (P2.PN),10:06 PM
+240,11,3,280,0021100641,Harris Free Throw 1 of 2 (9 PTS),,0:24,2,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,44 - 52,8,,10:06 PM
+241,0,8,282,0021100641,SUB: Favors FOR Millsap,,0:24,2,4,4,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,10:06 PM
+242,12,3,283,0021100641,Harris Free Throw 2 of 2 (10 PTS),,0:24,2,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,44 - 53,9,,10:06 PM
+243,2,9,285,0021100641,,,0:18,2,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Timeout: Short (Reg.2 Short 1),10:06 PM
+244,1,1,287,0021100641,,,0:03,2,5,5,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,47 - 53,6,Love 24' 3PT Jump Shot (11 PTS) (Ridnour 5 AST),10:08 PM
+245,1,2,288,0021100641,MISS Harris 43' 3PT Jump Shot,,0:00,2,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:08 PM
+246,0,4,289,0021100641,JAZZ Rebound,,0:00,2,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,10:08 PM
+247,0,13,291,0021100641,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,47 - 53,6,,10:08 PM
+248,0,12,293,0021100641,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,47 - 53,6,,10:24 PM
+249,1,2,294,0021100641,MISS Harris 21' Jump Shot,,11:47,3,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:24 PM
+250,0,4,295,0021100641,,,11:46,3,5,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,W. Johnson REBOUND (Off:0 Def:1),10:24 PM
+251,63,2,296,0021100641,,,11:28,3,5,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Webster 11' Fadeaway Jumper,10:24 PM
+252,0,4,297,0021100641,,,11:27,3,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Rebound,10:24 PM
+253,1,2,298,0021100641,,,11:12,3,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love 13' Jump Shot,10:25 PM
+254,0,4,299,0021100641,,,11:10,3,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Pekovic REBOUND (Off:2 Def:1),10:25 PM
+255,5,2,300,0021100641,,,11:09,3,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Pekovic 2' Layup,10:25 PM
+256,0,4,301,0021100641,Millsap REBOUND (Off:1 Def:7),,11:07,3,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:25 PM
+257,1,2,302,0021100641,MISS Jefferson 19' Jump Shot,,10:45,3,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:25 PM
+258,0,4,303,0021100641,,,10:44,3,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:0 Def:7),10:25 PM
+259,1,5,304,0021100641,Jefferson STEAL (2 STL),,10:37,3,5,4,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Ridnour Bad Pass Turnover (P2.T7),10:25 PM
+260,1,1,305,0021100641,Harris 25' 3PT Jump Shot (13 PTS) (Howard 2 AST),,10:29,3,4,4,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,47 - 56,9,,10:25 PM
+261,1,1,306,0021100641,,,10:15,3,5,5,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,49 - 56,7,Webster 23' Jump Shot (7 PTS) (Ridnour 6 AST),10:26 PM
+262,1,6,307,0021100641,,,10:01,3,5,4,1,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,1952,Raja Bell,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Love P.FOUL (P2.T1),10:26 PM
+263,2,6,308,0021100641,,,9:54,3,5,4,1,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Webster S.FOUL (P2.T2),10:26 PM
+264,11,3,309,0021100641,MISS Harris Free Throw 1 of 2,,9:54,3,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:26 PM
+265,1,4,310,0021100641,JAZZ Rebound,,9:54,3,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,10:26 PM
+266,12,3,311,0021100641,Harris Free Throw 2 of 2 (14 PTS),,9:54,3,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,49 - 57,8,,10:27 PM
+267,1,5,313,0021100641,Millsap STEAL (2 STL),,9:42,3,5,4,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Webster Bad Pass Turnover (P2.T8),10:27 PM
+268,1,2,314,0021100641,MISS Harris 3' Jump Shot,,9:36,3,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:27 PM
+269,0,4,316,0021100641,Jefferson REBOUND (Off:1 Def:6),,9:34,3,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:27 PM
+270,4,2,315,0021100641,MISS Jefferson 1' Tip Shot,,9:34,3,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:27 PM
+271,0,4,318,0021100641,Jefferson REBOUND (Off:2 Def:6),,9:32,3,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:27 PM
+272,4,2,317,0021100641,MISS Jefferson 2' Tip Shot,,9:32,3,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:27 PM
+273,0,4,319,0021100641,,,9:31,3,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:0 Def:8),10:27 PM
+274,2,6,320,0021100641,Jefferson S.FOUL (P1.T1),,9:25,3,4,5,1,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:27 PM
+275,11,3,321,0021100641,,,9:25,3,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love Free Throw 1 of 2,10:28 PM
+276,1,4,322,0021100641,,,9:25,3,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Rebound,10:28 PM
+277,12,3,323,0021100641,,,9:25,3,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,50 - 57,7,Love Free Throw 2 of 2 (12 PTS),10:28 PM
+278,1,2,325,0021100641,MISS Howard 22' Jump Shot,,9:07,3,4,0,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:28 PM
+279,0,4,326,0021100641,Millsap REBOUND (Off:2 Def:7),,9:05,3,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:28 PM
+280,1,2,327,0021100641,MISS Howard 19' Jump Shot,,8:52,3,4,0,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:29 PM
+281,0,4,328,0021100641,,,8:51,3,5,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,W. Johnson REBOUND (Off:0 Def:2),10:29 PM
+282,5,1,329,0021100641,,,8:42,3,5,5,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,52 - 57,5,Love 3' Layup (14 PTS) (Ridnour 7 AST),10:29 PM
+283,1,1,330,0021100641,Howard 20' Jump Shot (8 PTS),,8:25,3,4,0,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,52 - 59,7,,10:29 PM
+284,1,1,331,0021100641,,,8:05,3,5,5,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,55 - 59,4,W. Johnson 25' 3PT Jump Shot (5 PTS) (Love 1 AST),10:29 PM
+285,46,1,332,0021100641,Howard 5' Running Jump Shot (10 PTS),,7:38,3,4,0,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,55 - 61,6,,10:30 PM
+286,1,2,333,0021100641,,,7:12,3,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Pekovic 8' Jump Shot,10:30 PM
+287,0,4,334,0021100641,Millsap REBOUND (Off:2 Def:8),,7:11,3,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:30 PM
+288,1,5,335,0021100641,Harris Bad Pass Turnover (P2.T8),,7:06,3,4,5,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Ridnour STEAL (3 STL),10:30 PM
+289,1,2,336,0021100641,,,6:59,3,5,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS W. Johnson 25' 3PT Jump Shot,10:31 PM
+290,0,4,337,0021100641,JAZZ Rebound,,6:58,3,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,10:31 PM
+291,1,1,338,0021100641,Bell 17' Jump Shot (2 PTS) (Harris 3 AST),,6:45,3,4,4,0,1952,Raja Bell,UTA,Utah,1610612762.0,Jazz,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,55 - 63,8,,10:31 PM
+292,5,1,339,0021100641,,,6:26,3,5,5,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,57 - 63,6,Pekovic 1' Layup (10 PTS) (Ridnour 8 AST),10:31 PM
+293,2,6,340,0021100641,Jefferson S.FOUL (P2.T2),,6:26,3,4,5,1,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:31 PM
+294,10,3,341,0021100641,,,6:26,3,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Pekovic Free Throw 1 of 1,10:31 PM
+295,0,4,343,0021100641,,,6:25,3,5,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,W. Johnson REBOUND (Off:1 Def:2),10:32 PM
+296,1,2,344,0021100641,,,6:13,3,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love 26' 3PT Jump Shot,10:32 PM
+297,0,4,345,0021100641,Jefferson REBOUND (Off:2 Def:7),,6:12,3,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:32 PM
+298,1,2,346,0021100641,MISS Jefferson 16' Jump Shot,,5:54,3,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:33 PM
+299,0,4,347,0021100641,,,5:53,3,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:0 Def:9),10:33 PM
+300,5,1,348,0021100641,,,5:41,3,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,59 - 63,4,Pekovic 3' Layup (12 PTS),10:33 PM
+301,1,2,349,0021100641,MISS Howard 24' 3PT Jump Shot,,5:23,3,4,0,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:33 PM
+302,0,4,350,0021100641,,,5:22,3,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:0 Def:10),10:33 PM
+303,1,1,351,0021100641,,,5:07,3,5,5,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,62 - 63,1,Webster 24' 3PT Jump Shot (10 PTS) (Pekovic 1 AST),10:33 PM
+304,1,9,352,0021100641,JAZZ Timeout: Regular (Full 3 Short 0),,4:59,3,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,10:33 PM
+305,1,2,354,0021100641,MISS Millsap 6' Jump Shot,,4:44,3,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:36 PM
+306,0,4,355,0021100641,,,4:42,3,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Pekovic REBOUND (Off:2 Def:2),10:36 PM
+307,26,6,356,0021100641,,,4:28,3,5,4,1,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Pekovic Offensive Charge Foul (P1.T3),10:36 PM
+308,5,5,357,0021100641,,,4:28,3,5,0,1,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Pekovic Foul Turnover (P1.T9),10:36 PM
+309,2,6,358,0021100641,,,4:14,3,5,4,1,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Pekovic S.FOUL (P2.T4),10:37 PM
+310,11,3,359,0021100641,Jefferson Free Throw 1 of 2 (7 PTS),,4:14,3,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,62 - 64,2,,10:37 PM
+311,0,8,361,0021100641,SUB: Burks FOR Bell,,4:14,3,4,4,0,1952,Raja Bell,UTA,Utah,1610612762.0,Jazz,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,10:37 PM
+312,0,8,362,0021100641,SUB: Hayward FOR Howard,,4:14,3,4,4,0,2572,Josh Howard,UTA,Utah,1610612762.0,Jazz,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,10:37 PM
+313,12,3,363,0021100641,Jefferson Free Throw 2 of 2 (8 PTS),,4:14,3,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,62 - 65,3,,10:37 PM
+314,4,6,365,0021100641,,,4:05,3,5,4,1,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,W. Johnson OFF.Foul (P3),10:38 PM
+315,5,5,366,0021100641,,,4:05,3,5,0,1,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,W. Johnson Foul Turnover (P1.T10),10:38 PM
+316,0,8,367,0021100641,SUB: Favors FOR Millsap,,3:48,3,4,4,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,10:38 PM
+317,46,1,368,0021100641,Harris 4' Running Jump Shot (16 PTS),,3:40,3,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,62 - 67,5,,10:39 PM
+318,8,1,369,0021100641,,,3:32,3,5,5,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,64 - 67,3,Love 1' Slam Dunk (16 PTS) (Ridnour 9 AST),10:39 PM
+319,1,2,370,0021100641,MISS Hayward 19' Jump Shot,,3:16,3,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:39 PM
+320,0,4,371,0021100641,,,3:14,3,5,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Webster REBOUND (Off:0 Def:3),10:39 PM
+321,5,1,372,0021100641,,,3:08,3,5,5,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,66 - 67,1,Pekovic 1' Layup (14 PTS) (Ridnour 10 AST),10:39 PM
+322,5,2,373,0021100641,MISS Hayward 2' Layup,,2:52,3,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:39 PM
+323,0,4,374,0021100641,,,2:51,3,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Pekovic REBOUND (Off:2 Def:3),10:39 PM
+324,1,2,375,0021100641,,,2:45,3,5,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS W. Johnson  3PT Jump Shot,10:40 PM
+325,0,4,376,0021100641,Jefferson REBOUND (Off:2 Def:8),,2:43,3,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:40 PM
+326,2,7,378,0021100641,,,2:38,3,5,0,1,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,W. Johnson Violation:Defensive Goaltending,10:40 PM
+327,42,1,377,0021100641,Burks 3' Driving Layup (7 PTS),,2:38,3,4,0,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,66 - 69,3,,10:40 PM
+328,1,2,379,0021100641,,,2:22,3,5,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS W. Johnson 11' Jump Shot,10:40 PM
+329,0,4,380,0021100641,,,2:20,3,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:1 Def:10),10:40 PM
+330,5,2,381,0021100641,,,2:18,3,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love 1' Layup,10:40 PM
+331,0,4,382,0021100641,Favors REBOUND (Off:8 Def:5),,2:15,3,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:40 PM
+332,2,6,383,0021100641,,,2:09,3,5,4,1,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Pekovic S.FOUL (P3.PN),10:41 PM
+333,1,9,384,0021100641,,,2:09,3,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Timeout: Regular (Reg.3 Short 1),10:41 PM
+334,0,8,387,0021100641,SUB: Kanter FOR Jefferson,,2:09,3,4,4,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,10:43 PM
+335,0,8,388,0021100641,,,2:09,3,5,5,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Ellington FOR W. Johnson,10:43 PM
+336,0,8,389,0021100641,,,2:09,3,5,5,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Barea FOR Ridnour,10:43 PM
+337,0,8,390,0021100641,,,2:09,3,5,5,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Williams FOR Pekovic,10:43 PM
+338,11,3,391,0021100641,Burks Free Throw 1 of 2 (8 PTS),,2:09,3,4,0,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,66 - 70,4,,10:43 PM
+339,12,3,393,0021100641,Burks Free Throw 2 of 2 (9 PTS),,2:09,3,4,0,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,66 - 71,5,,10:43 PM
+340,63,2,395,0021100641,,,1:50,3,5,0,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Barea 7' Fadeaway Jumper,10:44 PM
+341,0,4,396,0021100641,Favors REBOUND (Off:8 Def:6),,1:49,3,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:44 PM
+342,1,2,397,0021100641,MISS Harris 17' Jump Shot,,1:42,3,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:44 PM
+343,0,4,398,0021100641,Kanter REBOUND (Off:2 Def:3),,1:39,3,4,0,0,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:44 PM
+344,5,1,399,0021100641,Kanter 2' Layup (2 PTS),,1:38,3,4,0,0,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,66 - 73,7,,10:44 PM
+345,1,2,400,0021100641,,,1:19,3,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love 14' Jump Shot,10:44 PM
+346,0,4,401,0021100641,JAZZ Rebound,,1:17,3,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,10:44 PM
+347,0,8,402,0021100641,SUB: Tinsley FOR Harris,,1:17,3,4,4,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,10:44 PM
+348,84,1,403,0021100641,Tinsley 9' Running Bank Shot (6 PTS) (Hayward 2 AST),,1:06,3,4,4,0,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,66 - 75,9,,10:45 PM
+349,1,1,404,0021100641,,,0:56,3,5,5,0,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,69 - 75,6,Williams 25' 3PT Jump Shot (3 PTS) (Barea 2 AST),10:45 PM
+350,1,5,405,0021100641,Burks Bad Pass Turnover (P1.T9),,0:44,3,4,5,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Webster STEAL (1 STL),10:45 PM
+351,5,1,406,0021100641,,,0:39,3,5,5,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,71 - 75,4,Love 3' Layup (18 PTS) (Barea 3 AST),10:45 PM
+352,2,6,407,0021100641,Favors S.FOUL (P1.T3),,0:39,3,4,5,1,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:45 PM
+353,10,3,408,0021100641,,,0:39,3,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love Free Throw 1 of 1,10:46 PM
+354,0,4,410,0021100641,Favors REBOUND (Off:8 Def:7),,0:37,3,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:46 PM
+355,1,1,411,0021100641,Burks 20' Jump Shot (11 PTS),,0:21,3,4,0,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,71 - 77,6,,10:46 PM
+356,1,2,412,0021100641,,,0:02,3,5,0,0,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Williams 24' 3PT Jump Shot,10:47 PM
+357,0,4,413,0021100641,Burks REBOUND (Off:0 Def:1),,0:00,3,4,0,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:47 PM
+358,1,2,414,0021100641,MISS Burks 44' 3PT Jump Shot,,0:00,3,4,0,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:47 PM
+359,0,4,415,0021100641,JAZZ Rebound,,0:00,3,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,10:47 PM
+360,0,13,416,0021100641,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,71 - 77,6,,10:47 PM
+361,0,12,418,0021100641,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,71 - 77,6,,10:49 PM
+362,66,1,419,0021100641,,,11:35,4,5,0,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,74 - 77,3,Barea 24' 3PT Jump Bank Shot (9 PTS),10:50 PM
+363,1,2,420,0021100641,MISS Favors 8' Jump Shot,,11:11,4,4,0,5,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,,,Williams BLOCK (1 BLK),10:50 PM
+364,0,4,421,0021100641,,,11:09,4,5,0,0,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:5),10:50 PM
+365,2,6,422,0021100641,Tinsley S.FOUL (P3.T1),,11:08,4,4,5,1,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:51 PM
+366,11,3,423,0021100641,,,11:08,4,5,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,75 - 77,2,Ellington Free Throw 1 of 2 (3 PTS),10:51 PM
+367,12,3,425,0021100641,,,11:08,4,5,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,76 - 77,1,Ellington Free Throw 2 of 2 (4 PTS),10:51 PM
+368,1,1,427,0021100641,Hayward 24' 3PT Jump Shot (11 PTS) (Burks 2 AST),,10:55,4,4,4,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,76 - 80,4,,10:51 PM
+369,1,2,428,0021100641,,,10:42,4,5,0,0,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Williams 25' 3PT Jump Shot,10:52 PM
+370,0,4,429,0021100641,,,10:40,4,5,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Ellington REBOUND (Off:1 Def:3),10:52 PM
+371,5,7,430,0021100641,Tinsley Violation:Kicked Ball,,10:28,4,4,0,1,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:52 PM
+372,1,1,431,0021100641,,,10:19,4,5,5,0,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,78 - 80,2,Randolph 4' Jump Shot (5 PTS) (Barea 4 AST),10:52 PM
+373,41,5,432,0021100641,Hayward Poss Lost Ball Turnover (P1.T10),,10:05,4,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:53 PM
+374,1,5,433,0021100641,Kanter STEAL (1 STL),,9:56,4,5,4,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Barea Bad Pass Turnover (P3.T11),10:53 PM
+375,5,1,434,0021100641,Burks 3' Layup (13 PTS) (Tinsley 4 AST),,9:50,4,4,4,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,0,,,,,,78 - 82,4,,10:53 PM
+376,1,2,435,0021100641,,,9:31,4,5,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Ellington 19' Jump Shot,10:53 PM
+377,0,4,436,0021100641,Favors REBOUND (Off:8 Def:8),,9:30,4,4,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:53 PM
+378,4,5,437,0021100641,Kanter Traveling Turnover (P1.T11),,9:23,4,4,0,1,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:53 PM
+379,1,2,438,0021100641,Favors BLOCK (1 BLK),,9:05,4,5,0,4,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,,,MISS Randolph 5' Jump Shot,10:54 PM
+380,0,4,439,0021100641,Hayward REBOUND (Off:0 Def:2),,9:03,4,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:54 PM
+381,42,1,440,0021100641,Hayward 2' Driving Layup (13 PTS),,8:59,4,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,78 - 84,6,,10:54 PM
+382,1,9,441,0021100641,,,8:59,4,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Timeout: Regular (Reg.4 Short 1),10:54 PM
+383,1,2,442,0021100641,Favors BLOCK (2 BLK),,8:39,4,5,0,4,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,,,MISS Randolph 8' Jump Shot,10:57 PM
+384,0,4,443,0021100641,Kanter REBOUND (Off:2 Def:4),,8:37,4,4,0,0,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:57 PM
+385,1,2,444,0021100641,MISS Tinsley 22' Jump Shot,,8:15,4,4,0,0,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:57 PM
+386,0,4,445,0021100641,,,8:14,4,5,0,0,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Randolph REBOUND (Off:0 Def:1),10:57 PM
+387,42,1,446,0021100641,,,8:08,4,5,0,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,80 - 84,4,Barea 1' Driving Layup (11 PTS),10:57 PM
+388,66,2,447,0021100641,MISS Kanter 4' Jump Bank Shot,,7:47,4,4,0,0,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,10:58 PM
+389,0,4,448,0021100641,,,7:46,4,5,0,0,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:6),10:58 PM
+390,1,6,449,0021100641,Tinsley P.FOUL (P4.T2),,7:38,4,4,5,1,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:58 PM
+391,0,8,450,0021100641,,,7:38,4,5,5,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Ridnour FOR Ellington,10:58 PM
+392,0,8,451,0021100641,SUB: Millsap FOR Kanter,,7:38,4,4,4,0,202683,Enes Kanter,UTA,Utah,1610612762.0,Jazz,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,10:58 PM
+393,2,5,453,0021100641,Millsap STEAL (3 STL),,7:26,4,5,4,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Barea Lost Ball Turnover (P4.T12),10:58 PM
+394,0,10,452,0021100641,Jump Ball Millsap vs. Barea: Tip to Favors,,7:26,4,4,5,4,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,,,,10:59 PM
+395,8,1,454,0021100641,Millsap  Slam Dunk (12 PTS) (Hayward 3 AST),,7:15,4,4,4,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,80 - 86,6,,10:59 PM
+396,2,5,455,0021100641,Millsap STEAL (4 STL),,6:54,4,5,4,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Barea Lost Ball Turnover (P5.T13),10:59 PM
+397,7,1,456,0021100641,Burks 1' Dunk (15 PTS) (Tinsley 5 AST),,6:48,4,4,4,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,0,,,,,,80 - 88,8,,10:59 PM
+398,2,5,457,0021100641,Millsap STEAL (5 STL),,6:29,4,5,4,0,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Randolph Lost Ball Turnover (P1.T14),11:00 PM
+399,1,6,458,0021100641,,,6:29,4,5,4,1,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Williams P.FOUL (P1.T1),11:00 PM
+400,0,8,459,0021100641,,,6:29,4,5,5,0,201576,Anthony Randolph,MIN,Minnesota,1610612750.0,Timberwolves,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Love FOR Randolph,11:00 PM
+401,0,8,460,0021100641,,,6:29,4,5,5,0,202682,Derrick Williams,MIN,Minnesota,1610612750.0,Timberwolves,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Pekovic FOR Williams,11:00 PM
+402,0,8,461,0021100641,,,6:29,4,5,5,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: W. Johnson FOR Tolliver,11:00 PM
+403,1,6,462,0021100641,,,6:12,4,5,4,1,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Barea P.FOUL (P1.T2),11:00 PM
+404,1,2,463,0021100641,MISS Millsap 17' Jump Shot,,6:05,4,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:01 PM
+405,0,4,464,0021100641,,,6:03,4,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:1 Def:11),11:01 PM
+406,1,6,465,0021100641,Millsap P.FOUL (P3.T3),,5:56,4,4,5,1,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,11:01 PM
+407,4,9,466,0021100641,,,5:56,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:01 PM
+408,5,2,467,0021100641,Favors BLOCK (3 BLK),,5:43,4,5,0,4,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,,,MISS Love 2' Layup,11:03 PM
+409,0,4,468,0021100641,,,5:41,4,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:2 Def:11),11:03 PM
+410,11,5,469,0021100641,,,5:39,4,3,0,1,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Turnover: Shot Clock (T#15),11:04 PM
+411,2,7,471,0021100641,,,5:20,4,5,0,1,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,W. Johnson Violation:Defensive Goaltending,11:04 PM
+412,1,1,470,0021100641,Millsap 12' Jump Shot (14 PTS),,5:20,4,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,80 - 90,10,,11:04 PM
+413,1,2,472,0021100641,Millsap BLOCK (1 BLK),,5:08,4,5,0,4,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,,,MISS Barea 5' Jump Shot,11:04 PM
+414,0,4,473,0021100641,JAZZ Rebound,,5:08,4,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,11:04 PM
+415,1,1,474,0021100641,Hayward 23' Jump Shot (15 PTS) (Millsap 3 AST),,4:50,4,4,4,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,80 - 92,12,,11:05 PM
+416,1,9,475,0021100641,,,4:49,4,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Timeout: Regular (Reg.5 Short 1),11:05 PM
+417,0,8,477,0021100641,,,4:49,4,5,5,0,200826,Jose Juan Barea,MIN,Minnesota,1610612750.0,Timberwolves,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,SUB: Webster FOR Barea,11:07 PM
+418,1,2,478,0021100641,Millsap BLOCK (2 BLK),,4:32,4,5,0,4,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,,,MISS Ridnour 4' Jump Shot,11:08 PM
+419,0,4,479,0021100641,,,4:31,4,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Pekovic REBOUND (Off:3 Def:3),11:08 PM
+420,5,2,480,0021100641,Favors BLOCK (4 BLK),,4:27,4,5,0,4,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,,,MISS Pekovic 2' Layup,11:08 PM
+421,0,4,481,0021100641,Tinsley REBOUND (Off:0 Def:1),,4:24,4,4,0,0,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:08 PM
+422,1,2,482,0021100641,MISS Tinsley 23' Jump Shot,,4:07,4,4,0,0,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:08 PM
+423,0,4,483,0021100641,,,4:06,4,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Pekovic REBOUND (Off:3 Def:4),11:08 PM
+424,1,1,484,0021100641,,,3:57,4,5,5,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,83 - 92,9,Ridnour 26' 3PT Jump Shot (13 PTS) (Webster 1 AST),11:08 PM
+425,1,1,485,0021100641,Hayward 21' Jump Shot (17 PTS) (Favors 1 AST),,3:40,4,4,4,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,83 - 94,11,,11:08 PM
+426,1,1,486,0021100641,,,3:28,4,5,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,86 - 94,8,Ridnour 25' 3PT Jump Shot (16 PTS),11:09 PM
+427,1,1,487,0021100641,Hayward 20' Jump Shot (19 PTS),,3:12,4,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,86 - 96,10,,11:09 PM
+428,1,1,488,0021100641,,,3:02,4,5,5,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,88 - 96,8,Love 6' Jump Shot (20 PTS) (Ridnour 11 AST),11:09 PM
+429,2,6,489,0021100641,Hayward S.FOUL (P1.T4),,3:02,4,4,5,1,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,11:09 PM
+430,0,8,490,0021100641,SUB: Harris FOR Tinsley,,3:02,4,4,4,0,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,11:09 PM
+431,0,8,491,0021100641,SUB: Jefferson FOR Favors,,3:02,4,4,4,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,11:09 PM
+432,10,3,492,0021100641,,,3:02,4,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love Free Throw 1 of 1,11:09 PM
+433,0,4,494,0021100641,Jefferson REBOUND (Off:2 Def:9),,3:00,4,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:10 PM
+434,1,2,495,0021100641,MISS Millsap 20' Jump Shot,,2:40,4,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:10 PM
+435,0,4,496,0021100641,JAZZ Rebound,,2:39,4,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,11:10 PM
+436,43,2,498,0021100641,MISS Hayward 2' Alley Oop Layup,,2:31,4,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:11 PM
+437,0,4,499,0021100641,,,2:30,4,5,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,W. Johnson REBOUND (Off:1 Def:3),11:11 PM
+438,1,1,500,0021100641,,,2:23,4,5,5,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,91 - 96,5,Love 25' 3PT Jump Shot (23 PTS) (Ridnour 12 AST),11:11 PM
+439,5,1,501,0021100641,Harris 3' Layup (18 PTS),,2:02,4,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,91 - 98,7,,11:11 PM
+440,1,6,502,0021100641,Jefferson P.FOUL (P3.PN),,1:54,4,4,5,1,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,11:11 PM
+441,11,3,503,0021100641,,,1:54,4,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,92 - 98,6,Pekovic Free Throw 1 of 2 (15 PTS),11:11 PM
+442,12,3,505,0021100641,,,1:54,4,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,93 - 98,5,Pekovic Free Throw 2 of 2 (16 PTS),11:12 PM
+443,1,2,507,0021100641,MISS Harris 25' 3PT Jump Shot,,1:31,4,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:12 PM
+444,0,4,508,0021100641,,,1:28,4,5,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Webster REBOUND (Off:0 Def:4),11:12 PM
+445,2,6,509,0021100641,Jefferson S.FOUL (P4.PN),,1:21,4,4,5,1,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,11:13 PM
+446,11,3,510,0021100641,,,1:21,4,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,94 - 98,4,Pekovic Free Throw 1 of 2 (17 PTS),11:13 PM
+447,12,3,512,0021100641,,,1:21,4,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,95 - 98,3,Pekovic Free Throw 2 of 2 (18 PTS),11:13 PM
+448,1,2,514,0021100641,MISS Millsap 6' Jump Shot,,1:06,4,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:13 PM
+449,0,4,515,0021100641,,,1:04,4,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Pekovic REBOUND (Off:3 Def:5),11:13 PM
+450,5,7,516,0021100641,Jefferson Violation:Kicked Ball,,0:57,4,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:14 PM
+451,1,2,517,0021100641,,,0:48,4,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love 25' 3PT Jump Shot,11:14 PM
+452,0,4,518,0021100641,Burks REBOUND (Off:0 Def:2),,0:47,4,4,0,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:14 PM
+453,1,2,519,0021100641,MISS Hayward 20' Jump Shot,,0:24,4,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:14 PM
+454,0,4,520,0021100641,,,0:23,4,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:2 Def:12),11:14 PM
+455,1,2,521,0021100641,,,0:14,4,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love 25' 3PT Jump Shot,11:15 PM
+456,0,4,522,0021100641,,,0:13,4,5,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Ridnour REBOUND (Off:1 Def:1),11:15 PM
+457,1,1,523,0021100641,,,0:11,4,5,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,97 - 98,1,Ridnour 8' Jump Shot (18 PTS),11:15 PM
+458,1,6,524,0021100641,,,0:11,4,5,4,1,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,W. Johnson P.FOUL (P4.T3),11:15 PM
+459,1,6,527,0021100641,,,0:10,4,5,4,1,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,W. Johnson P.FOUL (P5.PN),11:15 PM
+460,11,3,528,0021100641,MISS Hayward Free Throw 1 of 2,,0:10,4,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:15 PM
+461,1,4,529,0021100641,JAZZ Rebound,,0:10,4,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,11:15 PM
+462,12,3,530,0021100641,Hayward Free Throw 2 of 2 (20 PTS),,0:10,4,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,97 - 99,2,,11:15 PM
+463,1,9,532,0021100641,,,0:10,4,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Timeout: Regular (Reg.6 Short 1),11:16 PM
+464,1,2,535,0021100641,,,0:02,4,5,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Ridnour 24' 3PT Jump Shot,11:18 PM
+465,0,4,536,0021100641,,,0:00,4,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Pekovic REBOUND (Off:4 Def:5),11:18 PM
+466,5,1,537,0021100641,,,0:00,4,5,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,99 - 99,TIE,Pekovic 2' Layup (20 PTS),11:18 PM
+467,1,9,538,0021100641,JAZZ Timeout: Regular (Full 4 Short 0),,0:00,4,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,11:18 PM
+468,0,8,539,0021100641,SUB: Tinsley FOR Burks,,0:00,4,4,4,0,202692,Alec Burks,UTA,Utah,1610612762.0,Jazz,2224,Jamaal Tinsley,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,11:19 PM
+469,5,2,540,0021100641,MISS Millsap 2' Layup,,0:00,4,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:20 PM
+470,0,4,541,0021100641,JAZZ Rebound,,0:00,4,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,11:20 PM
+471,0,13,542,0021100641,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,99 - 99,TIE,,11:20 PM
+472,0,12,544,0021100641,,,5:00,5,0,0,0,0,,,,,,0,,,,,,0,,,,,,99 - 99,TIE,,11:22 PM
+473,0,10,545,0021100641,Jump Ball Jefferson vs. Pekovic: Tip to Harris,,5:00,5,4,5,4,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,,,,11:22 PM
+474,1,2,546,0021100641,MISS Jefferson 13' Jump Shot,,4:42,5,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:22 PM
+475,0,4,547,0021100641,,,4:41,5,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:2 Def:13),11:22 PM
+476,72,1,548,0021100641,,,4:19,5,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,101 - 99,-2,Love 2' Putback Layup (25 PTS),11:22 PM
+477,1,2,549,0021100641,MISS Millsap 6' Jump Shot,,3:57,5,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:23 PM
+478,0,4,550,0021100641,Jefferson REBOUND (Off:3 Def:9),,3:54,5,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:23 PM
+479,5,1,551,0021100641,Jefferson 2' Layup (10 PTS),,3:52,5,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,101 - 101,TIE,,11:23 PM
+480,1,1,552,0021100641,,,3:31,5,5,5,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,103 - 101,-2,W. Johnson 21' Jump Shot (7 PTS) (Ridnour 13 AST),11:23 PM
+481,2,6,553,0021100641,,,3:15,5,5,4,1,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Love S.FOUL (P3.T1),11:24 PM
+482,11,3,554,0021100641,Hayward Free Throw 1 of 2 (21 PTS),,3:15,5,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,103 - 102,-1,,11:24 PM
+483,12,3,556,0021100641,Hayward Free Throw 2 of 2 (22 PTS),,3:15,5,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,103 - 103,TIE,,11:24 PM
+484,1,5,558,0021100641,Millsap STEAL (6 STL),,2:59,5,5,4,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Ridnour Bad Pass Turnover (P3.T16),11:25 PM
+485,5,2,559,0021100641,MISS Millsap 2' Layup,,2:53,5,4,0,5,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,,,Ridnour BLOCK (2 BLK),11:25 PM
+486,0,4,560,0021100641,,,2:52,5,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,Love REBOUND (Off:2 Def:14),11:25 PM
+487,1,6,561,0021100641,Millsap P.FOUL (P4.T1),,2:36,5,4,5,1,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,11:25 PM
+488,1,2,562,0021100641,,,2:28,5,5,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Ridnour 22' Jump Shot,11:25 PM
+489,0,4,563,0021100641,Millsap REBOUND (Off:2 Def:9),,2:26,5,4,0,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:25 PM
+490,1,6,564,0021100641,,,2:22,5,5,4,1,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Ridnour P.FOUL (P2.T2),11:26 PM
+491,1,2,566,0021100641,MISS Jefferson 20' Jump Shot,,2:11,5,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:26 PM
+492,0,4,567,0021100641,JAZZ Rebound,,2:09,5,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,11:26 PM
+493,1,2,568,0021100641,MISS Jefferson 11' Jump Shot,,1:54,5,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:26 PM
+494,0,4,569,0021100641,,,1:53,5,5,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,W. Johnson REBOUND (Off:1 Def:4),11:26 PM
+495,1,9,570,0021100641,,,1:46,5,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Timeout: Regular (Reg.7 Short 1),11:27 PM
+496,1,1,571,0021100641,,,1:31,5,5,5,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,105 - 103,-2,W. Johnson 16' Jump Shot (9 PTS) (Pekovic 2 AST),11:29 PM
+497,46,2,572,0021100641,MISS Harris 4' Running Jump Shot,,1:18,5,4,0,0,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:29 PM
+498,0,4,573,0021100641,Jefferson REBOUND (Off:4 Def:9),,1:17,5,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:29 PM
+499,1,1,574,0021100641,Jefferson 5' Jump Shot (12 PTS),,1:16,5,4,0,0,2744,Al Jefferson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,105 - 105,TIE,,11:29 PM
+500,1,5,575,0021100641,Millsap STEAL (7 STL),,1:00,5,5,4,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Ridnour Bad Pass Turnover (P4.T17),11:29 PM
+501,7,1,576,0021100641,Hayward 1' Dunk (24 PTS) (Millsap 4 AST),,0:56,5,4,4,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,105 - 107,2,,11:29 PM
+502,1,2,577,0021100641,,,0:40,5,5,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Webster  3PT Jump Shot,11:30 PM
+503,0,4,578,0021100641,Hayward REBOUND (Off:0 Def:3),,0:38,5,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,,11:30 PM
+504,1,1,579,0021100641,Millsap 19' Jump Shot (16 PTS) (Harris 4 AST),,0:19,5,4,4,0,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,105 - 109,4,,11:30 PM
+505,2,9,580,0021100641,,,0:19,5,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Timeout: Short (Reg.7 Short 2),11:30 PM
+506,2,5,583,0021100641,Millsap STEAL (8 STL),,0:17,5,5,4,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,200794,Paul Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Love Lost Ball Turnover (P2.T18),11:31 PM
+507,1,6,584,0021100641,,,0:14,5,5,4,1,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,2734,Devin Harris,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Ridnour P.FOUL (P3.T3),11:31 PM
+508,2,9,585,0021100641,JAZZ Timeout: Short (Full 4 Short 1),,0:14,5,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,11:32 PM
+509,1,6,586,0021100641,,,0:13,5,5,4,1,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Ridnour P.FOUL (P4.PN),11:33 PM
+510,11,3,587,0021100641,Hayward Free Throw 1 of 2 (25 PTS),,0:13,5,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,105 - 110,5,,11:33 PM
+511,12,3,589,0021100641,Hayward Free Throw 2 of 2 (26 PTS),,0:13,5,4,0,0,202330,Gordon Hayward,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,105 - 111,6,,11:33 PM
+512,2,9,591,0021100641,,,0:13,5,3,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,Timberwolves Timeout: Short (Reg.7 Short 3),11:33 PM
+513,1,2,592,0021100641,,,0:09,5,5,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,MISS Love 28' 3PT Jump Shot,11:34 PM
+514,0,4,593,0021100641,JAZZ Rebound,,0:08,5,2,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,,11:34 PM
+515,0,13,595,0021100641,,,0:00,5,0,0,0,0,,,,,,0,,,,,,0,,,,,,105 - 111,6,,11:35 PM

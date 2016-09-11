@@ -1,0 +1,507 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020700061,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:59 PM
+1,0,10,1,0020700061,Jump Ball Swift vs. Gasol: Tip to Stoudamire,,12:00,1,4,5,5,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,,,,10:01 PM
+2,2,6,2,0020700061,Swift S.FOUL (P1.T1),,11:42,1,4,5,1,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:01 PM
+3,11,3,3,0020700061,,,11:42,1,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,1 - 0,-1,Gasol Free Throw 1 of 2 (1 PTS),10:01 PM
+4,12,3,4,0020700061,,,11:42,1,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,2 - 0,-2,Gasol Free Throw 2 of 2 (2 PTS),10:02 PM
+5,1,5,6,0020700061,Watson Bad Pass Turnover (P1.T1),,11:31,1,4,5,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Milicic STEAL (1 STL),10:02 PM
+6,5,2,7,0020700061,Wilkins BLOCK (1 BLK),,11:25,1,5,0,4,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Gay  Layup,10:02 PM
+7,0,4,8,0020700061,Wilkins REBOUND (Off:0 Def:1),,11:22,1,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:02 PM
+8,1,2,9,0020700061,MISS Durant 4' Jump Shot,,11:13,1,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:02 PM
+9,0,4,11,0020700061,Swift REBOUND (Off:1 Def:0),,11:10,1,4,0,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:02 PM
+10,72,1,10,0020700061,Swift  Putback Layup (2 PTS),,11:10,1,4,0,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,2 - 2,TIE,,10:02 PM
+11,75,1,13,0020700061,,,11:01,1,5,5,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,4 - 2,-2,Milicic  Driving Finger Roll Layup (2 PTS) (Gay 1 AST),10:03 PM
+12,1,2,14,0020700061,MISS Durant 23' Jump Shot,,10:47,1,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:03 PM
+13,0,4,15,0020700061,,,10:46,1,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Milicic REBOUND (Off:0 Def:1),10:03 PM
+14,1,5,16,0020700061,Durant STEAL (1 STL),,10:38,1,5,4,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Stoudamire Bad Pass Turnover (P1.T1),10:03 PM
+15,49,1,17,0020700061,Wilkins  Driving Dunk (2 PTS) (Durant 1 AST),,10:35,1,4,4,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,4 - 4,TIE,,10:03 PM
+16,1,2,18,0020700061,,,10:25,1,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Miller 5' Jump Shot,10:03 PM
+17,0,4,19,0020700061,,,10:24,1,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,10:03 PM
+18,1,2,20,0020700061,,,10:15,1,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Miller 25' 3PT Jump Shot,10:04 PM
+19,0,4,21,0020700061,Watson REBOUND (Off:0 Def:1),,10:14,1,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:04 PM
+20,42,1,22,0020700061,Watson  Driving Layup (2 PTS),,10:10,1,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,4 - 6,2,,10:04 PM
+21,1,1,23,0020700061,,,9:54,1,5,5,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,7 - 6,-1,Stoudamire 25' 3PT Jump Shot (3 PTS) (Milicic 1 AST),10:04 PM
+22,2,6,24,0020700061,,,9:41,1,5,4,1,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Milicic S.FOUL (P1.T1),10:04 PM
+23,11,3,25,0020700061,Swift Free Throw 1 of 2 (3 PTS),,9:41,1,4,0,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,7 - 7,TIE,,10:04 PM
+24,12,3,26,0020700061,Swift Free Throw 2 of 2 (4 PTS),,9:41,1,4,0,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,7 - 8,1,,10:05 PM
+25,1,2,28,0020700061,,,9:30,1,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gay 17' Jump Shot,10:05 PM
+26,0,4,29,0020700061,Swift REBOUND (Off:1 Def:1),,9:29,1,4,0,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:05 PM
+27,1,1,30,0020700061,Watson 17' Jump Shot (4 PTS),,9:07,1,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,7 - 10,3,,10:06 PM
+28,46,1,31,0020700061,,,8:59,1,5,0,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,9 - 10,1,Stoudamire 5' Running Jump Shot (5 PTS),10:06 PM
+29,1,2,32,0020700061,MISS Durant 13' Jump Shot,,8:49,1,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:06 PM
+30,0,4,33,0020700061,,,8:49,1,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,10:06 PM
+31,5,2,35,0020700061,,,8:33,1,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Milicic  Layup,10:06 PM
+32,0,4,36,0020700061,Wilkins REBOUND (Off:0 Def:2),,8:32,1,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:06 PM
+33,4,6,37,0020700061,Wilkins OFF.Foul (P1),,8:28,1,4,5,1,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:06 PM
+34,5,5,38,0020700061,Wilkins Foul Turnover (P1.T2),,8:28,1,4,0,1,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:06 PM
+35,5,2,39,0020700061,Swift BLOCK (1 BLK),,8:15,1,5,0,4,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Gasol  Layup,10:07 PM
+36,0,4,40,0020700061,,,8:11,1,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Milicic REBOUND (Off:1 Def:1),10:07 PM
+37,1,1,41,0020700061,,,8:07,1,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,11 - 10,-1,Gay 9' Jump Shot (2 PTS),10:07 PM
+38,1,2,43,0020700061,MISS Durant 16' Jump Shot,,7:55,1,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:07 PM
+39,0,4,44,0020700061,,,7:54,1,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Milicic REBOUND (Off:1 Def:2),10:07 PM
+40,2,6,45,0020700061,Durant S.FOUL (P1.T2),,7:50,1,4,5,1,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:07 PM
+41,11,3,46,0020700061,,,7:50,1,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,12 - 10,-2,Gasol Free Throw 1 of 2 (3 PTS),10:08 PM
+42,0,8,47,0020700061,SUB: Collison FOR Swift,,7:50,1,4,4,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:08 PM
+43,12,3,48,0020700061,,,7:50,1,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,13 - 10,-3,Gasol Free Throw 2 of 2 (4 PTS),10:08 PM
+44,1,2,50,0020700061,MISS Collison 3' Jump Shot,,7:34,1,4,0,5,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,,,Milicic BLOCK (1 BLK),10:08 PM
+45,0,4,51,0020700061,Collison REBOUND (Off:1 Def:0),,7:31,1,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:09 PM
+46,5,1,52,0020700061,Wilcox  Layup (2 PTS) (Collison 1 AST),,7:30,1,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,13 - 12,-1,,10:09 PM
+47,1,2,53,0020700061,,,7:11,1,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gay  3PT Jump Shot,10:09 PM
+48,0,4,54,0020700061,,,7:10,1,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,10:09 PM
+49,3,6,55,0020700061,Collison L.B.FOUL (P1.T3),,7:10,1,4,5,1,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:09 PM
+50,1,1,56,0020700061,,,6:54,1,5,5,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,16 - 12,-4,Gay 24' 3PT Jump Shot (5 PTS) (Stoudamire 1 AST),10:09 PM
+51,1,2,57,0020700061,MISS Wilkins 26' 3PT Jump Shot,,6:42,1,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:10 PM
+52,0,4,59,0020700061,Wilcox REBOUND (Off:1 Def:0),,6:40,1,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:10 PM
+53,5,1,58,0020700061,Wilcox  Layup (4 PTS),,6:40,1,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,16 - 14,-2,,10:10 PM
+54,5,2,61,0020700061,,,6:31,1,5,0,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Stoudamire  Layup,10:10 PM
+55,0,4,62,0020700061,,,6:31,1,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,10:10 PM
+56,39,5,63,0020700061,,,6:25,1,5,0,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Stoudamire Step Out of Bounds Turnover (P2.T2),10:10 PM
+57,41,2,65,0020700061,MISS Watson  Running Layup,,6:13,1,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:11 PM
+58,0,4,66,0020700061,,,6:10,1,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Milicic REBOUND (Off:1 Def:3),10:11 PM
+59,5,2,67,0020700061,,,6:07,1,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gay  Layup,10:11 PM
+60,0,4,69,0020700061,,,6:04,1,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:0),10:11 PM
+61,72,2,68,0020700061,,,6:04,1,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Miller  Putback Layup,10:11 PM
+62,0,4,70,0020700061,Durant REBOUND (Off:0 Def:1),,6:01,1,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:11 PM
+63,1,2,72,0020700061,MISS Watson 26' 3PT Jump Shot,,5:50,1,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:11 PM
+64,0,4,73,0020700061,,,5:49,1,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:1),10:11 PM
+65,2,6,74,0020700061,Wilcox S.FOUL (P1.T4),,5:42,1,4,5,1,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:11 PM
+66,1,9,75,0020700061,SUPERSONICS Timeout: Regular (Full 1 Short 0),,5:42,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:11 PM
+67,0,8,77,0020700061,SUB: Ridnour FOR Watson,,5:42,1,4,4,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:13 PM
+68,0,8,78,0020700061,SUB: Szczerbiak FOR Durant,,5:42,1,4,4,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:13 PM
+69,0,8,79,0020700061,SUB: Swift FOR Wilcox,,5:42,1,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:14 PM
+70,11,3,80,0020700061,,,5:42,1,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,17 - 14,-3,Gasol Free Throw 1 of 2 (5 PTS),10:14 PM
+71,12,3,81,0020700061,,,5:42,1,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,18 - 14,-4,Gasol Free Throw 2 of 2 (6 PTS),10:14 PM
+72,1,2,83,0020700061,MISS Wilkins 5' Jump Shot,,5:34,1,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:14 PM
+73,0,4,84,0020700061,Collison REBOUND (Off:2 Def:0),,5:32,1,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:14 PM
+74,1,1,85,0020700061,Collison 11' Jump Shot (2 PTS) (Ridnour 1 AST),,5:28,1,4,4,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,18 - 16,-2,,10:15 PM
+75,1,2,86,0020700061,,,5:10,1,5,0,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Stoudamire 20' Jump Shot,10:15 PM
+76,0,4,87,0020700061,Wilkins REBOUND (Off:0 Def:3),,5:08,1,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:15 PM
+77,41,2,88,0020700061,MISS Ridnour  Running Layup,,5:02,1,4,0,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:15 PM
+78,0,4,89,0020700061,,,5:00,1,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gay REBOUND (Off:0 Def:1),10:15 PM
+79,2,5,90,0020700061,Szczerbiak STEAL (1 STL),,4:50,1,5,4,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Gasol Lost Ball Turnover (P1.T3),10:15 PM
+80,1,2,91,0020700061,MISS Wilkins 25' 3PT Jump Shot,,4:30,1,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:16 PM
+81,0,4,92,0020700061,,,4:29,1,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:2),10:16 PM
+82,5,2,93,0020700061,Swift BLOCK (2 BLK),,4:13,1,5,0,4,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Gay  Layup,10:16 PM
+83,0,4,94,0020700061,,,4:11,1,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gay REBOUND (Off:1 Def:1),10:16 PM
+84,2,6,95,0020700061,Swift S.FOUL (P2.PN),,4:11,1,4,5,1,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:16 PM
+85,11,3,96,0020700061,,,4:11,1,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,19 - 16,-3,Gay Free Throw 1 of 2 (6 PTS),10:16 PM
+86,0,8,97,0020700061,,,4:11,1,5,5,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Lowry FOR Stoudamire,10:16 PM
+87,12,3,98,0020700061,,,4:11,1,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,20 - 16,-4,Gay Free Throw 2 of 2 (7 PTS),10:16 PM
+88,1,2,100,0020700061,MISS Szczerbiak 22' Jump Shot,,3:56,1,4,0,0,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:17 PM
+89,0,4,101,0020700061,Swift REBOUND (Off:2 Def:1),,3:55,1,4,0,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:17 PM
+90,5,2,102,0020700061,MISS Swift  Layup,,3:52,1,4,0,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:17 PM
+91,0,4,103,0020700061,,,3:50,1,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:0 Def:1),10:17 PM
+92,1,1,104,0020700061,,,3:42,1,5,5,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,22 - 16,-6,Gasol 16' Jump Shot (8 PTS) (Miller 1 AST),10:17 PM
+93,1,2,106,0020700061,MISS Collison 20' Jump Shot,,3:31,1,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:17 PM
+94,0,4,107,0020700061,Swift REBOUND (Off:3 Def:1),,3:28,1,4,0,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:17 PM
+95,5,2,108,0020700061,MISS Swift  Layup,,3:27,1,4,0,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:17 PM
+96,0,4,109,0020700061,,,3:25,1,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:0 Def:2),10:17 PM
+97,2,5,110,0020700061,Swift STEAL (1 STL),,3:14,1,5,4,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Gasol Lost Ball Turnover (P2.T4),10:18 PM
+98,49,1,111,0020700061,Wilkins  Driving Dunk (4 PTS) (Ridnour 2 AST),,3:09,1,4,4,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,22 - 18,-4,,10:18 PM
+99,1,9,113,0020700061,,,2:59,1,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Timeout: Regular (Reg.1 Short 0),10:18 PM
+100,0,8,115,0020700061,,,2:59,1,5,5,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Warrick FOR Gay,10:21 PM
+101,0,8,116,0020700061,,,2:59,1,5,5,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Jacobsen FOR Gasol,10:21 PM
+102,0,8,117,0020700061,SUB: West FOR Wilkins,,2:58,1,4,4,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:21 PM
+103,0,8,118,0020700061,SUB: Wilcox FOR Swift,,2:58,1,4,4,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:21 PM
+104,1,5,119,0020700061,Ridnour STEAL (1 STL),,2:49,1,5,4,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Miller Bad Pass Turnover (P1.T5),10:21 PM
+105,1,2,120,0020700061,MISS Ridnour 20' Jump Shot,,2:36,1,4,0,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:21 PM
+106,0,4,121,0020700061,,,2:35,1,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:3),10:21 PM
+107,1,2,122,0020700061,,,2:25,1,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Miller 19' Jump Shot,10:21 PM
+108,0,4,123,0020700061,West REBOUND (Off:0 Def:1),,2:24,1,4,0,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:21 PM
+109,4,5,124,0020700061,Collison Traveling Turnover (P1.T3),,2:17,1,4,0,1,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:22 PM
+110,1,2,126,0020700061,Collison BLOCK (1 BLK),,2:03,1,5,0,4,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Warrick 6' Jump Shot,10:22 PM
+111,0,4,127,0020700061,,,2:00,1,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Milicic REBOUND (Off:2 Def:3),10:22 PM
+112,5,2,128,0020700061,Collison BLOCK (2 BLK),,1:57,1,5,0,4,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Milicic  Layup,10:22 PM
+113,0,4,129,0020700061,Szczerbiak REBOUND (Off:0 Def:1),,1:53,1,4,0,0,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:22 PM
+114,1,1,130,0020700061,West 17' Jump Shot (2 PTS),,1:47,1,4,0,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,22 - 20,-2,,10:22 PM
+115,1,1,131,0020700061,,,1:32,1,5,5,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,25 - 20,-5,Miller 26' 3PT Jump Shot (3 PTS) (Jacobsen 1 AST),10:22 PM
+116,1,2,132,0020700061,MISS Ridnour 23' Jump Shot,,1:17,1,4,0,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:23 PM
+117,0,4,133,0020700061,,,1:16,1,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:4),10:23 PM
+118,1,2,135,0020700061,,,1:03,1,5,0,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Warrick 16' Jump Shot,10:23 PM
+119,0,4,136,0020700061,West REBOUND (Off:0 Def:2),,1:02,1,4,0,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:23 PM
+120,1,1,137,0020700061,Szczerbiak 17' Jump Shot (2 PTS),,0:49,1,4,0,0,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,25 - 22,-3,,10:23 PM
+121,41,2,139,0020700061,,,0:42,1,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Lowry  Running Layup,10:23 PM
+122,0,4,140,0020700061,,,0:41,1,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:1 Def:0),10:23 PM
+123,2,6,141,0020700061,Collison S.FOUL (P2.PN),,0:41,1,4,5,1,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:24 PM
+124,0,8,142,0020700061,,,0:41,1,5,5,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Cardinal FOR Milicic,10:24 PM
+125,0,8,143,0020700061,,,0:41,1,5,5,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,2434,Juan Carlos Navarro,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Navarro FOR Miller,10:24 PM
+126,0,8,144,0020700061,SUB: Green FOR Collison,,0:41,1,4,4,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:24 PM
+127,11,3,145,0020700061,,,0:41,1,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,26 - 22,-4,Lowry Free Throw 1 of 2 (1 PTS),10:24 PM
+128,12,3,147,0020700061,,,0:41,1,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,27 - 22,-5,Lowry Free Throw 2 of 2 (2 PTS),10:24 PM
+129,46,1,149,0020700061,West 4' Running Jump Shot (4 PTS),,0:28,1,4,0,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,27 - 24,-3,,10:25 PM
+130,2,6,150,0020700061,,,0:28,1,5,4,1,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Warrick S.FOUL (P1.T2),10:25 PM
+131,10,3,151,0020700061,MISS West Free Throw 1 of 1,,0:28,1,4,0,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:25 PM
+132,0,4,152,0020700061,,,0:27,1,5,0,0,2434,Juan Carlos Navarro,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Navarro REBOUND (Off:0 Def:1),10:25 PM
+133,0,10,153,0020700061,Jump Ball West vs. Navarro: Tip to Szczerbiak,,0:24,1,4,5,4,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,2434,Juan Carlos Navarro,MEM,Memphis,1610612763.0,Grizzlies,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,,,,10:25 PM
+134,2,5,154,0020700061,West STEAL (1 STL),,0:24,1,5,4,0,2434,Juan Carlos Navarro,MEM,Memphis,1610612763.0,Grizzlies,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Navarro Lost Ball Turnover (P1.T6),10:25 PM
+135,52,2,156,0020700061,MISS Wilcox 4' Alley Oop Dunk,,0:02,1,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:26 PM
+136,0,4,157,0020700061,,,0:00,1,5,0,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Warrick REBOUND (Off:0 Def:1),10:26 PM
+137,0,13,158,0020700061,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,27 - 24,-3,,10:26 PM
+138,0,12,160,0020700061,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,27 - 24,-3,,10:29 PM
+139,1,1,161,0020700061,Szczerbiak 14' Jump Shot (4 PTS) (Wilcox 1 AST),,11:41,2,4,4,0,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,27 - 26,-1,,10:29 PM
+140,1,2,162,0020700061,,,11:28,2,5,0,0,2434,Juan Carlos Navarro,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Navarro 10' Jump Shot,10:30 PM
+141,0,4,163,0020700061,,,11:26,2,5,0,0,2434,Juan Carlos Navarro,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Navarro REBOUND (Off:1 Def:1),10:30 PM
+142,5,1,164,0020700061,,,11:24,2,5,5,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,2434,Juan Carlos Navarro,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,29 - 26,-3,Warrick  Layup (2 PTS) (Navarro 1 AST),10:30 PM
+143,41,1,165,0020700061,Ridnour  Running Layup (2 PTS),,11:10,2,4,0,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,29 - 28,-1,,10:30 PM
+144,5,1,167,0020700061,,,10:50,2,5,5,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,31 - 28,-3,Warrick  Layup (4 PTS) (Lowry 1 AST),10:30 PM
+145,5,1,168,0020700061,Wilcox  Layup (6 PTS) (Ridnour 3 AST),,10:40,2,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,31 - 30,-1,,10:30 PM
+146,1,2,169,0020700061,,,10:26,2,5,0,0,2434,Juan Carlos Navarro,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Navarro 22' Jump Shot,10:31 PM
+147,0,4,170,0020700061,,,10:23,2,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:2 Def:0),10:31 PM
+148,5,2,172,0020700061,Wilcox BLOCK (1 BLK),,10:17,2,5,0,4,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Cardinal  Layup,10:32 PM
+149,0,4,173,0020700061,,,10:15,2,5,0,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Cardinal REBOUND (Off:1 Def:0),10:32 PM
+150,5,1,174,0020700061,,,10:13,2,5,0,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,33 - 30,-3,Cardinal  Layup (2 PTS),10:32 PM
+151,1,1,175,0020700061,Wilcox 13' Jump Shot (8 PTS) (Szczerbiak 1 AST),,10:00,2,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,33 - 32,-1,,10:32 PM
+152,1,6,177,0020700061,Ridnour P.FOUL (P1.T1),,9:51,2,4,5,1,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:32 PM
+153,0,8,178,0020700061,,,9:51,2,5,5,0,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Gay FOR Jacobsen,10:32 PM
+154,5,2,179,0020700061,,,9:48,2,5,0,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Warrick  Layup,10:32 PM
+155,0,4,180,0020700061,Wilcox REBOUND (Off:1 Def:1),,9:45,2,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:33 PM
+156,1,1,181,0020700061,Szczerbiak 14' Jump Shot (6 PTS) (West 1 AST),,9:32,2,4,4,0,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,33 - 34,1,,10:33 PM
+157,1,2,182,0020700061,,,9:18,2,5,0,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Cardinal 20' Jump Shot,10:33 PM
+158,0,4,183,0020700061,Ridnour REBOUND (Off:0 Def:1),,9:17,2,4,0,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:33 PM
+159,4,6,184,0020700061,Ridnour OFF.Foul (P2),,9:11,2,4,5,1,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:33 PM
+160,5,5,185,0020700061,Ridnour Foul Turnover (P1.T4),,9:11,2,4,0,1,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:33 PM
+161,0,8,186,0020700061,SUB: Watson FOR Ridnour,,9:11,2,4,4,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:33 PM
+162,0,8,187,0020700061,SUB: Swift FOR Wilcox,,9:11,2,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:33 PM
+163,5,2,189,0020700061,,,8:57,2,5,0,0,2434,Juan Carlos Navarro,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Navarro 3' Layup,10:34 PM
+164,0,4,190,0020700061,Green REBOUND (Off:0 Def:1),,8:55,2,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:34 PM
+165,1,2,191,0020700061,MISS Green 24' 3PT Jump Shot,,8:43,2,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:34 PM
+166,0,4,192,0020700061,,,8:42,2,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:2 Def:1),10:34 PM
+167,1,2,193,0020700061,,,8:36,2,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Lowry 4' Jump Shot,10:34 PM
+168,0,4,194,0020700061,Szczerbiak REBOUND (Off:0 Def:2),,8:35,2,4,0,0,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:34 PM
+169,2,6,195,0020700061,,,8:32,2,5,4,1,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Cardinal S.FOUL (P1.T1),10:34 PM
+170,4,9,196,0020700061,,,8:32,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:35 PM
+171,0,8,198,0020700061,,,8:32,2,5,5,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Conley FOR Lowry,10:37 PM
+172,0,8,199,0020700061,,,8:32,2,5,5,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Gasol FOR Cardinal,10:37 PM
+173,11,3,200,0020700061,Green Free Throw 1 of 2 (1 PTS),,8:32,2,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,33 - 35,2,,10:37 PM
+174,12,3,201,0020700061,Green Free Throw 2 of 2 (2 PTS),,8:32,2,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,33 - 36,3,,10:37 PM
+175,1,2,203,0020700061,,,8:12,2,5,0,0,2434,Juan Carlos Navarro,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Navarro 26' 3PT Jump Shot,10:38 PM
+176,0,4,204,0020700061,,,8:12,2,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gay REBOUND (Off:2 Def:1),10:38 PM
+177,2,6,205,0020700061,Swift S.FOUL (P3.T2),,8:12,2,4,5,1,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:38 PM
+178,11,3,206,0020700061,,,8:12,2,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,34 - 36,2,Gay Free Throw 1 of 2 (8 PTS),10:38 PM
+179,0,8,207,0020700061,SUB: Collison FOR Swift,,8:12,2,4,4,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:38 PM
+180,0,8,208,0020700061,SUB: Durant FOR Szczerbiak,,8:12,2,4,4,0,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:39 PM
+181,0,8,209,0020700061,SUB: Wilkins FOR West,,8:12,2,4,4,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:39 PM
+182,12,3,210,0020700061,,,8:12,2,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,35 - 36,1,Gay Free Throw 2 of 2 (9 PTS),10:39 PM
+183,1,6,211,0020700061,,,8:08,2,5,4,1,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Conley P.FOUL (P1.T2),10:39 PM
+184,2,5,212,0020700061,Wilkins Lost Ball Turnover (P2.T5),,7:52,2,4,5,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Conley STEAL (1 STL),10:39 PM
+185,1,6,213,0020700061,Green P.FOUL (P1.T3),,7:50,2,4,5,1,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:39 PM
+186,0,8,214,0020700061,,,7:50,2,5,5,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Miller FOR Warrick,10:40 PM
+187,1,2,216,0020700061,,,7:29,2,5,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Conley 24' 3PT Jump Shot,10:40 PM
+188,0,4,217,0020700061,,,7:28,2,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:1 Def:2),10:40 PM
+189,1,1,218,0020700061,,,7:21,2,5,5,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,2434,Juan Carlos Navarro,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,38 - 36,-2,Miller 24' 3PT Jump Shot (6 PTS) (Navarro 2 AST),10:40 PM
+190,5,2,220,0020700061,MISS Collison 3' Layup,,6:55,2,4,0,5,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,,,Gay BLOCK (1 BLK),10:41 PM
+191,0,4,221,0020700061,,,6:53,2,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:5),10:41 PM
+192,1,1,222,0020700061,,,6:47,2,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,41 - 36,-5,Miller 25' 3PT Jump Shot (9 PTS),10:41 PM
+193,1,9,223,0020700061,SUPERSONICS Timeout: Regular (Full 2 Short 0),,6:40,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:41 PM
+194,0,8,225,0020700061,SUB: Wilcox FOR Green,,6:40,2,4,4,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:43 PM
+195,42,1,226,0020700061,Durant  Driving Layup (2 PTS) (Watson 1 AST),,6:33,2,4,4,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,41 - 38,-3,,10:44 PM
+196,56,2,228,0020700061,,,6:12,2,5,0,0,2434,Juan Carlos Navarro,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Navarro 5' Running Hook Shot,10:44 PM
+197,0,4,230,0020700061,,,6:08,2,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gay REBOUND (Off:3 Def:1),10:44 PM
+198,87,1,229,0020700061,,,6:08,2,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,43 - 38,-5,Gay  Putback Dunk (11 PTS),10:44 PM
+199,2,6,231,0020700061,,,5:53,2,5,4,1,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Miller S.FOUL (P1.T3),10:44 PM
+200,11,3,232,0020700061,Durant Free Throw 1 of 2 (3 PTS),,5:53,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,43 - 39,-4,,10:45 PM
+201,12,3,233,0020700061,Durant Free Throw 2 of 2 (4 PTS),,5:53,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,43 - 40,-3,,10:45 PM
+202,1,2,235,0020700061,,,5:37,2,5,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Conley 7' Jump Shot,10:45 PM
+203,0,4,236,0020700061,SUPERSONICS Rebound,,5:37,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:45 PM
+204,1,2,237,0020700061,MISS Durant 24' 3PT Jump Shot,,5:20,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:46 PM
+205,0,4,238,0020700061,,,5:19,2,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:1 Def:3),10:46 PM
+206,5,2,239,0020700061,,,5:12,2,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gay  Layup,10:46 PM
+207,0,4,240,0020700061,Wilcox REBOUND (Off:1 Def:2),,5:11,2,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:46 PM
+208,5,2,241,0020700061,MISS Watson  Layup,,5:04,2,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:46 PM
+209,0,4,243,0020700061,Wilkins REBOUND (Off:1 Def:3),,5:02,2,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:46 PM
+210,4,1,242,0020700061,Wilkins  Tip Shot (6 PTS),,5:02,2,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,43 - 42,-1,,10:46 PM
+211,5,2,244,0020700061,Wilkins BLOCK (2 BLK),,4:52,2,5,0,4,2434,Juan Carlos Navarro,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Navarro 3' Layup,10:46 PM
+212,0,4,245,0020700061,Wilcox REBOUND (Off:1 Def:3),,4:49,2,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:46 PM
+213,21,5,246,0020700061,Watson Palming Turnover (P2.T6),,4:46,2,4,0,1,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:46 PM
+214,3,2,248,0020700061,,,4:30,2,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gasol 4' Hook Shot,10:47 PM
+215,0,4,249,0020700061,Wilcox REBOUND (Off:1 Def:4),,4:28,2,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:47 PM
+216,1,1,250,0020700061,Durant 25' 3PT Jump Shot (7 PTS),,4:09,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,43 - 45,2,,10:47 PM
+217,42,1,252,0020700061,,,3:47,2,5,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,45 - 45,TIE,Conley  Driving Layup (2 PTS),10:48 PM
+218,1,1,253,0020700061,Wilkins  3PT Jump Shot (9 PTS) (Watson 2 AST),,3:23,2,4,4,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,45 - 48,3,,10:48 PM
+219,2,5,254,0020700061,Collison STEAL (1 STL),,3:04,2,5,4,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Gasol Lost Ball Turnover (P3.T7),10:48 PM
+220,8,1,255,0020700061,Wilcox  Slam Dunk (10 PTS) (Watson 3 AST),,2:59,2,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,45 - 50,5,,10:48 PM
+221,1,9,256,0020700061,,,2:50,2,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Timeout: Regular (Reg.2 Short 0),10:49 PM
+222,0,8,262,0020700061,,,2:50,2,5,5,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Milicic FOR Gasol,10:49 PM
+223,0,8,258,0020700061,,,2:50,2,5,5,0,2434,Juan Carlos Navarro,MEM,Memphis,1610612763.0,Grizzlies,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Jacobsen FOR Navarro,10:51 PM
+224,1,2,259,0020700061,,,2:38,2,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Miller 26' 3PT Jump Shot,10:51 PM
+225,0,4,260,0020700061,Collison REBOUND (Off:2 Def:1),,2:37,2,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:52 PM
+226,42,1,261,0020700061,Watson 3' Driving Layup (6 PTS),,2:31,2,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,45 - 52,7,,10:52 PM
+227,2,6,263,0020700061,Collison S.FOUL (P3.T4),,2:17,2,4,5,1,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:52 PM
+228,11,3,264,0020700061,,,2:17,2,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Milicic Free Throw 1 of 2,10:52 PM
+229,1,4,265,0020700061,,,2:17,2,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,10:52 PM
+230,0,8,266,0020700061,SUB: Petro FOR Collison,,2:17,2,4,4,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:53 PM
+231,12,3,267,0020700061,,,2:17,2,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,46 - 52,6,Milicic Free Throw 2 of 2 (3 PTS),10:53 PM
+232,1,2,269,0020700061,MISS Durant 17' Jump Shot,,2:06,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:53 PM
+233,0,4,270,0020700061,,,2:05,2,5,0,0,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Jacobsen REBOUND (Off:0 Def:1),10:53 PM
+234,1,2,272,0020700061,,,1:39,2,5,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Conley 25' 3PT Jump Shot,10:53 PM
+235,0,4,273,0020700061,,,1:38,2,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Milicic REBOUND (Off:3 Def:3),10:54 PM
+236,3,2,274,0020700061,,,1:36,2,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Milicic  Hook Shot,10:54 PM
+237,0,4,275,0020700061,,,1:36,2,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,10:54 PM
+238,1,2,277,0020700061,,,1:22,2,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gay 25' 3PT Jump Shot,10:54 PM
+239,0,4,278,0020700061,Watson REBOUND (Off:0 Def:2),,1:21,2,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:54 PM
+240,1,6,279,0020700061,,,1:16,2,5,4,1,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Jacobsen P.FOUL (P1.T4),10:54 PM
+241,4,5,281,0020700061,Durant Traveling Turnover (P1.T7),,1:05,2,4,0,1,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:55 PM
+242,1,1,282,0020700061,,,0:43,2,5,5,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,49 - 52,3,Miller 25' 3PT Jump Shot (12 PTS) (Conley 1 AST),10:55 PM
+243,1,1,283,0020700061,Wilkins 25' 3PT Jump Shot (12 PTS) (Watson 4 AST),,0:37,2,4,4,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,49 - 55,6,,10:56 PM
+244,1,2,285,0020700061,Wilcox BLOCK (2 BLK),,0:25,2,5,0,4,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Conley 4' Jump Shot,10:56 PM
+245,0,4,286,0020700061,Wilkins REBOUND (Off:1 Def:4),,0:22,2,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:56 PM
+246,1,1,287,0020700061,Durant 11' Jump Shot (9 PTS) (Wilkins 1 AST),,0:18,2,4,4,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,49 - 57,8,,10:56 PM
+247,1,2,289,0020700061,,,0:00,2,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gay 19' Jump Shot,10:56 PM
+248,0,4,290,0020700061,Durant REBOUND (Off:0 Def:2),,0:00,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:56 PM
+249,0,13,291,0020700061,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,49 - 57,8,,10:56 PM
+250,0,12,293,0020700061,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,49 - 57,8,,11:12 PM
+251,2,6,294,0020700061,,,11:51,3,5,4,1,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Milicic S.FOUL (P2.T1),11:12 PM
+252,11,3,295,0020700061,Wilcox Free Throw 1 of 2 (11 PTS),,11:51,3,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,49 - 58,9,,11:13 PM
+253,12,3,296,0020700061,Wilcox Free Throw 2 of 2 (12 PTS),,11:51,3,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,49 - 59,10,,11:13 PM
+254,1,5,298,0020700061,,,11:37,3,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Miller Bad Pass Turnover (P2.T8),11:13 PM
+255,3,1,299,0020700061,Wilcox  Hook Shot (14 PTS) (Watson 5 AST),,11:24,3,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,49 - 61,12,,11:14 PM
+256,49,1,300,0020700061,,,11:14,3,5,5,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,51 - 61,10,Milicic  Driving Dunk (5 PTS) (Stoudamire 2 AST),11:14 PM
+257,1,2,302,0020700061,MISS Wilcox 4' Jump Shot,,10:50,3,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:14 PM
+258,0,4,304,0020700061,Wilcox REBOUND (Off:2 Def:4),,10:49,3,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:14 PM
+259,4,1,303,0020700061,Wilcox  Tip Shot (16 PTS),,10:49,3,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,51 - 63,12,,11:14 PM
+260,1,7,305,0020700061,SUPERSONICS Violation: Delay of game Violation,,10:49,3,2,0,1,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:14 PM
+261,5,2,307,0020700061,,,10:33,3,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gasol  Layup,11:14 PM
+262,0,4,308,0020700061,,,10:32,3,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,11:15 PM
+263,56,2,309,0020700061,,,10:22,3,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gasol 4' Running Hook Shot,11:15 PM
+264,0,4,310,0020700061,Wilcox REBOUND (Off:2 Def:5),,10:18,3,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:15 PM
+265,4,6,311,0020700061,Swift OFF.Foul (P4),,10:18,3,4,5,1,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,11:15 PM
+266,5,5,312,0020700061,Swift Foul Turnover (P1.T8),,10:18,3,4,0,1,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:15 PM
+267,0,8,313,0020700061,SUB: Collison FOR Swift,,10:18,3,4,4,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:15 PM
+268,3,2,314,0020700061,,,10:02,3,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gasol 9' Hook Shot,11:16 PM
+269,0,4,315,0020700061,Collison REBOUND (Off:2 Def:2),,10:00,3,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:16 PM
+270,1,2,317,0020700061,MISS Durant 18' Jump Shot,,9:54,3,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:16 PM
+271,0,4,318,0020700061,Watson REBOUND (Off:1 Def:2),,9:53,3,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:16 PM
+272,5,2,319,0020700061,MISS Collison  Layup,,9:43,3,4,0,5,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,,,Milicic BLOCK (2 BLK),11:16 PM
+273,0,4,320,0020700061,Collison REBOUND (Off:3 Def:2),,9:36,3,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:16 PM
+274,5,1,321,0020700061,Watson 2' Layup (8 PTS),,9:35,3,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,51 - 65,14,,11:16 PM
+275,1,1,322,0020700061,,,9:21,3,5,0,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,53 - 65,12,Stoudamire 21' Jump Shot (7 PTS),11:16 PM
+276,44,2,324,0020700061,MISS Durant  Reverse Layup,,9:09,3,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:17 PM
+277,0,4,325,0020700061,,,9:06,3,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:1 Def:4),11:17 PM
+278,52,1,326,0020700061,,,9:03,3,5,5,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,55 - 65,10,Gay  Alley Oop Dunk (13 PTS) (Stoudamire 3 AST),11:17 PM
+279,1,1,328,0020700061,Collison 18' Jump Shot (4 PTS) (Watson 6 AST),,8:39,3,4,4,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,55 - 67,12,,11:17 PM
+280,8,1,329,0020700061,,,8:23,3,5,5,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,57 - 67,10,Milicic 4' Slam Dunk (7 PTS) (Gasol 1 AST),11:17 PM
+281,1,6,331,0020700061,,,8:07,3,5,4,1,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Milicic P.FOUL (P3.T2),11:18 PM
+282,1,2,332,0020700061,MISS Watson 24' 3PT Jump Shot,,7:55,3,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:18 PM
+283,0,4,333,0020700061,,,7:54,3,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:1 Def:5),11:18 PM
+284,1,5,334,0020700061,Watson STEAL (1 STL),,7:48,3,5,4,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Miller Bad Pass Turnover (P3.T9),11:18 PM
+285,7,1,335,0020700061,Wilkins  Dunk (14 PTS) (Watson 7 AST),,7:45,3,4,4,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,57 - 69,12,,11:18 PM
+286,1,2,336,0020700061,,,7:35,3,5,0,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Stoudamire 22' Jump Shot,11:19 PM
+287,0,4,337,0020700061,,,7:34,3,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:2 Def:5),11:19 PM
+288,1,1,338,0020700061,,,7:31,3,5,5,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,60 - 69,9,Miller 27' 3PT Jump Shot (15 PTS) (Gasol 2 AST),11:19 PM
+289,40,5,340,0020700061,Collison Out of Bounds Lost Ball Turnover (P2.T9),,7:10,3,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:19 PM
+290,1,6,342,0020700061,Wilcox P.FOUL (P2.T1),,6:57,3,4,5,1,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,11:20 PM
+291,0,8,343,0020700061,SUB: Green FOR Wilcox,,6:57,3,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:20 PM
+292,1,1,345,0020700061,,,6:46,3,5,5,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,62 - 69,7,Stoudamire 21' Jump Shot (9 PTS) (Gasol 3 AST),11:20 PM
+293,1,2,346,0020700061,MISS Durant 20' Jump Shot,,6:32,3,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:20 PM
+294,0,4,347,0020700061,,,6:31,3,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Milicic REBOUND (Off:3 Def:4),11:20 PM
+295,1,1,349,0020700061,,,6:26,3,5,5,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,65 - 69,4,Miller 25' 3PT Jump Shot (18 PTS) (Stoudamire 4 AST),11:20 PM
+296,1,9,350,0020700061,SUPERSONICS Timeout: Regular (Full 3 Short 0),,6:23,3,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:20 PM
+297,0,8,352,0020700061,SUB: Ridnour FOR Watson,,6:23,3,4,4,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:23 PM
+298,0,8,353,0020700061,SUB: West FOR Durant,,6:23,3,4,4,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:23 PM
+299,0,8,354,0020700061,,,6:23,3,5,5,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Jacobsen FOR Gasol,11:23 PM
+300,3,1,355,0020700061,Green 6' Hook Shot (4 PTS),,6:05,3,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,65 - 71,6,,11:23 PM
+301,2,6,356,0020700061,West S.FOUL (P1.T2),,5:49,3,4,5,1,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,11:24 PM
+302,11,3,357,0020700061,,,5:49,3,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,66 - 71,5,Milicic Free Throw 1 of 2 (8 PTS),11:24 PM
+303,12,3,358,0020700061,,,5:49,3,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,67 - 71,4,Milicic Free Throw 2 of 2 (9 PTS),11:24 PM
+304,1,2,360,0020700061,MISS West 5' Jump Shot,,5:43,3,4,0,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:24 PM
+305,0,4,362,0020700061,Green REBOUND (Off:1 Def:1),,5:41,3,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:24 PM
+306,4,1,361,0020700061,Green  Tip Shot (6 PTS),,5:41,3,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,67 - 73,6,,11:24 PM
+307,1,1,363,0020700061,,,5:30,3,5,0,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,69 - 73,4,Stoudamire  Jump Shot (11 PTS),11:25 PM
+308,1,5,364,0020700061,West Bad Pass Turnover (P1.T10),,5:19,3,4,0,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:25 PM
+309,1,1,366,0020700061,,,4:59,3,5,5,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,72 - 73,1,Stoudamire 25' 3PT Jump Shot (14 PTS) (Gay 2 AST),11:25 PM
+310,21,5,367,0020700061,Wilkins Palming Turnover (P3.T11),,4:52,3,4,0,1,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:25 PM
+311,63,1,369,0020700061,,,4:39,3,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,74 - 73,-1,Gay 10' Fadeaway Jumper (15 PTS),11:26 PM
+312,1,1,370,0020700061,Wilkins 15' Jump Shot (16 PTS),,4:26,3,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,74 - 75,1,,11:26 PM
+313,1,5,371,0020700061,,,4:14,3,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Milicic Bad Pass Turnover (P1.T10),11:26 PM
+314,5,2,373,0020700061,MISS Collison  Layup,,4:01,3,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:27 PM
+315,0,4,375,0020700061,Green REBOUND (Off:2 Def:1),,3:59,3,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:27 PM
+316,4,1,374,0020700061,Green  Tip Shot (8 PTS),,3:59,3,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,74 - 77,3,,11:27 PM
+317,1,2,376,0020700061,,,3:49,3,5,0,0,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Jacobsen 25' 3PT Jump Shot,11:27 PM
+318,0,4,378,0020700061,,,3:46,3,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gay REBOUND (Off:4 Def:1),11:27 PM
+319,87,2,377,0020700061,,,3:46,3,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gay  Putback Dunk,11:27 PM
+320,0,4,379,0020700061,,,3:46,3,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,11:27 PM
+321,0,8,380,0020700061,SUB: Szczerbiak FOR Wilkins,,3:46,3,4,4,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:27 PM
+322,1,2,381,0020700061,,,3:41,3,5,0,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Stoudamire 28' 3PT Jump Shot,11:27 PM
+323,0,4,382,0020700061,West REBOUND (Off:0 Def:3),,3:39,3,4,0,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:27 PM
+324,5,2,383,0020700061,MISS West  Layup,,3:29,3,4,0,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:28 PM
+325,0,4,384,0020700061,,,3:28,3,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Milicic REBOUND (Off:3 Def:5),11:28 PM
+326,2,6,385,0020700061,Ridnour S.FOUL (P3.T3),,3:23,3,4,5,1,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,11:28 PM
+327,11,3,386,0020700061,,,3:23,3,5,0,0,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,75 - 77,2,Jacobsen Free Throw 1 of 2 (1 PTS),11:28 PM
+328,0,8,387,0020700061,,,3:23,3,5,5,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Gasol FOR Milicic,11:28 PM
+329,12,3,388,0020700061,,,3:23,3,5,0,0,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Jacobsen Free Throw 2 of 2,11:28 PM
+330,0,4,389,0020700061,,,3:20,3,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gay REBOUND (Off:5 Def:1),11:28 PM
+331,1,1,390,0020700061,,,3:15,3,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,77 - 77,TIE,Miller 9' Jump Shot (20 PTS),11:29 PM
+332,5,2,392,0020700061,MISS Collison  Layup,,3:01,3,4,0,5,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,,,Gay BLOCK (2 BLK),11:29 PM
+333,0,4,393,0020700061,,,2:59,3,5,0,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Stoudamire REBOUND (Off:0 Def:1),11:29 PM
+334,2,6,394,0020700061,West S.FOUL (P2.T4),,2:58,3,4,5,1,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,11:29 PM
+335,1,9,395,0020700061,,,2:58,3,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Timeout: Regular (Reg.3 Short 0),11:29 PM
+336,0,8,397,0020700061,,,2:58,3,5,5,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Lowry FOR Stoudamire,11:32 PM
+337,11,3,398,0020700061,,,2:58,3,5,0,0,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,78 - 77,-1,Jacobsen Free Throw 1 of 2 (2 PTS),11:32 PM
+338,12,3,399,0020700061,,,2:58,3,5,0,0,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Jacobsen Free Throw 2 of 2,11:32 PM
+339,0,4,400,0020700061,Collison REBOUND (Off:3 Def:3),,2:57,3,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:32 PM
+340,5,2,401,0020700061,MISS Szczerbiak  Layup,,2:37,3,4,0,0,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:32 PM
+341,0,4,402,0020700061,,,2:36,3,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gay REBOUND (Off:5 Def:2),11:32 PM
+342,44,2,403,0020700061,,,2:32,3,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Lowry  Reverse Layup,11:33 PM
+343,0,4,404,0020700061,Collison REBOUND (Off:3 Def:4),,2:28,3,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:33 PM
+344,1,1,405,0020700061,West 16' Jump Shot (6 PTS),,2:22,3,4,0,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,78 - 79,1,,11:33 PM
+345,1,2,406,0020700061,,,2:10,3,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Miller 13' Jump Shot,11:33 PM
+346,0,4,407,0020700061,,,2:09,3,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Miller REBOUND (Off:2 Def:5),11:33 PM
+347,1,5,411,0020700061,,,2:09,3,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Miller Bad Pass Turnover (P4.T11),11:33 PM
+348,0,8,409,0020700061,SUB: Swift FOR Collison,,2:08,3,4,4,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:33 PM
+349,1,6,410,0020700061,,,1:55,3,5,4,1,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Gay P.FOUL (P1.T3),11:33 PM
+350,0,8,412,0020700061,,,1:55,3,5,5,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Cardinal FOR Miller,11:34 PM
+351,1,5,414,0020700061,West Bad Pass Turnover (P2.T12),,1:40,3,4,5,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Lowry STEAL (1 STL),11:34 PM
+352,4,5,415,0020700061,,,1:39,3,5,0,1,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Lowry Traveling Turnover (P1.T12),11:34 PM
+353,1,5,417,0020700061,Ridnour Bad Pass Turnover (P2.T13),,1:25,3,4,5,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Gay STEAL (1 STL),11:35 PM
+354,42,1,418,0020700061,,,1:23,3,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,80 - 79,-1,Gay  Driving Layup (17 PTS),11:35 PM
+355,2,6,419,0020700061,Ridnour S.FOUL (P4.PN),,1:23,3,4,5,1,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,11:35 PM
+356,0,8,420,0020700061,SUB: Durant FOR Ridnour,,1:23,3,4,4,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:35 PM
+357,10,3,421,0020700061,,,1:23,3,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,81 - 79,-2,Gay Free Throw 1 of 1 (18 PTS),11:35 PM
+358,1,2,423,0020700061,MISS Szczerbiak 7' Jump Shot,,1:05,3,4,0,0,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:36 PM
+359,0,4,424,0020700061,,,1:03,3,5,0,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Cardinal REBOUND (Off:1 Def:1),11:36 PM
+360,1,2,425,0020700061,,,0:50,3,5,0,0,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Jacobsen 24' 3PT Jump Shot,11:36 PM
+361,0,4,426,0020700061,,,0:48,3,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:3 Def:5),11:36 PM
+362,2,5,427,0020700061,West STEAL (2 STL),,0:46,3,5,4,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Cardinal Lost Ball Turnover (P1.T13),11:36 PM
+363,42,1,428,0020700061,West  Driving Layup (8 PTS),,0:42,3,4,0,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,81 - 81,TIE,,11:36 PM
+364,5,1,430,0020700061,,,0:34,3,5,5,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,83 - 81,-2,Gasol  Layup (10 PTS) (Lowry 2 AST),11:36 PM
+365,2,6,431,0020700061,Green S.FOUL (P2.PN),,0:34,3,4,5,1,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,11:36 PM
+366,10,3,432,0020700061,,,0:34,3,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,84 - 81,-3,Gasol Free Throw 1 of 1 (11 PTS),11:36 PM
+367,8,5,434,0020700061,Swift 3 Second Violation Turnover (P2.T14),,0:21,3,4,0,1,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:37 PM
+368,42,1,436,0020700061,,,0:05,3,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,86 - 81,-5,Lowry  Driving Layup (4 PTS),11:37 PM
+369,2,6,437,0020700061,Swift S.FOUL (P5.PN),,0:05,3,4,5,1,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,11:37 PM
+370,0,8,438,0020700061,SUB: Wilcox FOR Swift,,0:05,3,4,4,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:38 PM
+371,10,3,439,0020700061,,,0:05,3,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,87 - 81,-6,Lowry Free Throw 1 of 1 (5 PTS),11:38 PM
+372,1,2,441,0020700061,MISS West 10' Jump Shot,,0:00,3,4,0,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:38 PM
+373,0,4,442,0020700061,SUPERSONICS Rebound,,0:00,3,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:38 PM
+374,0,13,443,0020700061,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,87 - 81,-6,,11:38 PM
+375,0,12,445,0020700061,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,87 - 81,-6,,11:41 PM
+376,1,5,447,0020700061,Wilcox STEAL (1 STL),,11:39,4,5,4,0,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Jacobsen Bad Pass Turnover (P1.T14),11:41 PM
+377,1,1,449,0020700061,West 21' Jump Shot (10 PTS),,11:24,4,4,0,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,87 - 83,-4,,11:42 PM
+378,1,2,450,0020700061,,,11:09,4,5,0,0,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Jacobsen 25' 3PT Jump Shot,11:42 PM
+379,0,4,451,0020700061,West REBOUND (Off:0 Def:4),,11:08,4,4,0,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:42 PM
+380,41,1,452,0020700061,Wilcox  Running Layup (18 PTS) (West 2 AST),,11:04,4,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,87 - 85,-2,,11:42 PM
+381,8,5,454,0020700061,,,10:46,4,5,0,1,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gasol 3 Second Violation Turnover (P4.T15),11:42 PM
+382,0,8,455,0020700061,,,10:46,4,5,5,0,2418,Casey Jacobsen,MEM,Memphis,1610612763.0,Grizzlies,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Miller FOR Jacobsen,11:42 PM
+383,1,2,457,0020700061,MISS Wilcox 16' Jump Shot,,10:36,4,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:43 PM
+384,0,4,458,0020700061,,,10:35,4,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:3 Def:6),11:43 PM
+385,7,2,460,0020700061,,,10:24,4,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gasol  Dunk,11:43 PM
+386,0,4,461,0020700061,Green REBOUND (Off:2 Def:2),,10:21,4,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:43 PM
+387,1,2,462,0020700061,MISS Green 18' Jump Shot,,10:17,4,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:43 PM
+388,0,4,463,0020700061,,,10:15,4,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gay REBOUND (Off:5 Def:3),11:43 PM
+389,1,2,464,0020700061,,,10:06,4,5,0,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Cardinal 25' 3PT Jump Shot,11:43 PM
+390,0,4,465,0020700061,Green REBOUND (Off:2 Def:3),,10:05,4,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:43 PM
+391,5,2,466,0020700061,MISS Wilcox  Layup,,9:43,4,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:44 PM
+392,0,4,467,0020700061,,,9:43,4,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:3 Def:7),11:44 PM
+393,1,2,469,0020700061,,,9:21,4,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Miller 26' 3PT Jump Shot,11:44 PM
+394,0,4,470,0020700061,,,9:19,4,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gay REBOUND (Off:6 Def:3),11:44 PM
+395,1,2,472,0020700061,,,8:59,4,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gay 25' 3PT Jump Shot,11:46 PM
+396,0,4,473,0020700061,Szczerbiak REBOUND (Off:0 Def:3),,8:58,4,4,0,0,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:46 PM
+397,4,9,474,0020700061,,,8:51,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:46 PM
+398,0,8,476,0020700061,SUB: Collison FOR Green,,8:51,4,4,4,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:48 PM
+399,0,8,477,0020700061,SUB: Watson FOR West,,8:51,4,4,4,0,2753,Delonte West,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:48 PM
+400,0,8,478,0020700061,SUB: Swift FOR Wilcox,,8:51,4,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:48 PM
+401,0,8,479,0020700061,,,8:51,4,5,5,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Milicic FOR Gasol,11:49 PM
+402,1,2,480,0020700061,MISS Durant 16' Jump Shot,,8:35,4,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:49 PM
+403,0,4,481,0020700061,SUPERSONICS Rebound,,8:35,4,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:49 PM
+404,1,2,483,0020700061,MISS Durant 15' Jump Shot,,8:32,4,4,0,5,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,,,Gay BLOCK (3 BLK),11:49 PM
+405,0,4,484,0020700061,,,8:29,4,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:2 Def:2),11:49 PM
+406,49,1,485,0020700061,,,8:13,4,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,89 - 85,-4,Gay  Driving Dunk (20 PTS),11:50 PM
+407,1,2,487,0020700061,MISS Durant 25' 3PT Jump Shot,,8:02,4,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:50 PM
+408,0,4,488,0020700061,,,8:01,4,5,0,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Cardinal REBOUND (Off:1 Def:2),11:50 PM
+409,1,6,489,0020700061,Collison P.FOUL (P4.T1),,8:01,4,4,5,1,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,11:50 PM
+410,42,1,491,0020700061,,,7:38,4,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,91 - 85,-6,Milicic  Driving Layup (11 PTS),11:51 PM
+411,2,6,492,0020700061,Collison S.FOUL (P5.T2),,7:38,4,4,5,1,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,11:51 PM
+412,0,8,494,0020700061,,,7:38,4,5,5,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Gasol FOR Cardinal,11:51 PM
+413,0,8,495,0020700061,SUB: Wilcox FOR Collison,,7:38,4,4,4,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:51 PM
+414,0,8,497,0020700061,SUB: Wilkins FOR Durant,,7:38,4,4,4,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:51 PM
+415,10,3,498,0020700061,,,7:38,4,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,92 - 85,-7,Milicic Free Throw 1 of 1 (12 PTS),11:51 PM
+416,1,1,500,0020700061,Wilkins 17' Jump Shot (18 PTS),,7:25,4,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,92 - 87,-5,,11:52 PM
+417,4,5,501,0020700061,,,7:06,4,5,0,1,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Milicic Traveling Turnover (P2.T16),11:52 PM
+418,2,5,503,0020700061,Wilkins Lost Ball Turnover (P4.T15),,6:52,4,4,5,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Gay STEAL (2 STL),11:52 PM
+419,1,2,504,0020700061,,,6:34,4,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Miller 24' 3PT Jump Shot,11:53 PM
+420,0,4,505,0020700061,SUPERSONICS Rebound,,6:33,4,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:53 PM
+421,1,6,507,0020700061,,,6:23,4,5,4,1,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Milicic P.FOUL (P4.T1),11:53 PM
+422,0,8,508,0020700061,,,6:23,4,5,5,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Stoudamire FOR Lowry,11:53 PM
+423,11,5,509,0020700061,SUPERSONICS Turnover: Shot Clock (T#16),,6:08,4,2,0,1,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:54 PM
+424,1,2,511,0020700061,,,5:56,4,5,0,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gasol 17' Jump Shot,11:54 PM
+425,0,4,512,0020700061,Swift REBOUND (Off:3 Def:2),,5:55,4,4,0,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:54 PM
+426,2,6,513,0020700061,,,5:46,4,5,4,1,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Gay S.FOUL (P2.T2),11:54 PM
+427,1,9,514,0020700061,SUPERSONICS Timeout: Regular (Full 4 Short 0),,5:46,4,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:55 PM
+428,0,8,516,0020700061,SUB: Durant FOR Szczerbiak,,5:46,4,4,4,0,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:57 PM
+429,11,3,517,0020700061,Wilcox Free Throw 1 of 2 (19 PTS),,5:46,4,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,92 - 88,-4,,11:57 PM
+430,12,3,518,0020700061,MISS Wilcox Free Throw 2 of 2,,5:46,4,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:57 PM
+431,0,4,519,0020700061,,,5:44,4,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Milicic REBOUND (Off:3 Def:6),11:58 PM
+432,1,5,521,0020700061,,,5:29,4,5,0,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Stoudamire Bad Pass Turnover (P3.T17),11:58 PM
+433,49,1,522,0020700061,Wilcox  Driving Dunk (21 PTS) (Watson 8 AST),,5:17,4,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,92 - 90,-2,,11:58 PM
+434,1,6,523,0020700061,Wilcox P.FOUL (P3.T3),,5:00,4,4,5,1,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,11:59 PM
+435,2,6,525,0020700061,Wilcox S.FOUL (P4.T4),,4:48,4,4,5,1,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,11:59 PM
+436,11,3,526,0020700061,,,4:48,4,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gay Free Throw 1 of 2,11:59 PM
+437,1,4,527,0020700061,,,4:48,4,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,11:59 PM
+438,0,8,528,0020700061,SUB: Collison FOR Swift,,4:48,4,4,4,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,12:00 PM
+439,0,8,529,0020700061,,,4:48,4,5,5,0,757,Damon Stoudamire,MEM,Memphis,1610612763.0,Grizzlies,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Lowry FOR Stoudamire,12:00 PM
+440,12,3,530,0020700061,,,4:48,4,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,93 - 90,-3,Gay Free Throw 2 of 2 (21 PTS),12:00 PM
+441,1,6,532,0020700061,,,4:34,4,5,4,1,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Gasol P.FOUL (P1.T3),12:00 PM
+442,40,5,534,0020700061,Wilkins Out of Bounds Lost Ball Turnover (P5.T17),,4:21,4,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:01 PM
+443,2,6,536,0020700061,Watson S.FOUL (P1.PN),,4:08,4,4,5,1,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,12:01 PM
+444,11,3,537,0020700061,,,4:08,4,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Milicic Free Throw 1 of 2,12:01 PM
+445,1,4,538,0020700061,,,4:08,4,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,12:01 PM
+446,12,3,539,0020700061,,,4:08,4,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,94 - 90,-4,Milicic Free Throw 2 of 2 (13 PTS),12:02 PM
+447,2,6,541,0020700061,,,3:58,4,5,4,1,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Milicic S.FOUL (P5.T4),12:02 PM
+448,11,3,542,0020700061,Durant Free Throw 1 of 2 (10 PTS),,3:58,4,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,94 - 91,-3,,12:02 PM
+449,0,8,544,0020700061,,,3:58,4,5,5,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Cardinal FOR Milicic,12:03 PM
+450,12,3,545,0020700061,Durant Free Throw 2 of 2 (11 PTS),,3:58,4,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,94 - 92,-2,,12:03 PM
+451,1,2,547,0020700061,,,3:41,4,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Gay 12' Jump Shot,12:03 PM
+452,0,4,548,0020700061,Wilcox REBOUND (Off:2 Def:6),,3:40,4,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:03 PM
+453,1,2,549,0020700061,MISS Durant 16' Jump Shot,,3:21,4,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:04 PM
+454,0,4,550,0020700061,Collison REBOUND (Off:4 Def:4),,3:20,4,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:04 PM
+455,4,6,551,0020700061,Watson OFF.Foul (P2),,3:13,4,4,5,1,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,12:04 PM
+456,5,5,552,0020700061,Watson Foul Turnover (P3.T18),,3:13,4,4,0,1,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:04 PM
+457,47,1,554,0020700061,,,3:00,4,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,96 - 92,-4,Gay 8' Turnaround Jump Shot (23 PTS),12:04 PM
+458,1,2,555,0020700061,MISS Wilkins 10' Jump Shot,,2:50,4,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:04 PM
+459,0,4,556,0020700061,,,2:48,4,5,0,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Cardinal REBOUND (Off:1 Def:3),12:04 PM
+460,1,2,558,0020700061,,,2:32,4,5,0,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Cardinal 10' Jump Shot,12:05 PM
+461,0,4,560,0020700061,,,2:31,4,5,0,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Cardinal REBOUND (Off:2 Def:3),12:05 PM
+462,4,1,559,0020700061,,,2:31,4,5,0,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,98 - 92,-6,Cardinal  Tip Shot (4 PTS),12:05 PM
+463,2,9,561,0020700061,SUPERSONICS Timeout: Short (Full 4 Short 1),,2:30,4,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,12:05 PM
+464,1,9,563,0020700061,,,2:30,4,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Timeout: Regular (Reg.4 Short 0),12:05 PM
+465,0,8,564,0020700061,,,2:30,4,5,5,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Milicic FOR Cardinal,12:08 PM
+466,1,6,565,0020700061,,,2:14,4,5,4,1,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Miller P.FOUL (P2.PN),12:08 PM
+467,11,3,566,0020700061,Durant Free Throw 1 of 2 (12 PTS),,2:14,4,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,98 - 93,-5,,12:08 PM
+468,12,3,567,0020700061,Durant Free Throw 2 of 2 (13 PTS),,2:14,4,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,98 - 94,-4,,12:09 PM
+469,1,6,569,0020700061,Collison P.FOUL (P6.PN),,2:03,4,4,5,1,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,12:09 PM
+470,0,8,570,0020700061,SUB: Szczerbiak FOR Collison,,2:03,4,4,4,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,12:10 PM
+471,11,3,571,0020700061,,,2:03,4,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Lowry Free Throw 1 of 2,12:10 PM
+472,0,4,573,0020700061,,,2:03,4,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,12:10 PM
+473,0,8,572,0020700061,,,2:03,4,5,5,0,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Cardinal FOR Gasol,12:10 PM
+474,12,3,574,0020700061,,,2:03,4,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Lowry Free Throw 2 of 2,12:10 PM
+475,0,4,575,0020700061,Szczerbiak REBOUND (Off:0 Def:4),,2:01,4,4,0,0,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:10 PM
+476,4,6,577,0020700061,Durant OFF.Foul (P2),,1:52,4,4,5,1,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,12:11 PM
+477,5,5,578,0020700061,Durant Foul Turnover (P2.T19),,1:52,4,4,0,1,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:11 PM
+478,1,2,580,0020700061,,,1:29,4,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Lowry 14' Jump Shot,12:11 PM
+479,0,4,582,0020700061,,,1:28,4,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Milicic REBOUND (Off:4 Def:6),12:11 PM
+480,4,1,581,0020700061,,,1:28,4,5,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,100 - 94,-6,Milicic  Tip Shot (15 PTS),12:11 PM
+481,2,6,584,0020700061,,,1:16,4,5,4,1,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Lowry S.FOUL (P1.PN),12:12 PM
+482,0,8,585,0020700061,SUB: Swift FOR Szczerbiak,,1:16,4,4,4,0,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,12:12 PM
+483,11,3,586,0020700061,Durant Free Throw 1 of 2 (14 PTS),,1:16,4,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,100 - 95,-5,,12:12 PM
+484,0,8,587,0020700061,,,1:16,4,5,5,0,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,2200,Pau Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Gasol FOR Cardinal,12:12 PM
+485,12,3,588,0020700061,Durant Free Throw 2 of 2 (15 PTS),,1:16,4,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,100 - 96,-4,,12:12 PM
+486,1,5,590,0020700061,Wilcox STEAL (2 STL),,1:02,4,5,4,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Miller Bad Pass Turnover (P5.T18),12:13 PM
+487,2,6,591,0020700061,,,0:48,4,5,4,1,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Miller S.FOUL (P3.PN),12:13 PM
+488,11,3,592,0020700061,Durant Free Throw 1 of 2 (16 PTS),,0:48,4,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,100 - 97,-3,,12:13 PM
+489,12,3,593,0020700061,Durant Free Throw 2 of 2 (17 PTS),,0:48,4,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,100 - 98,-2,,12:13 PM
+490,2,9,595,0020700061,,,0:48,4,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Timeout: Short (Reg.4 Short 1),12:14 PM
+491,41,2,597,0020700061,Watson BLOCK (1 BLK),,0:33,4,5,0,4,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Lowry  Running Layup,12:15 PM
+492,0,4,598,0020700061,,,0:31,4,5,0,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:3 Def:2),12:15 PM
+493,1,1,599,0020700061,,,0:11,4,5,5,0,200768,Kyle Lowry,MEM,Memphis,1610612763.0,Grizzlies,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,103 - 98,-5,Lowry 26' 3PT Jump Shot (8 PTS) (Miller 2 AST),12:16 PM
+494,1,9,600,0020700061,SUPERSONICS Timeout: Regular (Full 5 Short 1),,0:11,4,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,12:16 PM
+495,0,8,602,0020700061,SUB: Szczerbiak FOR Swift,,0:11,4,4,4,0,2741,Robert Swift,SEA,Seattle,1610612760.0,SuperSonics,1887,Wally Szczerbiak,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,12:17 PM
+496,1,2,604,0020700061,MISS Durant 25' 3PT Jump Shot,,0:08,4,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:18 PM
+497,0,4,605,0020700061,,,0:07,4,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Gay REBOUND (Off:6 Def:4),12:18 PM
+498,1,6,606,0020700061,Wilkins P.FOUL (P2.PN),,0:06,4,4,5,1,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,12:18 PM
+499,11,3,607,0020700061,,,0:06,4,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,104 - 98,-6,Gay Free Throw 1 of 2 (24 PTS),12:18 PM
+500,0,8,609,0020700061,,,0:06,4,5,5,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,2073,Brian Cardinal,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,SUB: Cardinal FOR Milicic,12:19 PM
+501,12,3,610,0020700061,,,0:06,4,5,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,105 - 98,-7,Gay Free Throw 2 of 2 (25 PTS),12:19 PM
+502,2,9,611,0020700061,SUPERSONICS Timeout: Short (Full 5 Short 2),,0:06,4,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,12:19 PM
+503,1,2,612,0020700061,MISS Watson 26' 3PT Jump Shot,,0:01,4,4,0,0,2248,Earl Watson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,12:20 PM
+504,0,4,613,0020700061,,,0:00,4,5,0,0,2034,Mike Miller,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Miller REBOUND (Off:2 Def:6),12:20 PM
+505,0,13,614,0020700061,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,105 - 98,-7,,12:20 PM

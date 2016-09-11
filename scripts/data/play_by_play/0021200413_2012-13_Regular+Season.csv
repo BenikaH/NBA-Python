@@ -1,0 +1,442 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021200413,,,12:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:11 PM
+1,0,10,1,0021200413,Jump Ball Hibbert vs. Gibson: Tip to Hill,,12:00,1,4.0,5,4,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,201588,George Hill,IND,Indiana,1610612754.0,Pacers,,,,7:11 PM
+2,2,6,2,0021200413,,,11:45,1,5.0,4,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Gibson S.FOUL (P1.T1),7:12 PM
+3,11,3,3,0021200413,MISS West Free Throw 1 of 2,,11:45,1,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:12 PM
+4,1,4,4,0021200413,PACERS Rebound,,11:45,1,2.0,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,7:12 PM
+5,12,3,5,0021200413,West Free Throw 2 of 2 (1 PTS),,11:45,1,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,0 - 1,1,,7:12 PM
+6,1,5,7,0021200413,West STEAL (1 STL),,11:34,1,5.0,4,0,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Hamilton Bad Pass Turnover (P1.T1),7:13 PM
+7,84,1,8,0021200413,Hill 9' Running Bank Shot (2 PTS),,11:28,1,4.0,0,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,0 - 3,3,,7:13 PM
+8,5,2,9,0021200413,George BLOCK (1 BLK),,11:07,1,5.0,0,4,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,202331,Paul George,IND,Indiana,1610612754.0,Pacers,,,MISS Deng 1' Layup,7:13 PM
+9,0,4,10,0021200413,West REBOUND (Off:0 Def:1),,11:06,1,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:13 PM
+10,39,5,11,0021200413,Hill Step Out of Bounds Turnover (P1.T1),,11:01,1,4.0,0,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:13 PM
+11,1,2,12,0021200413,,,10:44,1,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 19' Jump Shot,7:14 PM
+12,0,4,13,0021200413,West REBOUND (Off:0 Def:2),,10:43,1,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:14 PM
+13,63,1,14,0021200413,George 16' Fadeaway Jumper (2 PTS),,10:23,1,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,0 - 5,5,,7:14 PM
+14,1,2,15,0021200413,,,10:06,1,5.0,0,0,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hamilton 15' Jump Shot,7:14 PM
+15,0,4,16,0021200413,George REBOUND (Off:0 Def:1),,10:05,1,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:14 PM
+16,3,1,17,0021200413,Hibbert 8' Hook Shot (2 PTS) (George 1 AST),,9:44,1,4.0,4,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0 - 7,7,,7:15 PM
+17,1,2,18,0021200413,,,9:28,1,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Robinson 18' Jump Shot,7:15 PM
+18,0,4,19,0021200413,George REBOUND (Off:0 Def:2),,9:27,1,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:15 PM
+19,1,5,20,0021200413,West Bad Pass Turnover (P1.T2),,9:18,1,4.0,5,0,2561,David West,IND,Indiana,1610612754.0,Pacers,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Robinson STEAL (1 STL),7:15 PM
+20,1,1,21,0021200413,,,9:12,1,5.0,5,0,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2 - 7,5,Hamilton 9' Jump Shot (2 PTS) (Robinson 1 AST),7:15 PM
+21,1,1,22,0021200413,George 27' 3PT Jump Shot (5 PTS) (West 1 AST),,8:57,1,4.0,4,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,2 - 10,8,,7:15 PM
+22,1,5,23,0021200413,George STEAL (1 STL),,8:37,1,5.0,4,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Boozer Bad Pass Turnover (P1.T2),7:16 PM
+23,28,6,24,0021200413,,,8:35,1,5.0,4,1,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Robinson Personal Take Foul (P1.T2),7:16 PM
+24,1,1,25,0021200413,Hill 27' 3PT Jump Shot (5 PTS) (Stephenson 1 AST),,8:15,1,4.0,4,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,2 - 13,11,,7:16 PM
+25,1,9,26,0021200413,,,8:05,1,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.1 Short 0),7:17 PM
+26,5,2,28,0021200413,,,7:51,1,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 3' Layup,7:19 PM
+27,0,4,29,0021200413,,,7:50,1,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer REBOUND (Off:1 Def:0),7:19 PM
+28,2,6,30,0021200413,George S.FOUL (P1.T1),,7:50,1,4.0,5,1,202331,Paul George,IND,Indiana,1610612754.0,Pacers,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:19 PM
+29,11,3,31,0021200413,,,7:50,1,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,3 - 13,10,Boozer Free Throw 1 of 2 (1 PTS),7:19 PM
+30,12,3,33,0021200413,,,7:50,1,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,4 - 13,9,Boozer Free Throw 2 of 2 (2 PTS),7:20 PM
+31,2,6,35,0021200413,,,7:33,1,5.0,4,1,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Robinson S.FOUL (P2.T3),7:20 PM
+32,11,3,36,0021200413,Hill Free Throw 1 of 2 (6 PTS),,7:33,1,4.0,0,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,4 - 14,10,,7:20 PM
+33,0,8,38,0021200413,,,7:33,1,5.0,5,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,203104,Marquis Teague,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Teague FOR Robinson,7:21 PM
+34,12,3,39,0021200413,Hill Free Throw 2 of 2 (7 PTS),,7:33,1,4.0,0,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,4 - 15,11,,7:21 PM
+35,1,1,41,0021200413,,,7:18,1,5.0,0,0,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,6 - 15,9,Hamilton 15' Jump Shot (4 PTS),7:21 PM
+36,1,1,42,0021200413,West 19' Jump Shot (3 PTS) (Hill 1 AST),,7:00,1,4.0,4,0,2561,David West,IND,Indiana,1610612754.0,Pacers,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,6 - 17,11,,7:21 PM
+37,1,1,43,0021200413,,,6:43,1,5.0,5,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,8 - 17,9,Boozer 20' Jump Shot (4 PTS) (Deng 1 AST),7:22 PM
+38,1,5,44,0021200413,Stephenson Bad Pass Turnover (P1.T3),,6:33,1,4.0,5,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Gibson STEAL (1 STL),7:22 PM
+39,5,2,45,0021200413,Hill BLOCK (1 BLK),,6:29,1,5.0,0,4,203104,Marquis Teague,CHI,Chicago,1610612741.0,Bulls,0,,,,,,201588,George Hill,IND,Indiana,1610612754.0,Pacers,,,MISS Teague 1' Layup,7:22 PM
+40,0,4,46,0021200413,,,6:28,1,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:1 Def:0),7:22 PM
+41,5,1,47,0021200413,,,6:26,1,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,10 - 17,7,Gibson 1' Layup (2 PTS),7:22 PM
+42,2,6,48,0021200413,,,6:16,1,5.0,4,1,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Hamilton S.FOUL (P1.T4),7:22 PM
+43,11,3,49,0021200413,West Free Throw 1 of 2 (4 PTS),,6:16,1,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,10 - 18,8,,7:22 PM
+44,12,3,51,0021200413,MISS West Free Throw 2 of 2,,6:16,1,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:23 PM
+45,0,4,53,0021200413,,,6:16,1,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:1 Def:1),7:23 PM
+46,42,1,54,0021200413,,,6:01,1,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,12 - 18,6,Deng 1' Driving Layup (2 PTS),7:23 PM
+47,4,5,55,0021200413,Stephenson Traveling Turnover (P2.T4),,5:46,1,4.0,0,1,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:24 PM
+48,2,5,56,0021200413,Stephenson STEAL (1 STL),,5:35,1,5.0,4,0,203104,Marquis Teague,CHI,Chicago,1610612741.0,Bulls,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Teague Lost Ball Turnover (P1.T3),7:24 PM
+49,13,5,57,0021200413,Hill Backcourt Turnover (P2.T5),,5:28,1,4.0,0,1,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:24 PM
+50,5,2,58,0021200413,Hibbert BLOCK (1 BLK),,5:11,1,5.0,0,4,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,,,MISS Deng 1' Layup,7:25 PM
+51,0,4,59,0021200413,,,5:11,1,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,7:25 PM
+52,1,1,60,0021200413,,,5:08,1,5.0,5,0,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,203104,Marquis Teague,CHI,Chicago,1610612741.0,Bulls,0,,,,,,14 - 18,4,Hamilton 14' Jump Shot (6 PTS) (Teague 1 AST),7:25 PM
+53,1,2,61,0021200413,MISS West 18' Jump Shot,,4:55,1,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:25 PM
+54,0,4,62,0021200413,,,4:54,1,5.0,0,0,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Hamilton REBOUND (Off:0 Def:1),7:25 PM
+55,1,2,63,0021200413,,,4:38,1,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 25' 3PT Jump Shot,7:26 PM
+56,0,4,64,0021200413,Hibbert REBOUND (Off:0 Def:1),,4:37,1,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:26 PM
+57,5,1,65,0021200413,West  Layup (6 PTS) (Stephenson 2 AST),,4:31,1,4.0,4,0,2561,David West,IND,Indiana,1610612754.0,Pacers,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,14 - 20,6,,7:26 PM
+58,1,5,66,0021200413,George STEAL (2 STL),,4:13,1,5.0,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Deng Bad Pass Turnover (P1.T4),7:26 PM
+59,5,1,67,0021200413,Hill 1' Layup (9 PTS) (George 2 AST),,4:08,1,4.0,4,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,14 - 22,8,,7:26 PM
+60,2,9,68,0021200413,,,4:00,1,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Short (Reg.1 Short 1),7:26 PM
+61,0,8,70,0021200413,,,4:00,1,5.0,5,0,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Belinelli FOR Hamilton,7:27 PM
+62,0,8,71,0021200413,,,4:00,1,5.0,5,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Butler FOR Boozer,7:27 PM
+63,2,6,72,0021200413,Stephenson S.FOUL (P1.T2),,3:49,1,4.0,5,1,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:28 PM
+64,11,3,73,0021200413,,,3:49,1,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,15 - 22,7,Belinelli Free Throw 1 of 2 (1 PTS),7:28 PM
+65,0,8,75,0021200413,SUB: Hansbrough FOR West,,3:49,1,4.0,4,0,2561,David West,IND,Indiana,1610612754.0,Pacers,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:28 PM
+66,0,8,76,0021200413,SUB: Johnson FOR Stephenson,,3:49,1,4.0,4,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,203111,Orlando Johnson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:28 PM
+67,12,3,77,0021200413,,,3:49,1,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Belinelli Free Throw 2 of 2,7:28 PM
+68,0,4,79,0021200413,George REBOUND (Off:0 Def:3),,3:49,1,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:28 PM
+69,44,1,80,0021200413,Hibbert 1' Reverse Layup (4 PTS) (Hill 2 AST),,3:29,1,4.0,4,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,15 - 24,9,,7:29 PM
+70,42,1,81,0021200413,,,3:11,1,5.0,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,17 - 24,7,Deng  Driving Layup (4 PTS) (Belinelli 1 AST),7:29 PM
+71,5,2,82,0021200413,MISS Hibbert 1' Layup,,2:51,1,4.0,0,5,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,,,Gibson BLOCK (1 BLK),7:29 PM
+72,0,4,83,0021200413,,,2:49,1,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:1 Def:2),7:29 PM
+73,1,1,84,0021200413,,,2:37,1,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,20 - 24,4,Belinelli 26' 3PT Jump Shot (4 PTS),7:30 PM
+74,2,6,85,0021200413,Johnson S.FOUL (P1.T3),,2:37,1,4.0,5,1,203111,Orlando Johnson,IND,Indiana,1610612754.0,Pacers,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:30 PM
+75,1,9,86,0021200413,PACERS Timeout: Regular (Full 1 Short 0),,2:37,1,2.0,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,7:30 PM
+76,0,8,88,0021200413,SUB: Augustin FOR Hill,,2:37,1,4.0,4,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,201571,D.J. Augustin,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:32 PM
+77,0,8,89,0021200413,SUB: Mahinmi FOR Hibbert,,2:37,1,4.0,4,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:32 PM
+78,10,3,90,0021200413,,,2:37,1,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,21 - 24,3,Belinelli Free Throw 1 of 1 (5 PTS),7:32 PM
+79,28,6,92,0021200413,,,2:35,1,5.0,4,1,203104,Marquis Teague,CHI,Chicago,1610612741.0,Bulls,203111,Orlando Johnson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Teague Personal Take Foul (P1.PN),7:33 PM
+80,11,3,93,0021200413,Johnson Free Throw 1 of 2 (1 PTS),,2:35,1,4.0,0,0,203111,Orlando Johnson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,21 - 25,4,,7:33 PM
+81,0,8,95,0021200413,,,2:35,1,5.0,5,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,201161,Daequan Cook,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Cook FOR Belinelli,7:33 PM
+82,12,3,96,0021200413,Johnson Free Throw 2 of 2 (2 PTS),,2:35,1,4.0,0,0,203111,Orlando Johnson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,21 - 26,5,,7:33 PM
+83,5,1,98,0021200413,,,2:19,1,5.0,5,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,23 - 26,3,Gibson 1' Layup (4 PTS) (Deng 2 AST),7:34 PM
+84,1,2,99,0021200413,MISS George 16' Jump Shot,,1:58,1,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:34 PM
+85,0,4,100,0021200413,,,1:57,1,5.0,0,0,201161,Daequan Cook,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Cook REBOUND (Off:0 Def:1),7:34 PM
+86,1,6,101,0021200413,Hansbrough P.FOUL (P1.T4),,1:47,1,4.0,5,1,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:34 PM
+87,5,1,102,0021200413,,,1:35,1,5.0,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,203104,Marquis Teague,CHI,Chicago,1610612741.0,Bulls,0,,,,,,25 - 26,1,Deng  Layup (6 PTS) (Teague 2 AST),7:35 PM
+88,2,5,103,0021200413,George Lost Ball Turnover (P1.T6),,1:20,1,4.0,5,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Butler STEAL (1 STL),7:35 PM
+89,5,1,104,0021200413,,,1:11,1,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,27 - 26,-1,Gibson 2' Layup (6 PTS),7:35 PM
+90,4,5,105,0021200413,Johnson Traveling Turnover (P1.T7),,0:49,1,4.0,0,1,203111,Orlando Johnson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:36 PM
+91,1,2,106,0021200413,,,0:36,1,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 19' Jump Shot,7:36 PM
+92,0,4,107,0021200413,Hansbrough REBOUND (Off:0 Def:1),,0:36,1,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:36 PM
+93,1,2,108,0021200413,MISS Hansbrough 17' Jump Shot,,0:22,1,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:36 PM
+94,0,4,110,0021200413,Mahinmi REBOUND (Off:1 Def:0),,0:22,1,4.0,0,0,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:36 PM
+95,4,1,109,0021200413,Mahinmi 1' Tip Shot (2 PTS),,0:22,1,4.0,0,0,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,27 - 28,1,,7:36 PM
+96,5,1,112,0021200413,,,0:00,1,5.0,0,0,203104,Marquis Teague,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,29 - 28,-1,Teague 1' Layup (2 PTS),7:37 PM
+97,0,13,113,0021200413,,,0:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,29 - 28,-1,,7:37 PM
+98,0,12,115,0021200413,,,12:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,29 - 28,-1,,7:40 PM
+99,1,2,117,0021200413,,,11:37,2,5.0,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Butler 15' Jump Shot,7:40 PM
+100,0,4,119,0021200413,,,11:37,2,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:2 Def:2),7:40 PM
+101,4,1,118,0021200413,,,11:37,2,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,31 - 28,-3,Gibson 1' Tip Shot (8 PTS),7:40 PM
+102,5,2,120,0021200413,MISS Hansbrough 2' Layup,,11:20,2,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:40 PM
+103,0,4,122,0021200413,Hansbrough REBOUND (Off:1 Def:1),,11:19,2,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:41 PM
+104,4,1,121,0021200413,Hansbrough 1' Tip Shot (2 PTS),,11:19,2,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,31 - 30,-1,,7:41 PM
+105,5,1,123,0021200413,,,11:02,2,5.0,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,33 - 30,-3,Deng 2' Layup (8 PTS) (Robinson 2 AST),7:41 PM
+106,2,6,124,0021200413,Mahinmi S.FOUL (P1.T1),,11:02,2,4.0,5,1,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:41 PM
+107,10,3,125,0021200413,,,11:02,2,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,34 - 30,-4,Deng Free Throw 1 of 1 (9 PTS),7:41 PM
+108,2,6,127,0021200413,,,10:47,2,5.0,4,1,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Deng S.FOUL (P1.T1),7:42 PM
+109,11,3,128,0021200413,Hansbrough Free Throw 1 of 2 (3 PTS),,10:47,2,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,34 - 31,-3,,7:42 PM
+110,12,3,130,0021200413,Hansbrough Free Throw 2 of 2 (4 PTS),,10:47,2,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,34 - 32,-2,,7:42 PM
+111,79,1,132,0021200413,,,10:32,2,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,36 - 32,-4,Robinson 19' Pullup Jump Shot (2 PTS),7:43 PM
+112,2,5,133,0021200413,Augustin Lost Ball Turnover (P1.T8),,10:16,2,4.0,5,0,201571,D.J. Augustin,IND,Indiana,1610612754.0,Pacers,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Robinson STEAL (2 STL),7:43 PM
+113,1,2,134,0021200413,,,10:10,2,5.0,0,0,201161,Daequan Cook,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Cook 27' 3PT Jump Shot,7:43 PM
+114,0,4,135,0021200413,George REBOUND (Off:0 Def:4),,10:09,2,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:43 PM
+115,1,5,136,0021200413,George Bad Pass Turnover (P2.T9),,9:59,2,4.0,5,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Butler STEAL (2 STL),7:43 PM
+116,5,2,137,0021200413,,,9:54,2,5.0,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Butler 3' Layup,7:43 PM
+117,0,4,138,0021200413,Johnson REBOUND (Off:0 Def:1),,9:53,2,4.0,0,0,203111,Orlando Johnson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:43 PM
+118,1,2,139,0021200413,MISS Hansbrough 14' Jump Shot,,9:29,2,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:44 PM
+119,0,4,140,0021200413,Hansbrough REBOUND (Off:2 Def:1),,9:27,2,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:44 PM
+120,7,1,141,0021200413,Hansbrough  Dunk (6 PTS),,9:25,2,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,36 - 34,-2,,7:44 PM
+121,44,1,142,0021200413,,,9:06,2,5.0,5,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,38 - 34,-4,Butler  Reverse Layup (2 PTS) (Robinson 3 AST),7:44 PM
+122,1,2,143,0021200413,MISS Mahinmi 19' Jump Shot,,8:44,2,4.0,0,0,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:44 PM
+123,0,4,145,0021200413,Hansbrough REBOUND (Off:3 Def:1),,8:43,2,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:44 PM
+124,4,1,144,0021200413,Hansbrough  Tip Shot (8 PTS),,8:43,2,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,38 - 36,-2,,7:44 PM
+125,2,5,146,0021200413,Mahinmi STEAL (1 STL),,8:16,2,5.0,4,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Gibson Lost Ball Turnover (P1.T5),7:45 PM
+126,7,1,147,0021200413,Mahinmi 1' Dunk (4 PTS) (Johnson 1 AST),,8:11,2,4.0,4,0,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,203111,Orlando Johnson,IND,Indiana,1610612754.0,Pacers,0,,,,,,38 - 38,TIE,,7:45 PM
+127,1,2,148,0021200413,,,7:51,2,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Gibson 7' Jump Shot,7:45 PM
+128,0,4,150,0021200413,,,7:49,2,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:1 Def:0),7:45 PM
+129,4,2,149,0021200413,,,7:49,2,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 1' Tip Shot,7:45 PM
+130,0,4,152,0021200413,,,7:48,2,5.0,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Butler REBOUND (Off:1 Def:0),7:45 PM
+131,4,2,151,0021200413,,,7:48,2,5.0,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Butler 4' Tip Shot,7:45 PM
+132,0,4,153,0021200413,Mahinmi REBOUND (Off:1 Def:1),,7:47,2,4.0,0,0,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:45 PM
+133,1,2,154,0021200413,MISS Augustin 28' 3PT Jump Shot,,7:40,2,4.0,0,0,201571,D.J. Augustin,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:45 PM
+134,0,4,155,0021200413,,,7:39,2,5.0,0,0,201161,Daequan Cook,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Cook REBOUND (Off:0 Def:2),7:45 PM
+135,75,1,156,0021200413,,,7:21,2,5.0,0,0,201161,Daequan Cook,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,40 - 38,-2,Cook 1' Driving Finger Roll Layup (2 PTS),7:46 PM
+136,2,6,157,0021200413,Mahinmi S.FOUL (P2.T2),,7:21,2,4.0,5,1,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,201161,Daequan Cook,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:46 PM
+137,4,9,158,0021200413,,,7:21,2,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:46 PM
+138,0,8,160,0021200413,,,7:21,2,5.0,5,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Belinelli FOR Gibson,7:48 PM
+139,0,8,161,0021200413,,,7:21,2,5.0,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Boozer FOR Deng,7:48 PM
+140,0,8,162,0021200413,SUB: West FOR George,,7:21,2,4.0,4,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:48 PM
+141,0,8,163,0021200413,SUB: Stephenson FOR Hansbrough,,7:21,2,4.0,4,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:48 PM
+142,0,8,164,0021200413,SUB: Young FOR Johnson,,7:21,2,4.0,4,0,203111,Orlando Johnson,IND,Indiana,1610612754.0,Pacers,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:48 PM
+143,10,3,165,0021200413,,,7:21,2,5.0,0,0,201161,Daequan Cook,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,41 - 38,-3,Cook Free Throw 1 of 1 (3 PTS),7:48 PM
+144,1,2,167,0021200413,MISS West 9' Jump Shot,,7:04,2,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:49 PM
+145,0,4,168,0021200413,Young REBOUND (Off:1 Def:0),,7:02,2,4.0,0,0,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:49 PM
+146,65,1,169,0021200413,West 3' Jump Hook Shot (8 PTS),,6:52,2,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,41 - 40,-1,,7:49 PM
+147,1,6,170,0021200413,Young P.FOUL (P1.T3),,6:39,2,4.0,5,1,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:49 PM
+148,1,1,171,0021200413,,,6:31,2,5.0,5,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,44 - 40,-4,Robinson 27' 3PT Jump Shot (5 PTS) (Belinelli 2 AST),7:50 PM
+149,1,2,172,0021200413,MISS Stephenson  3PT Jump Shot,,6:06,2,4.0,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:50 PM
+150,0,4,173,0021200413,,,6:05,2,5.0,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Butler REBOUND (Off:1 Def:1),7:50 PM
+151,5,2,174,0021200413,,,5:55,2,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 1' Layup,7:50 PM
+152,0,4,175,0021200413,Mahinmi REBOUND (Off:1 Def:2),,5:54,2,4.0,0,0,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:50 PM
+153,1,1,178,0021200413,West 13' Jump Shot (10 PTS),,5:40,2,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,44 - 42,-2,,7:51 PM
+154,1,2,180,0021200413,,,5:25,2,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Belinelli 27' 3PT Jump Shot,7:51 PM
+155,0,4,181,0021200413,Mahinmi REBOUND (Off:1 Def:3),,5:24,2,4.0,0,0,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:51 PM
+156,1,1,182,0021200413,Stephenson 19' Jump Shot (2 PTS),,5:15,2,4.0,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,44 - 44,TIE,,7:51 PM
+157,1,1,183,0021200413,,,4:52,2,5.0,5,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,46 - 44,-2,Boozer 18' Jump Shot (6 PTS) (Robinson 4 AST),7:51 PM
+158,1,9,184,0021200413,PACERS Timeout: Regular (Full 2 Short 0),,4:45,2,2.0,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,7:52 PM
+159,0,8,186,0021200413,SUB: Hill FOR Augustin,,4:45,2,4.0,4,0,201571,D.J. Augustin,IND,Indiana,1610612754.0,Pacers,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:54 PM
+160,0,8,187,0021200413,SUB: Hibbert FOR Mahinmi,,4:45,2,4.0,4,0,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:54 PM
+161,1,1,188,0021200413,Hill 20' Jump Shot (11 PTS) (Young 1 AST),,4:32,2,4.0,4,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,0,,,,,,46 - 46,TIE,,7:54 PM
+162,42,1,189,0021200413,,,4:12,2,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,48 - 46,-2,Robinson 1' Driving Layup (7 PTS),7:54 PM
+163,44,1,190,0021200413,Stephenson 2' Reverse Layup (4 PTS),,3:59,2,4.0,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,48 - 48,TIE,,7:55 PM
+164,2,6,191,0021200413,Young S.FOUL (P2.T4),,3:47,2,4.0,5,1,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:55 PM
+165,11,3,192,0021200413,,,3:47,2,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,49 - 48,-1,Belinelli Free Throw 1 of 2 (6 PTS),7:55 PM
+166,0,8,194,0021200413,SUB: George FOR Young,,3:47,2,4.0,4,0,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:56 PM
+167,12,3,195,0021200413,,,3:47,2,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,50 - 48,-2,Belinelli Free Throw 2 of 2 (7 PTS),7:56 PM
+168,1,1,197,0021200413,West 5' Jump Shot (12 PTS) (Hill 3 AST),,3:36,2,4.0,4,0,2561,David West,IND,Indiana,1610612754.0,Pacers,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,50 - 50,TIE,,7:56 PM
+169,4,6,198,0021200413,,,3:24,2,5.0,4,1,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Boozer OFF.Foul (P1),7:56 PM
+170,5,5,199,0021200413,,,3:24,2,5.0,0,1,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer Foul Turnover (P2.T6),7:56 PM
+171,0,8,200,0021200413,,,3:24,2,5.0,5,0,201161,Daequan Cook,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Deng FOR Cook,7:57 PM
+172,0,8,201,0021200413,,,3:24,2,5.0,5,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Gibson FOR Belinelli,7:57 PM
+173,42,1,202,0021200413,Stephenson 1' Driving Layup (6 PTS),,3:11,2,4.0,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,50 - 52,2,,7:57 PM
+174,1,2,203,0021200413,,,2:56,2,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Robinson 26' 3PT Jump Shot,7:57 PM
+175,0,4,204,0021200413,George REBOUND (Off:0 Def:5),,2:55,2,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,7:57 PM
+176,2,6,205,0021200413,,,2:46,2,5.0,4,1,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Deng S.FOUL (P2.T2),7:58 PM
+177,1,9,206,0021200413,,,2:46,2,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.2 Short 1),7:58 PM
+178,0,8,208,0021200413,,,2:46,2,5.0,5,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Belinelli FOR Butler,8:00 PM
+179,11,3,209,0021200413,George Free Throw 1 of 2 (6 PTS),,2:46,2,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,50 - 53,3,,8:00 PM
+180,12,3,211,0021200413,George Free Throw 2 of 2 (7 PTS),,2:46,2,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,50 - 54,4,,8:00 PM
+181,1,2,213,0021200413,,,2:33,2,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 16' Jump Shot,8:01 PM
+182,0,4,214,0021200413,Stephenson REBOUND (Off:0 Def:1),,2:32,2,4.0,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:01 PM
+183,5,1,215,0021200413,West 2' Layup (14 PTS) (Hill 4 AST),,2:19,2,4.0,4,0,2561,David West,IND,Indiana,1610612754.0,Pacers,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,50 - 56,6,,8:01 PM
+184,2,6,216,0021200413,,,2:19,2,5.0,4,1,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Boozer S.FOUL (P2.T3),8:01 PM
+185,10,3,217,0021200413,MISS West Free Throw 1 of 1,,2:19,2,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:01 PM
+186,0,4,219,0021200413,,,2:19,2,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:1 Def:1),8:02 PM
+187,5,2,220,0021200413,West BLOCK (1 BLK),,1:57,2,5.0,0,4,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2561,David West,IND,Indiana,1610612754.0,Pacers,,,MISS Boozer 1' Layup,8:02 PM
+188,0,4,221,0021200413,,,1:55,2,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:3 Def:2),8:02 PM
+189,1,1,222,0021200413,,,1:53,2,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,52 - 56,4,Gibson 14' Jump Shot (10 PTS),8:02 PM
+190,1,2,223,0021200413,MISS George 10' Jump Shot,,1:36,2,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:02 PM
+191,0,4,224,0021200413,,,1:34,2,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:3 Def:3),8:02 PM
+192,1,2,225,0021200413,,,1:17,2,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 18' Jump Shot,8:03 PM
+193,0,4,226,0021200413,Hibbert REBOUND (Off:0 Def:2),,1:16,2,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:03 PM
+194,5,1,227,0021200413,West 1' Layup (16 PTS) (Stephenson 3 AST),,1:09,2,4.0,4,0,2561,David West,IND,Indiana,1610612754.0,Pacers,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,52 - 58,6,,8:03 PM
+195,1,2,228,0021200413,,,0:46,2,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Robinson 17' Jump Shot,8:03 PM
+196,0,4,229,0021200413,,,0:45,2,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer REBOUND (Off:2 Def:0),8:03 PM
+197,5,1,230,0021200413,,,0:44,2,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,54 - 58,4,Boozer 2' Layup (8 PTS),8:03 PM
+198,1,1,231,0021200413,Hill 18' Jump Shot (13 PTS) (West 2 AST),,0:34,2,4.0,4,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,54 - 60,6,,8:03 PM
+199,1,2,232,0021200413,,,0:10,2,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 18' Jump Shot,8:04 PM
+200,0,4,233,0021200413,West REBOUND (Off:0 Def:3),,0:08,2,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:04 PM
+201,1,2,234,0021200413,MISS George 26' 3PT Jump Shot,,0:00,2,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:04 PM
+202,0,4,236,0021200413,PACERS Rebound,,0:00,2,2.0,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,8:04 PM
+203,0,13,235,0021200413,,,0:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,54 - 60,6,,8:04 PM
+204,0,12,238,0021200413,,,12:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,54 - 60,6,,8:20 PM
+205,1,1,239,0021200413,,,11:46,3,5.0,5,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,57 - 60,3,Robinson 28' 3PT Jump Shot (10 PTS) (Hamilton 1 AST),8:21 PM
+206,1,5,240,0021200413,West Bad Pass Turnover (P2.T10),,11:31,3,4.0,5,0,2561,David West,IND,Indiana,1610612754.0,Pacers,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Robinson STEAL (3 STL),8:21 PM
+207,1,1,241,0021200413,,,11:26,3,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,59 - 60,1,Robinson 20' Jump Shot (12 PTS),8:21 PM
+208,1,1,242,0021200413,West 19' Jump Shot (18 PTS) (Stephenson 4 AST),,11:07,3,4.0,4,0,2561,David West,IND,Indiana,1610612754.0,Pacers,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,59 - 62,3,,8:21 PM
+209,1,2,243,0021200413,,,10:44,3,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 18' Jump Shot,8:22 PM
+210,0,4,244,0021200413,,,10:43,3,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:4 Def:3),8:22 PM
+211,1,2,245,0021200413,,,10:34,3,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Robinson 29' 3PT Jump Shot,8:22 PM
+212,0,4,246,0021200413,Hibbert REBOUND (Off:0 Def:3),,10:32,3,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:22 PM
+213,1,2,247,0021200413,MISS Hibbert 8' Jump Shot,,10:21,3,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:22 PM
+214,0,4,248,0021200413,,,10:20,3,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer REBOUND (Off:2 Def:1),8:22 PM
+215,79,1,249,0021200413,,,10:04,3,5.0,0,0,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,61 - 62,1,Hamilton 18' Pullup Jump Shot (8 PTS),8:22 PM
+216,65,1,250,0021200413,Hibbert 9' Jump Hook Shot (6 PTS) (George 3 AST),,9:43,3,4.0,4,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,61 - 64,3,,8:23 PM
+217,1,1,251,0021200413,,,9:27,3,5.0,5,0,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,63 - 64,1,Hamilton 16' Jump Shot (10 PTS) (Robinson 5 AST),8:23 PM
+218,1,1,252,0021200413,George 3' Jump Shot (9 PTS),,9:10,3,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,63 - 66,3,,8:23 PM
+219,1,2,253,0021200413,Stephenson BLOCK (1 BLK),,8:55,3,5.0,0,4,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,,,MISS Hamilton 14' Jump Shot,8:23 PM
+220,0,4,254,0021200413,,,8:53,3,5.0,0,0,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Hamilton REBOUND (Off:1 Def:1),8:23 PM
+221,1,2,255,0021200413,,,8:51,3,5.0,0,0,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hamilton 17' Jump Shot,8:23 PM
+222,0,4,256,0021200413,George REBOUND (Off:0 Def:6),,8:50,3,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:23 PM
+223,1,6,257,0021200413,,,8:43,3,5.0,4,1,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Boozer P.FOUL (P3.T1),8:24 PM
+224,1,2,258,0021200413,MISS Stephenson 26' 3PT Jump Shot,,8:31,3,4.0,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:24 PM
+225,0,4,259,0021200413,,,8:30,3,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:0 Def:1),8:24 PM
+226,5,2,260,0021200413,,,8:14,3,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer  Layup,8:24 PM
+227,0,4,261,0021200413,West REBOUND (Off:0 Def:4),,8:11,3,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:24 PM
+228,5,1,262,0021200413,Stephenson 2' Layup (8 PTS) (West 3 AST),,8:07,3,4.0,4,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,63 - 68,5,,8:25 PM
+229,2,6,263,0021200413,,,8:07,3,5.0,4,1,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Hamilton S.FOUL (P2.T2),8:25 PM
+230,10,3,264,0021200413,Stephenson Free Throw 1 of 1 (9 PTS),,8:07,3,4.0,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,63 - 69,6,,8:25 PM
+231,4,6,266,0021200413,,,7:54,3,5.0,4,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Gibson OFF.Foul (P2),8:26 PM
+232,5,5,267,0021200413,,,7:54,3,5.0,0,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson Foul Turnover (P2.T7),8:26 PM
+233,1,1,268,0021200413,Hill 27' 3PT Jump Shot (16 PTS) (Hibbert 1 AST),,7:35,3,4.0,4,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,63 - 72,9,,8:26 PM
+234,6,6,269,0021200413,,,7:35,3,5.0,4,1,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Hamilton AWAY.FROM.PLAY.FOUL (P3.T3),8:26 PM
+235,10,3,270,0021200413,West Free Throw 1 of 1 (19 PTS),,7:35,3,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,63 - 73,10,,8:27 PM
+236,1,6,272,0021200413,Stephenson P.FOUL (P2.T1),,7:28,3,4.0,5,1,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:27 PM
+237,79,1,274,0021200413,,,7:13,3,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,65 - 73,8,Boozer 17' Pullup Jump Shot (10 PTS),8:28 PM
+238,1,2,275,0021200413,MISS Stephenson 29' 3PT Jump Shot,,6:54,3,4.0,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:28 PM
+239,0,4,276,0021200413,,,6:53,3,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer REBOUND (Off:2 Def:2),8:28 PM
+240,1,2,277,0021200413,,,6:38,3,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 28' 3PT Jump Shot,8:28 PM
+241,0,4,278,0021200413,George REBOUND (Off:0 Def:7),,6:37,3,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:28 PM
+242,51,2,279,0021200413,MISS George 1' Reverse Dunk,,6:27,3,4.0,0,5,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,,,Gibson BLOCK (2 BLK),8:28 PM
+243,0,4,280,0021200413,Hibbert REBOUND (Off:1 Def:3),,6:26,3,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:28 PM
+244,3,2,281,0021200413,MISS Hibbert  Hook Shot,,6:24,3,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:28 PM
+245,0,4,282,0021200413,,,6:23,3,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:0 Def:2),8:28 PM
+246,1,2,283,0021200413,,,6:07,3,5.0,0,0,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hamilton 26' 3PT Jump Shot,8:29 PM
+247,0,4,284,0021200413,,,6:06,3,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,8:29 PM
+248,3,6,285,0021200413,George L.B.FOUL (P2.T2),,6:06,3,4.0,5,1,202331,Paul George,IND,Indiana,1610612754.0,Pacers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:29 PM
+249,5,2,287,0021200413,,,5:52,3,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 2' Layup,8:29 PM
+250,0,4,288,0021200413,,,5:51,3,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:2 Def:1),8:29 PM
+251,2,6,289,0021200413,Hibbert S.FOUL (P1.T3),,5:51,3,4.0,5,1,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:30 PM
+252,1,9,290,0021200413,PACERS Timeout: Regular (Full 3 Short 0),,5:51,3,2.0,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,8:30 PM
+253,11,3,292,0021200413,,,5:51,3,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,66 - 73,7,Deng Free Throw 1 of 2 (10 PTS),8:32 PM
+254,12,3,294,0021200413,,,5:51,3,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,67 - 73,6,Deng Free Throw 2 of 2 (11 PTS),8:32 PM
+255,1,2,296,0021200413,MISS George 19' Jump Shot,,5:28,3,4.0,0,5,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,,,Deng BLOCK (1 BLK),8:33 PM
+256,0,4,297,0021200413,,,5:26,3,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer REBOUND (Off:2 Def:3),8:33 PM
+257,1,2,298,0021200413,,,5:07,3,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 9' Jump Shot,8:34 PM
+258,0,4,299,0021200413,Stephenson REBOUND (Off:0 Def:2),,5:06,3,4.0,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:34 PM
+259,2,6,300,0021200413,,,5:02,3,5.0,4,1,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Robinson S.FOUL (P3.T4),8:34 PM
+260,11,3,301,0021200413,George Free Throw 1 of 2 (10 PTS),,5:02,3,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,67 - 74,7,,8:34 PM
+261,12,3,303,0021200413,MISS George Free Throw 2 of 2,,5:02,3,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:34 PM
+262,0,4,304,0021200413,,,5:02,3,5.0,0,0,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Hamilton REBOUND (Off:1 Def:2),8:34 PM
+263,1,5,305,0021200413,,,4:48,3,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson Bad Pass Turnover (P3.T8),8:35 PM
+264,47,1,306,0021200413,West 8' Turnaround Jump Shot (21 PTS),,4:33,3,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,67 - 76,9,,8:35 PM
+265,1,2,307,0021200413,,,4:15,3,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 15' Jump Shot,8:35 PM
+266,0,4,308,0021200413,George REBOUND (Off:0 Def:8),,4:14,3,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:35 PM
+267,28,6,309,0021200413,,,4:13,3,5.0,4,1,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Hamilton Personal Take Foul (P4.PN),8:35 PM
+268,0,8,310,0021200413,SUB: Mahinmi FOR Hibbert,,4:13,3,4.0,4,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:36 PM
+269,11,6,312,0021200413,,,4:13,3,5.0,0,1,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Hamilton T.FOUL (P4.PN),8:36 PM
+270,16,3,313,0021200413,Hill Free Throw Technical (17 PTS),,4:13,3,4.0,0,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,67 - 77,10,,8:36 PM
+271,11,3,315,0021200413,George Free Throw 1 of 2 (11 PTS),,4:13,3,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,67 - 78,11,,8:36 PM
+272,0,8,317,0021200413,,,4:13,3,5.0,5,0,1888,Richard Hamilton,CHI,Chicago,1610612741.0,Bulls,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Belinelli FOR Hamilton,8:37 PM
+273,0,8,318,0021200413,,,4:13,3,5.0,5,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Butler FOR Boozer,8:37 PM
+274,12,3,319,0021200413,George Free Throw 2 of 2 (12 PTS),,4:13,3,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,67 - 79,12,,8:37 PM
+275,29,6,322,0021200413,Mahinmi Shooting Block Foul (P3.T4),,4:00,3,4.0,5,1,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:38 PM
+276,11,3,323,0021200413,,,4:00,3,5.0,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,68 - 79,11,Butler Free Throw 1 of 2 (3 PTS),8:38 PM
+277,12,3,325,0021200413,,,4:00,3,5.0,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,69 - 79,10,Butler Free Throw 2 of 2 (4 PTS),8:38 PM
+278,1,2,327,0021200413,MISS West 10' Jump Shot,,3:47,3,4.0,0,5,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,,,Gibson BLOCK (3 BLK),8:38 PM
+279,0,4,328,0021200413,Stephenson REBOUND (Off:1 Def:2),,3:45,3,4.0,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:38 PM
+280,8,1,329,0021200413,Stephenson 2' Slam Dunk (11 PTS) (West 4 AST),,3:40,3,4.0,4,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,69 - 81,12,,8:38 PM
+281,1,2,330,0021200413,,,3:21,3,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 24' 3PT Jump Shot,8:39 PM
+282,0,4,331,0021200413,Hill REBOUND (Off:0 Def:1),,3:16,3,4.0,0,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:39 PM
+283,2,9,332,0021200413,PACERS Timeout: Short (Full 3 Short 1),,3:16,3,2.0,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,8:39 PM
+284,1,2,334,0021200413,MISS West 16' Jump Shot,,2:59,3,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:40 PM
+285,0,4,335,0021200413,,,2:58,3,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:4 Def:4),8:40 PM
+286,1,1,336,0021200413,,,2:35,3,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,71 - 81,10,Belinelli 20' Jump Shot (9 PTS),8:41 PM
+287,52,1,337,0021200413,George 1' Alley Oop Dunk (14 PTS) (Hill 5 AST),,2:22,3,4.0,4,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,71 - 83,12,,8:41 PM
+288,1,5,338,0021200413,Mahinmi STEAL (2 STL),,1:54,3,5.0,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Deng Bad Pass Turnover (P2.T9),8:41 PM
+289,8,5,339,0021200413,West 3 Second Violation Turnover (P3.T11),,1:43,3,4.0,0,1,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:42 PM
+290,1,9,340,0021200413,,,1:43,3,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.3 Short 1),8:42 PM
+291,0,8,342,0021200413,SUB: Young FOR Stephenson,,1:43,3,4.0,4,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:44 PM
+292,5,2,343,0021200413,West BLOCK (2 BLK),,1:29,3,5.0,0,4,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2561,David West,IND,Indiana,1610612754.0,Pacers,,,MISS Deng 2' Layup,8:44 PM
+293,0,4,345,0021200413,,,1:27,3,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:5 Def:4),8:44 PM
+294,4,2,344,0021200413,,,1:27,3,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Gibson 3' Tip Shot,8:44 PM
+295,0,4,346,0021200413,,,1:27,3,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,8:44 PM
+296,5,1,347,0021200413,,,1:18,3,5.0,5,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,73 - 83,10,Belinelli 3' Layup (11 PTS) (Robinson 6 AST),8:45 PM
+297,1,1,348,0021200413,West 17' Jump Shot (23 PTS) (George 4 AST),,1:00,3,4.0,4,0,2561,David West,IND,Indiana,1610612754.0,Pacers,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,73 - 85,12,,8:45 PM
+298,1,1,349,0021200413,,,0:41,3,5.0,5,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,76 - 85,9,Robinson 26' 3PT Jump Shot (15 PTS) (Belinelli 3 AST),8:45 PM
+299,5,2,350,0021200413,MISS George 1' Layup,,0:29,3,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:46 PM
+300,0,4,352,0021200413,Mahinmi REBOUND (Off:2 Def:3),,0:28,3,4.0,0,0,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:46 PM
+301,4,1,351,0021200413,Mahinmi 1' Tip Shot (6 PTS),,0:28,3,4.0,0,0,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,76 - 87,11,,8:46 PM
+302,1,2,353,0021200413,,,0:12,3,5.0,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Butler 24' 3PT Jump Shot,8:46 PM
+303,0,4,354,0021200413,PACERS Rebound,,0:10,3,2.0,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,8:46 PM
+304,40,5,355,0021200413,George Out of Bounds Lost Ball Turnover (P3.T12),,0:03,3,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:47 PM
+305,0,18,356,0021200413,,,0:00,3,,0,1,356,Chris Morris,,,,,0,,,,,,0,,,,,,,,,8:47 PM
+306,0,13,357,0021200413,,,0:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,76 - 87,11,,8:47 PM
+307,0,12,359,0021200413,,,12:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,76 - 87,11,,8:50 PM
+308,1,1,360,0021200413,Hill 27' 3PT Jump Shot (20 PTS) (George 5 AST),,11:44,4,4.0,4,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,76 - 90,14,,8:50 PM
+309,1,6,361,0021200413,Young P.FOUL (P3.T1),,11:24,4,4.0,5,1,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:51 PM
+310,1,1,362,0021200413,,,11:10,4,5.0,5,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,78 - 90,12,Belinelli 23' Jump Shot (13 PTS) (Gibson 1 AST),8:51 PM
+311,1,5,363,0021200413,George Bad Pass Turnover (P4.T13),,10:59,4,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:51 PM
+312,2,6,364,0021200413,Hansbrough S.FOUL (P2.T2),,10:45,4,4.0,5,1,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:52 PM
+313,11,3,365,0021200413,,,10:45,4,5.0,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,79 - 90,11,Butler Free Throw 1 of 2 (5 PTS),8:52 PM
+314,12,3,367,0021200413,,,10:45,4,5.0,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,80 - 90,10,Butler Free Throw 2 of 2 (6 PTS),8:52 PM
+315,1,6,369,0021200413,,,10:37,4,5.0,4,1,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Belinelli P.FOUL (P1.T1),8:52 PM
+316,1,2,370,0021200413,MISS Hill 17' Jump Shot,,10:29,4,4.0,0,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:53 PM
+317,0,4,371,0021200413,,,10:28,4,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:2 Def:2),8:53 PM
+318,29,6,372,0021200413,Hansbrough Shooting Block Foul (P3.T3),,10:15,4,4.0,5,1,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:53 PM
+319,11,3,373,0021200413,,,10:15,4,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,81 - 90,9,Deng Free Throw 1 of 2 (12 PTS),8:53 PM
+320,12,3,374,0021200413,,,10:15,4,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,82 - 90,8,Deng Free Throw 2 of 2 (13 PTS),8:54 PM
+321,1,2,376,0021200413,MISS Hansbrough 4' Jump Shot,,9:56,4,4.0,0,5,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,,,Gibson BLOCK (4 BLK),8:54 PM
+322,0,4,377,0021200413,,,9:54,4,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:0 Def:3),8:54 PM
+323,1,2,378,0021200413,,,9:46,4,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Robinson 28' 3PT Jump Shot,8:54 PM
+324,0,4,379,0021200413,Hansbrough REBOUND (Off:3 Def:2),,9:45,4,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:54 PM
+325,2,6,380,0021200413,,,9:28,4,5.0,4,1,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Deng S.FOUL (P3.T2),8:55 PM
+326,11,3,381,0021200413,MISS Hansbrough Free Throw 1 of 2,,9:28,4,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:55 PM
+327,1,4,382,0021200413,PACERS Rebound,,9:28,4,2.0,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,8:55 PM
+328,0,8,384,0021200413,SUB: Hibbert FOR Mahinmi,,9:28,4,4.0,4,0,101133,Ian Mahinmi,IND,Indiana,1610612754.0,Pacers,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:55 PM
+329,12,3,385,0021200413,MISS Hansbrough Free Throw 2 of 2,,9:28,4,4.0,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:55 PM
+330,0,4,387,0021200413,,,9:28,4,5.0,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Butler REBOUND (Off:1 Def:2),8:56 PM
+331,1,2,388,0021200413,,,9:02,4,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Belinelli 29' 3PT Jump Shot,8:56 PM
+332,0,4,389,0021200413,George REBOUND (Off:0 Def:9),,9:01,4,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:56 PM
+333,1,6,390,0021200413,,,9:01,4,5.0,4,1,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Butler P.FOUL (P1.T3),8:56 PM
+334,0,8,391,0021200413,SUB: West FOR Hansbrough,,9:01,4,4.0,4,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:56 PM
+335,1,2,392,0021200413,MISS Hill 27' 3PT Jump Shot,,8:51,4,4.0,0,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,8:57 PM
+336,0,4,393,0021200413,,,8:50,4,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:0 Def:4),8:57 PM
+337,1,1,394,0021200413,,,8:38,4,5.0,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,84 - 90,6,Butler 19' Jump Shot (8 PTS),8:57 PM
+338,1,9,395,0021200413,PACERS Timeout: Regular (Full 4 Short 1),,8:37,4,2.0,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,8:57 PM
+339,0,8,397,0021200413,SUB: Stephenson FOR Young,,8:37,4,4.0,4,0,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:59 PM
+340,1,1,398,0021200413,West 18' Jump Shot (25 PTS) (Hill 6 AST),,8:25,4,4.0,4,0,2561,David West,IND,Indiana,1610612754.0,Pacers,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,84 - 92,8,,8:59 PM
+341,1,1,399,0021200413,,,8:03,4,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,86 - 92,6,Belinelli 12' Jump Shot (15 PTS),9:00 PM
+342,1,2,400,0021200413,MISS West 20' Jump Shot,,7:41,4,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:00 PM
+343,0,4,401,0021200413,,,7:40,4,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:0 Def:5),9:00 PM
+344,1,2,402,0021200413,,,7:30,4,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Gibson 11' Jump Shot,9:00 PM
+345,0,4,403,0021200413,George REBOUND (Off:0 Def:10),,7:29,4,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:00 PM
+346,1,6,404,0021200413,,,7:16,4,5.0,4,1,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Deng P.FOUL (P4.T4),9:01 PM
+347,1,2,405,0021200413,MISS Hill 26' 3PT Jump Shot,,7:02,4,4.0,0,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:01 PM
+348,0,4,406,0021200413,,,7:02,4,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,9:01 PM
+349,1,1,407,0021200413,,,6:51,4,5.0,5,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,88 - 92,4,Belinelli 20' Jump Shot (17 PTS) (Robinson 7 AST),9:02 PM
+350,1,1,408,0021200413,Stephenson 27' 3PT Jump Shot (14 PTS),,6:34,4,4.0,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,88 - 95,7,,9:02 PM
+351,1,2,409,0021200413,,,6:09,4,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Robinson 17' Jump Shot,9:02 PM
+352,0,4,410,0021200413,Stephenson REBOUND (Off:1 Def:3),,6:07,4,4.0,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:02 PM
+353,28,6,411,0021200413,,,6:06,4,5.0,4,1,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Belinelli Personal Take Foul (P2.PN),9:02 PM
+354,11,3,412,0021200413,MISS Stephenson Free Throw 1 of 2,,6:06,4,4.0,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:03 PM
+355,1,4,413,0021200413,PACERS Rebound,,6:06,4,2.0,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,9:03 PM
+356,12,3,414,0021200413,Stephenson Free Throw 2 of 2 (15 PTS),,6:06,4,4.0,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,88 - 96,8,,9:03 PM
+357,1,1,416,0021200413,,,5:53,4,5.0,5,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,90 - 96,6,Butler 18' Jump Shot (10 PTS) (Robinson 8 AST),9:03 PM
+358,1,2,417,0021200413,MISS George 12' Jump Shot,,5:30,4,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:04 PM
+359,0,4,419,0021200413,Hibbert REBOUND (Off:2 Def:3),,5:29,4,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:04 PM
+360,4,2,418,0021200413,MISS Hibbert 1' Tip Shot,,5:29,4,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:04 PM
+361,0,4,420,0021200413,PACERS Rebound,,5:28,4,2.0,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,9:04 PM
+362,4,9,421,0021200413,,,5:28,4,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:04 PM
+363,5,2,423,0021200413,MISS Hibbert 2' Layup,,5:09,4,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:07 PM
+364,0,4,424,0021200413,,,5:08,4,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:5 Def:5),9:07 PM
+365,1,2,425,0021200413,,,4:47,4,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Robinson 19' Jump Shot,9:07 PM
+366,0,4,426,0021200413,West REBOUND (Off:0 Def:5),,4:46,4,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:07 PM
+367,5,2,427,0021200413,MISS Hibbert 4' Layup,,4:26,4,4.0,0,5,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,,,Gibson BLOCK (5 BLK),9:08 PM
+368,0,4,428,0021200413,,,4:24,4,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:5 Def:6),9:08 PM
+369,1,1,429,0021200413,,,4:06,4,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,92 - 96,4,Belinelli 19' Jump Shot (19 PTS),9:08 PM
+370,1,5,430,0021200413,Hill Bad Pass Turnover (P3.T14),,3:51,4,4.0,5,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Butler STEAL (3 STL),9:08 PM
+371,1,5,431,0021200413,,,3:49,4,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Belinelli Bad Pass Turnover (P1.T10),9:08 PM
+372,1,2,432,0021200413,MISS West 6' Jump Shot,,3:34,4,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:09 PM
+373,0,4,434,0021200413,Hibbert REBOUND (Off:3 Def:3),,3:33,4,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:09 PM
+374,4,2,433,0021200413,MISS Hibbert 2' Tip Shot,,3:33,4,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:09 PM
+375,0,4,436,0021200413,Hibbert REBOUND (Off:4 Def:3),,3:32,4,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:09 PM
+376,4,2,435,0021200413,MISS Hibbert  Tip Shot,,3:32,4,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:09 PM
+377,0,4,437,0021200413,Hibbert REBOUND (Off:5 Def:3),,3:31,4,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:09 PM
+378,79,1,438,0021200413,George 17' Pullup Jump Shot (16 PTS),,3:27,4,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,92 - 98,6,,9:09 PM
+379,1,2,439,0021200413,,,3:03,4,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Belinelli 21' Jump Shot,9:09 PM
+380,0,4,440,0021200413,George REBOUND (Off:0 Def:11),,3:01,4,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:09 PM
+381,1,2,441,0021200413,MISS George 26' 3PT Jump Shot,,2:51,4,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:09 PM
+382,0,4,442,0021200413,West REBOUND (Off:1 Def:5),,2:49,4,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:09 PM
+383,41,5,443,0021200413,Hibbert Poss Lost Ball Turnover (P1.T15),,2:47,4,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:09 PM
+384,1,9,444,0021200413,,,2:47,4,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.4 Short 1),9:10 PM
+385,1,6,446,0021200413,Stephenson P.FOUL (P3.T4),,2:41,4,4.0,5,1,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:12 PM
+386,5,2,447,0021200413,West BLOCK (3 BLK),,2:31,4,5.0,0,4,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2561,David West,IND,Indiana,1610612754.0,Pacers,,,MISS Gibson 2' Layup,9:13 PM
+387,0,4,448,0021200413,West REBOUND (Off:1 Def:6),,2:29,4,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:13 PM
+388,1,2,449,0021200413,MISS West 13' Jump Shot,,2:09,4,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:13 PM
+389,0,4,450,0021200413,,,2:08,4,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:2 Def:3),9:13 PM
+390,46,1,451,0021200413,,,1:59,4,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,94 - 98,4,Belinelli 14' Running Jump Shot (21 PTS),9:13 PM
+391,1,5,452,0021200413,Hill Bad Pass Turnover (P4.T16),,1:46,4,4.0,0,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:13 PM
+392,1,2,453,0021200413,,,1:32,4,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Belinelli 14' Jump Shot,9:14 PM
+393,0,4,454,0021200413,Hibbert REBOUND (Off:5 Def:4),,1:31,4,4.0,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:14 PM
+394,1,1,456,0021200413,George 27' 3PT Jump Shot (19 PTS) (Stephenson 5 AST),,1:18,4,4.0,4,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,94 - 101,7,,9:15 PM
+395,1,9,457,0021200413,,,1:18,4,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.5 Short 1),9:15 PM
+396,1,2,459,0021200413,,,1:07,4,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 17' Jump Shot,9:17 PM
+397,0,4,460,0021200413,West REBOUND (Off:1 Def:7),,1:06,4,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:17 PM
+398,1,6,461,0021200413,,,1:05,4,5.0,4,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Gibson P.FOUL (P3.PN),9:17 PM
+399,11,3,462,0021200413,West Free Throw 1 of 2 (26 PTS),,1:05,4,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,94 - 102,8,,9:17 PM
+400,12,3,464,0021200413,West Free Throw 2 of 2 (27 PTS),,1:05,4,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,94 - 103,9,,9:18 PM
+401,2,9,466,0021200413,,,1:05,4,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Short (Reg.5 Short 2),9:18 PM
+402,0,8,468,0021200413,SUB: Young FOR Hibbert,,1:05,4,4.0,4,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,9:19 PM
+403,2,6,469,0021200413,Young S.FOUL (P4.PN),,1:02,4,4.0,5,1,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:19 PM
+404,11,3,470,0021200413,,,1:02,4,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Gibson Free Throw 1 of 2,9:20 PM
+405,1,4,471,0021200413,,,1:02,4,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,9:20 PM
+406,0,8,472,0021200413,SUB: Augustin FOR Stephenson,,1:02,4,4.0,4,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,201571,D.J. Augustin,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,9:20 PM
+407,0,8,473,0021200413,SUB: Hansbrough FOR Young,,1:02,4,4.0,4,0,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,9:20 PM
+408,12,3,474,0021200413,,,1:02,4,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Gibson Free Throw 2 of 2,9:20 PM
+409,0,4,476,0021200413,West REBOUND (Off:1 Def:8),,1:02,4,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:20 PM
+410,1,6,477,0021200413,,,1:00,4,5.0,4,1,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Deng P.FOUL (P5.PN),9:20 PM
+411,11,3,478,0021200413,West Free Throw 1 of 2 (28 PTS),,1:00,4,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,94 - 104,10,,9:21 PM
+412,0,8,480,0021200413,SUB: Stephenson FOR Augustin,,1:00,4,4.0,4,0,201571,D.J. Augustin,IND,Indiana,1610612754.0,Pacers,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,9:21 PM
+413,0,8,481,0021200413,SUB: Young FOR Hansbrough,,1:00,4,4.0,4,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,9:21 PM
+414,12,3,482,0021200413,West Free Throw 2 of 2 (29 PTS),,1:00,4,4.0,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,94 - 105,11,,9:21 PM
+415,2,9,484,0021200413,,,1:00,4,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Short (Reg.5 Short 3),9:21 PM
+416,1,2,486,0021200413,,,0:56,4,5.0,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Butler 17' Jump Shot,9:23 PM
+417,0,4,487,0021200413,,,0:55,4,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:3 Def:3),9:23 PM
+418,5,2,488,0021200413,George BLOCK (2 BLK),,0:53,4,5.0,0,4,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,202331,Paul George,IND,Indiana,1610612754.0,Pacers,,,MISS Deng  Layup,9:23 PM
+419,0,4,489,0021200413,,,0:53,4,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,9:23 PM
+420,5,1,490,0021200413,,,0:52,4,5.0,5,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,96 - 105,9,Belinelli  Layup (23 PTS) (Robinson 9 AST),9:23 PM
+421,2,6,491,0021200413,West S.FOUL (P1.PN),,0:52,4,4.0,5,1,2561,David West,IND,Indiana,1610612754.0,Pacers,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:23 PM
+422,10,3,492,0021200413,,,0:52,4,5.0,0,0,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,97 - 105,8,Belinelli Free Throw 1 of 1 (24 PTS),9:23 PM
+423,1,6,494,0021200413,,,0:48,4,5.0,4,1,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Robinson P.FOUL (P4.PN),9:24 PM
+424,11,3,495,0021200413,George Free Throw 1 of 2 (20 PTS),,0:48,4,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,97 - 106,9,,9:24 PM
+425,12,3,497,0021200413,George Free Throw 2 of 2 (21 PTS),,0:48,4,4.0,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,97 - 107,10,,9:24 PM
+426,75,1,499,0021200413,,,0:40,4,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,99 - 107,8,Robinson 2' Driving Finger Roll Layup (17 PTS),9:24 PM
+427,28,6,500,0021200413,,,0:35,4,5.0,4,1,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Belinelli Personal Take Foul (P3.PN),9:25 PM
+428,11,3,501,0021200413,Hill Free Throw 1 of 2 (21 PTS),,0:35,4,4.0,0,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,99 - 108,9,,9:25 PM
+429,12,3,503,0021200413,Hill Free Throw 2 of 2 (22 PTS),,0:35,4,4.0,0,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,99 - 109,10,,9:25 PM
+430,1,6,505,0021200413,Young P.FOUL (P5.PN),,0:30,4,4.0,5,1,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:26 PM
+431,11,3,506,0021200413,,,0:30,4,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,100 - 109,9,Robinson Free Throw 1 of 2 (18 PTS),9:26 PM
+432,0,8,508,0021200413,SUB: Hansbrough FOR Young,,0:30,4,4.0,4,0,201970,Sam Young,IND,Indiana,1610612754.0,Pacers,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,9:26 PM
+433,0,8,509,0021200413,SUB: Augustin FOR Stephenson,,0:30,4,4.0,4,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,201571,D.J. Augustin,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,9:26 PM
+434,12,3,510,0021200413,,,0:30,4,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,101 - 109,8,Robinson Free Throw 2 of 2 (19 PTS),9:26 PM
+435,28,6,512,0021200413,,,0:18,4,5.0,4,1,201158,Marco Belinelli,CHI,Chicago,1610612741.0,Bulls,201571,D.J. Augustin,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Belinelli Personal Take Foul (P4.PN),9:27 PM
+436,11,3,513,0021200413,Augustin Free Throw 1 of 2 (1 PTS),,0:18,4,4.0,0,0,201571,D.J. Augustin,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,101 - 110,9,,9:27 PM
+437,12,3,515,0021200413,Augustin Free Throw 2 of 2 (2 PTS),,0:18,4,4.0,0,0,201571,D.J. Augustin,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,101 - 111,10,,9:27 PM
+438,1,2,517,0021200413,,,0:12,4,5.0,0,0,101126,Nate Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Robinson 29' 3PT Jump Shot,9:28 PM
+439,0,4,518,0021200413,Hill REBOUND (Off:0 Def:2),,0:10,4,4.0,0,0,201588,George Hill,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,9:28 PM
+440,0,13,519,0021200413,,,0:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,101 - 111,10,,9:28 PM

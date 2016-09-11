@@ -1,0 +1,434 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020900903,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:43 PM
+1,0,10,1,0020900903,Jump Ball Lee vs. Maxiell: Tip to Stuckey,,12:00,1,4,5,5,101135,David Lee,NYK,New York,1610612752.0,Knicks,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,,,,7:43 PM
+2,2,5,2,0020900903,Lee STEAL (1 STL),,11:45,1,5,4,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Prince Lost Ball Turnover (P1.T1),7:43 PM
+3,42,1,3,0020900903,Walker  Driving Layup (2 PTS) (Lee 1 AST),,11:40,1,4,4,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0 - 2,2,,7:43 PM
+4,1,6,4,0020900903,Walker P.FOUL (P1.T1),,11:31,1,4,5,1,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,7:44 PM
+5,1,2,5,0020900903,,,11:18,1,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Maxiell 10' Jump Shot,7:44 PM
+6,0,4,6,0020900903,Lee REBOUND (Off:0 Def:1),,11:18,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:44 PM
+7,2,6,7,0020900903,,,11:04,1,5,4,1,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Jerebko S.FOUL (P1.T1),7:44 PM
+8,11,3,9,0020900903,McGrady Free Throw 1 of 2 (1 PTS),,11:04,1,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,0 - 3,3,,7:45 PM
+9,12,3,11,0020900903,McGrady Free Throw 2 of 2 (2 PTS),,11:04,1,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,0 - 4,4,,7:45 PM
+10,1,1,13,0020900903,,,10:51,1,5,5,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,2 - 4,2,Hamilton 14' Jump Shot (2 PTS) (Stuckey 1 AST),7:45 PM
+11,1,6,14,0020900903,,,10:39,1,5,4,1,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Jerebko P.FOUL (P2.T2),7:46 PM
+12,17,6,15,0020900903,,,10:34,1,5,0,1,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Pistons T.Foul (Def. 3 Sec Stuckey ),7:46 PM
+13,16,3,16,0020900903,Gallinari Free Throw Technical (1 PTS),,10:34,1,4,0,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,2 - 5,3,,7:46 PM
+14,52,1,18,0020900903,Walker  Alley Oop Dunk (4 PTS) (Lee 2 AST),,10:30,1,4,4,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,2 - 7,5,,7:46 PM
+15,1,2,19,0020900903,,,10:04,1,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stuckey 16' Jump Shot,7:47 PM
+16,0,4,20,0020900903,,,10:03,1,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Jerebko REBOUND (Off:1 Def:0),7:47 PM
+17,3,2,21,0020900903,,,10:00,1,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Jerebko 7' Hook Shot,7:47 PM
+18,0,4,22,0020900903,Lee REBOUND (Off:0 Def:2),,9:59,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:47 PM
+19,1,2,23,0020900903,MISS Harrington 25' 3PT Jump Shot,,9:50,1,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:47 PM
+20,0,4,24,0020900903,Gallinari REBOUND (Off:1 Def:0),,9:50,1,4,0,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:47 PM
+21,5,1,25,0020900903,Gallinari  Layup (3 PTS),,9:49,1,4,0,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,2 - 9,7,,7:47 PM
+22,1,2,26,0020900903,,,9:31,1,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stuckey 22' Jump Shot,7:48 PM
+23,0,4,27,0020900903,Gallinari REBOUND (Off:1 Def:1),,9:31,1,4,0,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:48 PM
+24,1,1,28,0020900903,Lee 17' Jump Shot (2 PTS),,9:16,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,2 - 11,9,,7:48 PM
+25,1,1,29,0020900903,,,8:56,1,5,5,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,4 - 11,7,Maxiell 4' Jump Shot (2 PTS) (Stuckey 2 AST),7:48 PM
+26,5,2,30,0020900903,MISS Lee  Layup,,8:45,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:48 PM
+27,0,4,31,0020900903,,,8:44,1,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Maxiell REBOUND (Off:0 Def:1),7:48 PM
+28,79,1,32,0020900903,,,8:38,1,5,0,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,6 - 11,5,Hamilton 20' Pullup Jump Shot (4 PTS),7:48 PM
+29,71,1,33,0020900903,Gallinari  Finger Roll Layup (5 PTS),,8:19,1,4,0,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,6 - 13,7,,7:49 PM
+30,1,2,34,0020900903,,,7:59,1,5,0,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Hamilton 25' 3PT Jump Shot,7:49 PM
+31,0,4,35,0020900903,Lee REBOUND (Off:0 Def:3),,7:59,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:49 PM
+32,1,2,36,0020900903,MISS McGrady 21' Jump Shot,,7:51,1,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:49 PM
+33,0,4,37,0020900903,,,7:51,1,5,0,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Hamilton REBOUND (Off:0 Def:1),7:49 PM
+34,5,2,38,0020900903,,,7:47,1,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Prince  Layup,7:49 PM
+35,0,4,39,0020900903,Harrington REBOUND (Off:0 Def:1),,7:46,1,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:49 PM
+36,1,2,40,0020900903,MISS Walker 4' Jump Shot,,7:32,1,4,0,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:50 PM
+37,0,4,41,0020900903,,,7:31,1,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Jerebko REBOUND (Off:1 Def:1),7:50 PM
+38,2,6,42,0020900903,McGrady S.FOUL (P1.T2),,7:25,1,4,5,1,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,7:50 PM
+39,11,3,43,0020900903,,,7:25,1,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,7 - 13,6,Jerebko Free Throw 1 of 2 (1 PTS),7:50 PM
+40,12,3,45,0020900903,,,7:25,1,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,8 - 13,5,Jerebko Free Throw 2 of 2 (2 PTS),7:50 PM
+41,1,2,47,0020900903,MISS Walker 25' 3PT Jump Shot,,7:08,1,4,0,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:51 PM
+42,0,4,48,0020900903,Lee REBOUND (Off:1 Def:3),,7:08,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:51 PM
+43,1,1,49,0020900903,Harrington 25' 3PT Jump Shot (3 PTS) (Lee 3 AST),,7:02,1,4,4,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,8 - 16,8,,7:51 PM
+44,1,1,50,0020900903,,,6:33,1,5,5,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,11 - 16,5,Jerebko 25' 3PT Jump Shot (5 PTS) (Maxiell 1 AST),7:51 PM
+45,1,6,51,0020900903,,,6:13,1,5,4,1,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Stuckey P.FOUL (P1.T3),7:52 PM
+46,1,2,52,0020900903,MISS Harrington 25' 3PT Jump Shot,,6:03,1,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:52 PM
+47,0,4,53,0020900903,,,6:02,1,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Jerebko REBOUND (Off:1 Def:2),7:52 PM
+48,1,6,54,0020900903,Walker P.FOUL (P2.T3),,5:55,1,4,5,1,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,7:52 PM
+49,1,9,55,0020900903,KNICKS Timeout: Regular (Full 1 Short 0),,5:55,1,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,7:52 PM
+50,0,8,57,0020900903,SUB: Rodriguez FOR Walker,,5:55,1,4,4,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,7:55 PM
+51,42,1,59,0020900903,,,5:42,1,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,13 - 16,3,Stuckey  Driving Layup (2 PTS),7:55 PM
+52,1,2,60,0020900903,MISS Gallinari 24' 3PT Jump Shot,,5:25,1,4,0,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:56 PM
+53,0,4,61,0020900903,KNICKS Rebound,,5:25,1,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,7:56 PM
+54,1,2,62,0020900903,MISS Rodriguez 24' 3PT Jump Shot,,5:16,1,4,0,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:56 PM
+55,0,4,63,0020900903,,,5:15,1,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Prince REBOUND (Off:0 Def:1),7:56 PM
+56,46,1,64,0020900903,,,5:01,1,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,15 - 16,1,Stuckey 5' Running Jump Shot (4 PTS),7:56 PM
+57,1,1,65,0020900903,Lee 16' Jump Shot (4 PTS) (McGrady 1 AST),,4:45,1,4,4,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,15 - 18,3,,7:57 PM
+58,5,2,66,0020900903,,,4:34,1,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Jerebko  Layup,7:57 PM
+59,0,4,68,0020900903,,,4:32,1,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Maxiell REBOUND (Off:1 Def:1),7:57 PM
+60,4,2,67,0020900903,,,4:32,1,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Jerebko  Tip Shot,7:57 PM
+61,0,4,69,0020900903,Gallinari REBOUND (Off:1 Def:2),,4:31,1,4,0,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:57 PM
+62,1,2,70,0020900903,MISS Lee 4' Jump Shot,,4:25,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:57 PM
+63,0,4,71,0020900903,,,4:23,1,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Maxiell REBOUND (Off:1 Def:2),7:57 PM
+64,5,2,72,0020900903,,,4:10,1,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Maxiell 2' Layup,7:57 PM
+65,0,4,73,0020900903,Rodriguez REBOUND (Off:0 Def:1),,4:09,1,4,0,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,7:57 PM
+66,5,1,74,0020900903,Harrington  Layup (5 PTS) (Gallinari 1 AST),,4:05,1,4,4,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,15 - 20,5,,7:57 PM
+67,1,5,75,0020900903,McGrady STEAL (1 STL),,3:47,1,5,4,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Jerebko Bad Pass Turnover (P1.T2),7:58 PM
+68,8,1,76,0020900903,Lee  Slam Dunk (6 PTS),,3:41,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,15 - 22,7,,7:58 PM
+69,0,8,79,0020900903,,,3:24,1,5,5,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Gordon FOR Stuckey,7:58 PM
+70,0,8,78,0020900903,,,3:24,1,5,5,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Villanueva FOR Jerebko,7:58 PM
+71,2,6,81,0020900903,McGrady S.FOUL (P2.T4),,3:19,1,4,5,1,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,7:59 PM
+72,0,8,83,0020900903,SUB: House FOR Harrington,,3:19,1,4,4,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,7:59 PM
+73,11,3,84,0020900903,,,3:19,1,5,0,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,16 - 22,6,Hamilton Free Throw 1 of 2 (5 PTS),7:59 PM
+74,12,3,86,0020900903,,,3:19,1,5,0,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,17 - 22,5,Hamilton Free Throw 2 of 2 (6 PTS),7:59 PM
+75,42,1,88,0020900903,Gallinari  Driving Layup (7 PTS),,3:08,1,4,0,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,17 - 24,7,,8:00 PM
+76,1,2,89,0020900903,,,2:46,1,5,0,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Hamilton 14' Jump Shot,8:00 PM
+77,0,4,90,0020900903,McGrady REBOUND (Off:0 Def:1),,2:46,1,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:00 PM
+78,5,2,91,0020900903,MISS Lee  Layup,,2:31,1,4,0,5,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,,,Prince BLOCK (1 BLK),8:00 PM
+79,0,4,92,0020900903,Rodriguez REBOUND (Off:1 Def:1),,2:29,1,4,0,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:00 PM
+80,1,1,93,0020900903,McGrady 25' 3PT Jump Shot (5 PTS) (Gallinari 2 AST),,2:22,1,4,4,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,17 - 27,10,,8:00 PM
+81,1,9,94,0020900903,,,2:15,1,3,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Timeout: Regular (Reg.1 Short 0),8:01 PM
+82,0,8,96,0020900903,,,2:15,1,5,5,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Bynum FOR Hamilton,8:03 PM
+83,1,2,98,0020900903,,,1:57,1,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Maxiell 15' Jump Shot,8:04 PM
+84,0,4,99,0020900903,,,1:57,1,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Prince REBOUND (Off:1 Def:1),8:04 PM
+85,4,2,100,0020900903,,,1:53,1,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Prince  Tip Shot,8:04 PM
+86,0,4,101,0020900903,Lee REBOUND (Off:1 Def:4),,1:52,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:04 PM
+87,2,6,102,0020900903,,,1:50,1,5,4,1,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Maxiell S.FOUL (P1.T4),8:04 PM
+88,0,8,103,0020900903,,,1:50,1,5,5,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Daye FOR Maxiell,8:04 PM
+89,11,3,104,0020900903,McGrady Free Throw 1 of 2 (6 PTS),,1:50,1,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,17 - 28,11,,8:04 PM
+90,12,3,106,0020900903,McGrady Free Throw 2 of 2 (7 PTS),,1:50,1,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,17 - 29,12,,8:04 PM
+91,5,1,108,0020900903,,,1:33,1,5,5,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,19 - 29,10,Prince  Layup (2 PTS) (Daye 1 AST),8:05 PM
+92,2,5,109,0020900903,McGrady Lost Ball Turnover (P1.T1),,1:18,1,4,5,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Daye STEAL (1 STL),8:05 PM
+93,5,2,110,0020900903,,,1:11,1,5,0,0,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Villanueva  Layup,8:05 PM
+94,0,4,112,0020900903,,,1:10,1,5,0,0,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Villanueva REBOUND (Off:1 Def:0),8:05 PM
+95,4,1,111,0020900903,,,1:10,1,5,0,0,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,21 - 29,8,Villanueva  Tip Shot (2 PTS),8:05 PM
+96,1,6,113,0020900903,,,0:58,1,5,4,1,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Villanueva P.FOUL (P1.PN),8:05 PM
+97,11,3,114,0020900903,Lee Free Throw 1 of 2 (7 PTS),,0:58,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,21 - 30,9,,8:06 PM
+98,12,3,116,0020900903,Lee Free Throw 2 of 2 (8 PTS),,0:58,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,21 - 31,10,,8:06 PM
+99,7,1,118,0020900903,,,0:44,1,5,5,0,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,23 - 31,8,Daye  Dunk (2 PTS) (Bynum 1 AST),8:06 PM
+100,66,1,119,0020900903,Rodriguez 6' Jump Bank Shot (2 PTS),,0:37,1,4,0,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,23 - 33,10,,8:07 PM
+101,1,2,120,0020900903,,,0:23,1,5,0,0,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Daye 25' 3PT Jump Shot,8:07 PM
+102,0,4,121,0020900903,Lee REBOUND (Off:1 Def:5),,0:23,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:07 PM
+103,1,2,123,0020900903,MISS Gallinari 5' Jump Shot,,0:02,1,4,0,5,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,,,Villanueva BLOCK (1 BLK),8:09 PM
+104,0,4,124,0020900903,KNICKS Rebound,,0:02,1,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,8:09 PM
+105,0,13,125,0020900903,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 33,10,,8:09 PM
+106,0,12,127,0020900903,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 33,10,,8:12 PM
+107,1,1,128,0020900903,House 22' Jump Shot (2 PTS) (Harrington 1 AST),,11:43,2,4,4,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,23 - 35,12,,8:12 PM
+108,2,6,129,0020900903,Lee S.FOUL (P1.T1),,11:33,2,4,5,1,101135,David Lee,NYK,New York,1610612752.0,Knicks,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,8:12 PM
+109,11,3,130,0020900903,,,11:33,2,5,0,0,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Villanueva Free Throw 1 of 2,8:13 PM
+110,1,4,131,0020900903,,,11:33,2,3,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,8:13 PM
+111,12,3,133,0020900903,,,11:33,2,5,0,0,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,24 - 35,11,Villanueva Free Throw 2 of 2 (3 PTS),8:13 PM
+112,1,2,135,0020900903,MISS Harrington 5' Jump Shot,,11:13,2,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:13 PM
+113,0,4,136,0020900903,Harrington REBOUND (Off:1 Def:1),,11:10,2,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:13 PM
+114,1,2,137,0020900903,MISS Rodriguez 24' 3PT Jump Shot,,11:08,2,4,0,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:13 PM
+115,0,4,138,0020900903,,,11:06,2,5,0,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Hamilton REBOUND (Off:0 Def:2),8:13 PM
+116,40,2,139,0020900903,,,11:00,2,5,0,0,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Daye  Layup,8:13 PM
+117,0,4,140,0020900903,Lee REBOUND (Off:1 Def:6),,10:58,2,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:13 PM
+118,1,2,141,0020900903,MISS Rodriguez 13' Jump Shot,,10:55,2,4,0,5,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,,,Villanueva BLOCK (2 BLK),8:14 PM
+119,0,4,142,0020900903,,,10:52,2,5,0,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Hamilton REBOUND (Off:0 Def:3),8:14 PM
+120,42,1,143,0020900903,,,10:47,2,5,0,0,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,26 - 35,9,Bynum  Driving Layup (2 PTS),8:14 PM
+121,42,1,144,0020900903,Rodriguez  Driving Layup (4 PTS) (Lee 4 AST),,10:32,2,4,4,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,26 - 37,11,,8:14 PM
+122,1,1,145,0020900903,,,10:15,2,5,0,0,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,28 - 37,9,Gordon 12' Jump Shot (2 PTS),8:14 PM
+123,1,5,146,0020900903,Rodriguez Bad Pass Turnover (P1.T2),,10:05,2,4,5,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Villanueva STEAL (1 STL),8:14 PM
+124,9,6,147,0020900903,House C.P.FOUL (P1.T2),,10:05,2,4,5,1,2067,Eddie House,NYK,New York,1610612752.0,Knicks,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,8:14 PM
+125,25,3,148,0020900903,,,10:05,2,5,0,0,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,29 - 37,8,Gordon Free Throw Clear Path 1 of 2 (3 PTS),8:15 PM
+126,26,3,150,0020900903,,,10:05,2,5,0,0,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,30 - 37,7,Gordon Free Throw Clear Path 2 of 2 (4 PTS),8:15 PM
+127,1,2,153,0020900903,,,9:55,2,5,0,0,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Bynum 21' Jump Shot,8:16 PM
+128,0,4,154,0020900903,Lee REBOUND (Off:1 Def:7),,9:54,2,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:16 PM
+129,1,2,155,0020900903,MISS House 25' 3PT Jump Shot,,9:47,2,4,0,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:16 PM
+130,0,4,156,0020900903,Lee REBOUND (Off:2 Def:7),,9:46,2,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:16 PM
+131,1,2,157,0020900903,MISS Lee 13' Jump Shot,,9:40,2,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:16 PM
+132,0,4,158,0020900903,,,9:39,2,5,0,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Hamilton REBOUND (Off:0 Def:4),8:16 PM
+133,5,2,159,0020900903,,,9:31,2,5,0,0,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Daye  Layup,8:16 PM
+134,0,4,161,0020900903,,,9:31,2,5,0,0,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Daye REBOUND (Off:1 Def:0),8:16 PM
+135,4,1,160,0020900903,,,9:31,2,5,0,0,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,32 - 37,5,Daye  Tip Shot (4 PTS),8:16 PM
+136,2,6,162,0020900903,Walker S.FOUL (P3.T3),,9:31,2,4,5,1,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,8:16 PM
+137,10,3,163,0020900903,,,9:31,2,5,0,0,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,33 - 37,4,Daye Free Throw 1 of 1 (5 PTS),8:16 PM
+138,1,6,165,0020900903,,,9:25,2,5,4,1,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Gordon P.FOUL (P1.T1),8:17 PM
+139,1,2,166,0020900903,MISS Lee 14' Jump Shot,,9:18,2,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:17 PM
+140,0,4,167,0020900903,,,9:17,2,5,0,0,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Daye REBOUND (Off:1 Def:1),8:17 PM
+141,1,1,168,0020900903,,,9:07,2,5,5,0,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,0,,,,,,36 - 37,1,Bynum 24' 3PT Jump Shot (5 PTS) (Gordon 1 AST),8:17 PM
+142,1,9,169,0020900903,KNICKS Timeout: Regular (Full 2 Short 0),,9:04,2,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,8:17 PM
+143,2,6,173,0020900903,,,8:51,2,5,4,1,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Gordon S.FOUL (P2.T2),8:20 PM
+144,11,3,174,0020900903,House Free Throw 1 of 2 (3 PTS),,8:51,2,4,0,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,36 - 38,2,,8:21 PM
+145,12,3,176,0020900903,House Free Throw 2 of 2 (4 PTS),,8:51,2,4,0,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,36 - 39,3,,8:21 PM
+146,1,6,178,0020900903,Rodriguez P.FOUL (P1.T4),,8:46,2,4,5,1,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,8:21 PM
+147,1,1,179,0020900903,,,8:36,2,5,5,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,39 - 39,TIE,Hamilton  3PT Jump Shot (9 PTS) (Bynum 2 AST),8:22 PM
+148,1,1,180,0020900903,Harrington 24' 3PT Jump Shot (8 PTS) (House 1 AST),,8:20,2,4,4,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,39 - 42,3,,8:22 PM
+149,2,5,181,0020900903,Walker STEAL (1 STL),,8:00,2,5,4,0,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Villanueva Lost Ball Turnover (P1.T3),8:22 PM
+150,89,1,182,0020900903,Walker  Reverse Slam Dunk (6 PTS) (Rodriguez 1 AST),,7:53,2,4,4,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,39 - 44,5,,8:22 PM
+151,42,1,183,0020900903,,,7:38,2,5,0,0,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,41 - 44,3,Bynum  Driving Layup (7 PTS),8:22 PM
+152,2,6,184,0020900903,,,7:24,2,5,4,1,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Daye S.FOUL (P1.T3),8:23 PM
+153,0,8,185,0020900903,SUB: McGrady FOR Lee,,7:24,2,4,4,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:23 PM
+154,0,8,186,0020900903,SUB: Gallinari FOR Rodriguez,,7:24,2,4,4,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:23 PM
+155,11,3,187,0020900903,MISS Walker Free Throw 1 of 2,,7:24,2,4,0,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:23 PM
+156,1,4,188,0020900903,KNICKS Rebound,,7:24,2,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,8:23 PM
+157,0,8,189,0020900903,,,7:24,2,5,5,0,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Stuckey FOR Daye,8:23 PM
+158,12,3,190,0020900903,Walker Free Throw 2 of 2 (7 PTS),,7:24,2,4,0,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,41 - 45,4,,8:24 PM
+159,1,2,192,0020900903,,,7:10,2,5,0,0,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Bynum 20' Jump Shot,8:24 PM
+160,0,4,193,0020900903,House REBOUND (Off:0 Def:1),,7:10,2,4,0,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:24 PM
+161,1,6,194,0020900903,,,7:06,2,5,4,1,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Bynum P.FOUL (P1.T4),8:24 PM
+162,0,8,195,0020900903,,,7:06,2,5,5,0,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Prince FOR Gordon,8:24 PM
+163,1,1,196,0020900903,Gallinari 23' Jump Shot (9 PTS) (McGrady 2 AST),,6:54,2,4,4,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,41 - 47,6,,8:25 PM
+164,1,2,197,0020900903,,,6:38,2,5,0,0,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Villanueva 11' Jump Shot,8:25 PM
+165,0,4,198,0020900903,Harrington REBOUND (Off:1 Def:2),,6:37,2,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:25 PM
+166,1,1,199,0020900903,McGrady 23' Jump Shot (9 PTS),,6:28,2,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,41 - 49,8,,8:25 PM
+167,7,2,200,0020900903,,,6:15,2,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Prince  Dunk,8:25 PM
+168,0,4,201,0020900903,,,6:13,2,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Stuckey REBOUND (Off:1 Def:0),8:25 PM
+169,1,2,202,0020900903,,,6:09,2,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stuckey 6' Jump Shot,8:25 PM
+170,0,4,203,0020900903,Walker REBOUND (Off:0 Def:1),,6:07,2,4,0,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:25 PM
+171,1,1,204,0020900903,McGrady 27' 3PT Jump Shot (12 PTS),,6:01,2,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,41 - 52,11,,8:26 PM
+172,1,9,205,0020900903,,,5:54,2,3,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Timeout: Regular (Reg.2 Short 0),8:26 PM
+173,0,8,208,0020900903,,,5:54,2,5,5,0,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Maxiell FOR Villanueva,8:28 PM
+174,4,6,209,0020900903,,,5:46,2,5,4,1,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Prince OFF.Foul (P1),8:29 PM
+175,5,5,210,0020900903,,,5:46,2,5,0,1,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Prince Foul Turnover (P2.T4),8:29 PM
+176,1,6,211,0020900903,,,5:37,2,5,4,1,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Bynum P.FOUL (P2.PN),8:29 PM
+177,11,3,212,0020900903,House Free Throw 1 of 2 (5 PTS),,5:37,2,4,0,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,41 - 53,12,,8:29 PM
+178,12,3,214,0020900903,House Free Throw 2 of 2 (6 PTS),,5:37,2,4,0,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,41 - 54,13,,8:29 PM
+179,5,1,216,0020900903,,,5:26,2,5,5,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,43 - 54,11,Stuckey  Layup (6 PTS) (Bynum 3 AST),8:30 PM
+180,1,2,217,0020900903,MISS McGrady 23' Jump Shot,,5:06,2,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:30 PM
+181,0,4,218,0020900903,Harrington REBOUND (Off:2 Def:2),,5:06,2,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:30 PM
+182,63,1,219,0020900903,Harrington 6' Fadeaway Jumper (10 PTS),,5:04,2,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,43 - 56,13,,8:30 PM
+183,1,2,220,0020900903,,,4:51,2,5,0,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Hamilton 25' 3PT Jump Shot,8:31 PM
+184,0,4,221,0020900903,Harrington REBOUND (Off:2 Def:3),,4:51,2,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:31 PM
+185,5,2,222,0020900903,MISS Walker  Layup,,4:44,2,4,0,5,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,,,Prince BLOCK (2 BLK),8:31 PM
+186,0,4,223,0020900903,Walker REBOUND (Off:1 Def:1),,4:42,2,4,0,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:31 PM
+187,2,6,224,0020900903,,,4:42,2,5,4,1,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Prince S.FOUL (P2.PN),8:31 PM
+188,11,3,225,0020900903,MISS Walker Free Throw 1 of 2,,4:42,2,4,0,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:31 PM
+189,1,4,226,0020900903,KNICKS Rebound,,4:42,2,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,8:31 PM
+190,12,3,227,0020900903,Walker Free Throw 2 of 2 (8 PTS),,4:42,2,4,0,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,43 - 57,14,,8:31 PM
+191,1,2,229,0020900903,,,4:19,2,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Prince 13' Jump Shot,8:32 PM
+192,0,4,230,0020900903,Harrington REBOUND (Off:2 Def:4),,4:18,2,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:32 PM
+193,8,1,231,0020900903,Walker  Slam Dunk (10 PTS) (Harrington 2 AST),,4:00,2,4,4,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,43 - 59,16,,8:32 PM
+194,1,2,232,0020900903,,,3:44,2,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Maxiell 4' Jump Shot,8:32 PM
+195,0,4,233,0020900903,McGrady REBOUND (Off:0 Def:2),,3:44,2,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:32 PM
+196,1,2,234,0020900903,MISS Harrington 20' Jump Shot,,3:34,2,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:33 PM
+197,0,4,235,0020900903,,,3:33,2,5,0,0,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Bynum REBOUND (Off:0 Def:1),8:33 PM
+198,2,6,236,0020900903,House S.FOUL (P2.PN),,3:20,2,4,5,1,2067,Eddie House,NYK,New York,1610612752.0,Knicks,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,8:33 PM
+199,0,8,237,0020900903,,,3:20,2,5,5,0,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Jerebko FOR Bynum,8:33 PM
+200,0,8,238,0020900903,SUB: Lee FOR House,,3:20,2,4,4,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:33 PM
+201,11,3,239,0020900903,,,3:20,2,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stuckey Free Throw 1 of 2,8:33 PM
+202,1,4,240,0020900903,,,3:20,2,3,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,8:33 PM
+203,12,3,241,0020900903,,,3:20,2,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,44 - 59,15,Stuckey Free Throw 2 of 2 (7 PTS),8:33 PM
+204,5,2,243,0020900903,MISS McGrady  Layup,,3:11,2,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:34 PM
+205,0,4,244,0020900903,,,3:10,2,5,0,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Hamilton REBOUND (Off:0 Def:5),8:34 PM
+206,88,1,245,0020900903,,,3:03,2,5,5,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,46 - 59,13,Prince  Driving Slam Dunk (4 PTS) (Stuckey 3 AST),8:34 PM
+207,1,2,246,0020900903,MISS Gallinari 25' 3PT Jump Shot,,2:45,2,4,0,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:34 PM
+208,0,4,247,0020900903,,,2:45,2,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Jerebko REBOUND (Off:1 Def:3),8:34 PM
+209,1,1,248,0020900903,,,2:29,2,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,48 - 59,11,Stuckey 16' Jump Shot (9 PTS),8:35 PM
+210,1,1,249,0020900903,McGrady 17' Jump Shot (14 PTS) (Harrington 3 AST),,2:09,2,4,4,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,48 - 61,13,,8:35 PM
+211,1,1,250,0020900903,,,1:42,2,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,50 - 61,11,Prince 17' Jump Shot (6 PTS),8:35 PM
+212,2,5,251,0020900903,McGrady Lost Ball Turnover (P2.T3),,1:27,2,4,5,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Hamilton STEAL (1 STL),8:36 PM
+213,52,1,252,0020900903,,,1:23,2,5,5,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,52 - 61,9,Prince  Alley Oop Dunk (8 PTS) (Stuckey 4 AST),8:36 PM
+214,2,9,253,0020900903,KNICKS Timeout: Short (Full 2 Short 1),,1:21,2,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,8:36 PM
+215,4,9,254,0020900903,,,1:21,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:36 PM
+216,0,8,257,0020900903,SUB: House FOR Walker,,1:21,2,4,4,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:39 PM
+217,17,6,258,0020900903,,,1:09,2,5,0,1,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Pistons T.Foul (Def. 3 Sec Prince ),8:39 PM
+218,16,3,259,0020900903,House Free Throw Technical (7 PTS),,1:09,2,4,0,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,52 - 62,10,,8:39 PM
+219,2,6,261,0020900903,,,1:03,2,5,4,1,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Maxiell S.FOUL (P2.PN),8:40 PM
+220,11,3,262,0020900903,McGrady Free Throw 1 of 2 (15 PTS),,1:03,2,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,52 - 63,11,,8:40 PM
+221,12,3,264,0020900903,McGrady Free Throw 2 of 2 (16 PTS),,1:03,2,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,52 - 64,12,,8:40 PM
+222,2,6,266,0020900903,Harrington S.FOUL (P1.PN),,0:55,2,4,5,1,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,8:40 PM
+223,11,3,267,0020900903,,,0:55,2,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,53 - 64,11,Jerebko Free Throw 1 of 2 (6 PTS),8:41 PM
+224,12,3,269,0020900903,,,0:55,2,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Jerebko Free Throw 2 of 2,8:41 PM
+225,0,4,271,0020900903,Harrington REBOUND (Off:2 Def:5),,0:54,2,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:41 PM
+226,1,1,272,0020900903,Harrington 25' 3PT Jump Shot (13 PTS) (McGrady 3 AST),,0:35,2,4,4,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,53 - 67,14,,8:41 PM
+227,1,2,273,0020900903,,,0:28,2,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stuckey 4' Jump Shot,8:42 PM
+228,0,4,274,0020900903,,,0:25,2,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Maxiell REBOUND (Off:2 Def:2),8:42 PM
+229,5,1,275,0020900903,,,0:25,2,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,55 - 67,12,Maxiell  Layup (4 PTS),8:42 PM
+230,1,2,276,0020900903,MISS McGrady 20' Jump Shot,,0:00,2,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,8:42 PM
+231,0,4,277,0020900903,,,0:00,2,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Maxiell REBOUND (Off:2 Def:3),8:42 PM
+232,0,13,278,0020900903,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,55 - 67,12,,8:42 PM
+233,0,12,280,0020900903,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,55 - 67,12,,9:00 PM
+234,1,2,281,0020900903,MISS Harrington 15' Jump Shot,,11:35,3,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:00 PM
+235,0,4,282,0020900903,,,11:35,3,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Jerebko REBOUND (Off:1 Def:4),9:00 PM
+236,1,2,283,0020900903,,,11:08,3,5,0,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Hamilton 26' 3PT Jump Shot,9:00 PM
+237,0,4,284,0020900903,McGrady REBOUND (Off:0 Def:3),,11:08,3,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:01 PM
+238,5,1,285,0020900903,Harrington  Layup (15 PTS) (McGrady 4 AST),,11:06,3,4,4,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,55 - 69,14,,9:01 PM
+239,1,1,286,0020900903,,,10:42,3,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,57 - 69,12,Maxiell 12' Jump Shot (6 PTS),9:01 PM
+240,1,1,287,0020900903,Lee 19' Jump Shot (10 PTS) (Walker 1 AST),,10:24,3,4,4,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,57 - 71,14,,9:01 PM
+241,1,5,288,0020900903,Gallinari STEAL (1 STL),,10:08,3,5,4,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Hamilton Bad Pass Turnover (P1.T5),9:02 PM
+242,5,2,289,0020900903,MISS Harrington  Layup,,10:04,3,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:02 PM
+243,0,4,290,0020900903,,,10:03,3,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Jerebko REBOUND (Off:1 Def:5),9:02 PM
+244,42,1,291,0020900903,,,9:58,3,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,59 - 71,12,Stuckey  Driving Layup (11 PTS),9:02 PM
+245,1,2,292,0020900903,MISS Gallinari 5' Jump Shot,,9:37,3,4,0,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:02 PM
+246,0,4,293,0020900903,,,9:35,3,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Jerebko REBOUND (Off:1 Def:6),9:02 PM
+247,2,5,294,0020900903,McGrady STEAL (2 STL),,9:26,3,5,4,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Maxiell Lost Ball Turnover (P1.T6),9:02 PM
+248,1,2,295,0020900903,MISS Harrington 7' Jump Shot,,9:17,3,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:02 PM
+249,0,4,296,0020900903,,,9:17,3,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Jerebko REBOUND (Off:1 Def:7),9:02 PM
+250,1,1,297,0020900903,,,9:00,3,5,5,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,62 - 71,9,Jerebko 26' 3PT Jump Shot (9 PTS) (Hamilton 1 AST),9:03 PM
+251,1,2,298,0020900903,MISS Gallinari 21' Jump Shot,,8:43,3,4,0,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:03 PM
+252,0,4,299,0020900903,,,8:43,3,3,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,9:03 PM
+253,3,6,300,0020900903,Lee L.B.FOUL (P2.T1),,8:43,3,4,5,1,101135,David Lee,NYK,New York,1610612752.0,Knicks,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,9:03 PM
+254,0,8,301,0020900903,,,8:43,3,5,5,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Gordon FOR Hamilton,9:03 PM
+255,2,5,302,0020900903,Lee STEAL (2 STL),,8:27,3,5,4,0,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Gordon Lost Ball Turnover (P1.T7),9:04 PM
+256,1,1,303,0020900903,Harrington 24' 3PT Jump Shot (18 PTS) (Gallinari 3 AST),,8:16,3,4,4,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,62 - 74,12,,9:04 PM
+257,1,2,304,0020900903,,,8:01,3,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Maxiell 15' Jump Shot,9:04 PM
+258,0,4,305,0020900903,McGrady REBOUND (Off:0 Def:4),,8:01,3,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:04 PM
+259,1,2,306,0020900903,MISS McGrady 23' Jump Shot,,7:51,3,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:04 PM
+260,0,4,307,0020900903,,,7:50,3,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Stuckey REBOUND (Off:1 Def:1),9:04 PM
+261,42,1,308,0020900903,,,7:44,3,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,64 - 74,10,Stuckey  Driving Layup (13 PTS),9:04 PM
+262,42,1,309,0020900903,Walker  Driving Layup (12 PTS) (McGrady 5 AST),,7:34,3,4,4,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,64 - 76,12,,9:04 PM
+263,2,6,310,0020900903,,,7:34,3,5,4,1,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Stuckey S.FOUL (P2.T1),9:04 PM
+264,10,3,311,0020900903,Walker Free Throw 1 of 1 (13 PTS),,7:34,3,4,0,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,64 - 77,13,,9:05 PM
+265,2,6,313,0020900903,Walker S.FOUL (P4.T2),,7:13,3,4,5,1,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,9:05 PM
+266,11,6,314,0020900903,Walker T.FOUL (P4.T2),,7:13,3,4,0,1,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:06 PM
+267,16,3,315,0020900903,,,7:13,3,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,65 - 77,12,Stuckey Free Throw Technical (14 PTS),9:06 PM
+268,11,3,317,0020900903,,,7:13,3,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,66 - 77,11,Prince Free Throw 1 of 2 (9 PTS),9:06 PM
+269,0,8,319,0020900903,SUB: House FOR Walker,,7:13,3,4,4,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:06 PM
+270,12,3,320,0020900903,,,7:13,3,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Prince Free Throw 2 of 2,9:06 PM
+271,0,4,322,0020900903,Lee REBOUND (Off:2 Def:8),,7:12,3,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:07 PM
+272,5,2,323,0020900903,MISS Gallinari  Layup,,6:56,3,4,0,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:07 PM
+273,0,4,324,0020900903,,,6:54,3,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Prince REBOUND (Off:1 Def:2),9:07 PM
+274,1,2,325,0020900903,,,6:47,3,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Jerebko 15' Jump Shot,9:07 PM
+275,0,4,326,0020900903,,,6:45,3,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Prince REBOUND (Off:2 Def:2),9:07 PM
+276,8,1,327,0020900903,,,6:31,3,5,5,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,0,,,,,,68 - 77,9,Maxiell  Slam Dunk (8 PTS) (Gordon 2 AST),9:07 PM
+277,4,6,328,0020900903,Harrington OFF.Foul (P2),,6:18,3,4,5,1,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,9:08 PM
+278,5,5,329,0020900903,Harrington Foul Turnover (P1.T4),,6:18,3,4,0,1,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:08 PM
+279,1,2,330,0020900903,,,5:57,3,5,0,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stuckey 22' Jump Shot,9:08 PM
+280,0,4,331,0020900903,Lee REBOUND (Off:2 Def:9),,5:57,3,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:08 PM
+281,1,6,332,0020900903,,,5:49,3,5,4,1,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Stuckey P.FOUL (P3.T2),9:08 PM
+282,1,9,333,0020900903,KNICKS Timeout: Regular (Full 3 Short 1),,5:49,3,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,9:09 PM
+283,47,1,337,0020900903,Harrington 13' Turnaround Jump Shot (20 PTS),,5:32,3,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,68 - 79,11,,9:11 PM
+284,1,2,338,0020900903,,,5:08,3,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Prince  3PT Jump Shot,9:12 PM
+285,0,4,339,0020900903,,,5:08,3,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Jerebko REBOUND (Off:2 Def:7),9:12 PM
+286,1,1,340,0020900903,,,5:03,3,5,5,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,71 - 79,8,Prince 24' 3PT Jump Shot (12 PTS) (Stuckey 5 AST),9:12 PM
+287,2,6,343,0020900903,,,4:48,3,5,4,1,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Stuckey S.FOUL (P4.T3),9:12 PM
+288,11,3,344,0020900903,MISS McGrady Free Throw 1 of 2,,4:48,3,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:12 PM
+289,1,4,345,0020900903,KNICKS Rebound,,4:48,3,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,9:12 PM
+290,12,3,346,0020900903,McGrady Free Throw 2 of 2 (17 PTS),,4:48,3,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,71 - 80,9,,9:12 PM
+291,1,2,348,0020900903,,,4:26,3,5,0,0,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Gordon 7' Jump Shot,9:14 PM
+292,0,4,349,0020900903,McGrady REBOUND (Off:0 Def:5),,4:24,3,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:14 PM
+293,2,5,350,0020900903,McGrady Lost Ball Turnover (P3.T5),,4:20,3,4,5,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Stuckey STEAL (1 STL),9:14 PM
+294,42,1,351,0020900903,,,4:15,3,5,5,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,73 - 80,7,Stuckey  Driving Layup (16 PTS) (Prince 1 AST),9:14 PM
+295,1,6,352,0020900903,,,4:02,3,5,4,1,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Stuckey P.FOUL (P5.T4),9:14 PM
+296,0,8,353,0020900903,,,4:02,3,5,5,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Bynum FOR Stuckey,9:14 PM
+297,5,2,354,0020900903,MISS Lee  Layup,,3:55,3,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:14 PM
+298,0,4,355,0020900903,Gallinari REBOUND (Off:2 Def:2),,3:52,3,4,0,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:15 PM
+299,1,2,356,0020900903,MISS House 7' Jump Shot,,3:51,3,4,0,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:15 PM
+300,0,4,357,0020900903,,,3:51,3,3,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,9:15 PM
+301,1,2,358,0020900903,,,3:28,3,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Prince 19' Jump Shot,9:15 PM
+302,0,4,360,0020900903,,,3:25,3,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Maxiell REBOUND (Off:3 Def:3),9:15 PM
+303,92,1,359,0020900903,,,3:25,3,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,75 - 80,5,Maxiell  Putback Slam Dunk (10 PTS),9:15 PM
+304,1,1,361,0020900903,Gallinari 25' 3PT Jump Shot (12 PTS) (McGrady 6 AST),,3:13,3,4,4,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,75 - 83,8,,9:15 PM
+305,2,6,362,0020900903,Lee S.FOUL (P3.T3),,2:56,3,4,5,1,101135,David Lee,NYK,New York,1610612752.0,Knicks,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,9:16 PM
+306,1,9,363,0020900903,,,2:56,3,3,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Timeout: Regular (Reg.3 Short 0),9:16 PM
+307,0,8,365,0020900903,SUB: Rodriguez FOR Harrington,,2:56,3,4,4,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:18 PM
+308,0,8,366,0020900903,SUB: Walker FOR McGrady,,2:56,3,4,4,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:18 PM
+309,11,3,368,0020900903,,,2:56,3,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Jerebko Free Throw 1 of 2,9:18 PM
+310,1,4,369,0020900903,,,2:56,3,3,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,9:18 PM
+311,12,3,370,0020900903,,,2:56,3,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,76 - 83,7,Jerebko Free Throw 2 of 2 (10 PTS),9:19 PM
+312,1,1,372,0020900903,House 25' 3PT Jump Shot (10 PTS) (Walker 2 AST),,2:30,3,4,4,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,76 - 86,10,,9:19 PM
+313,49,1,373,0020900903,,,2:11,3,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,78 - 86,8,Prince  Driving Dunk (14 PTS),9:20 PM
+314,43,1,374,0020900903,Rodriguez  Alley Oop Layup (6 PTS) (Lee 5 AST),,2:01,3,4,4,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,78 - 88,10,,9:20 PM
+315,1,2,375,0020900903,,,1:34,3,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Maxiell 4' Jump Shot,9:20 PM
+316,0,4,376,0020900903,Lee REBOUND (Off:2 Def:10),,1:34,3,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:20 PM
+317,1,6,377,0020900903,,,1:34,3,5,4,1,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Jerebko P.FOUL (P3.PN),9:20 PM
+318,11,3,378,0020900903,Lee Free Throw 1 of 2 (11 PTS),,1:34,3,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,78 - 89,11,,9:21 PM
+319,12,3,380,0020900903,Lee Free Throw 2 of 2 (12 PTS),,1:34,3,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,78 - 90,12,,9:21 PM
+320,1,1,382,0020900903,,,1:13,3,5,0,0,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,80 - 90,10,Bynum 22' Jump Shot (9 PTS),9:22 PM
+321,1,1,383,0020900903,House 20' Jump Shot (12 PTS),,1:01,3,4,0,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,80 - 92,12,,9:22 PM
+322,1,1,384,0020900903,,,0:47,3,5,0,0,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,83 - 92,9,Gordon 26' 3PT Jump Shot (7 PTS),9:22 PM
+323,1,5,385,0020900903,Rodriguez Bad Pass Turnover (P2.T6),,0:28,3,4,5,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Bynum STEAL (1 STL),9:22 PM
+324,5,2,386,0020900903,,,0:22,3,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Prince  Layup,9:23 PM
+325,0,4,388,0020900903,,,0:21,3,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Prince REBOUND (Off:3 Def:2),9:23 PM
+326,4,2,387,0020900903,,,0:21,3,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Prince  Tip Shot,9:23 PM
+327,0,4,390,0020900903,,,0:20,3,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Jerebko REBOUND (Off:3 Def:7),9:23 PM
+328,4,1,389,0020900903,,,0:20,3,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,85 - 92,7,Jerebko  Tip Shot (12 PTS),9:23 PM
+329,1,1,391,0020900903,Lee 14' Jump Shot (14 PTS) (Walker 3 AST),,0:00,3,4,4,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,85 - 94,9,,9:23 PM
+330,0,13,392,0020900903,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,85 - 94,9,,9:23 PM
+331,0,12,394,0020900903,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,85 - 94,9,,9:26 PM
+332,1,2,395,0020900903,,,11:39,4,5,0,0,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Gordon 12' Jump Shot,9:27 PM
+333,0,4,396,0020900903,Rodriguez REBOUND (Off:1 Def:2),,11:35,4,4,0,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:27 PM
+334,1,1,397,0020900903,Lee 21' Jump Shot (16 PTS) (Rodriguez 2 AST),,11:19,4,4,4,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,85 - 96,11,,9:27 PM
+335,1,2,398,0020900903,,,11:00,4,5,0,0,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Villanueva 14' Jump Shot,9:27 PM
+336,0,4,399,0020900903,Lee REBOUND (Off:2 Def:11),,10:58,4,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:27 PM
+337,1,2,400,0020900903,MISS Rodriguez 25' 3PT Jump Shot,,10:36,4,4,0,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:28 PM
+338,0,4,401,0020900903,,,10:36,4,5,0,0,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Bynum REBOUND (Off:0 Def:2),9:28 PM
+339,4,5,402,0020900903,,,10:32,4,5,0,1,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Gordon Traveling Turnover (P2.T8),9:28 PM
+340,8,1,403,0020900903,Lee  Slam Dunk (18 PTS) (House 2 AST),,10:14,4,4,4,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,85 - 98,13,,9:28 PM
+341,1,9,404,0020900903,,,10:13,4,3,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Timeout: Regular (Reg.4 Short 0),9:28 PM
+342,1,2,408,0020900903,,,9:58,4,5,0,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Hamilton 22' Jump Shot,9:31 PM
+343,0,4,409,0020900903,Rodriguez REBOUND (Off:1 Def:3),,9:58,4,4,0,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:31 PM
+344,8,1,410,0020900903,Walker  Slam Dunk (15 PTS) (Rodriguez 3 AST),,9:46,4,4,4,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,85 - 100,15,,9:31 PM
+345,5,1,411,0020900903,,,9:34,4,5,5,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,87 - 100,13,Jerebko  Layup (14 PTS) (Bynum 4 AST),9:31 PM
+346,2,6,412,0020900903,Rodriguez S.FOUL (P2.T1),,9:34,4,4,5,1,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,9:31 PM
+347,10,3,413,0020900903,,,9:34,4,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,88 - 100,12,Jerebko Free Throw 1 of 1 (15 PTS),9:32 PM
+348,1,2,415,0020900903,MISS Rodriguez 25' 3PT Jump Shot,,9:20,4,4,0,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:32 PM
+349,0,4,416,0020900903,,,9:19,4,5,0,0,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Villanueva REBOUND (Off:1 Def:1),9:32 PM
+350,1,1,417,0020900903,,,9:07,4,5,5,0,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,91 - 100,9,Gordon 24' 3PT Jump Shot (10 PTS) (Hamilton 2 AST),9:32 PM
+351,2,6,418,0020900903,,,8:49,4,5,4,1,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Villanueva S.FOUL (P2.T1),9:33 PM
+352,11,3,419,0020900903,Lee Free Throw 1 of 2 (19 PTS),,8:49,4,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,91 - 101,10,,9:33 PM
+353,0,8,421,0020900903,SUB: McGrady FOR Rodriguez,,8:49,4,4,4,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:33 PM
+354,0,8,422,0020900903,SUB: Harrington FOR Gallinari,,8:49,4,4,4,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:33 PM
+355,12,3,423,0020900903,MISS Lee Free Throw 2 of 2,,8:49,4,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:33 PM
+356,0,4,425,0020900903,,,8:48,4,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Jerebko REBOUND (Off:3 Def:8),9:34 PM
+357,1,2,426,0020900903,,,8:32,4,5,0,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Hamilton  3PT Jump Shot,9:34 PM
+358,0,4,427,0020900903,Harrington REBOUND (Off:2 Def:6),,8:31,4,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:34 PM
+359,49,1,428,0020900903,Walker  Driving Dunk (17 PTS) (Lee 6 AST),,8:19,4,4,4,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,91 - 103,12,,9:34 PM
+360,2,6,429,0020900903,,,8:19,4,5,4,1,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Villanueva S.FOUL (P3.T2),9:34 PM
+361,10,3,430,0020900903,Walker Free Throw 1 of 1 (18 PTS),,8:19,4,4,0,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,91 - 104,13,,9:34 PM
+362,1,6,432,0020900903,Harrington P.FOUL (P3.T2),,8:12,4,4,5,1,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,9:35 PM
+363,1,2,433,0020900903,,,8:05,4,5,0,0,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Bynum 19' Jump Shot,9:35 PM
+364,0,4,434,0020900903,Lee REBOUND (Off:2 Def:12),,8:05,4,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:35 PM
+365,1,6,435,0020900903,,,7:44,4,5,4,1,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Villanueva P.FOUL (P4.T3),9:36 PM
+366,75,1,436,0020900903,McGrady  Driving Finger Roll Layup (19 PTS),,7:31,4,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,91 - 106,15,,9:36 PM
+367,4,5,437,0020900903,,,7:29,4,5,0,1,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Bynum Traveling Turnover (P1.T9),9:37 PM
+368,1,2,438,0020900903,MISS McGrady 20' Jump Shot,,7:21,4,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:37 PM
+369,0,4,439,0020900903,,,7:20,4,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Jerebko REBOUND (Off:3 Def:9),9:37 PM
+370,5,2,440,0020900903,Lee BLOCK (1 BLK),,7:11,4,5,0,4,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,101135,David Lee,NYK,New York,1610612752.0,Knicks,,,MISS Bynum  Layup,9:37 PM
+371,0,4,441,0020900903,Lee REBOUND (Off:2 Def:13),,7:09,4,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:37 PM
+372,1,1,442,0020900903,House 26' 3PT Jump Shot (15 PTS),,7:04,4,4,0,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,91 - 109,18,,9:37 PM
+373,47,1,443,0020900903,,,6:44,4,5,0,0,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,93 - 109,16,Villanueva 12' Turnaround Jump Shot (5 PTS),9:38 PM
+374,1,1,444,0020900903,Harrington 26' 3PT Jump Shot (23 PTS) (McGrady 7 AST),,6:27,4,4,4,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,93 - 112,19,,9:38 PM
+375,1,2,445,0020900903,,,6:11,4,5,0,0,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Villanueva 11' Jump Shot,9:38 PM
+376,0,4,446,0020900903,Lee REBOUND (Off:2 Def:14),,6:11,4,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:38 PM
+377,5,1,447,0020900903,Walker  Layup (20 PTS),,6:04,4,4,0,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,93 - 114,21,,9:38 PM
+378,1,9,448,0020900903,,,6:03,4,3,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Timeout: Regular (Reg.5 Short 0),9:38 PM
+379,0,8,451,0020900903,,,6:03,4,5,5,0,2732,Ben Gordon,DET,Detroit,1610612765.0,Pistons,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Prince FOR Gordon,9:41 PM
+380,0,8,452,0020900903,,,6:03,4,5,5,0,101111,Charlie Villanueva,DET,Detroit,1610612765.0,Pistons,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Maxiell FOR Villanueva,9:41 PM
+381,0,8,453,0020900903,,,6:03,4,5,5,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Stuckey FOR Jerebko,9:41 PM
+382,1,1,454,0020900903,,,5:50,4,5,5,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,95 - 114,19,Prince 23' Jump Shot (16 PTS) (Stuckey 6 AST),9:41 PM
+383,5,2,455,0020900903,MISS Walker  Layup,,5:24,4,4,0,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:42 PM
+384,0,4,456,0020900903,,,5:23,4,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Maxiell REBOUND (Off:3 Def:4),9:42 PM
+385,1,6,457,0020900903,McGrady P.FOUL (P3.T3),,5:17,4,4,5,1,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,9:42 PM
+386,1,2,458,0020900903,McGrady BLOCK (1 BLK),,5:02,4,5,0,4,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,0,,,,,,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,,,MISS Stuckey 13' Jump Shot,9:42 PM
+387,0,4,459,0020900903,McGrady REBOUND (Off:0 Def:6),,5:00,4,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:42 PM
+388,1,1,460,0020900903,Harrington 27' 3PT Jump Shot (26 PTS) (McGrady 8 AST),,4:43,4,4,4,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,95 - 117,22,,9:43 PM
+389,1,1,461,0020900903,,,4:28,4,5,0,0,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,97 - 117,20,Bynum 20' Jump Shot (11 PTS),9:43 PM
+390,1,1,462,0020900903,McGrady 22' Jump Shot (21 PTS),,4:05,4,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,97 - 119,22,,9:43 PM
+391,1,2,463,0020900903,,,3:46,4,5,0,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Prince 14' Jump Shot,9:44 PM
+392,0,4,464,0020900903,,,3:45,4,5,0,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Maxiell REBOUND (Off:4 Def:4),9:44 PM
+393,2,5,465,0020900903,McGrady STEAL (3 STL),,3:43,4,5,4,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Maxiell Lost Ball Turnover (P2.T10),9:44 PM
+394,40,5,466,0020900903,Harrington Out of Bounds Lost Ball Turnover (P2.T7),,3:40,4,4,0,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:44 PM
+395,0,8,467,0020900903,,,3:40,4,5,5,0,2419,Tayshaun Prince,DET,Detroit,1610612765.0,Pistons,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Daye FOR Prince,9:44 PM
+396,0,8,468,0020900903,,,3:40,4,5,5,0,101131,Jason Maxiell,DET,Detroit,1610612765.0,Pistons,201969,DaJuan Summers,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Summers FOR Maxiell,9:44 PM
+397,0,8,469,0020900903,,,3:40,4,5,5,0,1888,Richard Hamilton,DET,Detroit,1610612765.0,Pistons,2198,Kwame Brown,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Brown FOR Hamilton,9:44 PM
+398,0,8,470,0020900903,,,3:40,4,5,5,0,201155,Rodney Stuckey,DET,Detroit,1610612765.0,Pistons,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Jerebko FOR Stuckey,9:44 PM
+399,0,8,471,0020900903,,,3:40,4,5,5,0,101198,Will Bynum,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Atkins FOR Bynum,9:44 PM
+400,1,2,472,0020900903,,,3:28,4,5,0,0,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Daye 15' Jump Shot,9:44 PM
+401,0,4,473,0020900903,Lee REBOUND (Off:2 Def:15),,3:27,4,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:44 PM
+402,1,1,474,0020900903,House 17' Jump Shot (17 PTS),,3:05,4,4,0,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,97 - 121,24,,9:45 PM
+403,5,2,475,0020900903,,,2:55,4,5,0,0,201969,DaJuan Summers,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Summers  Layup,9:45 PM
+404,0,4,477,0020900903,,,2:52,4,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Jerebko REBOUND (Off:4 Def:9),9:45 PM
+405,5,2,476,0020900903,,,2:52,4,5,0,0,201973,Jonas Jerebko,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Jerebko  Layup,9:45 PM
+406,0,4,478,0020900903,McGrady REBOUND (Off:0 Def:7),,2:51,4,4,0,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:45 PM
+407,1,9,479,0020900903,KNICKS Timeout: Regular (Full 4 Short 1),,2:49,4,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,9:45 PM
+408,0,8,482,0020900903,SUB: Rodriguez FOR Harrington,,2:49,4,4,4,0,1733,Al Harrington,NYK,New York,1610612752.0,Knicks,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:47 PM
+409,0,8,483,0020900903,SUB: Gallinari FOR McGrady,,2:49,4,4,4,0,1503,Tracy McGrady,NYK,New York,1610612752.0,Knicks,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:47 PM
+410,0,8,484,0020900903,SUB: Douglas FOR House,,2:49,4,4,4,0,2067,Eddie House,NYK,New York,1610612752.0,Knicks,201962,Toney Douglas,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:47 PM
+411,10,5,485,0020900903,KNICKS Turnover: 8 Second Violation (T#8),,2:46,4,2,0,1,1610612752,,,,,,0,,,,,,0,,,,,,,,,9:47 PM
+412,1,1,486,0020900903,,,2:33,4,5,5,0,2198,Kwame Brown,DET,Detroit,1610612765.0,Pistons,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,99 - 121,22,Brown 4' Jump Shot (2 PTS) (Daye 2 AST),9:48 PM
+413,1,1,487,0020900903,Lee 18' Jump Shot (21 PTS) (Gallinari 4 AST),,2:16,4,4,4,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,0,,,,,,99 - 123,24,,9:48 PM
+414,1,1,488,0020900903,,,2:06,4,5,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,101 - 123,22,Atkins 19' Jump Shot (2 PTS),9:48 PM
+415,1,2,489,0020900903,MISS Douglas 19' Jump Shot,,1:52,4,4,0,0,201962,Toney Douglas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:49 PM
+416,0,4,490,0020900903,,,1:51,4,5,0,0,201969,DaJuan Summers,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Summers REBOUND (Off:0 Def:1),9:49 PM
+417,4,6,491,0020900903,,,1:45,4,5,4,1,201969,DaJuan Summers,DET,Detroit,1610612765.0,Pistons,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Summers OFF.Foul (P1),9:49 PM
+418,5,5,492,0020900903,,,1:45,4,5,0,1,201969,DaJuan Summers,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Summers Foul Turnover (P1.T11),9:49 PM
+419,1,1,493,0020900903,Gallinari 25' 3PT Jump Shot (15 PTS) (Lee 7 AST),,1:28,4,4,4,0,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,101 - 126,25,,9:49 PM
+420,1,2,494,0020900903,,,1:13,4,5,0,0,201969,DaJuan Summers,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Summers 25' 3PT Jump Shot,9:49 PM
+421,0,4,495,0020900903,Lee REBOUND (Off:2 Def:16),,1:13,4,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:49 PM
+422,2,5,496,0020900903,Rodriguez Lost Ball Turnover (P3.T9),,1:01,4,4,5,0,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Atkins STEAL (1 STL),9:50 PM
+423,2,5,497,0020900903,Lee STEAL (3 STL),,0:57,4,5,4,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Atkins Lost Ball Turnover (P1.T12),9:50 PM
+424,89,1,498,0020900903,Walker  Reverse Slam Dunk (22 PTS) (Lee 8 AST),,0:53,4,4,4,0,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,101 - 128,27,,9:50 PM
+425,1,6,499,0020900903,Gallinari P.FOUL (P1.T4),,0:41,4,4,5,1,201568,Danilo Gallinari,NYK,New York,1610612752.0,Knicks,201969,DaJuan Summers,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,9:50 PM
+426,1,1,500,0020900903,,,0:34,4,5,5,0,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,103 - 128,25,Daye 14' Jump Shot (7 PTS) (Atkins 1 AST),9:51 PM
+427,2,6,501,0020900903,Walker S.FOUL (P5.PN),,0:34,4,4,5,1,201611,Henry Walker,NYK,New York,1610612752.0,Knicks,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,9:51 PM
+428,10,3,502,0020900903,,,0:34,4,5,0,0,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,104 - 128,24,Daye Free Throw 1 of 1 (8 PTS),9:51 PM
+429,1,2,504,0020900903,MISS Lee 24' 3PT Jump Shot,,0:13,4,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,9:51 PM
+430,0,4,505,0020900903,,,0:13,4,5,0,0,201969,DaJuan Summers,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Summers REBOUND (Off:0 Def:2),9:51 PM
+431,1,5,506,0020900903,Rodriguez STEAL (1 STL),,0:03,4,5,4,0,201948,Austin Daye,DET,Detroit,1610612765.0,Pistons,200771,Sergio Rodriguez,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Daye Bad Pass Turnover (P1.T13),9:52 PM
+432,0,13,507,0020900903,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,104 - 128,24,,9:52 PM

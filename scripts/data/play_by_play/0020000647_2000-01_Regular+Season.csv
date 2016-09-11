@@ -1,0 +1,465 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020000647,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:11 AM
+1,0,10,1,0020000647,Jump Ball Booth vs. DeClercq: Tip to Smith,,12:00,1,4,5,4,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,,,,11:11 AM
+2,1,2,2,0020000647,MISS Hamilton 14' Jump Shot,,11:39,1,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:12 AM
+3,0,4,3,0020000647,,,11:37,1,5,0,0,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,DeClercq REBOUND (Off:0 Def:1),11:12 AM
+4,1,1,4,0020000647,,,11:20,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,2 - 0,-2,McGrady 16' Jump Shot (2 PTS),11:12 AM
+5,1,1,5,0020000647,Booth 13' Jump Shot (2 PTS) (Hamilton 1 AST),,11:04,1,4,4,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,2 - 2,TIE,,11:13 AM
+6,1,2,6,0020000647,,,10:53,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 25' 3PT Jump Shot,11:13 AM
+7,0,4,7,0020000647,Booth REBOUND (Off:0 Def:1),,10:51,1,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:13 AM
+8,1,2,8,0020000647,MISS Smith 14' Jump Shot,,10:44,1,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:13 AM
+9,0,4,9,0020000647,,,10:42,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:0 Def:1),11:13 AM
+10,1,2,10,0020000647,,,10:25,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 17' Jump Shot,11:13 AM
+11,0,4,11,0020000647,Booth REBOUND (Off:0 Def:2),,10:24,1,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:13 AM
+12,1,1,12,0020000647,Hamilton 6' Jump Shot (2 PTS),,10:19,1,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,2 - 4,2,,11:13 AM
+13,2,6,13,0020000647,,,10:19,1,5,0,1,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,DeClercq S.FOUL (P1.T1),11:13 AM
+14,10,3,14,0020000647,MISS Hamilton Free Throw 1 of 1,,10:19,1,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:14 AM
+15,0,4,15,0020000647,,,10:18,1,5,0,0,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,DeClercq REBOUND (Off:0 Def:2),11:14 AM
+16,1,2,16,0020000647,,,10:10,1,5,0,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Miller 19' Jump Shot,11:14 AM
+17,0,4,17,0020000647,,,10:09,1,5,0,0,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,DeClercq REBOUND (Off:1 Def:2),11:14 AM
+18,5,1,18,0020000647,,,10:05,1,5,0,0,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,4 - 4,TIE,DeClercq 2' Layup (2 PTS),11:14 AM
+19,5,2,19,0020000647,MISS Booth 3' Layup,,9:56,1,4,0,5,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,,,Outlaw BLOCK (1 BLK),11:14 AM
+20,0,4,20,0020000647,,,9:53,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:0 Def:2),11:14 AM
+21,50,1,21,0020000647,,,9:50,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,6 - 4,-2,McGrady 1' Running Dunk (4 PTS),11:14 AM
+22,1,2,22,0020000647,MISS Howard 9' Jump Shot,,9:33,1,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:15 AM
+23,0,4,23,0020000647,Hamilton REBOUND (Off:1 Def:0),,9:31,1,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:15 AM
+24,0,10,24,0020000647,Jump Ball Booth vs. Outlaw: Tip to Hamilton,,9:24,1,4,5,4,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,,,,11:15 AM
+25,1,1,25,0020000647,Hamilton 10' Jump Shot (4 PTS),,9:19,1,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,6 - 6,TIE,,11:15 AM
+26,4,6,26,0020000647,,,9:11,1,5,0,1,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,DeClercq OFF.Foul (P2),11:16 AM
+27,5,5,27,0020000647,,,9:11,1,5,0,0,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,DeClercq Foul Turnover (P1.T1),11:16 AM
+28,0,8,28,0020000647,,,9:11,1,5,5,0,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Amaechi FOR DeClercq,11:16 AM
+29,1,1,29,0020000647,Howard 6' Jump Shot (2 PTS),,8:49,1,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,6 - 8,2,,11:16 AM
+30,1,2,30,0020000647,,,8:30,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 17' Jump Shot,11:17 AM
+31,0,4,31,0020000647,Booth REBOUND (Off:0 Def:3),,8:29,1,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:17 AM
+32,41,1,32,0020000647,Smith 1' Running Layup (2 PTS) (Hamilton 2 AST),,8:25,1,4,4,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,6 - 10,4,,11:17 AM
+33,1,1,33,0020000647,,,8:16,1,5,5,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,8 - 10,2,Amaechi 18' Jump Shot (2 PTS) (Armstrong 1 AST),11:17 AM
+34,2,9,34,0020000647,WIZARDS Timeout: Short (Full 0 Short 1),,8:11,1,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,11:17 AM
+35,1,2,36,0020000647,MISS Whitney 25' 3PT Jump Shot,,8:03,1,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:18 AM
+36,0,4,37,0020000647,,,8:01,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:0 Def:3),11:18 AM
+37,1,1,38,0020000647,,,7:46,1,5,5,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,11 - 10,-1,Armstrong 25' 3PT Jump Shot (3 PTS) (McGrady 1 AST),11:19 AM
+38,2,6,39,0020000647,,,7:23,1,5,0,1,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Miller S.FOUL (P1.T2),11:19 AM
+39,11,3,40,0020000647,MISS Booth Free Throw 1 of 2,,7:23,1,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:19 AM
+40,1,4,41,0020000647,WIZARDS Rebound,,7:23,1,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,11:19 AM
+41,12,3,42,0020000647,Booth Free Throw 2 of 2 (3 PTS),,7:23,1,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,11 - 11,TIE,,11:20 AM
+42,1,2,43,0020000647,,,7:02,1,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Amaechi 18' Jump Shot,11:20 AM
+43,0,4,44,0020000647,Whitney REBOUND (Off:0 Def:1),,7:00,1,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:20 AM
+44,1,2,45,0020000647,MISS Hamilton 18' Jump Shot,,6:52,1,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:20 AM
+45,0,4,46,0020000647,,,6:50,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:0 Def:4),11:20 AM
+46,2,6,47,0020000647,Booth S.FOUL (P1.T1),,6:41,1,4,0,1,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:21 AM
+47,11,3,48,0020000647,,,6:41,1,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Amaechi Free Throw 1 of 2,11:21 AM
+48,1,4,49,0020000647,,,6:41,1,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,11:21 AM
+49,12,3,50,0020000647,,,6:41,1,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,12 - 11,-1,Amaechi Free Throw 2 of 2 (3 PTS),11:21 AM
+50,1,2,51,0020000647,MISS Howard 9' Jump Shot,,6:23,1,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:21 AM
+51,0,4,52,0020000647,,,6:21,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:0 Def:5),11:22 AM
+52,2,6,53,0020000647,Whitney S.FOUL (P1.T2),,6:17,1,4,0,1,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:22 AM
+53,0,8,54,0020000647,SUB: Nesby FOR Smith,,6:17,1,4,4,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:22 AM
+54,13,3,55,0020000647,,,6:17,1,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,13 - 11,-2,Armstrong Free Throw 1 of 3 (4 PTS),11:22 AM
+55,14,3,56,0020000647,,,6:17,1,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,14 - 11,-3,Armstrong Free Throw 2 of 3 (5 PTS),11:22 AM
+56,15,3,57,0020000647,,,6:17,1,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,15 - 11,-4,Armstrong Free Throw 3 of 3 (6 PTS),11:22 AM
+57,46,1,58,0020000647,Hamilton 11' Running Jump Shot (6 PTS),,6:01,1,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,15 - 13,-2,,11:23 AM
+58,1,1,59,0020000647,,,5:46,1,5,5,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,17 - 13,-4,McGrady 18' Jump Shot (6 PTS) (Armstrong 2 AST),11:23 AM
+59,1,2,60,0020000647,MISS Hamilton 10' Jump Shot,,5:28,1,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:23 AM
+60,0,4,61,0020000647,Howard REBOUND (Off:1 Def:0),,5:26,1,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:23 AM
+61,1,2,62,0020000647,MISS Hamilton 12' Jump Shot,,5:22,1,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:23 AM
+62,0,4,63,0020000647,,,5:20,1,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Amaechi REBOUND (Off:0 Def:1),11:23 AM
+63,1,2,64,0020000647,,,5:15,1,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 13' Jump Shot,11:24 AM
+64,0,4,65,0020000647,WIZARDS Rebound,,5:14,1,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,11:24 AM
+65,1,6,66,0020000647,,,5:14,1,5,0,1,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw P.FOUL (P1.T3),11:24 AM
+66,1,9,67,0020000647,WIZARDS Timeout: Regular (Full 1 Short 1),,5:14,1,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,11:24 AM
+67,0,8,69,0020000647,SUB: White FOR Booth,,5:14,1,4,4,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:24 AM
+68,1,2,70,0020000647,MISS Howard 6' Jump Shot,,5:00,1,4,0,5,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,,,McGrady BLOCK (1 BLK),11:26 AM
+69,0,4,71,0020000647,White REBOUND (Off:1 Def:0),,4:56,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:26 AM
+70,8,1,72,0020000647,White 1' Slam Dunk (2 PTS),,4:55,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,17 - 15,-2,,11:26 AM
+71,1,6,73,0020000647,White P.FOUL (P1.T3),,4:48,1,4,0,1,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:26 AM
+72,0,8,74,0020000647,SUB: Richmond FOR Hamilton,,4:48,1,4,4,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:27 AM
+73,5,1,75,0020000647,,,4:37,1,5,5,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,19 - 15,-4,Amaechi 1' Layup (5 PTS) (Armstrong 3 AST),11:27 AM
+74,1,2,76,0020000647,MISS Richmond  3PT Jump Shot,,4:19,1,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:27 AM
+75,0,4,77,0020000647,,,4:17,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:0 Def:6),11:27 AM
+76,1,2,78,0020000647,,,4:05,1,5,0,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Miller 16' Jump Shot,11:27 AM
+77,0,4,79,0020000647,,,4:02,1,5,0,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:0),11:28 AM
+78,1,1,80,0020000647,,,4:01,1,5,0,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,21 - 15,-6,Miller 5' Jump Shot (2 PTS),11:28 AM
+79,1,2,81,0020000647,MISS Howard 7' Jump Shot,,3:46,1,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:28 AM
+80,0,4,82,0020000647,Howard REBOUND (Off:2 Def:0),,3:44,1,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:28 AM
+81,2,6,83,0020000647,,,3:44,1,5,0,1,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Amaechi S.FOUL (P1.T4),11:28 AM
+82,11,3,84,0020000647,Howard Free Throw 1 of 2 (3 PTS),,3:44,1,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,21 - 16,-5,,11:28 AM
+83,0,8,85,0020000647,,,3:44,1,5,5,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Hudson FOR Armstrong,11:28 AM
+84,12,3,86,0020000647,Howard Free Throw 2 of 2 (4 PTS),,3:44,1,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,21 - 17,-4,,11:28 AM
+85,5,1,87,0020000647,,,3:37,1,5,0,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,23 - 17,-6,Miller 1' Layup (4 PTS),11:29 AM
+86,2,6,88,0020000647,Howard S.FOUL (P1.T4),,3:37,1,4,0,1,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:29 AM
+87,10,3,89,0020000647,,,3:37,1,5,0,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Miller Free Throw 1 of 1,11:29 AM
+88,0,4,90,0020000647,White REBOUND (Off:1 Def:1),,3:36,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:29 AM
+89,1,2,91,0020000647,MISS Richmond 17' Jump Shot,,3:17,1,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:29 AM
+90,0,4,92,0020000647,White REBOUND (Off:2 Def:1),,3:14,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:30 AM
+91,1,2,93,0020000647,MISS Richmond 11' Jump Shot,,3:05,1,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:30 AM
+92,0,4,94,0020000647,,,3:02,1,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:0 Def:1),11:30 AM
+93,1,2,95,0020000647,Howard BLOCK (1 BLK),,2:57,1,5,0,4,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,,,MISS Hudson 13' Jump Shot,11:30 AM
+94,0,4,96,0020000647,,,2:55,1,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Amaechi REBOUND (Off:1 Def:1),11:30 AM
+95,5,2,97,0020000647,White BLOCK (1 BLK),,2:54,1,5,0,4,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,,,MISS Amaechi 1' Layup,11:30 AM
+96,0,4,98,0020000647,Whitney REBOUND (Off:0 Def:2),,2:51,1,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:30 AM
+97,1,1,99,0020000647,Nesby 8' Jump Shot (2 PTS) (Howard 1 AST),,2:41,1,4,4,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,23 - 19,-4,,11:30 AM
+98,1,6,100,0020000647,White P.FOUL (P2.PN),,2:28,1,4,0,1,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:30 AM
+99,1,9,101,0020000647,,,2:28,1,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.1 Short 0),11:30 AM
+100,0,8,103,0020000647,SUB: Strickland FOR Whitney,,2:28,1,4,4,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:31 AM
+101,0,8,106,0020000647,SUB: Jones FOR White,,2:28,1,4,4,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:32 AM
+102,11,3,107,0020000647,,,2:28,1,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,24 - 19,-5,Amaechi Free Throw 1 of 2 (6 PTS),11:33 AM
+103,12,3,108,0020000647,,,2:28,1,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,25 - 19,-6,Amaechi Free Throw 2 of 2 (7 PTS),11:33 AM
+104,56,1,109,0020000647,Howard 6' Running Hook Shot (6 PTS),,2:08,1,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,25 - 21,-4,,11:33 AM
+105,1,1,110,0020000647,,,1:56,1,5,5,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,28 - 21,-7,Miller 26' 3PT Jump Shot (7 PTS) (Hudson 1 AST),11:33 AM
+106,1,6,111,0020000647,,,1:43,1,5,0,1,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Miller P.FOUL (P2.PN),11:34 AM
+107,0,8,112,0020000647,,,1:43,1,5,5,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Williams FOR McGrady,11:34 AM
+108,11,3,113,0020000647,Richmond Free Throw 1 of 2 (1 PTS),,1:43,1,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,28 - 22,-6,,11:34 AM
+109,0,8,114,0020000647,,,1:43,1,5,5,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Garrity FOR Outlaw,11:34 AM
+110,12,3,115,0020000647,Richmond Free Throw 2 of 2 (2 PTS),,1:43,1,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,28 - 23,-5,,11:34 AM
+111,4,6,116,0020000647,,,1:30,1,5,0,1,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Amaechi OFF.Foul (P2),11:35 AM
+112,5,5,117,0020000647,,,1:30,1,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Amaechi Foul Turnover (P1.T2),11:35 AM
+113,0,8,118,0020000647,,,1:30,1,5,5,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Outlaw FOR Miller,11:35 AM
+114,1,2,119,0020000647,MISS Howard 6' Jump Shot,,1:15,1,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:36 AM
+115,0,4,120,0020000647,Jones REBOUND (Off:1 Def:0),,1:14,1,4,0,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:36 AM
+116,4,1,121,0020000647,Jones 1' Tip Shot (2 PTS),,1:12,1,4,0,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,28 - 25,-3,,11:36 AM
+117,1,1,122,0020000647,,,0:53,1,5,5,0,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,31 - 25,-6,Hudson 25' 3PT Jump Shot (3 PTS) (Amaechi 1 AST),11:36 AM
+118,3,5,123,0020000647,Richmond Out Of Bounds Turnover (P1.T1),,0:47,1,4,0,1,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:36 AM
+119,5,1,124,0020000647,,,0:29,1,5,5,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,33 - 25,-8,Garrity 1' Layup (2 PTS) (Amaechi 2 AST),11:36 AM
+120,1,1,125,0020000647,Nesby 26' 3PT Jump Shot (5 PTS) (Strickland 1 AST),,0:12,1,4,4,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,33 - 28,-5,,11:37 AM
+121,0,13,126,0020000647,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,33 - 28,-5,,11:37 AM
+122,0,12,128,0020000647,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,33 - 28,-5,,11:40 AM
+123,1,6,129,0020000647,Richmond P.FOUL (P1.T1),,11:50,2,4,0,1,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:40 AM
+124,11,5,130,0020000647,,,11:35,2,3,0,1,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Turnover: Shot Clock (T#3),11:41 AM
+125,47,1,131,0020000647,Howard 13' Turnaround Jump Shot (8 PTS) (Richmond 1 AST),,11:24,2,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,33 - 30,-3,,11:41 AM
+126,1,2,132,0020000647,,,11:11,2,5,0,0,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Hudson 27' 3PT Jump Shot,11:41 AM
+127,0,4,133,0020000647,Strickland REBOUND (Off:0 Def:1),,11:09,2,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:42 AM
+128,4,6,134,0020000647,Strickland OFF.Foul (P1),,11:06,2,4,0,1,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:42 AM
+129,5,5,135,0020000647,Strickland Foul Turnover (P1.T2),,11:06,2,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:42 AM
+130,1,1,136,0020000647,,,10:57,2,5,5,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,35 - 30,-5,Doleac 16' Jump Shot (2 PTS) (Hudson 2 AST),11:42 AM
+131,1,2,137,0020000647,MISS Nesby 8' Jump Shot,,10:38,2,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:42 AM
+132,0,4,138,0020000647,,,10:37,2,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:0 Def:2),11:42 AM
+133,1,6,139,0020000647,Strickland P.FOUL (P2.T2),,10:32,2,4,0,1,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:42 AM
+134,41,1,140,0020000647,,,10:20,2,5,0,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,37 - 30,-7,Garrity 3' Running Layup (4 PTS),11:43 AM
+135,2,5,141,0020000647,Richmond Lost Ball Turnover (P2.T3),,10:12,2,4,0,1,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:43 AM
+136,2,6,142,0020000647,Nesby S.FOUL (P1.T3),,9:53,2,4,0,1,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:44 AM
+137,11,3,143,0020000647,,,9:53,2,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Outlaw Free Throw 1 of 2,11:44 AM
+138,1,4,144,0020000647,,,9:53,2,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,11:44 AM
+139,0,8,145,0020000647,SUB: Smith FOR Howard,,9:53,2,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:44 AM
+140,12,3,146,0020000647,,,9:53,2,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,38 - 30,-8,Outlaw Free Throw 2 of 2 (1 PTS),11:44 AM
+141,8,1,147,0020000647,Nesby 1' Slam Dunk (7 PTS) (Strickland 2 AST),,9:42,2,4,4,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,38 - 32,-6,,11:45 AM
+142,7,1,148,0020000647,,,9:25,2,5,5,0,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,40 - 32,-8,Williams 1' Dunk (2 PTS) (Doleac 1 AST),11:45 AM
+143,1,2,149,0020000647,MISS Nesby 6' Jump Shot,,9:02,2,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:45 AM
+144,0,4,150,0020000647,,,9:00,2,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,11:46 AM
+145,3,6,151,0020000647,Jones L.B.FOUL (P1.T4),,9:00,2,4,0,1,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:46 AM
+146,1,2,152,0020000647,,,8:49,2,5,0,0,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Hudson 22' Jump Shot,11:46 AM
+147,0,4,153,0020000647,,,8:48,2,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:1 Def:2),11:46 AM
+148,4,9,154,0020000647,,,8:48,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:46 AM
+149,0,10,156,0020000647,Jump Ball Smith vs. Outlaw: Tip to Smith,,8:48,2,4,5,4,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,,,,11:48 AM
+150,2,5,157,0020000647,Smith STEAL (1 STL),,8:48,2,5,4,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Outlaw Lost Ball Turnover (P1.T4),11:48 AM
+151,5,2,158,0020000647,MISS Smith 2' Layup,,8:34,2,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:49 AM
+152,0,4,159,0020000647,,,8:32,2,5,0,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Garrity REBOUND (Off:0 Def:1),11:49 AM
+153,8,1,160,0020000647,,,8:22,2,5,5,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,42 - 32,-10,Outlaw 1' Slam Dunk (3 PTS) (Hudson 3 AST),11:49 AM
+154,1,2,161,0020000647,MISS Strickland 22' Jump Shot,,8:00,2,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:49 AM
+155,0,4,162,0020000647,Smith REBOUND (Off:1 Def:0),,7:58,2,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:49 AM
+156,1,2,163,0020000647,MISS Nesby 26' 3PT Jump Shot,,7:56,2,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:50 AM
+157,0,4,164,0020000647,,,7:54,2,5,0,0,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:1),11:50 AM
+158,1,2,165,0020000647,,,7:32,2,5,0,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Garrity 14' Jump Shot,11:50 AM
+159,0,4,166,0020000647,Smith REBOUND (Off:1 Def:1),,7:31,2,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:50 AM
+160,1,2,167,0020000647,MISS Richmond 29' 3PT Jump Shot,,7:16,2,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:50 AM
+161,0,4,168,0020000647,,,7:16,2,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,11:50 AM
+162,0,8,169,0020000647,SUB: Whitney FOR Richmond,,7:16,2,4,4,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:50 AM
+163,0,8,170,0020000647,SUB: Hamilton FOR Strickland,,7:16,2,4,4,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:50 AM
+164,0,8,171,0020000647,SUB: White FOR Jones,,7:16,2,4,4,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:50 AM
+165,1,2,172,0020000647,,,7:04,2,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Doleac 20' Jump Shot,11:51 AM
+166,0,4,173,0020000647,,,7:01,2,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:2 Def:2),11:51 AM
+167,2,6,174,0020000647,Hamilton S.FOUL (P1.PN),,6:54,2,4,0,1,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:51 AM
+168,11,3,175,0020000647,,,6:54,2,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Outlaw Free Throw 1 of 2,11:51 AM
+169,1,4,176,0020000647,,,6:54,2,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,11:51 AM
+170,12,3,177,0020000647,,,6:54,2,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,43 - 32,-11,Outlaw Free Throw 2 of 2 (4 PTS),11:51 AM
+171,2,6,178,0020000647,,,6:32,2,5,0,1,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Doleac S.FOUL (P1.T1),11:52 AM
+172,11,3,179,0020000647,White Free Throw 1 of 2 (3 PTS),,6:32,2,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,43 - 33,-10,,11:52 AM
+173,12,3,180,0020000647,White Free Throw 2 of 2 (4 PTS),,6:32,2,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,43 - 34,-9,,11:53 AM
+174,5,2,181,0020000647,White BLOCK (2 BLK),,6:09,2,5,0,4,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,,,MISS Garrity 3' Layup,11:53 AM
+175,0,4,182,0020000647,,,6:06,2,5,0,0,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Williams REBOUND (Off:1 Def:1),11:53 AM
+176,5,2,183,0020000647,White BLOCK (3 BLK),,6:05,2,5,0,4,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,,,MISS Williams 1' Layup,11:53 AM
+177,0,4,184,0020000647,Whitney REBOUND (Off:0 Def:3),,6:02,2,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:53 AM
+178,1,1,185,0020000647,Whitney 25' 3PT Jump Shot (3 PTS),,6:00,2,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,43 - 37,-6,,11:53 AM
+179,2,6,186,0020000647,Hamilton S.FOUL (P2.PN),,5:42,2,4,0,1,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:54 AM
+180,1,9,187,0020000647,WIZARDS Timeout: Regular (Full 2 Short 1),,5:42,2,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,11:54 AM
+181,0,8,189,0020000647,,,5:42,2,5,5,0,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Armstrong FOR Hudson,11:55 AM
+182,0,8,190,0020000647,,,5:42,2,5,5,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: McGrady FOR Garrity,11:56 AM
+183,11,3,191,0020000647,,,5:42,2,5,0,0,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,44 - 37,-7,Williams Free Throw 1 of 2 (3 PTS),11:56 AM
+184,12,3,192,0020000647,,,5:42,2,5,0,0,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,45 - 37,-8,Williams Free Throw 2 of 2 (4 PTS),11:56 AM
+185,1,6,193,0020000647,,,5:23,2,5,0,1,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Armstrong P.FOUL (P1.T2),11:57 AM
+186,1,2,194,0020000647,MISS Hamilton 8' Jump Shot,,5:17,2,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:57 AM
+187,0,4,195,0020000647,,,5:16,2,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:2 Def:3),11:57 AM
+188,1,2,196,0020000647,,,4:58,2,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 13' Jump Shot,11:57 AM
+189,0,4,197,0020000647,,,4:56,2,5,0,0,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Williams REBOUND (Off:2 Def:1),11:57 AM
+190,0,8,199,0020000647,SUB: Howard FOR Nesby,,4:55,2,4,4,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:58 AM
+191,0,10,200,0020000647,Jump Ball Smith vs. Williams: Tip to Howard,,4:55,2,4,5,4,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,,,,11:58 AM
+192,2,5,201,0020000647,Smith STEAL (2 STL),,4:55,2,5,4,0,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Williams Lost Ball Turnover (P1.T5),11:58 AM
+193,1,2,202,0020000647,MISS Whitney 27' 3PT Jump Shot,,4:29,2,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:59 AM
+194,0,4,203,0020000647,White REBOUND (Off:3 Def:1),,4:28,2,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:59 AM
+195,5,2,204,0020000647,MISS White 1' Layup,,4:27,2,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:59 AM
+196,0,4,205,0020000647,White REBOUND (Off:4 Def:1),,4:25,2,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:59 AM
+197,5,1,206,0020000647,White 1' Layup (6 PTS),,4:22,2,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,45 - 39,-6,,11:59 AM
+198,41,1,207,0020000647,,,4:06,2,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,47 - 39,-8,McGrady 2' Running Layup (8 PTS),11:59 AM
+199,1,2,208,0020000647,MISS Whitney 12' Jump Shot,,4:00,2,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:59 AM
+200,0,4,209,0020000647,,,3:58,2,5,0,0,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Williams REBOUND (Off:2 Def:2),11:59 AM
+201,2,6,210,0020000647,Hamilton S.FOUL (P3.PN),,3:54,2,4,0,1,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:59 AM
+202,11,3,211,0020000647,,,3:54,2,5,0,0,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,48 - 39,-9,Williams Free Throw 1 of 2 (5 PTS),12:00 PM
+203,0,8,212,0020000647,SUB: Richmond FOR Hamilton,,3:54,2,4,4,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:00 PM
+204,12,3,213,0020000647,,,3:54,2,5,0,0,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,49 - 39,-10,Williams Free Throw 2 of 2 (6 PTS),12:00 PM
+205,1,5,214,0020000647,Howard Bad Pass Turnover (P1.T4),,3:37,2,4,5,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Doleac STEAL (1 STL),12:00 PM
+206,1,5,215,0020000647,Richmond STEAL (1 STL),,3:33,2,5,4,0,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Williams Bad Pass Turnover (P2.T6),12:00 PM
+207,41,1,216,0020000647,Howard 1' Running Layup (10 PTS) (Smith 1 AST),,3:27,2,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,49 - 41,-8,,12:00 PM
+208,1,2,217,0020000647,,,3:13,2,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 21' Jump Shot,12:01 PM
+209,0,4,218,0020000647,White REBOUND (Off:4 Def:2),,3:11,2,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:01 PM
+210,2,6,219,0020000647,,,2:54,2,5,0,1,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw S.FOUL (P2.T3),12:01 PM
+211,1,9,220,0020000647,,,2:54,2,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.2 Short 0),12:02 PM
+212,11,3,222,0020000647,Howard Free Throw 1 of 2 (11 PTS),,2:54,2,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,49 - 42,-7,,12:04 PM
+213,12,3,223,0020000647,Howard Free Throw 2 of 2 (12 PTS),,2:54,2,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,49 - 43,-6,,12:04 PM
+214,1,1,224,0020000647,,,2:46,2,5,5,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,51 - 43,-8,Doleac 18' Jump Shot (4 PTS) (Outlaw 1 AST),12:04 PM
+215,2,7,225,0020000647,,,2:28,2,3,0,1,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Violation: Def. Goaltending Violation,12:05 PM
+216,0,8,226,0020000647,SUB: Booth FOR White,,2:28,2,4,4,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:05 PM
+217,1,2,227,0020000647,MISS Howard 6' Jump Shot,,2:16,2,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:06 PM
+218,0,4,228,0020000647,Smith REBOUND (Off:2 Def:1),,2:15,2,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:06 PM
+219,1,2,229,0020000647,MISS Whitney 26' 3PT Jump Shot,,2:09,2,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:06 PM
+220,0,4,230,0020000647,,,2:08,2,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Doleac REBOUND (Off:0 Def:1),12:06 PM
+221,2,7,231,0020000647,WIZARDS Violation: Def. Goaltending Violation,,1:56,2,2,0,1,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:06 PM
+222,1,2,232,0020000647,,,1:50,2,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Doleac 20' Jump Shot,12:07 PM
+223,0,4,233,0020000647,Richmond REBOUND (Off:0 Def:1),,1:49,2,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:07 PM
+224,4,6,234,0020000647,Howard OFF.Foul (P2),,1:33,2,4,0,1,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:07 PM
+225,5,5,235,0020000647,Howard Foul Turnover (P2.T5),,1:33,2,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:07 PM
+226,0,8,236,0020000647,SUB: Nesby FOR Howard,,1:33,2,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:07 PM
+227,2,5,237,0020000647,Nesby STEAL (1 STL),,1:22,2,5,4,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,McGrady Lost Ball Turnover (P1.T7),12:08 PM
+228,2,5,238,0020000647,Nesby Lost Ball Turnover (P1.T6),,1:04,2,4,0,1,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:08 PM
+229,1,2,239,0020000647,,,0:46,2,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Doleac 22' Jump Shot,12:09 PM
+230,0,4,240,0020000647,Booth REBOUND (Off:0 Def:4),,0:44,2,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:09 PM
+231,1,2,241,0020000647,MISS Whitney 26' 3PT Jump Shot,,0:36,2,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:09 PM
+232,0,4,242,0020000647,Smith REBOUND (Off:3 Def:1),,0:34,2,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:09 PM
+233,2,6,243,0020000647,,,0:34,2,5,0,1,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Doleac S.FOUL (P2.T4),12:09 PM
+234,11,3,244,0020000647,Smith Free Throw 1 of 2 (3 PTS),,0:34,2,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,51 - 44,-7,,12:09 PM
+235,0,8,245,0020000647,,,0:34,2,5,5,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Garrity FOR Outlaw,12:09 PM
+236,12,3,246,0020000647,Smith Free Throw 2 of 2 (4 PTS),,0:34,2,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,51 - 45,-6,,12:10 PM
+237,1,2,247,0020000647,,,0:24,2,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 21' Jump Shot,12:10 PM
+238,0,4,248,0020000647,Booth REBOUND (Off:0 Def:5),,0:22,2,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:10 PM
+239,1,1,249,0020000647,Booth 13' Jump Shot (5 PTS) (Whitney 1 AST),,0:00,2,4,4,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,51 - 47,-4,,12:11 PM
+240,0,13,250,0020000647,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 47,-4,,12:11 PM
+241,0,12,252,0020000647,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 47,-4,,12:27 PM
+242,1,2,253,0020000647,,,11:48,3,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 15' Jump Shot,12:27 PM
+243,0,4,254,0020000647,Howard REBOUND (Off:2 Def:1),,11:47,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:27 PM
+244,46,1,255,0020000647,Hamilton 11' Running Jump Shot (8 PTS),,11:32,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,51 - 49,-2,,12:27 PM
+245,1,2,256,0020000647,,,11:10,3,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong  3PT Jump Shot,12:28 PM
+246,0,4,257,0020000647,Howard REBOUND (Off:2 Def:2),,11:08,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:28 PM
+247,1,6,258,0020000647,,,10:47,3,5,0,1,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,DeClercq P.FOUL (P3.T1),12:28 PM
+248,1,2,259,0020000647,MISS Hamilton 17' Jump Shot,,10:34,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:29 PM
+249,0,4,260,0020000647,,,10:32,3,5,0,0,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,DeClercq REBOUND (Off:1 Def:3),12:29 PM
+250,1,1,261,0020000647,,,10:19,3,5,5,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,54 - 49,-5,Miller 24' 3PT Jump Shot (10 PTS) (Outlaw 2 AST),12:29 PM
+251,1,1,262,0020000647,Booth 18' Jump Shot (7 PTS) (Hamilton 3 AST),,10:05,3,4,4,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,54 - 51,-3,,12:29 PM
+252,5,2,263,0020000647,Booth BLOCK (1 BLK),,9:41,3,5,0,4,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,0,,,,,,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,,,MISS DeClercq 3' Layup,12:30 PM
+253,0,4,264,0020000647,Hamilton REBOUND (Off:1 Def:1),,9:38,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:30 PM
+254,2,5,265,0020000647,Hamilton Lost Ball Turnover (P1.T7),,9:36,3,4,0,1,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:30 PM
+255,41,1,266,0020000647,,,9:23,3,5,0,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,56 - 51,-5,Miller 3' Running Layup (12 PTS),12:30 PM
+256,17,6,267,0020000647,,,9:04,3,3,0,1,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Foul,12:31 PM
+257,16,3,268,0020000647,Whitney Free Throw Technical (4 PTS),,9:04,3,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,56 - 52,-4,,12:31 PM
+258,1,6,269,0020000647,,,9:01,3,5,0,1,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady P.FOUL (P1.T2),12:31 PM
+259,1,2,270,0020000647,MISS Hamilton 25' 3PT Jump Shot,,8:51,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:32 PM
+260,0,4,271,0020000647,Howard REBOUND (Off:3 Def:2),,8:48,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:32 PM
+261,1,2,272,0020000647,MISS Howard 5' Jump Shot,,8:46,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:32 PM
+262,0,4,273,0020000647,,,8:44,3,5,0,0,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,DeClercq REBOUND (Off:1 Def:4),12:32 PM
+263,1,2,274,0020000647,Booth BLOCK (2 BLK),,8:25,3,5,0,4,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,0,,,,,,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,,,MISS DeClercq 7' Jump Shot,12:32 PM
+264,0,4,275,0020000647,,,8:23,3,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,12:32 PM
+265,11,5,276,0020000647,,,8:23,3,3,0,1,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Turnover: Shot Clock (T#8),12:32 PM
+266,1,1,277,0020000647,Hamilton 14' Jump Shot (10 PTS),,8:05,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,56 - 54,-2,,12:33 PM
+267,1,1,278,0020000647,,,7:42,3,5,5,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,58 - 54,-4,McGrady 20' Jump Shot (10 PTS) (Armstrong 4 AST),12:33 PM
+268,1,5,279,0020000647,Whitney Bad Pass Turnover (P1.T8),,7:37,3,4,5,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,McGrady STEAL (1 STL),12:33 PM
+269,1,2,280,0020000647,,,7:22,3,5,0,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Miller 27' 3PT Jump Shot,12:33 PM
+270,0,4,281,0020000647,Hamilton REBOUND (Off:1 Def:2),,7:20,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:33 PM
+271,1,1,282,0020000647,Booth 17' Jump Shot (9 PTS) (Whitney 2 AST),,7:08,3,4,4,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,58 - 56,-2,,12:34 PM
+272,1,2,283,0020000647,,,6:54,3,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 19' Jump Shot,12:34 PM
+273,0,4,284,0020000647,,,6:52,3,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:1 Def:6),12:34 PM
+274,1,2,285,0020000647,,,6:36,3,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 19' Jump Shot,12:34 PM
+275,0,4,286,0020000647,,,6:34,3,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,12:34 PM
+276,0,8,287,0020000647,,,6:34,3,5,5,0,692,Andrew DeClercq,ORL,Orlando,1610612753.0,Magic,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Amaechi FOR DeClercq,12:34 PM
+277,1,1,288,0020000647,,,6:20,3,5,5,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,60 - 56,-4,Amaechi 19' Jump Shot (9 PTS) (Outlaw 3 AST),12:35 PM
+278,4,6,289,0020000647,Smith OFF.Foul (P1),,6:11,3,4,0,1,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:35 PM
+279,5,5,290,0020000647,Smith Foul Turnover (P1.T9),,6:11,3,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:35 PM
+280,1,2,291,0020000647,,,5:59,3,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Amaechi 4' Jump Shot,12:35 PM
+281,0,4,292,0020000647,Booth REBOUND (Off:0 Def:6),,5:57,3,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:35 PM
+282,5,1,293,0020000647,Smith 1' Layup (6 PTS) (Howard 2 AST),,5:44,3,4,4,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,60 - 58,-2,,12:36 PM
+283,1,6,294,0020000647,Howard P.FOUL (P3.T1),,5:33,3,4,0,1,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:36 PM
+284,1,9,295,0020000647,WIZARDS Timeout: Regular (Full 3 Short 1),,5:33,3,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:36 PM
+285,1,2,297,0020000647,Booth BLOCK (3 BLK),,5:25,3,5,0,4,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,,,MISS McGrady 4' Jump Shot,12:39 PM
+286,0,4,298,0020000647,Smith REBOUND (Off:3 Def:2),,5:23,3,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:39 PM
+287,1,2,299,0020000647,MISS Whitney 11' Jump Shot,,5:07,3,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:39 PM
+288,0,4,300,0020000647,Booth REBOUND (Off:1 Def:6),,5:05,3,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:39 PM
+289,8,1,301,0020000647,Booth 1' Slam Dunk (11 PTS),,5:04,3,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,60 - 60,TIE,,12:39 PM
+290,1,5,302,0020000647,Howard STEAL (1 STL),,4:52,3,5,4,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Miller Bad Pass Turnover (P1.T9),12:39 PM
+291,5,1,303,0020000647,Howard  Layup (14 PTS),,4:44,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,60 - 62,2,,12:39 PM
+292,2,6,304,0020000647,,,4:44,3,5,0,1,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw S.FOUL (P3.T3),12:39 PM
+293,0,8,305,0020000647,,,4:44,3,5,5,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Hudson FOR Armstrong,12:39 PM
+294,10,3,306,0020000647,Howard Free Throw 1 of 1 (15 PTS),,4:44,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,60 - 63,3,,12:40 PM
+295,1,1,307,0020000647,,,4:33,3,5,5,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,62 - 63,1,McGrady 17' Jump Shot (12 PTS) (Hudson 4 AST),12:40 PM
+296,1,6,308,0020000647,,,4:20,3,5,0,1,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Hudson P.FOUL (P1.T4),12:40 PM
+297,1,2,310,0020000647,MISS Booth 17' Jump Shot,,4:07,3,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:41 PM
+298,0,4,311,0020000647,Howard REBOUND (Off:4 Def:2),,4:05,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:41 PM
+299,1,2,312,0020000647,MISS Howard 4' Jump Shot,,4:04,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:41 PM
+300,0,4,313,0020000647,,,4:03,3,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Amaechi REBOUND (Off:1 Def:2),12:41 PM
+301,1,6,314,0020000647,Booth P.FOUL (P2.T2),,3:54,3,4,0,1,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:41 PM
+302,1,5,315,0020000647,Howard STEAL (2 STL),,3:43,3,5,4,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Amaechi Bad Pass Turnover (P2.T10),12:41 PM
+303,1,2,316,0020000647,MISS Howard 15' Jump Shot,,3:36,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:42 PM
+304,0,4,317,0020000647,Smith REBOUND (Off:4 Def:2),,3:34,3,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:42 PM
+305,4,1,318,0020000647,Smith 1' Tip Shot (8 PTS),,3:33,3,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,62 - 65,3,,12:42 PM
+306,1,1,319,0020000647,,,3:17,3,5,5,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,64 - 65,1,McGrady 19' Jump Shot (14 PTS) (Hudson 5 AST),12:42 PM
+307,2,5,320,0020000647,Smith Lost Ball Turnover (P2.T10),,2:59,3,4,5,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Hudson STEAL (1 STL),12:42 PM
+308,2,6,321,0020000647,Booth S.FOUL (P3.T3),,2:54,3,4,0,1,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:42 PM
+309,0,8,322,0020000647,,,2:54,3,5,5,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Williams FOR Miller,12:42 PM
+310,1,9,323,0020000647,,,2:54,3,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.3 Short 0),12:42 PM
+311,11,3,325,0020000647,,,2:54,3,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,65 - 65,TIE,McGrady Free Throw 1 of 2 (15 PTS),12:45 PM
+312,12,3,326,0020000647,,,2:54,3,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,66 - 65,-1,McGrady Free Throw 2 of 2 (16 PTS),12:45 PM
+313,1,2,327,0020000647,MISS Hamilton 24' 3PT Jump Shot,,2:35,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:45 PM
+314,0,4,328,0020000647,Booth REBOUND (Off:2 Def:6),,2:33,3,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:45 PM
+315,8,1,329,0020000647,Booth 1' Slam Dunk (13 PTS),,2:32,3,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,66 - 67,1,,12:45 PM
+316,1,5,330,0020000647,Smith STEAL (3 STL),,2:18,3,5,4,0,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Hudson Bad Pass Turnover (P1.T11),12:46 PM
+317,5,1,331,0020000647,Whitney 1' Layup (6 PTS) (Smith 2 AST),,2:12,3,4,4,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,66 - 69,3,,12:46 PM
+318,1,2,332,0020000647,,,1:52,3,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 19' Jump Shot,12:46 PM
+319,0,4,333,0020000647,Smith REBOUND (Off:4 Def:3),,1:51,3,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:46 PM
+320,2,6,334,0020000647,,,1:46,3,5,0,1,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Williams S.FOUL (P1.PN),12:46 PM
+321,11,3,335,0020000647,Hamilton Free Throw 1 of 2 (11 PTS),,1:46,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,66 - 70,4,,12:47 PM
+322,0,8,336,0020000647,SUB: Nesby FOR Smith,,1:46,3,4,4,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:47 PM
+323,0,8,337,0020000647,,,1:46,3,5,5,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Garrity FOR Outlaw,12:47 PM
+324,12,3,338,0020000647,Hamilton Free Throw 2 of 2 (12 PTS),,1:46,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,66 - 71,5,,12:47 PM
+325,1,2,339,0020000647,Booth BLOCK (4 BLK),,1:33,3,5,0,4,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,,,MISS Amaechi 7' Jump Shot,12:47 PM
+326,0,4,340,0020000647,Howard REBOUND (Off:4 Def:3),,1:31,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:47 PM
+327,1,2,341,0020000647,MISS Hamilton 17' Jump Shot,,1:17,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:48 PM
+328,0,4,342,0020000647,,,1:15,3,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:1 Def:7),12:48 PM
+329,1,2,343,0020000647,,,1:08,3,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Amaechi 17' Jump Shot,12:48 PM
+330,0,4,344,0020000647,Hamilton REBOUND (Off:1 Def:3),,1:05,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:48 PM
+331,1,1,345,0020000647,Booth 16' Jump Shot (15 PTS) (Nesby 1 AST),,0:47,3,4,4,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,66 - 73,7,,12:48 PM
+332,5,2,346,0020000647,,,0:34,3,5,0,0,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Hudson 3' Layup,12:48 PM
+333,0,4,347,0020000647,,,0:31,3,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:2 Def:7),12:48 PM
+334,1,2,348,0020000647,,,0:28,3,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 15' Jump Shot,12:48 PM
+335,0,4,349,0020000647,Nesby REBOUND (Off:0 Def:1),,0:27,3,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:49 PM
+336,2,6,350,0020000647,,,0:05,3,5,0,1,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Garrity S.FOUL (P1.PN),12:49 PM
+337,11,3,351,0020000647,MISS Booth Free Throw 1 of 2,,0:05,3,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:49 PM
+338,1,4,352,0020000647,WIZARDS Rebound,,0:05,3,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:49 PM
+339,12,3,353,0020000647,Booth Free Throw 2 of 2 (16 PTS),,0:05,3,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,66 - 74,8,,12:49 PM
+340,1,2,354,0020000647,,,0:01,3,5,0,0,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Hudson 26' 3PT Jump Shot,12:50 PM
+341,0,4,355,0020000647,,,0:00,3,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,12:50 PM
+342,0,13,356,0020000647,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,66 - 74,8,,12:50 PM
+343,0,12,358,0020000647,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,66 - 74,8,,12:53 PM
+344,1,2,359,0020000647,MISS Nesby 6' Jump Shot,,11:41,4,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:53 PM
+345,0,4,360,0020000647,Booth REBOUND (Off:3 Def:6),,11:39,4,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:53 PM
+346,2,6,361,0020000647,,,11:39,4,5,0,1,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Garrity S.FOUL (P2.T1),12:53 PM
+347,11,3,362,0020000647,Booth Free Throw 1 of 2 (17 PTS),,11:39,4,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,66 - 75,9,,12:53 PM
+348,12,3,363,0020000647,Booth Free Throw 2 of 2 (18 PTS),,11:39,4,4,0,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,66 - 76,10,,12:53 PM
+349,1,2,364,0020000647,Booth BLOCK (5 BLK),,11:25,4,5,0,4,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,,,MISS Doleac 8' Jump Shot,12:54 PM
+350,0,4,365,0020000647,Nesby REBOUND (Off:0 Def:2),,11:21,4,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:54 PM
+351,2,6,366,0020000647,,,11:09,4,5,0,1,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Garrity S.FOUL (P3.T2),12:54 PM
+352,11,3,367,0020000647,Howard Free Throw 1 of 2 (16 PTS),,11:09,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,66 - 77,11,,12:55 PM
+353,12,3,368,0020000647,Howard Free Throw 2 of 2 (17 PTS),,11:09,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,66 - 78,12,,12:55 PM
+354,17,6,369,0020000647,WIZARDS Foul,,11:00,4,2,0,1,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:55 PM
+355,16,3,370,0020000647,,,11:00,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,67 - 78,11,Armstrong Free Throw Technical (7 PTS),12:55 PM
+356,1,2,371,0020000647,,,10:54,4,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Doleac 19' Jump Shot,12:56 PM
+357,0,4,372,0020000647,Richmond REBOUND (Off:0 Def:2),,10:53,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:56 PM
+358,4,6,373,0020000647,Howard OFF.Foul (P4),,10:42,4,4,0,1,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:56 PM
+359,5,5,374,0020000647,Howard Foul Turnover (P3.T11),,10:42,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:56 PM
+360,0,8,375,0020000647,,,10:42,4,5,5,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,690,Don Reid,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Reid FOR Doleac,12:56 PM
+361,1,6,376,0020000647,Whitney P.FOUL (P2.T1),,10:34,4,4,0,1,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:56 PM
+362,0,8,377,0020000647,SUB: Smith FOR Howard,,10:34,4,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:57 PM
+363,1,2,378,0020000647,,,10:27,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 26' 3PT Jump Shot,12:57 PM
+364,0,4,379,0020000647,,,10:25,4,5,0,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Miller REBOUND (Off:2 Def:0),12:57 PM
+365,1,1,380,0020000647,,,10:14,4,5,5,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,70 - 78,8,Garrity  3PT Jump Shot (7 PTS) (Armstrong 5 AST),12:57 PM
+366,1,1,381,0020000647,Whitney 25' 3PT Jump Shot (9 PTS),,9:55,4,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,70 - 81,11,,12:57 PM
+367,1,1,382,0020000647,,,9:35,4,5,5,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,72 - 81,9,McGrady 16' Jump Shot (18 PTS) (Armstrong 6 AST),12:58 PM
+368,2,5,383,0020000647,Smith Lost Ball Turnover (P3.T12),,9:19,4,4,5,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,McGrady STEAL (2 STL),12:58 PM
+369,5,1,384,0020000647,,,9:14,4,5,5,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,74 - 81,7,Armstrong 1' Layup (9 PTS) (McGrady 2 AST),12:58 PM
+370,1,6,385,0020000647,,,8:55,4,5,0,1,690,Don Reid,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Reid P.FOUL (P1.T3),12:58 PM
+371,4,9,386,0020000647,,,8:55,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:58 PM
+372,0,8,388,0020000647,SUB: White FOR Booth,,8:55,4,4,4,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,1:00 PM
+373,0,8,389,0020000647,,,8:55,4,5,5,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Outlaw FOR Miller,1:01 PM
+374,1,1,390,0020000647,Whitney 24' 3PT Jump Shot (12 PTS) (Nesby 2 AST),,8:53,4,4,4,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,74 - 84,10,,1:01 PM
+375,1,1,391,0020000647,,,8:31,4,5,5,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,77 - 84,7,Armstrong 24' 3PT Jump Shot (12 PTS) (McGrady 3 AST),1:01 PM
+376,1,1,392,0020000647,Whitney 27' 3PT Jump Shot (15 PTS) (Richmond 2 AST),,8:17,4,4,4,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,77 - 87,10,,1:01 PM
+377,1,2,393,0020000647,Smith BLOCK (1 BLK),,8:00,4,5,0,4,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,,,MISS McGrady 8' Jump Shot,1:02 PM
+378,0,4,394,0020000647,,,7:56,4,5,0,0,690,Don Reid,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Reid REBOUND (Off:1 Def:0),1:02 PM
+379,5,1,395,0020000647,,,7:55,4,5,0,0,690,Don Reid,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,79 - 87,8,Reid  Layup (2 PTS),1:02 PM
+380,1,6,396,0020000647,,,7:45,4,5,0,1,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw P.FOUL (P4.T4),1:02 PM
+381,1,1,397,0020000647,Richmond 20' Jump Shot (4 PTS) (Whitney 3 AST),,7:40,4,4,4,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,79 - 89,10,,1:02 PM
+382,3,1,398,0020000647,,,7:23,4,5,5,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,81 - 89,8,Outlaw 6' Hook Shot (6 PTS) (McGrady 4 AST),1:03 PM
+383,1,1,399,0020000647,Richmond 20' Jump Shot (6 PTS) (Whitney 4 AST),,7:02,4,4,4,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,81 - 91,10,,1:03 PM
+384,2,6,400,0020000647,White S.FOUL (P3.T2),,6:44,4,4,0,1,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:04 PM
+385,11,3,401,0020000647,,,6:44,4,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,82 - 91,9,McGrady Free Throw 1 of 2 (19 PTS),1:04 PM
+386,12,3,402,0020000647,,,6:44,4,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,83 - 91,8,McGrady Free Throw 2 of 2 (20 PTS),1:04 PM
+387,5,2,403,0020000647,MISS Whitney 3' Layup,,6:20,4,4,0,5,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,690,Don Reid,ORL,Orlando,1610612753.0,Magic,,,Reid BLOCK (1 BLK),1:05 PM
+388,0,4,404,0020000647,,,6:18,4,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:2 Def:4),1:05 PM
+389,1,1,405,0020000647,,,6:13,4,5,5,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,86 - 91,5,McGrady 25' 3PT Jump Shot (23 PTS) (Armstrong 7 AST),1:05 PM
+390,1,6,406,0020000647,,,5:55,4,5,0,1,690,Don Reid,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Reid P.FOUL (P2.PN),1:05 PM
+391,1,9,407,0020000647,WIZARDS Timeout: Regular (Full 4 Short 1),,5:55,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:05 PM
+392,0,8,409,0020000647,SUB: Howard FOR Smith,,5:55,4,4,4,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,1:07 PM
+393,11,3,410,0020000647,MISS White Free Throw 1 of 2,,5:55,4,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:07 PM
+394,1,4,411,0020000647,WIZARDS Rebound,,5:55,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:07 PM
+395,12,3,412,0020000647,MISS White Free Throw 2 of 2,,5:55,4,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:08 PM
+396,0,4,413,0020000647,,,5:54,4,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:2 Def:5),1:08 PM
+397,1,2,414,0020000647,,,5:44,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 20' Jump Shot,1:08 PM
+398,0,4,415,0020000647,Richmond REBOUND (Off:0 Def:3),,5:42,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:08 PM
+399,1,1,416,0020000647,Nesby 24' 3PT Jump Shot (10 PTS) (Howard 3 AST),,5:27,4,4,4,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,86 - 94,8,,1:08 PM
+400,5,1,417,0020000647,,,5:06,4,5,5,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,88 - 94,6,Outlaw 1' Layup (8 PTS) (McGrady 5 AST),1:09 PM
+401,1,2,418,0020000647,MISS Nesby 27' 3PT Jump Shot,,4:41,4,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:09 PM
+402,0,4,419,0020000647,Howard REBOUND (Off:5 Def:3),,4:39,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:09 PM
+403,1,2,420,0020000647,MISS Howard 6' Jump Shot,,4:27,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:09 PM
+404,0,4,421,0020000647,,,4:25,4,5,0,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Garrity REBOUND (Off:0 Def:2),1:09 PM
+405,2,6,422,0020000647,Richmond S.FOUL (P2.T3),,4:13,4,4,0,1,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:10 PM
+406,11,3,423,0020000647,,,4:13,4,5,0,0,690,Don Reid,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Reid Free Throw 1 of 2,1:10 PM
+407,1,4,424,0020000647,,,4:13,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,1:10 PM
+408,0,8,425,0020000647,SUB: Booth FOR White,,4:13,4,4,4,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,1:10 PM
+409,12,3,426,0020000647,,,4:13,4,5,0,0,690,Don Reid,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,89 - 94,5,Reid Free Throw 2 of 2 (3 PTS),1:10 PM
+410,1,2,427,0020000647,MISS Howard 14' Jump Shot,,3:56,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:11 PM
+411,0,4,428,0020000647,,,3:54,4,5,0,0,690,Don Reid,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Reid REBOUND (Off:1 Def:1),1:11 PM
+412,1,1,429,0020000647,,,3:45,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,91 - 94,3,Armstrong 18' Jump Shot (14 PTS),1:11 PM
+413,1,2,430,0020000647,MISS Whitney 26' 3PT Jump Shot,,3:25,4,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:11 PM
+414,0,4,431,0020000647,,,3:22,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Armstrong REBOUND (Off:0 Def:1),1:11 PM
+415,2,6,432,0020000647,Nesby S.FOUL (P2.T4),,3:22,4,4,0,1,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:11 PM
+416,11,3,433,0020000647,,,3:22,4,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,92 - 94,2,McGrady Free Throw 1 of 2 (24 PTS),1:11 PM
+417,12,3,434,0020000647,,,3:22,4,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,93 - 94,1,McGrady Free Throw 2 of 2 (25 PTS),1:12 PM
+418,2,5,435,0020000647,Nesby Lost Ball Turnover (P2.T13),,3:02,4,4,0,1,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:12 PM
+419,1,2,436,0020000647,,,2:49,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 20' Jump Shot,1:13 PM
+420,0,4,437,0020000647,,,2:47,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Armstrong REBOUND (Off:1 Def:1),1:13 PM
+421,1,9,438,0020000647,,,2:47,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.4 Short 0),1:13 PM
+422,0,8,440,0020000647,SUB: Hamilton FOR Nesby,,2:47,4,4,4,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,1:15 PM
+423,1,2,441,0020000647,Booth BLOCK (6 BLK),,2:30,4,5,0,4,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,,,MISS Outlaw 6' Jump Shot,1:15 PM
+424,0,4,442,0020000647,Hamilton REBOUND (Off:1 Def:4),,2:26,4,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:15 PM
+425,1,2,443,0020000647,MISS Richmond 21' Jump Shot,,2:06,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:16 PM
+426,0,4,444,0020000647,,,2:04,4,5,0,0,690,Don Reid,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Reid REBOUND (Off:1 Def:2),1:16 PM
+427,1,2,445,0020000647,,,1:50,4,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Outlaw 6' Jump Shot,1:16 PM
+428,0,4,446,0020000647,,,1:47,4,5,0,0,690,Don Reid,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Reid REBOUND (Off:2 Def:2),1:16 PM
+429,1,2,448,0020000647,,,1:44,4,5,0,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Garrity 20' Jump Shot,1:17 PM
+430,0,4,449,0020000647,Richmond REBOUND (Off:0 Def:4),,1:42,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:17 PM
+431,1,2,450,0020000647,MISS Richmond 4' Jump Shot,,1:25,4,4,0,5,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,690,Don Reid,ORL,Orlando,1610612753.0,Magic,,,Reid BLOCK (2 BLK),1:17 PM
+432,0,4,451,0020000647,WIZARDS Rebound,,1:25,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:17 PM
+433,1,2,452,0020000647,MISS Howard 15' Jump Shot,,1:20,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:17 PM
+434,0,4,453,0020000647,WIZARDS Rebound,,1:18,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:17 PM
+435,1,2,454,0020000647,MISS Richmond 3' Jump Shot,,1:06,4,4,0,5,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,690,Don Reid,ORL,Orlando,1610612753.0,Magic,,,Reid BLOCK (3 BLK),1:18 PM
+436,0,4,455,0020000647,,,1:02,4,5,0,0,690,Don Reid,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Reid REBOUND (Off:2 Def:3),1:18 PM
+437,1,9,456,0020000647,,,1:00,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.5 Short 0),1:18 PM
+438,0,8,458,0020000647,SUB: Smith FOR Hamilton,,1:00,4,4,4,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,1:20 PM
+439,0,8,459,0020000647,,,1:00,4,5,5,0,690,Don Reid,ORL,Orlando,1610612753.0,Magic,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Doleac FOR Reid,1:20 PM
+440,1,1,460,0020000647,,,0:47,4,5,5,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,96 - 94,-2,Garrity 25' 3PT Jump Shot (10 PTS) (McGrady 6 AST),1:20 PM
+441,1,9,461,0020000647,WIZARDS Timeout: Regular (Full 5 Short 1),,0:46,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:20 PM
+442,0,8,462,0020000647,,,0:46,4,5,5,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,690,Don Reid,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Reid FOR Doleac,1:22 PM
+443,0,8,463,0020000647,SUB: Hamilton FOR Smith,,0:46,4,4,4,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,1:22 PM
+444,0,8,464,0020000647,,,0:46,4,5,5,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Hudson FOR Garrity,1:22 PM
+445,2,5,465,0020000647,Hamilton Lost Ball Turnover (P2.T14),,0:37,4,4,5,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Armstrong STEAL (1 STL),1:23 PM
+446,41,1,466,0020000647,,,0:22,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,98 - 94,-4,Armstrong 1' Running Layup (16 PTS),1:23 PM
+447,1,9,467,0020000647,WIZARDS Timeout: Regular (Full 6 Short 1),,0:22,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:23 PM
+448,0,8,469,0020000647,SUB: Nesby FOR Booth,,0:22,4,4,4,0,1916,Calvin Booth,WAS,Washington,1610612764.0,Wizards,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,1:25 PM
+449,0,8,470,0020000647,,,0:22,4,5,5,0,690,Don Reid,ORL,Orlando,1610612753.0,Magic,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Williams FOR Reid,1:25 PM
+450,50,1,471,0020000647,Richmond 1' Running Dunk (8 PTS),,0:17,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,98 - 96,-2,,1:25 PM
+451,1,6,472,0020000647,Howard P.FOUL (P5.PN),,0:16,4,4,0,1,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:25 PM
+452,11,3,473,0020000647,,,0:16,4,5,0,0,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,99 - 96,-3,Hudson Free Throw 1 of 2 (4 PTS),1:26 PM
+453,0,8,474,0020000647,,,0:16,4,5,5,0,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,690,Don Reid,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Reid FOR Williams,1:26 PM
+454,12,3,475,0020000647,,,0:16,4,5,0,0,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,100 - 96,-4,Hudson Free Throw 2 of 2 (5 PTS),1:26 PM
+455,2,9,476,0020000647,WIZARDS Timeout: Short (Full 6 Short 2),,0:16,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:26 PM
+456,0,8,478,0020000647,,,0:16,4,5,5,0,690,Don Reid,ORL,Orlando,1610612753.0,Magic,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Williams FOR Reid,1:27 PM
+457,1,2,479,0020000647,MISS Richmond 21' Jump Shot,,0:12,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:27 PM
+458,0,4,480,0020000647,Richmond REBOUND (Off:1 Def:4),,0:11,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:27 PM
+459,1,2,481,0020000647,MISS Hamilton 26' 3PT Jump Shot,,0:06,4,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:27 PM
+460,0,4,482,0020000647,Howard REBOUND (Off:6 Def:3),,0:03,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:28 PM
+461,1,2,483,0020000647,MISS Whitney 27' 3PT Jump Shot,,0:01,4,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:28 PM
+462,0,4,484,0020000647,,,0:00,4,5,0,0,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Hudson REBOUND (Off:0 Def:1),1:28 PM
+463,0,13,485,0020000647,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,100 - 96,-4,,1:28 PM

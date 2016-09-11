@@ -1,0 +1,503 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020600064,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:12 PM
+1,0,10,1,0020600064,Jump Ball Duncan vs. Stoudemire: Tip to,,12:00,1,4,5,3,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,1610612756,,,,,,,,,8:13 PM
+2,4,7,2,0020600064,Duncan Violation:Jump Ball,,12:00,1,4,0,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:13 PM
+3,5,1,3,0020600064,,,11:54,1,5,5,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,2 - 0,-2,Marion 2' Layup (2 PTS) (Nash 1 AST),8:14 PM
+4,1,1,4,0020600064,Parker 13' Jump Shot (2 PTS) (Ginobili 1 AST),,11:36,1,4,4,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,2 - 2,TIE,,8:14 PM
+5,44,1,5,0020600064,,,11:29,1,5,5,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,4 - 2,-2,Barbosa 2' Reverse Layup (2 PTS) (Nash 2 AST),8:14 PM
+6,1,1,6,0020600064,Oberto 15' Jump Shot (2 PTS) (Parker 1 AST),,11:19,1,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,4 - 4,TIE,,8:14 PM
+7,1,2,7,0020600064,,,11:06,1,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Barbosa  3PT Jump Shot,8:15 PM
+8,0,4,8,0020600064,Duncan REBOUND (Off:0 Def:1),,11:03,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:15 PM
+9,1,2,9,0020600064,MISS Ginobili 23' Jump Shot,,10:46,1,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:15 PM
+10,0,4,10,0020600064,,,10:44,1,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Barbosa REBOUND (Off:0 Def:1),8:15 PM
+11,1,2,11,0020600064,,,10:40,1,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Bell  3PT Jump Shot,8:15 PM
+12,0,4,12,0020600064,Ginobili REBOUND (Off:0 Def:1),,10:37,1,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:15 PM
+13,1,1,13,0020600064,Oberto 13' Jump Shot (4 PTS) (Parker 2 AST),,10:28,1,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,4 - 6,2,,8:15 PM
+14,1,2,14,0020600064,,,10:18,1,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Marion 26' 3PT Jump Shot,8:15 PM
+15,0,4,15,0020600064,Ginobili REBOUND (Off:0 Def:2),,10:15,1,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:16 PM
+16,5,2,16,0020600064,MISS Ginobili 3' Layup,,10:10,1,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:16 PM
+17,0,4,17,0020600064,,,10:08,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:0 Def:1),8:16 PM
+18,5,1,18,0020600064,,,10:02,1,5,5,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,6 - 6,TIE,Marion 1' Layup (4 PTS) (Nash 3 AST),8:16 PM
+19,1,6,19,0020600064,,,9:47,1,5,4,1,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Barbosa P.FOUL (P1.T1),8:16 PM
+20,2,6,20,0020600064,,,9:45,1,5,4,1,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Marion S.FOUL (P1.T2),8:16 PM
+21,11,3,21,0020600064,Parker Free Throw 1 of 2 (3 PTS),,9:45,1,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,6 - 7,1,,8:17 PM
+22,12,3,22,0020600064,Parker Free Throw 2 of 2 (4 PTS),,9:45,1,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,6 - 8,2,,8:17 PM
+23,5,1,23,0020600064,,,9:28,1,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,8 - 8,TIE,Stoudemire 2' Layup (2 PTS) (Barbosa 1 AST),8:17 PM
+24,4,6,24,0020600064,Oberto OFF.Foul (P1),,9:16,1,4,5,1,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,8:17 PM
+25,5,5,25,0020600064,Oberto Foul Turnover (P1.T1),,9:16,1,4,0,1,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:17 PM
+26,1,5,26,0020600064,Parker STEAL (1 STL),,8:58,1,5,4,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Barbosa Bad Pass Turnover (P1.T1),8:18 PM
+27,1,2,27,0020600064,MISS Parker 20' Jump Shot,,8:46,1,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:18 PM
+28,0,4,29,0020600064,Duncan REBOUND (Off:1 Def:1),,8:44,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:18 PM
+29,4,1,28,0020600064,Duncan 2' Tip Shot (2 PTS),,8:44,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,8 - 10,2,,8:18 PM
+30,8,1,30,0020600064,,,8:32,1,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,10 - 10,TIE,Stoudemire 2' Slam Dunk (4 PTS) (Nash 4 AST),8:18 PM
+31,1,9,31,0020600064,SPURS Timeout: Regular (Full 1 Short 0),,8:21,1,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,8:18 PM
+32,5,1,33,0020600064,Oberto 2' Layup (6 PTS) (Ginobili 2 AST),,8:17,1,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,10 - 12,2,,8:21 PM
+33,1,6,34,0020600064,Duncan P.FOUL (P1.T1),,7:57,1,4,5,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,8:22 PM
+34,2,7,37,0020600064,Duncan Violation:Defensive Goaltending,,7:42,1,4,0,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:23 PM
+35,5,1,36,0020600064,,,7:42,1,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,12 - 12,TIE,Bell 2' Layup (2 PTS),8:23 PM
+36,1,2,38,0020600064,MISS Ginobili 16' Jump Shot,,7:24,1,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:23 PM
+37,0,4,39,0020600064,,,7:22,1,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Nash REBOUND (Off:0 Def:1),8:23 PM
+38,5,2,40,0020600064,,,7:19,1,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Barbosa 3' Layup,8:23 PM
+39,0,4,41,0020600064,Oberto REBOUND (Off:0 Def:1),,7:17,1,4,0,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:23 PM
+40,1,6,42,0020600064,,,7:13,1,5,4,1,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Nash P.FOUL (P1.T3),8:23 PM
+41,1,2,44,0020600064,MISS Parker 17' Jump Shot,,7:03,1,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:24 PM
+42,0,4,45,0020600064,,,7:01,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:0 Def:2),8:24 PM
+43,1,6,46,0020600064,Bowen P.FOUL (P1.T2),,6:50,1,4,5,1,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,8:24 PM
+44,0,8,47,0020600064,SUB: Barry FOR Ginobili,,6:50,1,4,4,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:24 PM
+45,0,8,48,0020600064,,,6:50,1,5,5,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Diaw FOR Barbosa,8:24 PM
+46,1,2,49,0020600064,,,6:43,1,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Bell 16' Jump Shot,8:25 PM
+47,0,4,50,0020600064,Barry REBOUND (Off:0 Def:1),,6:41,1,4,0,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:25 PM
+48,4,5,51,0020600064,Parker Traveling Turnover (P1.T2),,6:21,1,4,0,1,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:25 PM
+49,1,2,52,0020600064,,,6:13,1,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Nash 18' Jump Shot,8:25 PM
+50,0,4,53,0020600064,Oberto REBOUND (Off:0 Def:2),,6:12,1,4,0,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:25 PM
+51,47,2,54,0020600064,MISS Duncan 6' Turnaround Jump Shot,,6:00,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:25 PM
+52,0,4,55,0020600064,,,5:58,1,5,0,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Diaw REBOUND (Off:0 Def:1),8:25 PM
+53,1,2,56,0020600064,,,5:52,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Stoudemire 19' Jump Shot,8:26 PM
+54,0,4,57,0020600064,Duncan REBOUND (Off:1 Def:2),,5:50,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:26 PM
+55,5,2,58,0020600064,MISS Parker 1' Layup,,5:30,1,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:26 PM
+56,0,4,60,0020600064,Duncan REBOUND (Off:2 Def:2),,5:29,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:26 PM
+57,4,2,59,0020600064,MISS Duncan 1' Tip Shot,,5:29,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:26 PM
+58,0,4,61,0020600064,SPURS Rebound,,5:29,1,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,8:26 PM
+59,0,8,62,0020600064,SUB: Horry FOR Oberto,,5:29,1,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:26 PM
+60,0,8,63,0020600064,,,5:29,1,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Thomas FOR Stoudemire,8:26 PM
+61,1,2,64,0020600064,MISS Duncan 5' Jump Shot,,5:21,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:27 PM
+62,0,4,65,0020600064,,,5:19,1,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:0 Def:1),8:27 PM
+63,1,6,66,0020600064,Bowen P.FOUL (P2.T3),,5:16,1,4,5,1,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,8:27 PM
+64,0,8,67,0020600064,SUB: Finley FOR Bowen,,5:16,1,4,4,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:27 PM
+65,5,1,68,0020600064,,,5:10,1,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,14 - 12,-2,Nash 2' Layup (2 PTS),8:27 PM
+66,5,1,69,0020600064,Duncan 2' Layup (4 PTS),,4:57,1,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,14 - 14,TIE,,8:27 PM
+67,5,2,70,0020600064,,,4:45,1,5,0,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Diaw 2' Layup,8:28 PM
+68,0,4,71,0020600064,Parker REBOUND (Off:0 Def:1),,4:43,1,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:28 PM
+69,5,2,72,0020600064,MISS Parker 2' Layup,,4:37,1,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:28 PM
+70,0,4,73,0020600064,,,4:35,1,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:0 Def:2),8:28 PM
+71,46,1,74,0020600064,,,4:23,1,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,16 - 14,-2,Nash 13' Running Jump Shot (4 PTS),8:28 PM
+72,1,2,75,0020600064,MISS Finley 4' Jump Shot,,4:08,1,4,0,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:28 PM
+73,0,4,76,0020600064,,,4:06,1,5,0,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:1),8:28 PM
+74,1,2,77,0020600064,,,3:53,1,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Nash 14' Jump Shot,8:29 PM
+75,0,4,78,0020600064,Horry REBOUND (Off:0 Def:1),,3:51,1,4,0,0,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:29 PM
+76,44,1,79,0020600064,Barry 2' Reverse Layup (2 PTS) (Duncan 1 AST),,3:40,1,4,4,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,16 - 16,TIE,,8:29 PM
+77,2,6,80,0020600064,,,3:40,1,5,4,1,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Nash S.FOUL (P2.T4),8:29 PM
+78,0,8,81,0020600064,SUB: Udrih FOR Parker,,3:40,1,4,4,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,2757,Beno Udrih,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:29 PM
+79,0,8,82,0020600064,SUB: Elson FOR Duncan,,3:40,1,4,4,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,1922,Francisco Elson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:29 PM
+80,0,8,83,0020600064,,,3:40,1,5,5,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Barbosa FOR Nash,8:29 PM
+81,10,3,84,0020600064,Barry Free Throw 1 of 1 (3 PTS),,3:40,1,4,0,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,16 - 17,1,,8:29 PM
+82,5,1,85,0020600064,,,3:25,1,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,18 - 17,-1,Barbosa 2' Layup (4 PTS),8:30 PM
+83,1,1,86,0020600064,Finley 16' Jump Shot (2 PTS) (Udrih 1 AST),,3:07,1,4,4,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,2757,Beno Udrih,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,18 - 19,1,,8:30 PM
+84,1,2,87,0020600064,,,2:58,1,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Bell 20' Jump Shot,8:30 PM
+85,0,4,88,0020600064,Elson REBOUND (Off:0 Def:1),,2:55,1,4,0,0,1922,Francisco Elson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:30 PM
+86,1,2,89,0020600064,MISS Elson 13' Jump Shot,,2:35,1,4,0,0,1922,Francisco Elson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:31 PM
+87,0,4,90,0020600064,,,2:33,1,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:0 Def:3),8:31 PM
+88,1,2,91,0020600064,,,2:20,1,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Barbosa 19' Jump Shot,8:31 PM
+89,0,4,92,0020600064,Elson REBOUND (Off:0 Def:2),,2:18,1,4,0,0,1922,Francisco Elson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:31 PM
+90,4,6,93,0020600064,Elson OFF.Foul (P1),,2:13,1,4,5,1,1922,Francisco Elson,SAS,San Antonio,1610612759.0,Spurs,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,8:31 PM
+91,5,5,94,0020600064,Elson Foul Turnover (P1.T3),,2:13,1,4,0,1,1922,Francisco Elson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:31 PM
+92,1,9,95,0020600064,,,2:13,1,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Regular (Reg.1 Short 0),8:31 PM
+93,5,2,97,0020600064,,,1:57,1,5,0,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Diaw 2' Layup,8:35 PM
+94,0,4,98,0020600064,Elson REBOUND (Off:0 Def:3),,1:54,1,4,0,0,1922,Francisco Elson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:35 PM
+95,1,2,99,0020600064,MISS Finley 25' 3PT Jump Shot,,1:37,1,4,0,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:35 PM
+96,0,4,100,0020600064,,,1:35,1,5,0,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:2),8:35 PM
+97,66,1,101,0020600064,,,1:29,1,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,20 - 19,-1,Barbosa 6' Jump Bank Shot (6 PTS),8:35 PM
+98,2,6,102,0020600064,,,1:13,1,5,4,1,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Barbosa S.FOUL (P2.PN),8:36 PM
+99,11,3,103,0020600064,Horry Free Throw 1 of 2 (1 PTS),,1:13,1,4,0,0,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,20 - 20,TIE,,8:36 PM
+100,12,3,104,0020600064,Horry Free Throw 2 of 2 (2 PTS),,1:13,1,4,0,0,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,20 - 21,1,,8:36 PM
+101,1,1,105,0020600064,,,0:52,1,5,5,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,23 - 21,-2,Bell 24' 3PT Jump Shot (5 PTS) (Barbosa 2 AST),8:37 PM
+102,1,2,106,0020600064,MISS Udrih  3PT Jump Shot,,0:29,1,4,0,0,2757,Beno Udrih,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:37 PM
+103,0,4,107,0020600064,,,0:27,1,5,0,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Diaw REBOUND (Off:0 Def:2),8:37 PM
+104,5,1,108,0020600064,,,0:21,1,5,5,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,25 - 21,-4,Thomas 2' Layup (2 PTS) (Marion 1 AST),8:37 PM
+105,5,2,109,0020600064,MISS Udrih 3' Layup,,0:02,1,4,0,0,2757,Beno Udrih,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:38 PM
+106,0,4,110,0020600064,,,0:00,1,5,0,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:3),8:38 PM
+107,0,13,111,0020600064,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,25 - 21,-4,,8:38 PM
+108,0,12,113,0020600064,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,25 - 21,-4,,8:41 PM
+109,5,2,114,0020600064,MISS Finley 2' Layup,,11:39,2,4,0,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:42 PM
+110,0,4,116,0020600064,Finley REBOUND (Off:1 Def:0),,11:37,2,4,0,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:42 PM
+111,5,2,115,0020600064,MISS Finley 2' Layup,,11:37,2,4,0,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:42 PM
+112,0,4,117,0020600064,Elson REBOUND (Off:1 Def:3),,11:36,2,4,0,0,1922,Francisco Elson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:42 PM
+113,1,2,118,0020600064,MISS Elson 7' Jump Shot,,11:34,2,4,0,0,1922,Francisco Elson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:42 PM
+114,0,4,119,0020600064,Elson REBOUND (Off:2 Def:3),,11:33,2,4,0,0,1922,Francisco Elson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:42 PM
+115,1,1,120,0020600064,Ginobili 26' 3PT Jump Shot (3 PTS) (Elson 1 AST),,11:30,2,4,4,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,1922,Francisco Elson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,25 - 24,-1,,8:42 PM
+116,1,1,121,0020600064,,,11:15,2,5,5,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,27 - 24,-3,Marion 16' Jump Shot (6 PTS) (Diaw 1 AST),8:42 PM
+117,1,2,122,0020600064,MISS Udrih 15' Jump Shot,,11:01,2,4,0,0,2757,Beno Udrih,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:43 PM
+118,0,4,123,0020600064,,,10:59,2,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:0 Def:4),8:43 PM
+119,7,2,124,0020600064,,,10:55,2,5,0,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Diaw 2' Dunk,8:43 PM
+120,0,4,125,0020600064,Elson REBOUND (Off:2 Def:4),,10:52,2,4,0,0,1922,Francisco Elson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:43 PM
+121,1,2,126,0020600064,MISS Ginobili 24' 3PT Jump Shot,,10:46,2,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:43 PM
+122,0,4,127,0020600064,,,10:43,2,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:0 Def:5),8:43 PM
+123,1,1,128,0020600064,,,10:28,2,5,5,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,29 - 24,-5,Thomas 10' Jump Shot (4 PTS) (Banks 1 AST),8:43 PM
+124,5,7,129,0020600064,,,10:14,2,5,0,1,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Thomas Violation:Kicked Ball,8:44 PM
+125,1,2,130,0020600064,MISS Ginobili 15' Jump Shot,,10:06,2,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:44 PM
+126,0,4,131,0020600064,,,10:03,2,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:0 Def:6),8:44 PM
+127,4,6,132,0020600064,,,9:54,2,5,4,1,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,1922,Francisco Elson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Bell OFF.Foul (P1),8:44 PM
+128,5,5,133,0020600064,,,9:54,2,5,0,1,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Bell Foul Turnover (P1.T2),8:44 PM
+129,1,2,134,0020600064,MISS Horry 21' Jump Shot,,9:41,2,4,0,0,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:45 PM
+130,0,4,136,0020600064,Finley REBOUND (Off:2 Def:0),,9:39,2,4,0,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:45 PM
+131,4,1,135,0020600064,Finley 2' Tip Shot (4 PTS),,9:39,2,4,0,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,29 - 26,-3,,8:45 PM
+132,1,1,137,0020600064,,,9:26,2,5,5,0,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,32 - 26,-6,Banks 26' 3PT Jump Shot (3 PTS) (Marion 2 AST),8:45 PM
+133,1,6,138,0020600064,,,9:12,2,5,4,1,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Marion P.FOUL (P2.T1),8:45 PM
+134,0,8,139,0020600064,SUB: Parker FOR Udrih,,9:12,2,4,4,0,2757,Beno Udrih,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:45 PM
+135,0,8,140,0020600064,SUB: Duncan FOR Elson,,9:12,2,4,4,0,1922,Francisco Elson,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:45 PM
+136,0,8,141,0020600064,,,9:12,2,5,5,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Barbosa FOR Marion,8:46 PM
+137,1,2,142,0020600064,MISS Finley 20' Jump Shot,,8:59,2,4,0,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:46 PM
+138,0,4,143,0020600064,,,8:57,2,5,0,0,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Banks REBOUND (Off:0 Def:1),8:46 PM
+139,5,2,144,0020600064,,,8:53,2,5,0,0,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Banks 2' Layup,8:46 PM
+140,0,4,145,0020600064,Duncan REBOUND (Off:2 Def:3),,8:51,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:46 PM
+141,1,2,146,0020600064,MISS Horry 19' Jump Shot,,8:31,2,4,0,0,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:47 PM
+142,0,4,147,0020600064,,,8:29,2,5,0,0,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Banks REBOUND (Off:0 Def:2),8:47 PM
+143,1,2,148,0020600064,,,8:18,2,5,0,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Thomas 17' Jump Shot,8:47 PM
+144,0,4,149,0020600064,,,8:16,2,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Bell REBOUND (Off:1 Def:0),8:47 PM
+145,1,2,150,0020600064,,,7:59,2,5,0,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Thomas 6' Jump Shot,8:47 PM
+146,0,4,151,0020600064,Ginobili REBOUND (Off:0 Def:3),,7:57,2,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:47 PM
+147,2,5,152,0020600064,Duncan Lost Ball Turnover (P1.T4),,7:45,2,4,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Banks STEAL (1 STL),8:47 PM
+148,5,1,153,0020600064,,,7:40,2,5,5,0,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,34 - 26,-8,Banks 2' Layup (5 PTS) (Barbosa 3 AST),8:47 PM
+149,1,2,154,0020600064,MISS Duncan 5' Jump Shot,,7:16,2,4,0,5,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,,,Diaw BLOCK (1 BLK),8:48 PM
+150,0,4,155,0020600064,Horry REBOUND (Off:1 Def:1),,7:14,2,4,0,0,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:48 PM
+151,1,1,156,0020600064,Parker 14' Jump Shot (6 PTS) (Horry 1 AST),,7:13,2,4,4,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,34 - 28,-6,,8:48 PM
+152,1,2,157,0020600064,Duncan BLOCK (1 BLK),,6:47,2,5,0,4,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,,,MISS Thomas 4' Jump Shot,8:48 PM
+153,0,4,159,0020600064,,,6:47,2,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Rebound,8:48 PM
+154,4,9,158,0020600064,,,6:47,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:48 PM
+155,0,8,160,0020600064,SUB: Barry FOR Ginobili,,6:47,2,4,4,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:51 PM
+156,0,8,161,0020600064,SUB: Oberto FOR Horry,,6:47,2,4,4,0,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:51 PM
+157,0,8,162,0020600064,SUB: Udrih FOR Finley,,6:47,2,4,4,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,2757,Beno Udrih,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:51 PM
+158,0,8,163,0020600064,,,6:47,2,5,5,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Nash FOR Bell,8:52 PM
+159,0,10,164,0020600064,Jump Ball Duncan vs. Thomas: Tip to Diaw,,6:47,2,4,5,5,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,,,,8:52 PM
+160,11,5,165,0020600064,,,6:40,2,3,0,1,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Turnover: Shot Clock (T#3),8:52 PM
+161,1,6,166,0020600064,,,6:28,2,5,4,1,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Thomas P.FOUL (P1.T2),8:52 PM
+162,44,1,167,0020600064,Oberto 2' Reverse Layup (8 PTS) (Duncan 2 AST),,6:21,2,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,34 - 30,-4,,8:53 PM
+163,5,1,168,0020600064,,,6:09,2,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,36 - 30,-6,Barbosa 1' Layup (8 PTS),8:53 PM
+164,2,6,169,0020600064,,,5:49,2,5,4,1,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Thomas S.FOUL (P2.T3),8:53 PM
+165,1,9,170,0020600064,SPURS Timeout: Regular (Full 2 Short 0),,5:49,2,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,8:53 PM
+166,0,8,172,0020600064,,,5:49,2,5,5,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,147,Jalen Rose,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Rose FOR Diaw,8:56 PM
+167,0,8,173,0020600064,,,5:49,2,5,5,0,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Marion FOR Banks,8:56 PM
+168,0,8,174,0020600064,,,5:49,2,5,5,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Stoudemire FOR Thomas,8:56 PM
+169,11,3,175,0020600064,Duncan Free Throw 1 of 2 (5 PTS),,5:49,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,36 - 31,-5,,8:57 PM
+170,12,3,176,0020600064,Duncan Free Throw 2 of 2 (6 PTS),,5:49,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,36 - 32,-4,,8:57 PM
+171,1,2,177,0020600064,,,5:40,2,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Marion 25' 3PT Jump Shot,8:57 PM
+172,0,4,178,0020600064,,,5:38,2,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Barbosa REBOUND (Off:1 Def:1),8:57 PM
+173,0,5,182,0020600064,Barry STEAL (1 STL),,5:38,2,5,4,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Barbosa No Turnover (P2.T4),8:57 PM
+174,5,1,179,0020600064,Parker 1' Layup (8 PTS) (Barry 1 AST),,5:32,2,4,4,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,36 - 34,-2,,8:57 PM
+175,1,1,181,0020600064,,,5:15,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,38 - 34,-4,Stoudemire 10' Jump Shot (6 PTS),8:58 PM
+176,1,1,183,0020600064,Parker 17' Jump Shot (10 PTS),,5:00,2,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,38 - 36,-2,,8:58 PM
+177,1,2,184,0020600064,,,4:50,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Stoudemire 4' Jump Shot,8:58 PM
+178,0,4,185,0020600064,Duncan REBOUND (Off:2 Def:4),,4:48,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:58 PM
+179,1,2,186,0020600064,MISS Duncan 6' Jump Shot,,4:38,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:58 PM
+180,0,4,187,0020600064,,,4:37,2,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:0 Def:7),8:58 PM
+181,1,1,188,0020600064,,,4:31,2,5,5,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,41 - 36,-5,Barbosa  3PT Jump Shot (11 PTS) (Nash 5 AST),8:58 PM
+182,1,2,189,0020600064,MISS Parker 17' Jump Shot,,4:12,2,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,8:59 PM
+183,0,4,190,0020600064,,,4:10,2,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Nash REBOUND (Off:0 Def:2),8:59 PM
+184,4,5,191,0020600064,,,4:04,2,5,0,1,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Barbosa Traveling Turnover (P3.T5),8:59 PM
+185,2,6,193,0020600064,,,3:49,2,5,4,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Stoudemire S.FOUL (P1.T4),8:59 PM
+186,11,3,194,0020600064,Duncan Free Throw 1 of 2 (7 PTS),,3:49,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,41 - 37,-4,,9:00 PM
+187,12,3,195,0020600064,MISS Duncan Free Throw 2 of 2,,3:49,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:00 PM
+188,0,4,196,0020600064,,,3:47,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:0 Def:3),9:00 PM
+189,8,1,197,0020600064,,,3:32,2,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,43 - 37,-6,Stoudemire 3' Slam Dunk (8 PTS) (Nash 6 AST),9:00 PM
+190,5,1,198,0020600064,Duncan 2' Layup (9 PTS),,3:16,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,43 - 39,-4,,9:01 PM
+191,1,2,199,0020600064,,,3:03,2,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Barbosa 11' Jump Shot,9:01 PM
+192,0,4,200,0020600064,SPURS Rebound,,3:01,2,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,9:01 PM
+193,1,6,201,0020600064,,,2:45,2,5,4,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Stoudemire P.FOUL (P2.PN),9:01 PM
+194,1,9,202,0020600064,,,2:45,2,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Regular (Reg.2 Short 0),9:01 PM
+195,0,8,204,0020600064,SUB: Ginobili FOR Udrih,,2:45,2,4,4,0,2757,Beno Udrih,SAS,San Antonio,1610612759.0,Spurs,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:04 PM
+196,11,3,205,0020600064,Duncan Free Throw 1 of 2 (10 PTS),,2:45,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,43 - 40,-3,,9:04 PM
+197,12,3,206,0020600064,Duncan Free Throw 2 of 2 (11 PTS),,2:45,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,43 - 41,-2,,9:05 PM
+198,1,2,207,0020600064,,,2:26,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Stoudemire 19' Jump Shot,9:05 PM
+199,0,4,208,0020600064,Barry REBOUND (Off:0 Def:2),,2:24,2,4,0,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:05 PM
+200,5,2,209,0020600064,MISS Ginobili 3' Layup,,2:18,2,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:05 PM
+201,0,4,210,0020600064,,,2:16,2,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:0 Def:8),9:05 PM
+202,1,1,211,0020600064,,,2:12,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,45 - 41,-4,Stoudemire 8' Jump Shot (10 PTS),9:06 PM
+203,2,6,212,0020600064,Barry S.FOUL (P1.T1),,2:12,2,4,5,1,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:06 PM
+204,0,8,213,0020600064,,,2:12,2,5,5,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Bell FOR Barbosa,9:06 PM
+205,10,3,214,0020600064,,,2:12,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Stoudemire Free Throw 1 of 1,9:06 PM
+206,0,4,215,0020600064,Ginobili REBOUND (Off:0 Def:4),,2:11,2,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:06 PM
+207,1,1,216,0020600064,Oberto 17' Jump Shot (10 PTS) (Parker 3 AST),,1:59,2,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,45 - 43,-2,,9:06 PM
+208,4,6,217,0020600064,,,1:48,2,5,4,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Stoudemire OFF.Foul (P3),9:07 PM
+209,5,5,218,0020600064,,,1:48,2,5,0,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire Foul Turnover (P1.T6),9:07 PM
+210,66,1,219,0020600064,Duncan 7' Jump Bank Shot (13 PTS),,1:30,2,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,45 - 45,TIE,,9:07 PM
+211,1,1,220,0020600064,,,1:14,2,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,47 - 45,-2,Stoudemire 16' Jump Shot (12 PTS) (Marion 3 AST),9:07 PM
+212,5,1,221,0020600064,Parker 2' Layup (12 PTS),,0:54,2,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,47 - 47,TIE,,9:08 PM
+213,1,1,222,0020600064,,,0:44,2,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,49 - 47,-2,Stoudemire 6' Jump Shot (14 PTS) (Nash 7 AST),9:08 PM
+214,5,2,223,0020600064,MISS Parker 2' Layup,,0:30,2,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:08 PM
+215,0,4,224,0020600064,,,0:28,2,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:0 Def:9),9:08 PM
+216,4,6,225,0020600064,,,0:27,2,5,4,1,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Marion OFF.Foul (P3),9:08 PM
+217,5,5,226,0020600064,,,0:27,2,5,0,1,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion Foul Turnover (P1.T7),9:08 PM
+218,0,8,227,0020600064,,,0:27,2,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Diaw FOR Stoudemire,9:08 PM
+219,0,8,228,0020600064,SUB: Horry FOR Oberto,,0:27,2,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:09 PM
+220,1,1,229,0020600064,Barry  3PT Jump Shot (6 PTS) (Ginobili 3 AST),,0:06,2,4,4,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,49 - 50,1,,9:09 PM
+221,1,2,230,0020600064,,,0:00,2,5,0,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Diaw 25' 3PT Jump Shot,9:09 PM
+222,0,4,231,0020600064,,,0:00,2,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Rebound,9:09 PM
+223,0,13,233,0020600064,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,49 - 50,1,,9:10 PM
+224,0,12,235,0020600064,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,49 - 50,1,,9:28 PM
+225,1,2,236,0020600064,MISS Ginobili 20' Jump Shot,,11:44,3,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:29 PM
+226,0,4,237,0020600064,,,11:42,3,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Barbosa REBOUND (Off:1 Def:2),9:29 PM
+227,42,2,238,0020600064,,,11:28,3,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Barbosa 3' Driving Layup,9:29 PM
+228,0,4,239,0020600064,,,11:26,3,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:1 Def:3),9:29 PM
+229,1,1,240,0020600064,,,11:22,3,5,5,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,52 - 50,-2,Bell 24' 3PT Jump Shot (8 PTS) (Nash 8 AST),9:30 PM
+230,1,2,241,0020600064,MISS Bowen 18' Jump Shot,,11:01,3,4,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:30 PM
+231,0,4,242,0020600064,Duncan REBOUND (Off:3 Def:4),,11:01,3,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:30 PM
+232,3,6,243,0020600064,,,11:01,3,5,4,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Stoudemire L.B.FOUL (P4.T1),9:30 PM
+233,0,8,244,0020600064,,,11:01,3,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Thomas FOR Stoudemire,9:30 PM
+234,4,5,245,0020600064,Oberto Traveling Turnover (P2.T5),,10:50,3,4,0,1,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:31 PM
+235,1,2,246,0020600064,,,10:33,3,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Marion 24' 3PT Jump Shot,9:31 PM
+236,0,4,247,0020600064,Oberto REBOUND (Off:0 Def:3),,10:32,3,4,0,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:31 PM
+237,1,2,248,0020600064,MISS Bowen 24' 3PT Jump Shot,,10:24,3,4,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:31 PM
+238,0,4,249,0020600064,,,10:22,3,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Bell REBOUND (Off:1 Def:1),9:31 PM
+239,1,1,250,0020600064,,,10:15,3,5,5,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,55 - 50,-5,Nash 26' 3PT Jump Shot (7 PTS) (Bell 1 AST),9:31 PM
+240,66,2,251,0020600064,MISS Parker 3' Jump Bank Shot,,10:03,3,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:32 PM
+241,0,4,252,0020600064,Bowen REBOUND (Off:1 Def:0),,10:01,3,4,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:32 PM
+242,5,2,253,0020600064,MISS Bowen 2' Layup,,9:59,3,4,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:32 PM
+243,0,4,254,0020600064,,,9:58,3,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:0 Def:10),9:32 PM
+244,1,1,255,0020600064,,,9:52,3,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,58 - 50,-8,Barbosa  3PT Jump Shot (14 PTS),9:32 PM
+245,1,9,256,0020600064,SPURS Timeout: Regular (Full 3 Short 0),,9:45,3,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,9:32 PM
+246,4,6,258,0020600064,Ginobili OFF.Foul (P1),,9:36,3,4,5,1,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:35 PM
+247,5,5,259,0020600064,Ginobili Foul Turnover (P1.T6),,9:36,3,4,0,1,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:35 PM
+248,8,5,260,0020600064,,,9:22,3,5,0,1,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Thomas 3 Second Violation Turnover (P1.T8),9:36 PM
+249,1,2,261,0020600064,MISS Ginobili 4' Jump Shot,,9:02,3,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:36 PM
+250,0,4,262,0020600064,Ginobili REBOUND (Off:1 Def:4),,9:00,3,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:36 PM
+251,5,1,263,0020600064,Oberto 2' Layup (12 PTS) (Ginobili 4 AST),,8:59,3,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,58 - 52,-6,,9:36 PM
+252,1,5,264,0020600064,Parker STEAL (2 STL),,8:45,3,5,4,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Nash Bad Pass Turnover (P1.T9),9:36 PM
+253,5,2,265,0020600064,MISS Parker 3' Layup,,8:38,3,4,0,5,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,,,Barbosa BLOCK (1 BLK),9:36 PM
+254,0,4,266,0020600064,,,8:35,3,5,0,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:4),9:37 PM
+255,5,1,267,0020600064,,,8:31,3,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,60 - 52,-8,Nash 2' Layup (9 PTS),9:37 PM
+256,8,5,268,0020600064,Duncan 3 Second Violation Turnover (P2.T7),,8:16,3,4,0,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:37 PM
+257,1,2,269,0020600064,,,8:07,3,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Marion 25' 3PT Jump Shot,9:37 PM
+258,0,4,270,0020600064,Duncan REBOUND (Off:3 Def:5),,8:04,3,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:37 PM
+259,5,1,271,0020600064,Oberto 2' Layup (14 PTS) (Parker 4 AST),,7:53,3,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,60 - 54,-6,,9:37 PM
+260,46,1,272,0020600064,,,7:41,3,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,62 - 54,-8,Nash 5' Running Jump Shot (11 PTS),9:38 PM
+261,5,1,273,0020600064,Oberto 2' Layup (16 PTS) (Duncan 3 AST),,7:23,3,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,62 - 56,-6,,9:38 PM
+262,5,2,274,0020600064,Duncan BLOCK (2 BLK),,7:11,3,5,0,4,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,,,MISS Marion 2' Layup,9:38 PM
+263,0,4,275,0020600064,,,7:09,3,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:1 Def:10),9:38 PM
+264,5,1,276,0020600064,,,7:00,3,5,5,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,64 - 56,-8,Thomas 1' Layup (6 PTS) (Nash 9 AST),9:38 PM
+265,2,6,277,0020600064,Duncan S.FOUL (P2.T1),,7:00,3,4,5,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:38 PM
+266,10,3,278,0020600064,,,7:00,3,5,0,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,65 - 56,-9,Thomas Free Throw 1 of 1 (7 PTS),9:38 PM
+267,63,2,279,0020600064,MISS Ginobili 15' Fadeaway Jumper,,6:40,3,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:39 PM
+268,0,4,280,0020600064,SPURS Rebound,,6:38,3,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,9:39 PM
+269,1,1,281,0020600064,Ginobili 22' Jump Shot (5 PTS) (Bowen 1 AST),,6:35,3,4,4,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,65 - 58,-7,,9:39 PM
+270,5,1,282,0020600064,,,6:15,3,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,67 - 58,-9,Nash 2' Layup (13 PTS),9:40 PM
+271,59,2,283,0020600064,MISS Bowen 3' Finger Roll,,5:56,3,4,0,5,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,,,Marion BLOCK (1 BLK),9:40 PM
+272,0,4,285,0020600064,Oberto REBOUND (Off:1 Def:3),,5:53,3,4,0,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:40 PM
+273,5,1,284,0020600064,Oberto 3' Layup (18 PTS),,5:53,3,4,0,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,67 - 60,-7,,9:40 PM
+274,1,2,286,0020600064,,,5:46,3,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Barbosa 22' Jump Shot,9:40 PM
+275,0,4,287,0020600064,Oberto REBOUND (Off:1 Def:4),,5:44,3,4,0,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:40 PM
+276,4,6,288,0020600064,Duncan OFF.Foul (P3),,5:35,3,4,5,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:40 PM
+277,5,5,289,0020600064,Duncan Foul Turnover (P3.T8),,5:35,3,4,0,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:40 PM
+278,0,8,290,0020600064,SUB: Horry FOR Oberto,,5:35,3,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:41 PM
+279,0,8,291,0020600064,SUB: Barry FOR Ginobili,,5:35,3,4,4,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:41 PM
+280,0,8,292,0020600064,,,5:35,3,5,5,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Diaw FOR Barbosa,9:41 PM
+281,1,5,293,0020600064,,,5:23,3,5,0,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Thomas Bad Pass Turnover (P2.T10),9:41 PM
+282,1,2,294,0020600064,MISS Barry 19' Jump Shot,,5:04,3,4,0,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:42 PM
+283,0,4,295,0020600064,,,5:02,3,5,0,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:5),9:42 PM
+284,1,2,296,0020600064,,,4:57,3,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Nash 25' 3PT Jump Shot,9:42 PM
+285,0,4,297,0020600064,Duncan REBOUND (Off:3 Def:6),,4:55,3,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:42 PM
+286,1,1,298,0020600064,Parker 25' 3PT Jump Shot (15 PTS) (Duncan 4 AST),,4:40,3,4,4,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,67 - 63,-4,,9:42 PM
+287,1,1,299,0020600064,,,4:30,3,5,5,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,69 - 63,-6,Thomas 17' Jump Shot (9 PTS) (Nash 10 AST),9:42 PM
+288,1,1,300,0020600064,Parker 25' 3PT Jump Shot (18 PTS) (Duncan 5 AST),,4:04,3,4,4,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,69 - 66,-3,,9:43 PM
+289,1,2,301,0020600064,,,3:53,3,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Bell 18' Jump Shot,9:43 PM
+290,0,4,302,0020600064,Barry REBOUND (Off:0 Def:3),,3:51,3,4,0,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:43 PM
+291,5,1,303,0020600064,Duncan 3' Layup (15 PTS),,3:36,3,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,69 - 68,-1,,9:43 PM
+292,1,6,304,0020600064,Horry P.FOUL (P1.T2),,3:28,3,4,5,1,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:43 PM
+293,1,9,305,0020600064,,,3:28,3,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Regular (Reg.3 Short 0),9:43 PM
+294,0,8,307,0020600064,SUB: Finley FOR Bowen,,3:28,3,4,4,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:46 PM
+295,0,8,308,0020600064,SUB: Oberto FOR Duncan,,3:28,3,4,4,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:46 PM
+296,0,8,309,0020600064,,,3:28,3,5,5,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Stoudemire FOR Thomas,9:47 PM
+297,0,8,310,0020600064,,,3:28,3,5,5,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Barbosa FOR Nash,9:47 PM
+298,42,2,311,0020600064,Oberto BLOCK (1 BLK),,3:23,3,5,0,4,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,,,MISS Marion 3' Driving Layup,9:47 PM
+299,0,4,312,0020600064,Oberto REBOUND (Off:1 Def:5),,3:19,3,4,0,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:47 PM
+300,42,2,313,0020600064,MISS Horry 2' Driving Layup,,3:06,3,4,0,0,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:47 PM
+301,0,4,314,0020600064,,,3:05,3,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Rebound,9:47 PM
+302,66,1,315,0020600064,,,2:52,3,5,0,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,71 - 68,-3,Diaw 5' Jump Bank Shot (2 PTS),9:47 PM
+303,1,6,316,0020600064,,,2:41,3,5,4,1,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Diaw P.FOUL (P1.T2),9:48 PM
+304,1,2,317,0020600064,MISS Parker 20' Jump Shot,,2:36,3,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:48 PM
+305,0,4,318,0020600064,,,2:34,3,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:1 Def:4),9:48 PM
+306,66,1,319,0020600064,,,2:20,3,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,73 - 68,-5,Stoudemire 6' Jump Bank Shot (16 PTS),9:48 PM
+307,2,6,320,0020600064,,,1:57,3,5,4,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Stoudemire S.FOUL (P5.T3),9:49 PM
+308,0,8,322,0020600064,,,1:57,3,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Banks FOR Stoudemire,9:49 PM
+309,11,3,323,0020600064,Barry Free Throw 1 of 2 (7 PTS),,1:57,3,4,0,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,73 - 69,-4,,9:49 PM
+310,12,3,325,0020600064,Barry Free Throw 2 of 2 (8 PTS),,1:57,3,4,0,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,73 - 70,-3,,9:49 PM
+311,42,2,326,0020600064,,,1:47,3,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Barbosa 4' Driving Layup,9:50 PM
+312,0,4,327,0020600064,,,1:46,3,5,0,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Diaw REBOUND (Off:1 Def:2),9:50 PM
+313,1,2,328,0020600064,,,1:37,3,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Barbosa 14' Jump Shot,9:50 PM
+314,0,4,329,0020600064,Parker REBOUND (Off:0 Def:2),,1:35,3,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:50 PM
+315,1,2,330,0020600064,MISS Horry 20' Jump Shot,,1:20,3,4,0,0,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:50 PM
+316,0,4,331,0020600064,,,1:18,3,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:1 Def:11),9:50 PM
+317,1,2,332,0020600064,,,1:06,3,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Bell 25' 3PT Jump Shot,9:51 PM
+318,0,4,333,0020600064,Oberto REBOUND (Off:1 Def:6),,1:04,3,4,0,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:51 PM
+319,1,2,334,0020600064,MISS Parker 24' 3PT Jump Shot,,0:44,3,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:51 PM
+320,0,4,335,0020600064,,,0:41,3,5,0,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Diaw REBOUND (Off:1 Def:3),9:51 PM
+321,2,6,336,0020600064,Barry S.FOUL (P2.T3),,0:39,3,4,5,1,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:51 PM
+322,0,8,338,0020600064,SUB: Udrih FOR Parker,,0:39,3,4,4,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,2757,Beno Udrih,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:51 PM
+323,0,8,339,0020600064,SUB: Ginobili FOR Oberto,,0:39,3,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:51 PM
+324,11,3,340,0020600064,,,0:39,3,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,74 - 70,-4,Barbosa Free Throw 1 of 2 (15 PTS),9:51 PM
+325,12,3,341,0020600064,,,0:39,3,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,75 - 70,-5,Barbosa Free Throw 2 of 2 (16 PTS),9:52 PM
+326,4,6,342,0020600064,Barry OFF.Foul (P3),,0:30,3,4,5,1,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:52 PM
+327,5,5,343,0020600064,Barry Foul Turnover (P1.T9),,0:30,3,4,0,1,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:52 PM
+328,46,2,344,0020600064,,,0:19,3,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Marion 7' Running Jump Shot,9:53 PM
+329,0,4,345,0020600064,Ginobili REBOUND (Off:1 Def:5),,0:17,3,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:53 PM
+330,1,2,346,0020600064,MISS Finley 21' Jump Shot,,0:03,3,4,0,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:53 PM
+331,0,4,348,0020600064,Horry REBOUND (Off:2 Def:1),,0:01,3,4,0,0,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:53 PM
+332,4,2,347,0020600064,MISS Horry 3' Tip Shot,,0:01,3,4,0,0,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:53 PM
+333,0,4,349,0020600064,,,0:00,3,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:1 Def:12),9:53 PM
+334,0,13,350,0020600064,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,75 - 70,-5,,9:53 PM
+335,0,12,352,0020600064,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,75 - 70,-5,,9:56 PM
+336,43,1,353,0020600064,,,11:48,4,5,5,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,77 - 70,-7,Marion 1' Alley Oop Layup (8 PTS) (Diaw 2 AST),9:57 PM
+337,42,1,354,0020600064,Ginobili 3' Driving Layup (7 PTS) (Finley 1 AST),,11:29,4,4,4,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,77 - 72,-5,,9:57 PM
+338,1,1,355,0020600064,,,11:06,4,5,0,0,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,79 - 72,-7,Banks 22' Jump Shot (7 PTS),9:57 PM
+339,5,1,356,0020600064,Finley 2' Layup (6 PTS) (Ginobili 5 AST),,10:48,4,4,4,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,79 - 74,-5,,9:58 PM
+340,1,2,357,0020600064,,,10:37,4,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Barbosa 21' Jump Shot,9:58 PM
+341,0,4,358,0020600064,Barry REBOUND (Off:0 Def:4),,10:35,4,4,0,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:58 PM
+342,5,2,359,0020600064,MISS Udrih 2' Layup,,10:24,4,4,0,0,2757,Beno Udrih,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:58 PM
+343,0,4,360,0020600064,,,10:22,4,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:1 Def:13),9:58 PM
+344,1,6,361,0020600064,Udrih P.FOUL (P1.T1),,10:19,4,4,5,1,2757,Beno Udrih,SAS,San Antonio,1610612759.0,Spurs,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:58 PM
+345,47,2,362,0020600064,,,10:06,4,5,0,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Diaw 6' Turnaround Jump Shot,9:59 PM
+346,0,4,363,0020600064,Ginobili REBOUND (Off:1 Def:6),,10:05,4,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,9:59 PM
+347,2,6,364,0020600064,,,10:01,4,5,4,1,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Barbosa S.FOUL (P3.T1),9:59 PM
+348,11,3,365,0020600064,Ginobili Free Throw 1 of 2 (8 PTS),,10:01,4,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,79 - 75,-4,,9:59 PM
+349,12,3,366,0020600064,Ginobili Free Throw 2 of 2 (9 PTS),,10:01,4,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,79 - 76,-3,,10:00 PM
+350,1,6,367,0020600064,Oberto P.FOUL (P2.T2),,9:50,4,4,5,1,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,10:00 PM
+351,1,1,368,0020600064,,,9:40,4,5,0,0,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,81 - 76,-5,Banks 20' Jump Shot (9 PTS),10:01 PM
+352,2,6,369,0020600064,,,9:27,4,5,4,1,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Bell S.FOUL (P2.T2),10:01 PM
+353,13,3,370,0020600064,Ginobili Free Throw 1 of 3 (10 PTS),,9:27,4,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,81 - 77,-4,,10:01 PM
+354,14,3,371,0020600064,Ginobili Free Throw 2 of 3 (11 PTS),,9:27,4,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,81 - 78,-3,,10:01 PM
+355,0,8,372,0020600064,SUB: Duncan FOR Finley,,9:27,4,4,4,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:02 PM
+356,0,8,373,0020600064,,,9:27,4,5,5,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Thomas FOR Marion,10:02 PM
+357,15,3,374,0020600064,Ginobili Free Throw 3 of 3 (12 PTS),,9:27,4,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,81 - 79,-2,,10:02 PM
+358,1,1,375,0020600064,,,9:04,4,5,5,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,83 - 79,-4,Thomas 17' Jump Shot (11 PTS) (Diaw 3 AST),10:02 PM
+359,5,7,376,0020600064,,,8:54,4,5,0,1,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Banks Violation:Kicked Ball,10:03 PM
+360,4,9,377,0020600064,,,8:54,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:03 PM
+361,63,2,379,0020600064,MISS Ginobili 13' Fadeaway Jumper,,8:47,4,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:06 PM
+362,0,4,380,0020600064,Oberto REBOUND (Off:2 Def:6),,8:45,4,4,0,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:06 PM
+363,66,2,381,0020600064,MISS Duncan 8' Jump Bank Shot,,8:34,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:06 PM
+364,0,4,382,0020600064,,,8:32,4,5,0,0,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Banks REBOUND (Off:0 Def:3),10:06 PM
+365,1,2,383,0020600064,,,8:27,4,5,0,0,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Banks 4' Jump Shot,10:06 PM
+366,0,4,384,0020600064,Duncan REBOUND (Off:3 Def:7),,8:25,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:06 PM
+367,59,2,385,0020600064,MISS Duncan 1' Finger Roll,,8:18,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:06 PM
+368,0,4,398,0020600064,Duncan REBOUND (Off:4 Def:7),,8:18,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:06 PM
+369,53,2,389,0020600064,MISS Duncan 2' Tip Shot,,8:17,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:06 PM
+370,0,4,386,0020600064,,,8:15,4,5,0,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Diaw REBOUND (Off:1 Def:4),10:06 PM
+371,1,1,387,0020600064,,,8:07,4,5,5,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,86 - 79,-7,Bell 25' 3PT Jump Shot (11 PTS) (Barbosa 4 AST),10:07 PM
+372,5,1,388,0020600064,Duncan 2' Layup (17 PTS) (Oberto 1 AST),,7:45,4,4,4,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,86 - 81,-5,,10:07 PM
+373,1,1,390,0020600064,,,7:29,4,5,5,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,88 - 81,-7,Diaw 16' Jump Shot (4 PTS) (Banks 2 AST),10:07 PM
+374,1,2,391,0020600064,MISS Udrih 25' 3PT Jump Shot,,7:09,4,4,0,0,2757,Beno Udrih,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:07 PM
+375,0,4,394,0020600064,SPURS Rebound,,7:08,4,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,10:08 PM
+376,3,6,395,0020600064,,,7:08,4,5,4,1,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Thomas L.B.FOUL (P3.T3),10:08 PM
+377,0,8,396,0020600064,SUB: Bowen FOR Ginobili,,7:08,4,4,4,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:08 PM
+378,0,8,397,0020600064,SUB: Parker FOR Udrih,,7:08,4,4,4,0,2757,Beno Udrih,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:08 PM
+379,1,2,400,0020600064,MISS Duncan 6' Jump Shot,,6:53,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:08 PM
+380,0,4,401,0020600064,,,6:51,4,5,0,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:6),10:08 PM
+381,66,2,402,0020600064,,,6:46,4,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Barbosa 12' Jump Bank Shot,10:08 PM
+382,0,4,403,0020600064,Barry REBOUND (Off:0 Def:5),,6:44,4,4,0,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:08 PM
+383,4,6,406,0020600064,Duncan OFF.Foul (P4),,6:23,4,4,5,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,10:09 PM
+384,5,5,407,0020600064,Duncan Foul Turnover (P4.T10),,6:23,4,4,0,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:09 PM
+385,0,8,408,0020600064,,,6:18,4,5,5,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Nash FOR Bell,10:09 PM
+386,0,8,412,0020600064,,,6:18,4,5,5,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Marion FOR Barbosa,10:09 PM
+387,11,5,409,0020600064,,,6:08,4,3,0,1,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Turnover: Shot Clock (T#11),10:09 PM
+388,1,9,411,0020600064,SPURS Timeout: Regular (Full 4 Short 0),,6:08,4,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,10:10 PM
+389,17,6,414,0020600064,,,5:55,4,5,0,1,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Suns T.Foul (Def. 3 Sec Banks ),10:13 PM
+390,16,3,415,0020600064,Barry Free Throw Technical (9 PTS),,5:55,4,4,0,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,88 - 82,-6,,10:13 PM
+391,1,2,416,0020600064,MISS Barry 26' 3PT Jump Shot,,5:47,4,4,0,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:13 PM
+392,0,4,417,0020600064,,,5:45,4,5,0,0,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Banks REBOUND (Off:0 Def:4),10:13 PM
+393,1,1,418,0020600064,,,5:28,4,5,5,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,91 - 82,-9,Nash 24' 3PT Jump Shot (16 PTS) (Diaw 4 AST),10:14 PM
+394,1,1,419,0020600064,Barry 25' 3PT Jump Shot (12 PTS) (Bowen 2 AST),,5:13,4,4,4,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,91 - 85,-6,,10:14 PM
+395,1,2,420,0020600064,,,4:57,4,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Nash 25' 3PT Jump Shot,10:14 PM
+396,0,4,421,0020600064,,,4:56,4,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Rebound,10:14 PM
+397,0,8,422,0020600064,,,4:56,4,5,5,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Stoudemire FOR Diaw,10:14 PM
+398,0,8,423,0020600064,,,4:56,4,5,5,0,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Bell FOR Banks,10:14 PM
+399,5,1,424,0020600064,,,4:48,4,5,5,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,93 - 85,-8,Thomas 2' Layup (13 PTS) (Nash 11 AST),10:15 PM
+400,1,6,425,0020600064,,,4:33,4,5,4,1,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Thomas P.FOUL (P4.T4),10:15 PM
+401,46,2,426,0020600064,MISS Barry 11' Running Jump Shot,,4:18,4,4,0,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:16 PM
+402,0,4,427,0020600064,,,4:17,4,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:1 Def:5),10:16 PM
+403,2,5,428,0020600064,Parker STEAL (3 STL),,4:17,4,5,4,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Stoudemire Lost Ball Turnover (P2.T12),10:16 PM
+404,2,6,429,0020600064,,,4:17,4,5,4,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Stoudemire S.FOUL (P6.PN),10:16 PM
+405,0,8,430,0020600064,,,4:17,4,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Barbosa FOR Stoudemire,10:17 PM
+406,11,3,431,0020600064,Parker Free Throw 1 of 2 (19 PTS),,4:17,4,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,93 - 86,-7,,10:17 PM
+407,12,3,432,0020600064,Parker Free Throw 2 of 2 (20 PTS),,4:17,4,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,93 - 87,-6,,10:17 PM
+408,1,2,433,0020600064,,,3:56,4,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Marion 25' 3PT Jump Shot,10:18 PM
+409,0,4,434,0020600064,,,3:54,4,5,0,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:1 Def:6),10:18 PM
+410,1,5,435,0020600064,Oberto STEAL (1 STL),,3:43,4,5,4,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Marion Bad Pass Turnover (P2.T13),10:18 PM
+411,47,1,436,0020600064,Parker 5' Turnaround Jump Shot (22 PTS),,3:27,4,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,93 - 89,-4,,10:18 PM
+412,1,2,437,0020600064,,,3:17,4,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Bell 24' 3PT Jump Shot,10:18 PM
+413,0,4,438,0020600064,,,3:16,4,5,0,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Barbosa REBOUND (Off:2 Def:2),10:19 PM
+414,1,6,439,0020600064,Parker P.FOUL (P1.T3),,3:16,4,4,5,1,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,10:19 PM
+415,5,2,440,0020600064,,,3:05,4,5,0,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Thomas 3' Layup,10:19 PM
+416,0,4,445,0020600064,,,3:05,4,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Bell REBOUND (Off:2 Def:1),10:19 PM
+417,53,1,446,0020600064,,,3:05,4,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,95 - 89,-6,Bell 2' Tip Shot (13 PTS),10:19 PM
+418,1,2,441,0020600064,MISS Bowen 24' 3PT Jump Shot,,2:45,4,4,0,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:20 PM
+419,0,4,442,0020600064,,,2:43,4,5,0,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:1 Def:7),10:20 PM
+420,1,5,443,0020600064,,,2:27,4,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Nash Bad Pass Turnover (P2.T14),10:20 PM
+421,1,9,444,0020600064,,,2:27,4,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Regular (Reg.4 Short 0),10:20 PM
+422,0,8,448,0020600064,SUB: Ginobili FOR Bowen,,2:27,4,4,4,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:23 PM
+423,5,1,449,0020600064,Oberto 3' Layup (20 PTS) (Parker 5 AST),,2:13,4,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,95 - 91,-4,,10:23 PM
+424,1,5,450,0020600064,Parker STEAL (4 STL),,1:59,4,5,4,0,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Barbosa Bad Pass Turnover (P4.T15),10:23 PM
+425,47,1,451,0020600064,Duncan 10' Turnaround Jump Shot (19 PTS),,1:47,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,95 - 93,-2,,10:24 PM
+426,41,1,452,0020600064,,,1:25,4,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,97 - 93,-4,Nash 4' Running Layup (18 PTS),10:24 PM
+427,66,1,453,0020600064,Duncan 10' Jump Bank Shot (21 PTS),,1:10,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,97 - 95,-2,,10:24 PM
+428,1,2,454,0020600064,,,0:45,4,5,0,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Thomas 14' Jump Shot,10:25 PM
+429,0,4,455,0020600064,Duncan REBOUND (Off:4 Def:8),,0:44,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:25 PM
+430,42,1,456,0020600064,Parker 1' Driving Layup (24 PTS),,0:39,4,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,97 - 97,TIE,,10:25 PM
+431,2,6,457,0020600064,,,0:39,4,5,4,1,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Thomas S.FOUL (P5.PN),10:25 PM
+432,0,8,459,0020600064,SUB: Bowen FOR Barry,,0:39,4,4,4,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:26 PM
+433,10,3,460,0020600064,Parker Free Throw 1 of 1 (25 PTS),,0:39,4,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,97 - 98,1,,10:26 PM
+434,1,9,461,0020600064,,,0:39,4,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Regular (Reg.5 Short 0),10:26 PM
+435,4,6,463,0020600064,,,0:31,4,5,4,1,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Barbosa OFF.Foul (P4),10:28 PM
+436,5,5,464,0020600064,,,0:31,4,5,0,1,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Barbosa Foul Turnover (P5.T16),10:28 PM
+437,0,8,465,0020600064,SUB: Barry FOR Bowen,,0:31,4,4,4,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:29 PM
+438,2,9,466,0020600064,SPURS Timeout: Short (Full 4 Short 1),,0:31,4,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,10:29 PM
+439,2,9,467,0020600064,SPURS Timeout: Short (Full 4 Short 2),,0:20,4,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,10:31 PM
+440,5,1,468,0020600064,Duncan 2' Layup (23 PTS) (Oberto 2 AST),,0:10,4,4,4,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,97 - 100,3,,10:32 PM
+441,2,6,469,0020600064,,,0:10,4,5,4,1,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Bell S.FOUL (P3.PN),10:32 PM
+442,0,8,470,0020600064,SUB: Bowen FOR Barry,,0:10,4,4,4,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:33 PM
+443,10,3,471,0020600064,Duncan Free Throw 1 of 1 (24 PTS),,0:10,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,97 - 101,4,,10:33 PM
+444,2,9,472,0020600064,,,0:10,4,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Short (Reg.5 Short 1),10:33 PM
+445,1,1,474,0020600064,,,0:07,4,5,5,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,100 - 101,1,Bell  3PT Jump Shot (16 PTS) (Marion 4 AST),10:35 PM
+446,1,9,475,0020600064,SPURS Timeout: Regular (Full 5 Short 2),,0:07,4,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,10:35 PM
+447,0,8,476,0020600064,SUB: Barry FOR Bowen,,0:07,4,4,4,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:36 PM
+448,0,8,477,0020600064,SUB: Finley FOR Oberto,,0:07,4,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:36 PM
+449,0,8,478,0020600064,,,0:07,4,5,5,0,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Banks FOR Thomas,10:37 PM
+450,1,6,479,0020600064,,,0:06,4,5,4,1,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Marion P.FOUL (P4.PN),10:37 PM
+451,0,8,480,0020600064,SUB: Bowen FOR Barry,,0:06,4,4,4,0,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:37 PM
+452,0,8,481,0020600064,,,0:06,4,5,5,0,2556,Marcus Banks,PHX,Phoenix,1610612756.0,Suns,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Thomas FOR Banks,10:37 PM
+453,11,3,482,0020600064,MISS Duncan Free Throw 1 of 2,,0:06,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:37 PM
+454,1,4,483,0020600064,SPURS Rebound,,0:06,4,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,10:37 PM
+455,12,3,484,0020600064,MISS Duncan Free Throw 2 of 2,,0:06,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:38 PM
+456,0,4,485,0020600064,,,0:05,4,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:1 Def:14),10:38 PM
+457,2,9,486,0020600064,,,0:05,4,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Short (Reg.5 Short 2),10:38 PM
+458,0,8,488,0020600064,SUB: Oberto FOR Finley,,0:05,4,4,4,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:39 PM
+459,2,6,489,0020600064,Oberto S.FOUL (P3.T4),,0:01,4,4,5,1,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,10:39 PM
+460,11,3,490,0020600064,,,0:01,4,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,101 - 101,TIE,Bell Free Throw 1 of 2 (17 PTS),10:40 PM
+461,0,8,491,0020600064,SUB: Horry FOR Oberto,,0:01,4,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,109,Robert Horry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:40 PM
+462,0,8,493,0020600064,SUB: Barry FOR Bowen,,0:01,4,4,4,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,699,Brent Barry,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:40 PM
+463,12,3,494,0020600064,,,0:01,4,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Bell Free Throw 2 of 2,10:40 PM
+464,0,4,495,0020600064,SPURS Rebound,,0:01,4,2,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,,10:40 PM
+465,47,2,496,0020600064,MISS Duncan 40' 3PT Turnaround Jump Shot,,0:00,4,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:41 PM
+466,0,4,497,0020600064,,,0:00,4,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Bell REBOUND (Off:2 Def:2),10:41 PM
+467,0,13,498,0020600064,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,101 - 101,TIE,,10:41 PM
+468,0,12,500,0020600064,,,5:00,5,0,0,0,0,,,,,,0,,,,,,0,,,,,,101 - 101,TIE,,10:44 PM
+469,0,10,501,0020600064,Jump Ball Duncan vs. Thomas: Tip to Oberto,,5:00,5,4,5,4,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,703,Kurt Thomas,PHX,Phoenix,1610612756.0,Suns,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,,,,10:44 PM
+470,1,1,502,0020600064,Bowen 15' Jump Shot (2 PTS) (Parker 6 AST),,4:42,5,4,4,0,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,101 - 103,2,,10:45 PM
+471,1,6,503,0020600064,Parker P.FOUL (P2.T1),,4:26,5,4,5,1,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,10:45 PM
+472,41,5,504,0020600064,,,4:20,5,5,0,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Diaw Poss Lost Ball Turnover (P1.T17),10:45 PM
+473,47,2,505,0020600064,MISS Duncan 10' Turnaround Jump Shot,,4:02,5,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:46 PM
+474,0,4,506,0020600064,Oberto REBOUND (Off:3 Def:6),,4:00,5,4,0,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:46 PM
+475,1,1,507,0020600064,Parker 19' Jump Shot (27 PTS),,3:41,5,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,101 - 105,4,,10:46 PM
+476,1,1,508,0020600064,,,3:19,5,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,103 - 105,2,Nash 16' Jump Shot (20 PTS),10:46 PM
+477,1,5,509,0020600064,Duncan Bad Pass Turnover (P5.T11),,3:01,5,4,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Nash STEAL (1 STL),10:47 PM
+478,1,2,510,0020600064,,,2:52,5,5,0,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Bell 13' Jump Shot,10:47 PM
+479,0,4,511,0020600064,Duncan REBOUND (Off:4 Def:9),,2:50,5,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:47 PM
+480,5,1,512,0020600064,Oberto 3' Layup (22 PTS) (Duncan 6 AST),,2:33,5,4,4,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,103 - 107,4,,10:47 PM
+481,47,2,513,0020600064,,,2:13,5,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Marion 9' Turnaround Jump Shot,10:48 PM
+482,0,4,514,0020600064,Duncan REBOUND (Off:4 Def:10),,2:10,5,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:48 PM
+483,5,1,515,0020600064,Duncan 3' Layup (26 PTS),,1:52,5,4,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,103 - 109,6,,10:48 PM
+484,1,9,516,0020600064,,,1:52,5,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Regular (Reg.6 Short 2),10:48 PM
+485,0,8,526,0020600064,,,1:52,5,5,5,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Barbosa FOR Diaw,10:48 PM
+486,1,2,518,0020600064,,,1:38,5,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Nash  3PT Jump Shot,10:51 PM
+487,0,4,519,0020600064,Ginobili REBOUND (Off:1 Def:7),,1:36,5,4,0,0,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:51 PM
+488,1,6,520,0020600064,,,1:21,5,5,4,1,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Bell P.FOUL (P4.T1),10:51 PM
+489,46,1,521,0020600064,Parker 9' Running Jump Shot (29 PTS),,1:14,5,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,103 - 111,8,,10:52 PM
+490,1,1,522,0020600064,,,1:03,5,5,5,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,2571,Leandro Barbosa,PHX,Phoenix,1610612756.0,Suns,0,,,,,,106 - 111,5,Bell  3PT Jump Shot (20 PTS) (Barbosa 5 AST),10:52 PM
+491,4,6,523,0020600064,Ginobili OFF.Foul (P2),,0:51,5,4,5,1,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,10:52 PM
+492,5,5,524,0020600064,Ginobili Foul Turnover (P2.T12),,0:51,5,4,0,1,1938,Manu Ginobili,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:52 PM
+493,2,9,525,0020600064,,,0:51,5,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Short (Reg.6 Short 3),10:53 PM
+494,0,8,528,0020600064,,,0:51,5,5,5,0,1952,Raja Bell,PHX,Phoenix,1610612756.0,Suns,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Diaw FOR Bell,10:54 PM
+495,1,2,529,0020600064,,,0:37,5,5,0,0,2564,Boris Diaw,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Diaw 19' Jump Shot,10:54 PM
+496,0,4,530,0020600064,Oberto REBOUND (Off:3 Def:7),,0:35,5,4,0,0,101177,Fabricio Oberto,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:54 PM
+497,1,2,531,0020600064,MISS Parker 18' Jump Shot,,0:15,5,4,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,,10:54 PM
+498,0,4,532,0020600064,,,0:13,5,5,0,0,1890,Shawn Marion,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Marion REBOUND (Off:1 Def:15),10:54 PM
+499,4,6,533,0020600064,,,0:06,5,5,4,1,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,1477,Bruce Bowen,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Nash OFF.Foul (P3),10:55 PM
+500,5,5,534,0020600064,,,0:06,5,5,0,1,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Nash Foul Turnover (P3.T18),10:55 PM
+501,0,13,536,0020600064,,,0:00,5,0,0,0,0,,,,,,0,,,,,,0,,,,,,106 - 111,5,,10:55 PM

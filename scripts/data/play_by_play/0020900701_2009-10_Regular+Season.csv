@@ -1,0 +1,540 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020900701,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:10 PM
+1,0,10,1,0020900701,Jump Ball Scola vs. Lopez: Tip to Nash,,12:00,1,4,5,5,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,,,,7:10 PM
+2,1,5,2,0020900701,,,11:45,1,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Hill Bad Pass Turnover (P1.T1),7:11 PM
+3,2,6,3,0020900701,,,11:36,1,5,4,1,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Hill S.FOUL (P1.T1),7:11 PM
+4,11,3,4,0020900701,Battier Free Throw 1 of 2 (1 PTS),,11:36,1,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,0 - 1,1,,7:12 PM
+5,12,3,6,0020900701,MISS Battier Free Throw 2 of 2,,11:36,1,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:12 PM
+6,0,4,8,0020900701,,,11:36,1,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Nash REBOUND (Off:0 Def:1),7:12 PM
+7,2,6,9,0020900701,Scola S.FOUL (P1.T1),,11:17,1,4,5,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,7:12 PM
+8,11,3,10,0020900701,,,11:17,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,1 - 1,TIE,Stoudemire Free Throw 1 of 2 (1 PTS),7:12 PM
+9,12,3,12,0020900701,,,11:17,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,2 - 1,-1,Stoudemire Free Throw 2 of 2 (2 PTS),7:13 PM
+10,1,1,14,0020900701,Ariza  3PT Jump Shot (3 PTS),,10:57,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,2 - 4,2,,7:13 PM
+11,3,1,15,0020900701,,,10:38,1,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,4 - 4,TIE,Lopez 7' Hook Shot (2 PTS),7:14 PM
+12,1,1,16,0020900701,Brooks 20' Jump Shot (2 PTS) (Scola 1 AST),,10:21,1,4,4,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,4 - 6,2,,7:14 PM
+13,1,2,17,0020900701,,,10:08,1,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Richardson  3PT Jump Shot,7:14 PM
+14,0,4,19,0020900701,,,10:06,1,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Lopez REBOUND (Off:1 Def:0),7:14 PM
+15,4,2,18,0020900701,,,10:06,1,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Lopez  Tip Shot,7:14 PM
+16,0,4,21,0020900701,,,10:05,1,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Lopez REBOUND (Off:2 Def:0),7:14 PM
+17,4,1,20,0020900701,,,10:05,1,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,6 - 6,TIE,Lopez  Tip Shot (4 PTS),7:14 PM
+18,1,2,22,0020900701,MISS Ariza 22' Jump Shot,,9:57,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:14 PM
+19,0,4,23,0020900701,Hayes REBOUND (Off:1 Def:0),,9:56,1,4,0,0,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:14 PM
+20,3,2,24,0020900701,MISS Scola 9' Hook Shot,,9:48,1,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:14 PM
+21,0,4,26,0020900701,Hayes REBOUND (Off:2 Def:0),,9:46,1,4,0,0,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:14 PM
+22,5,2,25,0020900701,MISS Hayes  Layup,,9:46,1,4,0,5,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,,,Stoudemire BLOCK (1 BLK),7:14 PM
+23,0,4,27,0020900701,,,9:44,1,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Nash REBOUND (Off:0 Def:2),7:14 PM
+24,1,2,28,0020900701,,,9:40,1,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Hill 16' Jump Shot,7:15 PM
+25,0,4,29,0020900701,Ariza REBOUND (Off:0 Def:1),,9:36,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:15 PM
+26,1,2,30,0020900701,MISS Brooks 25' 3PT Jump Shot,,9:29,1,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:15 PM
+27,0,4,31,0020900701,Battier REBOUND (Off:1 Def:0),,9:28,1,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:15 PM
+28,1,2,32,0020900701,MISS Battier 24' 3PT Jump Shot,,9:21,1,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:15 PM
+29,0,4,33,0020900701,,,9:20,1,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Richardson REBOUND (Off:0 Def:1),7:15 PM
+30,2,5,34,0020900701,Ariza STEAL (1 STL),,9:11,1,5,4,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Stoudemire Lost Ball Turnover (P1.T2),7:15 PM
+31,1,2,35,0020900701,MISS Brooks 21' Jump Shot,,9:05,1,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:15 PM
+32,0,4,36,0020900701,,,9:03,1,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Nash REBOUND (Off:0 Def:3),7:15 PM
+33,5,1,37,0020900701,,,8:59,1,5,5,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,8 - 6,-2,Hill  Layup (2 PTS) (Nash 1 AST),7:15 PM
+34,1,2,38,0020900701,MISS Scola 16' Jump Shot,,8:41,1,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:15 PM
+35,0,4,39,0020900701,,,8:40,1,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Lopez REBOUND (Off:2 Def:1),7:16 PM
+36,4,6,40,0020900701,,,8:32,1,5,4,1,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Lopez OFF.Foul (P1),7:16 PM
+37,5,5,41,0020900701,,,8:32,1,5,0,1,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Lopez Foul Turnover (P1.T3),7:16 PM
+38,80,2,42,0020900701,MISS Ariza 14' Step Back Jump Shot,,8:19,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:16 PM
+39,0,4,43,0020900701,,,8:17,1,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Nash REBOUND (Off:0 Def:4),7:16 PM
+40,2,6,44,0020900701,Ariza S.FOUL (P1.T2),,8:14,1,4,5,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,7:16 PM
+41,11,3,45,0020900701,,,8:14,1,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,9 - 6,-3,Hill Free Throw 1 of 2 (3 PTS),7:17 PM
+42,12,3,47,0020900701,,,8:14,1,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,10 - 6,-4,Hill Free Throw 2 of 2 (4 PTS),7:17 PM
+43,5,2,49,0020900701,MISS Scola  Layup,,8:03,1,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:17 PM
+44,0,4,50,0020900701,,,8:01,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:0 Def:1),7:17 PM
+45,5,2,51,0020900701,,,7:56,1,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Hill  Layup,7:17 PM
+46,0,4,52,0020900701,,,7:55,1,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Richardson REBOUND (Off:1 Def:1),7:17 PM
+47,44,1,53,0020900701,,,7:55,1,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,12 - 6,-6,Richardson  Reverse Layup (2 PTS),7:17 PM
+48,1,2,54,0020900701,MISS Battier 8' Jump Shot,,7:31,1,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:18 PM
+49,0,4,55,0020900701,,,7:30,1,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Hill REBOUND (Off:0 Def:1),7:18 PM
+50,1,2,56,0020900701,,,7:17,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Stoudemire 18' Jump Shot,7:18 PM
+51,0,4,57,0020900701,Ariza REBOUND (Off:0 Def:2),,7:16,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:18 PM
+52,78,2,58,0020900701,MISS Brooks 12' Floating Jump Shot,,7:02,1,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:18 PM
+53,0,4,59,0020900701,,,7:00,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:0 Def:2),7:18 PM
+54,7,1,60,0020900701,,,6:56,1,5,5,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,14 - 6,-8,Lopez  Dunk (6 PTS) (Hill 1 AST),7:18 PM
+55,1,9,61,0020900701,ROCKETS Timeout: Regular (Full 1 Short 0),,6:47,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,7:18 PM
+56,79,2,63,0020900701,MISS Brooks 25' 3PT Pullup Jump Shot,,6:40,1,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:21 PM
+57,0,4,64,0020900701,,,6:38,1,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Lopez REBOUND (Off:2 Def:2),7:21 PM
+58,1,5,65,0020900701,Hayes STEAL (1 STL),,6:26,1,5,4,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Stoudemire Bad Pass Turnover (P2.T4),7:21 PM
+59,3,2,66,0020900701,MISS Scola 5' Hook Shot,,6:12,1,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:22 PM
+60,0,4,67,0020900701,,,6:10,1,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Lopez REBOUND (Off:2 Def:3),7:22 PM
+61,1,2,68,0020900701,,,6:05,1,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Richardson 19' Jump Shot,7:22 PM
+62,0,4,69,0020900701,ROCKETS Rebound,,6:05,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,7:22 PM
+63,1,5,70,0020900701,Brooks Bad Pass Turnover (P1.T1),,5:52,1,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:22 PM
+64,1,2,71,0020900701,,,5:37,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Stoudemire 19' Jump Shot,7:23 PM
+65,0,4,72,0020900701,Battier REBOUND (Off:1 Def:1),,5:36,1,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:23 PM
+66,63,2,73,0020900701,MISS Ariza 14' Fadeaway Jumper,,5:15,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:23 PM
+67,0,4,74,0020900701,,,5:13,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:0 Def:3),7:23 PM
+68,1,1,75,0020900701,,,5:07,1,5,5,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,16 - 6,-10,Hill 18' Jump Shot (6 PTS) (Nash 2 AST),7:23 PM
+69,4,6,76,0020900701,Scola OFF.Foul (P2),,4:54,1,4,5,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,7:24 PM
+70,5,5,77,0020900701,Scola Foul Turnover (P1.T2),,4:54,1,4,0,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:24 PM
+71,0,8,78,0020900701,SUB: Landry FOR Scola,,4:54,1,4,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,7:24 PM
+72,0,8,79,0020900701,SUB: Budinger FOR Battier,,4:54,1,4,4,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,7:24 PM
+73,0,8,80,0020900701,,,4:54,1,5,5,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Frye FOR Lopez,7:24 PM
+74,5,1,81,0020900701,,,4:45,1,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,18 - 6,-12,Hill  Layup (8 PTS),7:24 PM
+75,2,6,82,0020900701,Landry S.FOUL (P1.T3),,4:45,1,4,5,1,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,7:24 PM
+76,10,3,83,0020900701,,,4:45,1,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,19 - 6,-13,Hill Free Throw 1 of 1 (9 PTS),7:24 PM
+77,42,1,85,0020900701,Budinger  Driving Layup (2 PTS),,4:24,1,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,19 - 8,-11,,7:25 PM
+78,52,1,86,0020900701,,,4:18,1,5,5,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,21 - 8,-13,Richardson  Alley Oop Dunk (4 PTS) (Hill 2 AST),7:25 PM
+79,0,8,87,0020900701,SUB: Andersen FOR Hayes,,4:00,1,4,4,0,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,7:25 PM
+80,2,6,88,0020900701,,,3:57,1,5,4,1,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Frye S.FOUL (P1.T2),7:26 PM
+81,11,3,89,0020900701,MISS Brooks Free Throw 1 of 2,,3:57,1,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:26 PM
+82,1,4,90,0020900701,ROCKETS Rebound,,3:57,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,7:26 PM
+83,12,3,91,0020900701,Brooks Free Throw 2 of 2 (3 PTS),,3:57,1,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,21 - 9,-12,,7:26 PM
+84,45,2,96,0020900701,Brooks BLOCK (1 BLK),,3:57,1,5,0,4,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,,,MISS Nash 25' 3PT Jump Shot,7:26 PM
+85,0,4,99,0020900701,,,3:57,1,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Rebound,7:26 PM
+86,11,5,93,0020900701,,,3:32,1,3,0,1,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Turnover: Shot Clock (T#5),7:27 PM
+87,0,8,94,0020900701,,,3:32,1,5,5,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Dudley FOR Richardson,7:27 PM
+88,1,1,95,0020900701,Budinger 17' Jump Shot (4 PTS) (Brooks 1 AST),,3:25,1,4,4,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,21 - 11,-10,,7:27 PM
+89,79,2,97,0020900701,,,3:04,1,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Nash 25' 3PT Pullup Jump Shot,7:28 PM
+90,0,4,100,0020900701,Ariza REBOUND (Off:0 Def:3),,3:02,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:28 PM
+91,5,2,102,0020900701,MISS Andersen  Layup,,2:48,1,4,0,5,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,,,Hill BLOCK (1 BLK),7:28 PM
+92,0,4,103,0020900701,,,2:45,1,5,0,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Frye REBOUND (Off:0 Def:1),7:28 PM
+93,1,2,105,0020900701,,,2:36,1,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Nash 9' Jump Shot,7:28 PM
+94,0,4,106,0020900701,Andersen REBOUND (Off:0 Def:1),,2:35,1,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:28 PM
+95,44,1,107,0020900701,Landry  Reverse Layup (2 PTS) (Brooks 2 AST),,2:31,1,4,4,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,21 - 13,-8,,7:28 PM
+96,2,6,108,0020900701,,,2:31,1,5,4,1,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Frye S.FOUL (P2.T3),7:28 PM
+97,1,9,109,0020900701,,,2:31,1,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Regular (Reg.1 Short 0),7:29 PM
+98,0,8,111,0020900701,,,2:31,1,5,5,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Amundson FOR Frye,7:31 PM
+99,10,3,112,0020900701,MISS Landry Free Throw 1 of 1,,2:31,1,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:31 PM
+100,0,4,114,0020900701,,,2:31,1,5,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Dudley REBOUND (Off:0 Def:1),7:32 PM
+101,42,1,115,0020900701,,,2:07,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,23 - 13,-10,Stoudemire  Driving Layup (4 PTS),7:32 PM
+102,5,1,116,0020900701,Landry  Layup (4 PTS),,1:52,1,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,23 - 15,-8,,7:32 PM
+103,2,6,117,0020900701,Andersen S.FOUL (P1.T4),,1:41,1,4,5,1,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,7:32 PM
+104,11,3,118,0020900701,,,1:41,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,24 - 15,-9,Stoudemire Free Throw 1 of 2 (5 PTS),7:33 PM
+105,0,8,120,0020900701,,,1:41,1,5,5,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Dragic FOR Nash,7:33 PM
+106,12,3,121,0020900701,,,1:41,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,25 - 15,-10,Stoudemire Free Throw 2 of 2 (6 PTS),7:33 PM
+107,1,2,123,0020900701,MISS Budinger 25' 3PT Jump Shot,,1:29,1,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:33 PM
+108,0,4,124,0020900701,ROCKETS Rebound,,1:28,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,7:33 PM
+109,3,6,125,0020900701,,,1:28,1,5,4,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Stoudemire L.B.FOUL (P1.T4),7:34 PM
+110,1,2,126,0020900701,MISS Ariza 24' 3PT Jump Shot,,1:14,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:34 PM
+111,0,4,127,0020900701,Landry REBOUND (Off:1 Def:0),,1:13,1,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:34 PM
+112,1,6,128,0020900701,,,1:06,1,5,4,1,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Dragic P.FOUL (P1.PN),7:34 PM
+113,11,3,129,0020900701,Andersen Free Throw 1 of 2 (1 PTS),,1:06,1,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,25 - 16,-9,,7:35 PM
+114,12,3,131,0020900701,Andersen Free Throw 2 of 2 (2 PTS),,1:06,1,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,25 - 17,-8,,7:35 PM
+115,5,2,133,0020900701,,,0:54,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Stoudemire  Layup,7:35 PM
+116,0,4,134,0020900701,ROCKETS Rebound,,0:52,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,7:35 PM
+117,2,6,135,0020900701,,,0:42,1,5,4,1,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Amundson S.FOUL (P1.PN),7:36 PM
+118,11,3,136,0020900701,Ariza Free Throw 1 of 2 (4 PTS),,0:42,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,25 - 18,-7,,7:36 PM
+119,0,8,138,0020900701,SUB: Conroy FOR Brooks,,0:42,1,4,4,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,101215,Will Conroy,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,7:36 PM
+120,12,3,139,0020900701,MISS Ariza Free Throw 2 of 2,,0:42,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:36 PM
+121,0,4,141,0020900701,,,0:42,1,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:0 Def:4),7:36 PM
+122,1,6,142,0020900701,Budinger P.FOUL (P1.PN),,0:28,1,4,5,1,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,7:37 PM
+123,11,3,143,0020900701,,,0:28,1,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,26 - 18,-8,Hill Free Throw 1 of 2 (10 PTS),7:37 PM
+124,0,8,146,0020900701,,,0:28,1,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Lopez FOR Stoudemire,7:37 PM
+125,12,3,147,0020900701,,,0:28,1,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,27 - 18,-9,Hill Free Throw 2 of 2 (11 PTS),7:37 PM
+126,1,1,149,0020900701,Budinger 25' 3PT Jump Shot (7 PTS) (Conroy 1 AST),,0:08,1,4,4,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,101215,Will Conroy,HOU,Houston,1610612745.0,Rockets,0,,,,,,27 - 21,-6,,7:38 PM
+127,2,6,150,0020900701,Conroy S.FOUL (P1.PN),,0:03,1,4,5,1,101215,Will Conroy,HOU,Houston,1610612745.0,Rockets,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,7:38 PM
+128,11,3,151,0020900701,,,0:03,1,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,28 - 21,-7,Lopez Free Throw 1 of 2 (7 PTS),7:38 PM
+129,12,3,153,0020900701,,,0:03,1,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Lopez Free Throw 2 of 2,7:38 PM
+130,0,4,155,0020900701,Landry REBOUND (Off:1 Def:1),,0:03,1,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:38 PM
+131,0,13,156,0020900701,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,28 - 21,-7,,7:38 PM
+132,0,12,158,0020900701,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,28 - 21,-7,,7:41 PM
+133,5,1,159,0020900701,Andersen  Layup (4 PTS) (Budinger 1 AST),,11:36,2,4,4,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,28 - 23,-5,,7:42 PM
+134,1,1,160,0020900701,,,11:13,2,5,0,0,201947,Earl Clark,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,30 - 23,-7,Clark 17' Jump Shot (2 PTS),7:42 PM
+135,1,2,161,0020900701,MISS Budinger 25' 3PT Jump Shot,,11:06,2,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:42 PM
+136,0,4,162,0020900701,Andersen REBOUND (Off:1 Def:1),,11:04,2,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:42 PM
+137,1,6,163,0020900701,,,10:50,2,5,4,1,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Lopez P.FOUL (P2.T1),7:43 PM
+138,1,2,164,0020900701,MISS Landry 20' Jump Shot,,10:42,2,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:43 PM
+139,0,4,165,0020900701,,,10:41,2,5,0,0,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Dragic REBOUND (Off:0 Def:1),7:43 PM
+140,1,2,166,0020900701,,,10:24,2,5,0,0,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Dragic 25' 3PT Jump Shot,7:43 PM
+141,0,4,167,0020900701,Budinger REBOUND (Off:0 Def:1),,10:23,2,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:43 PM
+142,1,2,168,0020900701,MISS Andersen 13' Jump Shot,,10:15,2,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:43 PM
+143,0,4,169,0020900701,,,10:14,2,5,0,0,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Dragic REBOUND (Off:0 Def:2),7:43 PM
+144,1,1,170,0020900701,,,10:08,2,5,5,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,0,,,,,,33 - 23,-10,Dudley 25' 3PT Jump Shot (3 PTS) (Dragic 1 AST),7:44 PM
+145,2,6,171,0020900701,,,9:53,2,5,4,1,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Amundson S.FOUL (P2.T2),7:44 PM
+146,11,3,172,0020900701,Budinger Free Throw 1 of 2 (8 PTS),,9:53,2,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,33 - 24,-9,,7:44 PM
+147,12,3,174,0020900701,Budinger Free Throw 2 of 2 (9 PTS),,9:53,2,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,33 - 25,-8,,7:44 PM
+148,1,2,176,0020900701,,,9:35,2,5,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Dudley 21' Jump Shot,7:45 PM
+149,0,4,177,0020900701,,,9:33,2,5,0,0,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Amundson REBOUND (Off:1 Def:0),7:45 PM
+150,1,6,178,0020900701,Conroy P.FOUL (P2.T1),,9:32,2,4,5,1,101215,Will Conroy,HOU,Houston,1610612745.0,Rockets,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,7:45 PM
+151,1,2,179,0020900701,,,9:18,2,5,0,0,201947,Earl Clark,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Clark 18' Jump Shot,7:45 PM
+152,0,4,180,0020900701,,,9:17,2,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Lopez REBOUND (Off:3 Def:3),7:45 PM
+153,5,1,181,0020900701,,,9:16,2,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,35 - 25,-10,Lopez  Layup (9 PTS),7:45 PM
+154,1,6,182,0020900701,,,9:08,2,5,4,1,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Amundson P.FOUL (P3.T3),7:46 PM
+155,0,8,183,0020900701,,,9:08,2,5,5,0,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Stoudemire FOR Amundson,7:46 PM
+156,44,2,184,0020900701,MISS Landry  Reverse Layup,,9:01,2,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:46 PM
+157,0,4,185,0020900701,,,8:59,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:0 Def:5),7:46 PM
+158,1,2,186,0020900701,,,8:54,2,5,0,0,201947,Earl Clark,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Clark 17' Jump Shot,7:46 PM
+159,0,4,187,0020900701,Andersen REBOUND (Off:1 Def:2),,8:52,2,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:46 PM
+160,7,1,188,0020900701,Landry  Dunk (6 PTS) (Budinger 2 AST),,8:47,2,4,4,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,35 - 27,-8,,7:46 PM
+161,58,1,189,0020900701,,,8:24,2,5,5,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,37 - 27,-10,Lopez 8' Turnaround Hook Shot (11 PTS) (Dudley 1 AST),7:47 PM
+162,47,2,190,0020900701,MISS Andersen 8' Turnaround Jump Shot,,8:07,2,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:47 PM
+163,0,4,191,0020900701,,,8:05,2,5,0,0,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Dragic REBOUND (Off:0 Def:3),7:47 PM
+164,1,2,192,0020900701,,,7:46,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Stoudemire 16' Jump Shot,7:47 PM
+165,0,4,193,0020900701,,,7:45,2,5,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Dudley REBOUND (Off:1 Def:1),7:47 PM
+166,5,1,194,0020900701,,,7:41,2,5,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,39 - 27,-12,Dudley  Layup (5 PTS),7:48 PM
+167,1,2,196,0020900701,MISS Conroy 10' Jump Shot,,7:24,2,4,0,0,101215,Will Conroy,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:48 PM
+168,0,4,197,0020900701,,,7:22,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:0 Def:6),7:48 PM
+169,42,1,198,0020900701,,,7:08,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,41 - 27,-14,Stoudemire  Driving Layup (8 PTS),7:48 PM
+170,1,9,199,0020900701,ROCKETS Timeout: Regular (Full 2 Short 0),,6:58,2,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,7:48 PM
+171,0,8,201,0020900701,SUB: Brooks FOR Conroy,,6:58,2,4,4,0,101215,Will Conroy,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,7:51 PM
+172,1,6,202,0020900701,,,6:47,2,5,4,1,201947,Earl Clark,PHX,Phoenix,1610612756.0,Suns,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Clark P.FOUL (P1.T4),7:51 PM
+173,1,2,203,0020900701,MISS Battier  3PT Jump Shot,,6:35,2,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:52 PM
+174,0,4,204,0020900701,Battier REBOUND (Off:2 Def:1),,6:33,2,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:52 PM
+175,2,6,205,0020900701,,,6:33,2,5,4,1,201947,Earl Clark,PHX,Phoenix,1610612756.0,Suns,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Clark S.FOUL (P2.PN),7:52 PM
+176,11,3,206,0020900701,Battier Free Throw 1 of 2 (2 PTS),,6:33,2,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,41 - 28,-13,,7:52 PM
+177,0,8,208,0020900701,,,6:33,2,5,5,0,201947,Earl Clark,PHX,Phoenix,1610612756.0,Suns,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Richardson FOR Clark,7:52 PM
+178,0,8,209,0020900701,,,6:33,2,5,5,0,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Nash FOR Dragic,7:53 PM
+179,0,8,210,0020900701,,,6:33,2,5,5,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Hill FOR Dudley,7:53 PM
+180,12,3,211,0020900701,Battier Free Throw 2 of 2 (3 PTS),,6:33,2,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,41 - 29,-12,,7:53 PM
+181,1,1,213,0020900701,,,6:12,2,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,43 - 29,-14,Hill 14' Jump Shot (13 PTS),7:53 PM
+182,5,2,214,0020900701,MISS Battier  Layup,,6:04,2,4,0,5,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,,,Lopez BLOCK (1 BLK),7:54 PM
+183,0,4,216,0020900701,Andersen REBOUND (Off:2 Def:2),,6:02,2,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:54 PM
+184,5,1,215,0020900701,Andersen  Layup (6 PTS),,6:01,2,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,43 - 31,-12,,7:54 PM
+185,1,2,217,0020900701,,,5:42,2,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Richardson 24' 3PT Jump Shot,7:54 PM
+186,0,4,218,0020900701,,,5:40,2,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Nash REBOUND (Off:1 Def:4),7:54 PM
+187,1,2,219,0020900701,,,5:37,2,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Lopez 12' Jump Shot,7:54 PM
+188,0,4,220,0020900701,Andersen REBOUND (Off:2 Def:3),,5:35,2,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:54 PM
+189,1,2,221,0020900701,MISS Andersen 25' 3PT Jump Shot,,5:26,2,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,7:54 PM
+190,0,4,222,0020900701,,,5:25,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:0 Def:7),7:54 PM
+191,1,1,223,0020900701,,,5:18,2,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,45 - 31,-14,Stoudemire 7' Jump Shot (10 PTS) (Nash 3 AST),7:54 PM
+192,2,6,224,0020900701,Andersen S.FOUL (P2.T2),,5:18,2,4,5,1,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,7:54 PM
+193,1,9,225,0020900701,,,5:18,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:55 PM
+194,0,8,227,0020900701,,,5:18,2,5,5,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Frye FOR Lopez,7:57 PM
+195,0,8,228,0020900701,SUB: Scola FOR Andersen,,5:18,2,4,4,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,7:57 PM
+196,10,3,229,0020900701,,,5:18,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,46 - 31,-15,Stoudemire Free Throw 1 of 1 (11 PTS),7:57 PM
+197,1,1,231,0020900701,Battier 25' 3PT Jump Shot (6 PTS) (Brooks 3 AST),,5:00,2,4,4,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,46 - 34,-12,,7:58 PM
+198,2,6,232,0020900701,Brooks S.FOUL (P1.T3),,4:50,2,4,5,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,7:58 PM
+199,11,3,233,0020900701,,,4:50,2,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,47 - 34,-13,Nash Free Throw 1 of 2 (1 PTS),7:58 PM
+200,12,3,235,0020900701,,,4:50,2,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,48 - 34,-14,Nash Free Throw 2 of 2 (2 PTS),7:59 PM
+201,2,7,238,0020900701,,,4:35,2,5,0,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire Violation:Defensive Goaltending,7:59 PM
+202,1,1,237,0020900701,Landry 6' Jump Shot (8 PTS) (Brooks 4 AST),,4:35,2,4,4,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,48 - 36,-12,,7:59 PM
+203,66,1,239,0020900701,,,4:23,2,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,50 - 36,-14,Stoudemire 6' Jump Bank Shot (13 PTS) (Frye 1 AST),7:59 PM
+204,5,7,240,0020900701,,,4:15,2,5,0,1,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Frye Violation:Kicked Ball,8:00 PM
+205,0,8,241,0020900701,SUB: Ariza FOR Budinger,,4:15,2,4,4,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:00 PM
+206,0,8,242,0020900701,SUB: Dorsey FOR Landry,,4:15,2,4,4,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:00 PM
+207,1,2,243,0020900701,MISS Brooks 26' 3PT Jump Shot,,4:08,2,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:00 PM
+208,0,4,244,0020900701,Battier REBOUND (Off:3 Def:1),,4:06,2,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:00 PM
+209,5,1,245,0020900701,Battier  Layup (8 PTS),,4:05,2,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,50 - 38,-12,,8:00 PM
+210,1,1,246,0020900701,,,3:46,2,5,5,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,52 - 38,-14,Hill 17' Jump Shot (15 PTS) (Richardson 1 AST),8:01 PM
+211,5,2,247,0020900701,MISS Dorsey  Layup,,3:28,2,4,0,5,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,,,Hill BLOCK (2 BLK),8:01 PM
+212,0,4,248,0020900701,,,3:26,2,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Nash REBOUND (Off:1 Def:5),8:01 PM
+213,42,1,249,0020900701,,,3:22,2,5,5,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,54 - 38,-16,Hill  Driving Layup (17 PTS) (Nash 4 AST),8:01 PM
+214,5,2,250,0020900701,MISS Brooks  Layup,,3:13,2,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:01 PM
+215,0,4,251,0020900701,,,3:12,2,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Rebound,8:01 PM
+216,1,6,252,0020900701,Ariza P.FOUL (P2.T4),,3:03,2,4,5,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,8:02 PM
+217,2,6,253,0020900701,Brooks S.FOUL (P2.PN),,3:03,2,4,5,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,8:02 PM
+218,11,3,254,0020900701,,,3:03,2,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,55 - 38,-17,Nash Free Throw 1 of 2 (3 PTS),8:02 PM
+219,12,3,256,0020900701,,,3:03,2,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,56 - 38,-18,Nash Free Throw 2 of 2 (4 PTS),8:02 PM
+220,1,5,258,0020900701,Dorsey Bad Pass Turnover (P1.T3),,2:49,2,4,5,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Hill STEAL (1 STL),8:03 PM
+221,1,2,259,0020900701,,,2:40,2,5,0,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Frye 20' Jump Shot,8:03 PM
+222,0,4,260,0020900701,Battier REBOUND (Off:3 Def:2),,2:39,2,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:03 PM
+223,1,1,261,0020900701,Ariza 25' 3PT Jump Shot (7 PTS) (Brooks 5 AST),,2:33,2,4,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,56 - 41,-15,,8:03 PM
+224,5,2,262,0020900701,,,2:14,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Stoudemire  Layup,8:03 PM
+225,0,4,263,0020900701,Dorsey REBOUND (Off:0 Def:1),,2:13,2,4,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:03 PM
+226,2,5,264,0020900701,Brooks Lost Ball Turnover (P2.T4),,2:05,2,4,5,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Richardson STEAL (1 STL),8:04 PM
+227,1,5,265,0020900701,Ariza STEAL (2 STL),,2:02,2,5,4,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Richardson Bad Pass Turnover (P1.T6),8:04 PM
+228,1,2,266,0020900701,MISS Ariza 25' 3PT Jump Shot,,1:59,2,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:04 PM
+229,0,4,267,0020900701,Ariza REBOUND (Off:1 Def:3),,1:57,2,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:04 PM
+230,5,1,268,0020900701,Ariza  Layup (9 PTS),,1:56,2,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,56 - 43,-13,,8:04 PM
+231,2,6,269,0020900701,Dorsey S.FOUL (P1.PN),,1:41,2,4,5,1,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,8:05 PM
+232,1,9,270,0020900701,,,1:41,2,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Regular (Reg.2 Short 0),8:05 PM
+233,0,8,272,0020900701,,,1:41,2,5,5,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,2260,Jarron Collins,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Collins FOR Frye,8:07 PM
+234,11,3,273,0020900701,,,1:41,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,57 - 43,-14,Stoudemire Free Throw 1 of 2 (14 PTS),8:07 PM
+235,12,3,275,0020900701,,,1:41,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,58 - 43,-15,Stoudemire Free Throw 2 of 2 (15 PTS),8:07 PM
+236,5,2,277,0020900701,MISS Scola  Layup,,1:23,2,4,0,5,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,,,Hill BLOCK (3 BLK),8:08 PM
+237,0,4,278,0020900701,Ariza REBOUND (Off:2 Def:3),,1:21,2,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:08 PM
+238,44,1,279,0020900701,Scola  Reverse Layup (2 PTS) (Ariza 1 AST),,1:19,2,4,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,58 - 45,-13,,8:08 PM
+239,65,1,280,0020900701,,,1:02,2,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,60 - 45,-15,Stoudemire 9' Jump Hook Shot (17 PTS),8:08 PM
+240,5,1,281,0020900701,Scola  Layup (4 PTS),,0:45,2,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,60 - 47,-13,,8:08 PM
+241,1,2,282,0020900701,,,0:35,2,5,0,0,2260,Jarron Collins,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Collins 5' Jump Shot,8:09 PM
+242,0,4,283,0020900701,Battier REBOUND (Off:3 Def:3),,0:34,2,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:09 PM
+243,1,6,284,0020900701,,,0:34,2,5,4,1,2260,Jarron Collins,PHX,Phoenix,1610612756.0,Suns,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Collins P.FOUL (P1.PN),8:09 PM
+244,11,3,285,0020900701,MISS Battier Free Throw 1 of 2,,0:34,2,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:09 PM
+245,1,4,286,0020900701,ROCKETS Rebound,,0:34,2,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:09 PM
+246,12,3,287,0020900701,Battier Free Throw 2 of 2 (9 PTS),,0:34,2,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,60 - 48,-12,,8:09 PM
+247,1,2,289,0020900701,,,0:19,2,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Richardson 19' Jump Shot,8:10 PM
+248,0,4,290,0020900701,Dorsey REBOUND (Off:0 Def:2),,0:17,2,4,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:10 PM
+249,1,2,291,0020900701,MISS Battier 26' 3PT Jump Shot,,0:00,2,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:10 PM
+250,0,4,292,0020900701,ROCKETS Rebound,,0:00,2,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:10 PM
+251,0,13,293,0020900701,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,60 - 48,-12,,8:10 PM
+252,0,12,295,0020900701,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,60 - 48,-12,,8:27 PM
+253,1,2,296,0020900701,MISS Brooks 26' 3PT Jump Shot,,11:42,3,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:27 PM
+254,0,4,297,0020900701,,,11:40,3,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Hill REBOUND (Off:0 Def:2),8:27 PM
+255,1,6,298,0020900701,Brooks P.FOUL (P3.T1),,11:25,3,4,5,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,8:28 PM
+256,1,1,299,0020900701,,,11:20,3,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,62 - 48,-14,Stoudemire 19' Jump Shot (19 PTS) (Nash 5 AST),8:28 PM
+257,1,2,300,0020900701,MISS Brooks 11' Jump Shot,,10:57,3,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:28 PM
+258,0,4,301,0020900701,,,10:56,3,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Richardson REBOUND (Off:1 Def:2),8:28 PM
+259,1,5,302,0020900701,Scola STEAL (1 STL),,10:36,3,5,4,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Richardson Bad Pass Turnover (P2.T7),8:29 PM
+260,7,1,303,0020900701,Ariza  Dunk (11 PTS) (Scola 2 AST),,10:31,3,4,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,62 - 50,-12,,8:29 PM
+261,1,1,304,0020900701,,,10:11,3,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,64 - 50,-14,Stoudemire 20' Jump Shot (21 PTS) (Nash 6 AST),8:29 PM
+262,1,1,305,0020900701,Ariza 26' 3PT Jump Shot (14 PTS) (Scola 3 AST),,9:51,3,4,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,64 - 53,-11,,8:29 PM
+263,1,2,306,0020900701,,,9:29,3,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Richardson 25' 3PT Jump Shot,8:30 PM
+264,0,4,307,0020900701,Hayes REBOUND (Off:2 Def:1),,9:28,3,4,0,0,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:30 PM
+265,1,2,308,0020900701,MISS Battier 24' 3PT Jump Shot,,9:23,3,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:30 PM
+266,0,4,309,0020900701,,,9:20,3,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Hill REBOUND (Off:0 Def:3),8:30 PM
+267,1,1,310,0020900701,,,9:11,3,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,66 - 53,-13,Stoudemire 16' Jump Shot (23 PTS) (Nash 7 AST),8:30 PM
+268,1,6,311,0020900701,,,8:54,3,5,4,1,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Richardson P.FOUL (P1.T1),8:30 PM
+269,44,1,312,0020900701,Hayes  Reverse Layup (2 PTS),,8:39,3,4,0,0,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,66 - 55,-11,,8:31 PM
+270,79,2,313,0020900701,,,8:29,3,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Nash 24' 3PT Pullup Jump Shot,8:31 PM
+271,0,4,314,0020900701,Battier REBOUND (Off:3 Def:4),,8:27,3,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:31 PM
+272,1,2,315,0020900701,MISS Scola 14' Jump Shot,,8:14,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:31 PM
+273,0,4,316,0020900701,,,8:13,3,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Nash REBOUND (Off:1 Def:6),8:31 PM
+274,46,2,317,0020900701,,,7:54,3,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Stoudemire 12' Running Jump Shot,8:32 PM
+275,0,4,318,0020900701,Battier REBOUND (Off:3 Def:5),,7:52,3,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:32 PM
+276,2,6,319,0020900701,,,7:42,3,5,4,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Stoudemire S.FOUL (P2.T2),8:32 PM
+277,11,3,320,0020900701,Scola Free Throw 1 of 2 (5 PTS),,7:42,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,66 - 56,-10,,8:32 PM
+278,12,3,322,0020900701,Scola Free Throw 2 of 2 (6 PTS),,7:42,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,66 - 57,-9,,8:33 PM
+279,1,6,324,0020900701,Hayes P.FOUL (P1.T2),,7:35,3,4,5,1,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,8:33 PM
+280,2,5,325,0020900701,Hayes STEAL (2 STL),,7:24,3,5,4,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Stoudemire Lost Ball Turnover (P3.T8),8:33 PM
+281,42,2,326,0020900701,MISS Scola  Driving Layup,,7:12,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:34 PM
+282,0,4,327,0020900701,,,7:10,3,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Richardson REBOUND (Off:1 Def:3),8:34 PM
+283,1,9,328,0020900701,,,7:06,3,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Regular (Reg.3 Short 0),8:34 PM
+284,1,2,330,0020900701,,,6:47,3,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Richardson 19' Jump Shot,8:37 PM
+285,0,4,331,0020900701,Brooks REBOUND (Off:0 Def:1),,6:46,3,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:37 PM
+286,47,1,332,0020900701,Battier 12' Turnaround Jump Shot (11 PTS),,6:26,3,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,66 - 59,-7,,8:37 PM
+287,0,10,333,0020900701,Jump Ball Scola vs. Stoudemire: Tip to Richardson,,6:13,3,4,5,5,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,,,,8:38 PM
+288,11,5,334,0020900701,,,5:59,3,3,0,1,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Turnover: Shot Clock (T#9),8:38 PM
+289,0,8,335,0020900701,,,5:59,3,5,5,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Dudley FOR Richardson,8:38 PM
+290,5,1,336,0020900701,Scola  Layup (8 PTS),,5:43,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,66 - 61,-5,,8:39 PM
+291,1,2,337,0020900701,,,5:23,3,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Stoudemire 18' Jump Shot,8:39 PM
+292,0,4,338,0020900701,ROCKETS Rebound,,5:22,3,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:39 PM
+293,3,6,339,0020900701,,,5:22,3,5,4,1,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Lopez L.B.FOUL (P3.T3),8:39 PM
+294,0,8,340,0020900701,,,5:22,3,5,5,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Frye FOR Lopez,8:39 PM
+295,5,2,341,0020900701,MISS Scola  Layup,,5:06,3,4,0,5,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,,,Stoudemire BLOCK (2 BLK),8:40 PM
+296,0,4,342,0020900701,ROCKETS Rebound,,5:05,3,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:40 PM
+297,1,6,343,0020900701,,,5:05,3,5,4,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Stoudemire P.FOUL (P3.T4),8:40 PM
+298,1,1,344,0020900701,Brooks 27' 3PT Jump Shot (6 PTS) (Scola 4 AST),,5:00,3,4,4,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,66 - 64,-2,,8:40 PM
+299,63,1,345,0020900701,,,4:38,3,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,68 - 64,-4,Nash 13' Fadeaway Jumper (6 PTS),8:41 PM
+300,1,2,346,0020900701,MISS Ariza 25' 3PT Jump Shot,,4:20,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:41 PM
+301,0,4,347,0020900701,Hayes REBOUND (Off:3 Def:1),,4:19,3,4,0,0,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:41 PM
+302,1,1,348,0020900701,Brooks 27' 3PT Jump Shot (9 PTS) (Hayes 1 AST),,4:16,3,4,4,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,68 - 67,-1,,8:41 PM
+303,2,9,349,0020900701,,,4:10,3,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Short (Reg.3 Short 1),8:41 PM
+304,42,2,351,0020900701,,,4:02,3,5,0,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Frye  Driving Layup,8:43 PM
+305,0,4,352,0020900701,,,4:01,3,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:1 Def:7),8:43 PM
+306,3,6,355,0020900701,Brooks L.B.FOUL (P4.T3),,4:01,3,4,5,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,8:43 PM
+307,1,6,356,0020900701,Hayes P.FOUL (P2.T4),,3:50,3,4,5,1,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,8:43 PM
+308,1,2,358,0020900701,,,3:43,3,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Hill 12' Jump Shot,8:44 PM
+309,0,4,359,0020900701,Hayes REBOUND (Off:3 Def:2),,3:42,3,4,0,0,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:44 PM
+310,5,2,360,0020900701,MISS Scola  Layup,,3:35,3,4,0,5,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,,,Dudley BLOCK (1 BLK),8:44 PM
+311,0,4,361,0020900701,Scola REBOUND (Off:1 Def:0),,3:33,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:44 PM
+312,5,2,362,0020900701,MISS Scola  Layup,,3:31,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:44 PM
+313,0,4,363,0020900701,,,3:30,3,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:1 Def:8),8:44 PM
+314,1,2,364,0020900701,,,3:24,3,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Hill  3PT Jump Shot,8:44 PM
+315,0,4,365,0020900701,Brooks REBOUND (Off:0 Def:2),,3:22,3,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:44 PM
+316,5,2,366,0020900701,MISS Ariza  Layup,,3:18,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:44 PM
+317,0,4,368,0020900701,Scola REBOUND (Off:2 Def:0),,3:16,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:44 PM
+318,72,1,367,0020900701,Scola  Putback Layup (10 PTS),,3:16,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,68 - 69,1,,8:44 PM
+319,1,2,369,0020900701,,,3:01,3,5,0,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Frye 22' Jump Shot,8:45 PM
+320,0,4,370,0020900701,Brooks REBOUND (Off:0 Def:3),,3:00,3,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:45 PM
+321,1,2,371,0020900701,MISS Brooks 25' 3PT Jump Shot,,2:53,3,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:45 PM
+322,0,4,372,0020900701,,,2:52,3,5,0,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Frye REBOUND (Off:0 Def:2),8:45 PM
+323,5,1,373,0020900701,,,2:44,3,5,5,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,70 - 69,-1,Dudley  Layup (7 PTS) (Nash 8 AST),8:45 PM
+324,1,2,374,0020900701,MISS Battier 26' 3PT Jump Shot,,2:31,3,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:45 PM
+325,0,4,375,0020900701,,,2:30,3,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:1 Def:9),8:45 PM
+326,79,2,376,0020900701,,,2:21,3,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Nash 26' 3PT Pullup Jump Shot,8:45 PM
+327,0,4,377,0020900701,Scola REBOUND (Off:2 Def:1),,2:20,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:45 PM
+328,3,6,378,0020900701,,,2:20,3,5,4,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Stoudemire L.B.FOUL (P4.PN),8:45 PM
+329,1,9,379,0020900701,ROCKETS Timeout: Regular (Full 3 Short 0),,2:20,3,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:45 PM
+330,0,8,381,0020900701,SUB: Budinger FOR Battier,,2:20,3,4,4,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:48 PM
+331,0,8,382,0020900701,SUB: Landry FOR Hayes,,2:20,3,4,4,0,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:48 PM
+332,0,8,383,0020900701,SUB: Conroy FOR Brooks,,2:20,3,4,4,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,101215,Will Conroy,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:48 PM
+333,0,8,384,0020900701,,,2:20,3,5,5,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Amundson FOR Hill,8:48 PM
+334,0,8,385,0020900701,,,2:20,3,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Dragic FOR Stoudemire,8:48 PM
+335,11,3,386,0020900701,Scola Free Throw 1 of 2 (11 PTS),,2:20,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,70 - 70,TIE,,8:48 PM
+336,12,3,388,0020900701,Scola Free Throw 2 of 2 (12 PTS),,2:20,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,70 - 71,1,,8:49 PM
+337,1,1,390,0020900701,,,2:01,3,5,5,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,72 - 71,-1,Frye 21' Jump Shot (2 PTS) (Nash 9 AST),8:49 PM
+338,5,2,391,0020900701,MISS Scola  Layup,,1:47,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:49 PM
+339,0,4,392,0020900701,,,1:45,3,5,0,0,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Amundson REBOUND (Off:1 Def:1),8:49 PM
+340,5,1,393,0020900701,,,1:29,3,5,5,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,74 - 71,-3,Frye  Layup (4 PTS) (Nash 10 AST),8:50 PM
+341,5,2,394,0020900701,MISS Scola  Layup,,1:15,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:50 PM
+342,0,4,395,0020900701,,,1:14,3,5,0,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Frye REBOUND (Off:0 Def:3),8:50 PM
+343,1,1,396,0020900701,,,0:57,3,5,5,0,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,77 - 71,-6,Dragic 25' 3PT Jump Shot (3 PTS) (Nash 11 AST),8:50 PM
+344,1,2,397,0020900701,MISS Ariza 20' Jump Shot,,0:34,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:51 PM
+345,0,4,398,0020900701,,,0:32,3,5,0,0,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Dragic REBOUND (Off:0 Def:4),8:51 PM
+346,1,1,399,0020900701,,,0:25,3,5,5,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,79 - 71,-8,Dudley 20' Jump Shot (9 PTS) (Nash 12 AST),8:51 PM
+347,42,1,400,0020900701,Conroy  Driving Layup (2 PTS),,0:03,3,4,0,0,101215,Will Conroy,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,79 - 73,-6,,8:52 PM
+348,0,13,401,0020900701,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,79 - 73,-6,,8:52 PM
+349,0,12,403,0020900701,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,79 - 73,-6,,8:54 PM
+350,1,6,404,0020900701,Scola P.FOUL (P3.T1),,11:46,4,4,5,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,8:55 PM
+351,1,5,405,0020900701,Landry STEAL (1 STL),,11:32,4,5,4,0,201947,Earl Clark,PHX,Phoenix,1610612756.0,Suns,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Clark Bad Pass Turnover (P1.T10),8:55 PM
+352,1,2,406,0020900701,MISS Budinger  3PT Jump Shot,,11:21,4,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:55 PM
+353,0,4,407,0020900701,,,11:19,4,5,0,0,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Amundson REBOUND (Off:1 Def:2),8:55 PM
+354,2,6,408,0020900701,Conroy S.FOUL (P3.T2),,10:59,4,4,5,1,101215,Will Conroy,HOU,Houston,1610612745.0,Rockets,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,8:56 PM
+355,11,3,409,0020900701,,,10:59,4,5,0,0,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,80 - 73,-7,Dragic Free Throw 1 of 2 (4 PTS),8:56 PM
+356,0,8,411,0020900701,SUB: Battier FOR Scola,,10:59,4,4,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:56 PM
+357,12,3,412,0020900701,,,10:59,4,5,0,0,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,81 - 73,-8,Dragic Free Throw 2 of 2 (5 PTS),8:56 PM
+358,1,6,414,0020900701,,,10:54,4,5,4,1,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,101215,Will Conroy,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Dragic P.FOUL (P2.T1),8:57 PM
+359,1,5,415,0020900701,Conroy Bad Pass Turnover (P1.T5),,10:46,4,4,5,0,101215,Will Conroy,HOU,Houston,1610612745.0,Rockets,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Frye STEAL (1 STL),8:57 PM
+360,5,2,416,0020900701,,,10:27,4,5,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Dudley  Layup,8:57 PM
+361,0,4,417,0020900701,,,10:26,4,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Rebound,8:57 PM
+362,0,8,418,0020900701,SUB: Brooks FOR Conroy,,10:26,4,4,4,0,101215,Will Conroy,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:57 PM
+363,1,5,419,0020900701,Battier STEAL (1 STL),,10:25,4,5,4,0,201947,Earl Clark,PHX,Phoenix,1610612756.0,Suns,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Clark Bad Pass Turnover (P2.T11),8:58 PM
+364,2,6,420,0020900701,,,10:21,4,5,4,1,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Amundson S.FOUL (P4.T2),8:58 PM
+365,11,3,421,0020900701,MISS Ariza Free Throw 1 of 2,,10:21,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:58 PM
+366,1,4,422,0020900701,ROCKETS Rebound,,10:21,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:58 PM
+367,12,3,423,0020900701,Ariza Free Throw 2 of 2 (15 PTS),,10:21,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,81 - 74,-7,,8:58 PM
+368,5,1,425,0020900701,,,10:12,4,5,5,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,201947,Earl Clark,PHX,Phoenix,1610612756.0,Suns,0,,,,,,83 - 74,-9,Dudley  Layup (11 PTS) (Clark 1 AST),8:59 PM
+369,5,2,426,0020900701,MISS Brooks  Layup,,10:01,4,4,0,5,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,201947,Earl Clark,PHX,Phoenix,1610612756.0,Suns,,,Clark BLOCK (1 BLK),8:59 PM
+370,0,4,427,0020900701,,,9:59,4,5,0,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Frye REBOUND (Off:0 Def:4),8:59 PM
+371,4,6,428,0020900701,,,9:56,4,5,4,1,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Amundson OFF.Foul (P5),8:59 PM
+372,5,5,429,0020900701,,,9:56,4,5,0,1,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Amundson Foul Turnover (P1.T12),8:59 PM
+373,1,2,430,0020900701,MISS Battier 24' 3PT Jump Shot,,9:37,4,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:00 PM
+374,0,4,431,0020900701,,,9:36,4,5,0,0,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Amundson REBOUND (Off:1 Def:3),9:00 PM
+375,1,2,432,0020900701,,,9:18,4,5,0,0,201947,Earl Clark,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Clark 21' Jump Shot,9:00 PM
+376,0,4,433,0020900701,Budinger REBOUND (Off:0 Def:2),,9:17,4,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:00 PM
+377,5,2,434,0020900701,MISS Budinger  Layup,,9:12,4,4,0,5,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,201947,Earl Clark,PHX,Phoenix,1610612756.0,Suns,,,Clark BLOCK (2 BLK),9:00 PM
+378,0,4,436,0020900701,Landry REBOUND (Off:2 Def:1),,9:11,4,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:00 PM
+379,87,1,435,0020900701,Landry  Putback Dunk (10 PTS),,9:11,4,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,83 - 76,-7,,9:00 PM
+380,2,5,437,0020900701,Battier STEAL (2 STL),,8:52,4,5,4,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Frye Lost Ball Turnover (P1.T13),9:01 PM
+381,1,1,438,0020900701,Budinger  3PT Jump Shot (12 PTS) (Ariza 2 AST),,8:38,4,4,4,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,83 - 79,-4,,9:01 PM
+382,1,9,439,0020900701,,,8:34,4,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Regular (Reg.4 Short 1),9:01 PM
+383,0,8,441,0020900701,,,8:34,4,5,5,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Stoudemire FOR Frye,9:04 PM
+384,0,8,442,0020900701,,,8:34,4,5,5,0,201947,Earl Clark,PHX,Phoenix,1610612756.0,Suns,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Richardson FOR Clark,9:04 PM
+385,1,5,443,0020900701,Battier STEAL (3 STL),,8:23,4,5,4,0,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Amundson Bad Pass Turnover (P2.T14),9:04 PM
+386,79,1,444,0020900701,Brooks 25' 3PT Pullup Jump Shot (12 PTS),,8:08,4,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,83 - 82,-1,,9:04 PM
+387,1,2,445,0020900701,Landry BLOCK (1 BLK),,7:38,4,5,0,4,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,,,MISS Stoudemire 8' Jump Shot,9:05 PM
+388,0,4,447,0020900701,,,7:37,4,5,0,0,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Amundson REBOUND (Off:2 Def:3),9:05 PM
+389,4,2,446,0020900701,,,7:37,4,5,0,0,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Amundson  Tip Shot,9:05 PM
+390,0,4,448,0020900701,Budinger REBOUND (Off:0 Def:3),,7:34,4,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:05 PM
+391,88,2,449,0020900701,MISS Ariza  Driving Slam Dunk,,7:26,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:05 PM
+392,0,4,450,0020900701,,,7:24,4,5,0,0,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Amundson REBOUND (Off:2 Def:4),9:05 PM
+393,40,5,451,0020900701,,,7:20,4,5,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Dudley Out of Bounds Lost Ball Turnover (P1.T15),9:05 PM
+394,0,8,452,0020900701,,,7:20,4,5,5,0,200811,Lou Amundson,PHX,Phoenix,1610612756.0,Suns,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Lopez FOR Amundson,9:05 PM
+395,0,8,453,0020900701,,,7:20,4,5,5,0,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Nash FOR Dragic,9:05 PM
+396,1,2,454,0020900701,MISS Ariza 24' 3PT Jump Shot,,6:56,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:06 PM
+397,0,4,455,0020900701,,,6:55,4,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Richardson REBOUND (Off:1 Def:4),9:06 PM
+398,1,5,456,0020900701,Brooks STEAL (1 STL),,6:33,4,5,4,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Richardson Bad Pass Turnover (P3.T16),9:06 PM
+399,79,2,457,0020900701,MISS Brooks 19' Pullup Jump Shot,,6:28,4,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:06 PM
+400,0,4,458,0020900701,,,6:26,4,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:1 Def:10),9:06 PM
+401,4,6,459,0020900701,,,6:26,4,5,4,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Stoudemire OFF.Foul (P5),9:06 PM
+402,5,5,460,0020900701,,,6:26,4,5,0,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Stoudemire Foul Turnover (P4.T17),9:06 PM
+403,42,2,461,0020900701,MISS Battier  Driving Layup,,6:16,4,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:07 PM
+404,0,4,462,0020900701,Landry REBOUND (Off:3 Def:1),,6:13,4,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:07 PM
+405,1,2,463,0020900701,MISS Landry 8' Jump Shot,,6:11,4,4,0,5,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,,,Lopez BLOCK (2 BLK),9:07 PM
+406,0,4,464,0020900701,,,6:09,4,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Richardson REBOUND (Off:1 Def:5),9:07 PM
+407,7,1,465,0020900701,,,6:00,4,5,5,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,85 - 82,-3,Lopez  Dunk (13 PTS) (Nash 13 AST),9:07 PM
+408,79,1,466,0020900701,Brooks 26' 3PT Pullup Jump Shot (15 PTS),,5:50,4,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,85 - 85,TIE,,9:07 PM
+409,2,6,467,0020900701,Ariza S.FOUL (P3.T3),,5:40,4,4,5,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:08 PM
+410,1,9,468,0020900701,,,5:40,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:08 PM
+411,11,3,472,0020900701,,,5:40,4,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,86 - 85,-1,Stoudemire Free Throw 1 of 2 (24 PTS),9:11 PM
+412,12,3,474,0020900701,,,5:40,4,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,87 - 85,-2,Stoudemire Free Throw 2 of 2 (25 PTS),9:11 PM
+413,2,6,476,0020900701,,,5:25,4,5,4,1,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Lopez S.FOUL (P4.T3),9:11 PM
+414,11,3,477,0020900701,MISS Ariza Free Throw 1 of 2,,5:25,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:12 PM
+415,1,4,478,0020900701,ROCKETS Rebound,,5:25,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:12 PM
+416,0,8,479,0020900701,,,5:25,4,5,5,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Hill FOR Dudley,9:12 PM
+417,12,3,480,0020900701,Ariza Free Throw 2 of 2 (16 PTS),,5:25,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,87 - 86,-1,,9:12 PM
+418,2,6,482,0020900701,Battier S.FOUL (P1.T4),,5:15,4,4,5,1,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:12 PM
+419,11,3,483,0020900701,,,5:15,4,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,88 - 86,-2,Stoudemire Free Throw 1 of 2 (26 PTS),9:13 PM
+420,12,3,485,0020900701,,,5:15,4,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,89 - 86,-3,Stoudemire Free Throw 2 of 2 (27 PTS),9:13 PM
+421,44,1,487,0020900701,Landry  Reverse Layup (12 PTS) (Brooks 6 AST),,4:59,4,4,4,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,89 - 88,-1,,9:13 PM
+422,5,1,488,0020900701,,,4:42,4,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,91 - 88,-3,Stoudemire  Layup (29 PTS) (Nash 14 AST),9:14 PM
+423,5,2,489,0020900701,MISS Landry  Layup,,4:19,4,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:14 PM
+424,0,4,491,0020900701,Ariza REBOUND (Off:3 Def:3),,4:18,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:14 PM
+425,4,2,490,0020900701,MISS Ariza  Tip Shot,,4:18,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:14 PM
+426,0,4,492,0020900701,,,4:16,4,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Hill REBOUND (Off:0 Def:4),9:14 PM
+427,46,1,493,0020900701,,,3:58,4,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,93 - 88,-5,Stoudemire 7' Running Jump Shot (31 PTS) (Nash 15 AST),9:14 PM
+428,1,9,494,0020900701,ROCKETS Timeout: Regular (Full 4 Short 0),,3:55,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:14 PM
+429,0,8,496,0020900701,SUB: Scola FOR Budinger,,3:55,4,4,4,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:17 PM
+430,80,2,498,0020900701,MISS Brooks 25' 3PT Step Back Jump Shot,,3:33,4,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:18 PM
+431,0,10,499,0020900701,Jump Ball Landry vs. Nash: Tip to Richardson,,3:29,4,4,5,5,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,,,,9:19 PM
+432,0,4,500,0020900701,,,3:29,4,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Rebound,9:19 PM
+433,79,2,501,0020900701,,,3:03,4,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Nash 22' Pullup Jump Shot,9:19 PM
+434,0,4,502,0020900701,Battier REBOUND (Off:3 Def:6),,3:01,4,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:19 PM
+435,42,1,503,0020900701,Landry  Driving Layup (14 PTS) (Ariza 3 AST),,2:53,4,4,4,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,93 - 90,-3,,9:19 PM
+436,1,2,504,0020900701,,,2:36,4,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Stoudemire 18' Jump Shot,9:20 PM
+437,0,4,505,0020900701,Ariza REBOUND (Off:3 Def:4),,2:34,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:20 PM
+438,5,2,506,0020900701,MISS Landry  Layup,,2:22,4,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:20 PM
+439,0,4,507,0020900701,,,2:21,4,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Richardson REBOUND (Off:1 Def:6),9:20 PM
+440,5,1,508,0020900701,,,2:13,4,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,95 - 90,-5,Stoudemire  Layup (33 PTS) (Hill 3 AST),9:20 PM
+441,2,6,509,0020900701,Landry S.FOUL (P2.PN),,2:13,4,4,5,1,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:20 PM
+442,10,3,510,0020900701,,,2:13,4,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,96 - 90,-6,Stoudemire Free Throw 1 of 1 (34 PTS),9:20 PM
+443,84,1,512,0020900701,Ariza 17' Running Bank Shot (18 PTS),,2:00,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,96 - 92,-4,,9:21 PM
+444,2,5,513,0020900701,Landry STEAL (2 STL),,1:46,4,5,4,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Stoudemire Lost Ball Turnover (P5.T18),9:21 PM
+445,43,2,514,0020900701,MISS Ariza  Alley Oop Layup,,1:42,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:21 PM
+446,0,4,516,0020900701,Landry REBOUND (Off:4 Def:1),,1:41,4,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:21 PM
+447,87,1,515,0020900701,Landry  Putback Dunk (16 PTS),,1:41,4,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,96 - 94,-2,,9:21 PM
+448,2,6,517,0020900701,Scola S.FOUL (P4.PN),,1:28,4,4,5,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:21 PM
+449,11,3,518,0020900701,,,1:28,4,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Lopez Free Throw 1 of 2,9:22 PM
+450,1,4,519,0020900701,,,1:28,4,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Rebound,9:22 PM
+451,12,3,520,0020900701,,,1:28,4,5,0,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,97 - 94,-3,Lopez Free Throw 2 of 2 (14 PTS),9:22 PM
+452,1,1,522,0020900701,Brooks 16' Jump Shot (17 PTS),,1:18,4,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,97 - 96,-1,,9:22 PM
+453,11,6,523,0020900701,,,1:18,4,5,0,1,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Nash T.FOUL (P0.T3),9:22 PM
+454,16,3,524,0020900701,Brooks Free Throw Technical (18 PTS),,1:18,4,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,97 - 97,TIE,,9:23 PM
+455,0,8,526,0020900701,,,1:18,4,5,5,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Frye FOR Lopez,9:23 PM
+456,1,9,527,0020900701,,,1:18,4,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Regular (Reg.5 Short 1),9:23 PM
+457,1,1,529,0020900701,,,1:08,4,5,5,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,100 - 97,-3,Nash 25' 3PT Jump Shot (9 PTS) (Stoudemire 1 AST),9:25 PM
+458,5,7,530,0020900701,,,1:01,4,5,0,1,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Frye Violation:Kicked Ball,9:26 PM
+459,0,8,531,0020900701,,,0:56,4,5,5,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Lopez FOR Frye,9:26 PM
+460,13,5,532,0020900701,Landry Backcourt Turnover (P1.T6),,0:47,4,4,0,1,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:27 PM
+461,0,8,533,0020900701,,,0:47,4,5,5,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Frye FOR Lopez,9:27 PM
+462,1,2,534,0020900701,,,0:28,4,5,0,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Frye 25' 3PT Jump Shot,9:27 PM
+463,0,4,535,0020900701,Battier REBOUND (Off:3 Def:7),,0:26,4,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:27 PM
+464,1,9,536,0020900701,ROCKETS Timeout: Regular (Full 5 Short 0),,0:26,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:27 PM
+465,0,8,537,0020900701,,,0:26,4,5,5,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Lopez FOR Frye,9:29 PM
+466,5,2,538,0020900701,MISS Landry  Layup,,0:23,4,4,0,5,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,,,Lopez BLOCK (3 BLK),9:30 PM
+467,0,10,539,0020900701,Jump Ball Landry vs. Lopez: Tip to Brooks,,0:23,4,4,5,4,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,,,,9:30 PM
+468,0,4,540,0020900701,ROCKETS Rebound,,0:23,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:30 PM
+469,80,1,541,0020900701,Ariza 24' 3PT Step Back Jump Shot (21 PTS),,0:11,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,100 - 100,TIE,,9:31 PM
+470,2,9,542,0020900701,,,0:11,4,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Short (Reg.5 Short 2),9:31 PM
+471,0,18,544,0020900701,,,0:11,4,0,0,1,0,,,,,,0,,,,,,0,,,,,,100 - 100,TIE,,9:31 PM
+472,0,8,546,0020900701,SUB: Hayes FOR Scola,,0:11,4,4,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,101236,Charles Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:32 PM
+473,0,8,547,0020900701,,,0:11,4,5,5,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Frye FOR Lopez,9:32 PM
+474,63,2,548,0020900701,,,0:00,4,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Nash 11' Fadeaway Jumper,9:33 PM
+475,0,4,549,0020900701,,,0:00,4,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Rebound,9:33 PM
+476,0,13,550,0020900701,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,100 - 100,TIE,,9:33 PM
+477,0,12,552,0020900701,,,5:00,5,0,0,0,0,,,,,,0,,,,,,0,,,,,,100 - 100,TIE,,9:35 PM
+478,0,10,553,0020900701,Jump Ball Landry vs. Stoudemire: Tip to Nash,,5:00,5,4,5,5,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,,,,9:36 PM
+479,47,1,554,0020900701,,,4:48,5,5,0,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,102 - 100,-2,Stoudemire 7' Turnaround Jump Shot (36 PTS),9:36 PM
+480,1,1,555,0020900701,Scola 17' Jump Shot (14 PTS) (Ariza 4 AST),,4:32,5,4,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,102 - 102,TIE,,9:36 PM
+481,1,2,556,0020900701,Ariza BLOCK (1 BLK),,4:14,5,5,0,4,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,0,,,,,,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,,,MISS Stoudemire 9' Jump Shot,9:36 PM
+482,0,4,557,0020900701,Battier REBOUND (Off:3 Def:8),,4:12,5,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:36 PM
+483,79,1,558,0020900701,Brooks 7' Pullup Jump Shot (20 PTS),,3:51,5,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,102 - 104,2,,9:37 PM
+484,79,1,559,0020900701,,,3:24,5,5,0,0,255,Grant Hill,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,104 - 104,TIE,Hill 18' Pullup Jump Shot (19 PTS),9:37 PM
+485,2,6,560,0020900701,,,3:08,5,5,4,1,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Stoudemire S.FOUL (P6.T1),9:38 PM
+486,0,8,561,0020900701,,,3:08,5,5,5,0,2405,Amar'e Stoudemire,PHX,Phoenix,1610612756.0,Suns,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Dudley FOR Stoudemire,9:38 PM
+487,11,3,563,0020900701,Scola Free Throw 1 of 2 (15 PTS),,3:08,5,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,104 - 105,1,,9:38 PM
+488,12,3,565,0020900701,MISS Scola Free Throw 2 of 2,,3:08,5,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:38 PM
+489,0,4,567,0020900701,,,3:08,5,5,0,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Frye REBOUND (Off:0 Def:5),9:39 PM
+490,2,6,569,0020900701,Battier S.FOUL (P2.T1),,2:46,5,4,5,1,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:39 PM
+491,11,3,570,0020900701,,,2:46,5,5,0,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,105 - 105,TIE,Frye Free Throw 1 of 2 (5 PTS),9:39 PM
+492,12,3,572,0020900701,,,2:46,5,5,0,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,106 - 105,-1,Frye Free Throw 2 of 2 (6 PTS),9:40 PM
+493,1,5,575,0020900701,Scola Bad Pass Turnover (P2.T7),,2:21,5,4,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Richardson STEAL (2 STL),9:40 PM
+494,1,2,576,0020900701,,,2:11,5,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Nash 26' 3PT Jump Shot,9:40 PM
+495,0,4,577,0020900701,Landry REBOUND (Off:4 Def:2),,2:07,5,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:40 PM
+496,1,2,578,0020900701,MISS Ariza 25' 3PT Jump Shot,,2:01,5,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:41 PM
+497,0,4,579,0020900701,,,2:00,5,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Nash REBOUND (Off:1 Def:7),9:41 PM
+498,5,1,580,0020900701,,,1:55,5,5,5,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,108 - 105,-3,Richardson  Layup (6 PTS) (Dudley 2 AST),9:41 PM
+499,1,2,581,0020900701,MISS Brooks 26' 3PT Jump Shot,,1:42,5,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:41 PM
+500,0,4,582,0020900701,Landry REBOUND (Off:5 Def:2),,1:40,5,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:41 PM
+501,1,2,583,0020900701,MISS Ariza 25' 3PT Jump Shot,,1:34,5,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:41 PM
+502,0,4,584,0020900701,,,1:33,5,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Richardson REBOUND (Off:1 Def:7),9:41 PM
+503,2,6,587,0020900701,Battier S.FOUL (P3.T2),,1:14,5,4,5,1,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:43 PM
+504,11,3,588,0020900701,,,1:14,5,5,0,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Frye Free Throw 1 of 2,9:43 PM
+505,1,4,589,0020900701,,,1:14,5,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Rebound,9:43 PM
+506,12,3,590,0020900701,,,1:14,5,5,0,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,109 - 105,-4,Frye Free Throw 2 of 2 (7 PTS),9:43 PM
+507,1,9,612,0020900701,ROCKETS Timeout: Regular (Full 6 Short 0),,1:14,5,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:43 PM
+508,78,1,592,0020900701,Brooks 7' Floating Jump Shot (22 PTS),,1:08,5,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,109 - 107,-2,,9:46 PM
+509,2,9,593,0020900701,,,1:01,5,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Short (Reg.5 Short 3),9:46 PM
+510,44,1,595,0020900701,,,0:49,5,5,5,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,111 - 107,-4,Richardson  Reverse Layup (8 PTS) (Nash 16 AST),9:47 PM
+511,2,9,596,0020900701,ROCKETS Timeout: Short (Full 6 Short 1),,0:49,5,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:47 PM
+512,6,6,597,0020900701,,,0:49,5,5,4,1,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Nash AWAY.FROM.PLAY.FOUL (P1.T2),9:49 PM
+513,10,3,598,0020900701,Brooks Free Throw 1 of 1 (23 PTS),,0:49,5,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,111 - 108,-3,,9:49 PM
+514,3,1,600,0020900701,Scola 6' Hook Shot (17 PTS),,0:42,5,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,111 - 110,-1,,9:49 PM
+515,46,2,601,0020900701,,,0:18,5,5,0,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,MISS Richardson 15' Running Jump Shot,9:50 PM
+516,0,4,602,0020900701,,,0:18,5,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Rebound,9:50 PM
+517,11,5,603,0020900701,,,0:18,5,3,0,1,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Turnover: Shot Clock (T#19),9:50 PM
+518,42,2,604,0020900701,MISS Brooks  Driving Layup,,0:06,5,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:51 PM
+519,0,4,605,0020900701,,,0:05,5,5,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,Dudley REBOUND (Off:1 Def:2),9:51 PM
+520,1,6,606,0020900701,Landry P.FOUL (P3.PN),,0:05,5,4,5,1,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:51 PM
+521,11,3,607,0020900701,,,0:05,5,5,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,112 - 110,-2,Dudley Free Throw 1 of 2 (12 PTS),9:51 PM
+522,12,3,609,0020900701,,,0:05,5,5,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,113 - 110,-3,Dudley Free Throw 2 of 2 (13 PTS),9:51 PM
+523,2,9,611,0020900701,ROCKETS Timeout: Short (Full 6 Short 2),,0:05,5,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:51 PM
+524,0,8,614,0020900701,SUB: Budinger FOR Scola,,0:05,5,4,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:52 PM
+525,0,8,615,0020900701,,,0:05,5,5,5,0,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Dragic FOR Frye,9:52 PM
+526,1,6,616,0020900701,,,0:04,5,5,4,1,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Richardson P.FOUL (P2.PN),9:53 PM
+527,11,3,617,0020900701,Brooks Free Throw 1 of 2 (24 PTS),,0:04,5,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,113 - 111,-2,,9:53 PM
+528,0,8,619,0020900701,,,0:04,5,5,5,0,201609,Goran Dragic,PHX,Phoenix,1610612756.0,Suns,101112,Channing Frye,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Frye FOR Dragic,9:53 PM
+529,0,8,620,0020900701,,,0:04,5,5,5,0,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Lopez FOR Richardson,9:53 PM
+530,12,3,621,0020900701,Free Throw 2 of 2,,0:04,5,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:54 PM
+531,1,4,622,0020900701,,,0:04,5,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Rebound,9:54 PM
+532,1,9,625,0020900701,,,0:04,5,3,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,Suns Timeout: Regular (Reg.6 Short 3),9:54 PM
+533,0,8,627,0020900701,,,0:04,5,5,5,0,201577,Robin Lopez,PHX,Phoenix,1610612756.0,Suns,2202,Jason Richardson,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,SUB: Richardson FOR Lopez,9:56 PM
+534,1,6,628,0020900701,Brooks P.FOUL (P5.PN),,0:03,5,4,5,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,9:56 PM
+535,11,3,629,0020900701,,,0:03,5,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,114 - 111,-3,Nash Free Throw 1 of 2 (10 PTS),9:56 PM
+536,12,3,631,0020900701,,,0:03,5,5,0,0,959,Steve Nash,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,115 - 111,-4,Nash Free Throw 2 of 2 (11 PTS),9:56 PM
+537,1,5,633,0020900701,Battier Bad Pass Turnover (P1.T8),,0:02,5,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:57 PM
+538,0,13,634,0020900701,,,0:00,5,0,0,0,0,,,,,,0,,,,,,0,,,,,,115 - 111,-4,,9:57 PM

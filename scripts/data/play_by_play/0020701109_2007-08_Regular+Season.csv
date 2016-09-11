@@ -1,0 +1,442 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020701109,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:44 PM
+1,0,10,1,0020701109,Jump Ball Noah vs. Perkins: Tip to Pierce,,12:00,1,4,5,5,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,,,,8:45 PM
+2,1,6,2,0020701109,Thomas P.FOUL (P1.T1),,11:48,1,4,5,1,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:45 PM
+3,1,2,3,0020701109,,,11:36,1,5,0,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Allen 20' Jump Shot,8:46 PM
+4,0,4,4,0020701109,Noah REBOUND (Off:0 Def:1),,11:32,1,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:46 PM
+5,1,2,5,0020701109,MISS Deng 10' Jump Shot,,11:09,1,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:46 PM
+6,0,4,6,0020701109,,,11:08,1,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:0 Def:1),8:46 PM
+7,1,1,7,0020701109,,,10:57,1,5,5,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,2 - 0,-2,Garnett 21' Jump Shot (2 PTS) (Allen 1 AST),8:46 PM
+8,8,1,8,0020701109,Noah  Slam Dunk (2 PTS) (Deng 1 AST),,10:40,1,4,4,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2 - 2,TIE,,8:47 PM
+9,42,2,9,0020701109,,,10:16,1,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Perkins  Driving Layup,8:47 PM
+10,0,4,10,0020701109,Deng REBOUND (Off:0 Def:1),,10:15,1,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:47 PM
+11,1,2,11,0020701109,MISS Hinrich 21' Jump Shot,,10:08,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:47 PM
+12,0,4,12,0020701109,Noah REBOUND (Off:1 Def:1),,10:06,1,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:47 PM
+13,2,5,13,0020701109,Noah Lost Ball Turnover (P1.T1),,9:48,1,4,5,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Rondo STEAL (1 STL),8:47 PM
+14,1,1,14,0020701109,,,9:42,1,5,5,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,5 - 2,-3,Allen 26' 3PT Jump Shot (3 PTS) (Rondo 1 AST),8:48 PM
+15,5,1,15,0020701109,Thomas  Layup (2 PTS) (Hinrich 1 AST),,9:21,1,4,4,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,5 - 4,-1,,8:48 PM
+16,4,5,16,0020701109,,,9:11,1,5,0,1,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Rondo Traveling Turnover (P1.T1),8:48 PM
+17,1,2,17,0020701109,MISS Thomas 9' Jump Shot,,8:50,1,4,0,5,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,,,Garnett BLOCK (1 BLK),8:49 PM
+18,0,4,18,0020701109,,,8:49,1,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:0 Def:2),8:49 PM
+19,8,2,19,0020701109,,,8:46,1,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Garnett  Slam Dunk,8:49 PM
+20,0,4,20,0020701109,BULLS Rebound,,8:46,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:49 PM
+21,5,2,21,0020701109,MISS Thomas  Layup,,8:35,1,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:49 PM
+22,0,4,22,0020701109,,,8:34,1,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:0 Def:3),8:49 PM
+23,1,2,23,0020701109,,,8:12,1,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Garnett 19' Jump Shot,8:50 PM
+24,0,4,24,0020701109,Noah REBOUND (Off:1 Def:2),,8:11,1,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:50 PM
+25,1,2,25,0020701109,MISS Deng 21' Jump Shot,,8:01,1,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:50 PM
+26,0,4,26,0020701109,,,8:00,1,5,0,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Rondo REBOUND (Off:0 Def:1),8:50 PM
+27,1,1,27,0020701109,,,7:51,1,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,8 - 4,-4,Pierce 24' 3PT Jump Shot (3 PTS) (Rondo 2 AST),8:50 PM
+28,1,5,28,0020701109,Thomas Bad Pass Turnover (P1.T2),,7:41,1,4,5,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Rondo STEAL (2 STL),8:50 PM
+29,5,1,29,0020701109,,,7:38,1,5,0,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,10 - 4,-6,Rondo  Layup (2 PTS),8:50 PM
+30,1,9,30,0020701109,BULLS Timeout: Regular (Full 1 Short 0),,7:32,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:50 PM
+31,1,1,32,0020701109,Thomas 22' Jump Shot (4 PTS) (Deng 2 AST),,7:18,1,4,4,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,10 - 6,-4,,8:53 PM
+32,1,2,33,0020701109,Noah BLOCK (1 BLK),,6:57,1,5,0,4,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,,,MISS Rondo 8' Jump Shot,8:53 PM
+33,0,4,34,0020701109,Noah REBOUND (Off:1 Def:3),,6:56,1,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:53 PM
+34,2,5,35,0020701109,Hinrich Lost Ball Turnover (P1.T3),,6:44,1,4,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Pierce STEAL (1 STL),8:54 PM
+35,5,1,36,0020701109,,,6:40,1,5,0,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,12 - 6,-6,Rondo  Layup (4 PTS),8:54 PM
+36,1,2,37,0020701109,MISS Noah 16' Jump Shot,,6:21,1,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:54 PM
+37,0,4,38,0020701109,,,6:20,1,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:0 Def:4),8:54 PM
+38,5,1,39,0020701109,,,6:14,1,5,5,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,14 - 6,-8,Garnett  Layup (4 PTS) (Rondo 3 AST),8:54 PM
+39,2,6,40,0020701109,,,6:05,1,5,4,1,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Perkins S.FOUL (P1.T1),8:54 PM
+40,0,8,42,0020701109,SUB: Gordon FOR Hinrich,,6:05,1,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:55 PM
+41,11,3,43,0020701109,MISS Noah Free Throw 1 of 2,,6:05,1,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:55 PM
+42,1,4,44,0020701109,BULLS Rebound,,6:05,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:55 PM
+43,12,3,45,0020701109,MISS Noah Free Throw 2 of 2,,6:05,1,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:55 PM
+44,0,4,46,0020701109,,,6:03,1,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Garnett REBOUND (Off:0 Def:1),8:55 PM
+45,1,2,47,0020701109,,,5:48,1,5,0,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Allen 18' Jump Shot,8:55 PM
+46,0,4,48,0020701109,,,5:47,1,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Garnett REBOUND (Off:1 Def:1),8:55 PM
+47,2,6,49,0020701109,Deng S.FOUL (P1.T2),,5:36,1,4,5,1,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:56 PM
+48,11,3,50,0020701109,,,5:36,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce Free Throw 1 of 2,8:56 PM
+49,1,4,51,0020701109,,,5:36,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,8:56 PM
+50,12,3,52,0020701109,,,5:36,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,15 - 6,-9,Pierce Free Throw 2 of 2 (4 PTS),8:56 PM
+51,2,6,53,0020701109,,,5:23,1,5,4,1,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Allen S.FOUL (P1.T2),8:57 PM
+52,11,3,54,0020701109,Hughes Free Throw 1 of 2 (1 PTS),,5:23,1,4,0,0,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,15 - 7,-8,,8:57 PM
+53,0,8,55,0020701109,,,5:23,1,5,5,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Allen FOR Allen,8:57 PM
+54,12,3,56,0020701109,Hughes Free Throw 2 of 2 (2 PTS),,5:23,1,4,0,0,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,15 - 8,-7,,8:57 PM
+55,1,6,57,0020701109,Gordon P.FOUL (P1.T3),,5:13,1,4,5,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:58 PM
+56,1,5,58,0020701109,Deng STEAL (1 STL),,5:00,1,5,4,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Rondo Bad Pass Turnover (P2.T2),8:58 PM
+57,5,2,59,0020701109,MISS Noah  Layup,,4:50,1,4,0,5,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,,,Pierce BLOCK (1 BLK),8:58 PM
+58,0,4,60,0020701109,BULLS Rebound,,4:50,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:59 PM
+59,11,6,61,0020701109,,,4:50,1,6,0,1,1227,,,,,,0,,,,,,0,,,,,,,,,8:59 PM
+60,16,3,62,0020701109,,,4:50,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce Free Throw Technical,8:59 PM
+61,1,4,63,0020701109,BULLS Rebound,,4:50,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:59 PM
+62,5,1,64,0020701109,Thomas  Layup (6 PTS) (Deng 3 AST),,4:39,1,4,4,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,15 - 10,-5,,9:00 PM
+63,2,6,65,0020701109,,,4:39,1,5,4,1,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Allen S.FOUL (P1.T3),9:00 PM
+64,10,3,66,0020701109,MISS Thomas Free Throw 1 of 1,,4:39,1,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:00 PM
+65,0,4,67,0020701109,,,4:37,1,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:0 Def:5),9:00 PM
+66,1,5,68,0020701109,Noah STEAL (1 STL),,4:28,1,5,4,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Rondo Bad Pass Turnover (P3.T3),9:00 PM
+67,79,2,69,0020701109,MISS Hughes 19' Pullup Jump Shot,,4:20,1,4,0,0,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:01 PM
+68,0,4,70,0020701109,Thomas REBOUND (Off:1 Def:0),,4:19,1,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:01 PM
+69,1,2,71,0020701109,MISS Deng 16' Jump Shot,,4:00,1,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:01 PM
+70,0,4,72,0020701109,,,3:59,1,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Allen REBOUND (Off:0 Def:1),9:01 PM
+71,2,5,73,0020701109,Hughes STEAL (1 STL),,3:54,1,5,4,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Allen Lost Ball Turnover (P1.T4),9:01 PM
+72,1,5,74,0020701109,Noah Bad Pass Turnover (P2.T4),,3:48,1,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:01 PM
+73,0,8,75,0020701109,,,3:48,1,5,5,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Powe FOR Perkins,9:01 PM
+74,2,6,77,0020701109,Gordon S.FOUL (P2.T4),,3:31,1,4,5,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:02 PM
+75,11,3,78,0020701109,,,3:31,1,5,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,16 - 10,-6,Powe Free Throw 1 of 2 (1 PTS),9:02 PM
+76,0,8,79,0020701109,SUB: Nocioni FOR Thomas,,3:31,1,4,4,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:02 PM
+77,0,8,80,0020701109,SUB: Hinrich FOR Gordon,,3:31,1,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:02 PM
+78,12,3,81,0020701109,,,3:31,1,5,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,17 - 10,-7,Powe Free Throw 2 of 2 (2 PTS),9:02 PM
+79,1,2,82,0020701109,MISS Hinrich 20' Jump Shot,,3:17,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:03 PM
+80,0,4,83,0020701109,BULLS Rebound,,3:17,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:03 PM
+81,3,6,84,0020701109,,,3:17,1,5,4,1,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Powe L.B.FOUL (P1.T4),9:03 PM
+82,0,8,85,0020701109,,,3:17,1,5,5,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Posey FOR Garnett,9:03 PM
+83,47,2,86,0020701109,MISS Deng 12' Turnaround Jump Shot,,3:10,1,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:03 PM
+84,0,4,87,0020701109,,,3:09,1,5,0,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Posey REBOUND (Off:0 Def:1),9:03 PM
+85,5,2,88,0020701109,,,2:48,1,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Allen  Layup,9:04 PM
+86,0,4,89,0020701109,Noah REBOUND (Off:1 Def:4),,2:48,1,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:04 PM
+87,1,2,90,0020701109,MISS Nocioni 24' 3PT Jump Shot,,2:40,1,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:04 PM
+88,0,4,91,0020701109,Noah REBOUND (Off:2 Def:4),,2:39,1,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:04 PM
+89,2,6,92,0020701109,,,2:36,1,5,4,1,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Powe S.FOUL (P2.PN),9:04 PM
+90,1,9,93,0020701109,,,2:36,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.1 Short 0),9:04 PM
+91,0,8,95,0020701109,SUB: Sefolosha FOR Hughes,,2:36,1,4,4,0,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:07 PM
+92,11,3,97,0020701109,Deng Free Throw 1 of 2 (1 PTS),,2:36,1,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,17 - 11,-6,,9:07 PM
+93,12,3,98,0020701109,Deng Free Throw 2 of 2 (2 PTS),,2:36,1,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,17 - 12,-5,,9:07 PM
+94,1,1,99,0020701109,,,2:16,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,19 - 12,-7,Pierce 16' Jump Shot (6 PTS),9:08 PM
+95,1,1,100,0020701109,Hinrich 25' 3PT Jump Shot (3 PTS) (Noah 1 AST),,1:53,1,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,19 - 15,-4,,9:08 PM
+96,1,5,101,0020701109,Deng STEAL (2 STL),,1:38,1,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Pierce Bad Pass Turnover (P1.T5),9:09 PM
+97,1,5,102,0020701109,Deng Bad Pass Turnover (P1.T5),,1:32,1,4,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Allen STEAL (1 STL),9:09 PM
+98,1,1,103,0020701109,,,1:24,1,5,5,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,22 - 15,-7,Posey 24' 3PT Jump Shot (3 PTS) (Rondo 4 AST),9:09 PM
+99,40,5,104,0020701109,Hinrich Out of Bounds Lost Ball Turnover (P2.T6),,1:12,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:09 PM
+100,0,8,105,0020701109,,,1:12,1,5,5,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Cassell FOR Rondo,9:09 PM
+101,0,8,106,0020701109,SUB: Gray FOR Noah,,1:12,1,4,4,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:09 PM
+102,5,2,107,0020701109,,,0:52,1,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Allen  Layup,9:10 PM
+103,0,4,109,0020701109,,,0:50,1,5,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Powe REBOUND (Off:1 Def:0),9:10 PM
+104,4,2,108,0020701109,,,0:50,1,5,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Powe  Tip Shot,9:10 PM
+105,0,4,111,0020701109,,,0:49,1,5,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Powe REBOUND (Off:2 Def:0),9:10 PM
+106,5,2,110,0020701109,Hinrich BLOCK (1 BLK),,0:49,1,5,0,4,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,,,MISS Powe  Layup,9:10 PM
+107,0,4,112,0020701109,,,0:49,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,9:10 PM
+108,1,5,113,0020701109,Gray STEAL (1 STL),,0:35,1,5,4,0,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Cassell Bad Pass Turnover (P1.T6),9:10 PM
+109,42,1,114,0020701109,Deng  Driving Layup (4 PTS) (Sefolosha 1 AST),,0:26,1,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,22 - 17,-5,,9:10 PM
+110,1,2,115,0020701109,,,0:06,1,5,0,0,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Cassell 23' Jump Shot,9:11 PM
+111,0,4,116,0020701109,Hinrich REBOUND (Off:0 Def:1),,0:04,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:11 PM
+112,0,18,120,0020701109,,,0:00,1,0,0,1,0,,,,,,0,,,,,,0,,,,,,22 - 17,-5,,9:11 PM
+113,0,13,117,0020701109,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,22 - 17,-5,,9:11 PM
+114,0,12,119,0020701109,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,22 - 17,-5,,9:14 PM
+115,1,6,121,0020701109,,,11:47,2,5,4,1,1899,James Posey,BOS,Boston,1610612738.0,Celtics,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Posey P.FOUL (P1.T1),9:14 PM
+116,5,1,122,0020701109,Nocioni  Layup (2 PTS),,11:34,2,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,22 - 19,-3,,9:14 PM
+117,1,1,124,0020701109,,,11:13,2,5,5,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,25 - 19,-6,Posey 26' 3PT Jump Shot (6 PTS) (Allen 2 AST),9:15 PM
+118,1,2,126,0020701109,MISS Sefolosha 18' Jump Shot,,10:51,2,4,0,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:15 PM
+119,0,4,127,0020701109,,,10:51,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,9:15 PM
+120,1,2,128,0020701109,,,10:27,2,5,0,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Posey 26' 3PT Jump Shot,9:16 PM
+121,0,4,129,0020701109,,,10:24,2,5,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Powe REBOUND (Off:3 Def:0),9:16 PM
+122,40,5,130,0020701109,,,10:24,2,5,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Powe Out of Bounds Lost Ball Turnover (P1.T7),9:16 PM
+123,1,6,131,0020701109,,,10:08,2,5,4,1,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Powe P.FOUL (P3.T2),9:16 PM
+124,0,8,132,0020701109,SUB: Hughes FOR Deng,,10:08,2,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:16 PM
+125,0,8,133,0020701109,,,10:08,2,5,5,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,201175,Glen Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Davis FOR Powe,9:16 PM
+126,1,2,134,0020701109,MISS Duhon 25' 3PT Jump Shot,,9:59,2,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:17 PM
+127,0,4,135,0020701109,,,9:58,2,5,0,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Posey REBOUND (Off:0 Def:2),9:17 PM
+128,1,1,136,0020701109,,,9:42,2,5,5,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,28 - 19,-9,Allen 26' 3PT Jump Shot (6 PTS) (Posey 1 AST),9:17 PM
+129,1,2,137,0020701109,MISS Hughes 20' Jump Shot,,9:22,2,4,0,0,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:17 PM
+130,0,4,138,0020701109,Gray REBOUND (Off:1 Def:0),,9:20,2,4,0,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:17 PM
+131,2,5,139,0020701109,Gray Lost Ball Turnover (P1.T7),,9:17,2,4,5,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,201175,Glen Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Davis STEAL (1 STL),9:17 PM
+132,44,1,140,0020701109,,,9:11,2,5,5,0,201175,Glen Davis,BOS,Boston,1610612738.0,Celtics,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,30 - 19,-11,Davis  Reverse Layup (2 PTS) (Posey 2 AST),9:18 PM
+133,2,6,141,0020701109,Sefolosha S.FOUL (P1.T1),,9:11,2,4,5,1,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,201175,Glen Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:18 PM
+134,10,3,142,0020701109,,,9:11,2,5,0,0,201175,Glen Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Davis Free Throw 1 of 1,9:18 PM
+135,0,4,143,0020701109,Nocioni REBOUND (Off:0 Def:1),,9:09,2,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:18 PM
+136,1,1,144,0020701109,Nocioni 25' 3PT Jump Shot (5 PTS) (Sefolosha 2 AST),,8:55,2,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,30 - 22,-8,,9:18 PM
+137,2,5,145,0020701109,Hughes STEAL (2 STL),,8:38,2,5,4,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Allen Lost Ball Turnover (P2.T8),9:19 PM
+138,5,1,146,0020701109,Gray  Layup (2 PTS),,8:27,2,4,0,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,30 - 24,-6,,9:19 PM
+139,2,6,147,0020701109,,,8:27,2,5,4,1,201175,Glen Davis,BOS,Boston,1610612738.0,Celtics,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Davis S.FOUL (P1.T3),9:19 PM
+140,1,9,149,0020701109,,,8:27,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:19 PM
+141,10,3,150,0020701109,Gray Free Throw 1 of 1 (3 PTS),,8:27,2,4,0,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,30 - 25,-5,,9:22 PM
+142,42,1,151,0020701109,,,8:14,2,5,5,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,32 - 25,-7,Allen  Driving Layup (2 PTS) (Allen 3 AST),9:22 PM
+143,2,6,152,0020701109,Gray S.FOUL (P1.T2),,8:14,2,4,5,1,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:22 PM
+144,10,3,153,0020701109,,,8:14,2,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,33 - 25,-8,Allen Free Throw 1 of 1 (3 PTS),9:22 PM
+145,1,2,154,0020701109,MISS Hughes 24' 3PT Jump Shot,,7:57,2,4,0,0,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:23 PM
+146,0,4,155,0020701109,,,7:56,2,5,0,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Allen REBOUND (Off:0 Def:1),9:23 PM
+147,2,6,156,0020701109,Gray S.FOUL (P2.T3),,7:47,2,4,5,1,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:23 PM
+148,11,3,157,0020701109,,,7:47,2,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Allen Free Throw 1 of 2,9:23 PM
+149,1,4,158,0020701109,,,7:47,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,9:23 PM
+150,0,8,159,0020701109,SUB: Noah FOR Gray,,7:47,2,4,4,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:23 PM
+151,12,3,160,0020701109,,,7:47,2,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,34 - 25,-9,Allen Free Throw 2 of 2 (4 PTS),9:23 PM
+152,2,6,161,0020701109,,,7:31,2,5,4,1,1899,James Posey,BOS,Boston,1610612738.0,Celtics,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Posey S.FOUL (P2.T4),9:24 PM
+153,11,3,162,0020701109,Nocioni Free Throw 1 of 2 (6 PTS),,7:31,2,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,34 - 26,-8,,9:24 PM
+154,12,3,163,0020701109,Nocioni Free Throw 2 of 2 (7 PTS),,7:31,2,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,34 - 27,-7,,9:24 PM
+155,1,2,164,0020701109,,,7:19,2,5,0,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Allen 24' 3PT Jump Shot,9:25 PM
+156,0,4,165,0020701109,Duhon REBOUND (Off:0 Def:1),,7:17,2,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:25 PM
+157,1,2,166,0020701109,MISS Sefolosha 21' Jump Shot,,7:06,2,4,0,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:25 PM
+158,0,4,167,0020701109,,,7:05,2,5,0,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Posey REBOUND (Off:0 Def:3),9:25 PM
+159,5,2,168,0020701109,,,6:59,2,5,0,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Allen  Layup,9:25 PM
+160,0,4,169,0020701109,,,6:58,2,5,0,0,201175,Glen Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Davis REBOUND (Off:1 Def:0),9:25 PM
+161,5,2,170,0020701109,Sefolosha BLOCK (1 BLK),,6:55,2,5,0,4,201175,Glen Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,,,MISS Davis  Layup,9:25 PM
+162,0,4,172,0020701109,,,6:52,2,5,0,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Allen REBOUND (Off:1 Def:1),9:25 PM
+163,5,2,171,0020701109,Hughes BLOCK (1 BLK),,6:52,2,5,0,4,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,,,MISS Allen  Layup,9:25 PM
+164,0,4,173,0020701109,Duhon REBOUND (Off:0 Def:2),,6:50,2,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:25 PM
+165,2,6,174,0020701109,,,6:50,2,5,4,1,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Cassell S.FOUL (P1.PN),9:25 PM
+166,0,8,175,0020701109,SUB: Thomas FOR Nocioni,,6:50,2,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:25 PM
+167,0,8,176,0020701109,,,6:50,2,5,5,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Garnett FOR Allen,9:25 PM
+168,11,3,177,0020701109,Duhon Free Throw 1 of 2 (1 PTS),,6:50,2,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,34 - 28,-6,,9:26 PM
+169,12,3,178,0020701109,Duhon Free Throw 2 of 2 (2 PTS),,6:50,2,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,34 - 29,-5,,9:26 PM
+170,1,2,179,0020701109,,,6:28,2,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Garnett 19' Jump Shot,9:26 PM
+171,0,4,180,0020701109,Sefolosha REBOUND (Off:0 Def:1),,6:25,2,4,0,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:26 PM
+172,1,6,181,0020701109,,,6:16,2,5,4,1,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Garnett P.FOUL (P1.PN),9:27 PM
+173,0,8,182,0020701109,,,6:16,2,5,5,0,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Rondo FOR Cassell,9:27 PM
+174,0,8,183,0020701109,,,6:16,2,5,5,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Pierce FOR Posey,9:27 PM
+175,11,3,184,0020701109,Thomas Free Throw 1 of 2 (7 PTS),,6:16,2,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,34 - 30,-4,,9:27 PM
+176,12,3,185,0020701109,Thomas Free Throw 2 of 2 (8 PTS),,6:16,2,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,34 - 31,-3,,9:27 PM
+177,40,5,186,0020701109,,,5:56,2,5,0,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Allen Out of Bounds Lost Ball Turnover (P1.T9),9:28 PM
+178,0,8,187,0020701109,,,5:56,2,5,5,0,201175,Glen Davis,BOS,Boston,1610612738.0,Celtics,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Perkins FOR Davis,9:28 PM
+179,1,9,188,0020701109,BULLS Timeout: Regular (Full 2 Short 0),,5:56,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:28 PM
+180,1,2,190,0020701109,MISS Thomas 19' Jump Shot,,5:43,2,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:30 PM
+181,0,4,191,0020701109,,,5:42,2,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:0 Def:6),9:30 PM
+182,5,2,192,0020701109,,,5:27,2,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Perkins  Layup,9:31 PM
+183,0,4,193,0020701109,Noah REBOUND (Off:2 Def:5),,5:26,2,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:31 PM
+184,1,1,194,0020701109,Duhon 17' Jump Shot (4 PTS) (Sefolosha 3 AST),,5:03,2,4,4,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,34 - 33,-1,,9:31 PM
+185,1,1,195,0020701109,,,4:44,2,5,5,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,36 - 33,-3,Garnett 14' Jump Shot (6 PTS) (Pierce 1 AST),9:31 PM
+186,1,2,196,0020701109,MISS Hughes 19' Jump Shot,,4:33,2,4,0,0,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:32 PM
+187,0,4,197,0020701109,,,4:32,2,5,0,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Rondo REBOUND (Off:0 Def:2),9:32 PM
+188,5,1,198,0020701109,,,4:14,2,5,5,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,38 - 33,-5,Garnett  Layup (8 PTS) (Rondo 5 AST),9:32 PM
+189,5,2,199,0020701109,MISS Noah  Layup,,3:47,2,4,0,5,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,,,Garnett BLOCK (2 BLK),9:32 PM
+190,0,4,200,0020701109,BULLS Rebound,,3:47,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:32 PM
+191,0,8,201,0020701109,SUB: Deng FOR Sefolosha,,3:47,2,4,4,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:32 PM
+192,0,8,202,0020701109,SUB: Gordon FOR Hughes,,3:47,2,4,4,0,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:33 PM
+193,44,2,203,0020701109,MISS Thomas  Reverse Layup,,3:43,2,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:33 PM
+194,0,4,204,0020701109,,,3:42,2,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Garnett REBOUND (Off:1 Def:2),9:33 PM
+195,4,6,205,0020701109,,,3:38,2,5,4,1,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Rondo OFF.Foul (P1),9:33 PM
+196,5,5,206,0020701109,,,3:38,2,5,0,1,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Rondo Foul Turnover (P4.T10),9:33 PM
+197,1,5,207,0020701109,Gordon Bad Pass Turnover (P1.T8),,3:21,2,4,5,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Garnett STEAL (1 STL),9:34 PM
+198,5,1,208,0020701109,,,3:16,2,5,5,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,40 - 33,-7,Garnett  Layup (10 PTS) (Allen 4 AST),9:34 PM
+199,1,2,209,0020701109,MISS Gordon 15' Jump Shot,,2:52,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:34 PM
+200,0,4,210,0020701109,,,2:50,2,5,0,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Rondo REBOUND (Off:0 Def:3),9:34 PM
+201,44,1,211,0020701109,,,2:46,2,5,5,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,42 - 33,-9,Perkins  Reverse Layup (2 PTS) (Rondo 6 AST),9:34 PM
+202,2,9,212,0020701109,BULLS Timeout: Short (Full 2 Short 1),,2:37,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:34 PM
+203,1,9,213,0020701109,,,2:37,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.2 Short 0),9:34 PM
+204,1,1,215,0020701109,Gordon 25' 3PT Jump Shot (3 PTS) (Duhon 1 AST),,2:22,2,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,42 - 36,-6,,9:37 PM
+205,1,1,216,0020701109,,,2:14,2,5,5,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,45 - 36,-9,Allen 25' 3PT Jump Shot (9 PTS) (Rondo 7 AST),9:38 PM
+206,1,1,217,0020701109,Gordon 25' 3PT Jump Shot (6 PTS) (Duhon 2 AST),,1:58,2,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,45 - 39,-6,,9:38 PM
+207,52,1,218,0020701109,,,1:41,2,5,5,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,47 - 39,-8,Garnett  Alley Oop Dunk (12 PTS) (Perkins 1 AST),9:38 PM
+208,5,2,219,0020701109,MISS Deng  Layup,,1:21,2,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:38 PM
+209,0,4,221,0020701109,Thomas REBOUND (Off:2 Def:0),,1:20,2,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:38 PM
+210,92,1,220,0020701109,Thomas  Putback Slam Dunk (10 PTS),,1:20,2,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,47 - 41,-6,,9:38 PM
+211,1,6,222,0020701109,Gordon P.FOUL (P3.T4),,1:06,2,4,5,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:39 PM
+212,0,8,223,0020701109,SUB: Hinrich FOR Gordon,,1:06,2,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:39 PM
+213,11,6,224,0020701109,Gordon T.FOUL (P3.T4),,1:06,2,4,0,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:39 PM
+214,16,3,225,0020701109,,,1:06,2,5,0,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,48 - 41,-7,Allen Free Throw Technical (10 PTS),9:39 PM
+215,4,6,226,0020701109,,,1:01,2,5,4,1,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Perkins OFF.Foul (P2),9:40 PM
+216,5,5,227,0020701109,,,1:01,2,5,0,1,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins Foul Turnover (P1.T11),9:40 PM
+217,52,1,228,0020701109,Thomas  Alley Oop Dunk (12 PTS) (Duhon 3 AST),,0:51,2,4,4,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,48 - 43,-5,,9:40 PM
+218,41,1,229,0020701109,,,0:42,2,5,0,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,50 - 43,-7,Rondo  Running Layup (6 PTS),9:40 PM
+219,4,5,230,0020701109,Duhon Traveling Turnover (P1.T9),,0:20,2,4,0,1,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:41 PM
+220,0,8,232,0020701109,,,0:20,2,5,5,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Posey FOR Perkins,9:41 PM
+221,0,8,233,0020701109,,,0:20,2,5,5,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,2067,Eddie House,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: House FOR Rondo,9:41 PM
+222,0,8,234,0020701109,SUB: Sefolosha FOR Thomas,,0:20,2,4,4,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:41 PM
+223,1,2,235,0020701109,,,0:00,2,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Garnett 20' Jump Shot,9:42 PM
+224,0,4,236,0020701109,Sefolosha REBOUND (Off:0 Def:2),,0:00,2,4,0,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:42 PM
+225,0,13,237,0020701109,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,50 - 43,-7,,9:42 PM
+226,0,12,239,0020701109,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,50 - 43,-7,,9:58 PM
+227,1,1,240,0020701109,Hinrich  3PT Jump Shot (6 PTS) (Noah 2 AST),,11:37,3,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,50 - 46,-4,,9:58 PM
+228,1,5,241,0020701109,Noah STEAL (2 STL),,11:24,3,5,4,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Rondo Bad Pass Turnover (P5.T12),9:58 PM
+229,7,1,242,0020701109,Noah  Dunk (4 PTS),,11:22,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,50 - 48,-2,,9:58 PM
+230,1,1,243,0020701109,,,11:06,3,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,53 - 48,-5,Pierce 25' 3PT Jump Shot (9 PTS) (Garnett 1 AST),9:59 PM
+231,7,1,244,0020701109,Thomas  Dunk (14 PTS) (Noah 3 AST),,10:49,3,4,4,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,53 - 50,-3,,9:59 PM
+232,1,1,245,0020701109,,,10:26,3,5,5,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,56 - 50,-6,Allen 25' 3PT Jump Shot (13 PTS) (Rondo 8 AST),9:59 PM
+233,5,1,246,0020701109,Deng  Layup (6 PTS) (Hinrich 2 AST),,10:15,3,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,56 - 52,-4,,10:00 PM
+234,2,6,247,0020701109,,,10:15,3,5,4,1,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Garnett S.FOUL (P2.T1),10:00 PM
+235,10,3,248,0020701109,MISS Deng Free Throw 1 of 1,,10:15,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:00 PM
+236,0,4,249,0020701109,,,10:13,3,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Garnett REBOUND (Off:1 Def:3),10:00 PM
+237,47,2,250,0020701109,,,9:56,3,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Garnett 12' Turnaround Jump Shot,10:00 PM
+238,0,4,251,0020701109,Hinrich REBOUND (Off:0 Def:2),,9:54,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:01 PM
+239,46,1,252,0020701109,Deng 5' Running Jump Shot (8 PTS),,9:38,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,56 - 54,-2,,10:01 PM
+240,4,6,253,0020701109,,,9:33,3,5,4,1,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Rondo OFF.Foul (P2),10:01 PM
+241,5,5,254,0020701109,,,9:33,3,5,0,1,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Rondo Foul Turnover (P6.T13),10:01 PM
+242,1,2,255,0020701109,MISS Deng 17' Jump Shot,,9:19,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:01 PM
+243,0,4,256,0020701109,,,9:17,3,5,0,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Rondo REBOUND (Off:0 Def:4),10:02 PM
+244,1,1,257,0020701109,,,9:10,3,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,59 - 54,-5,Pierce 26' 3PT Jump Shot (12 PTS) (Rondo 9 AST),10:02 PM
+245,1,6,258,0020701109,,,9:03,3,5,4,1,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Rondo P.FOUL (P3.T2),10:02 PM
+246,2,6,259,0020701109,,,8:52,3,5,4,1,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Garnett S.FOUL (P3.T3),10:02 PM
+247,11,3,260,0020701109,Hinrich Free Throw 1 of 2 (7 PTS),,8:52,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,59 - 55,-4,,10:03 PM
+248,12,3,261,0020701109,MISS Hinrich Free Throw 2 of 2,,8:52,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:03 PM
+249,0,4,262,0020701109,,,8:50,3,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:0 Def:7),10:03 PM
+250,1,6,263,0020701109,Noah P.FOUL (P1.T1),,8:49,3,4,5,1,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:03 PM
+251,0,10,264,0020701109,Jump Ball Hinrich vs. Garnett: Tip to Thomas,,8:36,3,4,5,4,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,,,,10:03 PM
+252,2,5,265,0020701109,Hinrich STEAL (1 STL),,8:36,3,5,4,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Garnett Lost Ball Turnover (P1.T14),10:03 PM
+253,1,5,266,0020701109,Hughes Bad Pass Turnover (P1.T10),,8:27,3,4,5,0,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Rondo STEAL (3 STL),10:04 PM
+254,2,6,267,0020701109,Hinrich S.FOUL (P1.T2),,8:25,3,4,5,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:04 PM
+255,11,3,268,0020701109,,,8:25,3,5,0,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,60 - 55,-5,Rondo Free Throw 1 of 2 (7 PTS),10:05 PM
+256,12,3,269,0020701109,,,8:25,3,5,0,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Rondo Free Throw 2 of 2,10:05 PM
+257,0,4,270,0020701109,Hinrich REBOUND (Off:0 Def:3),,8:23,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:05 PM
+258,42,2,271,0020701109,MISS Hinrich  Driving Layup,,8:08,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:05 PM
+259,0,4,273,0020701109,Noah REBOUND (Off:3 Def:5),,8:07,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:05 PM
+260,4,2,272,0020701109,MISS Noah  Tip Shot,,8:07,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:05 PM
+261,0,4,274,0020701109,,,8:06,3,5,0,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Rondo REBOUND (Off:0 Def:5),10:05 PM
+262,1,1,275,0020701109,,,8:00,3,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,63 - 55,-8,Pierce 26' 3PT Jump Shot (15 PTS) (Rondo 10 AST),10:05 PM
+263,5,2,276,0020701109,MISS Hughes  Layup,,7:37,3,4,0,0,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:06 PM
+264,0,4,277,0020701109,,,7:35,3,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:0 Def:8),10:06 PM
+265,4,5,278,0020701109,,,7:22,3,5,0,1,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Rondo Traveling Turnover (P7.T15),10:06 PM
+266,1,2,279,0020701109,MISS Hughes 18' Jump Shot,,7:17,3,4,0,0,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:06 PM
+267,0,4,280,0020701109,,,7:16,3,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Garnett REBOUND (Off:1 Def:4),10:06 PM
+268,1,1,281,0020701109,,,7:08,3,5,5,0,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,65 - 55,-10,Rondo 20' Jump Shot (9 PTS) (Pierce 2 AST),10:06 PM
+269,1,9,282,0020701109,BULLS Timeout: Regular (Full 3 Short 1),,7:08,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:07 PM
+270,0,8,284,0020701109,SUB: Sefolosha FOR Hughes,,7:08,3,4,4,0,1716,Larry Hughes,CHI,Chicago,1610612741.0,Bulls,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:09 PM
+271,2,6,286,0020701109,,,6:48,3,5,4,1,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Perkins S.FOUL (P3.T4),10:09 PM
+272,11,3,287,0020701109,Thomas Free Throw 1 of 2 (15 PTS),,6:48,3,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,65 - 56,-9,,10:10 PM
+273,12,3,288,0020701109,Thomas Free Throw 2 of 2 (16 PTS),,6:48,3,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,65 - 57,-8,,10:10 PM
+274,1,1,289,0020701109,,,6:34,3,5,5,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,67 - 57,-10,Garnett 19' Jump Shot (14 PTS) (Allen 5 AST),10:10 PM
+275,1,1,290,0020701109,Sefolosha 19' Jump Shot (2 PTS) (Hinrich 3 AST),,6:20,3,4,4,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,67 - 59,-8,,10:11 PM
+276,78,1,291,0020701109,,,6:03,3,5,0,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,69 - 59,-10,Allen 14' Floating Jump Shot (15 PTS),10:11 PM
+277,1,1,292,0020701109,Thomas 18' Jump Shot (18 PTS) (Hinrich 4 AST),,5:51,3,4,4,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,69 - 61,-8,,10:11 PM
+278,2,5,293,0020701109,Thomas STEAL (1 STL),,5:29,3,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Pierce Lost Ball Turnover (P2.T16),10:11 PM
+279,2,6,294,0020701109,,,5:27,3,5,4,1,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Allen S.FOUL (P2.PN),10:12 PM
+280,11,3,295,0020701109,MISS Deng Free Throw 1 of 2,,5:27,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:12 PM
+281,1,4,296,0020701109,BULLS Rebound,,5:27,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:12 PM
+282,12,3,297,0020701109,Deng Free Throw 2 of 2 (9 PTS),,5:27,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,69 - 62,-7,,10:12 PM
+283,1,2,298,0020701109,,,5:06,3,5,0,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Allen 24' 3PT Jump Shot,10:13 PM
+284,0,4,299,0020701109,,,5:06,3,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Garnett REBOUND (Off:2 Def:4),10:13 PM
+285,2,6,300,0020701109,Hinrich S.FOUL (P2.T3),,5:06,3,4,5,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:13 PM
+286,11,3,301,0020701109,,,5:06,3,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,70 - 62,-8,Garnett Free Throw 1 of 2 (15 PTS),10:13 PM
+287,12,3,302,0020701109,,,5:06,3,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,71 - 62,-9,Garnett Free Throw 2 of 2 (16 PTS),10:13 PM
+288,63,2,303,0020701109,MISS Thomas 9' Fadeaway Jumper,,4:48,3,4,0,5,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,,,Garnett BLOCK (3 BLK),10:14 PM
+289,0,4,304,0020701109,,,4:45,3,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:0 Def:9),10:14 PM
+290,2,6,305,0020701109,Thomas S.FOUL (P2.T4),,4:37,3,4,5,1,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:14 PM
+291,11,3,306,0020701109,,,4:37,3,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,72 - 62,-10,Garnett Free Throw 1 of 2 (17 PTS),10:14 PM
+292,12,3,307,0020701109,,,4:37,3,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,73 - 62,-11,Garnett Free Throw 2 of 2 (18 PTS),10:15 PM
+293,1,1,308,0020701109,Thomas 20' Jump Shot (20 PTS) (Deng 4 AST),,4:21,3,4,4,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,73 - 64,-9,,10:15 PM
+294,2,5,309,0020701109,Deng STEAL (3 STL),,4:05,3,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Pierce Lost Ball Turnover (P3.T17),10:16 PM
+295,44,1,310,0020701109,Sefolosha  Reverse Layup (4 PTS) (Deng 5 AST),,4:00,3,4,4,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,73 - 66,-7,,10:16 PM
+296,5,1,311,0020701109,,,3:37,3,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,75 - 66,-9,Perkins  Layup (4 PTS),10:16 PM
+297,2,6,312,0020701109,,,3:32,3,5,4,1,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Pierce S.FOUL (P1.PN),10:16 PM
+298,11,3,313,0020701109,MISS Deng Free Throw 1 of 2,,3:32,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:16 PM
+299,1,4,314,0020701109,BULLS Rebound,,3:32,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:16 PM
+300,12,3,315,0020701109,Deng Free Throw 2 of 2 (10 PTS),,3:32,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,75 - 67,-8,,10:17 PM
+301,2,5,316,0020701109,Noah STEAL (3 STL),,3:19,3,5,4,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Allen Lost Ball Turnover (P2.T18),10:17 PM
+302,1,5,317,0020701109,Noah Bad Pass Turnover (P3.T11),,3:13,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:17 PM
+303,1,9,318,0020701109,,,3:13,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.3 Short 0),10:17 PM
+304,0,8,320,0020701109,,,3:13,3,5,5,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Powe FOR Garnett,10:20 PM
+305,2,6,321,0020701109,Sefolosha S.FOUL (P2.PN),,3:01,3,4,5,1,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:20 PM
+306,11,3,322,0020701109,,,3:01,3,5,0,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,76 - 67,-9,Allen Free Throw 1 of 2 (16 PTS),10:20 PM
+307,12,3,323,0020701109,,,3:01,3,5,0,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,77 - 67,-10,Allen Free Throw 2 of 2 (17 PTS),10:21 PM
+308,86,1,324,0020701109,Thomas 14' Turnaround Fadeaway (22 PTS),,2:40,3,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,77 - 69,-8,,10:21 PM
+309,0,8,325,0020701109,SUB: Nocioni FOR Deng,,2:21,3,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:21 PM
+310,0,8,326,0020701109,,,2:21,3,5,5,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Posey FOR Perkins,10:22 PM
+311,0,8,327,0020701109,,,2:21,3,5,5,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Allen FOR Allen,10:22 PM
+312,1,1,328,0020701109,,,2:13,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,79 - 69,-10,Pierce 23' Jump Shot (17 PTS),10:22 PM
+313,1,2,329,0020701109,MISS Sefolosha 24' 3PT Jump Shot,,1:53,3,4,0,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:22 PM
+314,0,4,330,0020701109,Thomas REBOUND (Off:3 Def:0),,1:51,3,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:22 PM
+315,5,2,331,0020701109,MISS Thomas  Layup,,1:35,3,4,0,5,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,,,Powe BLOCK (1 BLK),10:23 PM
+316,0,4,332,0020701109,,,1:33,3,5,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Powe REBOUND (Off:3 Def:1),10:23 PM
+317,1,2,333,0020701109,,,1:28,3,5,0,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Posey 24' 3PT Jump Shot,10:23 PM
+318,0,4,334,0020701109,Nocioni REBOUND (Off:0 Def:2),,1:27,3,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:23 PM
+319,5,2,335,0020701109,MISS Thomas  Layup,,1:11,3,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:23 PM
+320,0,4,336,0020701109,Nocioni REBOUND (Off:1 Def:2),,1:10,3,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:23 PM
+321,1,1,337,0020701109,Nocioni 16' Jump Shot (9 PTS),,1:06,3,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,79 - 71,-8,,10:23 PM
+322,1,2,338,0020701109,,,0:44,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 19' Jump Shot,10:23 PM
+323,0,4,339,0020701109,Sefolosha REBOUND (Off:0 Def:3),,0:43,3,4,0,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:23 PM
+324,4,6,340,0020701109,Sefolosha OFF.Foul (P3),,0:34,3,4,5,1,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:24 PM
+325,5,5,341,0020701109,Sefolosha Foul Turnover (P1.T12),,0:34,3,4,0,1,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:24 PM
+326,0,8,342,0020701109,SUB: Gordon FOR Sefolosha,,0:34,3,4,4,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:24 PM
+327,1,2,343,0020701109,,,0:27,3,5,0,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Posey 25' 3PT Jump Shot,10:24 PM
+328,0,4,344,0020701109,,,0:25,3,5,0,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Posey REBOUND (Off:1 Def:3),10:24 PM
+329,5,2,345,0020701109,Hinrich BLOCK (2 BLK),,0:22,3,5,0,4,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,,,MISS Powe  Layup,10:24 PM
+330,0,4,346,0020701109,Gordon REBOUND (Off:0 Def:1),,0:21,3,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:24 PM
+331,2,6,347,0020701109,,,0:01,3,5,4,1,1899,James Posey,BOS,Boston,1610612738.0,Celtics,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Posey S.FOUL (P3.PN),10:25 PM
+332,11,3,348,0020701109,Noah Free Throw 1 of 2 (5 PTS),,0:01,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,79 - 72,-7,,10:25 PM
+333,12,3,349,0020701109,Noah Free Throw 2 of 2 (6 PTS),,0:01,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,79 - 73,-6,,10:25 PM
+334,0,18,352,0020701109,,,0:00,3,0,0,1,0,,,,,,0,,,,,,0,,,,,,79 - 73,-6,,10:26 PM
+335,0,13,351,0020701109,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,79 - 73,-6,,10:26 PM
+336,0,12,354,0020701109,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,79 - 73,-6,,10:28 PM
+337,5,2,355,0020701109,Nocioni BLOCK (1 BLK),,11:44,4,5,0,4,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,,,MISS Pierce  Layup,10:29 PM
+338,0,4,356,0020701109,,,11:42,4,5,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Powe REBOUND (Off:4 Def:1),10:29 PM
+339,5,1,357,0020701109,,,11:40,4,5,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,81 - 73,-8,Powe  Layup (4 PTS),10:29 PM
+340,5,1,358,0020701109,Gray  Layup (5 PTS) (Nocioni 1 AST),,11:28,4,4,4,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,81 - 75,-6,,10:29 PM
+341,1,2,359,0020701109,,,11:05,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 26' 3PT Jump Shot,10:29 PM
+342,0,4,360,0020701109,Thomas REBOUND (Off:3 Def:1),,11:04,4,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:29 PM
+343,1,2,361,0020701109,MISS Nocioni 26' 3PT Jump Shot,,10:45,4,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:30 PM
+344,0,4,362,0020701109,,,10:43,4,5,0,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Posey REBOUND (Off:1 Def:4),10:30 PM
+345,2,6,363,0020701109,Gordon S.FOUL (P4.T1),,10:31,4,4,5,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:30 PM
+346,11,3,364,0020701109,,,10:31,4,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,82 - 75,-7,Allen Free Throw 1 of 2 (5 PTS),10:30 PM
+347,12,3,365,0020701109,,,10:31,4,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,83 - 75,-8,Allen Free Throw 2 of 2 (6 PTS),10:30 PM
+348,8,5,366,0020701109,Gray 3 Second Violation Turnover (P2.T13),,10:14,4,4,0,1,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:31 PM
+349,1,6,367,0020701109,Nocioni P.FOUL (P1.T2),,10:02,4,4,5,1,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:31 PM
+350,2,5,368,0020701109,Gray STEAL (2 STL),,9:52,4,5,4,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Posey Lost Ball Turnover (P1.T19),10:32 PM
+351,1,6,369,0020701109,,,9:49,4,5,4,1,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Allen P.FOUL (P2.T1),10:32 PM
+352,5,2,371,0020701109,MISS Gordon  Layup,,9:38,4,4,0,5,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,1899,James Posey,BOS,Boston,1610612738.0,Celtics,,,Posey BLOCK (1 BLK),10:33 PM
+353,0,4,372,0020701109,,,9:35,4,5,0,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Posey REBOUND (Off:1 Def:5),10:33 PM
+354,1,2,373,0020701109,,,9:31,4,5,0,0,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Cassell 20' Jump Shot,10:33 PM
+355,0,4,374,0020701109,Gordon REBOUND (Off:0 Def:2),,9:29,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:34 PM
+356,1,5,375,0020701109,Gray Bad Pass Turnover (P3.T14),,9:17,4,4,0,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:34 PM
+357,0,8,376,0020701109,,,9:17,4,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Garnett FOR Pierce,10:34 PM
+358,5,2,377,0020701109,Gray BLOCK (1 BLK),,8:59,4,5,0,4,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,,,MISS Powe  Layup,10:34 PM
+359,0,4,378,0020701109,Thomas REBOUND (Off:3 Def:2),,8:57,4,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:34 PM
+360,1,5,379,0020701109,Thomas Bad Pass Turnover (P2.T15),,8:57,4,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:34 PM
+361,1,9,380,0020701109,,,8:57,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:34 PM
+362,1,1,382,0020701109,,,8:44,4,5,5,0,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,86 - 75,-11,Cassell  3PT Jump Shot (3 PTS) (Garnett 2 AST),10:37 PM
+363,1,1,383,0020701109,Nocioni 24' 3PT Jump Shot (12 PTS) (Duhon 4 AST),,8:21,4,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,86 - 78,-8,,10:38 PM
+364,1,2,384,0020701109,,,7:57,4,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Allen  3PT Jump Shot,10:38 PM
+365,0,4,385,0020701109,,,7:56,4,5,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Powe REBOUND (Off:5 Def:1),10:38 PM
+366,2,6,386,0020701109,Thomas S.FOUL (P3.T3),,7:56,4,4,5,1,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:38 PM
+367,0,8,387,0020701109,,,7:56,4,5,5,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Allen FOR Allen,10:38 PM
+368,0,8,388,0020701109,SUB: Noah FOR Gray,,7:56,4,4,4,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:38 PM
+369,11,3,389,0020701109,,,7:56,4,5,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,87 - 78,-9,Powe Free Throw 1 of 2 (5 PTS),10:39 PM
+370,12,3,390,0020701109,,,7:56,4,5,0,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,88 - 78,-10,Powe Free Throw 2 of 2 (6 PTS),10:39 PM
+371,1,6,391,0020701109,,,7:41,4,5,4,1,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Powe P.FOUL (P4.T2),10:39 PM
+372,40,5,392,0020701109,Duhon Out of Bounds Lost Ball Turnover (P2.T16),,7:29,4,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:40 PM
+373,1,6,393,0020701109,Duhon P.FOUL (P1.T4),,7:14,4,4,5,1,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:40 PM
+374,11,3,394,0020701109,,,7:14,4,5,0,0,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Cassell Free Throw 1 of 2,10:40 PM
+375,1,4,395,0020701109,,,7:14,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,10:40 PM
+376,0,8,396,0020701109,SUB: Hinrich FOR Duhon,,7:14,4,4,4,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:40 PM
+377,12,3,397,0020701109,,,7:14,4,5,0,0,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,89 - 78,-11,Cassell Free Throw 2 of 2 (4 PTS),10:41 PM
+378,1,1,398,0020701109,Gordon 26' 3PT Jump Shot (9 PTS) (Hinrich 5 AST),,7:00,4,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,89 - 81,-8,,10:41 PM
+379,1,1,399,0020701109,,,6:37,4,5,0,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,91 - 81,-10,Allen 16' Jump Shot (19 PTS),10:41 PM
+380,1,2,400,0020701109,MISS Hinrich 11' Jump Shot,,6:22,4,4,0,5,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,,,Garnett BLOCK (4 BLK),10:42 PM
+381,0,4,401,0020701109,,,6:19,4,5,0,0,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Cassell REBOUND (Off:0 Def:1),10:42 PM
+382,1,6,402,0020701109,Thomas P.FOUL (P4.PN),,6:16,4,4,5,1,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:42 PM
+383,11,3,403,0020701109,,,6:16,4,5,0,0,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,92 - 81,-11,Cassell Free Throw 1 of 2 (5 PTS),10:42 PM
+384,0,8,404,0020701109,SUB: Deng FOR Thomas,,6:16,4,4,4,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:42 PM
+385,12,3,405,0020701109,,,6:16,4,5,0,0,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,93 - 81,-12,Cassell Free Throw 2 of 2 (6 PTS),10:43 PM
+386,2,6,406,0020701109,,,5:59,4,5,4,1,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Allen S.FOUL (P3.T3),10:43 PM
+387,1,9,408,0020701109,BULLS Timeout: Regular (Full 4 Short 1),,5:59,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:43 PM
+388,11,3,409,0020701109,Nocioni Free Throw 1 of 2 (13 PTS),,5:59,4,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,93 - 82,-11,,10:46 PM
+389,12,3,410,0020701109,Nocioni Free Throw 2 of 2 (14 PTS),,5:59,4,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,93 - 83,-10,,10:46 PM
+390,1,2,411,0020701109,,,5:45,4,5,0,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Allen 15' Jump Shot,10:46 PM
+391,0,4,412,0020701109,Deng REBOUND (Off:0 Def:2),,5:44,4,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:46 PM
+392,1,1,413,0020701109,Hinrich 12' Jump Shot (9 PTS),,5:21,4,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,93 - 85,-8,,10:47 PM
+393,1,2,414,0020701109,,,4:55,4,5,0,0,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Cassell 22' Jump Shot,10:47 PM
+394,0,4,415,0020701109,Nocioni REBOUND (Off:1 Def:3),,4:54,4,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:47 PM
+395,1,2,416,0020701109,MISS Gordon 22' Jump Shot,,4:40,4,4,0,5,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,,,Allen BLOCK (1 BLK),10:47 PM
+396,0,4,417,0020701109,,,4:40,4,5,0,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Posey REBOUND (Off:1 Def:6),10:47 PM
+397,1,6,418,0020701109,Gordon P.FOUL (P5.PN),,4:40,4,4,5,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,10:47 PM
+398,0,8,419,0020701109,,,4:40,4,5,5,0,208,Sam Cassell,BOS,Boston,1610612738.0,Celtics,2067,Eddie House,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: House FOR Cassell,10:48 PM
+399,11,3,420,0020701109,,,4:40,4,5,0,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,94 - 85,-9,Posey Free Throw 1 of 2 (7 PTS),10:48 PM
+400,0,8,421,0020701109,,,4:40,4,5,5,0,200796,Leon Powe,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Pierce FOR Powe,10:48 PM
+401,0,8,422,0020701109,SUB: Thomas FOR Gordon,,4:40,4,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:48 PM
+402,12,3,423,0020701109,,,4:40,4,5,0,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,95 - 85,-10,Posey Free Throw 2 of 2 (8 PTS),10:48 PM
+403,2,6,424,0020701109,,,4:26,4,5,4,1,1899,James Posey,BOS,Boston,1610612738.0,Celtics,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Posey S.FOUL (P4.T4),10:49 PM
+404,11,3,425,0020701109,Thomas Free Throw 1 of 2 (23 PTS),,4:26,4,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,95 - 86,-9,,10:49 PM
+405,12,3,426,0020701109,Thomas Free Throw 2 of 2 (24 PTS),,4:26,4,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,95 - 87,-8,,10:49 PM
+406,1,2,427,0020701109,,,4:11,4,5,0,0,2067,Eddie House,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS House  3PT Jump Shot,10:50 PM
+407,0,4,428,0020701109,Hinrich REBOUND (Off:0 Def:4),,4:09,4,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:50 PM
+408,41,2,429,0020701109,MISS Hinrich  Running Layup,,4:04,4,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:50 PM
+409,0,4,430,0020701109,,,4:01,4,5,0,0,2067,Eddie House,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,House REBOUND (Off:0 Def:1),10:50 PM
+410,1,1,431,0020701109,,,3:46,4,5,5,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,98 - 87,-11,Posey 25' 3PT Jump Shot (11 PTS) (Allen 6 AST),10:50 PM
+411,1,2,432,0020701109,MISS Nocioni 26' 3PT Jump Shot,,3:29,4,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:50 PM
+412,0,4,433,0020701109,,,3:27,4,5,0,0,2067,Eddie House,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,House REBOUND (Off:0 Def:2),10:51 PM
+413,1,2,434,0020701109,,,3:08,4,5,0,0,2067,Eddie House,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS House 24' 3PT Jump Shot,10:51 PM
+414,0,4,435,0020701109,,,3:07,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:1 Def:0),10:51 PM
+415,1,1,436,0020701109,,,2:49,4,5,5,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,2067,Eddie House,BOS,Boston,1610612738.0,Celtics,0,,,,,,101 - 87,-14,Allen 25' 3PT Jump Shot (22 PTS) (House 1 AST),10:51 PM
+416,1,9,437,0020701109,BULLS Timeout: Regular (Full 5 Short 1),,2:49,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:51 PM
+417,0,8,440,0020701109,SUB: Gordon FOR Noah,,2:49,4,4,4,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:54 PM
+418,1,1,441,0020701109,Nocioni 25' 3PT Jump Shot (17 PTS) (Gordon 1 AST),,2:34,4,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,101 - 90,-11,,10:54 PM
+419,47,1,442,0020701109,,,2:13,4,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,103 - 90,-13,Garnett 14' Turnaround Jump Shot (20 PTS),10:55 PM
+420,1,2,443,0020701109,MISS Gordon 21' Jump Shot,,1:57,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:55 PM
+421,0,4,444,0020701109,,,1:56,4,5,0,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Garnett REBOUND (Off:2 Def:5),10:55 PM
+422,1,2,445,0020701109,,,1:33,4,5,0,0,2067,Eddie House,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS House 25' 3PT Jump Shot,10:55 PM
+423,0,4,446,0020701109,Thomas REBOUND (Off:3 Def:3),,1:32,4,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:55 PM
+424,1,2,447,0020701109,MISS Nocioni  3PT Jump Shot,,1:24,4,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:55 PM
+425,0,4,448,0020701109,,,1:22,4,5,0,0,2067,Eddie House,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,House REBOUND (Off:0 Def:3),10:55 PM
+426,10,5,449,0020701109,,,1:16,4,3,0,1,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Turnover: 8 Second Violation (T#20),10:56 PM
+427,0,8,450,0020701109,,,1:16,4,5,5,0,708,Kevin Garnett,BOS,Boston,1610612738.0,Celtics,200765,Rajon Rondo,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Rondo FOR Garnett,10:56 PM
+428,0,8,451,0020701109,,,1:16,4,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Allen FOR Pierce,10:56 PM
+429,0,8,452,0020701109,,,1:16,4,5,5,0,951,Ray Allen,BOS,Boston,1610612738.0,Celtics,201175,Glen Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Davis FOR Allen,10:56 PM
+430,1,2,453,0020701109,MISS Gordon 24' 3PT Jump Shot,,1:03,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:56 PM
+431,0,4,454,0020701109,,,1:02,4,5,0,0,201175,Glen Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Davis REBOUND (Off:1 Def:1),10:56 PM
+432,1,2,456,0020701109,,,0:39,4,5,0,0,1899,James Posey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Posey 25' 3PT Jump Shot,10:57 PM
+433,0,4,457,0020701109,Thomas REBOUND (Off:3 Def:4),,0:37,4,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:57 PM
+434,1,6,458,0020701109,,,0:33,4,5,4,1,1899,James Posey,BOS,Boston,1610612738.0,Celtics,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Posey P.FOUL (P5.PN),10:57 PM
+435,11,3,459,0020701109,Nocioni Free Throw 1 of 2 (18 PTS),,0:33,4,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,103 - 91,-12,,10:57 PM
+436,12,3,460,0020701109,Nocioni Free Throw 2 of 2 (19 PTS),,0:33,4,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,103 - 92,-11,,10:57 PM
+437,1,1,461,0020701109,,,0:10,4,5,0,0,2067,Eddie House,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,106 - 92,-14,House 25' 3PT Jump Shot (3 PTS),10:58 PM
+438,1,2,462,0020701109,MISS Hinrich 26' 3PT Jump Shot,,0:01,4,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:58 PM
+439,0,4,463,0020701109,,,0:00,4,5,0,0,201175,Glen Davis,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Davis REBOUND (Off:1 Def:2),10:58 PM
+440,0,13,464,0020701109,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,106 - 92,-14,,10:58 PM

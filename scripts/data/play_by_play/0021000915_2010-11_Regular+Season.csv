@@ -1,0 +1,448 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021000915,,,12:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:12 PM
+1,0,10,1,0021000915,Jump Ball Howard vs. Noah: Tip to Deng,,12:00,1,4.0,5,5,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,,,,7:12 PM
+2,1,2,2,0021000915,,,11:40,1,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 18' Jump Shot,7:14 PM
+3,0,4,3,0021000915,Howard REBOUND (Off:0 Def:1),,11:40,1,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:14 PM
+4,2,5,4,0021000915,Howard Lost Ball Turnover (P1.T1),,11:17,1,4.0,5,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2586,Keith Bogans,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Bogans STEAL (1 STL),7:14 PM
+5,2,5,5,0021000915,Howard STEAL (1 STL),,10:55,1,5.0,4,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Rose Lost Ball Turnover (P1.T1),7:14 PM
+6,1,1,6,0021000915,Richardson 25' 3PT Jump Shot (3 PTS) (Nelson 1 AST),,10:48,1,4.0,4,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0 - 3,3,,7:14 PM
+7,1,2,7,0021000915,Howard BLOCK (1 BLK),,10:26,1,5.0,0,4,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,,,MISS Boozer 4' Jump Shot,7:15 PM
+8,0,4,8,0021000915,,,10:24,1,5.0,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Noah REBOUND (Off:1 Def:0),7:15 PM
+9,5,2,9,0021000915,Bass BLOCK (1 BLK),,10:22,1,5.0,0,4,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,,,MISS Noah 1' Layup,7:15 PM
+10,0,4,10,0021000915,Bass REBOUND (Off:0 Def:1),,10:22,1,4.0,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:15 PM
+11,1,6,11,0021000915,,,10:22,1,5.0,4,1,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Boozer P.FOUL (P1.T1),7:15 PM
+12,63,2,12,0021000915,MISS Nelson 10' Fadeaway Jumper,,10:14,1,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:15 PM
+13,0,4,13,0021000915,,,10:12,1,5.0,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Noah REBOUND (Off:1 Def:1),7:15 PM
+14,2,5,14,0021000915,Richardson STEAL (1 STL),,10:04,1,5.0,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Deng Lost Ball Turnover (P1.T2),7:15 PM
+15,79,1,15,0021000915,Richardson 18' Pullup Jump Shot (5 PTS),,9:54,1,4.0,0,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,0 - 5,5,,7:16 PM
+16,63,2,16,0021000915,,,9:37,1,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 14' Fadeaway Jumper,7:16 PM
+17,0,4,17,0021000915,,,9:36,1,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer REBOUND (Off:1 Def:0),7:16 PM
+18,1,1,19,0021000915,,,9:26,1,5.0,5,0,2586,Keith Bogans,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,3 - 5,2,Bogans  3PT Jump Shot (3 PTS) (Deng 1 AST),7:16 PM
+19,1,1,20,0021000915,Bass 15' Jump Shot (2 PTS),,9:12,1,4.0,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,3 - 7,4,,7:16 PM
+20,1,2,21,0021000915,,,8:49,1,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 17' Jump Shot,7:17 PM
+21,0,4,22,0021000915,Richardson REBOUND (Off:0 Def:1),,8:48,1,4.0,0,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:17 PM
+22,5,1,23,0021000915,Howard 2' Layup (2 PTS) (Nelson 2 AST),,8:38,1,4.0,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,3 - 9,6,,7:17 PM
+23,42,2,24,0021000915,Bass BLOCK (2 BLK),,8:14,1,5.0,0,4,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,,,MISS Rose 3' Driving Layup,7:17 PM
+24,0,4,25,0021000915,,,8:14,1,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,7:17 PM
+25,1,2,26,0021000915,,,8:10,1,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 17' Jump Shot,7:18 PM
+26,0,4,27,0021000915,Richardson REBOUND (Off:0 Def:2),,8:10,1,4.0,0,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:18 PM
+27,1,2,28,0021000915,MISS Turkoglu 14' Jump Shot,,7:56,1,4.0,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:18 PM
+28,0,4,29,0021000915,,,7:55,1,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rose REBOUND (Off:0 Def:1),7:18 PM
+29,2,6,30,0021000915,Nelson S.FOUL (P1.T1),,7:50,1,4.0,5,1,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:18 PM
+30,11,3,31,0021000915,,,7:50,1,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,4 - 9,5,Rose Free Throw 1 of 2 (1 PTS),7:18 PM
+31,12,3,33,0021000915,,,7:50,1,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,5 - 9,4,Rose Free Throw 2 of 2 (2 PTS),7:19 PM
+32,52,1,35,0021000915,Howard 1' Alley Oop Dunk (4 PTS) (Nelson 3 AST),,7:35,1,4.0,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,5 - 11,6,,7:19 PM
+33,49,2,36,0021000915,,,7:17,1,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 2' Driving Dunk,7:19 PM
+34,0,4,37,0021000915,,,7:16,1,5.0,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Noah REBOUND (Off:2 Def:1),7:19 PM
+35,42,1,38,0021000915,,,7:05,1,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,7 - 11,4,Rose 2' Driving Layup (4 PTS),7:20 PM
+36,63,2,39,0021000915,MISS Nelson 8' Fadeaway Jumper,,6:57,1,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:20 PM
+37,0,4,40,0021000915,,,6:57,1,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,7:20 PM
+38,3,6,41,0021000915,Howard L.B.FOUL (P1.T2),,6:57,1,4.0,5,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:20 PM
+39,1,2,43,0021000915,,,6:39,1,5.0,0,0,2586,Keith Bogans,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Bogans 25' 3PT Jump Shot,7:20 PM
+40,0,4,44,0021000915,Bass REBOUND (Off:0 Def:2),,6:38,1,4.0,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:20 PM
+41,42,1,45,0021000915,Nelson 2' Driving Layup (2 PTS),,6:29,1,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,7 - 13,6,,7:20 PM
+42,1,5,46,0021000915,Bass STEAL (1 STL),,6:22,1,5.0,4,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Rose Bad Pass Turnover (P2.T3),7:21 PM
+43,5,1,47,0021000915,Richardson 2' Layup (7 PTS) (Bass 1 AST),,6:15,1,4.0,4,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,7 - 15,8,,7:21 PM
+44,1,9,48,0021000915,,,6:08,1,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.1 Short 0),7:21 PM
+45,42,1,50,0021000915,,,5:59,1,5.0,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,9 - 15,6,Deng 2' Driving Layup (2 PTS) (Rose 1 AST),7:24 PM
+46,2,5,51,0021000915,Howard Lost Ball Turnover (P2.T2),,5:40,1,4.0,5,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Deng STEAL (1 STL),7:24 PM
+47,42,1,52,0021000915,,,5:33,1,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,11 - 15,4,Deng 1' Driving Layup (4 PTS),7:25 PM
+48,1,9,53,0021000915,MAGIC Timeout: Regular (Full 1 Short 0),,5:17,1,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:25 PM
+49,0,8,54,0021000915,SUB: Richardson FOR Turkoglu,,5:17,1,4.0,4,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:28 PM
+50,52,1,55,0021000915,Howard 2' Alley Oop Dunk (6 PTS) (Nelson 4 AST),,5:07,1,4.0,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,11 - 17,6,,7:28 PM
+51,11,5,56,0021000915,,,4:40,1,3.0,0,1,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Turnover: Shot Clock (T#4),7:29 PM
+52,0,8,57,0021000915,,,4:40,1,5.0,5,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Asik FOR Noah,7:29 PM
+53,1,5,58,0021000915,Richardson Bad Pass Turnover (P1.T3),,4:27,1,4.0,5,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Deng STEAL (2 STL),7:29 PM
+54,5,1,59,0021000915,,,4:21,1,5.0,5,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,13 - 17,4,Rose  Layup (6 PTS) (Deng 2 AST),7:29 PM
+55,1,1,60,0021000915,Bass 18' Jump Shot (4 PTS) (Nelson 5 AST),,4:10,1,4.0,4,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,13 - 19,6,,7:30 PM
+56,1,6,61,0021000915,Bass P.FOUL (P1.T3),,3:51,1,4.0,5,1,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:30 PM
+57,0,8,62,0021000915,,,3:51,1,5.0,5,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Brewer FOR Boozer,7:30 PM
+58,0,8,63,0021000915,,,3:51,1,5.0,5,0,2586,Keith Bogans,CHI,Chicago,1610612741.0,Bulls,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Gibson FOR Bogans,7:30 PM
+59,1,1,64,0021000915,,,3:46,1,5.0,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,15 - 19,4,Deng 21' Jump Shot (6 PTS) (Asik 1 AST),7:30 PM
+60,1,5,65,0021000915,Nelson Bad Pass Turnover (P1.T4),,3:35,1,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:31 PM
+61,1,2,66,0021000915,,,3:21,1,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 27' 3PT Jump Shot,7:31 PM
+62,0,4,67,0021000915,Richardson REBOUND (Off:0 Def:1),,3:20,1,4.0,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:31 PM
+63,1,5,68,0021000915,Nelson Bad Pass Turnover (P2.T5),,3:15,1,4.0,5,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Rose STEAL (1 STL),7:31 PM
+64,26,6,69,0021000915,,,3:07,1,5.0,4,1,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Deng Offensive Charge Foul (P1.T2),7:31 PM
+65,5,5,70,0021000915,,,3:07,1,5.0,0,1,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng Foul Turnover (P2.T5),7:31 PM
+66,1,2,71,0021000915,MISS Richardson 21' Jump Shot,,2:54,1,4.0,0,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:32 PM
+67,0,4,72,0021000915,,,2:53,1,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:0 Def:1),7:32 PM
+68,1,2,73,0021000915,,,2:43,1,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 25' 3PT Jump Shot,7:32 PM
+69,0,4,74,0021000915,,,2:42,1,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik REBOUND (Off:1 Def:0),7:32 PM
+70,1,5,75,0021000915,Howard STEAL (2 STL),,2:38,1,5.0,4,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Asik Bad Pass Turnover (P1.T6),7:32 PM
+71,1,2,76,0021000915,MISS Richardson 16' Jump Shot,,2:31,1,4.0,0,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:32 PM
+72,0,4,77,0021000915,Howard REBOUND (Off:1 Def:1),,2:30,1,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:32 PM
+73,1,6,78,0021000915,,,2:29,1,5.0,4,1,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Asik P.FOUL (P1.T3),7:32 PM
+74,2,6,79,0021000915,,,2:20,1,5.0,4,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Gibson S.FOUL (P1.T4),7:33 PM
+75,11,3,80,0021000915,Bass Free Throw 1 of 2 (5 PTS),,2:20,1,4.0,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,15 - 20,5,,7:33 PM
+76,0,8,82,0021000915,SUB: Arenas FOR Nelson,,2:20,1,4.0,4,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:33 PM
+77,12,3,83,0021000915,Bass Free Throw 2 of 2 (6 PTS),,2:20,1,4.0,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,15 - 21,6,,7:33 PM
+78,8,5,85,0021000915,,,1:59,1,5.0,0,1,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik 3 Second Violation Turnover (P2.T7),7:34 PM
+79,0,8,86,0021000915,SUB: Anderson FOR Bass,,1:59,1,4.0,4,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:34 PM
+80,4,5,87,0021000915,Howard Traveling Turnover (P3.T6),,1:44,1,4.0,0,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:34 PM
+81,1,2,88,0021000915,,,1:26,1,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 26' 3PT Jump Shot,7:35 PM
+82,0,4,89,0021000915,Howard REBOUND (Off:1 Def:2),,1:26,1,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:35 PM
+83,1,2,90,0021000915,MISS Richardson 26' 3PT Jump Shot,,1:19,1,4.0,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:35 PM
+84,0,4,91,0021000915,,,1:17,1,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rose REBOUND (Off:0 Def:2),7:35 PM
+85,42,1,92,0021000915,,,1:10,1,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,17 - 21,4,Rose 2' Driving Layup (8 PTS),7:35 PM
+86,1,2,93,0021000915,MISS Anderson 4' Jump Shot,,0:47,1,4.0,0,5,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,,,Asik BLOCK (1 BLK),7:36 PM
+87,0,4,94,0021000915,,,0:46,1,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rose REBOUND (Off:0 Def:3),7:36 PM
+88,46,1,95,0021000915,,,0:36,1,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,19 - 21,2,Deng 4' Running Jump Shot (8 PTS),7:36 PM
+89,1,2,96,0021000915,MISS Arenas 26' 3PT Jump Shot,,0:20,1,4.0,0,0,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:36 PM
+90,0,4,97,0021000915,,,0:18,1,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:0 Def:1),7:36 PM
+91,79,1,98,0021000915,,,0:06,1,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,21 - 21,TIE,Rose 18' Pullup Jump Shot (10 PTS),7:36 PM
+92,1,2,99,0021000915,MISS Arenas 37' 3PT Jump Shot,,0:00,1,4.0,0,0,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:37 PM
+93,0,4,100,0021000915,MAGIC Rebound,,0:00,1,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:37 PM
+94,0,13,101,0021000915,,,0:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,21 - 21,TIE,,7:37 PM
+95,0,12,103,0021000915,,,12:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,21 - 21,TIE,,7:40 PM
+96,1,2,104,0021000915,MISS Arenas 21' Jump Shot,,11:37,2,4.0,0,0,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:41 PM
+97,0,4,105,0021000915,,,11:37,2,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,7:41 PM
+98,1,5,107,0021000915,,,11:19,2,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson Bad Pass Turnover (P1.T8),7:41 PM
+99,79,1,108,0021000915,Turkoglu 19' Pullup Jump Shot (2 PTS),,11:02,2,4.0,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,21 - 23,2,,7:42 PM
+100,1,1,109,0021000915,,,10:36,2,5.0,5,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,23 - 23,TIE,Gibson 16' Jump Shot (2 PTS) (Watson 1 AST),7:42 PM
+101,0,8,111,0021000915,SUB: Bass FOR Howard,,10:18,2,4.0,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:43 PM
+102,66,1,112,0021000915,Bass 10' Jump Bank Shot (8 PTS),,10:09,2,4.0,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,23 - 25,2,,7:43 PM
+103,5,2,113,0021000915,,,9:47,2,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Asik 3' Layup,7:43 PM
+104,0,4,114,0021000915,Anderson REBOUND (Off:0 Def:1),,9:46,2,4.0,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:43 PM
+105,63,2,116,0021000915,MISS Turkoglu 14' Fadeaway Jumper,,9:38,2,4.0,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:44 PM
+106,0,4,117,0021000915,,,9:37,2,5.0,0,0,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Watson REBOUND (Off:0 Def:1),7:44 PM
+107,1,1,118,0021000915,,,9:30,2,5.0,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,26 - 25,-1,Deng  3PT Jump Shot (11 PTS) (Brewer 1 AST),7:44 PM
+108,1,2,119,0021000915,MISS Redick 26' 3PT Jump Shot,,9:19,2,4.0,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:44 PM
+109,0,4,120,0021000915,,,9:19,2,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:0 Def:2),7:44 PM
+110,4,5,121,0021000915,,,9:10,2,5.0,0,1,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik Traveling Turnover (P3.T9),7:44 PM
+111,0,8,122,0021000915,,,9:10,2,5.0,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Korver FOR Deng,7:44 PM
+112,1,6,123,0021000915,,,9:02,2,5.0,4,1,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Watson P.FOUL (P1.T1),7:45 PM
+113,7,1,124,0021000915,Bass 2' Dunk (10 PTS) (Arenas 1 AST),,8:55,2,4.0,4,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,26 - 27,1,,7:45 PM
+114,1,2,125,0021000915,,,8:28,2,5.0,0,0,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Watson 25' 3PT Jump Shot,7:45 PM
+115,0,4,126,0021000915,Bass REBOUND (Off:0 Def:3),,8:28,2,4.0,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:45 PM
+116,1,6,127,0021000915,,,8:18,2,5.0,4,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Gibson P.FOUL (P2.T2),7:46 PM
+117,4,9,129,0021000915,,,8:18,2,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:46 PM
+118,1,2,134,0021000915,MISS Arenas 31' 3PT Jump Shot,,8:02,2,4.0,0,0,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:49 PM
+119,0,4,135,0021000915,,,8:02,2,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik REBOUND (Off:1 Def:1),7:49 PM
+120,2,6,136,0021000915,Turkoglu S.FOUL (P1.T1),,7:48,2,4.0,5,1,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:49 PM
+121,11,3,137,0021000915,,,7:48,2,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Gibson Free Throw 1 of 2,7:50 PM
+122,1,4,138,0021000915,,,7:48,2,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,7:50 PM
+123,12,3,139,0021000915,,,7:48,2,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,27 - 27,TIE,Gibson Free Throw 2 of 2 (3 PTS),7:50 PM
+124,13,5,141,0021000915,Arenas Backcourt Turnover (P1.T7),,7:33,2,4.0,0,1,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:50 PM
+125,0,8,142,0021000915,,,7:33,2,5.0,5,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Boozer FOR Gibson,7:51 PM
+126,1,2,143,0021000915,,,7:21,2,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 5' Jump Shot,7:51 PM
+127,0,4,145,0021000915,,,7:21,2,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer REBOUND (Off:2 Def:0),7:51 PM
+128,5,1,144,0021000915,,,7:21,2,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,29 - 27,-2,Boozer 1' Layup (2 PTS),7:51 PM
+129,1,2,146,0021000915,MISS Redick 25' 3PT Jump Shot,,7:07,2,4.0,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:51 PM
+130,0,4,147,0021000915,,,7:06,2,5.0,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Brewer REBOUND (Off:0 Def:1),7:51 PM
+131,1,6,148,0021000915,Turkoglu P.FOUL (P2.T2),,6:58,2,4.0,5,1,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:51 PM
+132,1,7,149,0021000915,MAGIC Violation: Delay of game Violation,,6:58,2,2.0,0,1,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:51 PM
+133,1,2,150,0021000915,,,6:41,2,5.0,0,0,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Watson 19' Jump Shot,7:52 PM
+134,0,4,151,0021000915,,,6:38,2,5.0,0,0,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Watson REBOUND (Off:1 Def:1),7:52 PM
+135,79,2,152,0021000915,,,6:20,2,5.0,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Brewer 19' Pullup Jump Shot,7:52 PM
+136,0,4,153,0021000915,Anderson REBOUND (Off:0 Def:2),,6:17,2,4.0,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:52 PM
+137,1,5,154,0021000915,Turkoglu Bad Pass Turnover (P1.T8),,6:15,2,4.0,5,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Brewer STEAL (1 STL),7:52 PM
+138,5,1,155,0021000915,,,6:10,2,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,31 - 27,-4,Asik 3' Layup (2 PTS),7:53 PM
+139,2,6,156,0021000915,Anderson S.FOUL (P1.T3),,6:10,2,4.0,5,1,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:53 PM
+140,0,8,157,0021000915,SUB: Nelson FOR Arenas,,6:10,2,4.0,4,0,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:53 PM
+141,0,8,158,0021000915,SUB: Richardson FOR Turkoglu,,6:10,2,4.0,4,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:53 PM
+142,10,3,159,0021000915,,,6:10,2,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,32 - 27,-5,Asik Free Throw 1 of 1 (3 PTS),7:53 PM
+143,1,2,161,0021000915,MISS Anderson 26' 3PT Jump Shot,,5:56,2,4.0,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:54 PM
+144,0,4,162,0021000915,,,5:55,2,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik REBOUND (Off:1 Def:2),7:54 PM
+145,58,1,163,0021000915,,,5:41,2,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,34 - 27,-7,Boozer 8' Turnaround Hook Shot (4 PTS),7:54 PM
+146,1,9,165,0021000915,MAGIC Timeout: Regular (Full 2 Short 0),,5:35,2,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:54 PM
+147,0,8,169,0021000915,SUB: Howard FOR Bass,,5:35,2,4.0,4,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:57 PM
+148,1,2,171,0021000915,MISS Redick 19' Jump Shot,,5:16,2,4.0,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:58 PM
+149,0,4,172,0021000915,,,5:15,2,5.0,0,0,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Watson REBOUND (Off:1 Def:2),7:58 PM
+150,1,1,173,0021000915,,,4:56,2,5.0,5,0,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,37 - 27,-10,Watson 25' 3PT Jump Shot (3 PTS) (Brewer 2 AST),7:58 PM
+151,40,5,174,0021000915,Nelson Out of Bounds Lost Ball Turnover (P3.T9),,4:46,2,4.0,0,1,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:58 PM
+152,1,1,175,0021000915,,,4:31,2,5.0,5,0,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,40 - 27,-13,Watson 25' 3PT Jump Shot (6 PTS) (Brewer 3 AST),7:59 PM
+153,2,9,176,0021000915,MAGIC Timeout: Short (Full 2 Short 1),,4:23,2,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:59 PM
+154,0,8,179,0021000915,SUB: Bass FOR Anderson,,4:23,2,4.0,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:00 PM
+155,1,1,180,0021000915,Bass 18' Jump Shot (12 PTS) (Nelson 6 AST),,4:08,2,4.0,4,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,40 - 29,-11,,8:00 PM
+156,1,2,181,0021000915,,,3:43,2,5.0,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Brewer 19' Jump Shot,8:01 PM
+157,0,4,182,0021000915,Redick REBOUND (Off:0 Def:1),,3:42,2,4.0,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:01 PM
+158,4,6,183,0021000915,Howard OFF.Foul (P2),,3:38,2,4.0,5,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:01 PM
+159,5,5,184,0021000915,Howard Foul Turnover (P4.T10),,3:38,2,4.0,0,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:01 PM
+160,0,8,185,0021000915,,,3:38,2,5.0,5,0,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Rose FOR Watson,8:01 PM
+161,0,8,186,0021000915,,,3:38,2,5.0,5,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Noah FOR Asik,8:01 PM
+162,3,2,187,0021000915,,,3:19,2,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 9' Hook Shot,8:02 PM
+163,0,4,188,0021000915,,,3:19,2,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,8:02 PM
+164,7,1,189,0021000915,,,3:09,2,5.0,5,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,42 - 29,-13,Brewer 2' Dunk (2 PTS) (Korver 1 AST),8:02 PM
+165,1,2,190,0021000915,MISS Nelson 25' 3PT Jump Shot,,2:55,2,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:03 PM
+166,0,4,191,0021000915,,,2:55,2,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer REBOUND (Off:2 Def:1),8:03 PM
+167,79,2,192,0021000915,,,2:38,2,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 20' Pullup Jump Shot,8:03 PM
+168,0,4,193,0021000915,,,2:38,2,5.0,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Noah REBOUND (Off:3 Def:1),8:03 PM
+169,47,2,194,0021000915,,,2:27,2,5.0,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Korver 19' Turnaround Jump Shot,8:03 PM
+170,0,4,195,0021000915,,,2:26,2,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,8:03 PM
+171,1,9,196,0021000915,,,2:26,2,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.2 Short 0),8:03 PM
+172,2,5,200,0021000915,Nelson STEAL (1 STL),,2:07,2,5.0,4,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Rose Lost Ball Turnover (P3.T10),8:07 PM
+173,40,5,202,0021000915,Nelson Out of Bounds Lost Ball Turnover (P4.T11),,2:03,2,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:07 PM
+174,2,6,203,0021000915,Richardson S.FOUL (P1.T4),,1:52,2,4.0,5,1,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:07 PM
+175,0,8,204,0021000915,,,1:52,2,5.0,5,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Deng FOR Brewer,8:08 PM
+176,11,3,205,0021000915,,,1:52,2,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,43 - 29,-14,Boozer Free Throw 1 of 2 (5 PTS),8:08 PM
+177,12,3,207,0021000915,,,1:52,2,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer Free Throw 2 of 2,8:08 PM
+178,0,4,209,0021000915,Howard REBOUND (Off:1 Def:3),,1:51,2,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:08 PM
+179,1,2,210,0021000915,MISS Richardson  3PT Jump Shot,,1:43,2,4.0,0,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:08 PM
+180,0,4,211,0021000915,Howard REBOUND (Off:2 Def:3),,1:41,2,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:08 PM
+181,2,6,212,0021000915,,,1:41,2,5.0,4,1,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Korver S.FOUL (P1.T3),8:09 PM
+182,11,6,213,0021000915,Howard T.FOUL (P2.T4),,1:41,2,4.0,0,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:09 PM
+183,16,3,214,0021000915,,,1:41,2,5.0,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,44 - 29,-15,Korver Free Throw Technical (1 PTS),8:09 PM
+184,11,3,216,0021000915,MISS Howard Free Throw 1 of 2,,1:41,2,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:10 PM
+185,1,4,217,0021000915,MAGIC Rebound,,1:41,2,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,8:10 PM
+186,12,3,218,0021000915,MISS Howard Free Throw 2 of 2,,1:41,2,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:10 PM
+187,0,4,220,0021000915,MAGIC Rebound,,1:40,2,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,8:10 PM
+188,1,1,221,0021000915,Bass 18' Jump Shot (14 PTS) (Redick 1 AST),,1:22,2,4.0,4,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,44 - 31,-13,,8:11 PM
+189,47,2,222,0021000915,,,1:05,2,5.0,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Korver 18' Turnaround Jump Shot,8:11 PM
+190,0,4,223,0021000915,Richardson REBOUND (Off:0 Def:3),,1:04,2,4.0,0,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:11 PM
+191,1,6,224,0021000915,,,1:01,2,5.0,4,1,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Noah P.FOUL (P1.PN),8:11 PM
+192,11,3,225,0021000915,MISS Howard Free Throw 1 of 2,,1:01,2,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:12 PM
+193,1,4,226,0021000915,MAGIC Rebound,,1:01,2,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,8:12 PM
+194,12,3,227,0021000915,MISS Howard Free Throw 2 of 2,,1:01,2,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:12 PM
+195,0,4,229,0021000915,,,1:00,2,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer REBOUND (Off:2 Def:2),8:12 PM
+196,5,1,230,0021000915,,,0:46,2,5.0,5,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,46 - 31,-15,Rose 1' Layup (12 PTS) (Noah 1 AST),8:13 PM
+197,42,1,231,0021000915,Nelson 1' Driving Layup (4 PTS),,0:38,2,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,46 - 33,-13,,8:13 PM
+198,79,1,232,0021000915,,,0:16,2,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,48 - 33,-15,Rose 21' Pullup Jump Shot (14 PTS),8:13 PM
+199,42,2,233,0021000915,MISS Nelson 2' Driving Layup,,0:03,2,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:13 PM
+200,0,4,234,0021000915,Howard REBOUND (Off:3 Def:3),,0:03,2,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:13 PM
+201,7,1,235,0021000915,Howard 1' Dunk (8 PTS),,0:03,2,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,48 - 35,-13,,8:13 PM
+202,1,6,236,0021000915,Richardson P.FOUL (P2.PN),,0:03,2,4.0,5,1,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:14 PM
+203,11,3,237,0021000915,,,0:03,2,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,49 - 35,-14,Rose Free Throw 1 of 2 (15 PTS),8:14 PM
+204,12,3,239,0021000915,,,0:03,2,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose Free Throw 2 of 2,8:14 PM
+205,0,4,241,0021000915,Howard REBOUND (Off:3 Def:4),,0:00,2,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:14 PM
+206,1,2,242,0021000915,MISS Richardson 50' 3PT Jump Shot,,0:00,2,4.0,0,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:14 PM
+207,0,4,243,0021000915,MAGIC Rebound,,0:00,2,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,8:15 PM
+208,0,13,244,0021000915,,,0:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,49 - 35,-14,,8:15 PM
+209,0,12,246,0021000915,,,12:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,49 - 35,-14,,8:33 PM
+210,1,6,247,0021000915,,,11:42,3,5.0,4,1,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Noah P.FOUL (P2.T1),8:34 PM
+211,1,2,248,0021000915,MISS Bass 17' Jump Shot,,11:27,3,4.0,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:34 PM
+212,0,4,249,0021000915,MAGIC Rebound,,11:27,3,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,8:34 PM
+213,3,6,250,0021000915,,,11:27,3,5.0,4,1,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Noah L.B.FOUL (P3.T2),8:35 PM
+214,42,2,251,0021000915,MISS Nelson 1' Driving Layup,,11:17,3,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:35 PM
+215,0,4,252,0021000915,,,11:17,3,5.0,0,0,2586,Keith Bogans,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Bogans REBOUND (Off:0 Def:1),8:35 PM
+216,1,5,253,0021000915,,,11:05,3,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rose Bad Pass Turnover (P4.T11),8:35 PM
+217,1,2,254,0021000915,MISS Bass 18' Jump Shot,,10:44,3,4.0,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:36 PM
+218,0,4,255,0021000915,,,10:44,3,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rose REBOUND (Off:0 Def:4),8:36 PM
+219,86,1,256,0021000915,,,10:30,3,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,51 - 35,-16,Boozer 10' Turnaround Fadeaway (7 PTS),8:36 PM
+220,8,5,257,0021000915,Howard 3 Second Violation Turnover (P5.T12),,10:18,3,4.0,0,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:36 PM
+221,7,2,258,0021000915,Howard BLOCK (2 BLK),,10:01,3,5.0,0,4,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,,,MISS Noah 1' Dunk,8:36 PM
+222,0,4,259,0021000915,,,10:00,3,5.0,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Noah REBOUND (Off:4 Def:1),8:37 PM
+223,1,6,260,0021000915,Bass P.FOUL (P2.T1),,10:00,3,4.0,5,1,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:37 PM
+224,1,6,261,0021000915,Bass P.FOUL (P3.T2),,9:53,3,4.0,5,1,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:37 PM
+225,1,2,262,0021000915,,,9:44,3,5.0,0,0,2586,Keith Bogans,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Bogans  3PT Jump Shot,8:38 PM
+226,0,4,263,0021000915,,,9:44,3,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,8:38 PM
+227,86,2,264,0021000915,,,9:36,3,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 13' Turnaround Fadeaway Shot,8:38 PM
+228,0,4,265,0021000915,Turkoglu REBOUND (Off:0 Def:1),,9:34,3,4.0,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:38 PM
+229,1,6,266,0021000915,,,9:27,3,5.0,4,1,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Noah P.FOUL (P4.T3),8:38 PM
+230,0,8,267,0021000915,,,9:27,3,5.0,5,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Asik FOR Noah,8:39 PM
+231,42,1,268,0021000915,Nelson 2' Driving Layup (6 PTS),,9:14,3,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,51 - 37,-14,,8:39 PM
+232,79,2,269,0021000915,,,8:51,3,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 19' Pullup Jump Shot,8:39 PM
+233,0,4,270,0021000915,MAGIC Rebound,,8:50,3,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,8:39 PM
+234,73,1,271,0021000915,Nelson 3' Driving Reverse Layup (8 PTS),,8:37,3,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,51 - 39,-12,,8:40 PM
+235,40,5,272,0021000915,,,8:20,3,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer Out of Bounds Lost Ball Turnover (P1.T12),8:40 PM
+236,1,5,273,0021000915,Howard Bad Pass Turnover (P6.T13),,8:00,3,4.0,5,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Rose STEAL (2 STL),8:40 PM
+237,7,1,274,0021000915,,,7:55,3,5.0,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,53 - 39,-14,Deng 2' Dunk (13 PTS) (Rose 2 AST),8:41 PM
+238,1,6,275,0021000915,,,7:35,3,5.0,4,1,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Asik P.FOUL (P2.T4),8:41 PM
+239,63,1,276,0021000915,Nelson 18' Fadeaway Jumper (10 PTS),,7:24,3,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,53 - 41,-12,,8:41 PM
+240,1,2,277,0021000915,,,6:59,3,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 6' Jump Shot,8:42 PM
+241,0,4,279,0021000915,,,6:58,3,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer REBOUND (Off:3 Def:2),8:42 PM
+242,4,1,278,0021000915,,,6:58,3,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,55 - 41,-14,Boozer 2' Tip Shot (9 PTS),8:42 PM
+243,1,5,280,0021000915,Bass Bad Pass Turnover (P1.T14),,6:44,3,4.0,5,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Boozer STEAL (1 STL),8:42 PM
+244,2,5,281,0021000915,Richardson STEAL (2 STL),,6:38,3,5.0,4,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Rose Lost Ball Turnover (P5.T13),8:42 PM
+245,5,2,282,0021000915,MISS Nelson 1' Layup,,6:28,3,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:42 PM
+246,0,4,283,0021000915,,,6:27,3,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik REBOUND (Off:1 Def:3),8:42 PM
+247,4,5,284,0021000915,,,6:13,3,5.0,0,1,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer Traveling Turnover (P2.T14),8:43 PM
+248,8,1,285,0021000915,Howard 1' Slam Dunk (10 PTS) (Turkoglu 1 AST),,5:57,3,4.0,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,55 - 43,-12,,8:43 PM
+249,1,2,286,0021000915,,,5:35,3,5.0,0,0,2586,Keith Bogans,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Bogans 26' 3PT Jump Shot,8:44 PM
+250,0,4,287,0021000915,Howard REBOUND (Off:3 Def:5),,5:34,3,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:44 PM
+251,1,2,288,0021000915,MISS Turkoglu 26' 3PT Jump Shot,,5:27,3,4.0,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:44 PM
+252,0,4,289,0021000915,,,5:25,3,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik REBOUND (Off:1 Def:4),8:44 PM
+253,1,6,290,0021000915,Bass P.FOUL (P4.T3),,5:12,3,4.0,5,1,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,2586,Keith Bogans,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:44 PM
+254,1,9,294,0021000915,MAGIC Timeout: Regular (Full 3 Short 1),,5:12,3,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,8:45 PM
+255,0,8,295,0021000915,SUB: Redick FOR Turkoglu,,5:12,3,4.0,4,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:47 PM
+256,0,8,296,0021000915,SUB: Anderson FOR Bass,,5:12,3,4.0,4,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:47 PM
+257,46,2,298,0021000915,,,5:04,3,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 4' Running Jump Shot,8:48 PM
+258,0,4,299,0021000915,,,5:03,3,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik REBOUND (Off:2 Def:4),8:48 PM
+259,15,5,300,0021000915,,,5:02,3,5.0,0,1,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer Offensive Goaltending Turnover (P3.T15),8:48 PM
+260,3,1,301,0021000915,Howard 4' Hook Shot (12 PTS),,4:41,3,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,55 - 45,-10,,8:48 PM
+261,3,2,302,0021000915,,,4:24,3,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 10' Hook Shot,8:49 PM
+262,0,4,303,0021000915,Nelson REBOUND (Off:0 Def:1),,4:22,3,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:49 PM
+263,1,6,304,0021000915,,,4:11,3,5.0,4,1,2586,Keith Bogans,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Bogans P.FOUL (P1.PN),8:49 PM
+264,11,3,305,0021000915,Howard Free Throw 1 of 2 (13 PTS),,4:11,3,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,55 - 46,-9,,8:49 PM
+265,12,3,308,0021000915,Howard Free Throw 2 of 2 (14 PTS),,4:11,3,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,55 - 47,-8,,8:50 PM
+266,79,1,311,0021000915,,,3:47,3,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,57 - 47,-10,Rose 19' Pullup Jump Shot (17 PTS),8:50 PM
+267,1,1,312,0021000915,Redick 26' 3PT Jump Shot (3 PTS) (Anderson 1 AST),,3:33,3,4.0,4,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,57 - 50,-7,,8:50 PM
+268,63,2,313,0021000915,,,3:16,3,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 16' Fadeaway Jumper,8:51 PM
+269,0,4,314,0021000915,,,3:15,3,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,8:51 PM
+270,3,6,315,0021000915,Redick L.B.FOUL (P1.T4),,3:15,3,4.0,5,1,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:51 PM
+271,0,8,316,0021000915,,,3:15,3,5.0,5,0,2586,Keith Bogans,CHI,Chicago,1610612741.0,Bulls,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Gibson FOR Bogans,8:51 PM
+272,0,8,317,0021000915,,,3:15,3,5.0,5,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Brewer FOR Boozer,8:51 PM
+273,79,2,318,0021000915,,,3:04,3,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 11' Pullup Jump Shot,8:51 PM
+274,0,4,320,0021000915,,,3:02,3,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik REBOUND (Off:3 Def:4),8:52 PM
+275,87,1,319,0021000915,,,3:02,3,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,59 - 50,-9,Asik 2' Putback Dunk (5 PTS),8:52 PM
+276,63,2,321,0021000915,MISS Nelson 13' Fadeaway Jumper,,2:48,3,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:52 PM
+277,0,4,322,0021000915,,,2:46,3,5.0,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Brewer REBOUND (Off:0 Def:2),8:52 PM
+278,1,2,323,0021000915,,,2:30,3,5.0,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Brewer 21' Jump Shot,8:52 PM
+279,0,4,324,0021000915,Nelson REBOUND (Off:0 Def:2),,2:30,3,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:52 PM
+280,2,6,326,0021000915,,,2:18,3,5.0,4,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Gibson S.FOUL (P3.PN),8:52 PM
+281,1,9,327,0021000915,,,2:18,3,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.3 Short 0),8:52 PM
+282,0,8,330,0021000915,SUB: Arenas FOR Richardson,,2:18,3,4.0,4,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:55 PM
+283,0,8,331,0021000915,SUB: Turkoglu FOR Nelson,,2:18,3,4.0,4,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:55 PM
+284,11,3,333,0021000915,Redick Free Throw 1 of 2 (4 PTS),,2:18,3,4.0,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,59 - 51,-8,,8:56 PM
+285,12,3,335,0021000915,MISS Redick Free Throw 2 of 2,,2:18,3,4.0,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:56 PM
+286,0,4,337,0021000915,,,2:17,3,5.0,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:0 Def:2),8:56 PM
+287,17,6,338,0021000915,MAGIC T.Foul (Def. 3 Sec Howard ),,2:06,3,4.0,0,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:56 PM
+288,16,3,339,0021000915,,,2:06,3,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose Free Throw Technical,8:57 PM
+289,1,4,340,0021000915,,,2:06,3,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,8:57 PM
+290,1,2,343,0021000915,,,2:00,3,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 24' 3PT Jump Shot,8:57 PM
+291,0,4,344,0021000915,Anderson REBOUND (Off:0 Def:3),,1:58,3,4.0,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:57 PM
+292,1,1,345,0021000915,Anderson 25' 3PT Jump Shot (3 PTS) (Redick 2 AST),,1:43,3,4.0,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,59 - 54,-5,,8:57 PM
+293,46,1,346,0021000915,,,1:15,3,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,61 - 54,-7,Deng 11' Running Jump Shot (15 PTS),8:58 PM
+294,78,2,347,0021000915,MISS Redick 7' Floating Jump Shot,,1:03,3,4.0,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:58 PM
+295,0,4,348,0021000915,Howard REBOUND (Off:4 Def:5),,1:03,3,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:58 PM
+296,7,2,349,0021000915,MISS Anderson 2' Dunk,,0:59,3,4.0,0,5,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,,,Gibson BLOCK (1 BLK),8:58 PM
+297,0,4,350,0021000915,,,0:58,3,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik REBOUND (Off:3 Def:5),8:58 PM
+298,44,1,351,0021000915,,,0:43,3,5.0,5,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,63 - 54,-9,Brewer 1' Reverse Layup (4 PTS) (Deng 3 AST),8:58 PM
+299,1,2,352,0021000915,MISS Anderson 25' 3PT Jump Shot,,0:29,3,4.0,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:59 PM
+300,0,4,353,0021000915,,,0:27,3,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:0 Def:3),8:59 PM
+301,79,1,354,0021000915,,,0:07,3,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,65 - 54,-11,Rose 15' Pullup Jump Shot (19 PTS),8:59 PM
+302,2,6,355,0021000915,,,0:00,3,5.0,4,1,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Asik S.FOUL (P3.PN),8:59 PM
+303,13,3,356,0021000915,Arenas Free Throw 1 of 3 (1 PTS),,0:00,3,4.0,0,0,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,65 - 55,-10,,8:59 PM
+304,14,3,358,0021000915,Arenas Free Throw 2 of 3 (2 PTS),,0:00,3,4.0,0,0,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,65 - 56,-9,,9:00 PM
+305,15,3,360,0021000915,Arenas Free Throw 3 of 3 (3 PTS),,0:00,3,4.0,0,0,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,65 - 57,-8,,9:00 PM
+306,1,2,363,0021000915,,,0:00,3,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 60' 3PT Jump Shot,9:01 PM
+307,0,4,364,0021000915,,,0:00,3,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,9:01 PM
+308,0,13,365,0021000915,,,0:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,65 - 57,-8,,9:01 PM
+309,0,12,367,0021000915,,,12:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,65 - 57,-8,,9:04 PM
+310,1,1,368,0021000915,,,11:44,4,5.0,5,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,67 - 57,-10,Gibson 19' Jump Shot (5 PTS) (Brewer 4 AST),9:05 PM
+311,1,6,369,0021000915,,,11:24,4,5.0,4,1,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Asik P.FOUL (P4.T1),9:05 PM
+312,1,2,371,0021000915,MISS Arenas 28' 3PT Jump Shot,,11:11,4,4.0,0,0,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:06 PM
+313,0,4,372,0021000915,MAGIC Rebound,,11:10,4,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,9:06 PM
+314,11,5,373,0021000915,MAGIC Turnover: Shot Clock (T#15),,11:10,4,2.0,0,1,1610612753,,,,,,0,,,,,,0,,,,,,,,,9:06 PM
+315,2,5,374,0021000915,Turkoglu STEAL (1 STL),,10:54,4,5.0,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Deng Lost Ball Turnover (P3.T16),9:06 PM
+316,40,2,385,0021000915,MISS Redick 2' Layup,,10:46,4,4.0,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:06 PM
+317,0,4,375,0021000915,,,10:46,4,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik REBOUND (Off:3 Def:6),9:06 PM
+318,41,5,376,0021000915,Redick STEAL (1 STL),,10:39,4,5.0,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Deng Poss Lost Ball Turnover (P4.T17),9:06 PM
+319,1,2,377,0021000915,MISS Redick 25' 3PT Jump Shot,,10:35,4,4.0,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:07 PM
+320,0,4,378,0021000915,,,10:35,4,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:0 Def:4),9:07 PM
+321,1,6,379,0021000915,Anderson P.FOUL (P2.T1),,10:35,4,4.0,5,1,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:07 PM
+322,1,2,381,0021000915,,,10:20,4,5.0,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Brewer 18' Jump Shot,9:07 PM
+323,0,4,382,0021000915,,,10:18,4,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:1 Def:4),9:07 PM
+324,79,1,383,0021000915,,,10:12,4,5.0,0,0,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,69 - 57,-12,Watson 17' Pullup Jump Shot (8 PTS),9:07 PM
+325,1,9,384,0021000915,MAGIC Timeout: Regular (Full 4 Short 1),,10:10,4,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,9:07 PM
+326,0,8,386,0021000915,SUB: Richardson FOR Redick,,10:10,4,4.0,4,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,9:10 PM
+327,7,1,389,0021000915,Howard 2' Dunk (16 PTS),,9:47,4,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,69 - 59,-10,,9:11 PM
+328,1,5,390,0021000915,Richardson STEAL (3 STL),,9:29,4,5.0,4,0,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Watson Bad Pass Turnover (P1.T18),9:11 PM
+329,1,6,391,0021000915,,,9:18,4,5.0,4,1,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Asik P.FOUL (P5.T2),9:12 PM
+330,0,8,392,0021000915,,,9:18,4,5.0,5,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Noah FOR Asik,9:12 PM
+331,0,8,393,0021000915,,,9:18,4,5.0,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Korver FOR Deng,9:12 PM
+332,1,2,394,0021000915,MISS Turkoglu 21' Jump Shot,,9:10,4,4.0,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:12 PM
+333,0,4,395,0021000915,,,9:07,4,5.0,0,0,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Watson REBOUND (Off:1 Def:3),9:12 PM
+334,5,2,396,0021000915,Howard BLOCK (3 BLK),,9:02,4,5.0,0,4,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,,,MISS Noah 3' Layup,9:13 PM
+335,0,4,397,0021000915,MAGIC Rebound,,9:00,4,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,9:13 PM
+336,1,1,398,0021000915,Richardson 27' 3PT Jump Shot (10 PTS) (Arenas 2 AST),,8:55,4,4.0,4,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,0,,,,,,69 - 62,-7,,9:13 PM
+337,1,9,399,0021000915,,,8:55,4,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.4 Short 0),9:13 PM
+338,42,2,403,0021000915,,,8:45,4,5.0,0,0,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Watson 2' Driving Layup,9:16 PM
+339,0,4,404,0021000915,,,8:44,4,5.0,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Noah REBOUND (Off:5 Def:1),9:16 PM
+340,2,6,405,0021000915,Turkoglu S.FOUL (P3.T2),,8:43,4,4.0,5,1,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:16 PM
+341,11,3,406,0021000915,,,8:43,4,5.0,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,70 - 62,-8,Noah Free Throw 1 of 2 (1 PTS),9:16 PM
+342,12,3,408,0021000915,,,8:43,4,5.0,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,71 - 62,-9,Noah Free Throw 2 of 2 (2 PTS),9:16 PM
+343,1,2,410,0021000915,MISS Richardson 4' Jump Shot,,8:25,4,4.0,0,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:17 PM
+344,0,4,411,0021000915,,,8:24,4,5.0,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Brewer REBOUND (Off:0 Def:3),9:17 PM
+345,1,2,412,0021000915,,,8:01,4,5.0,0,0,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Watson 21' Jump Shot,9:17 PM
+346,0,4,413,0021000915,Richardson REBOUND (Off:0 Def:4),,8:01,4,4.0,0,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:17 PM
+347,2,6,414,0021000915,,,7:53,4,5.0,4,1,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Noah S.FOUL (P5.T3),9:18 PM
+348,0,8,415,0021000915,SUB: Nelson FOR Arenas,,7:53,4,4.0,4,0,2240,Gilbert Arenas,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,9:18 PM
+349,11,3,416,0021000915,Howard Free Throw 1 of 2 (17 PTS),,7:53,4,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,71 - 63,-8,,9:18 PM
+350,0,8,418,0021000915,,,7:53,4,5.0,5,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Asik FOR Noah,9:18 PM
+351,0,8,419,0021000915,,,7:53,4,5.0,5,0,201228,CJ Watson,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Rose FOR Watson,9:18 PM
+352,0,8,420,0021000915,,,7:53,4,5.0,5,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Boozer FOR Gibson,9:18 PM
+353,0,8,421,0021000915,SUB: Bass FOR Anderson,,7:53,4,4.0,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,9:18 PM
+354,12,3,422,0021000915,MISS Howard Free Throw 2 of 2,,7:53,4,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:19 PM
+355,0,4,424,0021000915,,,7:52,4,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik REBOUND (Off:3 Def:7),9:19 PM
+356,46,2,425,0021000915,,,7:30,4,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 7' Running Jump Shot,9:19 PM
+357,0,4,426,0021000915,,,7:30,4,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer REBOUND (Off:4 Def:2),9:19 PM
+358,2,6,427,0021000915,Bass S.FOUL (P5.T3),,7:30,4,4.0,5,1,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:19 PM
+359,0,8,428,0021000915,,,7:30,4,5.0,5,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Deng FOR Brewer,9:20 PM
+360,11,3,429,0021000915,,,7:30,4,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer Free Throw 1 of 2,9:20 PM
+361,1,4,430,0021000915,,,7:30,4,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,9:20 PM
+362,12,3,431,0021000915,,,7:30,4,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,72 - 63,-9,Boozer Free Throw 2 of 2 (10 PTS),9:20 PM
+363,1,1,433,0021000915,Nelson 10' Jump Shot (12 PTS),,7:07,4,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,72 - 65,-7,,9:20 PM
+364,1,2,434,0021000915,,,6:40,4,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 25' 3PT Jump Shot,9:21 PM
+365,0,4,435,0021000915,Richardson REBOUND (Off:0 Def:5),,6:39,4,4.0,0,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:21 PM
+366,73,2,436,0021000915,MISS Richardson 3' Driving Reverse Layup,,6:31,4,4.0,0,5,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,,,Asik BLOCK (2 BLK),9:21 PM
+367,0,4,437,0021000915,,,6:30,4,5.0,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Korver REBOUND (Off:0 Def:1),9:21 PM
+368,42,1,438,0021000915,,,6:25,4,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,74 - 65,-9,Rose 1' Driving Layup (21 PTS),9:21 PM
+369,2,6,439,0021000915,Turkoglu S.FOUL (P4.T4),,6:25,4,4.0,5,1,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:21 PM
+370,10,3,440,0021000915,,,6:25,4,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,75 - 65,-10,Rose Free Throw 1 of 1 (22 PTS),9:21 PM
+371,66,1,442,0021000915,Howard 4' Jump Bank Shot (19 PTS),,6:05,4,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,75 - 67,-8,,9:22 PM
+372,1,2,443,0021000915,,,5:40,4,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Boozer 4' Jump Shot,9:23 PM
+373,0,4,444,0021000915,Nelson REBOUND (Off:0 Def:3),,5:39,4,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:23 PM
+374,1,2,445,0021000915,MISS Richardson 26' 3PT Jump Shot,,5:33,4,4.0,0,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:23 PM
+375,0,4,446,0021000915,Howard REBOUND (Off:5 Def:5),,5:32,4,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:23 PM
+376,2,6,447,0021000915,,,5:32,4,5.0,4,1,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Boozer S.FOUL (P2.T4),9:23 PM
+377,11,3,448,0021000915,MISS Howard Free Throw 1 of 2,,5:32,4,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:23 PM
+378,1,4,449,0021000915,MAGIC Rebound,,5:32,4,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,9:23 PM
+379,12,3,450,0021000915,MISS Howard Free Throw 2 of 2,,5:32,4,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:24 PM
+380,0,4,452,0021000915,,,5:26,4,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik REBOUND (Off:3 Def:8),9:24 PM
+381,63,2,453,0021000915,,,5:17,4,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 12' Fadeaway Jumper,9:24 PM
+382,0,4,454,0021000915,,,5:15,4,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik REBOUND (Off:4 Def:8),9:24 PM
+383,1,2,456,0021000915,,,5:08,4,5.0,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Korver 13' Jump Shot,9:25 PM
+384,0,4,457,0021000915,Turkoglu REBOUND (Off:0 Def:2),,5:06,4,4.0,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:25 PM
+385,1,2,458,0021000915,MISS Bass 18' Jump Shot,,4:59,4,4.0,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:25 PM
+386,0,4,459,0021000915,,,4:58,4,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:1 Def:5),9:25 PM
+387,1,2,460,0021000915,,,4:37,4,5.0,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Korver  3PT Jump Shot,9:25 PM
+388,0,4,461,0021000915,,,4:37,4,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer REBOUND (Off:5 Def:2),9:25 PM
+389,1,1,462,0021000915,,,4:17,4,5.0,5,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,78 - 67,-11,Korver 25' 3PT Jump Shot (4 PTS) (Rose 3 AST),9:25 PM
+390,4,6,463,0021000915,Howard OFF.Foul (P3),,4:00,4,4.0,5,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:26 PM
+391,5,5,464,0021000915,Howard Foul Turnover (P7.T16),,4:00,4,4.0,0,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:26 PM
+392,0,8,465,0021000915,SUB: Redick FOR Turkoglu,,4:00,4,4.0,4,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,9:26 PM
+393,78,2,466,0021000915,,,3:49,4,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rose 9' Floating Jump Shot,9:26 PM
+394,0,4,467,0021000915,MAGIC Rebound,,3:47,4,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,9:26 PM
+395,3,6,468,0021000915,,,3:47,4,5.0,4,1,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Boozer L.B.FOUL (P3.PN),9:26 PM
+396,11,3,469,0021000915,Bass Free Throw 1 of 2 (15 PTS),,3:47,4,4.0,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,78 - 68,-10,,9:27 PM
+397,12,3,471,0021000915,Bass Free Throw 2 of 2 (16 PTS),,3:47,4,4.0,0,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,78 - 69,-9,,9:27 PM
+398,1,2,473,0021000915,,,3:25,4,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 24' 3PT Jump Shot,9:28 PM
+399,0,4,474,0021000915,,,3:24,4,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Asik REBOUND (Off:5 Def:8),9:28 PM
+400,2,6,475,0021000915,Howard S.FOUL (P4.PN),,3:24,4,4.0,5,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:28 PM
+401,11,3,476,0021000915,,,3:24,4,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Asik Free Throw 1 of 2,9:28 PM
+402,1,4,477,0021000915,,,3:24,4,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,9:28 PM
+403,0,8,479,0021000915,SUB: Anderson FOR Bass,,3:24,4,4.0,4,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,9:28 PM
+404,12,3,480,0021000915,,,3:24,4,5.0,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Asik Free Throw 2 of 2,9:28 PM
+405,0,4,482,0021000915,Anderson REBOUND (Off:0 Def:4),,3:23,4,4.0,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:29 PM
+406,2,6,483,0021000915,,,3:05,4,5.0,4,1,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Korver S.FOUL (P2.PN),9:29 PM
+407,0,8,484,0021000915,SUB: Bass FOR Anderson,,3:05,4,4.0,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,9:29 PM
+408,11,3,485,0021000915,Howard Free Throw 1 of 2 (20 PTS),,3:05,4,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,78 - 70,-8,,9:29 PM
+409,12,3,487,0021000915,MISS Howard Free Throw 2 of 2,,3:05,4,4.0,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:29 PM
+410,0,4,489,0021000915,,,3:04,4,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer REBOUND (Off:5 Def:3),9:30 PM
+411,80,1,490,0021000915,,,2:42,4,5.0,5,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,81 - 70,-11,Korver 25' 3PT Step Back Jump Shot (7 PTS) (Boozer 1 AST),9:30 PM
+412,63,1,491,0021000915,Redick 9' Fadeaway Jumper (6 PTS),,2:23,4,4.0,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,81 - 72,-9,,9:31 PM
+413,1,2,492,0021000915,Howard BLOCK (4 BLK),,1:59,4,5.0,0,4,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,,,MISS Boozer 5' Jump Shot,9:31 PM
+414,0,4,493,0021000915,,,1:59,4,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,9:31 PM
+415,4,9,494,0021000915,,,1:59,4,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:31 PM
+416,0,18,495,0021000915,,,1:59,4,,0,1,493,,,,,,0,,,,,,0,,,,,,,,,9:31 PM
+417,5,1,498,0021000915,,,1:57,4,5.0,5,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,83 - 72,-11,Boozer 2' Layup (12 PTS) (Rose 4 AST),9:34 PM
+418,2,6,499,0021000915,,,1:37,4,5.0,4,1,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Asik S.FOUL (P6.PN),9:35 PM
+419,0,8,500,0021000915,,,1:37,4,5.0,5,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Noah FOR Asik,9:35 PM
+420,11,3,501,0021000915,Redick Free Throw 1 of 2 (7 PTS),,1:37,4,4.0,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,83 - 73,-10,,9:36 PM
+421,12,3,503,0021000915,MISS Redick Free Throw 2 of 2,,1:37,4,4.0,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:36 PM
+422,0,4,505,0021000915,,,1:35,4,5.0,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Boozer REBOUND (Off:5 Def:4),9:36 PM
+423,10,5,507,0021000915,,,1:29,4,3.0,0,1,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Turnover: 8 Second Violation (T#19),9:37 PM
+424,79,2,508,0021000915,MISS Nelson 26' 3PT Pullup Jump Shot,,1:21,4,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:38 PM
+425,0,4,509,0021000915,,,1:17,4,5.0,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Noah REBOUND (Off:5 Def:2),9:38 PM
+426,1,1,510,0021000915,,,1:06,4,5.0,5,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,86 - 73,-13,Korver 26' 3PT Jump Shot (10 PTS) (Boozer 2 AST),9:38 PM
+427,1,9,511,0021000915,MAGIC Timeout: Regular (Full 5 Short 1),,1:06,4,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,9:38 PM
+428,0,8,515,0021000915,SUB: Anderson FOR Bass,,1:06,4,4.0,4,0,101138,Brandon Bass,ORL,Orlando,1610612753.0,Magic,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,9:40 PM
+429,0,8,516,0021000915,SUB: Turkoglu FOR Nelson,,1:06,4,4.0,4,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,9:40 PM
+430,1,1,517,0021000915,Richardson 27' 3PT Jump Shot (13 PTS) (Turkoglu 2 AST),,1:03,4,4.0,4,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,86 - 76,-10,,9:40 PM
+431,1,6,518,0021000915,Anderson P.FOUL (P3.PN),,0:57,4,4.0,5,1,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:41 PM
+432,11,3,519,0021000915,,,0:57,4,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng Free Throw 1 of 2,9:41 PM
+433,1,4,520,0021000915,,,0:57,4,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,9:41 PM
+434,12,3,521,0021000915,,,0:57,4,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,87 - 76,-11,Deng Free Throw 2 of 2 (16 PTS),9:41 PM
+435,2,9,523,0021000915,MAGIC Timeout: Short (Full 5 Short 2),,0:57,4,2.0,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,9:41 PM
+436,0,8,525,0021000915,SUB: Nelson FOR Turkoglu,,0:57,4,4.0,4,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,9:42 PM
+437,1,2,526,0021000915,MISS Redick 26' 3PT Jump Shot,,0:47,4,4.0,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:43 PM
+438,0,4,527,0021000915,,,0:47,4,3.0,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,9:43 PM
+439,46,2,528,0021000915,,,0:25,4,5.0,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 15' Running Jump Shot,9:43 PM
+440,0,4,529,0021000915,Anderson REBOUND (Off:0 Def:5),,0:24,4,4.0,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,9:43 PM
+441,1,1,530,0021000915,Richardson 24' 3PT Jump Shot (16 PTS),,0:18,4,4.0,0,0,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,87 - 79,-8,,9:43 PM
+442,1,6,533,0021000915,Richardson P.FOUL (P3.PN),,0:17,4,4.0,5,1,2202,Jason Richardson,ORL,Orlando,1610612753.0,Magic,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:44 PM
+443,11,3,534,0021000915,,,0:17,4,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,88 - 79,-9,Rose Free Throw 1 of 2 (23 PTS),9:44 PM
+444,12,3,536,0021000915,,,0:17,4,5.0,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,89 - 79,-10,Rose Free Throw 2 of 2 (24 PTS),9:44 PM
+445,42,1,538,0021000915,Nelson 2' Driving Layup (14 PTS),,0:10,4,4.0,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,89 - 81,-8,,9:44 PM
+446,0,13,539,0021000915,,,0:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,89 - 81,-8,,9:44 PM

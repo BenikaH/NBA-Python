@@ -1,0 +1,503 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021300678,,,12:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:40 PM
+1,0,10,1,0021300678,Jump Ball Bass vs. Hawes: Tip to Young,,12:00,1,4.0,5,5,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,,,,7:41 PM
+2,42,1,2,0021300678,,,11:43,1,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,2 - 0,-2,Carter-Williams 3' Driving Layup (2 PTS),7:41 PM
+3,2,5,3,0021300678,Green Lost Ball Turnover (P1.T1),,11:19,1,4.0,5,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Young STEAL (1 STL),7:41 PM
+4,73,1,4,0021300678,,,11:13,1,5.0,5,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,4 - 0,-4,Anderson 2' Driving Reverse Layup (2 PTS) (Young 1 AST),7:41 PM
+5,7,1,5,0021300678,Bass  Dunk (2 PTS) (Sullinger 1 AST),,11:00,1,4.0,4,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,4 - 2,-2,,7:41 PM
+6,1,2,6,0021300678,,,10:54,1,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Young 25' 3PT Jump Shot,7:42 PM
+7,0,4,7,0021300678,Wallace REBOUND (Off:0 Def:1),,10:52,1,4.0,0,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:42 PM
+8,2,6,8,0021300678,,,10:38,1,5.0,4,1,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Hawes S.FOUL (P1.T1),7:42 PM
+9,11,3,9,0021300678,Green Free Throw 1 of 2 (1 PTS),,10:38,1,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,4 - 3,-1,,7:42 PM
+10,12,3,11,0021300678,Green Free Throw 2 of 2 (2 PTS),,10:38,1,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,4 - 4,TIE,,7:42 PM
+11,1,2,13,0021300678,,,10:25,1,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Turner 19' Jump Shot,7:43 PM
+12,0,4,14,0021300678,Sullinger REBOUND (Off:0 Def:1),,10:24,1,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:43 PM
+13,1,1,15,0021300678,Sullinger 22' Jump Shot (2 PTS) (Pressey 1 AST),,10:16,1,4.0,4,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,4 - 6,2,,7:43 PM
+14,1,5,16,0021300678,Bass STEAL (1 STL),,10:07,1,5.0,4,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Carter-Williams Bad Pass Turnover (P1.T1),7:43 PM
+15,1,1,17,0021300678,Sullinger 13' Jump Shot (4 PTS) (Green 1 AST),,9:56,1,4.0,4,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,4 - 8,4,,7:43 PM
+16,2,6,18,0021300678,Sullinger S.FOUL (P1.T1),,9:43,1,4.0,5,1,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:44 PM
+17,11,3,19,0021300678,,,9:43,1,5.0,0,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,5 - 8,3,Hawes Free Throw 1 of 2 (1 PTS),7:44 PM
+18,12,3,21,0021300678,,,9:43,1,5.0,0,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,6 - 8,2,Hawes Free Throw 2 of 2 (2 PTS),7:44 PM
+19,1,5,23,0021300678,Green Bad Pass Turnover (P2.T2),,9:28,1,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:44 PM
+20,1,2,24,0021300678,,,9:15,1,5.0,0,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Hawes 25' 3PT Jump Shot,7:45 PM
+21,0,4,25,0021300678,Wallace REBOUND (Off:0 Def:2),,9:14,1,4.0,0,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:45 PM
+22,1,2,26,0021300678,MISS Bass 17' Jump Shot,,9:06,1,4.0,0,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:45 PM
+23,0,4,27,0021300678,,,9:05,1,5.0,0,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Hawes REBOUND (Off:0 Def:1),7:45 PM
+24,1,1,28,0021300678,,,8:58,1,5.0,5,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,8 - 8,TIE,Turner 4' Jump Shot (2 PTS) (Carter-Williams 1 AST),7:45 PM
+25,1,2,29,0021300678,MISS Sullinger 26' 3PT Jump Shot,,8:48,1,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:45 PM
+26,0,4,30,0021300678,,,8:47,1,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Carter-Williams REBOUND (Off:0 Def:1),7:45 PM
+27,75,1,31,0021300678,,,8:41,1,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,10 - 8,-2,Carter-Williams 2' Driving Finger Roll Layup (4 PTS),7:45 PM
+28,1,5,32,0021300678,Pressey Bad Pass Turnover (P1.T3),,8:24,1,4.0,5,0,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Hawes STEAL (1 STL),7:46 PM
+29,47,2,33,0021300678,,,8:16,1,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Turner 7' Turnaround Jump Shot,7:46 PM
+30,0,4,34,0021300678,Sullinger REBOUND (Off:0 Def:2),,8:15,1,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:46 PM
+31,40,5,35,0021300678,Sullinger Out of Bounds Lost Ball Turnover (P1.T4),,8:05,1,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:46 PM
+32,5,2,36,0021300678,Wallace BLOCK (1 BLK),,7:53,1,5.0,0,4,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,,,MISS Hawes 1' Layup,7:46 PM
+33,0,4,37,0021300678,Bass REBOUND (Off:0 Def:1),,7:51,1,4.0,0,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:46 PM
+34,77,2,38,0021300678,MISS Wallace 6' Driving Jump Shot,,7:39,1,4.0,0,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:46 PM
+35,0,4,39,0021300678,,,7:38,1,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Turner REBOUND (Off:0 Def:1),7:46 PM
+36,5,2,40,0021300678,,,7:34,1,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Young 1' Layup,7:47 PM
+37,0,4,41,0021300678,,,7:33,1,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Young REBOUND (Off:1 Def:0),7:47 PM
+38,2,6,42,0021300678,Bass S.FOUL (P1.T2),,7:33,1,4.0,5,1,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:47 PM
+39,11,3,43,0021300678,,,7:33,1,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Young Free Throw 1 of 2,7:47 PM
+40,1,4,44,0021300678,,,7:33,1,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,7:47 PM
+41,0,8,45,0021300678,SUB: Humphries FOR Bass,,7:33,1,4.0,4,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,7:47 PM
+42,12,3,46,0021300678,,,7:33,1,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Young Free Throw 2 of 2,7:47 PM
+43,0,4,48,0021300678,Sullinger REBOUND (Off:0 Def:3),,7:32,1,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:47 PM
+44,58,1,50,0021300678,Sullinger 5' Turnaround Hook Shot (6 PTS),,7:11,1,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,10 - 10,TIE,,7:48 PM
+45,1,2,51,0021300678,,,6:56,1,5.0,0,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Hawes 26' 3PT Jump Shot,7:48 PM
+46,0,4,52,0021300678,Wallace REBOUND (Off:0 Def:3),,6:55,1,4.0,0,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:48 PM
+47,86,2,53,0021300678,MISS Sullinger 11' Turnaround Fadeaway Shot,,6:42,1,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:48 PM
+48,0,4,54,0021300678,,,6:40,1,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Young REBOUND (Off:1 Def:1),7:48 PM
+49,40,1,55,0021300678,,,6:34,1,5.0,5,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,12 - 10,-2,Anderson 2' Layup (4 PTS) (Young 2 AST),7:48 PM
+50,1,2,56,0021300678,MISS Pressey 24' 3PT Jump Shot,,6:15,1,4.0,0,0,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:49 PM
+51,0,4,57,0021300678,,,6:14,1,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Turner REBOUND (Off:0 Def:2),7:49 PM
+52,0,8,59,0021300678,,,6:07,1,5.0,5,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Thompson FOR Anderson,7:49 PM
+53,0,8,60,0021300678,,,6:07,1,5.0,5,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Allen FOR Hawes,7:49 PM
+54,0,8,61,0021300678,,,6:07,1,5.0,5,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Wroten FOR Carter-Williams,7:49 PM
+55,0,8,62,0021300678,SUB: Bayless FOR Pressey,,6:07,1,4.0,4,0,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,7:49 PM
+56,1,2,63,0021300678,,,6:00,1,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Turner 16' Jump Shot,7:49 PM
+57,0,4,64,0021300678,Green REBOUND (Off:0 Def:1),,5:59,1,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:49 PM
+58,2,6,65,0021300678,,,5:55,1,5.0,4,1,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Thompson S.FOUL (P1.T2),7:50 PM
+59,1,9,66,0021300678,CELTICS Timeout: Regular (Full 1 Short 0),,5:55,1,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,7:50 PM
+60,11,3,68,0021300678,Green Free Throw 1 of 2 (3 PTS),,5:55,1,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,12 - 11,-1,,7:52 PM
+61,12,3,70,0021300678,Green Free Throw 2 of 2 (4 PTS),,5:55,1,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,12 - 12,TIE,,7:52 PM
+62,2,6,72,0021300678,Bayless S.FOUL (P1.T3),,5:41,1,4.0,5,1,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:53 PM
+63,11,3,73,0021300678,,,5:41,1,5.0,0,0,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,13 - 12,-1,Wroten Free Throw 1 of 2 (1 PTS),7:53 PM
+64,12,3,75,0021300678,,,5:41,1,5.0,0,0,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,14 - 12,-2,Wroten Free Throw 2 of 2 (2 PTS),7:53 PM
+65,1,5,77,0021300678,Bayless Bad Pass Turnover (P1.T5),,5:38,1,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:54 PM
+66,85,2,78,0021300678,,,5:25,1,5.0,0,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Allen 6' Turnaround Bank Shot,7:54 PM
+67,0,4,79,0021300678,Green REBOUND (Off:0 Def:2),,5:24,1,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:54 PM
+68,42,1,80,0021300678,Green 2' Driving Layup (6 PTS),,5:17,1,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,14 - 14,TIE,,7:54 PM
+69,71,2,81,0021300678,,,5:00,1,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Young 4' Finger Roll Layup,7:54 PM
+70,0,4,83,0021300678,,,4:59,1,5.0,0,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Allen REBOUND (Off:1 Def:0),7:55 PM
+71,4,1,82,0021300678,,,4:59,1,5.0,0,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,16 - 14,-2,Allen 1' Tip Shot (2 PTS),7:55 PM
+72,1,2,84,0021300678,MISS Bayless 20' Jump Shot,,4:43,1,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:55 PM
+73,0,4,85,0021300678,,,4:42,1,5.0,0,0,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Thompson REBOUND (Off:0 Def:1),7:55 PM
+74,5,1,86,0021300678,,,4:36,1,5.0,5,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,18 - 14,-4,Young 1' Layup (2 PTS) (Turner 1 AST),7:55 PM
+75,1,2,87,0021300678,MISS Bayless 25' 3PT Jump Shot,,4:10,1,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:55 PM
+76,0,4,88,0021300678,Wallace REBOUND (Off:1 Def:3),,4:09,1,4.0,0,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:55 PM
+77,1,2,89,0021300678,MISS Bayless 25' 3PT Jump Shot,,4:02,1,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:55 PM
+78,0,4,90,0021300678,CELTICS Rebound,,4:00,1,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,7:56 PM
+79,0,8,91,0021300678,,,4:00,1,5.0,5,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Hawes FOR Young,7:56 PM
+80,1,5,92,0021300678,Sullinger Bad Pass Turnover (P2.T6),,3:56,1,4.0,5,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Wroten STEAL (1 STL),7:56 PM
+81,1,2,93,0021300678,,,3:43,1,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Turner  3PT Jump Shot,7:56 PM
+82,0,4,94,0021300678,,,3:41,1,5.0,0,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Allen REBOUND (Off:2 Def:0),7:56 PM
+83,2,6,95,0021300678,Humphries S.FOUL (P1.T4),,3:37,1,4.0,5,1,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:56 PM
+84,11,3,96,0021300678,,,3:37,1,5.0,0,0,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Thompson Free Throw 1 of 2,7:57 PM
+85,1,4,97,0021300678,,,3:37,1,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,7:57 PM
+86,0,8,98,0021300678,,,3:37,1,5.0,5,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Carter-Williams FOR Turner,7:57 PM
+87,0,8,99,0021300678,SUB: Johnson FOR Wallace,,3:37,1,4.0,4,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,7:57 PM
+88,0,8,100,0021300678,SUB: Olynyk FOR Sullinger,,3:37,1,4.0,4,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,7:57 PM
+89,12,3,101,0021300678,,,3:37,1,5.0,0,0,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,19 - 14,-5,Thompson Free Throw 2 of 2 (1 PTS),7:57 PM
+90,88,1,103,0021300678,Green  Driving Slam Dunk (8 PTS) (Bayless 1 AST),,3:22,1,4.0,4,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,19 - 16,-3,,7:57 PM
+91,1,2,104,0021300678,,,3:09,1,5.0,0,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Allen 21' Jump Shot,7:58 PM
+92,0,4,105,0021300678,Humphries REBOUND (Off:0 Def:1),,3:08,1,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:58 PM
+93,1,2,106,0021300678,MISS Green 27' 3PT Jump Shot,,3:04,1,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:58 PM
+94,0,4,107,0021300678,Green REBOUND (Off:1 Def:2),,3:02,1,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:58 PM
+95,2,6,108,0021300678,,,3:00,1,5.0,4,1,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Allen S.FOUL (P1.T3),7:58 PM
+96,11,3,109,0021300678,MISS Green Free Throw 1 of 2,,3:00,1,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,7:58 PM
+97,1,4,110,0021300678,CELTICS Rebound,,3:00,1,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,7:58 PM
+98,1,9,111,0021300678,,,3:00,1,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.1 Short 0),7:58 PM
+99,12,3,114,0021300678,MISS Green Free Throw 2 of 2,,3:00,1,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:01 PM
+100,0,4,116,0021300678,CELTICS Rebound,,3:00,1,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,8:01 PM
+101,3,6,117,0021300678,,,3:00,1,5.0,4,1,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Allen L.B.FOUL (P2.T4),8:01 PM
+102,2,6,118,0021300678,,,2:51,1,5.0,4,1,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Thompson S.FOUL (P2.PN),8:02 PM
+103,11,3,119,0021300678,Green Free Throw 1 of 2 (9 PTS),,2:51,1,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,19 - 17,-2,,8:02 PM
+104,12,3,121,0021300678,Green Free Throw 2 of 2 (10 PTS),,2:51,1,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,19 - 18,-1,,8:02 PM
+105,2,6,123,0021300678,Olynyk S.FOUL (P1.PN),,2:38,1,4.0,5,1,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:03 PM
+106,11,3,124,0021300678,,,2:38,1,5.0,0,0,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,20 - 18,-2,Thompson Free Throw 1 of 2 (2 PTS),8:03 PM
+107,12,3,126,0021300678,,,2:38,1,5.0,0,0,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,21 - 18,-3,Thompson Free Throw 2 of 2 (3 PTS),8:03 PM
+108,1,1,128,0021300678,Olynyk 25' 3PT Jump Shot (3 PTS) (Johnson 1 AST),,2:27,1,4.0,4,0,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,21 - 21,TIE,,8:04 PM
+109,5,2,129,0021300678,,,2:06,1,5.0,0,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Allen 3' Layup,8:04 PM
+110,0,4,130,0021300678,,,2:04,1,5.0,0,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Allen REBOUND (Off:3 Def:0),8:04 PM
+111,4,2,131,0021300678,,,2:03,1,5.0,0,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Allen  Tip Shot,8:04 PM
+112,0,4,138,0021300678,,,2:02,1,5.0,0,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Allen REBOUND (Off:4 Def:0),8:04 PM
+113,53,2,140,0021300678,,,2:01,1,5.0,0,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Allen 1' Tip Shot,8:04 PM
+114,0,4,132,0021300678,Johnson REBOUND (Off:0 Def:1),,2:00,1,4.0,0,0,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:04 PM
+115,5,1,133,0021300678,Olynyk 1' Layup (5 PTS) (Green 2 AST),,1:56,1,4.0,4,0,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,21 - 23,2,,8:04 PM
+116,5,2,134,0021300678,Olynyk BLOCK (1 BLK),,1:46,1,5.0,0,4,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,,,MISS Carter-Williams 1' Layup,8:04 PM
+117,0,4,135,0021300678,Humphries REBOUND (Off:0 Def:2),,1:44,1,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:04 PM
+118,1,5,136,0021300678,Johnson Bad Pass Turnover (P1.T7),,1:42,1,4.0,5,0,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Wroten STEAL (2 STL),8:04 PM
+119,5,1,137,0021300678,,,1:33,1,5.0,5,0,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,23 - 23,TIE,Wroten 1' Layup (4 PTS) (Carter-Williams 2 AST),8:05 PM
+120,1,1,139,0021300678,Green 26' 3PT Jump Shot (13 PTS) (Johnson 2 AST),,1:15,1,4.0,4,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,23 - 26,3,,8:05 PM
+121,5,2,141,0021300678,,,0:53,1,5.0,0,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Allen 2' Layup,8:05 PM
+122,0,4,142,0021300678,Humphries REBOUND (Off:0 Def:3),,0:52,1,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:05 PM
+123,1,2,144,0021300678,MISS Green 9' Jump Shot,,0:47,1,4.0,0,5,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,,,Carter-Williams BLOCK (1 BLK),8:05 PM
+124,0,4,145,0021300678,,,0:46,1,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,8:05 PM
+125,0,8,146,0021300678,,,0:46,1,5.0,5,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Dedmon FOR Allen,8:06 PM
+126,1,2,148,0021300678,,,0:30,1,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Carter-Williams 17' Jump Shot,8:06 PM
+127,0,4,149,0021300678,Bayless REBOUND (Off:0 Def:1),,0:29,1,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:06 PM
+128,71,2,150,0021300678,MISS Johnson 2' Finger Roll Layup,,0:24,1,4.0,0,5,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,,,Dedmon BLOCK (1 BLK),8:06 PM
+129,0,4,151,0021300678,,,0:23,1,5.0,0,0,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Wroten REBOUND (Off:0 Def:1),8:06 PM
+130,75,2,152,0021300678,,,0:02,1,5.0,0,0,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Wroten 2' Driving Finger Roll Layup,8:06 PM
+131,0,4,153,0021300678,Johnson REBOUND (Off:0 Def:2),,0:01,1,4.0,0,0,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:06 PM
+132,0,18,156,0021300678,,,0:00,1,0.0,0,1,0,,,,,,0,,,,,,0,,,,,,23 - 26,3,,8:07 PM
+133,0,13,154,0021300678,,,0:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 26,3,,8:07 PM
+134,0,12,159,0021300678,,,12:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 26,3,,8:09 PM
+135,45,2,163,0021300678,MISS Olynyk 25' 3PT Jump Shot,,11:46,2,4.0,0,0,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:09 PM
+136,0,4,160,0021300678,,,11:44,2,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Turner REBOUND (Off:0 Def:3),8:09 PM
+137,1,2,161,0021300678,,,11:31,2,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Turner 19' Jump Shot,8:09 PM
+138,0,4,162,0021300678,Bayless REBOUND (Off:0 Def:2),,11:30,2,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:09 PM
+139,1,2,164,0021300678,MISS Bayless 19' Jump Shot,,11:19,2,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:10 PM
+140,0,4,165,0021300678,,,11:18,2,5.0,0,0,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dedmon REBOUND (Off:0 Def:1),8:10 PM
+141,1,2,166,0021300678,,,11:12,2,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Carter-Williams 25' 3PT Jump Shot,8:10 PM
+142,0,4,167,0021300678,Humphries REBOUND (Off:0 Def:4),,11:10,2,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:10 PM
+143,1,6,168,0021300678,,,11:02,2,5.0,4,1,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Turner P.FOUL (P1.T1),8:10 PM
+144,4,6,171,0021300678,Olynyk OFF.Foul (P2),,10:57,2,4.0,5,1,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,202343,Elliot Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:11 PM
+145,5,5,172,0021300678,Olynyk Foul Turnover (P1.T8),,10:57,2,4.0,0,1,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:11 PM
+146,1,1,175,0021300678,,,10:45,2,5.0,5,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,26 - 26,TIE,Hawes 26' 3PT Jump Shot (5 PTS) (Carter-Williams 3 AST),8:11 PM
+147,79,2,177,0021300678,MISS Johnson 18' Pullup Jump Shot,,10:23,2,4.0,0,0,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:11 PM
+148,0,4,178,0021300678,,,10:22,2,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Carter-Williams REBOUND (Off:0 Def:2),8:11 PM
+149,1,1,180,0021300678,,,10:06,2,5.0,5,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,29 - 26,-3,Hawes 25' 3PT Jump Shot (8 PTS) (Carter-Williams 4 AST),8:12 PM
+150,1,5,182,0021300678,Bayless Bad Pass Turnover (P2.T9),,9:57,2,4.0,5,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Carter-Williams STEAL (1 STL),8:12 PM
+151,42,2,183,0021300678,Humphries BLOCK (1 BLK),,9:52,2,5.0,0,4,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,,,MISS Carter-Williams 1' Driving Layup,8:12 PM
+152,0,4,184,0021300678,Johnson REBOUND (Off:0 Def:3),,9:50,2,4.0,0,0,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:12 PM
+153,1,2,185,0021300678,MISS Humphries 16' Jump Shot,,9:43,2,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:12 PM
+154,0,4,186,0021300678,CELTICS Rebound,,9:42,2,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,8:12 PM
+155,3,6,187,0021300678,,,9:42,2,5.0,4,1,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Carter-Williams L.B.FOUL (P1.T2),8:12 PM
+156,0,8,188,0021300678,SUB: Pressey FOR Bayless,,9:42,2,4.0,4,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:13 PM
+157,1,6,189,0021300678,,,9:38,2,5.0,4,1,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Carter-Williams P.FOUL (P2.T3),8:13 PM
+158,1,2,190,0021300678,MISS Pressey 19' Jump Shot,,9:30,2,4.0,0,0,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:13 PM
+159,0,4,191,0021300678,,,9:28,2,5.0,0,0,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dedmon REBOUND (Off:0 Def:2),8:13 PM
+160,5,1,192,0021300678,,,9:22,2,5.0,5,0,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,31 - 26,-5,Dedmon 2' Layup (2 PTS) (Turner 2 AST),8:13 PM
+161,27,6,193,0021300678,,,9:15,2,5.0,4,1,202343,Elliot Williams,PHI,Philadelphia,1610612755.0,76ers,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Williams Personal Block Foul (P1.T4),8:13 PM
+162,0,8,194,0021300678,SUB: Sullinger FOR Humphries,,9:15,2,4.0,4,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:14 PM
+163,0,8,195,0021300678,SUB: Bass FOR Olynyk,,9:15,2,4.0,4,0,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:14 PM
+164,1,2,196,0021300678,MISS Sullinger 16' Jump Shot,,9:03,2,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:14 PM
+165,0,4,197,0021300678,,,9:02,2,5.0,0,0,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dedmon REBOUND (Off:0 Def:3),8:14 PM
+166,8,1,198,0021300678,,,8:51,2,5.0,5,0,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,33 - 26,-7,Dedmon  Slam Dunk (4 PTS) (Turner 3 AST),8:14 PM
+167,2,6,199,0021300678,,,8:30,2,5.0,4,1,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Dedmon S.FOUL (P1.PN),8:15 PM
+168,4,9,200,0021300678,,,8:30,2,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:15 PM
+169,0,8,202,0021300678,,,8:30,2,5.0,5,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Anderson FOR Carter-Williams,8:17 PM
+170,0,8,203,0021300678,,,8:30,2,5.0,5,0,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Young FOR Dedmon,8:17 PM
+171,11,3,204,0021300678,Bass Free Throw 1 of 2 (3 PTS),,8:30,2,4.0,0,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,33 - 27,-6,,8:17 PM
+172,12,3,206,0021300678,Bass Free Throw 2 of 2 (4 PTS),,8:30,2,4.0,0,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,33 - 28,-5,,8:17 PM
+173,2,5,208,0021300678,Pressey STEAL (1 STL),,8:16,2,5.0,4,0,202343,Elliot Williams,PHI,Philadelphia,1610612755.0,76ers,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Williams Lost Ball Turnover (P1.T2),8:18 PM
+174,1,2,209,0021300678,MISS Sullinger 6' Jump Shot,,8:09,2,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:18 PM
+175,0,4,211,0021300678,Sullinger REBOUND (Off:1 Def:3),,8:08,2,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:18 PM
+176,4,2,210,0021300678,MISS Sullinger 1' Tip Shot,,8:07,2,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:18 PM
+177,0,4,213,0021300678,Sullinger REBOUND (Off:2 Def:3),,8:06,2,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:18 PM
+178,4,1,212,0021300678,Sullinger 1' Tip Shot (8 PTS),,8:06,2,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,33 - 30,-3,,8:18 PM
+179,1,1,214,0021300678,,,7:58,2,5.0,5,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,36 - 30,-6,Young 25' 3PT Jump Shot (5 PTS) (Anderson 1 AST),8:18 PM
+180,1,2,215,0021300678,MISS Sullinger 9' Jump Shot,,7:34,2,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:18 PM
+181,0,4,216,0021300678,CELTICS Rebound,,7:33,2,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,8:19 PM
+182,1,2,218,0021300678,MISS Pressey 19' Jump Shot,,7:18,2,4.0,0,0,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:19 PM
+183,0,4,219,0021300678,,,7:17,2,5.0,0,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Hawes REBOUND (Off:0 Def:2),8:19 PM
+184,4,6,220,0021300678,,,7:11,2,5.0,4,1,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Anderson OFF.Foul (P1),8:19 PM
+185,5,5,221,0021300678,,,7:11,2,5.0,0,1,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Anderson Foul Turnover (P1.T3),8:19 PM
+186,1,2,224,0021300678,MISS Johnson 12' Jump Shot,,7:02,2,4.0,0,0,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:20 PM
+187,0,4,225,0021300678,CELTICS Rebound,,7:00,2,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,8:20 PM
+188,3,6,226,0021300678,,,7:00,2,5.0,4,1,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Hawes L.B.FOUL (P2.PN),8:20 PM
+189,11,3,227,0021300678,MISS Bass Free Throw 1 of 2,,7:00,2,4.0,0,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:20 PM
+190,1,4,228,0021300678,CELTICS Rebound,,7:00,2,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,8:20 PM
+191,0,8,229,0021300678,SUB: Green FOR Johnson,,7:00,2,4.0,4,0,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:20 PM
+192,12,3,230,0021300678,Bass Free Throw 2 of 2 (5 PTS),,7:00,2,4.0,0,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,36 - 31,-5,,8:20 PM
+193,1,2,232,0021300678,,,6:40,2,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Turner 24' 3PT Jump Shot,8:21 PM
+194,0,4,234,0021300678,Sullinger REBOUND (Off:2 Def:4),,6:39,2,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:21 PM
+195,2,6,235,0021300678,,,6:37,2,5.0,4,1,202343,Elliot Williams,PHI,Philadelphia,1610612755.0,76ers,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Williams S.FOUL (P2.PN),8:21 PM
+196,11,3,236,0021300678,Wallace Free Throw 1 of 2 (1 PTS),,6:37,2,4.0,0,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,36 - 32,-4,,8:21 PM
+197,0,8,238,0021300678,,,6:37,2,5.0,5,0,202343,Elliot Williams,PHI,Philadelphia,1610612755.0,76ers,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Carter-Williams FOR Williams,8:21 PM
+198,12,3,239,0021300678,MISS Wallace Free Throw 2 of 2,,6:37,2,4.0,0,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:22 PM
+199,0,4,241,0021300678,,,6:36,2,5.0,0,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Hawes REBOUND (Off:0 Def:3),8:22 PM
+200,1,2,242,0021300678,Bass BLOCK (1 BLK),,6:26,2,5.0,0,4,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,,,MISS Turner 6' Jump Shot,8:22 PM
+201,0,4,243,0021300678,,,6:25,2,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,8:22 PM
+202,5,1,244,0021300678,,,6:20,2,5.0,5,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,38 - 32,-6,Carter-Williams 1' Layup (6 PTS) (Young 3 AST),8:22 PM
+203,1,2,245,0021300678,MISS Pressey 21' Jump Shot,,6:07,2,4.0,0,0,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:22 PM
+204,0,4,246,0021300678,,,6:06,2,5.0,0,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Anderson REBOUND (Off:0 Def:1),8:22 PM
+205,2,6,247,0021300678,Green S.FOUL (P1.T1),,5:58,2,4.0,5,1,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:23 PM
+206,1,9,248,0021300678,CELTICS Timeout: Regular (Full 2 Short 0),,5:58,2,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,8:23 PM
+207,11,3,250,0021300678,,,5:58,2,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,39 - 32,-7,Turner Free Throw 1 of 2 (3 PTS),8:25 PM
+208,12,3,252,0021300678,,,5:58,2,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,40 - 32,-8,Turner Free Throw 2 of 2 (4 PTS),8:25 PM
+209,5,1,254,0021300678,Bass 1' Layup (7 PTS) (Wallace 1 AST),,5:50,2,4.0,4,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,40 - 34,-6,,8:26 PM
+210,52,1,255,0021300678,,,5:36,2,5.0,5,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,42 - 34,-8,Young 1' Alley Oop Dunk (7 PTS) (Turner 4 AST),8:26 PM
+211,5,2,256,0021300678,MISS Bass 3' Layup,,5:12,2,4.0,0,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:26 PM
+212,0,4,257,0021300678,Bass REBOUND (Off:1 Def:1),,5:10,2,4.0,0,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:26 PM
+213,26,6,258,0021300678,Bass Offensive Charge Foul (P2.T2),,5:04,2,4.0,5,1,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:26 PM
+214,5,5,259,0021300678,Bass Foul Turnover (P1.T10),,5:04,2,4.0,0,1,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:26 PM
+215,0,8,260,0021300678,SUB: Bayless FOR Pressey,,5:04,2,4.0,4,0,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:27 PM
+216,5,1,261,0021300678,,,4:51,2,5.0,5,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,44 - 34,-10,Young 1' Layup (9 PTS) (Anderson 2 AST),8:27 PM
+217,1,2,262,0021300678,MISS Sullinger 25' 3PT Jump Shot,,4:21,2,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:27 PM
+218,0,4,263,0021300678,,,4:20,2,5.0,0,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Hawes REBOUND (Off:0 Def:4),8:27 PM
+219,1,1,264,0021300678,,,4:08,2,5.0,5,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,46 - 34,-12,Hawes 19' Jump Shot (10 PTS) (Anderson 3 AST),8:28 PM
+220,1,2,265,0021300678,MISS Green 20' Jump Shot,,3:46,2,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:28 PM
+221,0,4,266,0021300678,,,3:45,2,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Turner REBOUND (Off:0 Def:4),8:28 PM
+222,44,1,267,0021300678,,,3:39,2,5.0,5,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,48 - 34,-14,Anderson  Reverse Layup (6 PTS) (Turner 5 AST),8:28 PM
+223,2,9,268,0021300678,CELTICS Timeout: Short (Full 2 Short 1),,3:39,2,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,8:28 PM
+224,0,8,270,0021300678,,,3:39,2,5.0,5,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Dedmon FOR Hawes,8:29 PM
+225,0,8,271,0021300678,SUB: Humphries FOR Bass,,3:39,2,4.0,4,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:29 PM
+226,1,1,272,0021300678,Bayless 19' Jump Shot (2 PTS) (Sullinger 2 AST),,3:25,2,4.0,4,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,48 - 36,-12,,8:30 PM
+227,1,2,273,0021300678,,,3:01,2,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Young 24' 3PT Jump Shot,8:30 PM
+228,0,4,274,0021300678,Wallace REBOUND (Off:1 Def:4),,3:00,2,4.0,0,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:30 PM
+229,1,1,275,0021300678,Bayless 25' 3PT Jump Shot (5 PTS) (Wallace 2 AST),,2:46,2,4.0,4,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,48 - 39,-9,,8:30 PM
+230,1,5,276,0021300678,Sullinger STEAL (1 STL),,2:23,2,5.0,4,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Carter-Williams Bad Pass Turnover (P2.T4),8:31 PM
+231,5,2,277,0021300678,MISS Green 2' Layup,,2:17,2,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:31 PM
+232,0,4,278,0021300678,Humphries REBOUND (Off:1 Def:4),,2:16,2,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:31 PM
+233,1,1,279,0021300678,Humphries 15' Jump Shot (2 PTS),,2:14,2,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,48 - 41,-7,,8:31 PM
+234,1,9,280,0021300678,,,2:08,2,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.2 Short 0),8:31 PM
+235,1,2,282,0021300678,,,1:56,2,5.0,0,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Anderson 26' 3PT Jump Shot,8:33 PM
+236,0,4,283,0021300678,CELTICS Rebound,,1:55,2,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,8:33 PM
+237,2,6,284,0021300678,,,1:43,2,5.0,4,1,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Turner S.FOUL (P2.PN),8:34 PM
+238,11,3,285,0021300678,Humphries Free Throw 1 of 2 (3 PTS),,1:43,2,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,48 - 42,-6,,8:34 PM
+239,12,3,287,0021300678,Humphries Free Throw 2 of 2 (4 PTS),,1:43,2,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,48 - 43,-5,,8:34 PM
+240,63,1,289,0021300678,,,1:28,2,5.0,5,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,50 - 43,-7,Turner 7' Fadeaway Jumper (6 PTS) (Young 4 AST),8:35 PM
+241,5,1,290,0021300678,Sullinger 2' Layup (10 PTS),,1:08,2,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,50 - 45,-5,,8:35 PM
+242,42,1,291,0021300678,,,0:57,2,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,52 - 45,-7,Carter-Williams 2' Driving Layup (8 PTS),8:35 PM
+243,2,6,292,0021300678,Bayless S.FOUL (P2.T3),,0:57,2,4.0,5,1,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:35 PM
+244,0,8,293,0021300678,,,0:57,2,5.0,5,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Thompson FOR Turner,8:35 PM
+245,10,3,294,0021300678,,,0:57,2,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Carter-Williams Free Throw 1 of 1,8:36 PM
+246,0,4,296,0021300678,Sullinger REBOUND (Off:2 Def:5),,0:56,2,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:36 PM
+247,1,6,297,0021300678,,,0:39,2,5.0,4,1,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Dedmon P.FOUL (P2.PN),8:36 PM
+248,11,3,298,0021300678,Sullinger Free Throw 1 of 2 (11 PTS),,0:39,2,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,52 - 46,-6,,8:36 PM
+249,0,8,300,0021300678,,,0:39,2,5.0,5,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Wroten FOR Carter-Williams,8:37 PM
+250,12,3,301,0021300678,Sullinger Free Throw 2 of 2 (12 PTS),,0:39,2,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,52 - 47,-5,,8:37 PM
+251,2,9,304,0021300678,,,0:33,2,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Short (Reg.2 Short 1),8:37 PM
+252,0,8,306,0021300678,SUB: Bass FOR Sullinger,,0:33,2,4.0,4,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:38 PM
+253,2,6,307,0021300678,Bass S.FOUL (P3.PN),,0:30,2,4.0,5,1,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:39 PM
+254,11,3,308,0021300678,,,0:30,2,5.0,0,0,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Thompson Free Throw 1 of 2,8:39 PM
+255,1,4,309,0021300678,,,0:30,2,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,8:39 PM
+256,0,8,310,0021300678,SUB: Sullinger FOR Bass,,0:30,2,4.0,4,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:39 PM
+257,12,3,311,0021300678,,,0:30,2,5.0,0,0,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,53 - 47,-6,Thompson Free Throw 2 of 2 (4 PTS),8:39 PM
+258,1,2,313,0021300678,MISS Bayless 23' Jump Shot,,0:07,2,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:40 PM
+259,0,4,314,0021300678,Humphries REBOUND (Off:2 Def:4),,0:06,2,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:40 PM
+260,1,5,315,0021300678,Humphries Bad Pass Turnover (P1.T11),,0:04,2,4.0,5,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Wroten STEAL (3 STL),8:40 PM
+261,1,5,316,0021300678,Bayless STEAL (1 STL),,0:00,2,5.0,4,0,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Wroten Bad Pass Turnover (P1.T5),8:40 PM
+262,0,13,317,0021300678,,,0:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,53 - 47,-6,,8:40 PM
+263,0,12,319,0021300678,,,12:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,53 - 47,-6,,8:56 PM
+264,1,2,320,0021300678,MISS Bass 16' Jump Shot,,11:48,3,4.0,0,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:56 PM
+265,0,4,321,0021300678,,,11:47,3,5.0,0,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Anderson REBOUND (Off:0 Def:2),8:56 PM
+266,78,1,322,0021300678,,,11:37,3,5.0,5,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,55 - 47,-8,Anderson 12' Floating Jump Shot (8 PTS) (Turner 6 AST),8:56 PM
+267,1,1,323,0021300678,Bayless 25' 3PT Jump Shot (8 PTS) (Green 3 AST),,11:21,3,4.0,4,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,55 - 50,-5,,8:56 PM
+268,1,1,324,0021300678,,,11:02,3,5.0,5,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,58 - 50,-8,Young 25' 3PT Jump Shot (12 PTS) (Anderson 4 AST),8:57 PM
+269,11,5,327,0021300678,CELTICS Turnover: Shot Clock (T#12),,10:34,3,2.0,0,1,1610612738,,,,,,0,,,,,,0,,,,,,,,,8:58 PM
+270,1,1,328,0021300678,,,10:20,3,5.0,5,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,61 - 50,-11,Hawes 25' 3PT Jump Shot (13 PTS) (Turner 7 AST),8:58 PM
+271,2,6,329,0021300678,,,10:01,3,5.0,4,1,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Hawes S.FOUL (P3.T1),8:58 PM
+272,11,3,330,0021300678,Sullinger Free Throw 1 of 2 (13 PTS),,10:01,3,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,61 - 51,-10,,8:59 PM
+273,12,3,332,0021300678,Sullinger Free Throw 2 of 2 (14 PTS),,10:01,3,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,61 - 52,-9,,8:59 PM
+274,1,2,334,0021300678,,,9:42,3,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Turner 24' 3PT Jump Shot,8:59 PM
+275,0,4,335,0021300678,Wallace REBOUND (Off:1 Def:5),,9:41,3,4.0,0,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,8:59 PM
+276,5,1,336,0021300678,Bass 1' Layup (9 PTS) (Wallace 3 AST),,9:32,3,4.0,4,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,61 - 54,-7,,8:59 PM
+277,1,2,337,0021300678,,,9:19,3,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Carter-Williams 8' Jump Shot,9:00 PM
+278,0,4,338,0021300678,,,9:18,3,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,9:00 PM
+279,3,6,339,0021300678,Wallace L.B.FOUL (P1.T1),,9:18,3,4.0,5,1,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:00 PM
+280,49,2,340,0021300678,Wallace BLOCK (2 BLK),,9:07,3,5.0,0,4,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,,,MISS Hawes 1' Driving Dunk,9:00 PM
+281,0,4,341,0021300678,,,9:05,3,5.0,0,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Anderson REBOUND (Off:1 Def:2),9:00 PM
+282,1,2,342,0021300678,,,9:02,3,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Turner 25' 3PT Jump Shot,9:00 PM
+283,0,4,343,0021300678,Bass REBOUND (Off:1 Def:2),,9:01,3,4.0,0,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:00 PM
+284,2,5,344,0021300678,Sullinger Lost Ball Turnover (P3.T13),,8:53,3,4.0,5,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Turner STEAL (1 STL),9:01 PM
+285,5,2,345,0021300678,,,8:48,3,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Carter-Williams 1' Layup,9:01 PM
+286,0,4,346,0021300678,Bass REBOUND (Off:1 Def:3),,8:46,3,4.0,0,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:01 PM
+287,1,2,347,0021300678,MISS Bayless 18' Jump Shot,,8:36,3,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:01 PM
+288,0,4,348,0021300678,Sullinger REBOUND (Off:3 Def:5),,8:35,3,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:01 PM
+289,72,1,349,0021300678,Sullinger 2' Putback Layup (16 PTS),,8:34,3,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,61 - 56,-5,,9:01 PM
+290,1,9,350,0021300678,,,8:33,3,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.3 Short 1),9:01 PM
+291,2,5,353,0021300678,Bayless STEAL (2 STL),,8:13,3,5.0,4,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Carter-Williams Lost Ball Turnover (P3.T6),9:04 PM
+292,7,1,354,0021300678,Bass  Dunk (11 PTS) (Green 4 AST),,8:08,3,4.0,4,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,61 - 58,-3,,9:04 PM
+293,5,1,355,0021300678,,,7:57,3,5.0,5,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,63 - 58,-5,Hawes 1' Layup (15 PTS) (Young 5 AST),9:04 PM
+294,3,2,356,0021300678,MISS Sullinger 10' Hook Shot,,7:33,3,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:04 PM
+295,0,4,357,0021300678,,,7:32,3,5.0,0,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Hawes REBOUND (Off:0 Def:5),9:04 PM
+296,1,2,358,0021300678,,,7:23,3,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Carter-Williams 8' Jump Shot,9:04 PM
+297,0,4,359,0021300678,Green REBOUND (Off:1 Def:3),,7:22,3,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:04 PM
+298,79,1,360,0021300678,Bayless 18' Pullup Jump Shot (10 PTS),,7:03,3,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,63 - 60,-3,,9:05 PM
+299,1,6,361,0021300678,Sullinger P.FOUL (P2.T2),,6:44,3,4.0,5,1,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:05 PM
+300,0,8,362,0021300678,,,6:44,3,5.0,5,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Thompson FOR Anderson,9:05 PM
+301,0,8,363,0021300678,,,6:44,3,5.0,5,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Allen FOR Young,9:05 PM
+302,46,2,364,0021300678,,,6:31,3,5.0,0,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Hawes 13' Running Jump Shot,9:06 PM
+303,0,4,365,0021300678,,,6:29,3,5.0,0,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Allen REBOUND (Off:5 Def:0),9:06 PM
+304,73,1,366,0021300678,,,6:19,3,5.0,5,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,65 - 60,-5,Turner 2' Driving Reverse Layup (8 PTS) (Hawes 1 AST),9:06 PM
+305,65,1,367,0021300678,Sullinger 1' Jump Hook Shot (18 PTS) (Green 5 AST),,6:00,3,4.0,4,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,65 - 62,-3,,9:06 PM
+306,1,1,368,0021300678,,,5:50,3,5.0,5,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,68 - 62,-6,Hawes 25' 3PT Jump Shot (18 PTS) (Carter-Williams 5 AST),9:06 PM
+307,79,2,369,0021300678,MISS Bayless 18' Pullup Jump Shot,,5:33,3,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:07 PM
+308,0,4,370,0021300678,Sullinger REBOUND (Off:4 Def:5),,5:32,3,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:07 PM
+309,1,2,371,0021300678,MISS Sullinger 8' Jump Shot,,5:26,3,4.0,0,5,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,,,Carter-Williams BLOCK (2 BLK),9:07 PM
+310,0,4,372,0021300678,CELTICS Rebound,,5:25,3,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,9:07 PM
+311,0,8,373,0021300678,SUB: Humphries FOR Bass,,5:25,3,4.0,4,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:07 PM
+312,0,8,374,0021300678,,,5:25,3,5.0,5,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Dedmon FOR Hawes,9:07 PM
+313,3,2,375,0021300678,MISS Sullinger 7' Hook Shot,,5:12,3,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:07 PM
+314,0,4,376,0021300678,,,5:11,3,5.0,0,0,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dedmon REBOUND (Off:0 Def:4),9:07 PM
+315,1,2,377,0021300678,,,4:49,3,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Turner 25' 3PT Jump Shot,9:08 PM
+316,0,4,378,0021300678,,,4:48,3,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,9:08 PM
+317,0,8,379,0021300678,SUB: Pressey FOR Green,,4:48,3,4.0,4,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:08 PM
+318,0,8,380,0021300678,,,4:48,3,5.0,5,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Wroten FOR Carter-Williams,9:08 PM
+319,0,8,381,0021300678,SUB: Olynyk FOR Sullinger,,4:48,3,4.0,4,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:09 PM
+320,4,6,382,0021300678,,,4:47,3,5.0,4,1,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Dedmon OFF.Foul (P3),9:09 PM
+321,5,5,383,0021300678,,,4:47,3,5.0,0,1,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dedmon Foul Turnover (P1.T7),9:09 PM
+322,2,6,384,0021300678,,,4:39,3,5.0,4,1,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Allen S.FOUL (P3.T2),9:09 PM
+323,11,3,385,0021300678,MISS Humphries Free Throw 1 of 2,,4:39,3,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:10 PM
+324,1,4,386,0021300678,CELTICS Rebound,,4:39,3,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,9:10 PM
+325,12,3,387,0021300678,Humphries Free Throw 2 of 2 (5 PTS),,4:39,3,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,68 - 63,-5,,9:10 PM
+326,1,2,389,0021300678,,,4:24,3,5.0,0,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Allen 21' Jump Shot,9:10 PM
+327,0,4,390,0021300678,Wallace REBOUND (Off:1 Def:6),,4:23,3,4.0,0,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:10 PM
+328,1,2,391,0021300678,MISS Olynyk  3PT Jump Shot,,4:11,3,4.0,0,0,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:10 PM
+329,0,4,392,0021300678,,,4:10,3,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Turner REBOUND (Off:0 Def:5),9:10 PM
+330,47,1,393,0021300678,,,3:59,3,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,70 - 63,-7,Turner 8' Turnaround Jump Shot (10 PTS),9:11 PM
+331,1,5,394,0021300678,Pressey Bad Pass Turnover (P2.T14),,3:43,3,4.0,0,0,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:11 PM
+332,56,2,395,0021300678,,,3:25,3,5.0,0,0,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Dedmon 10' Running Hook Shot,9:11 PM
+333,0,4,396,0021300678,CELTICS Rebound,,3:24,3,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,9:11 PM
+334,1,2,398,0021300678,MISS Bayless 25' 3PT Jump Shot,,3:05,3,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:12 PM
+335,0,4,399,0021300678,Wallace REBOUND (Off:2 Def:6),,3:03,3,4.0,0,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:12 PM
+336,2,6,400,0021300678,,,2:47,3,5.0,4,1,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Allen S.FOUL (P4.T3),9:12 PM
+337,1,9,401,0021300678,CELTICS Timeout: Regular (Full 3 Short 1),,2:47,3,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,9:12 PM
+338,0,8,403,0021300678,,,2:47,3,5.0,5,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Young FOR Turner,9:15 PM
+339,0,8,404,0021300678,,,2:47,3,5.0,5,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,202343,Elliot Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Williams FOR Allen,9:15 PM
+340,11,3,405,0021300678,Humphries Free Throw 1 of 2 (6 PTS),,2:47,3,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,70 - 64,-6,,9:15 PM
+341,12,3,407,0021300678,Humphries Free Throw 2 of 2 (7 PTS),,2:47,3,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,70 - 65,-5,,9:15 PM
+342,75,1,409,0021300678,,,2:23,3,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,72 - 65,-7,Young 3' Driving Finger Roll Layup (14 PTS),9:16 PM
+343,7,1,410,0021300678,Humphries 1' Dunk (9 PTS) (Olynyk 1 AST),,2:10,3,4.0,4,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,72 - 67,-5,,9:16 PM
+344,1,2,411,0021300678,,,1:50,3,5.0,0,0,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Wroten 25' 3PT Jump Shot,9:16 PM
+345,0,4,412,0021300678,Humphries REBOUND (Off:2 Def:5),,1:49,3,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:16 PM
+346,2,6,413,0021300678,,,1:32,3,5.0,4,1,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Young S.FOUL (P1.T4),9:16 PM
+347,11,3,414,0021300678,Humphries Free Throw 1 of 2 (10 PTS),,1:32,3,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,72 - 68,-4,,9:17 PM
+348,0,8,416,0021300678,SUB: Johnson FOR Bayless,,1:32,3,4.0,4,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:17 PM
+349,12,3,417,0021300678,Humphries Free Throw 2 of 2 (11 PTS),,1:32,3,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,72 - 69,-3,,9:17 PM
+350,42,2,419,0021300678,,,1:09,3,5.0,0,0,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Wroten 2' Driving Layup,9:18 PM
+351,0,4,420,0021300678,Johnson REBOUND (Off:0 Def:4),,1:08,3,4.0,0,0,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:18 PM
+352,4,5,421,0021300678,Pressey Traveling Turnover (P3.T15),,1:00,3,4.0,0,1,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:18 PM
+353,2,5,423,0021300678,Johnson STEAL (1 STL),,0:41,3,5.0,4,0,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Wroten Lost Ball Turnover (P2.T8),9:19 PM
+354,5,2,424,0021300678,MISS Pressey 2' Layup,,0:35,3,4.0,0,0,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:19 PM
+355,0,4,426,0021300678,Olynyk REBOUND (Off:1 Def:0),,0:34,3,4.0,0,0,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:19 PM
+356,4,1,425,0021300678,Olynyk 1' Tip Shot (7 PTS),,0:33,3,4.0,0,0,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,72 - 71,-1,,9:19 PM
+357,42,1,427,0021300678,,,0:23,3,5.0,0,0,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,74 - 71,-3,Wroten 1' Driving Layup (6 PTS),9:19 PM
+358,26,6,428,0021300678,Pressey Offensive Charge Foul (P1.T3),,0:04,3,4.0,5,1,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:20 PM
+359,5,5,429,0021300678,Pressey Foul Turnover (P4.T16),,0:04,3,4.0,0,1,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:20 PM
+360,28,6,430,0021300678,Johnson Personal Take Foul (P1.PN),,0:03,3,4.0,5,1,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:20 PM
+361,1,2,431,0021300678,,,0:01,3,5.0,0,0,202343,Elliot Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Williams 19' Jump Shot,9:20 PM
+362,0,4,432,0021300678,Johnson REBOUND (Off:0 Def:5),,0:00,3,4.0,0,0,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:20 PM
+363,0,13,433,0021300678,,,0:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,74 - 71,-3,,9:20 PM
+364,0,12,435,0021300678,,,12:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,74 - 71,-3,,9:23 PM
+365,1,2,436,0021300678,,,11:43,4,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Young 18' Jump Shot,9:23 PM
+366,0,4,437,0021300678,Olynyk REBOUND (Off:1 Def:1),,11:42,4,4.0,0,0,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:23 PM
+367,1,1,438,0021300678,Johnson  3PT Jump Shot (3 PTS) (Olynyk 2 AST),,11:29,4,4.0,4,0,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,74 - 74,TIE,,9:24 PM
+368,46,2,439,0021300678,,,11:10,4,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Young 7' Running Jump Shot,9:24 PM
+369,0,4,440,0021300678,Sullinger REBOUND (Off:4 Def:6),,11:09,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:24 PM
+370,84,1,441,0021300678,Pressey 4' Running Bank Shot (2 PTS),,11:03,4,4.0,0,0,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,74 - 76,2,,9:24 PM
+371,71,1,442,0021300678,,,10:41,4,5.0,0,0,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,76 - 76,TIE,Wroten 2' Finger Roll Layup (8 PTS),9:24 PM
+372,1,6,443,0021300678,,,10:30,4,5.0,4,1,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Thompson P.FOUL (P3.T1),9:25 PM
+373,0,8,444,0021300678,,,10:30,4,5.0,5,0,203473,Dewayne Dedmon,PHI,Philadelphia,1610612755.0,76ers,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Hawes FOR Dedmon,9:25 PM
+374,1,1,445,0021300678,Green 24' 3PT Jump Shot (16 PTS) (Johnson 3 AST),,10:20,4,4.0,4,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,76 - 79,3,,9:25 PM
+375,5,1,446,0021300678,,,10:10,4,5.0,0,0,202343,Elliot Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,78 - 79,1,Williams 3' Layup (2 PTS),9:25 PM
+376,65,1,447,0021300678,Sullinger 5' Jump Hook Shot (20 PTS),,9:55,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,78 - 81,3,,9:25 PM
+377,1,5,448,0021300678,Pressey STEAL (2 STL),,9:51,4,5.0,4,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Hawes Bad Pass Turnover (P1.T9),9:26 PM
+378,1,2,449,0021300678,MISS Green 22' Jump Shot,,9:45,4,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:26 PM
+379,0,4,450,0021300678,,,9:44,4,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Young REBOUND (Off:1 Def:2),9:26 PM
+380,1,2,451,0021300678,,,9:35,4,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Young  3PT Jump Shot,9:26 PM
+381,0,4,452,0021300678,Pressey REBOUND (Off:0 Def:1),,9:34,4,4.0,0,0,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:26 PM
+382,1,1,453,0021300678,Johnson  3PT Jump Shot (6 PTS) (Olynyk 3 AST),,9:20,4,4.0,4,0,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,78 - 84,6,,9:26 PM
+383,1,9,454,0021300678,,,9:17,4,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.4 Short 1),9:26 PM
+384,0,8,457,0021300678,,,9:17,4,5.0,5,0,203138,Hollis Thompson,PHI,Philadelphia,1610612755.0,76ers,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Carter-Williams FOR Thompson,9:28 PM
+385,0,8,458,0021300678,,,9:17,4,5.0,5,0,203100,Tony Wroten,PHI,Philadelphia,1610612755.0,76ers,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Anderson FOR Wroten,9:28 PM
+386,0,8,459,0021300678,,,9:17,4,5.0,5,0,202343,Elliot Williams,PHI,Philadelphia,1610612755.0,76ers,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Turner FOR Williams,9:28 PM
+387,0,8,461,0021300678,,,9:05,4,5.0,5,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Allen FOR Young,9:29 PM
+388,63,2,462,0021300678,,,8:56,4,5.0,0,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Hawes 21' Fadeaway Jumper,9:29 PM
+389,0,4,463,0021300678,CELTICS Rebound,,8:55,4,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,9:29 PM
+390,1,2,464,0021300678,MISS Olynyk 19' Jump Shot,,8:42,4,4.0,0,0,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:30 PM
+391,0,4,466,0021300678,Sullinger REBOUND (Off:5 Def:6),,8:41,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:30 PM
+392,4,2,465,0021300678,MISS Sullinger 2' Tip Shot,,8:41,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:30 PM
+393,0,4,467,0021300678,,,8:39,4,5.0,0,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Hawes REBOUND (Off:0 Def:6),9:30 PM
+394,5,2,468,0021300678,,,8:28,4,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Carter-Williams 2' Layup,9:30 PM
+395,0,4,469,0021300678,Olynyk REBOUND (Off:1 Def:2),,8:28,4,4.0,0,0,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:30 PM
+396,5,2,470,0021300678,MISS Green 2' Layup,,8:22,4,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:30 PM
+397,0,4,471,0021300678,,,8:20,4,5.0,0,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Hawes REBOUND (Off:0 Def:7),9:30 PM
+398,5,2,472,0021300678,,,8:15,4,5.0,0,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Anderson 2' Layup,9:30 PM
+399,0,4,473,0021300678,Olynyk REBOUND (Off:1 Def:3),,8:14,4,4.0,0,0,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:30 PM
+400,5,1,474,0021300678,Sullinger 1' Layup (22 PTS) (Johnson 4 AST),,8:05,4,4.0,4,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,78 - 86,8,,9:30 PM
+401,5,2,475,0021300678,Olynyk BLOCK (2 BLK),,7:50,4,5.0,0,4,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,,,MISS Carter-Williams 3' Layup,9:30 PM
+402,0,4,476,0021300678,Green REBOUND (Off:1 Def:4),,7:48,4,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:30 PM
+403,1,2,477,0021300678,MISS Pressey 26' 3PT Jump Shot,,7:39,4,4.0,0,0,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:31 PM
+404,0,4,478,0021300678,,,7:38,4,5.0,0,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Anderson REBOUND (Off:1 Def:3),9:31 PM
+405,1,6,479,0021300678,Sullinger P.FOUL (P3.T1),,7:38,4,4.0,5,1,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:31 PM
+406,1,1,480,0021300678,,,7:22,4,5.0,5,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,81 - 86,5,Anderson  3PT Jump Shot (11 PTS) (Hawes 2 AST),9:31 PM
+407,78,1,481,0021300678,Olynyk 13' Floating Jump Shot (9 PTS) (Pressey 2 AST),,7:02,4,4.0,4,0,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,0,,,,,,81 - 88,7,,9:31 PM
+408,5,1,483,0021300678,,,6:36,4,5.0,5,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,83 - 88,5,Hawes 1' Layup (20 PTS) (Carter-Williams 6 AST),9:32 PM
+409,1,5,484,0021300678,Pressey Bad Pass Turnover (P5.T17),,6:21,4,4.0,5,0,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Turner STEAL (2 STL),9:32 PM
+410,2,6,485,0021300678,Pressey S.FOUL (P2.T2),,6:11,4,4.0,5,1,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:32 PM
+411,11,3,486,0021300678,,,6:11,4,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Turner Free Throw 1 of 2,9:33 PM
+412,1,4,487,0021300678,,,6:11,4,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,9:33 PM
+413,0,8,488,0021300678,SUB: Bayless FOR Pressey,,6:11,4,4.0,4,0,203515,Phil Pressey,BOS,Boston,1610612738.0,Celtics,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:33 PM
+414,12,3,489,0021300678,,,6:11,4,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,84 - 88,4,Turner Free Throw 2 of 2 (11 PTS),9:33 PM
+415,1,6,492,0021300678,,,6:02,4,5.0,4,1,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Carter-Williams P.FOUL (P3.T2),9:33 PM
+416,0,8,493,0021300678,SUB: Bass FOR Sullinger,,6:02,4,4.0,4,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:33 PM
+417,1,2,494,0021300678,MISS Johnson 18' Jump Shot,,5:53,4,4.0,0,0,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:34 PM
+418,0,4,495,0021300678,Bass REBOUND (Off:2 Def:3),,5:50,4,4.0,0,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:34 PM
+419,1,2,496,0021300678,MISS Johnson 25' 3PT Jump Shot,,5:45,4,4.0,0,0,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:34 PM
+420,0,4,497,0021300678,,,5:44,4,5.0,0,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Anderson REBOUND (Off:1 Def:4),9:34 PM
+421,5,1,498,0021300678,,,5:36,4,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,86 - 88,2,Turner 1' Layup (13 PTS),9:34 PM
+422,63,1,499,0021300678,Green 16' Fadeaway Jumper (18 PTS),,5:23,4,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,86 - 90,4,,9:34 PM
+423,1,5,500,0021300678,Bayless STEAL (3 STL),,5:01,4,5.0,4,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Allen Bad Pass Turnover (P1.T10),9:35 PM
+424,1,2,501,0021300678,MISS Olynyk 5' Jump Shot,,4:40,4,4.0,0,0,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:35 PM
+425,0,4,502,0021300678,,,4:38,4,5.0,0,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Anderson REBOUND (Off:1 Def:5),9:35 PM
+426,49,1,503,0021300678,,,4:31,4,5.0,5,0,202341,James Anderson,PHI,Philadelphia,1610612755.0,76ers,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,88 - 90,2,Anderson 1' Driving Dunk (13 PTS) (Carter-Williams 7 AST),9:35 PM
+427,1,9,504,0021300678,CELTICS Timeout: Regular (Full 4 Short 1),,4:31,4,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,9:35 PM
+428,0,8,506,0021300678,,,4:31,4,5.0,5,0,202730,Lavoy Allen,PHI,Philadelphia,1610612755.0,76ers,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Young FOR Allen,9:37 PM
+429,0,8,507,0021300678,SUB: Sullinger FOR Olynyk,,4:31,4,4.0,4,0,203482,Kelly Olynyk,BOS,Boston,1610612738.0,Celtics,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:38 PM
+430,1,2,508,0021300678,MISS Sullinger 13' Jump Shot,,4:16,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:38 PM
+431,0,4,509,0021300678,,,4:15,4,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Carter-Williams REBOUND (Off:0 Def:3),9:38 PM
+432,1,6,510,0021300678,Bayless P.FOUL (P3.T3),,4:07,4,4.0,5,1,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:38 PM
+433,7,1,511,0021300678,,,3:59,4,5.0,5,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,90 - 90,TIE,Young  Dunk (16 PTS) (Turner 8 AST),9:38 PM
+434,65,2,512,0021300678,MISS Sullinger 5' Jump Hook Shot,,3:38,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:39 PM
+435,0,4,513,0021300678,,,3:37,4,5.0,0,0,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Hawes REBOUND (Off:0 Def:8),9:39 PM
+436,63,2,514,0021300678,,,3:27,4,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Turner 5' Fadeaway Jumper,9:39 PM
+437,0,4,515,0021300678,Sullinger REBOUND (Off:5 Def:7),,3:26,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:39 PM
+438,1,2,516,0021300678,MISS Bass 6' Jump Shot,,3:09,4,4.0,0,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:39 PM
+439,0,4,517,0021300678,Sullinger REBOUND (Off:6 Def:7),,3:08,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:39 PM
+440,5,2,518,0021300678,MISS Sullinger 2' Layup,,3:07,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:39 PM
+441,0,4,519,0021300678,Sullinger REBOUND (Off:7 Def:7),,3:06,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:39 PM
+442,2,6,520,0021300678,,,3:06,4,5.0,4,1,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Hawes S.FOUL (P4.T3),9:39 PM
+443,11,3,521,0021300678,Sullinger Free Throw 1 of 2 (23 PTS),,3:06,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,90 - 91,1,,9:40 PM
+444,0,8,523,0021300678,SUB: Wallace FOR Johnson,,3:06,4,4.0,4,0,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:40 PM
+445,12,3,524,0021300678,Sullinger Free Throw 2 of 2 (24 PTS),,3:06,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,90 - 92,2,,9:40 PM
+446,7,2,526,0021300678,Bass BLOCK (2 BLK),,2:53,4,5.0,0,4,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,,,MISS Hawes 1' Dunk,9:40 PM
+447,0,4,527,0021300678,Sullinger REBOUND (Off:7 Def:8),,2:51,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:40 PM
+448,1,5,528,0021300678,Green Bad Pass Turnover (P3.T18),,2:40,4,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:41 PM
+449,4,9,529,0021300678,,,2:40,4,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:41 PM
+450,2,6,531,0021300678,Bayless S.FOUL (P4.T4),,2:29,4,4.0,5,1,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:43 PM
+451,11,3,532,0021300678,,,2:29,4,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,91 - 92,1,Carter-Williams Free Throw 1 of 2 (9 PTS),9:44 PM
+452,0,8,534,0021300678,SUB: Johnson FOR Wallace,,2:29,4,4.0,4,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,203187,Chris Johnson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:44 PM
+453,0,8,535,0021300678,SUB: Humphries FOR Bass,,2:29,4,4.0,4,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:44 PM
+454,12,3,536,0021300678,,,2:29,4,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Carter-Williams Free Throw 2 of 2,9:44 PM
+455,0,4,538,0021300678,Sullinger REBOUND (Off:7 Def:9),,2:28,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:44 PM
+456,1,2,539,0021300678,MISS Green 21' Jump Shot,,2:11,4,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:44 PM
+457,0,4,540,0021300678,,,2:10,4,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Turner REBOUND (Off:0 Def:6),9:44 PM
+458,1,2,541,0021300678,,,2:03,4,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Carter-Williams 24' 3PT Jump Shot,9:44 PM
+459,0,4,542,0021300678,Bayless REBOUND (Off:0 Def:3),,2:01,4,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:44 PM
+460,1,2,543,0021300678,MISS Bayless 25' 3PT Jump Shot,,1:50,4,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:45 PM
+461,0,4,544,0021300678,Green REBOUND (Off:2 Def:4),,1:49,4,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:45 PM
+462,2,6,545,0021300678,,,1:40,4,5.0,4,1,201150,Spencer Hawes,PHI,Philadelphia,1610612755.0,76ers,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Hawes S.FOUL (P5.T4),9:45 PM
+463,11,3,546,0021300678,MISS Bayless Free Throw 1 of 2,,1:40,4,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:45 PM
+464,1,4,547,0021300678,CELTICS Rebound,,1:40,4,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,9:45 PM
+465,0,8,548,0021300678,SUB: Bass FOR Green,,1:40,4,4.0,4,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:45 PM
+466,0,8,549,0021300678,SUB: Wallace FOR Humphries,,1:40,4,4.0,4,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:46 PM
+467,12,3,550,0021300678,MISS Bayless Free Throw 2 of 2,,1:40,4,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:46 PM
+468,0,4,552,0021300678,,,1:39,4,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Young REBOUND (Off:1 Def:3),9:46 PM
+469,2,6,553,0021300678,Sullinger S.FOUL (P4.PN),,1:23,4,4.0,5,1,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:46 PM
+470,11,3,554,0021300678,,,1:23,4,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Young Free Throw 1 of 2,9:46 PM
+471,1,4,555,0021300678,,,1:23,4,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,9:46 PM
+472,0,8,556,0021300678,SUB: Humphries FOR Bass,,1:23,4,4.0,4,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:47 PM
+473,0,8,557,0021300678,SUB: Green FOR Wallace,,1:23,4,4.0,4,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:47 PM
+474,12,3,558,0021300678,,,1:23,4,5.0,0,0,201152,Thaddeus Young,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Young Free Throw 2 of 2,9:47 PM
+475,0,4,560,0021300678,Humphries REBOUND (Off:2 Def:6),,1:23,4,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:47 PM
+476,1,2,561,0021300678,MISS Sullinger 14' Jump Shot,,1:04,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:47 PM
+477,0,4,562,0021300678,,,1:02,4,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Carter-Williams REBOUND (Off:0 Def:4),9:47 PM
+478,1,6,563,0021300678,Sullinger P.FOUL (P5.PN),,1:01,4,4.0,5,1,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:47 PM
+479,11,3,564,0021300678,,,1:01,4,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Carter-Williams Free Throw 1 of 2,9:48 PM
+480,1,4,565,0021300678,,,1:01,4,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,9:48 PM
+481,12,3,566,0021300678,,,1:01,4,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,92 - 92,TIE,Carter-Williams Free Throw 2 of 2 (10 PTS),9:48 PM
+482,63,2,568,0021300678,MISS Green 14' Fadeaway Jumper,,0:44,4,4.0,0,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:48 PM
+483,0,4,569,0021300678,Sullinger REBOUND (Off:8 Def:9),,0:43,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:48 PM
+484,5,2,570,0021300678,MISS Sullinger 1' Layup,,0:43,4,4.0,0,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:48 PM
+485,0,4,572,0021300678,Humphries REBOUND (Off:3 Def:6),,0:43,4,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:48 PM
+486,4,1,571,0021300678,Humphries  Tip Shot (13 PTS),,0:42,4,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,92 - 94,2,,9:48 PM
+487,1,9,573,0021300678,,,0:42,4,3.0,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.5 Short 1),9:48 PM
+488,0,8,575,0021300678,SUB: Bass FOR Green,,0:42,4,4.0,4,0,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:50 PM
+489,0,8,576,0021300678,SUB: Wallace FOR Sullinger,,0:42,4,4.0,4,0,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:50 PM
+490,1,6,577,0021300678,Bass P.FOUL (P4.PN),,0:34,4,4.0,5,1,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:51 PM
+491,11,3,578,0021300678,,,0:34,4,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,93 - 94,1,Turner Free Throw 1 of 2 (14 PTS),9:51 PM
+492,0,8,580,0021300678,SUB: Sullinger FOR Bass,,0:34,4,4.0,4,0,101138,Brandon Bass,BOS,Boston,1610612738.0,Celtics,203096,Jared Sullinger,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:51 PM
+493,12,3,581,0021300678,,,0:34,4,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Turner Free Throw 2 of 2,9:51 PM
+494,0,4,583,0021300678,Bayless REBOUND (Off:0 Def:4),,0:33,4,4.0,0,0,201573,Jerryd Bayless,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:51 PM
+495,2,9,584,0021300678,CELTICS Timeout: Short (Full 4 Short 2),,0:20,4,2.0,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,9:52 PM
+496,0,8,586,0021300678,SUB: Green FOR Wallace,,0:20,4,4.0,4,0,2222,Gerald Wallace,BOS,Boston,1610612738.0,Celtics,201145,Jeff Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:52 PM
+497,1,2,587,0021300678,MISS Humphries 16' Jump Shot,,0:11,4,4.0,0,0,2743,Kris Humphries,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,9:53 PM
+498,0,4,588,0021300678,,,0:10,4,5.0,0,0,203487,Michael Carter-Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Carter-Williams REBOUND (Off:0 Def:5),9:53 PM
+499,63,1,589,0021300678,,,0:00,4,5.0,0,0,202323,Evan Turner,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,95 - 94,-1,Turner 7' Fadeaway Jumper (16 PTS),9:53 PM
+500,0,18,591,0021300678,,,0:00,4,,0,1,589,,,,,,0,,,,,,0,,,,,,,,,9:53 PM
+501,0,13,590,0021300678,,,0:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,95 - 94,-1,,9:53 PM

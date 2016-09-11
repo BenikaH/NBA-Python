@@ -1,0 +1,451 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0029900501,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:12 PM
+1,0,10,1,0029900501,Jump Ball Garnett vs. McCarty: Tip to Walker,,12:00,1,4,5,5,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,,,,12:12 PM
+2,6,1,2,0029900501,,,11:57,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,2 - 0,-2,Walker  Driving Layup (2 PTS),12:12 PM
+3,2,7,3,0029900501,,,11:44,1,5,0,1,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker Violation:Defensive Goaltending,12:13 PM
+4,1,1,4,0029900501,Brandon 16' Jump Shot (2 PTS),,11:34,1,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,2 - 2,TIE,,12:13 PM
+5,5,2,5,0029900501,Garnett BLOCK (1 BLK),,11:21,1,5,0,4,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,,,MISS Potapenko  Layup,12:13 PM
+6,0,4,6,0029900501,Brandon REBOUND (Off:0 Def:1),,11:17,1,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:13 PM
+7,1,2,7,0029900501,MISS Mitchell 19' Jump Shot,,11:12,1,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:13 PM
+8,0,4,8,0029900501,,,11:09,1,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko REBOUND (Off:0 Def:1),12:13 PM
+9,1,2,9,0029900501,,,10:58,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 6' Jump Shot,12:14 PM
+10,0,4,10,0029900501,Garnett REBOUND (Off:0 Def:1),,10:56,1,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:14 PM
+11,2,6,11,0029900501,,,10:54,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker S.FOUL (P1.T1),12:14 PM
+12,11,3,12,0029900501,Mitchell Free Throw 1 of 2 (1 PTS),,10:54,1,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,2 - 3,1,,12:14 PM
+13,12,3,13,0029900501,Mitchell Free Throw 2 of 2 (2 PTS),,10:54,1,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,2 - 4,2,,12:14 PM
+14,1,1,14,0029900501,,,10:39,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,4 - 4,TIE,Pierce 18' Jump Shot (2 PTS),12:15 PM
+15,1,1,15,0029900501,Garnett 10' Jump Shot (2 PTS),,10:30,1,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,4 - 6,2,,12:15 PM
+16,1,1,16,0029900501,,,10:22,1,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,6 - 6,TIE,Anderson 17' Jump Shot (2 PTS),12:15 PM
+17,1,1,17,0029900501,Sealy 19' Jump Shot (2 PTS) (Brandon 1 AST),,10:09,1,4,4,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,6 - 8,2,,12:15 PM
+18,3,1,18,0029900501,,,9:48,1,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,8 - 8,TIE,Potapenko 6' Hook Shot (2 PTS),12:15 PM
+19,1,2,19,0029900501,MISS Nesterovic 7' Jump Shot,,9:30,1,4,0,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:16 PM
+20,0,4,20,0029900501,,,9:27,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:1),12:16 PM
+21,3,2,21,0029900501,,,9:18,1,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Potapenko 6' Hook Shot,12:16 PM
+22,0,4,22,0029900501,Mitchell REBOUND (Off:0 Def:1),,9:14,1,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:16 PM
+23,5,1,23,0029900501,Nesterovic  Layup (2 PTS) (Brandon 2 AST),,9:09,1,4,4,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,8 - 10,2,,12:16 PM
+24,1,2,24,0029900501,,,8:44,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 24' 3PT Jump Shot,12:17 PM
+25,0,4,25,0029900501,Garnett REBOUND (Off:0 Def:2),,8:42,1,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:17 PM
+26,6,2,26,0029900501,MISS Brandon  Driving Layup,,8:36,1,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:17 PM
+27,0,4,27,0029900501,Sealy REBOUND (Off:1 Def:0),,8:33,1,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:17 PM
+28,1,1,28,0029900501,Mitchell 18' Jump Shot (4 PTS) (Garnett 1 AST),,8:25,1,4,4,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,8 - 12,4,,12:17 PM
+29,1,2,29,0029900501,,,8:01,1,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson 20' Jump Shot,12:18 PM
+30,0,4,30,0029900501,Garnett REBOUND (Off:0 Def:3),,7:59,1,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:18 PM
+31,2,1,31,0029900501,Nesterovic 6' Running Jump Shot (4 PTS),,7:46,1,4,0,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,8 - 14,6,,12:18 PM
+32,1,1,32,0029900501,,,7:30,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,10 - 14,4,McCarty 17' Jump Shot (2 PTS),12:18 PM
+33,1,2,33,0029900501,MISS Garnett 10' Jump Shot,,7:18,1,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:18 PM
+34,0,4,34,0029900501,,,7:16,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:2),12:18 PM
+35,1,2,35,0029900501,,,7:08,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 26' 3PT Jump Shot,12:18 PM
+36,0,4,36,0029900501,Nesterovic REBOUND (Off:0 Def:1),,7:06,1,4,0,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:18 PM
+37,1,2,37,0029900501,MISS Nesterovic 17' Jump Shot,,6:54,1,4,0,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:19 PM
+38,0,4,38,0029900501,,,6:51,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:0 Def:1),12:19 PM
+39,1,6,39,0029900501,Nesterovic P.FOUL (P1.T1),,6:45,1,4,0,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:19 PM
+40,1,9,40,0029900501,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,6:45,1,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,12:19 PM
+41,1,2,42,0029900501,,,6:39,1,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson 20' Jump Shot,12:21 PM
+42,0,4,43,0029900501,Mitchell REBOUND (Off:0 Def:2),,6:36,1,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:21 PM
+43,2,6,44,0029900501,,,6:19,1,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko S.FOUL (P1.T2),12:22 PM
+44,11,3,45,0029900501,Mitchell Free Throw 1 of 2 (5 PTS),,6:19,1,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,10 - 15,5,,12:22 PM
+45,12,3,46,0029900501,MISS Mitchell Free Throw 2 of 2,,6:19,1,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:22 PM
+46,0,4,47,0029900501,,,6:17,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:3),12:22 PM
+47,1,2,48,0029900501,,,6:00,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 20' Jump Shot,12:23 PM
+48,0,4,49,0029900501,,,5:58,1,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko REBOUND (Off:1 Def:1),12:23 PM
+49,1,2,50,0029900501,,,5:53,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 25' 3PT Jump Shot,12:23 PM
+50,0,4,51,0029900501,Nesterovic REBOUND (Off:0 Def:2),,5:51,1,4,0,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:23 PM
+51,4,6,52,0029900501,Garnett OFF.Foul (P1),,5:48,1,4,5,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,12:23 PM
+52,5,5,53,0029900501,Garnett Foul Turnover (P1.T1),,5:48,1,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:23 PM
+53,2,6,54,0029900501,Nesterovic S.FOUL (P2.T2),,5:34,1,4,0,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:23 PM
+54,11,3,55,0029900501,,,5:34,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty Free Throw 1 of 2,12:24 PM
+55,1,4,56,0029900501,,,5:34,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,12:24 PM
+56,0,8,57,0029900501,SUB: Garrett FOR Nesterovic,,5:34,1,4,4,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,12:24 PM
+57,12,3,58,0029900501,,,5:34,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,11 - 15,4,McCarty Free Throw 2 of 2 (3 PTS),12:24 PM
+58,1,1,59,0029900501,Mitchell 18' Jump Shot (7 PTS),,5:16,1,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,11 - 17,6,,12:24 PM
+59,1,1,60,0029900501,,,5:01,1,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,13 - 17,4,Walker 6' Jump Shot (4 PTS) (Anderson 1 AST),12:25 PM
+60,1,2,61,0029900501,MISS Brandon 25' 3PT Jump Shot,,4:34,1,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:25 PM
+61,0,4,62,0029900501,TIMBERWOLVES Rebound,,4:33,1,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,12:25 PM
+62,3,6,63,0029900501,,,4:33,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker L.B.FOUL (P2.T3),12:25 PM
+63,1,2,64,0029900501,MISS Brandon 16' Jump Shot,,4:23,1,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:25 PM
+64,0,4,65,0029900501,,,4:21,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:4),12:26 PM
+65,4,6,66,0029900501,,,4:17,1,5,4,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Potapenko OFF.Foul (P2),12:26 PM
+66,5,5,67,0029900501,,,4:17,1,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko Foul Turnover (P1.T1),12:26 PM
+67,0,8,68,0029900501,,,4:17,1,5,5,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Fortson FOR Potapenko,12:26 PM
+68,1,1,69,0029900501,Garnett 18' Jump Shot (4 PTS) (Brandon 3 AST),,4:06,1,4,4,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,13 - 19,6,,12:26 PM
+69,2,6,70,0029900501,Mitchell S.FOUL (P1.T3),,3:43,1,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:27 PM
+70,11,3,71,0029900501,,,3:43,1,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,14 - 19,5,Fortson Free Throw 1 of 2 (1 PTS),12:27 PM
+71,12,3,72,0029900501,,,3:43,1,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Fortson Free Throw 2 of 2,12:27 PM
+72,0,4,73,0029900501,Garnett REBOUND (Off:0 Def:4),,3:42,1,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:27 PM
+73,2,6,74,0029900501,,,3:29,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce S.FOUL (P1.T4),12:28 PM
+74,11,3,75,0029900501,Sealy Free Throw 1 of 2 (3 PTS),,3:29,1,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,14 - 20,6,,12:28 PM
+75,12,3,76,0029900501,Sealy Free Throw 2 of 2 (4 PTS),,3:29,1,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,14 - 21,7,,12:28 PM
+76,5,2,77,0029900501,,,3:17,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce  Layup,12:29 PM
+77,0,4,79,0029900501,,,3:15,1,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Fortson REBOUND (Off:1 Def:0),12:29 PM
+78,4,1,78,0029900501,,,3:14,1,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,16 - 21,5,Fortson  Tip Shot (3 PTS),12:29 PM
+79,1,6,80,0029900501,,,3:00,1,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Fortson P.FOUL (P1.PN),12:29 PM
+80,0,8,81,0029900501,,,3:00,1,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Williams FOR Walker,12:29 PM
+81,11,3,82,0029900501,Garrett Free Throw 1 of 2 (1 PTS),,3:00,1,4,0,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,16 - 22,6,,12:29 PM
+82,12,3,83,0029900501,Garrett Free Throw 2 of 2 (2 PTS),,3:00,1,4,0,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,16 - 23,7,,12:29 PM
+83,1,2,84,0029900501,,,2:41,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 15' Jump Shot,12:30 PM
+84,0,4,85,0029900501,Brandon REBOUND (Off:0 Def:2),,2:39,1,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:30 PM
+85,1,2,86,0029900501,MISS Garnett 13' Jump Shot,,2:27,1,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:30 PM
+86,0,4,87,0029900501,TIMBERWOLVES Rebound,,2:25,1,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,12:30 PM
+87,3,6,88,0029900501,,,2:25,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty L.B.FOUL (P1.PN),12:30 PM
+88,1,9,89,0029900501,,,2:25,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.1 Short 0),12:30 PM
+89,11,3,90,0029900501,MISS Sealy Free Throw 1 of 2,,2:25,1,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:32 PM
+90,1,4,91,0029900501,TIMBERWOLVES Rebound,,2:25,1,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,12:32 PM
+91,12,3,92,0029900501,MISS Sealy Free Throw 2 of 2,,2:25,1,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:33 PM
+92,0,4,93,0029900501,,,2:23,1,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Fortson REBOUND (Off:1 Def:1),12:33 PM
+93,1,2,94,0029900501,,,2:11,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 25' 3PT Jump Shot,12:33 PM
+94,0,4,95,0029900501,Sealy REBOUND (Off:1 Def:1),,2:09,1,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:33 PM
+95,1,1,96,0029900501,Garnett 14' Jump Shot (6 PTS) (Sealy 1 AST),,1:58,1,4,4,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,16 - 25,9,,12:33 PM
+96,1,2,97,0029900501,,,1:36,1,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 17' Jump Shot,12:34 PM
+97,0,4,98,0029900501,Sealy REBOUND (Off:1 Def:2),,1:34,1,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:34 PM
+98,6,1,99,0029900501,Sealy  Driving Layup (6 PTS) (Mitchell 1 AST),,1:29,1,4,4,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,16 - 27,11,,12:34 PM
+99,1,2,100,0029900501,,,1:15,1,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Fortson 11' Jump Shot,12:34 PM
+100,0,4,101,0029900501,Garrett REBOUND (Off:0 Def:1),,1:13,1,4,0,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:34 PM
+101,1,2,102,0029900501,MISS Sealy 12' Jump Shot,,1:09,1,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:34 PM
+102,0,4,103,0029900501,,,1:06,1,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Fortson REBOUND (Off:1 Def:2),12:34 PM
+103,1,1,104,0029900501,,,1:00,1,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,18 - 27,9,Anderson 21' Jump Shot (4 PTS),12:34 PM
+104,1,2,105,0029900501,MISS Mitchell 16' Jump Shot,,0:54,1,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:35 PM
+105,0,4,106,0029900501,,,0:52,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:0 Def:2),12:35 PM
+106,1,2,107,0029900501,Garrett BLOCK (1 BLK),,0:41,1,5,0,4,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,,,MISS Fortson 13' Jump Shot,12:35 PM
+107,0,4,108,0029900501,Sealy REBOUND (Off:1 Def:3),,0:37,1,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:35 PM
+108,1,2,109,0029900501,MISS Mitchell 12' Jump Shot,,0:33,1,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:35 PM
+109,0,4,110,0029900501,Brandon REBOUND (Off:1 Def:2),,0:31,1,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:35 PM
+110,2,6,111,0029900501,,,0:31,1,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Fortson S.FOUL (P2.PN),12:35 PM
+111,0,8,112,0029900501,SUB: Peeler FOR Sealy,,0:31,1,4,4,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,12:36 PM
+112,0,8,113,0029900501,SUB: Szczerbiak FOR Mitchell,,0:31,1,4,4,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,12:36 PM
+113,0,8,114,0029900501,,,0:31,1,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Barros FOR Pierce,12:36 PM
+114,0,8,115,0029900501,,,0:31,1,5,5,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,384,Calbert Cheaney,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Cheaney FOR Anderson,12:36 PM
+115,11,3,116,0029900501,Brandon Free Throw 1 of 2 (3 PTS),,0:31,1,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,18 - 28,10,,12:36 PM
+116,12,3,117,0029900501,Brandon Free Throw 2 of 2 (4 PTS),,0:31,1,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,18 - 29,11,,12:36 PM
+117,1,2,118,0029900501,,,0:20,1,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Barros 15' Jump Shot,12:36 PM
+118,0,4,119,0029900501,Szczerbiak REBOUND (Off:0 Def:1),,0:17,1,4,0,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:36 PM
+119,2,5,120,0029900501,Brandon Lost Ball Turnover (P1.T2),,0:02,1,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:37 PM
+120,0,13,121,0029900501,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,18 - 29,11,,12:37 PM
+121,0,12,123,0029900501,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,18 - 29,11,,12:40 PM
+122,1,2,124,0029900501,MISS Jackson 18' Jump Shot,,11:39,2,4,0,0,1517,Bobby Jackson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:40 PM
+123,0,4,125,0029900501,,,11:37,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:1),12:40 PM
+124,2,5,126,0029900501,,,11:29,2,5,0,0,384,Calbert Cheaney,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Cheaney Lost Ball Turnover (P1.T2),12:40 PM
+125,0,8,127,0029900501,SUB: Smith FOR Garrett,,11:29,2,4,4,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,12:40 PM
+126,1,1,128,0029900501,Peeler 18' Jump Shot (2 PTS) (Jackson 1 AST),,11:15,2,4,4,0,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,1517,Bobby Jackson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,18 - 31,13,,12:41 PM
+127,1,1,129,0029900501,,,10:54,2,5,5,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,384,Calbert Cheaney,BOS,Boston,1610612738.0,Celtics,0,,,,,,20 - 31,11,Williams 18' Jump Shot (2 PTS) (Cheaney 1 AST),12:41 PM
+128,1,1,130,0029900501,Smith 19' Jump Shot (2 PTS) (Peeler 1 AST),,10:30,2,4,4,0,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,20 - 33,13,,12:41 PM
+129,6,1,131,0029900501,,,10:08,2,5,5,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,384,Calbert Cheaney,BOS,Boston,1610612738.0,Celtics,0,,,,,,22 - 33,11,Williams  Driving Layup (4 PTS) (Cheaney 2 AST),12:42 PM
+130,1,1,132,0029900501,Peeler 25' 3PT Jump Shot (5 PTS) (Garnett 2 AST),,9:50,2,4,4,0,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,22 - 36,14,,12:42 PM
+131,4,6,133,0029900501,,,9:25,2,5,4,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Williams OFF.Foul (P1),12:42 PM
+132,5,5,134,0029900501,,,9:25,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams Foul Turnover (P1.T3),12:42 PM
+133,4,9,135,0029900501,,,9:25,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:43 PM
+134,0,8,136,0029900501,,,9:25,2,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Walker FOR McCarty,12:44 PM
+135,0,8,137,0029900501,,,9:25,2,5,5,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Battie FOR Fortson,12:44 PM
+136,0,8,138,0029900501,SUB: Nesterovic FOR Garnett,,9:25,2,4,4,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,12:45 PM
+137,1,2,139,0029900501,MISS Peeler 21' Jump Shot,,9:15,2,4,0,0,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:45 PM
+138,0,4,140,0029900501,,,9:13,2,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:0 Def:1),12:45 PM
+139,2,6,141,0029900501,Nesterovic S.FOUL (P3.T1),,9:08,2,4,0,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:45 PM
+140,11,3,142,0029900501,,,9:08,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,23 - 36,13,Walker Free Throw 1 of 2 (5 PTS),12:45 PM
+141,0,8,143,0029900501,SUB: Garrett FOR Nesterovic,,9:08,2,4,4,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,12:45 PM
+142,12,3,144,0029900501,,,9:08,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,24 - 36,12,Walker Free Throw 2 of 2 (6 PTS),12:46 PM
+143,9,5,145,0029900501,TIMBERWOLVES Turnover: 5 Second Violation (T#3),,9:08,2,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,12:46 PM
+144,5,1,146,0029900501,,,9:05,2,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,26 - 36,10,Walker  Layup (8 PTS) (Williams 1 AST),12:46 PM
+145,1,2,147,0029900501,MISS Szczerbiak 15' Jump Shot,,8:52,2,4,0,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:47 PM
+146,0,4,148,0029900501,,,8:50,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:5),12:47 PM
+147,1,6,149,0029900501,Garrett P.FOUL (P1.T2),,8:41,2,4,0,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:47 PM
+148,0,8,150,0029900501,SUB: Brandon FOR Jackson,,8:41,2,4,4,0,1517,Bobby Jackson,MIN,Minnesota,1610612750.0,Timberwolves,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,12:47 PM
+149,1,2,151,0029900501,,,8:26,2,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Barros 27' 3PT Jump Shot,12:47 PM
+150,0,4,152,0029900501,Szczerbiak REBOUND (Off:0 Def:2),,8:24,2,4,0,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:47 PM
+151,1,1,153,0029900501,Peeler 19' Jump Shot (7 PTS) (Garrett 1 AST),,8:13,2,4,4,0,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,26 - 38,12,,12:48 PM
+152,1,1,154,0029900501,,,8:00,2,5,0,0,384,Calbert Cheaney,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,28 - 38,10,Cheaney 18' Jump Shot (2 PTS),12:48 PM
+153,1,1,155,0029900501,Peeler 19' Jump Shot (9 PTS) (Brandon 4 AST),,7:40,2,4,4,0,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,28 - 40,12,,12:48 PM
+154,6,1,156,0029900501,,,7:26,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,30 - 40,10,Walker  Driving Layup (10 PTS),12:48 PM
+155,1,1,157,0029900501,Garrett 11' Jump Shot (4 PTS) (Peeler 2 AST),,6:59,2,4,4,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,30 - 42,12,,12:49 PM
+156,5,2,158,0029900501,,,6:43,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Williams  Layup,12:49 PM
+157,0,4,159,0029900501,Smith REBOUND (Off:0 Def:1),,6:41,2,4,0,0,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:49 PM
+158,1,2,160,0029900501,MISS Brandon 25' 3PT Jump Shot,,6:29,2,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:49 PM
+159,0,4,161,0029900501,,,6:28,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:6),12:49 PM
+160,5,2,162,0029900501,Brandon BLOCK (1 BLK),,6:20,2,5,0,4,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,,,MISS Walker 7' Layup,12:49 PM
+161,0,4,163,0029900501,,,6:19,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:1 Def:6),12:49 PM
+162,1,1,164,0029900501,,,6:16,2,5,5,0,384,Calbert Cheaney,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,32 - 42,10,Cheaney 16' Jump Shot (4 PTS) (Walker 1 AST),12:49 PM
+163,1,1,165,0029900501,Szczerbiak 25' 3PT Jump Shot (3 PTS) (Garrett 2 AST),,5:51,2,4,4,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,32 - 45,13,,12:50 PM
+164,2,9,166,0029900501,,,5:47,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Short (Reg.1 Short 1),12:50 PM
+165,1,9,167,0029900501,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,5:47,2,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,12:50 PM
+166,0,8,169,0029900501,,,5:47,2,5,5,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Pierce FOR Williams,12:52 PM
+167,0,8,170,0029900501,SUB: Garnett FOR Garrett,,5:47,2,4,4,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,12:52 PM
+168,5,1,171,0029900501,,,5:32,2,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,384,Calbert Cheaney,BOS,Boston,1610612738.0,Celtics,0,,,,,,34 - 45,11,Walker  Layup (12 PTS) (Cheaney 3 AST),12:52 PM
+169,1,6,172,0029900501,,,5:18,2,5,0,0,384,Calbert Cheaney,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Cheaney P.FOUL (P1.T1),12:53 PM
+170,0,8,173,0029900501,,,5:18,2,5,5,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Anderson FOR Barros,12:53 PM
+171,1,2,174,0029900501,MISS Brandon 19' Jump Shot,,5:01,2,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:53 PM
+172,0,4,175,0029900501,,,4:58,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:1 Def:7),12:53 PM
+173,2,2,176,0029900501,Garnett BLOCK (2 BLK),,4:54,2,5,0,4,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,,,MISS Pierce 16' Running Jump Shot,12:53 PM
+174,0,4,177,0029900501,,,4:53,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,12:54 PM
+175,5,2,178,0029900501,,,4:45,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 5' Layup,12:54 PM
+176,0,4,179,0029900501,Garnett REBOUND (Off:0 Def:5),,4:42,2,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:54 PM
+177,1,2,180,0029900501,MISS Smith 15' Jump Shot,,4:38,2,4,0,0,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:54 PM
+178,0,4,181,0029900501,,,4:36,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:1 Def:8),12:54 PM
+179,1,2,182,0029900501,,,4:21,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 26' 3PT Jump Shot,12:54 PM
+180,0,4,183,0029900501,Brandon REBOUND (Off:1 Def:3),,4:19,2,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:54 PM
+181,1,5,184,0029900501,Brandon Bad Pass Turnover (P2.T4),,4:16,2,4,5,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Pierce STEAL (1 STL),12:54 PM
+182,1,1,185,0029900501,,,4:10,2,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,36 - 45,9,Battie 15' Jump Shot (2 PTS) (Walker 2 AST),12:55 PM
+183,1,1,186,0029900501,Peeler 18' Jump Shot (11 PTS) (Garnett 3 AST),,3:48,2,4,4,0,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,36 - 47,11,,12:55 PM
+184,0,8,187,0029900501,SUB: Sealy FOR Szczerbiak,,3:33,2,4,4,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,12:55 PM
+185,0,8,188,0029900501,,,3:24,2,5,5,0,384,Calbert Cheaney,BOS,Boston,1610612738.0,Celtics,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Williams FOR Cheaney,12:56 PM
+186,0,10,189,0029900501,Jump Ball Sealy vs. Anderson: Tip to Peeler,,3:24,2,4,5,4,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,,,,12:56 PM
+187,2,5,190,0029900501,Sealy STEAL (1 STL),,3:24,2,5,4,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Anderson Lost Ball Turnover (P1.T4),12:56 PM
+188,1,2,191,0029900501,MISS Garnett 17' Jump Shot,,3:04,2,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:56 PM
+189,0,4,192,0029900501,,,3:02,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:2),12:56 PM
+190,1,2,193,0029900501,,,2:56,2,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson 19' Jump Shot,12:56 PM
+191,0,4,194,0029900501,,,2:53,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams REBOUND (Off:1 Def:2),12:56 PM
+192,1,6,195,0029900501,Peeler P.FOUL (P1.T3),,2:45,2,4,0,0,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:57 PM
+193,1,9,196,0029900501,,,2:45,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.2 Short 1),12:57 PM
+194,1,2,198,0029900501,,,2:38,2,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson 18' Jump Shot,12:59 PM
+195,0,4,199,0029900501,,,2:36,2,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson REBOUND (Off:1 Def:0),12:59 PM
+196,2,6,200,0029900501,Smith S.FOUL (P1.T4),,2:25,2,4,0,0,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,12:59 PM
+197,11,3,201,0029900501,,,2:25,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,37 - 47,10,Pierce Free Throw 1 of 2 (3 PTS),12:59 PM
+198,12,3,202,0029900501,,,2:25,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce Free Throw 2 of 2,1:00 PM
+199,0,4,203,0029900501,Smith REBOUND (Off:0 Def:2),,2:24,2,4,0,0,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:00 PM
+200,1,5,204,0029900501,Brandon Bad Pass Turnover (P3.T5),,2:16,2,4,5,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Walker STEAL (1 STL),1:00 PM
+201,4,6,205,0029900501,,,2:13,2,5,4,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Battie OFF.Foul (P1),1:00 PM
+202,5,5,206,0029900501,,,2:13,2,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie Foul Turnover (P1.T5),1:00 PM
+203,1,2,207,0029900501,MISS Sealy 16' Jump Shot,,1:58,2,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:01 PM
+204,0,4,208,0029900501,,,1:56,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:1 Def:9),1:01 PM
+205,5,2,209,0029900501,,,1:53,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker  Layup,1:01 PM
+206,0,4,210,0029900501,,,1:50,2,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson REBOUND (Off:2 Def:0),1:01 PM
+207,2,6,211,0029900501,Smith S.FOUL (P2.PN),,1:50,2,4,0,0,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:01 PM
+208,11,3,212,0029900501,,,1:50,2,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,38 - 47,9,Anderson Free Throw 1 of 2 (5 PTS),1:01 PM
+209,0,8,213,0029900501,,,1:50,2,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: McCarty FOR Walker,1:01 PM
+210,0,8,214,0029900501,SUB: Mitchell FOR Peeler,,1:50,2,4,4,0,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,1:01 PM
+211,12,3,215,0029900501,,,1:50,2,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson Free Throw 2 of 2,1:01 PM
+212,0,4,216,0029900501,Garnett REBOUND (Off:0 Def:6),,1:48,2,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:01 PM
+213,1,2,217,0029900501,MISS Smith 20' Jump Shot,,1:25,2,4,0,0,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:02 PM
+214,0,4,218,0029900501,Brandon REBOUND (Off:2 Def:3),,1:23,2,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:02 PM
+215,1,1,219,0029900501,Brandon 16' Jump Shot (6 PTS),,1:10,2,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,38 - 49,11,,1:02 PM
+216,5,2,220,0029900501,,,0:53,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce  Layup,1:03 PM
+217,0,4,221,0029900501,Smith REBOUND (Off:0 Def:3),,0:51,2,4,0,0,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:03 PM
+218,4,6,222,0029900501,Garnett OFF.Foul (P2),,0:38,2,4,5,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:03 PM
+219,5,5,223,0029900501,Garnett Foul Turnover (P2.T6),,0:38,2,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:03 PM
+220,0,8,224,0029900501,SUB: Szczerbiak FOR Garnett,,0:38,2,4,4,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,1:03 PM
+221,1,1,225,0029900501,,,0:30,2,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,40 - 49,9,Anderson 18' Jump Shot (7 PTS),1:03 PM
+222,2,9,226,0029900501,TIMBERWOLVES Timeout: Short (Full 2 Short 1),,0:30,2,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,1:04 PM
+223,1,1,228,0029900501,Sealy 10' Jump Shot (8 PTS) (Mitchell 2 AST),,0:20,2,4,4,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,40 - 51,11,,1:05 PM
+224,1,2,229,0029900501,,,0:01,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Williams 22' Jump Shot,1:05 PM
+225,0,4,231,0029900501,,,0:00,2,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:1 Def:1),1:05 PM
+226,7,1,230,0029900501,,,0:00,2,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,42 - 51,9,Battie  Dunk (4 PTS),1:05 PM
+227,0,13,232,0029900501,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,42 - 51,9,,1:05 PM
+228,0,12,234,0029900501,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,42 - 51,9,,1:20 PM
+229,2,5,235,0029900501,Sealy Lost Ball Turnover (P1.T7),,11:40,3,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:21 PM
+230,1,1,236,0029900501,,,11:24,3,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,44 - 51,7,Pierce 16' Jump Shot (5 PTS) (Walker 3 AST),1:22 PM
+231,1,6,237,0029900501,,,11:11,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce P.FOUL (P2.T1),1:22 PM
+232,1,1,238,0029900501,Garnett 18' Jump Shot (8 PTS) (Nesterovic 1 AST),,10:57,3,4,4,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,44 - 53,9,,1:22 PM
+233,1,1,239,0029900501,,,10:42,3,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,46 - 53,7,Potapenko 11' Jump Shot (4 PTS),1:23 PM
+234,1,1,240,0029900501,Sealy 18' Jump Shot (10 PTS) (Brandon 5 AST),,10:26,3,4,4,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,46 - 55,9,,1:23 PM
+235,2,9,241,0029900501,,,10:19,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Short (Reg.2 Short 2),1:23 PM
+236,1,2,242,0029900501,,,10:09,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 19' Jump Shot,1:24 PM
+237,0,4,243,0029900501,Mitchell REBOUND (Off:0 Def:3),,10:08,3,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:24 PM
+238,5,1,244,0029900501,Garnett  Layup (10 PTS) (Brandon 6 AST),,10:02,3,4,4,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,46 - 57,11,,1:24 PM
+239,5,2,245,0029900501,,,9:44,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker  Layup,1:25 PM
+240,0,4,246,0029900501,Garnett REBOUND (Off:0 Def:7),,9:42,3,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:25 PM
+241,1,1,247,0029900501,Brandon 17' Jump Shot (8 PTS),,9:38,3,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,46 - 59,13,,1:25 PM
+242,2,5,248,0029900501,Sealy STEAL (2 STL),,9:19,3,5,4,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Potapenko Lost Ball Turnover (P2.T6),1:25 PM
+243,5,1,249,0029900501,Brandon  Layup (10 PTS) (Sealy 2 AST),,9:13,3,4,4,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,46 - 61,15,,1:25 PM
+244,1,9,250,0029900501,,,9:06,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.3 Short 2),1:25 PM
+245,1,1,251,0029900501,,,8:47,3,5,5,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,48 - 61,13,Anderson 21' Jump Shot (9 PTS) (McCarty 1 AST),1:27 PM
+246,2,5,252,0029900501,Nesterovic Lost Ball Turnover (P1.T8),,8:38,3,4,0,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:28 PM
+247,5,2,253,0029900501,Sealy BLOCK (1 BLK),,8:23,3,5,0,4,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,,,MISS Walker  Layup,1:28 PM
+248,0,4,254,0029900501,Sealy REBOUND (Off:1 Def:4),,8:18,3,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:28 PM
+249,5,1,255,0029900501,Garnett  Layup (12 PTS) (Brandon 7 AST),,8:10,3,4,4,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,48 - 63,15,,1:28 PM
+250,2,6,256,0029900501,,,8:10,3,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson S.FOUL (P1.T2),1:28 PM
+251,10,3,257,0029900501,MISS Garnett Free Throw 1 of 1,,8:10,3,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:29 PM
+252,0,4,259,0029900501,,,8:09,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,1:29 PM
+253,11,6,258,0029900501,,,8:09,3,5,0,1,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson T.FOUL (P1.T2),1:29 PM
+254,16,3,260,0029900501,Brandon Free Throw Technical (11 PTS),,8:09,3,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,48 - 64,16,,1:29 PM
+255,1,2,261,0029900501,,,7:55,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 20' Jump Shot,1:30 PM
+256,0,4,262,0029900501,Garnett REBOUND (Off:0 Def:8),,7:53,3,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:30 PM
+257,1,1,263,0029900501,Garnett 26' 3PT Jump Shot (15 PTS) (Brandon 8 AST),,7:44,3,4,4,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,48 - 67,19,,1:30 PM
+258,1,9,264,0029900501,,,7:36,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.4 Short 2),1:30 PM
+259,1,6,265,0029900501,Garnett P.FOUL (P3.T1),,7:30,3,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:32 PM
+260,11,5,267,0029900501,,,7:15,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Turnover: Shot Clock (T#7),1:33 PM
+261,3,2,268,0029900501,MISS Garnett 11' Hook Shot,,6:56,3,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:33 PM
+262,0,4,269,0029900501,,,6:54,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:0 Def:3),1:33 PM
+263,11,6,270,0029900501,Garnett T.FOUL (P3.T1),,6:50,3,4,0,1,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:33 PM
+264,16,3,271,0029900501,,,6:50,3,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,49 - 67,18,Anderson Free Throw Technical (10 PTS),1:34 PM
+265,5,2,272,0029900501,Nesterovic BLOCK (1 BLK),,6:36,3,5,0,4,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,,,MISS Walker  Layup,1:34 PM
+266,0,4,273,0029900501,Sealy REBOUND (Off:1 Def:5),,6:34,3,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:34 PM
+267,6,2,274,0029900501,MISS Sealy  Driving Layup,,6:31,3,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:34 PM
+268,0,4,275,0029900501,,,6:28,3,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:0 Def:1),1:34 PM
+269,1,2,276,0029900501,,,6:21,3,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty 24' 3PT Jump Shot,1:35 PM
+270,0,4,277,0029900501,Mitchell REBOUND (Off:0 Def:4),,6:18,3,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:35 PM
+271,1,2,278,0029900501,MISS Brandon 22' Jump Shot,,6:01,3,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:35 PM
+272,0,4,279,0029900501,,,5:59,3,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko REBOUND (Off:1 Def:2),1:35 PM
+273,6,2,280,0029900501,,,5:54,3,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson  Driving Layup,1:35 PM
+274,0,4,281,0029900501,,,5:53,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,1:35 PM
+275,3,6,282,0029900501,Nesterovic L.B.FOUL (P4.T2),,5:53,3,4,0,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:35 PM
+276,0,8,283,0029900501,SUB: Garrett FOR Nesterovic,,5:53,3,4,4,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,1:35 PM
+277,1,2,284,0029900501,,,5:43,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 26' 3PT Jump Shot,1:36 PM
+278,0,4,285,0029900501,TIMBERWOLVES Rebound,,5:42,3,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,1:36 PM
+279,1,1,286,0029900501,Mitchell 24' 3PT Jump Shot (10 PTS) (Sealy 3 AST),,5:16,3,4,4,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,49 - 70,21,,1:36 PM
+280,2,6,287,0029900501,Garrett S.FOUL (P2.T3),,5:10,3,4,0,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:36 PM
+281,11,3,288,0029900501,,,5:10,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,50 - 70,20,Pierce Free Throw 1 of 2 (6 PTS),1:36 PM
+282,12,3,289,0029900501,,,5:10,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,51 - 70,19,Pierce Free Throw 2 of 2 (7 PTS),1:37 PM
+283,1,2,290,0029900501,MISS Sealy 15' Jump Shot,,5:01,3,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:37 PM
+284,0,4,291,0029900501,Garnett REBOUND (Off:1 Def:8),,4:58,3,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:37 PM
+285,1,1,292,0029900501,Sealy 18' Jump Shot (12 PTS) (Brandon 9 AST),,4:53,3,4,4,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,51 - 72,21,,1:37 PM
+286,1,5,293,0029900501,,,4:37,3,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty Bad Pass Turnover (P1.T8),1:38 PM
+287,1,2,294,0029900501,MISS Mitchell 18' Jump Shot,,4:21,3,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:38 PM
+288,0,4,295,0029900501,TIMBERWOLVES Rebound,,4:17,3,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,1:38 PM
+289,1,2,296,0029900501,MISS Garnett 15' Jump Shot,,4:04,3,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:39 PM
+290,0,4,297,0029900501,,,4:01,3,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko REBOUND (Off:1 Def:3),1:39 PM
+291,1,6,298,0029900501,Mitchell P.FOUL (P2.T4),,3:55,3,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:39 PM
+292,0,8,299,0029900501,,,3:55,3,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Battie FOR McCarty,1:39 PM
+293,0,8,300,0029900501,,,3:55,3,5,5,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Williams FOR Potapenko,1:39 PM
+294,0,8,301,0029900501,SUB: Smith FOR Garrett,,3:55,3,4,4,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,1:39 PM
+295,1,2,302,0029900501,Garnett BLOCK (3 BLK),,3:44,3,5,0,4,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,,,MISS Anderson 10' Jump Shot,1:40 PM
+296,0,4,303,0029900501,,,3:43,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:1 Def:3),1:40 PM
+297,2,6,304,0029900501,Smith S.FOUL (P3.PN),,3:41,3,4,0,0,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:40 PM
+298,11,3,305,0029900501,,,3:41,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,52 - 72,20,Pierce Free Throw 1 of 2 (8 PTS),1:40 PM
+299,12,3,306,0029900501,,,3:41,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,53 - 72,19,Pierce Free Throw 2 of 2 (9 PTS),1:40 PM
+300,1,1,307,0029900501,Brandon 21' Jump Shot (13 PTS),,3:22,3,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,53 - 74,21,,1:41 PM
+301,1,6,308,0029900501,Smith P.FOUL (P4.PN),,3:07,3,4,0,0,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:41 PM
+302,11,3,309,0029900501,,,3:07,3,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,54 - 74,20,Battie Free Throw 1 of 2 (5 PTS),1:41 PM
+303,0,8,310,0029900501,SUB: Szczerbiak FOR Smith,,3:07,3,4,4,0,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,1:41 PM
+304,12,3,311,0029900501,,,3:07,3,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,55 - 74,19,Battie Free Throw 2 of 2 (6 PTS),1:41 PM
+305,1,1,312,0029900501,Garnett 12' Jump Shot (17 PTS) (Szczerbiak 1 AST),,2:42,3,4,4,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,55 - 76,21,,1:42 PM
+306,5,2,313,0029900501,Garnett BLOCK (4 BLK),,2:22,3,5,0,4,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,,,MISS Walker  Layup,1:42 PM
+307,0,4,314,0029900501,TIMBERWOLVES Rebound,,2:20,3,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,1:43 PM
+308,0,8,315,0029900501,,,2:20,3,5,5,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Barros FOR Anderson,1:43 PM
+309,1,5,316,0029900501,Garnett Bad Pass Turnover (P3.T9),,2:18,3,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:43 PM
+310,5,2,317,0029900501,,,2:05,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce  Layup,1:43 PM
+311,0,4,318,0029900501,Sealy REBOUND (Off:1 Def:6),,2:03,3,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:43 PM
+312,5,1,319,0029900501,Szczerbiak  Layup (5 PTS) (Garnett 4 AST),,1:50,3,4,4,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,55 - 78,23,,1:44 PM
+313,2,6,320,0029900501,Sealy S.FOUL (P1.PN),,1:31,3,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:44 PM
+314,0,8,321,0029900501,,,1:31,3,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Fortson FOR Walker,1:44 PM
+315,0,8,322,0029900501,SUB: Jackson FOR Brandon,,1:31,3,4,4,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,1517,Bobby Jackson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,1:44 PM
+316,11,3,323,0029900501,,,1:31,3,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Battie Free Throw 1 of 2,1:44 PM
+317,1,4,324,0029900501,,,1:31,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,1:44 PM
+318,0,8,325,0029900501,,,1:31,3,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,77,Doug Overton,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Overton FOR Pierce,1:44 PM
+319,0,8,326,0029900501,SUB: Garrett FOR Garnett,,1:31,3,4,4,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,1:45 PM
+320,12,3,327,0029900501,,,1:31,3,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,56 - 78,22,Battie Free Throw 2 of 2 (7 PTS),1:45 PM
+321,6,1,328,0029900501,Mitchell  Driving Layup (12 PTS),,1:13,3,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,56 - 80,24,,1:45 PM
+322,2,6,329,0029900501,Szczerbiak S.FOUL (P1.PN),,0:59,3,4,0,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:46 PM
+323,0,8,330,0029900501,,,0:59,3,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: McCarty FOR Battie,1:46 PM
+324,11,3,331,0029900501,,,0:59,3,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,57 - 80,23,Williams Free Throw 1 of 2 (5 PTS),1:46 PM
+325,12,3,332,0029900501,,,0:59,3,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Williams Free Throw 2 of 2,1:46 PM
+326,0,4,333,0029900501,Garrett REBOUND (Off:0 Def:2),,0:57,3,4,0,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:46 PM
+327,1,5,334,0029900501,Garrett Bad Pass Turnover (P1.T10),,0:53,3,4,5,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Barros STEAL (1 STL),1:46 PM
+328,5,2,335,0029900501,,,0:49,3,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS McCarty  Layup,1:46 PM
+329,0,4,336,0029900501,,,0:49,3,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:1 Def:1),1:46 PM
+330,1,1,337,0029900501,,,0:46,3,5,5,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,60 - 80,20,Barros 25' 3PT Jump Shot (3 PTS) (McCarty 2 AST),1:46 PM
+331,5,2,338,0029900501,MISS Sealy  Layup,,0:25,3,4,0,5,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,,,McCarty BLOCK (1 BLK),1:47 PM
+332,0,4,339,0029900501,,,0:22,3,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Barros REBOUND (Off:0 Def:1),1:47 PM
+333,1,2,340,0029900501,,,0:17,3,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Williams 24' 3PT Jump Shot,1:47 PM
+334,0,4,341,0029900501,Sealy REBOUND (Off:1 Def:7),,0:13,3,4,0,0,907,Malik Sealy,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:47 PM
+335,2,6,342,0029900501,,,0:01,3,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Barros S.FOUL (P1.T3),1:47 PM
+336,13,3,343,0029900501,Mitchell Free Throw 1 of 3 (13 PTS),,0:01,3,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,60 - 81,21,,1:47 PM
+337,14,3,344,0029900501,Mitchell Free Throw 2 of 3 (14 PTS),,0:01,3,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,60 - 82,22,,1:48 PM
+338,15,3,345,0029900501,Mitchell Free Throw 3 of 3 (15 PTS),,0:01,3,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,60 - 83,23,,1:48 PM
+339,0,13,346,0029900501,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,60 - 83,23,,1:48 PM
+340,0,12,348,0029900501,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,60 - 83,23,,1:51 PM
+341,1,1,349,0029900501,,,11:48,4,5,5,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,77,Doug Overton,BOS,Boston,1610612738.0,Celtics,0,,,,,,63 - 83,20,Barros 25' 3PT Jump Shot (6 PTS) (Overton 1 AST),1:51 PM
+342,6,2,350,0029900501,MISS Szczerbiak  Driving Layup,,11:32,4,4,0,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:51 PM
+343,0,4,351,0029900501,,,11:30,4,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Fortson REBOUND (Off:1 Def:3),1:51 PM
+344,5,2,352,0029900501,,,11:12,4,5,0,0,77,Doug Overton,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Overton  Layup,1:52 PM
+345,0,4,353,0029900501,TIMBERWOLVES Rebound,,11:10,4,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,1:52 PM
+346,0,8,354,0029900501,SUB: Brandon FOR Jackson,,11:10,4,4,4,0,1517,Bobby Jackson,MIN,Minnesota,1610612750.0,Timberwolves,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,1:52 PM
+347,1,2,355,0029900501,MISS Peeler 27' 3PT Jump Shot,,11:02,4,4,0,0,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:52 PM
+348,0,4,356,0029900501,,,11:00,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:1 Def:2),1:52 PM
+349,1,6,357,0029900501,Garnett P.FOUL (P4.T1),,10:45,4,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:53 PM
+350,1,2,358,0029900501,,,10:37,4,5,0,0,77,Doug Overton,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Overton 17' Jump Shot,1:53 PM
+351,0,4,359,0029900501,Mitchell REBOUND (Off:0 Def:5),,10:35,4,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:53 PM
+352,1,1,360,0029900501,Garnett 9' Jump Shot (19 PTS) (Peeler 3 AST),,10:17,4,4,4,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,63 - 85,22,,1:53 PM
+353,1,2,361,0029900501,,,9:55,4,5,0,0,77,Doug Overton,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Overton 24' 3PT Jump Shot,1:54 PM
+354,0,4,362,0029900501,,,9:52,4,5,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,McCarty REBOUND (Off:2 Def:2),1:54 PM
+355,1,5,363,0029900501,Brandon STEAL (1 STL),,9:50,4,5,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,McCarty Bad Pass Turnover (P2.T9),1:54 PM
+356,4,5,364,0029900501,Garnett Traveling Turnover (P4.T11),,9:38,4,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:54 PM
+357,4,9,365,0029900501,,,9:38,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,1:54 PM
+358,1,2,366,0029900501,,,9:28,4,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Barros 19' Jump Shot,1:56 PM
+359,0,4,367,0029900501,,,9:26,4,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Fortson REBOUND (Off:2 Def:3),1:56 PM
+360,5,1,368,0029900501,,,9:24,4,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,65 - 85,20,Fortson  Layup (5 PTS),1:56 PM
+361,1,2,369,0029900501,MISS Peeler 18' Jump Shot,,9:05,4,4,0,0,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:57 PM
+362,0,4,370,0029900501,Brandon REBOUND (Off:3 Def:3),,9:03,4,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:57 PM
+363,1,6,371,0029900501,,,8:57,4,5,0,0,384,Calbert Cheaney,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Cheaney P.FOUL (P2.T1),1:57 PM
+364,0,8,372,0029900501,SUB: Smith FOR Mitchell,,8:57,4,4,4,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,1:57 PM
+365,2,1,373,0029900501,Brandon 20' Running Jump Shot (15 PTS) (Garnett 5 AST),,8:54,4,4,4,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,65 - 87,22,,1:57 PM
+366,2,6,374,0029900501,,,8:54,4,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Barros S.FOUL (P2.T2),1:57 PM
+367,10,3,375,0029900501,Brandon Free Throw 1 of 1 (16 PTS),,8:54,4,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,65 - 88,23,,1:58 PM
+368,1,6,376,0029900501,Smith P.FOUL (P5.T2),,8:39,4,4,0,0,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:58 PM
+369,2,2,377,0029900501,,,8:34,4,5,0,0,77,Doug Overton,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Overton 9' Running Jump Shot,1:58 PM
+370,0,4,378,0029900501,Garnett REBOUND (Off:1 Def:9),,8:32,4,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:58 PM
+371,4,6,379,0029900501,Szczerbiak OFF.Foul (P2),,8:23,4,4,5,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:58 PM
+372,5,5,380,0029900501,Szczerbiak Foul Turnover (P1.T12),,8:23,4,4,0,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,1:58 PM
+373,0,8,381,0029900501,SUB: Garrett FOR Smith,,8:23,4,4,4,0,693,Joe Smith,MIN,Minnesota,1610612750.0,Timberwolves,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,1:59 PM
+374,1,5,382,0029900501,,,8:16,4,5,0,0,77,Doug Overton,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Overton Bad Pass Turnover (P1.T10),1:59 PM
+375,5,1,383,0029900501,Brandon  Layup (18 PTS) (Garnett 6 AST),,8:01,4,4,4,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,65 - 90,25,,1:59 PM
+376,1,5,384,0029900501,Peeler STEAL (1 STL),,7:50,4,5,4,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Barros Bad Pass Turnover (P1.T11),2:00 PM
+377,1,5,385,0029900501,Garnett Bad Pass Turnover (P5.T13),,7:34,4,4,5,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,77,Doug Overton,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Overton STEAL (1 STL),2:00 PM
+378,6,1,386,0029900501,,,7:29,4,5,5,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,77,Doug Overton,BOS,Boston,1610612738.0,Celtics,0,,,,,,67 - 90,23,Barros  Driving Layup (8 PTS) (Overton 2 AST),2:00 PM
+379,1,2,387,0029900501,MISS Brandon 17' Jump Shot,,7:07,4,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:00 PM
+380,0,4,388,0029900501,,,7:05,4,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Barros REBOUND (Off:0 Def:2),2:00 PM
+381,6,2,389,0029900501,Garrett BLOCK (2 BLK),,6:58,4,5,0,4,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,,,MISS Fortson  Driving Layup,2:00 PM
+382,0,4,390,0029900501,Garrett REBOUND (Off:0 Def:3),,6:53,4,4,0,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:00 PM
+383,1,1,391,0029900501,Szczerbiak 17' Jump Shot (7 PTS) (Brandon 10 AST),,6:36,4,4,4,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,67 - 92,25,,2:01 PM
+384,5,1,392,0029900501,,,6:12,4,5,5,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,384,Calbert Cheaney,BOS,Boston,1610612738.0,Celtics,0,,,,,,69 - 92,23,Fortson  Layup (7 PTS) (Cheaney 4 AST),2:01 PM
+385,2,6,393,0029900501,Garrett S.FOUL (P3.T3),,6:12,4,4,0,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:01 PM
+386,1,9,394,0029900501,TIMBERWOLVES Timeout: Regular (Full 3 Short 1),,6:12,4,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,2:01 PM
+387,0,8,396,0029900501,,,6:12,4,5,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Pierce FOR McCarty,2:03 PM
+388,0,8,397,0029900501,,,6:12,4,5,5,0,77,Doug Overton,BOS,Boston,1610612738.0,Celtics,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Battie FOR Overton,2:03 PM
+389,10,3,398,0029900501,,,6:12,4,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,70 - 92,22,Fortson Free Throw 1 of 1 (8 PTS),2:04 PM
+390,1,2,399,0029900501,MISS Garnett 10' Jump Shot,,5:51,4,4,0,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:04 PM
+391,0,4,400,0029900501,,,5:50,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:1 Def:4),2:04 PM
+392,1,5,401,0029900501,Garnett STEAL (1 STL),,5:40,4,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Pierce Bad Pass Turnover (P1.T12),2:04 PM
+393,9,1,402,0029900501,Szczerbiak  Driving Dunk (9 PTS) (Brandon 11 AST),,5:35,4,4,4,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,70 - 94,24,,2:05 PM
+394,2,6,403,0029900501,Garrett S.FOUL (P4.T4),,5:20,4,4,0,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:05 PM
+395,0,8,404,0029900501,,,5:20,4,5,5,0,384,Calbert Cheaney,BOS,Boston,1610612738.0,Celtics,77,Doug Overton,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Overton FOR Cheaney,2:05 PM
+396,11,3,405,0029900501,,,5:20,4,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Fortson Free Throw 1 of 2,2:05 PM
+397,1,4,406,0029900501,,,5:20,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,2:05 PM
+398,0,8,407,0029900501,SUB: Mitchell FOR Garnett,,5:20,4,4,4,0,708,Kevin Garnett,MIN,Minnesota,1610612750.0,Timberwolves,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,2:05 PM
+399,12,3,408,0029900501,,,5:20,4,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,71 - 94,23,Fortson Free Throw 2 of 2 (9 PTS),2:05 PM
+400,2,9,409,0029900501,TIMBERWOLVES Timeout: Short (Full 3 Short 2),,5:20,4,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,2:06 PM
+401,5,2,411,0029900501,MISS Szczerbiak  Layup,,4:59,4,4,0,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:07 PM
+402,0,4,412,0029900501,Garrett REBOUND (Off:1 Def:3),,4:57,4,4,0,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:07 PM
+403,11,5,413,0029900501,TIMBERWOLVES Turnover: Shot Clock (T#14),,4:56,4,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,2:07 PM
+404,1,2,414,0029900501,,,4:45,4,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Barros 19' Jump Shot,2:08 PM
+405,0,4,415,0029900501,,,4:43,4,5,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Barros REBOUND (Off:1 Def:2),2:08 PM
+406,2,6,416,0029900501,Garrett S.FOUL (P5.PN),,4:36,4,4,0,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:08 PM
+407,11,3,417,0029900501,,,4:36,4,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,72 - 94,22,Fortson Free Throw 1 of 2 (10 PTS),2:08 PM
+408,0,8,418,0029900501,SUB: Nesterovic FOR Garrett,,4:36,4,4,4,0,1051,Dean Garrett,MIN,Minnesota,1610612750.0,Timberwolves,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,2:08 PM
+409,12,3,419,0029900501,,,4:36,4,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,73 - 94,21,Fortson Free Throw 2 of 2 (11 PTS),2:08 PM
+410,5,1,420,0029900501,Szczerbiak  Layup (11 PTS) (Mitchell 3 AST),,4:28,4,4,4,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,73 - 96,23,,2:09 PM
+411,2,6,421,0029900501,,,4:28,4,5,0,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Fortson S.FOUL (P3.T3),2:09 PM
+412,0,8,422,0029900501,,,4:28,4,5,5,0,1504,Danny Fortson,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Walker FOR Fortson,2:09 PM
+413,10,3,423,0029900501,Szczerbiak Free Throw 1 of 1 (12 PTS),,4:28,4,4,0,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,73 - 97,24,,2:09 PM
+414,1,1,424,0029900501,,,4:17,4,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,76 - 97,21,Pierce 26' 3PT Jump Shot (12 PTS) (Barros 1 AST),2:10 PM
+415,2,1,425,0029900501,Szczerbiak 10' Running Jump Shot (14 PTS) (Peeler 4 AST),,3:57,4,4,4,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,76 - 99,23,,2:10 PM
+416,1,1,426,0029900501,,,3:41,4,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,79 - 99,20,Pierce 26' 3PT Jump Shot (15 PTS) (Barros 2 AST),2:10 PM
+417,2,5,427,0029900501,Mitchell Lost Ball Turnover (P1.T15),,3:22,4,4,5,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Barros STEAL (2 STL),2:10 PM
+418,6,2,428,0029900501,,,3:18,4,5,0,0,77,Doug Overton,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Overton  Driving Layup,2:11 PM
+419,0,4,429,0029900501,Brandon REBOUND (Off:3 Def:4),,3:15,4,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:11 PM
+420,1,2,430,0029900501,MISS Mitchell 19' Jump Shot,,3:11,4,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:11 PM
+421,0,4,431,0029900501,,,3:08,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:1 Def:5),2:11 PM
+422,6,1,432,0029900501,,,3:03,4,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,81 - 99,18,Walker  Driving Layup (14 PTS) (Pierce 1 AST),2:11 PM
+423,1,2,433,0029900501,MISS Peeler 24' 3PT Jump Shot,,2:42,4,4,0,0,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:11 PM
+424,0,4,434,0029900501,,,2:40,4,5,0,0,77,Doug Overton,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Overton REBOUND (Off:0 Def:1),2:11 PM
+425,1,2,435,0029900501,,,2:34,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 26' 3PT Jump Shot,2:11 PM
+426,0,4,436,0029900501,,,2:32,4,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:2 Def:1),2:11 PM
+427,1,5,437,0029900501,Szczerbiak STEAL (1 STL),,2:29,4,5,4,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Battie Bad Pass Turnover (P2.T13),2:11 PM
+428,1,2,438,0029900501,MISS Mitchell 17' Jump Shot,,2:20,4,4,0,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:11 PM
+429,0,4,439,0029900501,Nesterovic REBOUND (Off:1 Def:2),,2:19,4,4,0,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:12 PM
+430,5,2,440,0029900501,MISS Nesterovic  Layup,,2:17,4,4,0,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:12 PM
+431,0,4,441,0029900501,,,2:15,4,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:2 Def:2),2:12 PM
+432,5,1,442,0029900501,,,2:09,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,83 - 99,16,Pierce  Layup (17 PTS),2:12 PM
+433,6,1,443,0029900501,Brandon  Driving Layup (20 PTS),,1:47,4,4,0,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,83 - 101,18,,2:12 PM
+434,1,2,444,0029900501,,,1:28,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 25' 3PT Jump Shot,2:12 PM
+435,0,4,445,0029900501,TIMBERWOLVES Rebound,,1:26,4,2,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,2:12 PM
+436,1,9,446,0029900501,,,1:26,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.5 Short 2),2:13 PM
+437,0,8,447,0029900501,SUB: Avery FOR Mitchell,,1:26,4,4,4,0,417,Sam Mitchell,MIN,Minnesota,1610612750.0,Timberwolves,1895,William Avery,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,2:14 PM
+438,0,8,448,0029900501,SUB: Hammonds FOR Brandon,,1:26,4,4,4,0,210,Terrell Brandon,MIN,Minnesota,1610612750.0,Timberwolves,67,Tom Hammonds,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,2:14 PM
+439,6,1,449,0029900501,Nesterovic  Driving Layup (6 PTS) (Peeler 5 AST),,1:11,4,4,4,0,1725,Rasho Nesterovic,MIN,Minnesota,1610612750.0,Timberwolves,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,83 - 103,20,,2:15 PM
+440,1,2,450,0029900501,,,0:58,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 25' 3PT Jump Shot,2:15 PM
+441,0,4,451,0029900501,Hammonds REBOUND (Off:0 Def:1),,0:56,4,4,0,0,67,Tom Hammonds,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:15 PM
+442,1,2,452,0029900501,MISS Peeler 19' Jump Shot,,0:52,4,4,0,0,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:15 PM
+443,0,4,453,0029900501,,,0:49,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:1 Def:6),2:15 PM
+444,5,2,454,0029900501,,,0:45,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker  Layup,2:15 PM
+445,0,4,455,0029900501,Peeler REBOUND (Off:0 Def:1),,0:43,4,4,0,0,324,Anthony Peeler,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:15 PM
+446,1,2,456,0029900501,MISS Szczerbiak 24' 3PT Jump Shot,,0:32,4,4,0,0,1887,Wally Szczerbiak,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,2:15 PM
+447,0,4,457,0029900501,,,0:30,4,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:2 Def:3),2:15 PM
+448,2,1,458,0029900501,,,0:20,4,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,85 - 103,18,Battie 10' Running Jump Shot (9 PTS) (Pierce 2 AST),2:15 PM
+449,0,13,459,0029900501,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,85 - 103,18,,2:16 PM

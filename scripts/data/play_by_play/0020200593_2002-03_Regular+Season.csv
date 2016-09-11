@@ -1,0 +1,457 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020200593,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:13 PM
+1,0,10,1,0020200593,Jump Ball O'Neal vs. Davis: Tip to Williams,,12:00,1,4,5,5,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,,,,10:13 PM
+2,1,2,2,0020200593,,,11:35,1,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Davis 11' Jump Shot,10:14 PM
+3,0,4,3,0020200593,O'Neal REBOUND (Off:0 Def:1),,11:33,1,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:14 PM
+4,1,5,4,0020200593,O'Neal Bad Pass Turnover (P1.T1),,11:30,1,4,5,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Williams STEAL (1 STL),10:14 PM
+5,1,1,5,0020200593,,,11:25,1,5,5,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,3 - 0,-3,Lenard 25' 3PT Jump Shot (3 PTS) (Williams 1 AST),10:14 PM
+6,5,1,6,0020200593,Miller 2' Layup (2 PTS) (O'Neal 1 AST),,11:11,1,4,4,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,3 - 2,-1,,10:14 PM
+7,5,2,7,0020200593,,,10:56,1,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Lenard 3' Layup,10:15 PM
+8,0,4,8,0020200593,Miller REBOUND (Off:0 Def:1),,10:54,1,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:15 PM
+9,1,2,9,0020200593,MISS Tinsley 17' Jump Shot,,10:46,1,4,0,0,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:15 PM
+10,0,4,10,0020200593,,,10:44,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:1),10:15 PM
+11,1,2,11,0020200593,O'Neal BLOCK (1 BLK),,10:27,1,5,0,4,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,,,MISS Peterson 7' Jump Shot,10:15 PM
+12,0,4,12,0020200593,,,10:25,1,5,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Peterson REBOUND (Off:1 Def:0),10:15 PM
+13,5,1,13,0020200593,,,10:23,1,5,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,5 - 2,-3,Peterson 2' Layup (2 PTS),10:15 PM
+14,1,2,14,0020200593,MISS Tinsley 21' Jump Shot,,10:07,1,4,0,0,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:16 PM
+15,0,4,15,0020200593,,,10:05,1,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:0 Def:1),10:16 PM
+16,1,1,16,0020200593,,,9:59,1,5,5,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,8 - 2,-6,Lenard 25' 3PT Jump Shot (6 PTS) (Williams 2 AST),10:16 PM
+17,1,2,17,0020200593,MISS Miller 24' 3PT Jump Shot,,9:42,1,4,0,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:16 PM
+18,0,4,18,0020200593,PACERS Rebound,,9:41,1,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,10:16 PM
+19,3,6,19,0020200593,,,9:41,1,5,0,1,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Peterson L.B.FOUL (P1.T1),10:16 PM
+20,1,2,20,0020200593,MISS O'Neal 16' Jump Shot,,9:35,1,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:17 PM
+21,0,4,21,0020200593,,,9:34,1,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:0 Def:2),10:17 PM
+22,5,2,22,0020200593,O'Neal BLOCK (2 BLK),,9:27,1,5,0,4,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,,,MISS Williams 4' Layup,10:17 PM
+23,0,4,23,0020200593,Miller REBOUND (Off:0 Def:1),,9:25,1,4,0,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:17 PM
+24,5,1,24,0020200593,World Peace 1' Layup (2 PTS) (Tinsley 1 AST),,9:22,1,4,4,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,8 - 4,-4,,10:17 PM
+25,1,2,25,0020200593,O'Neal BLOCK (3 BLK),,8:57,1,5,0,4,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,,,MISS Davis 6' Jump Shot,10:17 PM
+26,0,4,26,0020200593,World Peace REBOUND (Off:0 Def:1),,8:51,1,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:17 PM
+27,1,2,27,0020200593,MISS Tinsley 10' Jump Shot,,8:48,1,4,0,0,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:17 PM
+28,0,4,28,0020200593,Miller REBOUND (Off:1 Def:1),,8:46,1,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:17 PM
+29,1,2,29,0020200593,MISS Miller 24' 3PT Jump Shot,,8:37,1,4,0,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:17 PM
+30,0,4,30,0020200593,,,8:34,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:2),10:18 PM
+31,5,1,31,0020200593,,,8:29,1,5,5,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,10 - 4,-6,Davis 1' Layup (2 PTS) (Williams 1 AST),10:18 PM
+32,3,1,32,0020200593,O'Neal 3' Hook Shot (2 PTS) (Miller 1 AST),,8:11,1,4,4,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,10 - 6,-4,,10:18 PM
+33,7,1,33,0020200593,,,7:54,1,5,5,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,12 - 6,-6,Davis 1' Dunk (4 PTS) (Williams 3 AST),10:18 PM
+34,2,6,34,0020200593,Miller S.FOUL (P1.T1),,7:54,1,4,0,1,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:18 PM
+35,10,3,35,0020200593,,,7:54,1,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,13 - 6,-7,Davis Free Throw 1 of 1 (5 PTS),10:18 PM
+36,5,2,36,0020200593,MISS World Peace 1' Layup,,7:40,1,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:19 PM
+37,0,4,37,0020200593,,,7:38,1,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Lenard REBOUND (Off:0 Def:1),10:19 PM
+38,1,2,38,0020200593,,,7:31,1,5,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Peterson 25' 3PT Jump Shot,10:19 PM
+39,0,4,39,0020200593,,,7:29,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:1 Def:2),10:19 PM
+40,1,9,40,0020200593,PACERS Timeout: Regular (Full 1 Short 0),,7:28,1,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,10:19 PM
+41,1,2,42,0020200593,,,7:19,1,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Davis 14' Jump Shot,10:21 PM
+42,0,4,43,0020200593,,,7:17,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:2 Def:2),10:22 PM
+43,1,2,44,0020200593,,,7:14,1,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Lenard 24' 3PT Jump Shot,10:22 PM
+44,0,4,45,0020200593,,,7:12,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:3 Def:2),10:22 PM
+45,46,1,46,0020200593,,,6:49,1,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,15 - 6,-9,Williams 4' Running Jump Shot (2 PTS),10:22 PM
+46,1,1,47,0020200593,O'Neal 10' Jump Shot (4 PTS) (World Peace 1 AST),,6:24,1,4,4,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,15 - 8,-7,,10:23 PM
+47,1,1,48,0020200593,,,6:02,1,5,5,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,17 - 8,-9,Williams 4' Jump Shot (4 PTS) (Lenard 1 AST),10:23 PM
+48,0,8,49,0020200593,SUB: Harrington FOR Miller,,5:47,1,4,4,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,10:23 PM
+49,5,2,50,0020200593,MISS World Peace 2' Layup,,5:38,1,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:24 PM
+50,0,4,51,0020200593,,,5:36,1,5,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Peterson REBOUND (Off:1 Def:1),10:24 PM
+51,1,2,52,0020200593,,,5:31,1,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Lenard 25' 3PT Jump Shot,10:24 PM
+52,0,4,53,0020200593,,,5:30,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:4 Def:2),10:24 PM
+53,3,6,54,0020200593,World Peace L.B.FOUL (P1.T2),,5:29,1,4,0,1,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:24 PM
+54,5,1,55,0020200593,,,5:22,1,5,5,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,19 - 8,-11,Davis 2' Layup (7 PTS) (Lenard 2 AST),10:24 PM
+55,2,6,56,0020200593,,,4:59,1,5,0,1,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis S.FOUL (P1.T2),10:25 PM
+56,0,8,57,0020200593,,,4:59,1,5,5,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Hunter FOR Peterson,10:25 PM
+57,0,8,58,0020200593,SUB: Mercer FOR World Peace,,4:59,1,4,4,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,10:25 PM
+58,11,3,59,0020200593,MISS Miller Free Throw 1 of 2,,4:59,1,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:25 PM
+59,1,4,60,0020200593,PACERS Rebound,,4:59,1,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,10:25 PM
+60,0,8,61,0020200593,SUB: Strickland FOR Tinsley,,4:59,1,4,4,0,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,10:25 PM
+61,12,3,62,0020200593,Miller Free Throw 2 of 2 (1 PTS),,4:59,1,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,19 - 9,-10,,10:25 PM
+62,1,2,63,0020200593,,,4:46,1,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Lenard 17' Jump Shot,10:26 PM
+63,0,4,64,0020200593,O'Neal REBOUND (Off:0 Def:2),,4:44,1,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:26 PM
+64,5,1,65,0020200593,Miller 2' Layup (3 PTS) (O'Neal 2 AST),,4:36,1,4,4,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,19 - 11,-8,,10:26 PM
+65,1,1,66,0020200593,,,4:17,1,5,5,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,21 - 11,-10,Lenard 18' Jump Shot (8 PTS) (Davis 1 AST),10:26 PM
+66,1,2,67,0020200593,MISS Harrington 20' Jump Shot,,3:56,1,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:26 PM
+67,0,4,68,0020200593,,,3:54,1,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:0 Def:3),10:27 PM
+68,2,6,69,0020200593,O'Neal S.FOUL (P1.T3),,3:49,1,4,0,1,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:27 PM
+69,11,3,70,0020200593,,,3:49,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,22 - 11,-11,Williams Free Throw 1 of 2 (1 PTS),10:27 PM
+70,12,3,71,0020200593,,,3:49,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams Free Throw 2 of 2,10:27 PM
+71,0,4,72,0020200593,O'Neal REBOUND (Off:0 Def:3),,3:48,1,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:27 PM
+72,1,1,73,0020200593,Mercer 21' Jump Shot (2 PTS) (Harrington 1 AST),,3:32,1,4,4,0,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,22 - 13,-9,,10:28 PM
+73,1,6,74,0020200593,Harrington P.FOUL (P1.T4),,3:12,1,4,0,1,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:28 PM
+74,0,8,75,0020200593,,,3:12,1,5,5,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: McCoy FOR Williams,10:28 PM
+75,1,1,76,0020200593,,,3:02,1,5,0,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,24 - 13,-11,Hunter 20' Jump Shot (2 PTS),10:29 PM
+76,1,2,77,0020200593,MISS Miller 18' Jump Shot,,2:45,1,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:29 PM
+77,0,4,78,0020200593,,,2:43,1,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,McCoy REBOUND (Off:0 Def:1),10:29 PM
+78,4,5,79,0020200593,,,2:36,1,5,0,1,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis Traveling Turnover (P1.T1),10:29 PM
+79,1,9,80,0020200593,,,2:36,1,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.1 Short 0),10:29 PM
+80,0,8,82,0020200593,SUB: Foster FOR O'Neal,,2:36,1,4,4,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,1902,Jeff Foster,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,10:31 PM
+81,0,8,83,0020200593,,,2:36,1,5,5,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Peterson FOR Williams,10:31 PM
+82,1,1,84,0020200593,Strickland 16' Jump Shot (2 PTS) (Foster 1 AST),,2:22,1,4,4,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,1902,Jeff Foster,IND,Indiana,1610612754.0,Pacers,0,,,,,,24 - 15,-9,,10:32 PM
+83,2,5,85,0020200593,Strickland STEAL (1 STL),,2:06,1,5,4,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Hunter Lost Ball Turnover (P1.T2),10:32 PM
+84,0,8,86,0020200593,,,2:06,1,5,5,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Alston FOR Lenard,10:32 PM
+85,5,1,87,0020200593,Strickland 3' Layup (4 PTS) (Foster 2 AST),,1:55,1,4,4,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,1902,Jeff Foster,IND,Indiana,1610612754.0,Pacers,0,,,,,,24 - 17,-7,,10:32 PM
+86,3,1,88,0020200593,,,1:34,1,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,26 - 17,-9,McCoy 4' Hook Shot (2 PTS),10:33 PM
+87,44,1,89,0020200593,Harrington 1' Reverse Layup (2 PTS),,1:14,1,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,26 - 19,-7,,10:33 PM
+88,3,1,90,0020200593,,,0:52,1,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,28 - 19,-9,McCoy 3' Hook Shot (4 PTS),10:34 PM
+89,1,2,91,0020200593,MISS Harrington 15' Jump Shot,,0:35,1,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:34 PM
+90,0,4,92,0020200593,,,0:33,1,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:0 Def:4),10:34 PM
+91,5,2,93,0020200593,,,0:25,1,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS McCoy 3' Layup,10:34 PM
+92,0,4,94,0020200593,Harrington REBOUND (Off:0 Def:1),,0:24,1,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:34 PM
+93,1,2,95,0020200593,MISS Mercer 17' Jump Shot,,0:02,1,4,0,0,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:34 PM
+94,0,4,97,0020200593,Harrington REBOUND (Off:1 Def:1),,0:01,1,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:34 PM
+95,3,6,99,0020200593,,,0:01,1,5,0,1,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Peterson L.B.FOUL (P2.T3),10:35 PM
+96,1,2,100,0020200593,MISS Miller 3' Jump Shot,,0:00,1,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:35 PM
+97,0,4,101,0020200593,PACERS Rebound,,0:00,1,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,10:35 PM
+98,0,13,102,0020200593,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,28 - 19,-9,,10:35 PM
+99,0,12,104,0020200593,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,28 - 19,-9,,10:38 PM
+100,5,1,105,0020200593,Harrington 1' Layup (4 PTS) (Strickland 1 AST),,11:38,2,4,4,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,28 - 21,-7,,10:38 PM
+101,5,2,106,0020200593,,,11:17,2,5,0,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Hunter 3' Layup,10:39 PM
+102,0,4,107,0020200593,Strickland REBOUND (Off:0 Def:1),,11:15,2,4,0,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:39 PM
+103,1,2,108,0020200593,MISS Foster 7' Jump Shot,,10:52,2,4,0,5,1902,Jeff Foster,IND,Indiana,1610612754.0,Pacers,0,,,,,,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,,,Williams BLOCK (1 BLK),10:39 PM
+104,0,4,109,0020200593,,,10:50,2,5,0,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Hunter REBOUND (Off:0 Def:1),10:39 PM
+105,5,2,110,0020200593,O'Neal BLOCK (4 BLK),,10:42,2,5,0,4,2245,Damone Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,,,MISS Brown 3' Layup,10:39 PM
+106,0,4,112,0020200593,,,10:39,2,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,McCoy REBOUND (Off:1 Def:1),10:39 PM
+107,4,2,111,0020200593,,,10:39,2,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS McCoy 3' Tip Shot,10:39 PM
+108,0,4,113,0020200593,Strickland REBOUND (Off:0 Def:2),,10:37,2,4,0,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:39 PM
+109,1,2,114,0020200593,MISS Strickland 25' 3PT Jump Shot,,10:25,2,4,0,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:40 PM
+110,0,4,115,0020200593,,,10:23,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:4 Def:3),10:40 PM
+111,5,2,116,0020200593,,,10:08,2,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS McCoy 3' Layup,10:40 PM
+112,0,4,117,0020200593,Strickland REBOUND (Off:0 Def:3),,10:06,2,4,0,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:40 PM
+113,1,2,118,0020200593,MISS O'Neal 19' Jump Shot,,9:58,2,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:40 PM
+114,0,4,119,0020200593,Foster REBOUND (Off:1 Def:0),,9:56,2,4,0,0,1902,Jeff Foster,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:40 PM
+115,5,2,120,0020200593,MISS Foster  Layup,,9:55,2,4,0,0,1902,Jeff Foster,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:40 PM
+116,0,4,121,0020200593,Harrington REBOUND (Off:2 Def:1),,9:53,2,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:40 PM
+117,5,2,122,0020200593,MISS Harrington 2' Layup,,9:52,2,4,0,5,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,,,McCoy BLOCK (1 BLK),10:40 PM
+118,0,4,123,0020200593,,,9:50,2,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,McCoy REBOUND (Off:1 Def:2),10:40 PM
+119,1,2,124,0020200593,,,9:24,2,5,0,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Hunter 25' 3PT Jump Shot,10:41 PM
+120,0,4,125,0020200593,O'Neal REBOUND (Off:0 Def:4),,9:22,2,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:41 PM
+121,1,6,126,0020200593,,,9:11,2,5,0,1,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams P.FOUL (P1.T1),10:41 PM
+122,0,8,127,0020200593,,,9:11,2,5,5,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Williams FOR Hunter,10:41 PM
+123,1,5,128,0020200593,O'Neal Bad Pass Turnover (P2.T2),,9:03,2,4,5,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Williams STEAL (2 STL),10:42 PM
+124,14,6,129,0020200593,Foster FLAGRANT.FOUL.TYPE1 (P1.T1),,8:58,2,4,0,1,1902,Jeff Foster,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:42 PM
+125,4,9,130,0020200593,,,8:58,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:42 PM
+126,18,3,132,0020200593,,,8:58,2,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS McCoy Free Throw Flagrant 1 of 2,10:45 PM
+127,1,4,133,0020200593,,,8:58,2,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,10:45 PM
+128,19,3,134,0020200593,,,8:58,2,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,29 - 21,-8,McCoy Free Throw Flagrant 2 of 2 (5 PTS),10:45 PM
+129,1,5,135,0020200593,,,8:46,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams Bad Pass Turnover (P1.T3),10:45 PM
+130,1,6,136,0020200593,,,8:39,2,5,0,1,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Alston P.FOUL (P1.T2),10:46 PM
+131,1,2,137,0020200593,MISS Foster 16' Jump Shot,,8:28,2,4,0,0,1902,Jeff Foster,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:46 PM
+132,0,4,139,0020200593,Harrington REBOUND (Off:3 Def:1),,8:26,2,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:46 PM
+133,4,2,138,0020200593,MISS Harrington 1' Tip Shot,,8:26,2,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:46 PM
+134,0,4,140,0020200593,,,8:26,2,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,10:46 PM
+135,1,2,141,0020200593,,,8:12,2,5,0,0,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Alston 22' Jump Shot,10:46 PM
+136,0,4,142,0020200593,Mercer REBOUND (Off:0 Def:1),,8:07,2,4,0,0,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:47 PM
+137,1,2,143,0020200593,MISS O'Neal 5' Jump Shot,,8:00,2,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:47 PM
+138,0,4,144,0020200593,,,7:58,2,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,McCoy REBOUND (Off:1 Def:3),10:47 PM
+139,2,5,145,0020200593,,,7:54,2,5,0,0,2245,Damone Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Brown Lost Ball Turnover (P1.T4),10:47 PM
+140,0,8,146,0020200593,SUB: World Peace FOR Foster,,7:54,2,4,4,0,1902,Jeff Foster,IND,Indiana,1610612754.0,Pacers,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,10:47 PM
+141,1,1,147,0020200593,Strickland 18' Jump Shot (6 PTS) (World Peace 2 AST),,7:37,2,4,4,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,29 - 23,-6,,10:47 PM
+142,1,1,148,0020200593,,,7:19,2,5,5,0,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,32 - 23,-9,Alston 25' 3PT Jump Shot (3 PTS) (Williams 4 AST),10:48 PM
+143,5,1,149,0020200593,Mercer 2' Layup (4 PTS) (Strickland 2 AST),,7:04,2,4,4,0,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,32 - 25,-7,,10:48 PM
+144,0,8,150,0020200593,,,6:44,2,5,5,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Lenard FOR McCoy,10:48 PM
+145,0,8,151,0020200593,,,6:44,2,5,5,0,2245,Damone Brown,TOR,Toronto,1610612761.0,Raptors,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Davis FOR Brown,10:48 PM
+146,46,1,152,0020200593,,,6:41,2,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,34 - 25,-9,Williams 10' Running Jump Shot (6 PTS),10:49 PM
+147,5,2,153,0020200593,MISS World Peace 1' Layup,,6:23,2,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:49 PM
+148,0,4,155,0020200593,O'Neal REBOUND (Off:1 Def:4),,6:22,2,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:49 PM
+149,4,2,154,0020200593,MISS O'Neal 1' Tip Shot,,6:22,2,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:49 PM
+150,0,4,156,0020200593,World Peace REBOUND (Off:1 Def:1),,6:21,2,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:49 PM
+151,2,6,157,0020200593,,,6:21,2,5,0,1,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis S.FOUL (P2.T3),10:49 PM
+152,11,3,158,0020200593,World Peace Free Throw 1 of 2 (3 PTS),,6:21,2,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,34 - 26,-8,,10:49 PM
+153,0,8,159,0020200593,SUB: Tinsley FOR Strickland,,6:21,2,4,4,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,10:49 PM
+154,12,3,160,0020200593,MISS World Peace Free Throw 2 of 2,,6:21,2,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:49 PM
+155,0,4,161,0020200593,,,6:20,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:4 Def:4),10:50 PM
+156,5,1,162,0020200593,,,6:06,2,5,5,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,36 - 26,-10,Williams 2' Layup (3 PTS) (Alston 1 AST),10:50 PM
+157,2,6,163,0020200593,Harrington S.FOUL (P2.T2),,6:06,2,4,0,1,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:50 PM
+158,10,3,164,0020200593,,,6:06,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams Free Throw 1 of 1,10:50 PM
+159,0,4,165,0020200593,Harrington REBOUND (Off:3 Def:2),,6:05,2,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:50 PM
+160,2,5,166,0020200593,Harrington Lost Ball Turnover (P1.T3),,5:54,2,4,5,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Williams STEAL (3 STL),10:50 PM
+161,9,6,167,0020200593,Tinsley C.P.FOUL (P1.T3),,5:52,2,4,0,1,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:51 PM
+162,1,9,168,0020200593,PACERS Timeout: Regular (Full 2 Short 0),,5:52,2,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,10:51 PM
+163,0,8,170,0020200593,SUB: Strickland FOR Mercer,,5:52,2,4,4,0,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,10:53 PM
+164,10,3,171,0020200593,,,5:52,2,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,37 - 26,-11,Williams Free Throw 1 of 1 (7 PTS),10:53 PM
+165,0,8,172,0020200593,,,5:52,2,5,5,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Peterson FOR Williams,10:54 PM
+166,5,1,173,0020200593,,,5:36,2,5,5,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,39 - 26,-13,Davis 2' Layup (9 PTS) (Lenard 3 AST),10:54 PM
+167,2,6,174,0020200593,,,5:18,2,5,0,1,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Peterson S.FOUL (P3.T4),10:54 PM
+168,11,3,175,0020200593,Strickland Free Throw 1 of 2 (7 PTS),,5:18,2,4,0,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,39 - 27,-12,,10:55 PM
+169,0,8,176,0020200593,,,5:18,2,5,5,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Hunter FOR Peterson,10:55 PM
+170,12,3,177,0020200593,Strickland Free Throw 2 of 2 (8 PTS),,5:18,2,4,0,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,39 - 28,-11,,10:55 PM
+171,1,1,178,0020200593,,,4:59,2,5,5,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,41 - 28,-13,Hunter 22' Jump Shot (4 PTS) (Davis 2 AST),10:55 PM
+172,1,1,179,0020200593,World Peace 11' Jump Shot (5 PTS) (Tinsley 2 AST),,4:33,2,4,4,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,41 - 30,-11,,10:56 PM
+173,1,2,180,0020200593,,,4:07,2,5,0,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Hunter 18' Jump Shot,10:56 PM
+174,0,4,181,0020200593,Harrington REBOUND (Off:3 Def:3),,4:05,2,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,10:56 PM
+175,1,5,182,0020200593,Harrington Bad Pass Turnover (P2.T4),,4:02,2,4,5,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Hunter STEAL (1 STL),10:56 PM
+176,1,5,183,0020200593,,,3:53,2,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis Bad Pass Turnover (P2.T5),10:56 PM
+177,1,1,184,0020200593,Strickland 9' Jump Shot (10 PTS) (Tinsley 3 AST),,3:40,2,4,4,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,41 - 32,-9,,10:57 PM
+178,1,2,185,0020200593,,,3:23,2,5,0,0,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Alston 4' Jump Shot,10:57 PM
+179,0,4,187,0020200593,,,3:21,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:5 Def:4),10:57 PM
+180,4,1,186,0020200593,,,3:21,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,43 - 32,-11,Williams 1' Tip Shot (5 PTS),10:57 PM
+181,2,6,188,0020200593,,,2:54,2,5,0,1,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Hunter S.FOUL (P1.PN),10:58 PM
+182,1,9,189,0020200593,,,2:54,2,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.2 Short 0),10:58 PM
+183,0,8,191,0020200593,,,2:54,2,5,5,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Williams FOR Hunter,11:00 PM
+184,11,3,192,0020200593,World Peace Free Throw 1 of 2 (6 PTS),,2:54,2,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,43 - 33,-10,,11:00 PM
+185,12,3,194,0020200593,World Peace Free Throw 2 of 2 (7 PTS),,2:54,2,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,43 - 34,-9,,11:00 PM
+186,2,6,195,0020200593,Harrington S.FOUL (P3.T4),,2:37,2,4,0,1,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:01 PM
+187,11,3,196,0020200593,,,2:37,2,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,44 - 34,-10,Lenard Free Throw 1 of 2 (9 PTS),11:01 PM
+188,0,8,197,0020200593,SUB: Miller FOR Harrington,,2:37,2,4,4,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,11:01 PM
+189,12,3,198,0020200593,,,2:37,2,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,45 - 34,-11,Lenard Free Throw 2 of 2 (10 PTS),11:01 PM
+190,1,1,199,0020200593,Strickland 26' 3PT Jump Shot (13 PTS) (World Peace 3 AST),,2:16,2,4,4,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,45 - 37,-8,,11:02 PM
+191,5,2,200,0020200593,,,1:56,2,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Lenard 2' Layup,11:02 PM
+192,0,4,201,0020200593,Miller REBOUND (Off:1 Def:2),,1:55,2,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:02 PM
+193,1,5,202,0020200593,Miller Bad Pass Turnover (P1.T5),,1:39,2,4,5,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Lenard STEAL (1 STL),11:02 PM
+194,5,1,203,0020200593,,,1:35,2,5,5,0,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,47 - 37,-10,Alston 2' Layup (5 PTS) (Williams 5 AST),11:02 PM
+195,1,5,204,0020200593,Strickland Bad Pass Turnover (P1.T6),,1:21,2,4,5,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Williams STEAL (4 STL),11:02 PM
+196,5,2,205,0020200593,,,1:17,2,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams 1' Layup,11:03 PM
+197,0,4,207,0020200593,,,1:15,2,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Lenard REBOUND (Off:1 Def:1),11:03 PM
+198,5,1,206,0020200593,,,1:15,2,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,49 - 37,-12,Lenard 1' Layup (12 PTS),11:03 PM
+199,1,1,208,0020200593,Strickland 19' Jump Shot (15 PTS) (Tinsley 4 AST),,0:59,2,4,4,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,49 - 39,-10,,11:03 PM
+200,1,1,209,0020200593,,,0:43,2,5,5,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,51 - 39,-12,Lenard 18' Jump Shot (14 PTS) (Davis 3 AST),11:03 PM
+201,1,2,210,0020200593,MISS Strickland 26' 3PT Jump Shot,,0:33,2,4,0,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:03 PM
+202,0,4,211,0020200593,,,0:31,2,5,0,0,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Alston REBOUND (Off:0 Def:1),11:03 PM
+203,1,2,212,0020200593,,,0:18,2,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Davis 4' Jump Shot,11:04 PM
+204,0,4,213,0020200593,,,0:17,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:6 Def:4),11:04 PM
+205,3,6,214,0020200593,Strickland L.B.FOUL (P1.PN),,0:17,2,4,0,1,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:04 PM
+206,11,3,215,0020200593,,,0:17,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams Free Throw 1 of 2,11:04 PM
+207,1,4,216,0020200593,,,0:17,2,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,11:04 PM
+208,12,3,217,0020200593,,,0:17,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,52 - 39,-13,Williams Free Throw 2 of 2 (6 PTS),11:04 PM
+209,1,1,218,0020200593,Tinsley  3PT Jump Shot (3 PTS) (World Peace 4 AST),,0:00,2,4,4,0,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,52 - 42,-10,,11:05 PM
+210,0,13,219,0020200593,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,52 - 42,-10,,11:05 PM
+211,0,12,223,0020200593,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,52 - 42,-10,,11:22 PM
+212,2,6,225,0020200593,,,11:39,3,5,0,1,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis S.FOUL (P3.T1),11:22 PM
+213,11,3,226,0020200593,O'Neal Free Throw 1 of 2 (5 PTS),,11:39,3,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,52 - 43,-9,,11:23 PM
+214,12,3,227,0020200593,MISS O'Neal Free Throw 2 of 2,,11:39,3,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:23 PM
+215,0,4,228,0020200593,,,11:38,3,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,11:23 PM
+216,1,2,229,0020200593,,,11:18,3,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Davis 15' Jump Shot,11:23 PM
+217,0,4,230,0020200593,Tinsley REBOUND (Off:0 Def:1),,11:16,3,4,0,0,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:23 PM
+218,1,1,231,0020200593,Miller 25' 3PT Jump Shot (5 PTS) (O'Neal 3 AST),,11:04,3,4,4,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,52 - 46,-6,,11:24 PM
+219,1,2,232,0020200593,,,10:49,3,5,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Peterson 19' Jump Shot,11:24 PM
+220,0,4,233,0020200593,Tinsley REBOUND (Off:0 Def:2),,10:47,3,4,0,0,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:24 PM
+221,5,2,234,0020200593,MISS Miller 3' Layup,,10:35,3,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:24 PM
+222,0,4,235,0020200593,,,10:33,3,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:1),11:24 PM
+223,5,2,236,0020200593,,,10:28,3,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams 2' Layup,11:24 PM
+224,0,4,237,0020200593,,,10:26,3,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Lenard REBOUND (Off:2 Def:1),11:24 PM
+225,5,2,238,0020200593,O'Neal BLOCK (5 BLK),,10:21,3,5,0,4,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,,,MISS Davis 3' Layup,11:24 PM
+226,0,4,239,0020200593,,,10:18,3,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:1 Def:4),11:24 PM
+227,5,2,240,0020200593,O'Neal BLOCK (6 BLK),,10:17,3,5,0,4,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,,,MISS Davis 3' Layup,11:24 PM
+228,0,4,242,0020200593,,,10:13,3,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Lenard REBOUND (Off:3 Def:1),11:25 PM
+229,1,1,241,0020200593,,,10:13,3,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,54 - 46,-8,Lenard 16' Jump Shot (16 PTS),11:25 PM
+230,1,6,243,0020200593,,,9:56,3,5,0,1,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis P.FOUL (P4.T2),11:25 PM
+231,0,8,244,0020200593,,,9:56,3,5,5,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: McCoy FOR Davis,11:25 PM
+232,1,2,245,0020200593,MISS Miller 26' 3PT Jump Shot,,9:42,3,4,0,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:26 PM
+233,0,4,246,0020200593,,,9:40,3,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,11:26 PM
+234,11,5,247,0020200593,,,9:15,3,3,0,1,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Turnover: Shot Clock (T#6),11:26 PM
+235,1,1,248,0020200593,Miller 27' 3PT Jump Shot (8 PTS) (Tinsley 5 AST),,9:07,3,4,4,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,54 - 49,-5,,11:27 PM
+236,1,9,249,0020200593,,,8:57,3,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.3 Short 0),11:27 PM
+237,1,1,251,0020200593,,,8:44,3,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,56 - 49,-7,Lenard 10' Jump Shot (18 PTS),11:29 PM
+238,2,6,252,0020200593,Tinsley S.FOUL (P2.T1),,8:44,3,4,0,1,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:29 PM
+239,10,3,253,0020200593,,,8:44,3,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,57 - 49,-8,Lenard Free Throw 1 of 1 (19 PTS),11:30 PM
+240,1,1,254,0020200593,Miller 9' Jump Shot (10 PTS) (Tinsley 6 AST),,8:33,3,4,4,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,57 - 51,-6,,11:30 PM
+241,1,2,255,0020200593,,,8:17,3,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Lenard 16' Jump Shot,11:30 PM
+242,0,4,256,0020200593,World Peace REBOUND (Off:1 Def:2),,8:15,3,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:30 PM
+243,1,2,257,0020200593,MISS Miller 26' 3PT Jump Shot,,8:07,3,4,0,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:30 PM
+244,0,4,258,0020200593,Miller REBOUND (Off:2 Def:2),,8:05,3,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:30 PM
+245,5,1,259,0020200593,Miller 2' Layup (5 PTS),,8:04,3,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,57 - 53,-4,,11:30 PM
+246,1,2,260,0020200593,,,7:45,3,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS McCoy 5' Jump Shot,11:31 PM
+247,0,4,261,0020200593,,,7:43,3,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,McCoy REBOUND (Off:2 Def:3),11:31 PM
+248,3,5,262,0020200593,,,7:42,3,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,McCoy Out Of Bounds Turnover (P1.T7),11:31 PM
+249,2,6,263,0020200593,,,7:39,3,5,0,1,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Lenard S.FOUL (P1.T3),11:31 PM
+250,11,3,264,0020200593,Miller Free Throw 1 of 2 (11 PTS),,7:39,3,4,0,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,57 - 54,-3,,11:31 PM
+251,12,3,265,0020200593,Miller Free Throw 2 of 2 (12 PTS),,7:39,3,4,0,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,57 - 55,-2,,11:31 PM
+252,1,1,266,0020200593,,,7:18,3,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,59 - 55,-4,Williams 5' Jump Shot (8 PTS),11:32 PM
+253,5,1,267,0020200593,O'Neal 2' Layup (7 PTS) (Tinsley 7 AST),,7:00,3,4,4,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,59 - 57,-2,,11:32 PM
+254,5,2,268,0020200593,,,6:43,3,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS McCoy 4' Layup,11:33 PM
+255,0,4,269,0020200593,O'Neal REBOUND (Off:1 Def:5),,6:41,3,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:33 PM
+256,5,1,270,0020200593,Tinsley  Layup (5 PTS),,6:35,3,4,0,0,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,59 - 59,TIE,,11:33 PM
+257,10,6,273,0020200593,,,6:23,3,4,5,1,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,11:33 PM
+258,5,2,274,0020200593,O'Neal BLOCK (7 BLK),,6:17,3,5,0,4,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,,,MISS Williams 2' Layup,11:33 PM
+259,0,4,275,0020200593,O'Neal REBOUND (Off:1 Def:6),,6:14,3,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:33 PM
+260,1,2,276,0020200593,MISS O'Neal 17' Jump Shot,,6:07,3,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:34 PM
+261,0,4,277,0020200593,,,6:05,3,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:2),11:34 PM
+262,1,2,278,0020200593,,,5:56,3,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Lenard 25' 3PT Jump Shot,11:34 PM
+263,0,4,279,0020200593,,,5:56,3,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,11:34 PM
+264,3,6,280,0020200593,World Peace L.B.FOUL (P2.T2),,5:56,3,4,0,1,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:34 PM
+265,1,2,281,0020200593,,,5:49,3,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Lenard 21' Jump Shot,11:34 PM
+266,0,4,282,0020200593,Miller REBOUND (Off:2 Def:3),,5:47,3,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:34 PM
+267,1,2,283,0020200593,MISS Miller 13' Jump Shot,,5:31,3,4,0,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:35 PM
+268,0,4,284,0020200593,,,5:30,3,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:6 Def:5),11:35 PM
+269,1,1,285,0020200593,,,5:10,3,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,61 - 59,-2,Williams 6' Jump Shot (10 PTS),11:35 PM
+270,1,6,286,0020200593,,,4:55,3,5,0,1,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,McCoy P.FOUL (P1.T4),11:35 PM
+271,0,8,287,0020200593,,,4:55,3,5,5,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Alston FOR Williams,11:35 PM
+272,0,8,288,0020200593,,,4:55,3,5,5,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,2245,Damone Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Brown FOR Peterson,11:35 PM
+273,1,9,289,0020200593,PACERS Timeout: Regular (Full 3 Short 0),,4:55,3,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,11:36 PM
+274,1,6,291,0020200593,,,4:54,3,5,0,1,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,McCoy P.FOUL (P2.PN),11:38 PM
+275,11,3,292,0020200593,MISS Miller Free Throw 1 of 2,,4:54,3,4,0,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:38 PM
+276,1,4,293,0020200593,PACERS Rebound,,4:54,3,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,11:38 PM
+277,12,3,294,0020200593,Miller Free Throw 2 of 2 (13 PTS),,4:54,3,4,0,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,61 - 60,-1,,11:38 PM
+278,1,2,295,0020200593,,,4:32,3,5,0,0,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Alston 26' 3PT Jump Shot,11:39 PM
+279,0,4,296,0020200593,O'Neal REBOUND (Off:1 Def:7),,4:30,3,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:39 PM
+280,2,5,297,0020200593,O'Neal Lost Ball Turnover (P3.T7),,4:28,3,4,5,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Williams STEAL (1 STL),11:39 PM
+281,2,6,298,0020200593,O'Neal S.FOUL (P2.T3),,4:27,3,4,0,1,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:39 PM
+282,11,3,299,0020200593,,,4:27,3,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,62 - 60,-2,Williams Free Throw 1 of 2 (11 PTS),11:39 PM
+283,12,3,300,0020200593,,,4:27,3,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,63 - 60,-3,Williams Free Throw 2 of 2 (12 PTS),11:39 PM
+284,1,2,301,0020200593,MISS World Peace 25' 3PT Jump Shot,,4:10,3,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:40 PM
+285,0,4,302,0020200593,,,4:08,3,5,0,0,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Alston REBOUND (Off:0 Def:2),11:40 PM
+286,1,2,303,0020200593,,,3:55,3,5,0,0,2245,Damone Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Brown 18' Jump Shot,11:40 PM
+287,0,4,304,0020200593,O'Neal REBOUND (Off:1 Def:8),,3:53,3,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:40 PM
+288,2,6,305,0020200593,,,3:41,3,5,0,1,2245,Damone Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Brown S.FOUL (P1.PN),11:40 PM
+289,11,3,306,0020200593,World Peace Free Throw 1 of 2 (8 PTS),,3:41,3,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,63 - 61,-2,,11:41 PM
+290,12,3,307,0020200593,World Peace Free Throw 2 of 2 (9 PTS),,3:41,3,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,63 - 62,-1,,11:41 PM
+291,4,5,308,0020200593,,,3:27,3,5,0,1,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,McCoy Traveling Turnover (P2.T8),11:41 PM
+292,0,8,309,0020200593,,,3:27,3,5,5,0,2245,Damone Brown,TOR,Toronto,1610612761.0,Raptors,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Hunter FOR Brown,11:41 PM
+293,1,2,310,0020200593,MISS World Peace 26' 3PT Jump Shot,,3:12,3,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:42 PM
+294,0,4,311,0020200593,,,3:09,3,5,0,0,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Alston REBOUND (Off:0 Def:3),11:42 PM
+295,2,6,312,0020200593,Miller S.FOUL (P2.T4),,3:04,3,4,0,1,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:42 PM
+296,0,8,313,0020200593,SUB: Harrington FOR O'Neal,,3:04,3,4,4,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,11:42 PM
+297,11,3,314,0020200593,,,3:04,3,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS McCoy Free Throw 1 of 2,11:42 PM
+298,1,4,315,0020200593,,,3:04,3,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,11:42 PM
+299,12,3,316,0020200593,,,3:04,3,5,0,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS McCoy Free Throw 2 of 2,11:42 PM
+300,0,4,317,0020200593,Harrington REBOUND (Off:3 Def:4),,3:03,3,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:42 PM
+301,1,2,318,0020200593,MISS Miller 17' Jump Shot,,2:48,3,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:43 PM
+302,0,4,319,0020200593,,,2:46,3,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:6 Def:6),11:43 PM
+303,1,6,320,0020200593,Harrington P.FOUL (P4.PN),,2:40,3,4,0,1,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:43 PM
+304,0,8,321,0020200593,,,2:40,3,5,5,0,1741,Jelani McCoy,TOR,Toronto,1610612761.0,Raptors,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Davis FOR McCoy,11:43 PM
+305,0,8,322,0020200593,SUB: Mercer FOR Harrington,,2:40,3,4,4,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,11:43 PM
+306,11,3,323,0020200593,,,2:40,3,5,0,0,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,64 - 62,-2,Alston Free Throw 1 of 2 (6 PTS),11:43 PM
+307,12,3,324,0020200593,,,2:40,3,5,0,0,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,65 - 62,-3,Alston Free Throw 2 of 2 (7 PTS),11:43 PM
+308,5,2,325,0020200593,MISS Miller 3' Layup,,2:26,3,4,0,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:44 PM
+309,0,4,326,0020200593,Miller REBOUND (Off:3 Def:3),,2:24,3,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:44 PM
+310,5,1,327,0020200593,Miller 2' Layup (7 PTS),,2:22,3,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,65 - 64,-1,,11:44 PM
+311,1,2,328,0020200593,Mercer BLOCK (1 BLK),,1:59,3,5,0,4,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,,,MISS Lenard 4' Jump Shot,11:44 PM
+312,0,4,329,0020200593,,,1:57,3,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Lenard REBOUND (Off:4 Def:1),11:44 PM
+313,1,2,330,0020200593,,,1:55,3,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Lenard 16' Jump Shot,11:44 PM
+314,0,4,331,0020200593,Miller REBOUND (Off:3 Def:4),,1:54,3,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:44 PM
+315,5,1,332,0020200593,Miller 3' Layup (9 PTS) (Mercer 1 AST),,1:47,3,4,4,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,65 - 66,1,,11:44 PM
+316,2,6,333,0020200593,Miller S.FOUL (P3.PN),,1:23,3,4,0,1,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:45 PM
+317,11,3,334,0020200593,,,1:23,3,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,66 - 66,TIE,Davis Free Throw 1 of 2 (10 PTS),11:45 PM
+318,12,3,335,0020200593,,,1:23,3,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Davis Free Throw 2 of 2,11:45 PM
+319,0,4,336,0020200593,Miller REBOUND (Off:3 Def:5),,1:22,3,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:45 PM
+320,1,2,337,0020200593,MISS Mercer 17' Jump Shot,,1:11,3,4,0,0,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:46 PM
+321,0,4,339,0020200593,Miller REBOUND (Off:4 Def:5),,1:08,3,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:46 PM
+322,4,2,338,0020200593,MISS Miller 1' Tip Shot,,1:08,3,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:46 PM
+323,0,4,340,0020200593,,,1:07,3,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:1 Def:5),11:46 PM
+324,46,1,341,0020200593,,,0:51,3,5,0,0,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,68 - 66,-2,Alston 8' Running Jump Shot (9 PTS),11:46 PM
+325,2,6,342,0020200593,,,0:34,3,5,0,1,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Alston S.FOUL (P2.PN),11:46 PM
+326,11,3,343,0020200593,Tinsley Free Throw 1 of 2 (6 PTS),,0:34,3,4,0,0,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,68 - 67,-1,,11:47 PM
+327,0,8,344,0020200593,SUB: Strickland FOR Miller,,0:34,3,4,4,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,11:47 PM
+328,0,8,345,0020200593,SUB: O'Neal FOR Miller,,0:34,3,4,4,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,11:47 PM
+329,12,3,346,0020200593,Tinsley Free Throw 2 of 2 (7 PTS),,0:34,3,4,0,0,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,68 - 68,TIE,,11:47 PM
+330,1,1,347,0020200593,,,0:11,3,5,5,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,71 - 68,-3,Hunter 26' 3PT Jump Shot (7 PTS) (Lenard 4 AST),11:47 PM
+331,1,2,348,0020200593,MISS Mercer 19' Jump Shot,,0:03,3,4,0,0,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:48 PM
+332,0,4,349,0020200593,,,0:01,3,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,11:48 PM
+333,0,13,350,0020200593,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,71 - 68,-3,,11:48 PM
+334,0,12,352,0020200593,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,71 - 68,-3,,11:50 PM
+335,5,2,353,0020200593,O'Neal BLOCK (8 BLK),,11:46,4,5,0,4,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,,,MISS Davis 2' Layup,11:51 PM
+336,0,4,354,0020200593,,,11:43,4,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:2 Def:5),11:51 PM
+337,5,2,355,0020200593,O'Neal BLOCK (9 BLK),,11:42,4,5,0,4,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,,,MISS Davis 3' Layup,11:51 PM
+338,0,4,356,0020200593,Tinsley REBOUND (Off:0 Def:3),,11:40,4,4,0,0,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:51 PM
+339,1,1,357,0020200593,Tinsley 14' Jump Shot (9 PTS),,11:38,4,4,0,0,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,71 - 70,-1,,11:51 PM
+340,1,1,358,0020200593,,,11:19,4,5,5,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,0,,,,,,74 - 70,-4,Hunter 25' 3PT Jump Shot (10 PTS) (Alston 2 AST),11:51 PM
+341,1,1,359,0020200593,O'Neal 4' Jump Shot (9 PTS),,10:54,4,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,74 - 72,-2,,11:51 PM
+342,1,2,360,0020200593,,,10:25,4,5,0,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Hunter 21' Jump Shot,11:52 PM
+343,0,4,361,0020200593,,,10:23,4,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:7 Def:6),11:52 PM
+344,1,2,362,0020200593,,,10:19,4,5,0,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Hunter 27' 3PT Jump Shot,11:52 PM
+345,0,4,363,0020200593,Harrington REBOUND (Off:3 Def:5),,10:18,4,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:52 PM
+346,1,1,364,0020200593,Mercer 21' Jump Shot (6 PTS) (Tinsley 8 AST),,10:09,4,4,4,0,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,0,,,,,,74 - 74,TIE,,11:52 PM
+347,1,1,365,0020200593,,,9:44,4,5,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,76 - 74,-2,Peterson 17' Jump Shot (4 PTS),11:53 PM
+348,2,6,366,0020200593,,,9:37,4,5,0,1,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Hunter S.FOUL (P2.T1),11:53 PM
+349,11,3,367,0020200593,Strickland Free Throw 1 of 2 (16 PTS),,9:37,4,4,0,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,76 - 75,-1,,11:53 PM
+350,12,3,368,0020200593,Strickland Free Throw 2 of 2 (17 PTS),,9:37,4,4,0,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,76 - 76,TIE,,11:53 PM
+351,0,8,406,0020200593,,,9:37,4,5,5,0,1747,Rafer Alston,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Williams FOR Alston,11:53 PM
+352,1,6,369,0020200593,Mercer P.FOUL (P1.T1),,9:14,4,4,0,1,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:54 PM
+353,1,1,371,0020200593,,,9:00,4,5,5,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,78 - 76,-2,Williams 22' Jump Shot (9 PTS) (Hunter 1 AST),11:54 PM
+354,5,1,372,0020200593,Harrington 1' Layup (6 PTS) (Mercer 2 AST),,8:46,4,4,4,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,78 - 78,TIE,,11:55 PM
+355,2,6,373,0020200593,,,8:46,4,5,0,1,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams S.FOUL (P2.T2),11:55 PM
+356,4,9,374,0020200593,,,8:46,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:55 PM
+357,10,3,377,0020200593,Harrington Free Throw 1 of 1 (7 PTS),,8:46,4,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,78 - 79,1,,11:57 PM
+358,2,6,378,0020200593,Strickland S.FOUL (P2.T2),,8:33,4,4,0,1,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:58 PM
+359,11,3,379,0020200593,,,8:33,4,5,0,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,79 - 79,TIE,Hunter Free Throw 1 of 2 (11 PTS),11:58 PM
+360,12,3,380,0020200593,,,8:33,4,5,0,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Hunter Free Throw 2 of 2,11:58 PM
+361,0,4,381,0020200593,Harrington REBOUND (Off:3 Def:6),,8:32,4,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:58 PM
+362,4,6,382,0020200593,Harrington OFF.Foul (P5),,8:28,4,4,0,1,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:58 PM
+363,5,5,383,0020200593,Harrington Foul Turnover (P3.T8),,8:28,4,4,0,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,11:58 PM
+364,0,8,384,0020200593,SUB: Miller FOR Harrington,,8:28,4,4,4,0,1733,Al Harrington,IND,Indiana,1610612754.0,Pacers,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,11:59 PM
+365,1,1,385,0020200593,,,8:17,4,5,5,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,81 - 79,-2,Davis 15' Jump Shot (12 PTS) (Williams 6 AST),11:59 PM
+366,2,6,386,0020200593,,,7:58,4,5,0,1,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams S.FOUL (P1.T3),11:59 PM
+367,11,3,387,0020200593,O'Neal Free Throw 1 of 2 (10 PTS),,7:58,4,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,81 - 80,-1,,11:59 PM
+368,0,8,389,0020200593,SUB: Miller FOR Tinsley,,7:58,4,4,4,0,2224,Jamaal Tinsley,IND,Indiana,1610612754.0,Pacers,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,12:00 PM
+369,12,3,390,0020200593,O'Neal Free Throw 2 of 2 (11 PTS),,7:58,4,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,81 - 81,TIE,,12:00 PM
+370,1,2,391,0020200593,,,7:44,4,5,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Peterson 26' 3PT Jump Shot,12:00 PM
+371,0,4,392,0020200593,Mercer REBOUND (Off:0 Def:2),,7:42,4,4,0,0,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:00 PM
+372,3,2,393,0020200593,MISS O'Neal 5' Hook Shot,,7:32,4,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:01 PM
+373,0,4,394,0020200593,,,7:29,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,12:01 PM
+374,5,2,395,0020200593,,,7:09,4,5,0,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Hunter 3' Layup,12:01 PM
+375,0,4,396,0020200593,Miller REBOUND (Off:0 Def:2),,7:08,4,4,0,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:01 PM
+376,5,2,397,0020200593,MISS Strickland 3' Layup,,7:02,4,4,0,5,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,,,Williams BLOCK (1 BLK),12:01 PM
+377,0,4,398,0020200593,PACERS Rebound,,7:01,4,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,12:01 PM
+378,0,8,399,0020200593,,,7:01,4,5,5,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Lenard FOR Peterson,12:02 PM
+379,5,1,400,0020200593,O'Neal 1' Layup (13 PTS),,6:51,4,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,81 - 83,2,,12:02 PM
+380,1,2,401,0020200593,,,6:27,4,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Davis 14' Jump Shot,12:02 PM
+381,0,4,402,0020200593,Miller REBOUND (Off:4 Def:6),,6:26,4,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:02 PM
+382,5,1,403,0020200593,O'Neal 2' Layup (15 PTS) (Strickland 3 AST),,6:15,4,4,4,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,81 - 85,4,,12:02 PM
+383,1,9,404,0020200593,,,6:13,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.4 Short 0),12:03 PM
+384,0,8,407,0020200593,,,6:13,4,5,5,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Peterson FOR Hunter,12:05 PM
+385,2,6,408,0020200593,O'Neal S.FOUL (P3.T3),,5:56,4,4,0,1,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:05 PM
+386,11,3,409,0020200593,,,5:56,4,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Davis Free Throw 1 of 2,12:05 PM
+387,1,4,410,0020200593,,,5:56,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,12:05 PM
+388,12,3,411,0020200593,,,5:56,4,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Davis Free Throw 2 of 2,12:06 PM
+389,0,4,412,0020200593,,,5:55,4,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:1 Def:2),12:06 PM
+390,1,6,413,0020200593,O'Neal P.FOUL (P4.T4),,5:54,4,4,0,1,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:06 PM
+391,7,1,414,0020200593,,,5:43,4,5,5,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,83 - 85,2,Davis 1' Dunk (14 PTS) (Williams 7 AST),12:06 PM
+392,1,2,415,0020200593,MISS O'Neal 3' Jump Shot,,5:17,4,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:07 PM
+393,0,4,416,0020200593,,,5:16,4,5,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Peterson REBOUND (Off:1 Def:2),12:07 PM
+394,1,1,417,0020200593,,,5:09,4,5,5,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,85 - 85,TIE,Williams 14' Jump Shot (14 PTS) (Williams 8 AST),12:07 PM
+395,1,2,418,0020200593,MISS Miller 19' Jump Shot,,4:52,4,4,0,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:07 PM
+396,0,4,419,0020200593,,,4:50,4,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:2 Def:6),12:07 PM
+397,1,1,420,0020200593,,,4:45,4,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,87 - 85,-2,Williams 18' Jump Shot (11 PTS),12:07 PM
+398,1,1,421,0020200593,Strickland 13' Jump Shot (19 PTS) (Mercer 3 AST),,4:27,4,4,4,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,87 - 87,TIE,,12:08 PM
+399,1,6,422,0020200593,Strickland P.FOUL (P3.PN),,4:17,4,4,0,1,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:08 PM
+400,11,3,423,0020200593,,,4:17,4,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,88 - 87,-1,Williams Free Throw 1 of 2 (12 PTS),12:08 PM
+401,12,3,424,0020200593,,,4:17,4,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,89 - 87,-2,Williams Free Throw 2 of 2 (13 PTS),12:08 PM
+402,1,2,425,0020200593,MISS Strickland 12' Jump Shot,,4:02,4,4,0,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:09 PM
+403,0,4,426,0020200593,,,4:00,4,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:7 Def:7),12:09 PM
+404,1,5,427,0020200593,Mercer STEAL (1 STL),,3:55,4,5,4,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Williams Bad Pass Turnover (P1.T9),12:09 PM
+405,7,1,428,0020200593,Mercer 1' Dunk (8 PTS),,3:51,4,4,0,0,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,89 - 89,TIE,,12:09 PM
+406,1,2,429,0020200593,,,3:29,4,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Davis 8' Jump Shot,12:09 PM
+407,0,4,430,0020200593,Strickland REBOUND (Off:0 Def:4),,3:27,4,4,0,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:09 PM
+408,1,1,431,0020200593,Mercer 17' Jump Shot (10 PTS) (Miller 1 AST),,3:07,4,4,4,0,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,89 - 91,2,,12:10 PM
+409,2,9,432,0020200593,,,3:04,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Short (Reg.4 Short 1),12:10 PM
+410,1,2,434,0020200593,O'Neal BLOCK (10 BLK),,2:46,4,5,0,4,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,,,MISS Davis 16' Jump Shot,12:11 PM
+411,0,4,435,0020200593,Miller REBOUND (Off:0 Def:3),,2:44,4,4,0,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:11 PM
+412,2,5,436,0020200593,Strickland Lost Ball Turnover (P2.T9),,2:29,4,4,5,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Williams STEAL (5 STL),12:11 PM
+413,5,2,437,0020200593,Miller BLOCK (1 BLK),,2:17,4,5,0,4,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,,,MISS Davis 2' Layup,12:12 PM
+414,0,4,438,0020200593,O'Neal REBOUND (Off:1 Def:9),,2:15,4,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:12 PM
+415,5,1,439,0020200593,Miller 1' Layup (11 PTS) (Strickland 4 AST),,2:07,4,4,4,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,89 - 93,4,,12:12 PM
+416,2,6,440,0020200593,Mercer S.FOUL (P2.PN),,1:46,4,4,0,1,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:12 PM
+417,1,9,442,0020200593,PACERS Timeout: Regular (Full 4 Short 0),,1:46,4,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,12:13 PM
+418,11,3,444,0020200593,,,1:46,4,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,90 - 93,3,Williams Free Throw 1 of 2 (14 PTS),12:15 PM
+419,12,3,445,0020200593,,,1:46,4,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,91 - 93,2,Williams Free Throw 2 of 2 (15 PTS),12:15 PM
+420,1,1,446,0020200593,Miller 25' 3PT Jump Shot (16 PTS) (Mercer 4 AST),,1:29,4,4,4,0,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,91 - 96,5,,12:15 PM
+421,1,2,447,0020200593,,,1:19,4,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams 25' 3PT Jump Shot,12:16 PM
+422,0,4,448,0020200593,,,1:17,4,5,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Peterson REBOUND (Off:2 Def:2),12:16 PM
+423,2,6,449,0020200593,Miller S.FOUL (P2.PN),,1:12,4,4,0,1,397,Reggie Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:16 PM
+424,13,3,450,0020200593,,,1:12,4,5,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Peterson Free Throw 1 of 3,12:16 PM
+425,1,4,451,0020200593,,,1:12,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,12:16 PM
+426,14,3,452,0020200593,,,1:12,4,5,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,92 - 96,4,Peterson Free Throw 2 of 3 (5 PTS),12:17 PM
+427,15,3,453,0020200593,,,1:12,4,5,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,93 - 96,3,Peterson Free Throw 3 of 3 (6 PTS),12:17 PM
+428,2,6,454,0020200593,,,0:58,4,5,0,1,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams S.FOUL (P3.T4),12:17 PM
+429,11,3,455,0020200593,MISS Miller Free Throw 1 of 2,,0:58,4,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:18 PM
+430,1,4,456,0020200593,PACERS Rebound,,0:58,4,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,12:18 PM
+431,12,3,457,0020200593,Miller Free Throw 2 of 2 (12 PTS),,0:58,4,4,0,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,93 - 97,4,,12:18 PM
+432,1,9,458,0020200593,,,0:58,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.5 Short 1),12:18 PM
+433,5,1,460,0020200593,,,0:52,4,5,5,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,95 - 97,2,Peterson 1' Layup (8 PTS) (Williams 9 AST),12:20 PM
+434,1,2,461,0020200593,MISS Mercer 20' Jump Shot,,0:36,4,4,0,0,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:20 PM
+435,0,4,462,0020200593,,,0:34,4,5,0,0,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Lenard REBOUND (Off:4 Def:2),12:20 PM
+436,46,1,463,0020200593,,,0:19,4,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,97 - 97,TIE,Williams 10' Running Jump Shot (17 PTS),12:20 PM
+437,1,9,464,0020200593,PACERS Timeout: Regular (Full 5 Short 0),,0:18,4,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,12:20 PM
+438,5,1,466,0020200593,O'Neal 2' Layup (17 PTS) (Strickland 5 AST),,0:03,4,4,4,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,0,,,,,,97 - 99,2,,12:23 PM
+439,2,6,467,0020200593,,,0:03,4,5,0,1,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams S.FOUL (P4.PN),12:23 PM
+440,10,3,468,0020200593,O'Neal Free Throw 1 of 1 (18 PTS),,0:03,4,4,0,0,979,Jermaine O'Neal,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,97 - 100,3,,12:23 PM
+441,1,9,469,0020200593,,,0:03,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.6 Short 1),12:23 PM
+442,0,8,471,0020200593,SUB: World Peace FOR Miller,,0:03,4,4,4,0,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,12:25 PM
+443,0,8,472,0020200593,,,0:03,4,5,5,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Hunter FOR Williams,12:25 PM
+444,1,6,473,0020200593,Mercer P.FOUL (P3.PN),,0:01,4,4,0,1,1500,Ron Mercer,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:25 PM
+445,0,8,474,0020200593,SUB: Miller FOR World Peace,,0:01,4,4,4,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,1802,Brad Miller,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,12:26 PM
+446,0,8,475,0020200593,,,0:01,4,5,5,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Williams FOR Peterson,12:26 PM
+447,11,3,476,0020200593,,,0:01,4,5,0,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,98 - 100,2,Hunter Free Throw 1 of 2 (12 PTS),12:26 PM
+448,0,8,478,0020200593,SUB: World Peace FOR Strickland,,0:01,4,4,4,0,1065,Erick Strickland,IND,Indiana,1610612754.0,Pacers,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,12:26 PM
+449,12,3,479,0020200593,,,0:01,4,5,0,0,283,Lindsey Hunter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Hunter Free Throw 2 of 2,12:26 PM
+450,0,4,480,0020200593,World Peace REBOUND (Off:1 Def:3),,0:00,4,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:26 PM
+451,3,6,481,0020200593,,,0:00,4,5,0,1,702,Voshon Lenard,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Lenard L.B.FOUL (P2.PN),12:26 PM
+452,11,3,482,0020200593,MISS World Peace Free Throw 1 of 2,,0:00,4,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,,12:27 PM
+453,1,4,483,0020200593,PACERS Rebound,,0:00,4,2,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,,12:27 PM
+454,12,3,484,0020200593,World Peace Free Throw 2 of 2 (10 PTS),,0:00,4,4,0,0,1897,Metta World Peace,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,98 - 101,3,,12:27 PM
+455,0,13,485,0020200593,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,98 - 101,3,,12:28 PM
