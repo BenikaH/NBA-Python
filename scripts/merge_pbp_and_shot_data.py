@@ -30,8 +30,7 @@ def merge_pbp_and_shot_data(year):
         shot_df = data.get_shot_data(overwrite=False, season_year=year)
         shot_df = shot_df[
             ['ACTION_TYPE', 'EVENT_TYPE', 'GAME_EVENT_ID', 'GAME_ID', 'LOC_X', 'LOC_Y', 'SHOT_DISTANCE',
-             'SHOT_MADE_FLAG',
-             'SHOT_TYPE', 'SHOT_ZONE_AREA', 'SHOT_ZONE_BASIC', 'SHOT_ZONE_RANGE']]
+             'SHOT_MADE_FLAG', 'SHOT_TYPE', 'SHOT_ZONE_AREA', 'SHOT_ZONE_BASIC', 'SHOT_ZONE_RANGE']]
 
         for i, game_id in enumerate(game_ids):
             print(i, game_id)
@@ -43,8 +42,7 @@ def merge_pbp_and_shot_data(year):
                      'PLAYER2_NAME', 'PLAYER2_TEAM_ID', 'PLAYER3_ID', 'PLAYER3_NAME', 'PLAYER3_TEAM_ID']]
 
                 merge_df = pd.merge(pbp_df, shot_df, left_on=['GAME_ID', 'EVENTNUM'],
-                                    right_on=['GAME_ID', 'GAME_EVENT_ID'],
-                                    how='inner')
+                                    right_on=['GAME_ID', 'GAME_EVENT_ID'], how='inner')
             except KeyError:
                 print("KEY ERROR")
 
@@ -90,7 +88,8 @@ def chart_blocks(data_df, year, num_of_players):
 def get_alley_oop_pairs(data_df):
     alley_oop_df = data_df[data_df['ACTION_TYPE'].isin(['Alley Oop Dunk Shot', 'Alley Oop Layup Shot'])]
     alley_oop_df = alley_oop_df[alley_oop_df['SHOT_MADE_FLAG'] == 1]
-    alley_oop_df['Player_Pairs'] = alley_oop_df['PLAYER2_NAME'].map(str) + ' to ' + alley_oop_df['PLAYER1_NAME']
+    alley_oop_df['Player_Pairs'] = alley_oop_df['PLAYER2_NAME'].map(str) + ' to ' + alley_oop_df['PLAYER1_NAME'].map(
+        str)
     player_pairs = alley_oop_df['Player_Pairs'].unique()
     pairs = {}
     for i, pair in enumerate(player_pairs):
@@ -101,15 +100,17 @@ def get_alley_oop_pairs(data_df):
     pairs = sorted(pairs.items(), key=operator.itemgetter(1), reverse=True)
     for i, pair in enumerate(pairs):
         print(pair[0] + ' | ' + str(pair[1]))
+    return pairs
 
 
 def get_alley_oop_finishers(data_df):
     alley_oop_df = data_df[data_df['ACTION_TYPE'].isin(['Alley Oop Dunk Shot', 'Alley Oop Layup Shot'])]
     alley_oop_df = alley_oop_df[alley_oop_df['SHOT_MADE_FLAG'] == 1]
-    players = alley_oop_df['PLAYER1_NAME'].unique()
+    alley_oop_df['PLAYER_DISPLAY'] = alley_oop_df['PLAYER1_NAME'].map(str)
+    players = alley_oop_df['PLAYER_DISPLAY'].unique()
     pairs = {}
     for i, player in enumerate(players):
-        player_df = alley_oop_df[alley_oop_df['PLAYER1_NAME'] == player]
+        player_df = alley_oop_df[alley_oop_df['PLAYER_DISPLAY'] == player]
         num_of_oops = player_df.shape[0]
         if num_of_oops > 4:
             pairs[player] = num_of_oops
@@ -121,10 +122,11 @@ def get_alley_oop_finishers(data_df):
 def get_alley_oop_throwers(data_df):
     alley_oop_df = data_df[data_df['ACTION_TYPE'].isin(['Alley Oop Dunk Shot', 'Alley Oop Layup Shot'])]
     alley_oop_df = alley_oop_df[alley_oop_df['SHOT_MADE_FLAG'] == 1]
-    players = alley_oop_df['PLAYER2_NAME'].unique()
+    alley_oop_df['PLAYER_DISPLAY'] = alley_oop_df['PLAYER2_NAME'].map(str)
+    players = alley_oop_df['PLAYER_DISPLAY'].unique()
     pairs = {}
     for i, player in enumerate(players):
-        player_df = alley_oop_df[alley_oop_df['PLAYER2_NAME'] == player]
+        player_df = alley_oop_df[alley_oop_df['PLAYER_DISPLAY'] == player]
         num_of_oops = player_df.shape[0]
         if num_of_oops > 4:
             pairs[player] = num_of_oops
@@ -133,5 +135,10 @@ def get_alley_oop_throwers(data_df):
         print(pair[0] + ' | ' + str(pair[1]))
 
 
+df = pd.DataFrame()
 for year in range(1996, 2016):
-    merge_pbp_and_shot_data(year)
+    year_df = merge_pbp_and_shot_data(year)
+    year_df['YEAR'] = year
+    year_df['YEAR'] = year_df['YEAR'].astype(int)
+    df = df.append(year_df)
+get_alley_oop_finishers(df)

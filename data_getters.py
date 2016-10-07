@@ -246,8 +246,9 @@ def get_general_stats(player_or_team, measure_type, per_mode, season_year, seaso
         print('GET DATA FROM WEB API')
 
         stats_url = GeneralStatsUrl(player_or_team=player_or_team, measure_type=measure_type, per_mode=per_mode,
-                                    season=season_year, season_type=season_type)
+                                    season=get_year_string(season_year), season_type=season_type)
 
+        print(stats_url.build_url())
         df = json_to_pandas(stats_url.build_url(), 0)
 
         if df is not None:
