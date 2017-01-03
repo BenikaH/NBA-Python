@@ -1,8 +1,5 @@
 import pandas as pd
-import shot_charts as charts
-import matplotlib.pyplot as plt
 import data_getters as data
-import operator
 
 
 def get_season_game_ids(season_year):
@@ -54,91 +51,4 @@ def merge_pbp_and_shot_data(year):
         return pd.read_csv(file_path)
 
 
-def chart_assists(data_df, year, num_of_players):
-    players_df = data.get_general_stats(data.PlayerOrTeam.P, data.MeasureTypes.BASE, data.PerModes.TOTAL, year,
-                                        data.SeasonTypes.REG)
-    players_df = players_df.sort_values(by=['AST'], ascending=False).head(num_of_players)
-    for i, player in players_df.iterrows():
-        player_df = data_df[data_df['PLAYER2_ID'] == player.PLAYER_ID]
-        charts.make_matplot_scatter_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, year,
-                                               data.SeasonTypes.REG, 'assist')
-        charts.make_matplot_hexbin_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, year,
-                                              data.SeasonTypes.REG, 'assist')
-        charts.make_matplot_kde_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, year,
-                                           data.SeasonTypes.REG, 'assist')
-        charts.make_histogram(player_df, player.PLAYER_NAME, year, data.SeasonTypes.REG, 'assist')
-
-
-def chart_blocks(data_df, year, num_of_players):
-    players_df = data.get_general_stats(data.PlayerOrTeam.P, data.MeasureTypes.BASE, data.PerModes.TOTAL, year,
-                                        data.SeasonTypes.REG)
-    players_df = players_df.sort_values(by=['BLK'], ascending=False).head(num_of_players)
-    for i, player in players_df.iterrows():
-        print(player.PLAYER_ID, player.PLAYER_NAME)
-        player_df = data_df[data_df['PLAYER3_ID'] == player.PLAYER_ID]
-        charts.make_matplot_scatter_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, year,
-                                               data.SeasonTypes.REG, 'blocks')
-        charts.make_matplot_hexbin_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, year,
-                                              data.SeasonTypes.REG, 'blocks')
-        charts.make_matplot_kde_shot_chart(player_df, player.PLAYER_NAME, player.PLAYER_ID, year,
-                                           data.SeasonTypes.REG, 'blocks')
-        charts.make_histogram(player_df, player.PLAYER_NAME, year, data.SeasonTypes.REG, 'block')
-
-
-def get_alley_oop_pairs(data_df):
-    alley_oop_df = data_df[data_df['ACTION_TYPE'].isin(['Alley Oop Dunk Shot', 'Alley Oop Layup Shot'])]
-    alley_oop_df = alley_oop_df[alley_oop_df['SHOT_MADE_FLAG'] == 1]
-    alley_oop_df['Player_Pairs'] = alley_oop_df['PLAYER2_NAME'].map(str) + ' to ' + alley_oop_df['PLAYER1_NAME'].map(
-        str)
-    player_pairs = alley_oop_df['Player_Pairs'].unique()
-    pairs = {}
-    for i, pair in enumerate(player_pairs):
-        pair_df = alley_oop_df[alley_oop_df['Player_Pairs'] == pair]
-        num_of_oops = pair_df.shape[0]
-        if num_of_oops > 4:
-            pairs[pair] = num_of_oops
-    pairs = sorted(pairs.items(), key=operator.itemgetter(1), reverse=True)
-    for i, pair in enumerate(pairs):
-        print(pair[0] + ' | ' + str(pair[1]))
-    return pairs
-
-
-def get_alley_oop_finishers(data_df):
-    alley_oop_df = data_df[data_df['ACTION_TYPE'].isin(['Alley Oop Dunk Shot', 'Alley Oop Layup Shot'])]
-    alley_oop_df = alley_oop_df[alley_oop_df['SHOT_MADE_FLAG'] == 1]
-    alley_oop_df['PLAYER_DISPLAY'] = alley_oop_df['PLAYER1_NAME'].map(str)
-    players = alley_oop_df['PLAYER_DISPLAY'].unique()
-    pairs = {}
-    for i, player in enumerate(players):
-        player_df = alley_oop_df[alley_oop_df['PLAYER_DISPLAY'] == player]
-        num_of_oops = player_df.shape[0]
-        if num_of_oops > 4:
-            pairs[player] = num_of_oops
-    pairs = sorted(pairs.items(), key=operator.itemgetter(1), reverse=True)
-    for i, pair in enumerate(pairs):
-        print(pair[0] + ' | ' + str(pair[1]))
-
-
-def get_alley_oop_throwers(data_df):
-    alley_oop_df = data_df[data_df['ACTION_TYPE'].isin(['Alley Oop Dunk Shot', 'Alley Oop Layup Shot'])]
-    alley_oop_df = alley_oop_df[alley_oop_df['SHOT_MADE_FLAG'] == 1]
-    alley_oop_df['PLAYER_DISPLAY'] = alley_oop_df['PLAYER2_NAME'].map(str)
-    players = alley_oop_df['PLAYER_DISPLAY'].unique()
-    pairs = {}
-    for i, player in enumerate(players):
-        player_df = alley_oop_df[alley_oop_df['PLAYER_DISPLAY'] == player]
-        num_of_oops = player_df.shape[0]
-        if num_of_oops > 4:
-            pairs[player] = num_of_oops
-    pairs = sorted(pairs.items(), key=operator.itemgetter(1), reverse=True)
-    for i, pair in enumerate(pairs):
-        print(pair[0] + ' | ' + str(pair[1]))
-
-
-df = pd.DataFrame()
-for year in range(1996, 2016):
-    year_df = merge_pbp_and_shot_data(year)
-    year_df['YEAR'] = year
-    year_df['YEAR'] = year_df['YEAR'].astype(int)
-    df = df.append(year_df)
-get_alley_oop_finishers(df)
+merge_pbp_and_shot_data(2016)
