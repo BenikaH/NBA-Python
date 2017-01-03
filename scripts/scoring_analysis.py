@@ -156,13 +156,3 @@ def generate_consistency_plots(data_df):
     ts_traces.sort(key=lambda x: x.y.std())
     fig = go.Figure(data=pp36_traces, layout=layout)
     url = py.plot(fig, filename="TS Variance")
-
-
-# df = get_synergy_data()
-# df = calc_points_above_exp(df).sort_values(by='Total_PTS_ABOVE_EXP', ascending=False).head(10)
-# d.print_reddit_table(df=df, columns=['PLAYER_FIRST_NAME', 'PLAYER_LAST_NAME', 'Total_PTS_ABOVE_EXP', 'Total_PPP',
-#                                     'Total_EXP_PPP'])
-# graph_player_pts_above_exp(df)
-
-df = get_consistency_data()
-generate_consistency_plots(df)

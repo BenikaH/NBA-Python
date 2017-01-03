@@ -240,8 +240,11 @@ def get_game_logs_for_player(player_id, season_year='2016-17'):
 
 
 def print_reddit_table(df, columns):
-    df = df.round(2)
     for ix, col in enumerate(columns):
+        try:
+            df[col] = df[col].round(2)
+        except TypeError:
+            2+2
         sys.stdout.write(col + (' | ' if ix is not len(columns) - 1 else ''))
     print('')
     for ix, col in enumerate(columns):
@@ -254,3 +257,28 @@ def print_reddit_table(df, columns):
             except UnicodeEncodeError:
                 sys.stdout.write(' ' + (' | ' if jx is not len(columns) - 1 else ''))
         print('')
+
+
+def get_player_passes(player_id, season_year='2016-17'):
+    url = 'http://stats.nba.com/stats/playerdashptpass?' \
+          'DateFrom=&' \
+          'DateTo=&' \
+          'GameSegment=&' \
+          'LastNGames=0&' \
+          'LeagueID=00&' \
+          'Location=&' \
+          'Month=0&' \
+          'OpponentTeamID=0&' \
+          'Outcome=&' \
+          'PORound=0&' \
+          'PerMode=Totals&' \
+          'Period=0&' \
+          'PlayerID={player_id}' \
+          '&Season={season_year}&' \
+          'SeasonSegment=&' \
+          'SeasonType=Regular+Season&' \
+          'TeamID=0&' \
+          'VsConference=&' \
+          'VsDivision='
+    url = url.format(player_id=player_id, season_year=season_year)
+    return json_to_pandas(url, 0)
