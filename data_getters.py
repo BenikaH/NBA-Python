@@ -170,8 +170,6 @@ def get_general_stats(player_or_team='player', measure_type='Base', per_mode='To
 
 def get_synergy_stats(player_or_team='player', category='Transition', offensive_or_defensive='offensive',
                       season_year='2016'):
-    print(
-        'Getting ' + player_or_team + ' synergy ' + offensive_or_defensive + ' ' + category + ' stats for ' + season_year)
     url = 'http://stats-prod.nba.com/wp-json/statscms/v1/synergy/' \
           '{player_or_team}/?' \
           'category={category}&' \
@@ -182,9 +180,7 @@ def get_synergy_stats(player_or_team='player', category='Transition', offensive_
           'seasonType=Reg'
     url = url.format(player_or_team=player_or_team, category=category, offensive_or_defensive=offensive_or_defensive,
                      season_year=season_year)
-    df = json_to_pandas_for_syngery(url)
-    print(str(len(df)) + ' results')
-    return df
+    return json_to_pandas_for_syngery(url)
 
 
 synergy_play_types = ["Transition", "Isolation", "PRBallHandler", "PRRollman", "Postup", "Spotup", "Handoff", "Cut",
@@ -192,13 +188,11 @@ synergy_play_types = ["Transition", "Isolation", "PRBallHandler", "PRRollman", "
 
 
 def get_combined_synergy_stats_for_players(season_year='2016', offensive_or_defensive='offensive'):
-    print('Getting all player synergy ' + offensive_or_defensive + ' stats for ' + season_year)
     df = pd.DataFrame(columns=['PLAYER_ID', 'TEAM_ID', 'PLAYER_FIRST_NAME', 'PLAYER_LAST_NAME', 'TEAM_ABB'])
     for play_type in synergy_play_types:
         play_type_df = get_synergy_stats(category=play_type, season_year=season_year,
                                          offensive_or_defensive=offensive_or_defensive)
         ppp_mean = float(play_type_df['Points'].sum()) / float(play_type_df['Poss'].sum())
-        print(ppp_mean)
         play_type_df['PPP_ABOVE_MEAN'] = play_type_df['PPP'] - ppp_mean
         play_type_df['EXP_PTS'] = ppp_mean * play_type_df['Poss']
         play_type_df = play_type_df[
@@ -223,7 +217,6 @@ def get_combined_synergy_stats_for_players(season_year='2016', offensive_or_defe
         df['Total_TOV'] += df[play_type + '_TOV']
         df['Total_AND_ONE'] = df[play_type + '_AND_ONE']
     df['Total_PPP'] = df['Total_PTS'] / df['Total_POSS']
-    print(str(len(df)) + ' total results')
     return df
 
 

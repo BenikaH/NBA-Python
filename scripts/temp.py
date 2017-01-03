@@ -15,12 +15,13 @@ consistency_data_overwrite = False
 
 def get_synergy_data():
     if (not d.create_directories_and_check_for_file(filepath=synergy_data_file_path)) or synergy_data_overwrite:
-        print('Don\'t have stats yet, getting from stats.nba.com API....')
+        print('Getting Synergy Data from stats.nba.com API....')
         data_df = d.get_combined_synergy_stats_for_players(season_year=season_year,
                                                            offensive_or_defensive=offensive_or_defensive)
         data_df.to_csv(synergy_data_file_path, encoding='utf-8')
         return data_df
     else:
+        print('Getting Synergy Data from ' + synergy_data_file_path + '....')
         return p.read_csv(synergy_data_file_path, encoding='utf-8')
 
 
@@ -37,8 +38,9 @@ def calc_points_above_exp(data_df):
 
 def graph_player_pts_above_exp(data_df):
     for ix, row in data_df.iterrows():
+        print(row.PLAYER_LAST_NAME)
         layout = go.Layout(
-            title=row.PLAYER_FIRST_NAME + ' ' + row.PLAYER_LAST_NAME + 'EXP_SCORING',
+            title=row.PLAYER_FIRST_NAME + ' ' + row.PLAYER_LAST_NAME + ' Expected Scoring',
             barmode='stack',
             paper_bgcolor='rgba(245, 246, 249, 1)',
             plot_bgcolor='rgba(245, 246, 249, 1)',
@@ -64,7 +66,9 @@ def get_consistency_data():
     if (not d.create_directories_and_check_for_file(consistency_data_file_path)) or consistency_data_overwrite:
         base_stats_df = d.get_general_stats()
         base_stats_df = base_stats_df[base_stats_df['GP'] > 25]
-        base_stats_df = base_stats_df.sort_values(by='PTS', ascending=False).head(50)
+        base_stats_df['PPG'] = base_stats_df['PTS'] / base_stats_df['GP']
+        base_stats_df = base_stats_df.sort_values(by='PPG', ascending=False).head(20)
+        print(base_stats_df[['PLAYER_NAME']])
 
         data_df = p.DataFrame(
             columns=['PLAYER_ID', 'PLAYER_NAME', 'PP36', 'PP36_STD', 'PP36_VAR', 'TS', 'TS_STD', 'TS_VAR'])
@@ -134,35 +138,55 @@ def generate_consistency_plots(data_df):
         player_df = p.read_csv(player_file_path)
         player_pp36_trace = go.Box(
             y=player_df['PP36'],
-            name=player.PLAYER_NAME
+            name=player.PLAYER_NAME,
+            whiskerwidth=0,
+            boxpoints='all',
+            boxmean=True,
+            jitter=1,
+            pointpos=0,
+            line=dict(
+                width=0
+            )
         )
         pp36_traces.append(player_pp36_trace)
         player_ts_trace = go.Box(
             y=player_df['TS'],
-            name=player.PLAYER_NAME
+            name=player.PLAYER_NAME,
+            whiskerwidth=0,
+            boxpoints='all',
+            boxmean=True,
+            jitter=1,
+            pointpos=0,
+            line=dict(
+                width=0
+            )
         )
+        ts_traces.append(player_ts_trace)
 
     pp36_traces.sort(key=lambda x: x.y.std())
-    layout.title = 'PP36 Variance'
+    layout.title = 'PP36 Consistency'
     fig = go.Figure(data=pp36_traces, layout=layout)
-    url = py.plot(fig, filename="PP36 Variance")
+    url = py.plot(fig, filename="PP36 Consistency")
 
-    layout.title = 'PP36 Variance over Mean'
+    layout.title = 'PP36 Consistency (Mean Adjusted)'
     pp36_traces.sort(key=lambda x: x.y.std() / x.y.mean())
     fig = go.Figure(data=pp36_traces, layout=layout)
-    url = py.plot(fig, filename="PP36 Variance over Mean")
+    url = py.plot(fig, filename="PP36 Consistency (Mean Adjusted)")
 
-    layout.title = 'TS Variance'
+    layout.title = 'TS Consistency'
     ts_traces.sort(key=lambda x: x.y.std())
-    fig = go.Figure(data=pp36_traces, layout=layout)
-    url = py.plot(fig, filename="TS Variance")
+    fig = go.Figure(data=ts_traces, layout=layout)
+    url = py.plot(fig, filename="TS Consistency")
 
 
-# df = get_synergy_data()
-# df = calc_points_above_exp(df).sort_values(by='Total_PTS_ABOVE_EXP', ascending=False).head(10)
-# d.print_reddit_table(df=df, columns=['PLAYER_FIRST_NAME', 'PLAYER_LAST_NAME', 'Total_PTS_ABOVE_EXP', 'Total_PPP',
-#                                     'Total_EXP_PPP'])
-# graph_player_pts_above_exp(df)
+synergy_df = calc_points_above_exp(get_synergy_data())
 
-df = get_consistency_data()
-generate_consistency_plots(df)
+consistency_df = get_consistency_data()
+
+merged_df = p.merge(synergy_df, consistency_df, on='PLAYER_ID', how='right')
+merged_df = merged_df.sort_values(by='Total_PTS', ascending=False)
+d.print_reddit_table(merged_df,
+                     ['PLAYER_NAME', 'Total_POSS', 'Total_PPP', 'Total_EXP_PPP', 'Total_PTS_ABOVE_EXP', 'PP36_STD', 'TS_STD'])
+
+#generate_consistency_plots(merged_df)
+graph_player_pts_above_exp(merged_df)
