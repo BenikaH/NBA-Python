@@ -1,0 +1,492 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021600555,,,12:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:11 PM
+1,0,10,1,0021600555,Jump Ball Adams vs. Nurkic: Tip to Roberson,,12:00,1,4.0,5,4,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,,,,8:11 PM
+2,1,5,2,0021600555,Westbrook Bad Pass Turnover (P1.T1),,11:44,1,4.0,5,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Nurkic STEAL (1 STL),8:11 PM
+3,1,2,3,0021600555,,,11:29,1,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Gallinari 25' 3PT Jump Shot,8:12 PM
+4,0,4,4,0021600555,Adams REBOUND (Off:0 Def:1),,11:29,1,4.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:12 PM
+5,1,2,5,0021600555,MISS Oladipo  3PT Jump Shot,,11:16,1,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:12 PM
+6,0,4,6,0021600555,,,11:16,1,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton REBOUND (Off:0 Def:1),8:12 PM
+7,1,6,7,0021600555,Adams P.FOUL (P1.T1) (P.Fraher),,11:11,1,4.0,5,1,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:12 PM
+8,1,2,8,0021600555,,,10:57,1,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Gallinari 12' Jump Shot,8:12 PM
+9,0,4,10,0021600555,,,10:56,1,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nurkic REBOUND (Off:1 Def:0),8:13 PM
+10,97,2,9,0021600555,,,10:56,1,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nurkic 2' Tip Layup Shot,8:13 PM
+11,0,4,12,0021600555,,,10:55,1,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nurkic REBOUND (Off:2 Def:0),8:13 PM
+12,97,1,11,0021600555,,,10:55,1,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,2 - 0,-2,Nurkic 1' Tip Layup Shot (2 PTS),8:13 PM
+13,44,1,13,0021600555,Adams 1' Reverse Layup (2 PTS) (Oladipo 1 AST),,10:40,1,4.0,4,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,2 - 2,TIE,,8:13 PM
+14,1,2,15,0021600555,Adams BLOCK (1 BLK),,10:16,1,5.0,0,4,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,,,MISS Mudiay 8' Jump Shot,8:13 PM
+15,0,4,16,0021600555,,,10:16,1,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,8:13 PM
+16,1,2,17,0021600555,,,10:14,1,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Arthur 15' Jump Shot,8:14 PM
+17,0,4,18,0021600555,,,10:13,1,5.0,0,0,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Mudiay REBOUND (Off:1 Def:0),8:14 PM
+18,1,1,19,0021600555,,,10:09,1,5.0,5,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,5 - 2,-3,Barton 27' 3PT Jump Shot (3 PTS) (Mudiay 1 AST),8:14 PM
+19,1,2,20,0021600555,MISS Oladipo 24' 3PT Jump Shot,,9:55,1,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:14 PM
+20,0,4,21,0021600555,,,9:54,1,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nurkic REBOUND (Off:2 Def:1),8:14 PM
+21,58,2,22,0021600555,,,9:43,1,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nurkic 4' Turnaround Hook Shot,8:14 PM
+22,0,4,23,0021600555,Westbrook REBOUND (Off:0 Def:1),,9:43,1,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:14 PM
+23,41,1,24,0021600555,Oladipo 2' Running Layup (2 PTS) (Westbrook 1 AST),,9:38,1,4.0,4,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,5 - 4,-1,,8:14 PM
+24,1,1,25,0021600555,,,9:28,1,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,8 - 4,-4,Arthur 25' 3PT Jump Shot (3 PTS) (Mudiay 2 AST),8:14 PM
+25,73,1,26,0021600555,Sabonis 1' Driving Reverse Layup (2 PTS),,9:07,1,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,8 - 6,-2,,8:15 PM
+26,1,6,27,0021600555,Sabonis P.FOUL (P1.T2) (P.Fraher),,8:55,1,4.0,5,1,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:15 PM
+27,1,2,28,0021600555,,,8:48,1,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Gallinari 11' Jump Shot,8:15 PM
+28,0,4,29,0021600555,,,8:47,1,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nurkic REBOUND (Off:3 Def:1),8:15 PM
+29,72,2,30,0021600555,,,8:46,1,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nurkic 3' Putback Layup,8:15 PM
+30,0,4,31,0021600555,Westbrook REBOUND (Off:0 Def:2),,8:44,1,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:16 PM
+31,79,2,32,0021600555,MISS Westbrook 20' Pullup Jump Shot,,8:38,1,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:16 PM
+32,0,4,33,0021600555,,,8:37,1,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Arthur REBOUND (Off:0 Def:1),8:16 PM
+33,42,2,34,0021600555,,,8:28,1,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton 2' Driving Layup,8:16 PM
+34,0,4,35,0021600555,Sabonis REBOUND (Off:0 Def:1),,8:26,1,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:16 PM
+35,79,1,36,0021600555,Westbrook 13' Pullup Jump Shot (2 PTS),,8:20,1,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,8 - 8,TIE,,8:16 PM
+36,1,2,37,0021600555,,,7:58,1,5.0,0,0,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Mudiay 24' 3PT Jump Shot,8:16 PM
+37,0,4,38,0021600555,Westbrook REBOUND (Off:0 Def:3),,7:57,1,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:16 PM
+38,46,2,39,0021600555,MISS Oladipo 25' 3PT Running Jump Shot,,7:52,1,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:16 PM
+39,0,4,40,0021600555,,,7:51,1,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Gallinari REBOUND (Off:0 Def:1),8:16 PM
+40,79,2,41,0021600555,,,7:40,1,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Gallinari 22' Pullup Jump Shot,8:17 PM
+41,0,4,42,0021600555,Oladipo REBOUND (Off:0 Def:1),,7:40,1,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:17 PM
+42,58,2,43,0021600555,MISS Sabonis 6' Turnaround Hook Shot,,7:27,1,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:17 PM
+43,0,4,44,0021600555,Sabonis REBOUND (Off:1 Def:1),,7:26,1,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:17 PM
+44,2,6,45,0021600555,,,7:17,1,5.0,4,1,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Arthur S.FOUL (P1.T1) (J.Goble),8:17 PM
+45,11,3,47,0021600555,Sabonis Free Throw 1 of 2 (3 PTS),,7:17,1,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,8 - 9,1,,8:17 PM
+46,12,3,49,0021600555,Sabonis Free Throw 2 of 2 (4 PTS),,7:17,1,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,8 - 10,2,,8:17 PM
+47,40,5,51,0021600555,,,7:08,1,5.0,0,1,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Arthur Out of Bounds Lost Ball Turnover (P1.T1),8:18 PM
+48,79,2,52,0021600555,MISS Westbrook 24' 3PT Pullup Jump Shot,,6:57,1,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:18 PM
+49,0,4,53,0021600555,,,6:57,1,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,8:18 PM
+50,49,2,54,0021600555,Adams BLOCK (2 BLK),,6:38,1,5.0,0,4,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,,,MISS Gallinari  Driving Dunk,8:19 PM
+51,0,4,55,0021600555,Sabonis REBOUND (Off:1 Def:2),,6:37,1,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:19 PM
+52,58,1,56,0021600555,Sabonis 4' Turnaround Hook Shot (6 PTS),,6:26,1,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,8 - 12,4,,8:19 PM
+53,2,6,57,0021600555,,,6:26,1,5.0,4,1,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Arthur S.FOUL (P2.T2) (P.Fraher),8:19 PM
+54,0,8,58,0021600555,,,6:26,1,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Chandler FOR Arthur,8:19 PM
+55,10,3,59,0021600555,Sabonis Free Throw 1 of 1 (7 PTS),,6:26,1,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,8 - 13,5,,8:19 PM
+56,1,2,61,0021600555,,,6:14,1,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nurkic 15' Jump Shot,8:20 PM
+57,0,4,62,0021600555,Westbrook REBOUND (Off:0 Def:4),,6:13,1,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:20 PM
+58,58,2,63,0021600555,MISS Adams 4' Turnaround Hook Shot,,6:07,1,4.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:20 PM
+59,0,4,64,0021600555,,,6:06,1,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Gallinari REBOUND (Off:0 Def:2),8:20 PM
+60,5,2,65,0021600555,,,5:50,1,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Gallinari 2' Layup,8:20 PM
+61,0,4,66,0021600555,Adams REBOUND (Off:0 Def:2),,5:50,1,4.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:20 PM
+62,1,6,67,0021600555,,,5:50,1,5.0,4,1,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Barton P.FOUL (P1.T3) (P.Fraher),8:20 PM
+63,1,9,68,0021600555,THUNDER Timeout: Regular (Full 1 Short 0),,5:50,1,2.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,8:20 PM
+64,1,2,70,0021600555,MISS Westbrook 17' Jump Shot,,5:34,1,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:23 PM
+65,0,4,71,0021600555,Westbrook REBOUND (Off:1 Def:4),,5:33,1,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:23 PM
+66,72,1,72,0021600555,Westbrook 1' Putback Layup (4 PTS),,5:32,1,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,8 - 15,7,,8:23 PM
+67,2,6,73,0021600555,Adams S.FOUL (P2.T3) (P.Fraher),,5:15,1,4.0,5,1,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:23 PM
+68,11,3,74,0021600555,,,5:15,1,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nurkic Free Throw 1 of 2,8:24 PM
+69,1,4,75,0021600555,,,5:15,1,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,8:24 PM
+70,0,8,76,0021600555,SUB: Kanter FOR Adams,,5:15,1,4.0,4,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,8:24 PM
+71,0,8,77,0021600555,SUB: Abrines FOR Oladipo,,5:15,1,4.0,4,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,8:24 PM
+72,12,3,78,0021600555,,,5:15,1,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,9 - 15,6,Nurkic Free Throw 2 of 2 (3 PTS),8:24 PM
+73,2,6,80,0021600555,,,5:01,1,5.0,4,1,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Nurkic S.FOUL (P1.T4) (J.Goble),8:24 PM
+74,11,3,81,0021600555,Sabonis Free Throw 1 of 2 (8 PTS),,5:01,1,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,9 - 16,7,,8:25 PM
+75,12,3,83,0021600555,Sabonis Free Throw 2 of 2 (9 PTS),,5:01,1,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,9 - 17,8,,8:25 PM
+76,1,6,85,0021600555,Abrines P.FOUL (P1.T4) (T.Washington),,4:52,1,4.0,5,1,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:25 PM
+77,1,5,86,0021600555,Sabonis STEAL (1 STL),,4:38,1,5.0,4,0,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Mudiay Bad Pass Turnover (P1.T2),8:26 PM
+78,79,2,87,0021600555,MISS Westbrook 17' Pullup Jump Shot,,4:32,1,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:26 PM
+79,0,4,88,0021600555,,,4:31,1,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton REBOUND (Off:0 Def:2),8:26 PM
+80,79,2,89,0021600555,,,4:23,1,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton 3' Pullup Jump Shot,8:26 PM
+81,0,4,90,0021600555,Kanter REBOUND (Off:0 Def:1),,4:23,1,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:26 PM
+82,45,5,91,0021600555,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P2.T2),,4:20,1,4.0,0,1,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:26 PM
+83,4,6,92,0021600555,,,4:12,1,5.0,4,1,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Barton OFF.Foul (P2) (J.Goble),8:26 PM
+84,5,5,93,0021600555,,,4:12,1,5.0,0,1,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton Foul Turnover (P1.T3),8:26 PM
+85,0,8,94,0021600555,,,4:12,1,5.0,5,0,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Nelson FOR Mudiay,8:26 PM
+86,7,2,95,0021600555,MISS Sabonis  Dunk,,4:01,1,4.0,0,5,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,,,Nurkic BLOCK (1 BLK),8:27 PM
+87,0,4,96,0021600555,,,4:01,1,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,8:27 PM
+88,0,8,97,0021600555,,,4:01,1,5.0,5,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Hernangomez FOR Barton,8:27 PM
+89,79,1,98,0021600555,,,3:48,1,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,11 - 17,6,Chandler 4' Pullup Jump Shot (2 PTS) (Nelson 1 AST),8:27 PM
+90,2,6,99,0021600555,,,3:37,1,5.0,4,1,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Nurkic S.FOUL (P2.PN) (J.Goble),8:27 PM
+91,11,3,100,0021600555,Abrines Free Throw 1 of 2 (1 PTS),,3:37,1,4.0,0,0,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,11 - 18,7,,8:28 PM
+92,0,8,102,0021600555,,,3:37,1,5.0,5,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Faried FOR Nurkic,8:28 PM
+93,12,3,103,0021600555,Abrines Free Throw 2 of 2 (2 PTS),,3:37,1,4.0,0,0,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,11 - 19,8,,8:28 PM
+94,80,1,105,0021600555,,,3:24,1,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,13 - 19,6,Gallinari 15' Step Back Jump Shot (2 PTS),8:28 PM
+95,1,1,106,0021600555,Roberson 25' 3PT Jump Shot (3 PTS) (Westbrook 2 AST),,3:07,1,4.0,4,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,13 - 22,9,,8:29 PM
+96,78,2,107,0021600555,,,2:51,1,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Faried 4' Floating Jump Shot,8:29 PM
+97,0,4,108,0021600555,Abrines REBOUND (Off:0 Def:1),,2:50,1,4.0,0,0,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:29 PM
+98,1,2,109,0021600555,MISS Sabonis 24' 3PT Jump Shot,,2:39,1,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:29 PM
+99,0,4,110,0021600555,,,2:39,1,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Faried REBOUND (Off:0 Def:1),8:29 PM
+100,42,1,111,0021600555,,,2:28,1,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,15 - 22,7,Nelson 2' Driving Layup (2 PTS),8:29 PM
+101,79,2,112,0021600555,MISS Westbrook 25' 3PT Pullup Jump Shot,,2:16,1,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:30 PM
+102,0,4,113,0021600555,,,2:15,1,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Gallinari REBOUND (Off:0 Def:3),8:30 PM
+103,42,1,114,0021600555,,,2:05,1,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,17 - 22,5,Gallinari 1' Driving Layup (4 PTS),8:30 PM
+104,2,6,115,0021600555,Roberson S.FOUL (P1.PN) (P.Fraher),,2:05,1,4.0,5,1,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:30 PM
+105,1,9,116,0021600555,,,2:05,1,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.1 Short 0),8:30 PM
+106,0,8,118,0021600555,SUB: Payne FOR Westbrook,,2:05,1,4.0,4,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,1626166,Cameron Payne,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,8:32 PM
+107,10,3,120,0021600555,,,2:05,1,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,18 - 22,4,Gallinari Free Throw 1 of 1 (5 PTS),8:32 PM
+108,40,5,122,0021600555,Payne Out of Bounds Lost Ball Turnover (P1.T3),,1:52,1,4.0,0,1,1626166,Cameron Payne,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:33 PM
+109,1,2,123,0021600555,,,1:37,1,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nelson 26' 3PT Jump Shot,8:33 PM
+110,0,4,124,0021600555,Roberson REBOUND (Off:0 Def:1),,1:35,1,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:33 PM
+111,78,2,125,0021600555,MISS Abrines 7' Floating Jump Shot,,1:13,1,4.0,0,0,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:33 PM
+112,0,4,126,0021600555,,,1:11,1,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hernangomez REBOUND (Off:0 Def:1),8:33 PM
+113,47,2,127,0021600555,,,1:01,1,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler 4' Turnaround Jump Shot,8:34 PM
+114,0,4,128,0021600555,Sabonis REBOUND (Off:1 Def:3),,1:00,1,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:34 PM
+115,2,5,129,0021600555,Kanter Lost Ball Turnover (P1.T4),,0:52,1,4.0,5,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Gallinari STEAL (1 STL),8:34 PM
+116,41,1,130,0021600555,,,0:47,1,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,20 - 22,2,Chandler 1' Running Layup (4 PTS),8:34 PM
+117,1,7,131,0021600555,,,0:47,1,3.0,0,1,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Violation: Delay of game Violation,8:34 PM
+118,44,1,132,0021600555,Kanter 1' Reverse Layup (2 PTS) (Abrines 1 AST),,0:33,1,4.0,4,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,20 - 24,4,,8:34 PM
+119,1,1,133,0021600555,,,0:21,1,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,22 - 24,2,Chandler 18' Jump Shot (6 PTS),8:35 PM
+120,47,2,134,0021600555,MISS Kanter 13' Turnaround Jump Shot,,0:02,1,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:35 PM
+121,0,4,135,0021600555,,,0:01,1,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:0 Def:1),8:35 PM
+122,0,13,137,0021600555,,,0:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,22 - 24,2,,8:35 PM
+123,0,12,138,0021600555,,,12:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,22 - 24,2,,8:38 PM
+124,79,2,139,0021600555,,,11:46,2,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler 4' Pullup Jump Shot,8:38 PM
+125,0,4,140,0021600555,,,11:44,2,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hernangomez REBOUND (Off:1 Def:1),8:38 PM
+126,7,1,141,0021600555,,,11:43,2,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,24 - 24,TIE,Hernangomez  Dunk (2 PTS),8:38 PM
+127,1,6,142,0021600555,,,11:29,2,5.0,4,1,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Faried P.FOUL (P1.T1) (T.Washington),8:38 PM
+128,1,1,143,0021600555,Payne 25' 3PT Jump Shot (3 PTS) (Lauvergne 1 AST),,11:16,2,4.0,4,0,1626166,Cameron Payne,OKC,Oklahoma City,1610612760.0,Thunder,203530,Joffrey Lauvergne,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,24 - 27,3,,8:39 PM
+129,1,2,144,0021600555,,,11:03,2,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nelson 5' Jump Shot,8:39 PM
+130,0,4,145,0021600555,,,11:02,2,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Faried REBOUND (Off:1 Def:1),8:39 PM
+131,5,1,146,0021600555,,,11:00,2,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,26 - 27,1,Faried 1' Layup (2 PTS),8:39 PM
+132,98,1,147,0021600555,Lauvergne 2' Cutting Layup Shot (2 PTS) (Payne 1 AST),,10:52,2,4.0,4,0,203530,Joffrey Lauvergne,OKC,Oklahoma City,1610612760.0,Thunder,1626166,Cameron Payne,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,26 - 29,3,,8:39 PM
+133,102,1,148,0021600555,,,10:46,2,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,28 - 29,1,Chandler 7' Driving Floating Bank Jump Shot (8 PTS) (Nelson 2 AST),8:39 PM
+134,2,6,149,0021600555,Lauvergne S.FOUL (P1.T1) (P.Fraher),,10:46,2,4.0,5,1,203530,Joffrey Lauvergne,OKC,Oklahoma City,1610612760.0,Thunder,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:39 PM
+135,10,3,150,0021600555,,,10:46,2,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,29 - 29,TIE,Chandler Free Throw 1 of 1 (9 PTS),8:40 PM
+136,5,1,152,0021600555,Kanter 1' Layup (4 PTS),,10:27,2,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,29 - 31,2,,8:40 PM
+137,1,2,153,0021600555,,,10:17,2,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler 24' 3PT Jump Shot,8:40 PM
+138,0,4,154,0021600555,THUNDER Rebound,,10:16,2,2.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,8:40 PM
+139,3,6,155,0021600555,,,10:16,2,5.0,4,1,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Hernangomez L.B.FOUL (P1.T2) (T.Washington),8:40 PM
+140,1,2,157,0021600555,MISS Abrines 25' 3PT Jump Shot,,9:59,2,4.0,0,0,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:41 PM
+141,0,4,158,0021600555,,,9:58,2,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hernangomez REBOUND (Off:1 Def:2),8:41 PM
+142,7,2,159,0021600555,Grant BLOCK (1 BLK),,9:52,2,5.0,0,4,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,,,MISS Hernangomez  Dunk,8:41 PM
+143,0,4,160,0021600555,,,9:51,2,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nelson REBOUND (Off:1 Def:0),8:41 PM
+144,7,1,161,0021600555,,,9:48,2,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,31 - 31,TIE,Chandler  Dunk (11 PTS) (Nelson 3 AST),8:41 PM
+145,1,2,162,0021600555,MISS Lauvergne 25' 3PT Jump Shot,,9:31,2,4.0,0,0,203530,Joffrey Lauvergne,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:42 PM
+146,0,4,163,0021600555,Kanter REBOUND (Off:1 Def:1),,9:30,2,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:42 PM
+147,72,1,164,0021600555,Kanter 1' Putback Layup (6 PTS),,9:29,2,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,31 - 33,2,,8:42 PM
+148,1,5,165,0021600555,Abrines STEAL (1 STL),,9:15,2,5.0,4,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Chandler Bad Pass Turnover (P1.T4),8:42 PM
+149,5,1,166,0021600555,Lauvergne 1' Layup (4 PTS) (Abrines 2 AST),,9:05,2,4.0,4,0,203530,Joffrey Lauvergne,OKC,Oklahoma City,1610612760.0,Thunder,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,31 - 35,4,,8:42 PM
+150,1,9,167,0021600555,,,9:05,2,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.2 Short 0),8:42 PM
+151,0,8,169,0021600555,,,9:05,2,5.0,5,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Nurkic FOR Faried,8:44 PM
+152,79,1,170,0021600555,,,8:51,2,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,33 - 35,2,Murray 15' Pullup Jump Shot (2 PTS),8:45 PM
+153,1,2,171,0021600555,MISS Kanter 17' Jump Shot,,8:33,2,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:45 PM
+154,0,4,172,0021600555,,,8:33,2,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hernangomez REBOUND (Off:1 Def:3),8:45 PM
+155,79,1,173,0021600555,,,8:27,2,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,35 - 35,TIE,Chandler 18' Pullup Jump Shot (13 PTS),8:45 PM
+156,1,1,174,0021600555,Payne 24' 3PT Jump Shot (6 PTS) (Abrines 3 AST),,8:03,2,4.0,4,0,1626166,Cameron Payne,OKC,Oklahoma City,1610612760.0,Thunder,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,35 - 38,3,,8:45 PM
+157,1,1,175,0021600555,,,7:50,2,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,38 - 38,TIE,Chandler 26' 3PT Jump Shot (16 PTS) (Nelson 4 AST),8:46 PM
+158,79,1,176,0021600555,Payne 17' Pullup Jump Shot (8 PTS),,7:35,2,4.0,0,0,1626166,Cameron Payne,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,38 - 40,2,,8:46 PM
+159,79,2,177,0021600555,,,7:20,2,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Murray 19' Pullup Jump Shot,8:46 PM
+160,0,4,178,0021600555,Payne REBOUND (Off:0 Def:1),,7:19,2,4.0,0,0,1626166,Cameron Payne,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:46 PM
+161,79,2,179,0021600555,MISS Payne 25' 3PT Pullup Jump Shot,,7:13,2,4.0,0,0,1626166,Cameron Payne,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:46 PM
+162,0,4,180,0021600555,,,7:13,2,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hernangomez REBOUND (Off:1 Def:4),8:46 PM
+163,1,1,181,0021600555,,,7:04,2,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,41 - 40,-1,Chandler  3PT Jump Shot (19 PTS) (Murray 1 AST),8:46 PM
+164,1,9,182,0021600555,THUNDER Timeout: Regular (Full 2 Short 0),,7:03,2,2.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,8:46 PM
+165,0,8,184,0021600555,SUB: Westbrook FOR Payne,,7:03,2,4.0,4,0,1626166,Cameron Payne,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,8:48 PM
+166,0,8,185,0021600555,SUB: Oladipo FOR Lauvergne,,7:03,2,4.0,4,0,203530,Joffrey Lauvergne,OKC,Oklahoma City,1610612760.0,Thunder,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,8:48 PM
+167,0,8,186,0021600555,,,7:03,2,5.0,5,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Arthur FOR Hernangomez,8:49 PM
+168,98,2,187,0021600555,MISS Kanter 1' Cutting Layup Shot,,6:52,2,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:49 PM
+169,0,4,188,0021600555,,,6:51,2,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Arthur REBOUND (Off:0 Def:2),8:49 PM
+170,5,1,189,0021600555,,,6:32,2,5.0,5,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,43 - 40,-3,Nurkic 1' Layup (5 PTS) (Nelson 5 AST),8:50 PM
+171,79,1,190,0021600555,Oladipo 18' Pullup Jump Shot (4 PTS) (Westbrook 3 AST),,6:18,2,4.0,4,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,43 - 42,-1,,8:50 PM
+172,1,6,191,0021600555,Abrines P.FOUL (P2.T2) (T.Washington),,6:08,2,4.0,5,1,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:50 PM
+173,0,8,192,0021600555,SUB: Roberson FOR Abrines,,6:08,2,4.0,4,0,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,8:50 PM
+174,1,1,193,0021600555,,,6:01,2,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,46 - 42,-4,Arthur 24' 3PT Jump Shot (6 PTS) (Nelson 6 AST),8:50 PM
+175,79,1,194,0021600555,Oladipo 14' Pullup Jump Shot (6 PTS),,5:44,2,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,46 - 44,-2,,8:51 PM
+176,1,1,195,0021600555,,,5:35,2,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,48 - 44,-4,Arthur 20' Jump Shot (8 PTS) (Nelson 7 AST),8:51 PM
+177,1,2,196,0021600555,MISS Oladipo 12' Jump Shot,,5:21,2,4.0,0,5,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,,,Murray BLOCK (1 BLK),8:51 PM
+178,0,4,197,0021600555,,,5:20,2,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:0 Def:2),8:51 PM
+179,41,1,198,0021600555,,,5:17,2,5.0,5,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,50 - 44,-6,Nelson 1' Running Layup (4 PTS) (Chandler 1 AST),8:51 PM
+180,42,1,199,0021600555,Kanter 1' Driving Layup (8 PTS),,4:50,2,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,50 - 46,-4,,8:52 PM
+181,73,2,200,0021600555,,,4:42,2,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nelson 2' Driving Reverse Layup,8:52 PM
+182,0,4,202,0021600555,,,4:40,2,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nurkic REBOUND (Off:4 Def:1),8:52 PM
+183,97,2,201,0021600555,,,4:40,2,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nurkic 1' Tip Layup Shot,8:52 PM
+184,0,4,203,0021600555,Westbrook REBOUND (Off:1 Def:5),,4:38,2,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:52 PM
+185,1,2,204,0021600555,MISS Roberson  3PT Jump Shot,,4:29,2,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:52 PM
+186,0,4,205,0021600555,,,4:29,2,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:0 Def:3),8:52 PM
+187,0,8,207,0021600555,,,4:17,2,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Gallinari FOR Chandler,8:52 PM
+188,0,8,208,0021600555,SUB: Adams FOR Kanter,,4:17,2,4.0,4,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,8:52 PM
+189,58,2,209,0021600555,,,4:05,2,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nurkic 4' Turnaround Hook Shot,8:53 PM
+190,0,4,210,0021600555,Oladipo REBOUND (Off:0 Def:2),,4:04,2,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:53 PM
+191,1,2,211,0021600555,MISS Grant 25' 3PT Jump Shot,,3:53,2,4.0,0,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:53 PM
+192,0,4,214,0021600555,,,3:52,2,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Gallinari REBOUND (Off:0 Def:4),8:53 PM
+193,86,1,213,0021600555,,,3:37,2,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,52 - 46,-6,Gallinari 12' Turnaround Fadeaway (7 PTS),8:53 PM
+194,79,1,216,0021600555,Westbrook 24' 3PT Pullup Jump Shot (7 PTS),,3:21,2,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,52 - 49,-3,,8:53 PM
+195,1,5,217,0021600555,Adams STEAL (1 STL),,3:09,2,5.0,4,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Nelson Bad Pass Turnover (P1.T5),8:54 PM
+196,2,6,218,0021600555,,,3:04,2,5.0,4,1,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Arthur S.FOUL (P3.T3) (T.Washington),8:54 PM
+197,11,3,219,0021600555,Roberson Free Throw 1 of 2 (4 PTS),,3:04,2,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,52 - 50,-2,,8:54 PM
+198,0,8,222,0021600555,,,3:04,2,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Mudiay FOR Arthur,8:54 PM
+199,0,8,223,0021600555,,,3:04,2,5.0,5,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Chandler FOR Nelson,8:54 PM
+200,0,8,224,0021600555,,,3:04,2,5.0,5,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Barton FOR Murray,8:54 PM
+201,12,3,225,0021600555,MISS Roberson Free Throw 2 of 2,,3:04,2,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:54 PM
+202,0,4,228,0021600555,,,3:03,2,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nurkic REBOUND (Off:4 Def:2),8:54 PM
+203,1,2,229,0021600555,,,2:43,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton 24' 3PT Jump Shot,8:55 PM
+204,0,4,230,0021600555,Westbrook REBOUND (Off:1 Def:6),,2:42,2,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:55 PM
+205,5,1,231,0021600555,Adams 2' Layup (4 PTS) (Westbrook 4 AST),,2:36,2,4.0,4,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,52 - 52,TIE,,8:55 PM
+206,45,5,232,0021600555,,,2:25,2,5.0,0,1,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nurkic Out of Bounds - Bad Pass Turnover Turnover (P1.T6),8:55 PM
+207,4,9,233,0021600555,,,2:25,2,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:55 PM
+208,0,8,235,0021600555,,,2:25,2,5.0,5,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Faried FOR Nurkic,8:57 PM
+209,2,6,236,0021600555,,,2:16,2,5.0,4,1,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Faried S.FOUL (P2.T4) (J.Goble),8:58 PM
+210,11,3,237,0021600555,Westbrook Free Throw 1 of 2 (8 PTS),,2:16,2,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,52 - 53,1,,8:58 PM
+211,12,3,239,0021600555,Westbrook Free Throw 2 of 2 (9 PTS),,2:16,2,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,52 - 54,2,,8:58 PM
+212,98,1,241,0021600555,,,1:54,2,5.0,5,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,54 - 54,TIE,Faried 1' Cutting Layup Shot (4 PTS) (Chandler 2 AST),8:59 PM
+213,45,5,242,0021600555,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P3.T5),,1:48,2,4.0,0,1,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,8:59 PM
+214,79,1,243,0021600555,,,1:26,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,56 - 54,-2,Barton 4' Pullup Jump Shot (5 PTS),8:59 PM
+215,1,1,244,0021600555,Roberson  3PT Jump Shot (7 PTS) (Westbrook 5 AST),,1:11,2,4.0,4,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,56 - 57,1,,9:00 PM
+216,78,1,245,0021600555,,,0:59,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,58 - 57,-1,Barton 7' Floating Jump Shot (7 PTS),9:00 PM
+217,79,1,246,0021600555,Westbrook 26' 3PT Pullup Jump Shot (12 PTS) (Adams 1 AST),,0:45,2,4.0,4,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,58 - 60,2,,9:00 PM
+218,98,1,247,0021600555,,,0:35,2,5.0,5,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,60 - 60,TIE,Barton 1' Cutting Layup Shot (9 PTS) (Mudiay 3 AST),9:00 PM
+219,1,2,248,0021600555,MISS Roberson  3PT Jump Shot,,0:23,2,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:01 PM
+220,0,4,249,0021600555,,,0:21,2,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Faried REBOUND (Off:1 Def:2),9:01 PM
+221,28,6,250,0021600555,Westbrook Personal Take Foul (P1.T3) (T.Washington),,0:05,2,4.0,5,1,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:01 PM
+222,2,9,251,0021600555,,,0:05,2,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Short (Reg.2 Short 1),9:01 PM
+223,0,8,254,0021600555,SUB: Sabonis FOR Adams,,0:05,2,4.0,4,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,9:02 PM
+224,47,2,255,0021600555,Grant BLOCK (2 BLK),,0:01,2,5.0,0,4,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,,,MISS Chandler 15' Turnaround Jump Shot,9:02 PM
+225,0,4,256,0021600555,Westbrook REBOUND (Off:1 Def:7),,0:00,2,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:02 PM
+226,0,13,257,0021600555,,,0:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,60 - 60,TIE,,9:03 PM
+227,0,12,259,0021600555,,,12:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,60 - 60,TIE,,9:18 PM
+228,1,2,260,0021600555,,,11:49,3,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Arthur 17' Jump Shot,9:18 PM
+229,0,4,261,0021600555,Westbrook REBOUND (Off:1 Def:8),,11:49,3,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:18 PM
+230,1,1,262,0021600555,Westbrook 25' 3PT Jump Shot (15 PTS) (Sabonis 1 AST),,11:25,3,4.0,4,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,60 - 63,3,,9:18 PM
+231,58,2,263,0021600555,,,11:06,3,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nurkic 7' Turnaround Hook Shot,9:19 PM
+232,0,4,264,0021600555,Adams REBOUND (Off:0 Def:3),,11:06,3,4.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:19 PM
+233,1,2,265,0021600555,MISS Sabonis 25' 3PT Jump Shot,,10:59,3,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:19 PM
+234,0,4,266,0021600555,,,10:58,3,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton REBOUND (Off:0 Def:3),9:19 PM
+235,7,1,267,0021600555,,,10:49,3,5.0,5,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,62 - 63,1,Nurkic  Dunk (7 PTS) (Barton 1 AST),9:19 PM
+236,1,2,268,0021600555,MISS Oladipo 24' 3PT Jump Shot,,10:30,3,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:19 PM
+237,0,4,269,0021600555,Westbrook REBOUND (Off:2 Def:8),,10:29,3,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:19 PM
+238,73,1,271,0021600555,Roberson 1' Driving Reverse Layup (9 PTS),,10:05,3,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,62 - 65,3,,9:20 PM
+239,7,1,272,0021600555,,,9:54,3,5.0,5,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,64 - 65,1,Nurkic  Dunk (9 PTS) (Mudiay 4 AST),9:20 PM
+240,1,1,273,0021600555,Oladipo 17' Jump Shot (8 PTS) (Westbrook 6 AST),,9:39,3,4.0,4,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,64 - 67,3,,9:21 PM
+241,2,6,274,0021600555,Sabonis S.FOUL (P2.T1) (J.Goble),,9:20,3,4.0,5,1,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:21 PM
+242,11,3,275,0021600555,,,9:20,3,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nurkic Free Throw 1 of 2,9:21 PM
+243,1,4,276,0021600555,,,9:20,3,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,9:21 PM
+244,12,3,277,0021600555,,,9:20,3,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nurkic Free Throw 2 of 2,9:21 PM
+245,0,4,279,0021600555,Sabonis REBOUND (Off:1 Def:4),,9:18,3,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:22 PM
+246,1,5,280,0021600555,Westbrook Bad Pass Turnover (P4.T6),,9:09,3,4.0,5,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Nurkic STEAL (2 STL),9:22 PM
+247,1,2,282,0021600555,,,8:54,3,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Gallinari 25' 3PT Jump Shot,9:22 PM
+248,0,4,283,0021600555,Westbrook REBOUND (Off:2 Def:9),,8:54,3,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:22 PM
+249,81,1,284,0021600555,Oladipo 3' Pullup Bank Shot (10 PTS),,8:40,3,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,64 - 69,5,,9:22 PM
+250,47,2,285,0021600555,,,8:27,3,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Gallinari 14' Turnaround Jump Shot,9:22 PM
+251,0,4,286,0021600555,,,8:27,3,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Arthur REBOUND (Off:1 Def:2),9:22 PM
+252,1,1,287,0021600555,,,8:23,3,5.0,5,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,67 - 69,2,Barton 25' 3PT Jump Shot (12 PTS) (Arthur 1 AST),9:22 PM
+253,5,2,288,0021600555,MISS Adams  Layup,,8:10,3,4.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:23 PM
+254,0,4,289,0021600555,,,8:09,3,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Gallinari REBOUND (Off:0 Def:5),9:23 PM
+255,47,2,290,0021600555,Adams BLOCK (3 BLK),,7:51,3,5.0,0,4,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,,,MISS Nurkic 4' Turnaround Jump Shot,9:23 PM
+256,0,4,291,0021600555,Roberson REBOUND (Off:0 Def:2),,7:51,3,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:23 PM
+257,46,2,292,0021600555,MISS Oladipo 25' 3PT Running Jump Shot,,7:46,3,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:23 PM
+258,0,4,293,0021600555,,,7:44,3,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Arthur REBOUND (Off:1 Def:3),9:23 PM
+259,79,2,294,0021600555,,,7:36,3,5.0,0,0,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Mudiay 25' 3PT Pullup Jump Shot,9:23 PM
+260,0,4,295,0021600555,Roberson REBOUND (Off:0 Def:3),,7:35,3,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:23 PM
+261,1,9,296,0021600555,THUNDER Timeout: Regular (Full 3 Short 0),,7:35,3,2.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,9:23 PM
+262,79,1,298,0021600555,Westbrook 15' Pullup Jump Shot (17 PTS),,7:28,3,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,67 - 71,4,,9:26 PM
+263,1,5,299,0021600555,Westbrook STEAL (1 STL),,7:15,3,5.0,4,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Nurkic Bad Pass Turnover (P2.T7),9:26 PM
+264,9,6,300,0021600555,,,7:14,3,5.0,4,1,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Mudiay C.P.FOUL (P1.T1) (J.Goble),9:26 PM
+265,0,18,301,0021600555,,,7:14,3,,0,1,300,,,,,,0,,,,,,0,,,,,,,,,9:27 PM
+266,25,3,302,0021600555,Westbrook Free Throw Clear Path 1 of 2 (18 PTS),,7:14,3,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,67 - 72,5,,9:27 PM
+267,26,3,304,0021600555,Westbrook Free Throw Clear Path 2 of 2 (19 PTS),,7:14,3,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,67 - 73,6,,9:27 PM
+268,79,2,305,0021600555,MISS Westbrook 25' 3PT Pullup Jump Shot,,7:01,3,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:28 PM
+269,0,4,306,0021600555,,,7:00,3,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Gallinari REBOUND (Off:0 Def:6),9:28 PM
+270,79,1,307,0021600555,,,6:49,3,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,69 - 73,4,Gallinari 10' Pullup Jump Shot (9 PTS),9:28 PM
+271,1,2,308,0021600555,MISS Oladipo 24' 3PT Jump Shot,,6:36,3,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:29 PM
+272,0,4,309,0021600555,,,6:34,3,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nurkic REBOUND (Off:4 Def:3),9:29 PM
+273,2,6,310,0021600555,Oladipo S.FOUL (P1.T2) (J.Goble),,6:12,3,4.0,5,1,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:29 PM
+274,0,18,311,0021600555,,,6:12,3,,0,1,310,Bobby Hurley,,,,,0,,,,,,0,,,,,,,,,9:30 PM
+275,11,3,312,0021600555,,,6:12,3,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,70 - 73,3,Barton Free Throw 1 of 2 (13 PTS),9:31 PM
+276,0,8,314,0021600555,,,6:12,3,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Chandler FOR Arthur,9:31 PM
+277,12,3,315,0021600555,,,6:12,3,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,71 - 73,2,Barton Free Throw 2 of 2 (14 PTS),9:32 PM
+278,17,6,317,0021600555,,,6:01,3,5.0,0,1,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nuggets T.Foul (Def. 3 Sec Nurkic ) (T.Washington),9:32 PM
+279,16,3,318,0021600555,Westbrook Free Throw Technical (20 PTS),,6:01,3,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,71 - 74,3,,9:32 PM
+280,1,6,320,0021600555,,,5:56,3,5.0,4,1,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Chandler P.FOUL (P1.T2) (J.Goble),9:33 PM
+281,58,2,321,0021600555,MISS Sabonis 7' Turnaround Hook Shot,,5:43,3,4.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:33 PM
+282,0,4,322,0021600555,,,5:42,3,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:0 Def:4),9:33 PM
+283,58,2,323,0021600555,,,5:25,3,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nurkic 4' Turnaround Hook Shot,9:33 PM
+284,0,4,324,0021600555,Westbrook REBOUND (Off:2 Def:10),,5:24,3,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:33 PM
+285,5,2,325,0021600555,MISS Adams 3' Layup,,5:18,3,4.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:34 PM
+286,0,4,326,0021600555,,,5:17,3,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nurkic REBOUND (Off:4 Def:4),9:34 PM
+287,79,2,327,0021600555,Roberson BLOCK (1 BLK),,5:11,3,5.0,0,4,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,,,MISS Mudiay 4' Pullup Jump Shot,9:34 PM
+288,0,4,328,0021600555,,,5:09,3,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,9:34 PM
+289,0,8,329,0021600555,SUB: Abrines FOR Oladipo,,5:09,3,4.0,4,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,9:34 PM
+290,0,8,330,0021600555,,,5:09,3,5.0,5,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Faried FOR Nurkic,9:34 PM
+291,42,2,331,0021600555,Adams BLOCK (4 BLK),,5:01,3,5.0,0,4,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,,,MISS Mudiay 2' Driving Layup,9:34 PM
+292,0,4,332,0021600555,Westbrook REBOUND (Off:2 Def:11),,5:00,3,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:34 PM
+293,2,6,333,0021600555,,,4:57,3,5.0,4,1,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Chandler S.FOUL (P2.T3) (P.Fraher),9:34 PM
+294,11,3,334,0021600555,Abrines Free Throw 1 of 2 (3 PTS),,4:57,3,4.0,0,0,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,71 - 75,4,,9:35 PM
+295,12,3,336,0021600555,Abrines Free Throw 2 of 2 (4 PTS),,4:57,3,4.0,0,0,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,71 - 76,5,,9:35 PM
+296,2,6,338,0021600555,Roberson S.FOUL (P2.T3) (T.Washington),,4:41,3,4.0,5,1,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:35 PM
+297,11,3,339,0021600555,,,4:41,3,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,72 - 76,4,Gallinari Free Throw 1 of 2 (10 PTS),9:36 PM
+298,0,8,341,0021600555,SUB: Kanter FOR Sabonis,,4:41,3,4.0,4,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,9:36 PM
+299,12,3,342,0021600555,,,4:41,3,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,73 - 76,3,Gallinari Free Throw 2 of 2 (11 PTS),9:36 PM
+300,1,2,343,0021600555,MISS Abrines 25' 3PT Jump Shot,,4:31,3,4.0,0,0,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:36 PM
+301,0,4,344,0021600555,,,4:30,3,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,9:37 PM
+302,1,2,345,0021600555,,,4:21,3,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler 20' Jump Shot,9:37 PM
+303,0,4,346,0021600555,Westbrook REBOUND (Off:2 Def:12),,4:20,3,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:37 PM
+304,7,1,347,0021600555,Adams  Dunk (6 PTS) (Westbrook 7 AST),,4:15,3,4.0,4,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,73 - 78,5,,9:37 PM
+305,79,2,348,0021600555,,,4:02,3,5.0,0,0,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Mudiay 17' Pullup Jump Shot,9:37 PM
+306,0,4,350,0021600555,,,4:00,3,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Faried REBOUND (Off:2 Def:2),9:37 PM
+307,97,2,349,0021600555,,,4:00,3,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Faried 1' Tip Layup Shot,9:37 PM
+308,0,4,351,0021600555,,,3:59,3,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Faried REBOUND (Off:3 Def:2),9:37 PM
+309,1,2,352,0021600555,,,3:55,3,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler 25' 3PT Jump Shot,9:37 PM
+310,0,4,353,0021600555,Kanter REBOUND (Off:1 Def:2),,3:55,3,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:37 PM
+311,41,1,354,0021600555,Adams 1' Running Layup (8 PTS) (Westbrook 8 AST),,3:50,3,4.0,4,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,73 - 80,7,,9:37 PM
+312,1,9,355,0021600555,,,3:50,3,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.3 Short 1),9:37 PM
+313,0,8,357,0021600555,,,3:50,3,5.0,5,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Arthur FOR Barton,9:40 PM
+314,0,8,358,0021600555,,,3:50,3,5.0,5,0,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Nelson FOR Mudiay,9:40 PM
+315,80,2,359,0021600555,,,3:37,3,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Gallinari 23' Step Back Jump Shot,9:40 PM
+316,0,4,360,0021600555,Adams REBOUND (Off:0 Def:4),,3:36,3,4.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:40 PM
+317,5,1,361,0021600555,Adams 1' Layup (10 PTS),,3:24,3,4.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,73 - 82,9,,9:40 PM
+318,2,6,362,0021600555,,,3:24,3,5.0,4,1,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Gallinari S.FOUL (P1.T4) (T.Washington),9:40 PM
+319,10,3,363,0021600555,Adams Free Throw 1 of 1 (11 PTS),,3:24,3,4.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,73 - 83,10,,9:41 PM
+320,79,2,365,0021600555,,,3:09,3,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Arthur 17' Pullup Jump Shot,9:41 PM
+321,0,4,366,0021600555,Roberson REBOUND (Off:0 Def:4),,3:08,3,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:41 PM
+322,58,1,367,0021600555,Adams 4' Turnaround Hook Shot (13 PTS) (Westbrook 9 AST),,2:48,3,4.0,4,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,73 - 85,12,,9:42 PM
+323,2,6,368,0021600555,Westbrook S.FOUL (P2.T4) (J.Goble),,2:33,3,4.0,5,1,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:42 PM
+324,11,3,369,0021600555,,,2:33,3,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler Free Throw 1 of 2,9:42 PM
+325,1,4,370,0021600555,,,2:33,3,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,9:42 PM
+326,0,8,371,0021600555,SUB: Payne FOR Westbrook,,2:33,3,4.0,4,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,1626166,Cameron Payne,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,9:42 PM
+327,12,3,372,0021600555,,,2:33,3,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler Free Throw 2 of 2,9:43 PM
+328,0,4,374,0021600555,Abrines REBOUND (Off:0 Def:2),,2:32,3,4.0,0,0,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:43 PM
+329,86,2,375,0021600555,MISS Kanter 12' Turnaround Fadeaway Shot,,2:10,3,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:43 PM
+330,0,4,376,0021600555,,,2:09,3,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:0 Def:5),9:43 PM
+331,1,2,377,0021600555,,,1:56,3,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Gallinari 13' Jump Shot,9:43 PM
+332,0,4,378,0021600555,,,1:56,3,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Faried REBOUND (Off:4 Def:2),9:43 PM
+333,47,2,379,0021600555,Kanter BLOCK (1 BLK),,1:54,3,5.0,0,4,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,,,MISS Faried 6' Turnaround Jump Shot,9:43 PM
+334,0,4,380,0021600555,Kanter REBOUND (Off:1 Def:3),,1:53,3,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:43 PM
+335,41,2,381,0021600555,MISS Roberson 1' Running Layup,,1:48,3,4.0,0,5,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,,,Chandler BLOCK (1 BLK),9:44 PM
+336,0,4,382,0021600555,THUNDER Rebound,,1:48,3,2.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,9:44 PM
+337,0,8,383,0021600555,,,1:48,3,5.0,5,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Hernangomez FOR Gallinari,9:44 PM
+338,1,1,384,0021600555,Abrines 24' 3PT Jump Shot (7 PTS) (Kanter 1 AST),,1:30,3,4.0,4,0,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,73 - 88,15,,9:44 PM
+339,1,1,385,0021600555,,,1:14,3,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,75 - 88,13,Arthur 21' Jump Shot (10 PTS) (Nelson 8 AST),9:45 PM
+340,1,5,386,0021600555,Adams Bad Pass Turnover (P1.T7),,0:59,3,4.0,5,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Arthur STEAL (1 STL),9:45 PM
+341,78,1,387,0021600555,,,0:49,3,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,77 - 88,11,Nelson 5' Floating Jump Shot (6 PTS),9:45 PM
+342,11,5,388,0021600555,THUNDER Turnover: Shot Clock (T#8),,0:25,3,2.0,0,1,1610612760,,,,,,0,,,,,,0,,,,,,,,,9:46 PM
+343,0,8,389,0021600555,SUB: Grant FOR Kanter,,0:25,3,4.0,4,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,9:46 PM
+344,79,1,390,0021600555,,,0:09,3,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,80 - 88,8,Nelson 24' 3PT Pullup Jump Shot (9 PTS),9:46 PM
+345,1,2,391,0021600555,MISS Roberson  3PT Jump Shot,,0:00,3,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:47 PM
+346,0,4,392,0021600555,THUNDER Rebound,,0:00,3,2.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,9:47 PM
+347,0,13,393,0021600555,,,0:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,80 - 88,8,,9:47 PM
+348,0,12,395,0021600555,,,12:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,80 - 88,8,,9:49 PM
+349,58,2,396,0021600555,MISS Kanter 4' Turnaround Hook Shot,,11:44,4,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:50 PM
+350,0,4,397,0021600555,,,11:44,4,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Faried REBOUND (Off:4 Def:3),9:50 PM
+351,98,1,398,0021600555,,,11:38,4,5.0,5,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,82 - 88,6,Hernangomez 2' Cutting Layup Shot (4 PTS) (Faried 1 AST),9:50 PM
+352,1,2,399,0021600555,MISS Grant 24' 3PT Jump Shot,,11:12,4,4.0,0,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:50 PM
+353,0,4,400,0021600555,,,11:11,4,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:0 Def:6),9:50 PM
+354,1,2,401,0021600555,,,11:00,4,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Arthur 24' 3PT Jump Shot,9:51 PM
+355,0,4,402,0021600555,Payne REBOUND (Off:0 Def:2),,11:00,4,4.0,0,0,1626166,Cameron Payne,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:51 PM
+356,42,2,403,0021600555,MISS Oladipo 2' Driving Layup,,10:44,4,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:51 PM
+357,0,4,405,0021600555,Kanter REBOUND (Off:2 Def:3),,10:44,4,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:51 PM
+358,72,1,404,0021600555,Kanter 1' Putback Layup (10 PTS),,10:44,4,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,82 - 90,8,,9:51 PM
+359,42,1,406,0021600555,,,10:34,4,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,84 - 90,6,Chandler 1' Driving Layup (21 PTS),9:51 PM
+360,2,6,407,0021600555,Abrines S.FOUL (P3.T1) (T.Washington),,10:34,4,4.0,5,1,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:51 PM
+361,10,3,408,0021600555,,,10:34,4,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,85 - 90,5,Chandler Free Throw 1 of 1 (22 PTS),9:51 PM
+362,2,6,410,0021600555,,,10:21,4,5.0,4,1,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Arthur S.FOUL (P4.T1) (T.Washington),9:52 PM
+363,11,3,411,0021600555,Oladipo Free Throw 1 of 2 (11 PTS),,10:21,4,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,85 - 91,6,,9:52 PM
+364,0,8,413,0021600555,,,10:21,4,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Murray FOR Arthur,9:52 PM
+365,12,3,414,0021600555,MISS Oladipo Free Throw 2 of 2,,10:21,4,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:52 PM
+366,0,4,416,0021600555,Oladipo REBOUND (Off:1 Def:2),,10:20,4,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:52 PM
+367,1,6,417,0021600555,,,10:11,4,5.0,4,1,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Nelson P.FOUL (P1.T2) (P.Fraher),9:53 PM
+368,47,1,418,0021600555,Kanter 8' Turnaround Jump Shot (12 PTS),,10:05,4,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,85 - 93,8,,9:53 PM
+369,2,5,419,0021600555,Oladipo STEAL (1 STL),,9:53,4,5.0,4,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Chandler Lost Ball Turnover (P2.T8),9:53 PM
+370,41,2,420,0021600555,MISS Oladipo 1' Running Layup,,9:48,4,4.0,0,5,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,,,Chandler BLOCK (2 BLK),9:53 PM
+371,0,4,421,0021600555,,,9:47,4,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Faried REBOUND (Off:4 Def:4),9:53 PM
+372,1,6,422,0021600555,Oladipo P.FOUL (P2.T2) (T.Washington),,9:47,4,4.0,5,1,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:54 PM
+373,80,1,423,0021600555,,,9:37,4,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,88 - 93,5,Nelson 25' 3PT Step Back Jump Shot (12 PTS),9:54 PM
+374,78,1,424,0021600555,Oladipo 9' Floating Jump Shot (13 PTS),,9:24,4,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,88 - 95,7,,9:54 PM
+375,1,5,425,0021600555,Oladipo STEAL (2 STL),,9:11,4,5.0,4,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Nelson Bad Pass Turnover (P2.T9),9:54 PM
+376,50,1,426,0021600555,Oladipo  Running Dunk (15 PTS),,9:07,4,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,88 - 97,9,,9:54 PM
+377,1,9,428,0021600555,,,9:06,4,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.4 Short 1),9:54 PM
+378,0,8,430,0021600555,,,9:06,4,5.0,5,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Barton FOR Hernangomez,9:57 PM
+379,2,6,431,0021600555,Payne S.FOUL (P1.T3) (J.Goble),,8:48,4,4.0,5,1,1626166,Cameron Payne,OKC,Oklahoma City,1610612760.0,Thunder,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:57 PM
+380,13,3,432,0021600555,,,8:48,4,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nelson Free Throw 1 of 3,9:58 PM
+381,1,4,433,0021600555,,,8:48,4,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,9:58 PM
+382,14,3,434,0021600555,,,8:48,4,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,89 - 97,8,Nelson Free Throw 2 of 3 (13 PTS),9:58 PM
+383,0,8,436,0021600555,,,8:48,4,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Gallinari FOR Chandler,9:58 PM
+384,0,8,437,0021600555,SUB: Roberson FOR Abrines,,8:48,4,4.0,4,0,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,9:58 PM
+385,15,3,438,0021600555,,,8:48,4,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nelson Free Throw 3 of 3,9:58 PM
+386,0,4,440,0021600555,Kanter REBOUND (Off:2 Def:4),,8:47,4,4.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:58 PM
+387,1,6,441,0021600555,,,8:35,4,5.0,4,1,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Nelson P.FOUL (P2.T3) (J.Goble),9:59 PM
+388,0,8,442,0021600555,SUB: Westbrook FOR Payne,,8:35,4,4.0,4,0,1626166,Cameron Payne,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,9:59 PM
+389,11,6,443,0021600555,,,8:35,4,5.0,0,1,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nelson T.FOUL (P2.T3) (J.Goble),9:59 PM
+390,16,3,444,0021600555,MISS Westbrook Free Throw Technical,,8:35,4,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,9:59 PM
+391,1,4,445,0021600555,THUNDER Rebound,,8:35,4,2.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,9:59 PM
+392,1,2,446,0021600555,MISS Oladipo 25' 3PT Jump Shot,,8:25,4,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:00 PM
+393,0,4,447,0021600555,,,8:24,4,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Faried REBOUND (Off:4 Def:5),10:00 PM
+394,42,2,448,0021600555,Oladipo BLOCK (1 BLK),,8:16,4,5.0,0,4,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,,,MISS Nelson 1' Driving Layup,10:00 PM
+395,0,4,449,0021600555,Roberson REBOUND (Off:0 Def:5),,8:14,4,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:00 PM
+396,41,1,450,0021600555,Kanter 2' Running Layup (14 PTS) (Westbrook 10 AST),,8:08,4,4.0,4,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,89 - 99,10,,10:00 PM
+397,0,8,452,0021600555,SUB: Adams FOR Kanter,,7:58,4,4.0,4,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,10:00 PM
+398,4,6,453,0021600555,,,7:46,4,5.0,4,1,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Faried OFF.Foul (P3) (P.Fraher),10:01 PM
+399,5,5,454,0021600555,,,7:46,4,5.0,0,1,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Faried Foul Turnover (P1.T10),10:01 PM
+400,78,2,455,0021600555,MISS Oladipo 10' Floating Jump Shot,,7:32,4,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:01 PM
+401,0,4,456,0021600555,,,7:31,4,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Faried REBOUND (Off:4 Def:6),10:01 PM
+402,1,6,457,0021600555,Roberson P.FOUL (P3.T4) (J.Goble),,7:17,4,4.0,5,1,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:01 PM
+403,0,8,458,0021600555,,,7:17,4,5.0,5,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Nurkic FOR Faried,10:02 PM
+404,80,2,459,0021600555,,,7:07,4,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nelson 18' Step Back Jump Shot,10:02 PM
+405,0,4,460,0021600555,THUNDER Rebound,,7:07,4,2.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:02 PM
+406,80,2,461,0021600555,MISS Westbrook 14' Step Back Jump Shot,,6:58,4,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:02 PM
+407,0,4,462,0021600555,,,6:57,4,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Murray REBOUND (Off:0 Def:1),10:02 PM
+408,1,6,463,0021600555,Westbrook P.FOUL (P3.PN) (J.Goble),,6:56,4,4.0,5,1,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:02 PM
+409,11,3,464,0021600555,,,6:56,4,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,90 - 99,9,Murray Free Throw 1 of 2 (3 PTS),10:03 PM
+410,0,8,465,0021600555,,,6:56,4,5.0,5,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Mudiay FOR Nelson,10:03 PM
+411,12,3,466,0021600555,,,6:56,4,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,91 - 99,8,Murray Free Throw 2 of 2 (4 PTS),10:03 PM
+412,79,1,468,0021600555,Westbrook 25' 3PT Pullup Jump Shot (23 PTS),,6:37,4,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,91 - 102,11,,10:03 PM
+413,1,2,469,0021600555,,,6:18,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton 25' 3PT Jump Shot,10:04 PM
+414,0,4,470,0021600555,Westbrook REBOUND (Off:2 Def:13),,6:18,4,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:04 PM
+415,1,5,471,0021600555,Westbrook Bad Pass Turnover (P5.T9),,6:09,4,4.0,5,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Nurkic STEAL (3 STL),10:04 PM
+416,1,2,472,0021600555,,,6:00,4,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Gallinari  3PT Jump Shot,10:04 PM
+417,0,4,473,0021600555,Adams REBOUND (Off:0 Def:5),,5:59,4,4.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:04 PM
+418,1,5,474,0021600555,Adams Bad Pass Turnover (P2.T10),,5:56,4,4.0,5,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Barton STEAL (1 STL),10:04 PM
+419,80,1,475,0021600555,,,5:53,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,94 - 102,8,Barton 25' 3PT Step Back Jump Shot (17 PTS),10:04 PM
+420,1,1,476,0021600555,Westbrook 25' 3PT Jump Shot (26 PTS) (Adams 2 AST),,5:30,4,4.0,4,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,94 - 105,11,,10:04 PM
+421,41,5,477,0021600555,Westbrook STEAL (2 STL),,5:20,4,5.0,4,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Barton Poss Lost Ball Turnover (P2.T11),10:05 PM
+422,41,1,478,0021600555,Grant 1' Running Layup (2 PTS) (Westbrook 11 AST),,5:16,4,4.0,4,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,94 - 107,13,,10:05 PM
+423,2,6,479,0021600555,,,5:16,4,5.0,4,1,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Barton S.FOUL (P3.T4) (T.Washington),10:05 PM
+424,4,9,480,0021600555,,,5:16,4,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:05 PM
+425,0,8,482,0021600555,,,5:16,4,5.0,5,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Chandler FOR Murray,10:07 PM
+426,10,3,483,0021600555,Grant Free Throw 1 of 1 (3 PTS),,5:16,4,4.0,0,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,94 - 108,14,,10:07 PM
+427,1,2,486,0021600555,,,5:01,4,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Gallinari  3PT Jump Shot,10:08 PM
+428,0,4,487,0021600555,,,5:00,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton REBOUND (Off:1 Def:3),10:08 PM
+429,1,5,489,0021600555,Westbrook STEAL (3 STL),,4:55,4,5.0,4,0,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Mudiay Bad Pass Turnover (P2.T12),10:08 PM
+430,46,1,490,0021600555,Westbrook 24' 3PT Running Jump Shot (29 PTS) (Oladipo 2 AST),,4:49,4,4.0,4,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,94 - 111,17,,10:08 PM
+431,78,2,492,0021600555,,,4:33,4,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler 9' Floating Jump Shot,10:08 PM
+432,0,4,494,0021600555,,,4:32,4,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nurkic REBOUND (Off:5 Def:4),10:08 PM
+433,72,1,493,0021600555,,,4:32,4,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,96 - 111,15,Nurkic 1' Putback Layup (11 PTS),10:08 PM
+434,79,1,495,0021600555,Westbrook 28' 3PT Pullup Jump Shot (32 PTS),,4:17,4,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,96 - 114,18,,10:09 PM
+435,2,6,496,0021600555,Adams S.FOUL (P3.PN) (T.Washington),,4:06,4,4.0,5,1,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:09 PM
+436,11,3,497,0021600555,,,4:06,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,97 - 114,17,Barton Free Throw 1 of 2 (18 PTS),10:09 PM
+437,12,3,499,0021600555,,,4:06,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,98 - 114,16,Barton Free Throw 2 of 2 (19 PTS),10:09 PM
+438,79,2,501,0021600555,MISS Westbrook 26' 3PT Pullup Jump Shot,,3:53,4,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:10 PM
+439,0,4,502,0021600555,,,3:51,4,5.0,0,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nurkic REBOUND (Off:5 Def:5),10:10 PM
+440,1,2,503,0021600555,,,3:44,4,5.0,0,0,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Mudiay 26' 3PT Jump Shot,10:10 PM
+441,0,4,504,0021600555,,,3:44,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton REBOUND (Off:2 Def:3),10:10 PM
+442,5,2,505,0021600555,Grant BLOCK (3 BLK),,3:37,4,5.0,0,4,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,,,MISS Barton 1' Layup,10:10 PM
+443,0,4,506,0021600555,Roberson REBOUND (Off:0 Def:6),,3:36,4,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:10 PM
+444,46,2,507,0021600555,MISS Oladipo 26' 3PT Running Jump Shot,,3:32,4,4.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:10 PM
+445,0,4,508,0021600555,,,3:32,4,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,10:10 PM
+446,101,1,509,0021600555,,,3:17,4,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,100 - 114,14,Chandler 7' Driving Floating Jump Shot (24 PTS),10:11 PM
+447,1,9,510,0021600555,THUNDER Timeout: Regular (Full 4 Short 0),,3:17,4,2.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:11 PM
+448,0,8,512,0021600555,,,3:17,4,5.0,5,0,203994,Jusuf Nurkic,DEN,Denver,1610612743.0,Nuggets,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Arthur FOR Nurkic,10:13 PM
+449,28,6,514,0021600555,,,3:14,4,5.0,4,1,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Gallinari Personal Take Foul (P2.PN) (J.Goble),10:13 PM
+450,11,3,515,0021600555,Roberson Free Throw 1 of 2 (10 PTS),,3:14,4,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,100 - 115,15,,10:13 PM
+451,12,3,517,0021600555,Roberson Free Throw 2 of 2 (11 PTS),,3:14,4,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,100 - 116,16,,10:13 PM
+452,1,2,519,0021600555,,,3:02,4,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Arthur 24' 3PT Jump Shot,10:14 PM
+453,0,4,520,0021600555,Westbrook REBOUND (Off:2 Def:14),,3:02,4,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:14 PM
+454,2,5,521,0021600555,Grant Lost Ball Turnover (P1.T11),,2:41,4,4.0,5,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Mudiay STEAL (1 STL),10:14 PM
+455,1,2,522,0021600555,,,2:32,4,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Gallinari 20' Jump Shot,10:14 PM
+456,0,4,523,0021600555,Roberson REBOUND (Off:0 Def:7),,2:32,4,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:14 PM
+457,28,6,524,0021600555,,,2:29,4,5.0,4,1,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Gallinari Personal Take Foul (P3.PN) (J.Goble),10:15 PM
+458,11,3,525,0021600555,MISS Roberson Free Throw 1 of 2,,2:29,4,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:15 PM
+459,1,4,526,0021600555,THUNDER Rebound,,2:29,4,2.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:15 PM
+460,12,3,527,0021600555,MISS Roberson Free Throw 2 of 2,,2:29,4,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:15 PM
+461,0,4,529,0021600555,,,2:28,4,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Gallinari REBOUND (Off:0 Def:7),10:15 PM
+462,1,6,530,0021600555,Grant P.FOUL (P1.PN) (P.Fraher),,2:22,4,4.0,5,1,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:15 PM
+463,11,3,531,0021600555,,,2:22,4,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,101 - 116,15,Gallinari Free Throw 1 of 2 (12 PTS),10:15 PM
+464,0,8,533,0021600555,SUB: Abrines FOR Roberson,,2:22,4,4.0,4,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,10:16 PM
+465,12,3,534,0021600555,,,2:22,4,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,102 - 116,14,Gallinari Free Throw 2 of 2 (13 PTS),10:16 PM
+466,28,6,536,0021600555,,,2:19,4,5.0,4,1,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Mudiay Personal Take Foul (P2.PN) (J.Goble),10:16 PM
+467,11,3,537,0021600555,Adams Free Throw 1 of 2 (14 PTS),,2:19,4,4.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,102 - 117,15,,10:16 PM
+468,0,8,540,0021600555,SUB: Roberson FOR Abrines,,2:19,4,4.0,4,0,203518,Alex Abrines,OKC,Oklahoma City,1610612760.0,Thunder,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,10:17 PM
+469,12,3,541,0021600555,MISS Adams Free Throw 2 of 2,,2:19,4,4.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:17 PM
+470,0,4,543,0021600555,,,2:15,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton REBOUND (Off:2 Def:4),10:17 PM
+471,1,6,544,0021600555,Oladipo P.FOUL (P3.PN) (T.Washington),,2:14,4,4.0,5,1,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:17 PM
+472,11,3,545,0021600555,,,2:14,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,103 - 117,14,Barton Free Throw 1 of 2 (20 PTS),10:17 PM
+473,12,3,547,0021600555,,,2:14,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,104 - 117,13,Barton Free Throw 2 of 2 (21 PTS),10:17 PM
+474,28,6,549,0021600555,,,2:13,4,5.0,4,1,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Gallinari Personal Take Foul (P4.PN) (P.Fraher),10:18 PM
+475,11,3,550,0021600555,Roberson Free Throw 1 of 2 (12 PTS),,2:13,4,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,104 - 118,14,,10:18 PM
+476,12,3,552,0021600555,Roberson Free Throw 2 of 2 (13 PTS),,2:13,4,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,104 - 119,15,,10:18 PM
+477,42,2,554,0021600555,Grant BLOCK (4 BLK),,1:58,4,5.0,0,4,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,,,MISS Mudiay 3' Driving Layup,10:19 PM
+478,0,4,555,0021600555,Roberson REBOUND (Off:0 Def:8),,1:56,4,4.0,0,0,203460,Andre Roberson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:19 PM
+479,79,2,556,0021600555,MISS Westbrook 26' 3PT Pullup Jump Shot,,1:38,4,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:19 PM
+480,0,4,557,0021600555,,,1:37,4,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:0 Def:7),10:19 PM
+481,47,2,558,0021600555,,,1:28,4,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler 6' Turnaround Jump Shot,10:19 PM
+482,0,4,559,0021600555,Westbrook REBOUND (Off:2 Def:15),,1:28,4,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:19 PM
+483,79,2,560,0021600555,MISS Westbrook 15' Pullup Jump Shot,,1:07,4,4.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:19 PM
+484,0,4,561,0021600555,,,1:04,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton REBOUND (Off:2 Def:5),10:20 PM
+485,79,2,562,0021600555,,,0:57,4,5.0,0,0,1626144,Emmanuel Mudiay,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Mudiay 25' 3PT Pullup Jump Shot,10:20 PM
+486,0,4,563,0021600555,Adams REBOUND (Off:0 Def:6),,0:57,4,4.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,,10:20 PM
+487,98,1,564,0021600555,Adams 2' Cutting Layup Shot (16 PTS) (Oladipo 3 AST),,0:36,4,4.0,4,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,104 - 121,17,,10:20 PM
+488,73,1,565,0021600555,,,0:26,4,5.0,0,0,201568,Danilo Gallinari,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,106 - 121,15,Gallinari 1' Driving Reverse Layup (15 PTS),10:20 PM
+489,11,5,567,0021600555,THUNDER Turnover: Shot Clock (T#12),,0:02,4,2.0,0,1,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:21 PM
+490,0,13,568,0021600555,,,0:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,106 - 121,15,,10:21 PM

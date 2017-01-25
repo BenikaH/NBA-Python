@@ -10,7 +10,7 @@ synergy_data_file_path = './data/synergy/' + season_year + '.csv'
 synergy_data_overwrite = False
 consistency_data_file_path = './data/consistency/' + season_year + '_variance.csv'
 consistency_data_player_log_path = './data/consistency/{player_id}_' + season_year + '.csv'
-consistency_data_overwrite = False
+consistency_data_overwrite = True
 
 
 def get_synergy_data():
@@ -71,18 +71,20 @@ def get_consistency_data():
         print(base_stats_df[['PLAYER_NAME']])
 
         data_df = p.DataFrame(
-            columns=['PLAYER_ID', 'PLAYER_NAME', 'PP36', 'PP36_STD', 'PP36_VAR', 'TS', 'TS_STD', 'TS_VAR'])
+            columns=['PLAYER_ID', 'PLAYER_NAME', 'PP36', 'PP36_STD', 'PP36_STD / MEAN', 'PP36_VAR', 'TS', 'TS_STD',
+                     'TS_VAR'])
         top_scoring_player_ids = base_stats_df['PLAYER_ID'].unique()
         for player_id in top_scoring_player_ids:
             player_game_log_file_path = consistency_data_player_log_path.format(player_id=player_id)
             if (not d.create_directories_and_check_for_file(player_game_log_file_path)) or consistency_data_overwrite:
                 player_game_log_df = d.get_game_logs_for_player(player_id)
-                player_game_log_df = player_game_log_df[player_game_log_df['MIN'] > 20]
+                #player_game_log_df = player_game_log_df[player_game_log_df['MIN'] > 20]
+                #player_game_log_df = player_game_log_df[player_game_log_df['PTS'] > 1]
 
                 player_game_log_df['PP36'] = (player_game_log_df['PTS'] / player_game_log_df['MIN']) * 36
 
                 player_game_log_df['TSA'] = player_game_log_df['FGA'] + (0.44 * player_game_log_df['FTA'])
-                player_game_log_df['TS'] = player_game_log_df['PTS'] / (2 * player_game_log_df['TSA'])
+                player_game_log_df['TS'] = (player_game_log_df['PTS'] / (2 * player_game_log_df['TSA'])) * 100
 
                 player_game_log_df.to_csv(player_game_log_file_path)
             else:
@@ -98,7 +100,7 @@ def get_consistency_data():
 
             player_name = base_stats_df[base_stats_df['PLAYER_ID'] == player_id].iloc[0]['PLAYER_NAME']
 
-            row = [player_id, player_name, pp36, pp36_std, pp36_var, ts, ts_std, ts_var]
+            row = [player_id, player_name, pp36, pp36_std, pp36_std / pp36, pp36_var, ts, ts_std, ts_var]
             data_df = data_df.append(p.Series(row, index=data_df.columns), ignore_index=True)
 
         data_df.to_csv(consistency_data_file_path)
@@ -184,9 +186,11 @@ synergy_df = calc_points_above_exp(get_synergy_data())
 consistency_df = get_consistency_data()
 
 merged_df = p.merge(synergy_df, consistency_df, on='PLAYER_ID', how='right')
-merged_df = merged_df.sort_values(by='Total_PTS', ascending=False)
-d.print_reddit_table(merged_df,
-                     ['PLAYER_NAME', 'Total_POSS', 'Total_PPP', 'Total_EXP_PPP', 'Total_PTS_ABOVE_EXP', 'PP36_STD', 'TS_STD'])
+# merged_df = merged_df.sort_values(by='Total_PTS', ascending=False)
+# d.print_reddit_table(merged_df,
+#                      ['PLAYER_NAME', 'Total_POSS', 'Total_PPP', 'PP36_STD', 'TS_STD'])
 
-#generate_consistency_plots(merged_df)
-graph_player_pts_above_exp(merged_df)
+# generate_consistency_plots(merged_df)
+d.print_reddit_table(consistency_df.sort_values(by='PP36_STD', ascending=True),
+                     ['PLAYER_NAME', 'PP36', 'PP36_STD', 'PP36_STD / MEAN', 'TS', 'TS_STD'])
+# graph_player_pts_above_exp(merged_df)
