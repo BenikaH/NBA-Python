@@ -53,4 +53,4 @@ def plot_bar_chart_of_assists(df):
     py.iplot(fig, filename='assists-stacked-bar')
 
 
-# plot_bar_chart_of_assists(calc_2_3_assists(p.read_csv('../data/merged_shot_pbp/' + year + '.csv')).head(20))
+plot_bar_chart_of_assists(calc_2_3_assists(p.read_csv('../data/merged_shot_pbp/' + year + '.csv')).head(20))
