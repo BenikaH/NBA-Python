@@ -5,8 +5,8 @@ years = ['2013-14', '2014-15', '2015-16', '2016-17']
 
 df = p.DataFrame()
 for year in years:
-    year_df = d.get_general_stats(season_year=year)[['PLAYER_ID', 'PLAYER_NAME', 'TEAM_ID', 'TEAM_ABBREVIATION', 'PTS', 'FGA', 'FTA', 'AST', 'TOV','MIN']]
-    year_df = year_df.merge(d.get_general_stats(measure_type='Advanced', season_year=year)[['PLAYER_ID', 'TEAM_ID', 'PACE']], on=['PLAYER_ID', 'TEAM_ID'])
+    year_df = d.leaguedashplayerstats(season_year=year)[['PLAYER_ID', 'PLAYER_NAME', 'TEAM_ID', 'TEAM_ABBREVIATION', 'PTS', 'FGA', 'FTA', 'AST', 'TOV', 'MIN']]
+    year_df = year_df.merge(d.leaguedashplayerstats(measure_type='Advanced', season_year=year)[['PLAYER_ID', 'TEAM_ID', 'PACE']], on=['PLAYER_ID', 'TEAM_ID'])
     year_df = year_df.merge(d.leaguedashpstats('Passing', season_year=year)[['PLAYER_ID', 'TEAM_ID', 'PASSES_MADE', 'FT_AST', 'SECONDARY_AST', 'POTENTIAL_AST','AST_PTS_CREATED']], on=['PLAYER_ID', 'TEAM_ID'])
     year_df = year_df.merge(d.leaguedashpstats('Possessions', season_year=year)[['PLAYER_ID', 'TEAM_ID', 'TOUCHES', 'TIME_OF_POSS']], on=['PLAYER_ID', 'TEAM_ID'])
     year_df['YEAR'] = year

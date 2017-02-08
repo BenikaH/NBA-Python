@@ -14,10 +14,10 @@ consistency_data_overwrite = True
 
 
 def get_synergy_data():
-    if (not d.create_directories_and_check_for_file(filepath=synergy_data_file_path)) or synergy_data_overwrite:
+    if (not d.file_exists(filepath=synergy_data_file_path)) or synergy_data_overwrite:
         print('Getting Synergy Data from stats.nba.com API....')
-        data_df = d.get_combined_synergy_stats_for_players(season_year=season_year,
-                                                           offensive_or_defensive=offensive_or_defensive)
+        data_df = d.allsynergy(season_year=season_year,
+                               offensive_or_defensive=offensive_or_defensive)
         data_df.to_csv(synergy_data_file_path, encoding='utf-8')
         return data_df
     else:
@@ -63,8 +63,8 @@ def graph_player_pts_above_exp(data_df):
 
 
 def get_consistency_data():
-    if (not d.create_directories_and_check_for_file(consistency_data_file_path)) or consistency_data_overwrite:
-        base_stats_df = d.get_general_stats()
+    if (not d.file_exists(consistency_data_file_path)) or consistency_data_overwrite:
+        base_stats_df = d.leaguedashplayerstats()
         base_stats_df = base_stats_df[base_stats_df['GP'] > 25]
         base_stats_df['PPG'] = base_stats_df['PTS'] / base_stats_df['GP']
         base_stats_df = base_stats_df.sort_values(by='PPG', ascending=False).head(20)
@@ -76,8 +76,8 @@ def get_consistency_data():
         top_scoring_player_ids = base_stats_df['PLAYER_ID'].unique()
         for player_id in top_scoring_player_ids:
             player_game_log_file_path = consistency_data_player_log_path.format(player_id=player_id)
-            if (not d.create_directories_and_check_for_file(player_game_log_file_path)) or consistency_data_overwrite:
-                player_game_log_df = d.get_game_logs_for_player(player_id)
+            if (not d.file_exists(player_game_log_file_path)) or consistency_data_overwrite:
+                player_game_log_df = d.playergamelog(player_id)
                 #player_game_log_df = player_game_log_df[player_game_log_df['MIN'] > 20]
                 #player_game_log_df = player_game_log_df[player_game_log_df['PTS'] > 1]
 
