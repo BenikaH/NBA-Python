@@ -84,7 +84,7 @@ def print_reddit_table(df, columns):
 
 # Gets traditional stats for players
 def leaguedashplayerstats(measure_type='Base', per_mode='Totals', season_year='2016-17', overwrite=True):
-    file_path = '../data/leaguedashplayerstats/' + year + '/' + measure_type + '/' + per_mode + '.csv'
+    file_path = '../data/leaguedashplayerstats/' + season_year + '/' + measure_type + '/' + per_mode + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/leaguedashplayerstats?' \
               'Conference=&' \
@@ -116,8 +116,7 @@ def leaguedashplayerstats(measure_type='Base', per_mode='Totals', season_year='2
               'TeamID=0&' \
               'VsConference=&' \
               'VsDivision='
-        url = url.format(player_or_team=player_or_team, measure_type=measure_type, per_mode=per_mode,
-                         season_year=season_year)
+        url = url.format(measure_type=measure_type, per_mode=per_mode, season_year=season_year)
         df = json_to_pandas(url, 0)
         df.to_csv(file_path)
         return df

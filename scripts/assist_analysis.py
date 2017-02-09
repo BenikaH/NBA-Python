@@ -53,4 +53,26 @@ def plot_bar_chart_of_assists(df):
     py.iplot(fig, filename='assists-stacked-bar')
 
 
-plot_bar_chart_of_assists(calc_2_3_assists(p.read_csv('../data/merged_shot_pbp/' + year + '.csv')).head(20))
+def plot_assists_vs_tov():
+    df = d.leaguedashplayerstats(per_mode='Per100Possessions')
+    df = df[df['GP'] > 20]
+    df = df.sort_values(by='AST', ascending=False).head(50)
+    trace = go.Scatter(
+        x=df['AST'],
+        y=df['TOV'],
+        text=df['PLAYER_NAME'],
+        mode='markers'
+    )
+    layout = go.Layout(
+        yaxis=dict(
+            autorange='reversed'
+        )
+    )
+    fig = go.Figure(
+        data=[trace],
+        layout=layout
+    )
+    py.iplot(fig, filename='AST_VS_TOV')
+
+
+plot_assists_vs_tov()
