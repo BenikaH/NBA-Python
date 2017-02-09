@@ -1,8 +1,8 @@
-import data_getters as d
 import pandas as p
-
 import plotly.graph_objs as go
 import plotly.plotly as py
+
+import data_getters as d
 
 season_year = '2016'
 offensive_or_defensive = 'offensive'
@@ -190,7 +190,8 @@ def streaky_shooters(window_size, num_players):
 
     player_ids = general_stats_df['PLAYER_ID'].unique()
 
-    traces = []
+    scatter_traces = []
+    box_traces = []
     for player_id in player_ids:
         player_shots_df = shots_df[shots_df['PLAYER1_ID'] == player_id]
         player_name = player_shots_df.iloc[1].PLAYER_NAME
@@ -198,8 +199,55 @@ def streaky_shooters(window_size, num_players):
         player_shots_df['SHOT_MADE_FLAG'] *= 100
         player_means = player_shots_df['SHOT_MADE_FLAG'].rolling(window=window_size, center=False).mean().values
         shot_nums = range(0, len(player_means) - (window_size - 1))
-        traces.append(go.Scatter(x=shot_nums, y=player_means[(window_size - 1):], mode='lines+markers', name=player_name))
+        player_means = player_means[(window_size - 1):]
+        scatter_traces.append(
+            go.Scatter(
+                x=shot_nums,
+                y=player_means,
+                mode='lines+markers',
+                name=player_name)
+        )
+        box_traces.append(
+            go.Box(
+                y=player_means,
+                name=player_name,
+                whiskerwidth=0,
+                boxpoints='all',
+                boxmean=True,
+                jitter=1,
+                pointpos=0,
+                line=dict(
+                    width=0
+                )
+            )
+        )
 
-    py.iplot(traces, filename='Streaky Shooters')
+    py.iplot(scatter_traces, filename='Streaky Shooters Scatter (Window: ' + str(window_size))
+
+    layout = go.Layout(
+        title='Streaky Shooters',
+        yaxis=dict(
+            autorange=True,
+            showgrid=True,
+            zeroline=True,
+            dtick=5,
+            gridcolor='rgb(255, 255, 255)',
+            gridwidth=1,
+            zerolinecolor='rgb(255, 255, 255)',
+            zerolinewidth=2,
+        ),
+        margin=dict(
+            l=40,
+            r=30,
+            b=80,
+            t=100,
+        ),
+        paper_bgcolor='rgb(243, 243, 243)',
+        plot_bgcolor='rgb(243, 243, 243)',
+        showlegend=False
+    )
+
+    py.iplot(box_traces, filename='Streaky Shooters Box (Window: ' + str(window_size))
+
 
 streaky_shooters(50, 20)
