@@ -57,6 +57,8 @@ def plot_assists_vs_tov():
     df = d.leaguedashplayerstats(per_mode='Per100Possessions')
     df = df[df['GP'] > 20]
     df = df.sort_values(by='AST', ascending=False).head(50)
+    # df['AST_VS_TOV'] = df['AST'] / df['TOV']
+    # d.print_reddit_table(df, ['PLAYER_NAME', 'AST', 'TOV', 'AST_VS_TOV'])
     trace = go.Scatter(
         x=df['AST'],
         y=df['TOV'],
@@ -73,6 +75,3 @@ def plot_assists_vs_tov():
         layout=layout
     )
     py.iplot(fig, filename='AST_VS_TOV')
-
-
-plot_assists_vs_tov()

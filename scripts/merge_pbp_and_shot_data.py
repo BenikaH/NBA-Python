@@ -20,7 +20,7 @@ def merge_shot_and_pbp_year(season_year):
         print(str(ix) + ' / ' + str(len(game_ids)) + ' games done')
         if len(str(game_id)) < 10:
             game_id = '00' + str(game_id)
-        play_by_play = play_by_play.append(d.playbyplayv2(str(game_id), year=year))
+        play_by_play = play_by_play.append(d.playbyplayv2(str(game_id), year=year, overwrite=False))
 
     # merge shot and play by play data
     return p.merge(shot_log, play_by_play, left_on=['GAME_ID', 'GAME_EVENT_ID'], right_on=['GAME_ID', 'EVENTNUM'])

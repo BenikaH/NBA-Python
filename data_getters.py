@@ -117,6 +117,7 @@ def leaguedashplayerstats(measure_type='Base', per_mode='Totals', season_year='2
               'VsConference=&' \
               'VsDivision='
         url = url.format(measure_type=measure_type, per_mode=per_mode, season_year=season_year)
+        print(url)
         df = json_to_pandas(url, 0)
         df.to_csv(file_path)
         return df
@@ -343,6 +344,7 @@ def shotchartdetail(year='2016-17', player_id='0', team_id='0', overwrite=True):
               'VsConference=&' \
               'VsDivision='
         url = url.format(year=year, player_id=player_id, team_id=team_id)
+        print(url)
         df = json_to_pandas(url, 0)
         df.to_csv(file_path)
         return df

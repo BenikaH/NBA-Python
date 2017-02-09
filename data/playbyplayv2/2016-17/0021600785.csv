@@ -1,0 +1,484 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021600785,,,12:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:40 PM
+1,0,10,1,0021600785,Jump Ball Howard vs. Jokic: Tip to,,12:00,1,4.0,5,3,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,1610612743,,,,,,,,,7:40 PM
+2,1,6,2,0021600785,Howard P.FOUL (P1.T1) (S.Wall),,11:48,1,4.0,5,1,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,7:41 PM
+3,1,2,3,0021600785,,,11:36,1,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Jokic 17' Jump Shot,7:41 PM
+4,0,4,4,0021600785,,,11:35,1,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,7:41 PM
+5,3,6,5,0021600785,Bazemore L.B.FOUL (P1.T2) (E.Malloy),,11:35,1,4.0,5,1,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,7:42 PM
+6,1,5,6,0021600785,Bazemore STEAL (1 STL),,11:29,1,5.0,4,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Harris Bad Pass Turnover (P1.T1),7:42 PM
+7,1,1,7,0021600785,Bazemore 24' 3PT Jump Shot (3 PTS) (Hardaway Jr. 1 AST),,11:20,1,4.0,4,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0 - 3,3,,7:42 PM
+8,1,5,9,0021600785,Hardaway Jr. STEAL (1 STL),,11:06,1,5.0,4,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Chandler Bad Pass Turnover (P1.T2),7:42 PM
+9,1,1,11,0021600785,Bazemore 24' 3PT Jump Shot (6 PTS) (Millsap 1 AST),,10:52,1,4.0,4,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0 - 6,6,,7:43 PM
+10,1,2,12,0021600785,,,10:41,1,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler 25' 3PT Jump Shot,7:43 PM
+11,0,4,13,0021600785,HAWKS Rebound,,10:40,1,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,7:43 PM
+12,58,2,15,0021600785,MISS Howard 6' Turnaround Hook Shot,,10:24,1,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:43 PM
+13,0,4,16,0021600785,,,10:21,1,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:0 Def:1),7:43 PM
+14,1,2,17,0021600785,,,10:10,1,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Jokic 24' 3PT Jump Shot,7:44 PM
+15,0,4,18,0021600785,Millsap REBOUND (Off:0 Def:1),,10:08,1,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:44 PM
+16,42,2,19,0021600785,MISS Millsap 1' Driving Layup,,10:00,1,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:44 PM
+17,0,4,20,0021600785,,,9:58,1,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:0 Def:2),7:44 PM
+18,78,1,21,0021600785,,,9:52,1,5.0,5,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,2 - 6,4,Jokic 5' Floating Jump Shot (2 PTS) (Faried 1 AST),7:44 PM
+19,79,1,22,0021600785,Schroder 19' Pullup Jump Shot (2 PTS),,9:38,1,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,2 - 8,6,,7:44 PM
+20,49,1,23,0021600785,,,9:21,1,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,4 - 8,4,Chandler  Driving Dunk (2 PTS) (Harris 1 AST),7:44 PM
+21,79,1,24,0021600785,Schroder 18' Pullup Jump Shot (4 PTS),,9:03,1,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,4 - 10,6,,7:45 PM
+22,63,1,25,0021600785,,,8:43,1,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,6 - 10,4,Chandler 12' Fadeaway Jumper (4 PTS),7:45 PM
+23,2,6,26,0021600785,Bazemore S.FOUL (P2.T3) (S.Wall),,8:43,1,4.0,5,1,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,7:45 PM
+24,10,3,27,0021600785,,,8:43,1,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,7 - 10,3,Chandler Free Throw 1 of 1 (5 PTS),7:45 PM
+25,79,2,29,0021600785,MISS Bazemore 8' Pullup Jump Shot,,8:32,1,4.0,0,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:46 PM
+26,0,4,31,0021600785,Howard REBOUND (Off:1 Def:0),,8:31,1,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:46 PM
+27,97,2,30,0021600785,MISS Howard 2' Tip Layup Shot,,8:31,1,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:46 PM
+28,0,4,32,0021600785,,,8:29,1,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:0 Def:1),7:46 PM
+29,1,5,33,0021600785,Schroder STEAL (1 STL),,8:23,1,5.0,4,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Nelson Bad Pass Turnover (P1.T3),7:46 PM
+30,46,2,34,0021600785,MISS Bazemore 21' Running Jump Shot,,8:16,1,4.0,0,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:46 PM
+31,0,4,35,0021600785,Howard REBOUND (Off:2 Def:0),,8:14,1,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:46 PM
+32,2,6,36,0021600785,,,8:14,1,5.0,4,1,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Faried S.FOUL (P1.T1) (S.Wall),7:46 PM
+33,11,3,37,0021600785,MISS Howard Free Throw 1 of 2,,8:14,1,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:46 PM
+34,1,4,38,0021600785,HAWKS Rebound,,8:14,1,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,7:46 PM
+35,12,3,39,0021600785,Howard Free Throw 2 of 2 (1 PTS),,8:14,1,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,7 - 11,4,,7:47 PM
+36,1,2,42,0021600785,,,8:02,1,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Harris 25' 3PT Jump Shot,7:47 PM
+37,0,4,43,0021600785,Schroder REBOUND (Off:0 Def:1),,7:59,1,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:47 PM
+38,52,1,44,0021600785,Howard  Alley Oop Dunk (3 PTS) (Millsap 2 AST),,7:46,1,4.0,4,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,7 - 13,6,,7:47 PM
+39,78,2,45,0021600785,,,7:23,1,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Faried 5' Floating Jump Shot,7:48 PM
+40,0,4,47,0021600785,,,7:22,1,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:1 Def:1),7:48 PM
+41,97,2,46,0021600785,,,7:22,1,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Jokic 1' Tip Layup Shot,7:48 PM
+42,0,4,49,0021600785,,,7:20,1,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:2 Def:1),7:48 PM
+43,97,1,48,0021600785,,,7:20,1,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,9 - 13,4,Jokic  Tip Layup Shot (4 PTS),7:48 PM
+44,7,1,50,0021600785,Howard  Dunk (5 PTS) (Bazemore 1 AST),,7:01,1,4.0,4,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,9 - 15,6,,7:48 PM
+45,1,2,52,0021600785,,,6:48,1,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Harris  3PT Jump Shot,7:48 PM
+46,0,4,53,0021600785,,,6:47,1,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Faried REBOUND (Off:1 Def:0),7:48 PM
+47,81,2,54,0021600785,,,6:42,1,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Faried 9' Pullup Bank Shot,7:48 PM
+48,0,4,57,0021600785,,,6:39,1,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:3 Def:1),7:48 PM
+49,97,2,56,0021600785,,,6:39,1,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Jokic  Tip Layup Shot,7:48 PM
+50,0,4,59,0021600785,,,6:38,1,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:4 Def:1),7:48 PM
+51,97,2,58,0021600785,,,6:38,1,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Jokic 1' Tip Layup Shot,7:48 PM
+52,0,4,61,0021600785,,,6:37,1,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:5 Def:1),7:48 PM
+53,97,1,60,0021600785,,,6:37,1,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,11 - 15,4,Jokic 1' Tip Layup Shot (6 PTS),7:48 PM
+54,101,2,63,0021600785,MISS Hardaway Jr. 12' Driving Floating Jump Shot,,6:23,1,4.0,0,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:49 PM
+55,0,4,64,0021600785,Hardaway Jr. REBOUND (Off:1 Def:0),,6:20,1,4.0,0,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:49 PM
+56,1,1,65,0021600785,Millsap  3PT Jump Shot (3 PTS) (Hardaway Jr. 2 AST),,6:18,1,4.0,4,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,11 - 18,7,,7:49 PM
+57,73,2,67,0021600785,,,6:07,1,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Harris 1' Driving Reverse Layup,7:49 PM
+58,0,4,69,0021600785,,,6:04,1,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:1 Def:2),7:49 PM
+59,72,1,68,0021600785,,,6:04,1,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,13 - 18,5,Chandler 1' Putback Layup (7 PTS),7:49 PM
+60,1,9,70,0021600785,HAWKS Timeout: Regular (Full 1 Short 0),,6:04,1,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,7:49 PM
+61,0,8,73,0021600785,SUB: Bembry FOR Bazemore,,6:04,1,4.0,4,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,7:51 PM
+62,0,8,74,0021600785,,,6:04,1,5.0,5,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Barton FOR Faried,7:52 PM
+63,1,7,78,0021600785,HAWKS Violation: Delay of game Violation,,6:04,1,2.0,0,1,1610612737,,,,,,0,,,,,,0,,,,,,,,,7:52 PM
+64,78,1,75,0021600785,Millsap 7' Floating Jump Shot (5 PTS),,5:45,1,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,13 - 20,7,,7:52 PM
+65,1,2,76,0021600785,,,5:33,1,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton 26' 3PT Jump Shot,7:52 PM
+66,0,4,77,0021600785,,,5:29,1,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:6 Def:1),7:52 PM
+67,1,1,79,0021600785,,,5:22,1,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,16 - 20,4,Chandler 26' 3PT Jump Shot (10 PTS) (Nelson 1 AST),7:52 PM
+68,1,1,80,0021600785,Hardaway Jr. 25' 3PT Jump Shot (3 PTS) (Bembry 1 AST),,5:09,1,4.0,4,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,16 - 23,7,,7:53 PM
+69,5,7,81,0021600785,Hardaway Jr. Violation:Kicked Ball (.),,4:53,1,4.0,0,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:53 PM
+70,1,1,82,0021600785,,,4:47,1,5.0,5,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,19 - 23,4,Nelson 26' 3PT Jump Shot (3 PTS) (Jokic 1 AST),7:53 PM
+71,81,1,83,0021600785,Millsap 8' Pullup Bank Shot (7 PTS),,4:32,1,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,19 - 25,6,,7:54 PM
+72,1,2,84,0021600785,,,4:20,1,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler 24' 3PT Jump Shot,7:54 PM
+73,0,4,85,0021600785,Schroder REBOUND (Off:0 Def:2),,4:18,1,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:54 PM
+74,50,1,86,0021600785,Bembry  Running Dunk (2 PTS) (Schroder 1 AST),,4:14,1,4.0,4,0,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,19 - 27,8,,7:54 PM
+75,1,9,87,0021600785,,,4:14,1,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.1 Short 0),7:54 PM
+76,0,8,89,0021600785,SUB: Humphries FOR Howard,,4:14,1,4.0,4,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,7:56 PM
+77,79,1,90,0021600785,,,3:54,1,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,21 - 27,6,Harris 20' Pullup Jump Shot (2 PTS),7:57 PM
+78,2,6,91,0021600785,,,3:39,1,5.0,4,1,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Chandler S.FOUL (P1.T2) (E.Malloy),7:57 PM
+79,11,3,93,0021600785,Schroder Free Throw 1 of 2 (5 PTS),,3:39,1,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,21 - 28,7,,7:57 PM
+80,0,8,95,0021600785,,,3:39,1,5.0,5,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Arthur FOR Harris,7:57 PM
+81,12,3,96,0021600785,Schroder Free Throw 2 of 2 (6 PTS),,3:39,1,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,21 - 29,8,,7:58 PM
+82,1,6,99,0021600785,Humphries P.FOUL (P1.T4) (E.Malloy),,3:29,1,4.0,5,1,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,7:58 PM
+83,1,5,100,0021600785,Schroder STEAL (2 STL),,3:25,1,5.0,4,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Arthur Bad Pass Turnover (P1.T4),7:58 PM
+84,1,6,101,0021600785,,,3:25,1,5.0,4,1,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Nelson P.FOUL (P1.T3) (E.Malloy),7:58 PM
+85,79,1,103,0021600785,Schroder 19' Pullup Jump Shot (8 PTS),,3:13,1,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,21 - 31,10,,7:59 PM
+86,1,2,104,0021600785,,,2:57,1,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nelson 24' 3PT Jump Shot,7:59 PM
+87,0,4,105,0021600785,Bembry REBOUND (Off:0 Def:1),,2:56,1,4.0,0,0,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:59 PM
+88,1,2,106,0021600785,MISS Hardaway Jr. 25' 3PT Jump Shot,,2:48,1,4.0,0,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,7:59 PM
+89,0,4,107,0021600785,,,2:46,1,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Arthur REBOUND (Off:0 Def:1),7:59 PM
+90,1,1,108,0021600785,,,2:36,1,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,23 - 31,8,Arthur 21' Jump Shot (2 PTS) (Barton 1 AST),8:00 PM
+91,1,1,110,0021600785,Humphries 18' Jump Shot (2 PTS) (Schroder 2 AST),,2:21,1,4.0,4,0,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,23 - 33,10,,8:00 PM
+92,1,2,111,0021600785,,,2:03,1,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Arthur 18' Jump Shot,8:00 PM
+93,0,4,112,0021600785,Schroder REBOUND (Off:0 Def:3),,2:01,1,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:00 PM
+94,52,1,113,0021600785,Hardaway Jr.  Alley Oop Dunk (5 PTS) (Schroder 3 AST),,1:57,1,4.0,4,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,23 - 35,12,,8:00 PM
+95,2,9,114,0021600785,,,1:57,1,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Short (Reg.1 Short 1),8:00 PM
+96,0,8,116,0021600785,SUB: Dunleavy FOR Hardaway Jr.,,1:57,1,4.0,4,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,2399,Mike Dunleavy,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:01 PM
+97,0,8,117,0021600785,SUB: Muscala FOR Millsap,,1:57,1,4.0,4,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:01 PM
+98,0,8,118,0021600785,,,1:57,1,5.0,5,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Murray FOR Jokic,8:01 PM
+99,0,8,119,0021600785,,,1:57,1,5.0,5,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Faried FOR Nelson,8:01 PM
+100,1,7,120,0021600785,,,1:57,1,3.0,0,1,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Violation: Delay of game Violation,8:01 PM
+101,2,6,121,0021600785,Dunleavy S.FOUL (P1.PN) (M.Ayotte),,1:52,1,4.0,5,1,2399,Mike Dunleavy,ATL,Atlanta,1610612737.0,Hawks,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:02 PM
+102,11,3,122,0021600785,,,1:52,1,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,24 - 35,11,Barton Free Throw 1 of 2 (1 PTS),8:02 PM
+103,12,3,124,0021600785,,,1:52,1,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,25 - 35,10,Barton Free Throw 2 of 2 (2 PTS),8:02 PM
+104,42,1,126,0021600785,Schroder 1' Driving Layup (10 PTS),,1:39,1,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,25 - 37,12,,8:03 PM
+105,101,1,127,0021600785,,,1:29,1,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,27 - 37,10,Barton 10' Driving Floating Jump Shot (4 PTS),8:03 PM
+106,79,2,128,0021600785,MISS Schroder 26' 3PT Pullup Jump Shot,,1:04,1,4.0,0,5,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,,,Arthur BLOCK (1 BLK),8:03 PM
+107,0,4,129,0021600785,Muscala REBOUND (Off:1 Def:0),,0:57,1,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:03 PM
+108,3,2,130,0021600785,MISS Muscala 11' Hook Shot,,0:55,1,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:03 PM
+109,0,4,131,0021600785,,,0:52,1,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton REBOUND (Off:0 Def:1),8:03 PM
+110,80,1,132,0021600785,,,0:47,1,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,29 - 37,8,Chandler 20' Step Back Jump Shot (12 PTS),8:04 PM
+111,1,6,133,0021600785,,,0:34,1,5.0,4,1,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Murray P.FOUL (P1.T4) (S.Wall),8:04 PM
+112,79,1,134,0021600785,Schroder 22' Pullup Jump Shot (12 PTS) (Humphries 1 AST),,0:30,1,4.0,4,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,29 - 39,10,,8:04 PM
+113,2,6,135,0021600785,Humphries S.FOUL (P2.PN) (M.Ayotte),,0:10,1,4.0,5,1,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:05 PM
+114,11,3,136,0021600785,,,0:10,1,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,30 - 39,9,Faried Free Throw 1 of 2 (1 PTS),8:05 PM
+115,0,8,138,0021600785,,,0:10,1,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Hernangomez FOR Chandler,8:05 PM
+116,0,8,139,0021600785,SUB: Hardaway Jr. FOR Bembry,,0:10,1,4.0,4,0,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:05 PM
+117,12,3,140,0021600785,,,0:10,1,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Faried Free Throw 2 of 2,8:05 PM
+118,0,4,142,0021600785,Humphries REBOUND (Off:0 Def:1),,0:08,1,4.0,0,0,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:05 PM
+119,42,2,144,0021600785,MISS Schroder 3' Driving Layup,,0:00,1,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:05 PM
+120,0,4,145,0021600785,,,0:00,1,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Murray REBOUND (Off:0 Def:1),8:06 PM
+121,0,13,146,0021600785,,,0:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,30 - 39,9,,8:06 PM
+122,0,12,148,0021600785,,,12:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,30 - 39,9,,8:08 PM
+123,1,2,149,0021600785,MISS Dunleavy 26' 3PT Jump Shot,,11:45,2,4.0,0,0,2399,Mike Dunleavy,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:08 PM
+124,0,4,150,0021600785,,,11:43,2,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Harris REBOUND (Off:0 Def:1),8:09 PM
+125,42,2,151,0021600785,,,11:24,2,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Arthur 2' Driving Layup,8:09 PM
+126,0,4,152,0021600785,Humphries REBOUND (Off:0 Def:2),,11:23,2,4.0,0,0,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:09 PM
+127,79,2,154,0021600785,MISS Bembry 10' Pullup Jump Shot,,10:59,2,4.0,0,0,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:10 PM
+128,0,4,155,0021600785,,,10:57,2,5.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Faried REBOUND (Off:1 Def:1),8:10 PM
+129,1,1,156,0021600785,,,10:36,2,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,33 - 39,6,Arthur 24' 3PT Jump Shot (5 PTS) (Barton 2 AST),8:10 PM
+130,1,1,157,0021600785,Muscala 14' Jump Shot (2 PTS) (Delaney 1 AST),,10:24,2,4.0,4,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,33 - 41,8,,8:10 PM
+131,102,2,158,0021600785,,,10:07,2,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Murray 5' Driving Floating Bank Jump Shot,8:10 PM
+132,0,4,159,0021600785,Humphries REBOUND (Off:0 Def:3),,10:06,2,4.0,0,0,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:10 PM
+133,76,1,160,0021600785,Bembry 1' Running Finger Roll Layup (4 PTS),,10:01,2,4.0,0,0,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,33 - 43,10,,8:10 PM
+134,1,9,161,0021600785,,,10:01,2,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.2 Short 1),8:11 PM
+135,0,8,163,0021600785,,,10:01,2,5.0,5,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Jokic FOR Faried,8:12 PM
+136,0,8,164,0021600785,SUB: Bazemore FOR Dunleavy,,10:00,2,4.0,4,0,2399,Mike Dunleavy,ATL,Atlanta,1610612737.0,Hawks,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:13 PM
+137,1,1,165,0021600785,,,9:45,2,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,36 - 43,7,Arthur 25' 3PT Jump Shot (8 PTS) (Barton 3 AST),8:13 PM
+138,1,2,167,0021600785,MISS Muscala 24' 3PT Jump Shot,,9:29,2,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:13 PM
+139,0,4,168,0021600785,HAWKS Rebound,,9:29,2,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,8:13 PM
+140,3,6,169,0021600785,,,9:29,2,5.0,4,1,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Jokic L.B.FOUL (P1.T1) (E.Malloy),8:14 PM
+141,98,2,171,0021600785,MISS Bembry 1' Cutting Layup Shot,,9:26,2,4.0,0,5,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,,,Barton BLOCK (1 BLK),8:14 PM
+142,0,4,172,0021600785,,,9:25,2,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:6 Def:2),8:14 PM
+143,79,2,173,0021600785,,,9:19,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton 25' 3PT Pullup Jump Shot,8:14 PM
+144,0,4,174,0021600785,Humphries REBOUND (Off:0 Def:4),,9:17,2,4.0,0,0,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:14 PM
+145,2,6,175,0021600785,,,9:13,2,5.0,4,1,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Harris S.FOUL (P1.T2) (M.Ayotte),8:14 PM
+146,11,3,176,0021600785,Bazemore Free Throw 1 of 2 (7 PTS),,9:13,2,4.0,0,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,36 - 44,8,,8:14 PM
+147,0,8,178,0021600785,SUB: Howard FOR Humphries,,9:13,2,4.0,4,0,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:15 PM
+148,12,3,179,0021600785,Bazemore Free Throw 2 of 2 (8 PTS),,9:13,2,4.0,0,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,36 - 45,9,,8:15 PM
+149,1,2,181,0021600785,,,9:00,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton 24' 3PT Jump Shot,8:15 PM
+150,0,4,182,0021600785,Muscala REBOUND (Off:1 Def:1),,8:59,2,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:15 PM
+151,103,1,183,0021600785,Bazemore 21' Running Pull-Up Jump Shot (10 PTS),,8:52,2,4.0,0,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,36 - 47,11,,8:15 PM
+152,1,5,184,0021600785,Bazemore STEAL (2 STL),,8:35,2,5.0,4,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Harris Bad Pass Turnover (P2.T5),8:15 PM
+153,103,1,185,0021600785,Bazemore 24' 3PT Running Pull-Up Jump Shot (13 PTS) (Bembry 2 AST),,8:29,2,4.0,4,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,36 - 50,14,,8:16 PM
+154,44,1,187,0021600785,,,8:16,2,5.0,5,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,38 - 50,12,Murray 2' Reverse Layup (2 PTS) (Jokic 2 AST),8:16 PM
+155,78,1,188,0021600785,Bembry 12' Floating Jump Shot (6 PTS) (Bazemore 2 AST),,8:00,2,4.0,4,0,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,38 - 52,14,,8:16 PM
+156,4,6,189,0021600785,,,7:50,2,5.0,4,1,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Arthur OFF.Foul (P1) (E.Malloy),8:16 PM
+157,5,5,190,0021600785,,,7:50,2,5.0,0,1,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Arthur Foul Turnover (P2.T6),8:16 PM
+158,11,6,191,0021600785,,,7:50,2,7.0,0,1,2610,,,,,,0,,,,,,0,,,,,,,,,8:16 PM
+159,16,3,192,0021600785,MISS Muscala Free Throw Technical,,7:50,2,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:16 PM
+160,1,4,193,0021600785,HAWKS Rebound,,7:50,2,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,8:16 PM
+161,0,8,194,0021600785,SUB: Millsap FOR Muscala,,7:50,2,4.0,4,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:17 PM
+162,79,2,195,0021600785,MISS Delaney 17' Pullup Jump Shot,,7:40,2,4.0,0,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:17 PM
+163,0,4,196,0021600785,Howard REBOUND (Off:3 Def:0),,7:39,2,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:17 PM
+164,45,5,197,0021600785,Bazemore Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,7:35,2,4.0,0,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:17 PM
+165,1,2,198,0021600785,,,7:26,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton  3PT Jump Shot,8:17 PM
+166,0,4,199,0021600785,Howard REBOUND (Off:3 Def:1),,7:24,2,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:17 PM
+167,1,6,201,0021600785,,,7:18,2,5.0,4,1,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Jokic P.FOUL (P2.T3) (M.Ayotte),8:18 PM
+168,0,8,202,0021600785,SUB: Hardaway Jr. FOR Bembry,,7:18,2,4.0,4,0,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:18 PM
+169,79,2,203,0021600785,MISS Delaney 18' Pullup Jump Shot,,7:05,2,4.0,0,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:18 PM
+170,0,4,204,0021600785,,,7:03,2,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Murray REBOUND (Off:0 Def:2),8:18 PM
+171,1,6,206,0021600785,Bazemore P.FOUL (P3.T1) (S.Wall),,6:48,2,4.0,5,1,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:18 PM
+172,0,8,207,0021600785,,,6:48,2,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Chandler FOR Arthur,8:19 PM
+173,1,2,209,0021600785,,,6:33,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton 25' 3PT Jump Shot,8:19 PM
+174,0,4,210,0021600785,Delaney REBOUND (Off:0 Def:1),,6:32,2,4.0,0,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:19 PM
+175,79,2,211,0021600785,MISS Delaney 12' Pullup Jump Shot,,6:21,2,4.0,0,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:19 PM
+176,0,4,212,0021600785,HAWKS Rebound,,6:21,2,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,8:19 PM
+177,3,6,213,0021600785,,,6:21,2,5.0,4,1,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Jokic L.B.FOUL (P3.T4) (S.Wall),8:19 PM
+178,0,8,214,0021600785,,,6:21,2,5.0,5,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Arthur FOR Jokic,8:19 PM
+179,1,2,216,0021600785,MISS Millsap 26' 3PT Jump Shot,,6:09,2,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:20 PM
+180,0,4,217,0021600785,,,6:07,2,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Arthur REBOUND (Off:0 Def:2),8:20 PM
+181,1,2,218,0021600785,,,6:00,2,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Arthur 24' 3PT Jump Shot,8:20 PM
+182,0,4,219,0021600785,,,5:59,2,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,8:20 PM
+183,4,9,220,0021600785,,,5:59,2,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:20 PM
+184,0,8,222,0021600785,SUB: Schroder FOR Bazemore,,5:59,2,4.0,4,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:22 PM
+185,0,8,223,0021600785,,,5:59,2,5.0,5,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Nelson FOR Harris,8:22 PM
+186,1,2,224,0021600785,,,5:40,2,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Murray 26' 3PT Jump Shot,8:23 PM
+187,0,4,225,0021600785,,,5:38,2,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Arthur REBOUND (Off:1 Def:2),8:23 PM
+188,101,1,226,0021600785,,,5:33,2,5.0,5,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,40 - 52,12,Barton 11' Driving Floating Jump Shot (6 PTS) (Nelson 2 AST),8:23 PM
+189,79,1,228,0021600785,Schroder 18' Pullup Jump Shot (14 PTS),,5:20,2,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,40 - 54,14,,8:23 PM
+190,17,6,229,0021600785,HAWKS T.Foul (Def. 3 Sec Howard ) (M.Ayotte),,5:07,2,4.0,0,1,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:23 PM
+191,16,3,230,0021600785,,,5:07,2,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,41 - 54,13,Murray Free Throw Technical (3 PTS),8:24 PM
+192,1,1,232,0021600785,,,5:00,2,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,44 - 54,10,Chandler 25' 3PT Jump Shot (15 PTS) (Nelson 3 AST),8:24 PM
+193,80,2,234,0021600785,MISS Millsap 14' Step Back Jump Shot,,4:39,2,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:24 PM
+194,0,4,235,0021600785,,,4:39,2,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,8:24 PM
+195,3,6,236,0021600785,Howard L.B.FOUL (P2.T2) (E.Malloy),,4:39,2,4.0,5,1,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:25 PM
+196,79,2,238,0021600785,,,4:17,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton 11' Pullup Jump Shot,8:25 PM
+197,0,4,239,0021600785,Howard REBOUND (Off:3 Def:2),,4:14,2,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:25 PM
+198,1,1,240,0021600785,Hardaway Jr. 25' 3PT Jump Shot (8 PTS) (Schroder 4 AST),,4:06,2,4.0,4,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,44 - 57,13,,8:25 PM
+199,2,6,241,0021600785,Howard S.FOUL (P3.T3) (S.Wall),,3:55,2,4.0,5,1,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:26 PM
+200,11,6,242,0021600785,Howard T.FOUL (P3.T3) (E.Malloy),,3:55,2,4.0,0,1,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:26 PM
+201,16,3,243,0021600785,,,3:55,2,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,45 - 57,12,Murray Free Throw Technical (4 PTS),8:26 PM
+202,11,3,246,0021600785,,,3:55,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton Free Throw 1 of 2,8:26 PM
+203,1,4,247,0021600785,,,3:55,2,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,8:26 PM
+204,0,8,248,0021600785,SUB: Muscala FOR Howard,,3:55,2,4.0,4,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:26 PM
+205,0,8,249,0021600785,,,3:55,2,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Hernangomez FOR Arthur,8:27 PM
+206,12,3,250,0021600785,,,3:55,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,46 - 57,11,Barton Free Throw 2 of 2 (7 PTS),8:27 PM
+207,42,1,252,0021600785,Schroder 1' Driving Layup (16 PTS),,3:50,2,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,46 - 59,13,,8:27 PM
+208,1,1,253,0021600785,,,3:34,2,5.0,5,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,49 - 59,10,Hernangomez  3PT Jump Shot (3 PTS) (Chandler 1 AST),8:27 PM
+209,79,1,254,0021600785,Delaney 20' Pullup Jump Shot (2 PTS) (Millsap 3 AST),,3:12,2,4.0,4,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,49 - 61,12,,8:28 PM
+210,1,2,255,0021600785,,,3:00,2,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Murray  3PT Jump Shot,8:28 PM
+211,0,4,256,0021600785,Muscala REBOUND (Off:1 Def:2),,2:58,2,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:28 PM
+212,1,2,257,0021600785,MISS Hardaway Jr. 24' 3PT Jump Shot,,2:44,2,4.0,0,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:28 PM
+213,0,4,258,0021600785,HAWKS Rebound,,2:44,2,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,8:28 PM
+214,3,6,259,0021600785,,,2:44,2,5.0,4,1,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Hernangomez L.B.FOUL (P1.PN) (S.Wall),8:28 PM
+215,1,9,260,0021600785,HAWKS Timeout: Regular (Full 2 Short 0),,2:44,2,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,8:28 PM
+216,0,8,261,0021600785,,,2:44,2,5.0,5,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Harris FOR Murray,8:30 PM
+217,11,3,263,0021600785,Muscala Free Throw 1 of 2 (3 PTS),,2:44,2,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,49 - 62,13,,8:31 PM
+218,12,3,265,0021600785,Muscala Free Throw 2 of 2 (4 PTS),,2:44,2,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,49 - 63,14,,8:31 PM
+219,63,2,267,0021600785,,,2:24,2,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler 16' Fadeaway Jumper,8:31 PM
+220,0,4,269,0021600785,,,2:20,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton REBOUND (Off:1 Def:1),8:31 PM
+221,72,1,268,0021600785,,,2:20,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,51 - 63,12,Barton  Putback Layup (9 PTS),8:31 PM
+222,1,2,270,0021600785,MISS Delaney 25' 3PT Jump Shot,,2:02,2,4.0,0,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:32 PM
+223,0,4,271,0021600785,,,2:01,2,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hernangomez REBOUND (Off:0 Def:1),8:32 PM
+224,46,2,272,0021600785,,,1:54,2,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Harris 25' 3PT Running Jump Shot,8:32 PM
+225,0,4,273,0021600785,Muscala REBOUND (Off:1 Def:3),,1:52,2,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:32 PM
+226,2,6,274,0021600785,,,1:48,2,5.0,4,1,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Nelson S.FOUL (P2.PN) (E.Malloy),8:32 PM
+227,11,3,275,0021600785,Muscala Free Throw 1 of 2 (5 PTS),,1:48,2,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,51 - 64,13,,8:32 PM
+228,12,3,277,0021600785,Muscala Free Throw 2 of 2 (6 PTS),,1:48,2,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,51 - 65,14,,8:33 PM
+229,4,6,279,0021600785,,,1:30,2,5.0,4,1,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Chandler OFF.Foul (P2) (M.Ayotte),8:33 PM
+230,5,5,280,0021600785,,,1:30,2,5.0,0,1,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler Foul Turnover (P2.T7),8:33 PM
+231,42,1,281,0021600785,Schroder 2' Driving Layup (18 PTS),,1:16,2,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,51 - 67,16,,8:33 PM
+232,80,2,282,0021600785,,,0:58,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton 24' 3PT Step Back Jump Shot,8:34 PM
+233,0,4,283,0021600785,Delaney REBOUND (Off:0 Def:2),,0:56,2,4.0,0,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:34 PM
+234,41,2,284,0021600785,MISS Hardaway Jr. 2' Running Layup,,0:52,2,4.0,0,5,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,,,Barton BLOCK (2 BLK),8:34 PM
+235,0,4,285,0021600785,,,0:51,2,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hernangomez REBOUND (Off:0 Def:2),8:34 PM
+236,79,2,286,0021600785,,,0:42,2,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler 22' Pullup Jump Shot,8:34 PM
+237,0,4,287,0021600785,,,0:39,2,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:2 Def:2),8:34 PM
+238,2,5,288,0021600785,Schroder STEAL (3 STL),,0:37,2,5.0,4,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Chandler Lost Ball Turnover (P3.T8),8:34 PM
+239,52,1,289,0021600785,Hardaway Jr.  Alley Oop Dunk (10 PTS) (Schroder 5 AST),,0:34,2,4.0,4,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,51 - 69,18,,8:34 PM
+240,42,1,290,0021600785,,,0:30,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,53 - 69,16,Barton 1' Driving Layup (11 PTS),8:34 PM
+241,2,6,291,0021600785,Delaney S.FOUL (P1.T4) (M.Ayotte),,0:30,2,4.0,5,1,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:34 PM
+242,10,3,293,0021600785,,,0:30,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,54 - 69,15,Barton Free Throw 1 of 1 (12 PTS),8:35 PM
+243,1,1,296,0021600785,Millsap 25' 3PT Jump Shot (10 PTS) (Schroder 6 AST),,0:25,2,4.0,4,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,54 - 72,18,,8:35 PM
+244,1,6,297,0021600785,Muscala P.FOUL (P1.PN) (S.Wall),,0:04,2,4.0,5,1,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:35 PM
+245,11,3,298,0021600785,,,0:04,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,55 - 72,17,Barton Free Throw 1 of 2 (13 PTS),8:36 PM
+246,0,8,300,0021600785,,,0:04,2,5.0,5,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,1627736,Malik Beasley,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Beasley FOR Nelson,8:36 PM
+247,0,8,301,0021600785,,,0:04,2,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,203948,Johnny O'Bryant III,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: O'Bryant III FOR Chandler,8:36 PM
+248,2,9,302,0021600785,HAWKS Timeout: Short (Full 2 Short 1),,0:04,2,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,8:36 PM
+249,0,8,305,0021600785,SUB: Dunleavy FOR Delaney,,0:04,2,4.0,4,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,2399,Mike Dunleavy,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,8:37 PM
+250,12,3,306,0021600785,,,0:04,2,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton Free Throw 2 of 2,8:37 PM
+251,0,4,308,0021600785,Millsap REBOUND (Off:0 Def:2),,0:02,2,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:37 PM
+252,103,2,309,0021600785,MISS Millsap 42' 3PT Running Pull-Up Jump Shot,,0:00,2,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:38 PM
+253,0,4,310,0021600785,HAWKS Rebound,,0:00,2,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,8:38 PM
+254,0,13,311,0021600785,,,0:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,55 - 72,17,,8:38 PM
+255,0,12,313,0021600785,,,12:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,55 - 72,17,,8:54 PM
+256,98,1,314,0021600785,Hardaway Jr. 2' Cutting Layup Shot (12 PTS) (Howard 1 AST),,11:52,3,4.0,4,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,55 - 74,19,,8:54 PM
+257,79,1,315,0021600785,,,11:39,3,5.0,5,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,57 - 74,17,Harris 5' Pullup Jump Shot (4 PTS) (Barton 4 AST),8:54 PM
+258,2,6,316,0021600785,Bazemore S.FOUL (P4.T1) (M.Ayotte),,11:39,3,4.0,5,1,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,8:54 PM
+259,10,3,317,0021600785,,,11:39,3,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,58 - 74,16,Harris Free Throw 1 of 1 (5 PTS),8:54 PM
+260,1,1,319,0021600785,Millsap 16' Jump Shot (12 PTS) (Schroder 7 AST),,11:28,3,4.0,4,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,58 - 76,18,,8:55 PM
+261,1,2,320,0021600785,,,11:10,3,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Harris  3PT Jump Shot,8:55 PM
+262,0,4,321,0021600785,HAWKS Rebound,,11:07,3,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,8:55 PM
+263,52,1,323,0021600785,Howard  Alley Oop Dunk (7 PTS) (Millsap 4 AST),,10:53,3,4.0,4,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,58 - 78,20,,8:55 PM
+264,3,1,325,0021600785,,,10:29,3,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,60 - 78,18,Jokic 5' Hook Shot (8 PTS),8:56 PM
+265,49,1,326,0021600785,Howard  Driving Dunk (9 PTS) (Hardaway Jr. 3 AST),,10:11,3,4.0,4,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,60 - 80,20,,8:56 PM
+266,1,1,327,0021600785,,,9:59,3,5.0,5,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,63 - 80,17,Jokic 24' 3PT Jump Shot (11 PTS) (Nelson 4 AST),8:56 PM
+267,1,5,328,0021600785,Schroder Bad Pass Turnover (P1.T2),,9:47,3,4.0,5,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Barton STEAL (1 STL),8:56 PM
+268,46,1,329,0021600785,,,9:40,3,5.0,5,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,66 - 80,14,Nelson 24' 3PT Running Jump Shot (6 PTS) (Barton 5 AST),8:57 PM
+269,1,5,330,0021600785,Bazemore Bad Pass Turnover (P2.T3),,9:22,3,4.0,5,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Nelson STEAL (1 STL),8:57 PM
+270,1,2,331,0021600785,,,9:14,3,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler 24' 3PT Jump Shot,8:57 PM
+271,0,4,332,0021600785,,,9:12,3,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:7 Def:2),8:57 PM
+272,98,2,333,0021600785,,,9:08,3,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler 3' Cutting Layup Shot,8:57 PM
+273,0,4,334,0021600785,Howard REBOUND (Off:3 Def:3),,9:07,3,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,8:57 PM
+274,98,1,335,0021600785,Schroder 2' Cutting Layup Shot (20 PTS) (Millsap 5 AST),,8:53,3,4.0,4,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,66 - 82,16,,8:57 PM
+275,1,9,336,0021600785,,,8:52,3,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.3 Short 1),8:57 PM
+276,0,8,338,0021600785,SUB: Delaney FOR Bazemore,,8:52,3,4.0,4,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,9:00 PM
+277,42,1,340,0021600785,,,8:36,3,5.0,5,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,68 - 82,14,Jokic 2' Driving Layup (13 PTS) (Nelson 5 AST),9:00 PM
+278,47,1,341,0021600785,Millsap 15' Turnaround Jump Shot (14 PTS),,8:15,3,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,68 - 84,16,,9:00 PM
+279,42,2,342,0021600785,,,8:03,3,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nelson 3' Driving Layup,9:01 PM
+280,0,4,344,0021600785,,,7:59,3,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton REBOUND (Off:2 Def:1),9:01 PM
+281,97,1,343,0021600785,,,7:59,3,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,70 - 84,14,Barton  Tip Layup Shot (15 PTS),9:01 PM
+282,27,6,345,0021600785,,,7:51,3,5.0,4,1,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Nelson Personal Block Foul (P3.T1) (E.Malloy),9:01 PM
+283,79,1,346,0021600785,Millsap 18' Pullup Jump Shot (16 PTS) (Schroder 8 AST),,7:44,3,4.0,4,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,70 - 86,16,,9:01 PM
+284,5,1,347,0021600785,,,7:17,3,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,72 - 86,14,Chandler  Layup (17 PTS) (Nelson 6 AST),9:02 PM
+285,1,5,348,0021600785,Schroder Bad Pass Turnover (P2.T4),,6:59,3,4.0,5,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Barton STEAL (2 STL),9:02 PM
+286,29,6,349,0021600785,Delaney Shooting Block Foul (P2.T2) (M.Ayotte),,6:55,3,4.0,5,1,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:02 PM
+287,11,3,350,0021600785,,,6:55,3,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Harris Free Throw 1 of 2,9:02 PM
+288,1,4,351,0021600785,,,6:55,3,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,9:02 PM
+289,12,3,352,0021600785,,,6:55,3,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,73 - 86,13,Harris Free Throw 2 of 2 (6 PTS),9:03 PM
+290,1,5,354,0021600785,Schroder Bad Pass Turnover (P3.T5),,6:42,3,4.0,5,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Chandler STEAL (1 STL),9:03 PM
+291,78,2,355,0021600785,,,6:32,3,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Jokic 11' Floating Jump Shot,9:03 PM
+292,0,4,356,0021600785,Howard REBOUND (Off:3 Def:4),,6:30,3,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:03 PM
+293,2,5,357,0021600785,Howard Lost Ball Turnover (P1.T6),,6:28,3,4.0,5,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Harris STEAL (1 STL),9:03 PM
+294,1,2,358,0021600785,,,6:24,3,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Harris 24' 3PT Jump Shot,9:03 PM
+295,0,4,359,0021600785,,,6:22,3,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton REBOUND (Off:3 Def:1),9:03 PM
+296,1,1,360,0021600785,,,6:12,3,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,76 - 86,10,Chandler 24' 3PT Jump Shot (20 PTS) (Harris 2 AST),9:03 PM
+297,108,1,362,0021600785,Howard  Cutting Dunk Shot (11 PTS) (Hardaway Jr. 4 AST),,5:51,3,4.0,4,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,76 - 88,12,,9:04 PM
+298,1,1,363,0021600785,,,5:37,3,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,79 - 88,9,Chandler 25' 3PT Jump Shot (23 PTS) (Nelson 7 AST),9:05 PM
+299,1,9,364,0021600785,HAWKS Timeout: Regular (Full 3 Short 1),,5:37,3,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,9:05 PM
+300,0,8,367,0021600785,SUB: Muscala FOR Howard,,5:37,3,4.0,4,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,9:07 PM
+301,1,2,368,0021600785,MISS Hardaway Jr. 24' 3PT Jump Shot,,5:23,3,4.0,0,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:07 PM
+302,0,4,369,0021600785,Millsap REBOUND (Off:1 Def:2),,5:21,3,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:07 PM
+303,47,1,370,0021600785,Muscala 14' Turnaround Jump Shot (8 PTS) (Schroder 9 AST),,5:05,3,4.0,4,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,79 - 90,11,,9:07 PM
+304,1,2,371,0021600785,,,4:40,3,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton 24' 3PT Jump Shot,9:08 PM
+305,0,4,372,0021600785,Muscala REBOUND (Off:1 Def:4),,4:39,3,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:08 PM
+306,103,2,373,0021600785,MISS Schroder 22' Running Pull-Up Jump Shot,,4:33,3,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:08 PM
+307,0,4,374,0021600785,,,4:32,3,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:7 Def:3),9:08 PM
+308,39,5,375,0021600785,,,4:23,3,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton Step Out of Bounds Turnover (P1.T9),9:08 PM
+309,2,5,377,0021600785,Muscala Lost Ball Turnover (P1.T7),,4:08,3,4.0,5,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Harris STEAL (2 STL),9:09 PM
+310,50,1,378,0021600785,,,4:03,3,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,81 - 90,9,Harris 1' Running Dunk (8 PTS),9:09 PM
+311,1,2,379,0021600785,MISS Schroder 26' 3PT Jump Shot,,3:38,3,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:09 PM
+312,0,4,380,0021600785,,,3:36,3,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:2 Def:3),9:09 PM
+313,103,2,381,0021600785,,,3:29,3,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nelson 25' 3PT Running Pull-Up Jump Shot,9:09 PM
+314,0,4,382,0021600785,Schroder REBOUND (Off:0 Def:4),,3:25,3,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:09 PM
+315,50,1,383,0021600785,Hardaway Jr.  Running Dunk (14 PTS) (Schroder 10 AST),,3:21,3,4.0,4,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,81 - 92,11,,9:09 PM
+316,79,2,385,0021600785,Millsap BLOCK (1 BLK),,3:01,3,5.0,0,4,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,,,MISS Nelson 4' Pullup Jump Shot,9:10 PM
+317,0,4,386,0021600785,Hardaway Jr. REBOUND (Off:1 Def:1),,2:59,3,4.0,0,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:10 PM
+318,41,1,387,0021600785,Delaney 1' Running Layup (4 PTS) (Hardaway Jr. 5 AST),,2:55,3,4.0,4,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,81 - 94,13,,9:10 PM
+319,2,9,388,0021600785,,,2:55,3,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Short (Reg.3 Short 2),9:10 PM
+320,0,8,390,0021600785,SUB: Bembry FOR Schroder,,2:55,3,4.0,4,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,9:11 PM
+321,0,8,392,0021600785,,,2:55,3,5.0,5,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Murray FOR Jokic,9:11 PM
+322,0,8,393,0021600785,,,2:55,3,5.0,5,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Arthur FOR Harris,9:11 PM
+323,42,2,394,0021600785,Muscala BLOCK (1 BLK),,2:37,3,5.0,0,4,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,,,MISS Chandler 2' Driving Layup,9:11 PM
+324,0,4,395,0021600785,Bembry REBOUND (Off:0 Def:2),,2:35,3,4.0,0,0,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:11 PM
+325,1,1,396,0021600785,Muscala 12' Jump Shot (10 PTS) (Delaney 2 AST),,2:16,3,4.0,4,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,81 - 96,15,,9:12 PM
+326,1,1,397,0021600785,,,2:05,3,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,83 - 96,13,Arthur 15' Jump Shot (10 PTS) (Nelson 8 AST),9:12 PM
+327,1,2,399,0021600785,MISS Hardaway Jr. 26' 3PT Jump Shot,,1:57,3,4.0,0,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:12 PM
+328,0,4,400,0021600785,,,1:55,3,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:2 Def:4),9:12 PM
+329,102,1,401,0021600785,,,1:45,3,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,85 - 96,11,Barton 6' Driving Floating Bank Jump Shot (17 PTS),9:12 PM
+330,45,5,402,0021600785,Delaney Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,1:32,3,4.0,0,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:13 PM
+331,0,8,403,0021600785,,,1:32,3,5.0,5,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Hernangomez FOR Nelson,9:13 PM
+332,101,2,404,0021600785,,,1:22,3,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Arthur 11' Driving Floating Jump Shot,9:13 PM
+333,0,4,405,0021600785,Muscala REBOUND (Off:1 Def:5),,1:20,3,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:13 PM
+334,80,2,406,0021600785,MISS Muscala 14' Step Back Jump Shot,,1:09,3,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:13 PM
+335,0,4,407,0021600785,,,1:07,3,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton REBOUND (Off:3 Def:2),9:13 PM
+336,5,2,408,0021600785,Bembry BLOCK (1 BLK),,1:01,3,5.0,0,4,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,,,MISS Barton 2' Layup,9:13 PM
+337,0,4,409,0021600785,Millsap REBOUND (Off:1 Def:3),,0:59,3,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:13 PM
+338,41,2,410,0021600785,MISS Hardaway Jr. 1' Running Layup,,0:56,3,4.0,0,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:13 PM
+339,0,4,412,0021600785,Bembry REBOUND (Off:1 Def:2),,0:56,3,4.0,0,0,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:13 PM
+340,97,1,411,0021600785,Bembry  Tip Layup Shot (8 PTS),,0:56,3,4.0,0,0,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,85 - 98,13,,9:13 PM
+341,79,1,413,0021600785,,,0:36,3,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,87 - 98,11,Murray 18' Pullup Jump Shot (6 PTS),9:14 PM
+342,1,2,414,0021600785,MISS Millsap 25' 3PT Jump Shot,,0:30,3,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:14 PM
+343,0,4,415,0021600785,Delaney REBOUND (Off:1 Def:2),,0:28,3,4.0,0,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:14 PM
+344,28,6,416,0021600785,,,0:12,3,5.0,4,1,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Murray Personal Take Foul (P2.T2) (S.Wall),9:14 PM
+345,0,8,418,0021600785,SUB: Dunleavy FOR Bembry,,0:12,3,4.0,4,0,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,2399,Mike Dunleavy,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,9:14 PM
+346,79,2,419,0021600785,MISS Hardaway Jr. 24' 3PT Pullup Jump Shot,,0:00,3,4.0,0,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:15 PM
+347,0,4,420,0021600785,,,0:00,3,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hernangomez REBOUND (Off:0 Def:3),9:15 PM
+348,0,13,421,0021600785,,,0:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,87 - 98,11,,9:15 PM
+349,0,12,423,0021600785,,,12:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,87 - 98,11,,9:18 PM
+350,42,2,424,0021600785,,,11:45,4,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Harris 2' Driving Layup,9:18 PM
+351,0,4,425,0021600785,,,11:43,4,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Arthur REBOUND (Off:2 Def:2),9:18 PM
+352,4,5,426,0021600785,,,11:42,4,5.0,0,1,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hernangomez Traveling Turnover (P1.T10),9:18 PM
+353,5,1,428,0021600785,Humphries 3' Layup (4 PTS) (Delaney 3 AST),,11:27,4,4.0,4,0,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,87 - 100,13,,9:19 PM
+354,1,1,429,0021600785,,,11:15,4,5.0,5,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,90 - 100,10,Harris 25' 3PT Jump Shot (11 PTS) (Jokic 3 AST),9:19 PM
+355,1,1,430,0021600785,Humphries 25' 3PT Jump Shot (7 PTS) (Delaney 4 AST),,10:58,4,4.0,4,0,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,90 - 103,13,,9:19 PM
+356,1,6,431,0021600785,Humphries P.FOUL (P3.T1) (E.Malloy),,10:49,4,4.0,5,1,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:19 PM
+357,1,1,432,0021600785,,,10:44,4,5.0,5,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,93 - 103,10,Jokic 24' 3PT Jump Shot (16 PTS) (Harris 3 AST),9:20 PM
+358,49,1,433,0021600785,Bembry  Driving Dunk (10 PTS),,10:23,4,4.0,0,0,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,93 - 105,12,,9:20 PM
+359,1,2,434,0021600785,,,10:07,4,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Harris  3PT Jump Shot,9:20 PM
+360,0,4,435,0021600785,Delaney REBOUND (Off:1 Def:3),,10:04,4,4.0,0,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:20 PM
+361,79,2,436,0021600785,MISS Delaney 25' 3PT Pullup Jump Shot,,9:50,4,4.0,0,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:20 PM
+362,0,4,437,0021600785,,,9:49,4,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hernangomez REBOUND (Off:0 Def:4),9:21 PM
+363,46,2,438,0021600785,,,9:43,4,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Hernangomez 26' 3PT Running Jump Shot,9:21 PM
+364,0,4,439,0021600785,Delaney REBOUND (Off:1 Def:4),,9:42,4,4.0,0,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:21 PM
+365,1,2,441,0021600785,MISS Muscala 25' 3PT Jump Shot,,9:27,4,4.0,0,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:21 PM
+366,0,4,442,0021600785,,,9:26,4,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:7 Def:4),9:21 PM
+367,1,2,443,0021600785,,,9:13,4,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Arthur 25' 3PT Jump Shot,9:21 PM
+368,0,4,444,0021600785,Bembry REBOUND (Off:1 Def:3),,9:11,4,4.0,0,0,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:21 PM
+369,1,2,445,0021600785,MISS Delaney 19' Jump Shot,,8:54,4,4.0,0,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:21 PM
+370,0,4,446,0021600785,,,8:53,4,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:7 Def:5),9:21 PM
+371,80,2,447,0021600785,,,8:39,4,5.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Arthur 16' Step Back Jump Shot,9:22 PM
+372,0,4,448,0021600785,Dunleavy REBOUND (Off:0 Def:1),,8:38,4,4.0,0,0,2399,Mike Dunleavy,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:22 PM
+373,1,2,449,0021600785,MISS Humphries 25' 3PT Jump Shot,,8:23,4,4.0,0,0,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:22 PM
+374,0,4,450,0021600785,,,8:21,4,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Murray REBOUND (Off:0 Def:3),9:22 PM
+375,79,1,452,0021600785,,,8:12,4,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,95 - 105,10,Murray 4' Pullup Jump Shot (8 PTS),9:22 PM
+376,1,9,453,0021600785,HAWKS Timeout: Regular (Full 4 Short 1),,8:12,4,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,9:22 PM
+377,0,8,455,0021600785,SUB: Bazemore FOR Bembry,,8:12,4,4.0,4,0,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,9:24 PM
+378,0,8,456,0021600785,SUB: Millsap FOR Dunleavy,,8:12,4,4.0,4,0,2399,Mike Dunleavy,ATL,Atlanta,1610612737.0,Hawks,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,9:24 PM
+379,0,8,457,0021600785,SUB: Hardaway Jr. FOR Muscala,,8:12,4,4.0,4,0,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,9:24 PM
+380,0,8,458,0021600785,SUB: Schroder FOR Delaney,,8:12,4,4.0,4,0,1627098,Malcolm Delaney,ATL,Atlanta,1610612737.0,Hawks,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,9:24 PM
+381,0,8,459,0021600785,,,8:12,4,5.0,5,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Barton FOR Harris,9:24 PM
+382,1,1,460,0021600785,Millsap 19' Jump Shot (18 PTS) (Hardaway Jr. 6 AST),,7:55,4,4.0,4,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,95 - 107,12,,9:25 PM
+383,1,1,461,0021600785,,,7:36,4,5.0,5,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,98 - 107,9,Murray  3PT Jump Shot (11 PTS) (Arthur 1 AST),9:25 PM
+384,1,2,462,0021600785,MISS Bazemore 26' 3PT Jump Shot,,7:17,4,4.0,0,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:25 PM
+385,0,4,463,0021600785,,,7:14,4,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:7 Def:6),9:25 PM
+386,98,1,464,0021600785,,,7:05,4,5.0,5,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,100 - 107,7,Hernangomez 3' Cutting Layup Shot (5 PTS) (Barton 6 AST),9:26 PM
+387,79,2,465,0021600785,MISS Schroder 10' Pullup Jump Shot,,6:44,4,4.0,0,5,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,,,Murray BLOCK (1 BLK),9:26 PM
+388,0,4,466,0021600785,,,6:42,4,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Murray REBOUND (Off:0 Def:4),9:26 PM
+389,47,2,467,0021600785,,,6:29,4,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Jokic 7' Turnaround Jump Shot,9:26 PM
+390,0,4,468,0021600785,,,6:27,4,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hernangomez REBOUND (Off:1 Def:4),9:26 PM
+391,2,6,469,0021600785,Millsap S.FOUL (P1.T2) (S.Wall),,6:27,4,4.0,5,1,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:26 PM
+392,11,3,471,0021600785,,,6:27,4,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Hernangomez Free Throw 1 of 2,9:27 PM
+393,1,4,472,0021600785,,,6:27,4,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,9:27 PM
+394,0,8,473,0021600785,SUB: Howard FOR Humphries,,6:27,4,4.0,4,0,2743,Kris Humphries,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,9:27 PM
+395,12,3,474,0021600785,,,6:27,4,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,101 - 107,6,Hernangomez Free Throw 2 of 2 (6 PTS),9:27 PM
+396,78,2,476,0021600785,MISS Millsap 12' Floating Jump Shot,,6:16,4,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:27 PM
+397,0,4,477,0021600785,HAWKS Rebound,,6:14,4,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,9:27 PM
+398,0,8,478,0021600785,,,6:14,4,5.0,5,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Chandler FOR Jokic,9:27 PM
+399,2,5,479,0021600785,Bazemore Lost Ball Turnover (P3.T9),,6:08,4,4.0,5,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Chandler STEAL (2 STL),9:28 PM
+400,1,2,480,0021600785,,,5:50,4,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Hernangomez  3PT Jump Shot,9:28 PM
+401,0,4,481,0021600785,,,5:47,4,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Murray REBOUND (Off:1 Def:4),9:28 PM
+402,1,2,482,0021600785,,,5:42,4,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Murray 24' 3PT Jump Shot,9:28 PM
+403,0,4,483,0021600785,,,5:42,4,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,9:28 PM
+404,3,6,484,0021600785,Schroder L.B.FOUL (P1.T3) (S.Wall),,5:42,4,4.0,5,1,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:28 PM
+405,4,9,485,0021600785,,,5:42,4,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:28 PM
+406,0,8,488,0021600785,,,5:42,4,5.0,5,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Jokic FOR Arthur,9:31 PM
+407,1,2,489,0021600785,,,5:32,4,5.0,0,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Murray 25' 3PT Jump Shot,9:31 PM
+408,0,4,490,0021600785,Howard REBOUND (Off:3 Def:5),,5:31,4,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:31 PM
+409,43,2,491,0021600785,MISS Howard 1' Alley Oop Layup,,5:16,4,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:31 PM
+410,0,4,492,0021600785,Howard REBOUND (Off:4 Def:5),,5:14,4,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:31 PM
+411,72,2,493,0021600785,MISS Howard 1' Putback Layup,,5:13,4,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:31 PM
+412,0,4,494,0021600785,,,5:12,4,5.0,0,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hernangomez REBOUND (Off:1 Def:5),9:31 PM
+413,1,2,495,0021600785,,,5:05,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton 24' 3PT Jump Shot,9:31 PM
+414,0,4,496,0021600785,Howard REBOUND (Off:4 Def:6),,5:03,4,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:31 PM
+415,42,1,497,0021600785,Schroder 2' Driving Layup (22 PTS),,4:45,4,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,101 - 109,8,,9:32 PM
+416,79,2,498,0021600785,,,4:25,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton 10' Pullup Jump Shot,9:32 PM
+417,0,4,499,0021600785,Howard REBOUND (Off:4 Def:7),,4:22,4,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:32 PM
+418,42,2,500,0021600785,MISS Hardaway Jr.  Driving Layup,,4:11,4,4.0,0,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:32 PM
+419,0,4,501,0021600785,Howard REBOUND (Off:5 Def:7),,4:10,4,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:32 PM
+420,1,6,502,0021600785,,,4:09,4,5.0,4,1,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Chandler P.FOUL (P3.T1) (S.Wall),9:32 PM
+421,0,8,503,0021600785,,,4:09,4,5.0,5,0,1627750,Jamal Murray,DEN,Denver,1610612743.0,Nuggets,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Harris FOR Murray,9:33 PM
+422,0,8,504,0021600785,,,4:09,4,5.0,5,0,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Nelson FOR Hernangomez,9:33 PM
+423,1,2,505,0021600785,MISS Schroder 24' 3PT Jump Shot,,4:03,4,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:33 PM
+424,0,4,506,0021600785,,,4:02,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton REBOUND (Off:3 Def:3),9:33 PM
+425,2,6,507,0021600785,Millsap S.FOUL (P2.T4) (S.Wall),,3:54,4,4.0,5,1,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:33 PM
+426,11,3,508,0021600785,,,3:54,4,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler Free Throw 1 of 2,9:33 PM
+427,1,4,509,0021600785,,,3:54,4,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,9:33 PM
+428,12,3,510,0021600785,,,3:54,4,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler Free Throw 2 of 2,9:34 PM
+429,0,4,512,0021600785,,,3:52,4,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:8 Def:6),9:34 PM
+430,72,2,513,0021600785,,,3:49,4,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Jokic 2' Putback Layup,9:34 PM
+431,0,4,517,0021600785,Howard REBOUND (Off:5 Def:8),,3:49,4,4.0,0,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:34 PM
+432,1,6,518,0021600785,,,3:49,4,5.0,4,1,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Jokic P.FOUL (P4.T2) (E.Malloy),9:34 PM
+433,79,2,519,0021600785,MISS Schroder 16' Pullup Jump Shot,,3:38,4,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:34 PM
+434,0,4,520,0021600785,,,3:36,4,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:2 Def:5),9:34 PM
+435,5,1,521,0021600785,,,3:28,4,5.0,5,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,103 - 109,6,Jokic 2' Layup (18 PTS) (Chandler 2 AST),9:34 PM
+436,1,2,523,0021600785,MISS Schroder 25' 3PT Jump Shot,,3:01,4,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:35 PM
+437,0,4,524,0021600785,,,2:59,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barton REBOUND (Off:3 Def:4),9:35 PM
+438,50,1,525,0021600785,,,2:56,4,5.0,5,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,105 - 109,4,Harris  Running Dunk (13 PTS) (Barton 7 AST),9:35 PM
+439,1,9,528,0021600785,,,2:38,4,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.4 Short 2),9:35 PM
+440,2,5,532,0021600785,Bazemore Lost Ball Turnover (P4.T10),,2:32,4,4.0,5,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Barton STEAL (3 STL),9:38 PM
+441,41,2,533,0021600785,Bazemore BLOCK (1 BLK),,2:27,4,5.0,0,4,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,,,MISS Barton 1' Running Layup,9:38 PM
+442,0,4,534,0021600785,,,2:24,4,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nelson REBOUND (Off:1 Def:0),9:38 PM
+443,1,2,535,0021600785,,,2:02,4,5.0,0,0,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Harris 25' 3PT Jump Shot,9:38 PM
+444,0,4,536,0021600785,Bazemore REBOUND (Off:0 Def:1),,2:01,4,4.0,0,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:38 PM
+445,81,1,537,0021600785,Millsap 12' Pullup Bank Shot (20 PTS),,1:47,4,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,105 - 111,6,,9:39 PM
+446,2,6,538,0021600785,,,1:47,4,5.0,4,1,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Chandler S.FOUL (P4.T3) (E.Malloy),9:39 PM
+447,10,3,539,0021600785,Millsap Free Throw 1 of 1 (21 PTS),,1:47,4,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,105 - 112,7,,9:39 PM
+448,101,2,541,0021600785,,,1:35,4,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler 10' Driving Floating Jump Shot,9:39 PM
+449,0,4,542,0021600785,HAWKS Rebound,,1:35,4,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,9:39 PM
+450,0,18,543,0021600785,,,1:35,4,,0,1,542,,,,,,0,,,,,,0,,,,,,,,,9:40 PM
+451,0,18,544,0021600785,,,1:35,4,,0,1,542,,,,,,0,,,,,,0,,,,,,,,,9:40 PM
+452,42,2,546,0021600785,MISS Schroder 2' Driving Layup,,1:13,4,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:41 PM
+453,0,4,585,0021600785,Bazemore REBOUND (Off:1 Def:1),,1:13,4,4.0,0,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:41 PM
+454,97,2,586,0021600785,MISS Bazemore 2' Tip Layup Shot,,1:13,4,4.0,0,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:41 PM
+455,0,4,547,0021600785,Schroder REBOUND (Off:1 Def:4),,1:10,4,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:42 PM
+456,1,6,548,0021600785,,,1:10,4,5.0,4,1,203914,Gary Harris,DEN,Denver,1610612743.0,Nuggets,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Harris P.FOUL (P2.PN) (E.Malloy),9:42 PM
+457,11,3,549,0021600785,Schroder Free Throw 1 of 2 (23 PTS),,1:10,4,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,105 - 113,8,,9:42 PM
+458,12,3,551,0021600785,Schroder Free Throw 2 of 2 (24 PTS),,1:10,4,4.0,0,0,203471,Dennis Schroder,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,105 - 114,9,,9:42 PM
+459,1,2,553,0021600785,,,0:55,4,5.0,0,0,203115,Will Barton,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barton  3PT Jump Shot,9:43 PM
+460,0,4,554,0021600785,,,0:54,4,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:3 Def:5),9:43 PM
+461,1,6,555,0021600785,Hardaway Jr. P.FOUL (P1.PN) (M.Ayotte),,0:54,4,4.0,5,1,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:43 PM
+462,11,3,557,0021600785,,,0:54,4,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Chandler Free Throw 1 of 2,9:43 PM
+463,1,4,558,0021600785,,,0:54,4,3.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,9:43 PM
+464,12,3,559,0021600785,,,0:54,4,5.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,106 - 114,8,Chandler Free Throw 2 of 2 (24 PTS),9:43 PM
+465,28,6,562,0021600785,,,0:51,4,5.0,4,1,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Chandler Personal Take Foul (P5.PN) (S.Wall),9:44 PM
+466,11,3,563,0021600785,MISS Bazemore Free Throw 1 of 2,,0:51,4,4.0,0,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:44 PM
+467,1,4,564,0021600785,HAWKS Rebound,,0:51,4,2.0,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,9:44 PM
+468,12,3,565,0021600785,Bazemore Free Throw 2 of 2 (14 PTS),,0:51,4,4.0,0,0,203145,Kent Bazemore,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,106 - 115,9,,9:44 PM
+469,79,2,567,0021600785,,,0:38,4,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nelson 20' Pullup Jump Shot,9:45 PM
+470,0,4,568,0021600785,Millsap REBOUND (Off:1 Def:4),,0:37,4,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:45 PM
+471,1,6,569,0021600785,,,0:37,4,5.0,4,1,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Chandler P.FOUL (P6.PN) (S.Wall),9:45 PM
+472,0,8,570,0021600785,,,0:37,4,5.0,5,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,1627823,Juan Hernangomez,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Hernangomez FOR Chandler,9:45 PM
+473,11,3,571,0021600785,Millsap Free Throw 1 of 2 (22 PTS),,0:37,4,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,106 - 116,10,,9:45 PM
+474,0,8,573,0021600785,SUB: Muscala FOR Howard,,0:37,4,4.0,4,0,2730,Dwight Howard,ATL,Atlanta,1610612737.0,Hawks,203488,Mike Muscala,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,9:45 PM
+475,12,3,574,0021600785,Millsap Free Throw 2 of 2 (23 PTS),,0:37,4,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,106 - 117,11,,9:45 PM
+476,79,2,577,0021600785,,,0:29,4,5.0,0,0,2749,Jameer Nelson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nelson 25' 3PT Pullup Jump Shot,9:46 PM
+477,0,4,579,0021600785,,,0:26,4,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Jokic REBOUND (Off:9 Def:6),9:46 PM
+478,97,2,578,0021600785,,,0:26,4,5.0,0,0,203999,Nikola Jokic,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Jokic 1' Tip Layup Shot,9:46 PM
+479,0,4,580,0021600785,Millsap REBOUND (Off:1 Def:5),,0:25,4,4.0,0,0,200794,Paul Millsap,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,9:46 PM
+480,11,5,581,0021600785,HAWKS Turnover: Shot Clock (T#11),,0:03,4,2.0,0,1,1610612737,,,,,,0,,,,,,0,,,,,,,,,9:46 PM
+481,0,8,582,0021600785,SUB: Bembry FOR Hardaway Jr.,,0:03,4,4.0,4,0,203501,Tim Hardaway Jr.,ATL,Atlanta,1610612737.0,Hawks,1627761,DeAndre' Bembry,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,9:47 PM
+482,0,13,583,0021600785,,,0:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,106 - 117,11,,9:47 PM

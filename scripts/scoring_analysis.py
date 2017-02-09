@@ -78,8 +78,8 @@ def get_consistency_data():
             player_game_log_file_path = consistency_data_player_log_path.format(player_id=player_id)
             if (not d.file_exists(player_game_log_file_path)) or consistency_data_overwrite:
                 player_game_log_df = d.playergamelog(player_id)
-                #player_game_log_df = player_game_log_df[player_game_log_df['MIN'] > 20]
-                #player_game_log_df = player_game_log_df[player_game_log_df['PTS'] > 1]
+                # player_game_log_df = player_game_log_df[player_game_log_df['MIN'] > 20]
+                # player_game_log_df = player_game_log_df[player_game_log_df['PTS'] > 1]
 
                 player_game_log_df['PP36'] = (player_game_log_df['PTS'] / player_game_log_df['MIN']) * 36
 
@@ -181,16 +181,25 @@ def generate_consistency_plots(data_df):
     url = py.plot(fig, filename="TS Consistency")
 
 
-synergy_df = calc_points_above_exp(get_synergy_data())
+def streaky_shooters(window_size, num_players):
+    shots_df = p.read_csv('../data/merged_shot_pbp/2016-17.csv')
 
-consistency_df = get_consistency_data()
+    general_stats_df = d.leaguedashplayerstats()
+    general_stats_df = general_stats_df[general_stats_df['GP'] > 20]
+    general_stats_df = general_stats_df.sort_values(by='FG3A', ascending=False).head(num_players)
 
-merged_df = p.merge(synergy_df, consistency_df, on='PLAYER_ID', how='right')
-# merged_df = merged_df.sort_values(by='Total_PTS', ascending=False)
-# d.print_reddit_table(merged_df,
-#                      ['PLAYER_NAME', 'Total_POSS', 'Total_PPP', 'PP36_STD', 'TS_STD'])
+    player_ids = general_stats_df['PLAYER_ID'].unique()
 
-# generate_consistency_plots(merged_df)
-d.print_reddit_table(consistency_df.sort_values(by='PP36_STD', ascending=True),
-                     ['PLAYER_NAME', 'PP36', 'PP36_STD', 'PP36_STD / MEAN', 'TS', 'TS_STD'])
-# graph_player_pts_above_exp(merged_df)
+    traces = []
+    for player_id in player_ids:
+        player_shots_df = shots_df[shots_df['PLAYER1_ID'] == player_id]
+        player_name = player_shots_df.iloc[1].PLAYER_NAME
+        player_shots_df = player_shots_df[player_shots_df['SHOT_TYPE'] == '3PT Field Goal']
+        player_shots_df['SHOT_MADE_FLAG'] *= 100
+        player_means = player_shots_df['SHOT_MADE_FLAG'].rolling(window=window_size, center=False).mean().values
+        shot_nums = range(0, len(player_means) - (window_size - 1))
+        traces.append(go.Scatter(x=shot_nums, y=player_means[(window_size - 1):], mode='lines+markers', name=player_name))
+
+    py.iplot(traces, filename='Streaky Shooters')
+
+streaky_shooters(50, 20)
