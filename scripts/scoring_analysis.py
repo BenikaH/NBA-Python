@@ -184,7 +184,7 @@ def generate_consistency_plots(data_df):
 def streaky_shooters(window_size, num_players):
     shots_df = p.read_csv('../data/merged_shot_pbp/2016-17.csv')
 
-    general_stats_df = d.leaguedashplayerstats()
+    general_stats_df = d.leaguedashplayerstats(overwrite=False)
     general_stats_df = general_stats_df[general_stats_df['GP'] > 20]
     general_stats_df = general_stats_df.sort_values(by='FG3A', ascending=False).head(num_players)
 
@@ -222,32 +222,16 @@ def streaky_shooters(window_size, num_players):
             )
         )
 
-    py.iplot(scatter_traces, filename='Streaky Shooters Scatter (Window: ' + str(window_size))
+    box_traces = sorted(box_traces, key=lambda x: x.y.std())
 
-    layout = go.Layout(
-        title='Streaky Shooters',
-        yaxis=dict(
-            autorange=True,
-            showgrid=True,
-            zeroline=True,
-            dtick=5,
-            gridcolor='rgb(255, 255, 255)',
-            gridwidth=1,
-            zerolinecolor='rgb(255, 255, 255)',
-            zerolinewidth=2,
-        ),
-        margin=dict(
-            l=40,
-            r=30,
-            b=80,
-            t=100,
-        ),
-        paper_bgcolor='rgb(243, 243, 243)',
-        plot_bgcolor='rgb(243, 243, 243)',
-        showlegend=False
+    layout = dict(
+        title='Streaky Shooters (Window = ' + str(window_size) + ')'
     )
 
-    py.iplot(box_traces, filename='Streaky Shooters Box (Window: ' + str(window_size))
+    py.iplot(scatter_traces, layout=layout, filename='W' + str(window_size) + ' Streaky Shooters Scatter')
+
+    py.iplot(box_traces, layout=layout, filename='W: ' + str(window_size) + ' Streaky Shooters Box')
 
 
-streaky_shooters(50, 20)
+for window in [10, 25, 50, 75, 100]:
+    streaky_shooters(window, 20)
