@@ -1,13 +1,11 @@
 import pandas as p
 import data_getters as d
 
-year = '2016-17'
-
 
 def merge_shot_and_pbp_year(season_year):
     print('MERGING SHOT AND PBP DATA FOR ' + str(season_year))
     # get shot data
-    shot_log = d.shotchartdetail(year=season_year)
+    shot_log = d.shotchartdetail(year=season_year, overwrite=False)
 
     # get game id's from game log
     game_log = d.leaguegamelog(year=season_year, overwrite=True)
@@ -26,4 +24,6 @@ def merge_shot_and_pbp_year(season_year):
     return p.merge(shot_log, play_by_play, left_on=['GAME_ID', 'GAME_EVENT_ID'], right_on=['GAME_ID', 'EVENTNUM'])
 
 
-merge_shot_and_pbp_year(year).to_csv(str(year) + '.csv')
+for year in range(1996, 2017):
+    year = d.get_year_string(year)
+    merge_shot_and_pbp_year(year).to_csv('../data/merged_shot_pbp/' + str(year) + '.csv')

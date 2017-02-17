@@ -3,6 +3,7 @@ import plotly.graph_objs as go
 import plotly.plotly as py
 
 import data_getters as d
+from numpy import array
 
 season_year = '2016'
 offensive_or_defensive = 'offensive'
@@ -181,57 +182,97 @@ def generate_consistency_plots(data_df):
     url = py.plot(fig, filename="TS Consistency")
 
 
-def streaky_shooters(window_size, num_players):
-    shots_df = p.read_csv('../data/merged_shot_pbp/2016-17.csv')
+def streaky_shooters(window_sizes, num_players):
+    streaky_shooters_df = p.DataFrame(columns=['Player Name'])
+    for window_size in window_sizes:
+        # Get merged shot and pbp data
+        shots_df = p.read_csv('../data/merged_shot_pbp/2016-17.csv')
 
-    general_stats_df = d.leaguedashplayerstats(overwrite=False)
-    general_stats_df = general_stats_df[general_stats_df['GP'] > 20]
-    general_stats_df = general_stats_df.sort_values(by='FG3A', ascending=False).head(num_players)
+        # Gets 3 points attempt leader ids, filter for players with more than 20 games played
+        general_stats_df = d.leaguedashplayerstats(overwrite=False)
+        general_stats_df = general_stats_df[general_stats_df['GP'] > 20]
+        general_stats_df = general_stats_df.sort_values(by='FG3A', ascending=False).head(num_players)
+        player_ids = general_stats_df['PLAYER_ID'].unique()
 
-    player_ids = general_stats_df['PLAYER_ID'].unique()
+        # Arrays to hold plot traces
+        scatter_traces = []
+        box_traces = []
 
-    scatter_traces = []
-    box_traces = []
-    for player_id in player_ids:
-        player_shots_df = shots_df[shots_df['PLAYER1_ID'] == player_id]
-        player_name = player_shots_df.iloc[1].PLAYER_NAME
-        player_shots_df = player_shots_df[player_shots_df['SHOT_TYPE'] == '3PT Field Goal']
-        player_shots_df['SHOT_MADE_FLAG'] *= 100
-        player_means = player_shots_df['SHOT_MADE_FLAG'].rolling(window=window_size, center=False).mean().values
-        shot_nums = range(0, len(player_means) - (window_size - 1))
-        player_means = player_means[(window_size - 1):]
-        scatter_traces.append(
-            go.Scatter(
-                x=shot_nums,
-                y=player_means,
-                mode='lines+markers',
-                name=player_name)
-        )
-        box_traces.append(
-            go.Box(
-                y=player_means,
-                name=player_name,
-                whiskerwidth=0,
-                boxpoints='all',
-                boxmean=True,
-                jitter=1,
-                pointpos=0,
-                line=dict(
-                    width=0
+        # Arrays to hold player names and standard deviation for df
+        player_names = []
+        player_stds = []
+
+        # Enumerate player ids, filter shot df by player_id; use filtered df to create trace for player
+        for player_id in player_ids:
+            # Filter df
+            player_shots_df = shots_df[shots_df['PLAYER1_ID'] == player_id]
+            player_shots_df = player_shots_df[player_shots_df['SHOT_TYPE'] == '3PT Field Goal']
+            # Multiply shot made flag so that rolling average represents percentage
+            player_shots_df['SHOT_MADE_FLAG'] *= 100
+            print(player_shots_df.columns)
+            print(player_shots_df.head(50))
+
+            # Get chart attributes
+            player_name = player_shots_df.iloc[1].PLAYER_NAME
+            # Calculate Array of rollings averages across a given window size of shots
+            player_means = player_shots_df['SHOT_MADE_FLAG'].rolling(window=window_size, center=False).mean().values
+            player_means = player_means[(window_size - 1):]
+            # Array used to represent shot number (chronologically)
+            shot_nums = range(0, len(player_means) - (window_size - 1))
+
+            # Append to plot traces
+            scatter_traces.append(
+                go.Scatter(
+                    x=shot_nums,
+                    y=player_means,
+                    mode='lines+markers',
+                    name=player_name)
+            )
+            box_traces.append(
+                go.Box(
+                    y=player_means,
+                    name=player_name,
+                    whiskerwidth=0,
+                    boxpoints='all',
+                    boxmean=True,
+                    jitter=1,
+                    pointpos=0,
+                    line=dict(
+                        width=0
+                    )
                 )
             )
+
+            # Append to df arrays
+            player_names.append(player_name)
+            player_stds.append(player_means.std())
+
+        # Sort Box Traces by Standard Deviation of the player rolling means
+        box_traces = sorted(box_traces, key=lambda x: x.y.std())
+
+        # Plot Traces
+        layout = dict(
+            title='Streaky Shooters (Window = ' + str(window_size) + ')'
         )
+        # py.iplot(scatter_traces, layout=layout, filename='W' + str(window_size) + ' Streaky Shooters Scatter')
 
-    box_traces = sorted(box_traces, key=lambda x: x.y.std())
+        # py.iplot(box_traces, layout=layout, filename='W: ' + str(window_size) + ' Streaky Shooters Box')
 
-    layout = dict(
-        title='Streaky Shooters (Window = ' + str(window_size) + ')'
-    )
+        # Add column for window size to overall streak shooters df
+        streaky_shooters_window_df = p.DataFrame()
+        streaky_shooters_window_df['Player Name'] = player_names
+        player_stds = array(player_stds)
+        player_stds = (player_stds - player_stds.mean()) / player_stds.std()
+        streaky_shooters_window_df['W' + str(window_size) + ' STD'] = player_stds
+        streaky_shooters_df = streaky_shooters_df.merge(streaky_shooters_window_df, on=['Player Name'], how='outer')
 
-    py.iplot(scatter_traces, layout=layout, filename='W' + str(window_size) + ' Streaky Shooters Scatter')
+    d.print_reddit_table(streaky_shooters_df, streaky_shooters_df.columns)
+    player_names = streaky_shooters_df['Player Name']
+    del streaky_shooters_df['Player Name']
+    heat_map_data = [go.Heatmap(z=streaky_shooters_df.values.tolist(), y=player_names, x=streaky_shooters_df.columns,
+                                colorscale='Viridis')]
 
-    py.iplot(box_traces, layout=layout, filename='W: ' + str(window_size) + ' Streaky Shooters Box')
+    # py.iplot(heat_map_data, filename='W:' + str(window_sizes) + ' Heat Map')
 
 
-for window in [10, 25, 50, 75, 100]:
-    streaky_shooters(window, 20)
+streaky_shooters([10, 25, 50, 75, 100], 20)
