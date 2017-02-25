@@ -1,0 +1,466 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020900229,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:40 PM
+1,0,10,1,0020900229,Jump Ball Scola vs. Duncan: Tip to Parker,,12:00,1,4,5,5,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,,,,8:40 PM
+2,1,2,2,0020900229,,,11:40,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 17' Jump Shot,8:41 PM
+3,0,4,3,0020900229,Ariza REBOUND (Off:0 Def:1),,11:39,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:41 PM
+4,1,2,4,0020900229,MISS Brooks 18' Jump Shot,,11:27,1,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:41 PM
+5,0,4,5,0020900229,,,11:26,1,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess REBOUND (Off:0 Def:1),8:41 PM
+6,47,2,6,0020900229,Ariza BLOCK (1 BLK),,11:11,1,5,0,4,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,,,MISS McDyess 13' Turnaround Jump Shot,8:42 PM
+7,0,4,7,0020900229,,,11:10,1,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,8:42 PM
+8,1,2,8,0020900229,,,11:03,1,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Parker 17' Jump Shot,8:42 PM
+9,0,4,9,0020900229,Hayes REBOUND (Off:0 Def:1),,11:02,1,4,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:42 PM
+10,46,2,11,0020900229,MISS Battier 9' Running Jump Shot,,10:35,1,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:42 PM
+11,0,4,13,0020900229,Scola REBOUND (Off:1 Def:0),,10:33,1,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:42 PM
+12,4,1,12,0020900229,Scola  Tip Shot (2 PTS),,10:33,1,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,0 - 2,2,,8:42 PM
+13,1,2,14,0020900229,,,10:19,1,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS McDyess 15' Jump Shot,8:43 PM
+14,0,4,15,0020900229,Battier REBOUND (Off:0 Def:1),,10:19,1,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:43 PM
+15,1,1,16,0020900229,Ariza 25' 3PT Jump Shot (3 PTS) (Hayes 1 AST),,10:00,1,4,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0 - 5,5,,8:43 PM
+16,1,2,17,0020900229,,,9:42,1,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Parker 6' Jump Shot,8:43 PM
+17,0,4,18,0020900229,Scola REBOUND (Off:1 Def:1),,9:41,1,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:43 PM
+18,1,2,19,0020900229,MISS Ariza 16' Jump Shot,,9:34,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:43 PM
+19,0,4,20,0020900229,,,9:33,1,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Parker REBOUND (Off:0 Def:1),8:43 PM
+20,2,6,21,0020900229,Brooks S.FOUL (P1.T1),,9:29,1,4,5,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:44 PM
+21,11,3,22,0020900229,,,9:29,1,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Parker Free Throw 1 of 2,8:44 PM
+22,1,4,23,0020900229,,,9:29,1,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,8:44 PM
+23,12,3,24,0020900229,,,9:29,1,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,1 - 5,4,Parker Free Throw 2 of 2 (1 PTS),8:44 PM
+24,2,6,26,0020900229,,,9:19,1,5,4,1,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Parker S.FOUL (P1.T1),8:44 PM
+25,11,3,27,0020900229,MISS Ariza Free Throw 1 of 2,,9:19,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:45 PM
+26,1,4,28,0020900229,ROCKETS Rebound,,9:19,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:45 PM
+27,12,3,29,0020900229,Ariza Free Throw 2 of 2 (4 PTS),,9:19,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,1 - 6,5,,8:45 PM
+28,42,1,31,0020900229,,,9:13,1,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,3 - 6,3,Parker  Driving Layup (3 PTS),8:45 PM
+29,1,6,32,0020900229,,,9:03,1,5,4,1,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Bogans P.FOUL (P1.T2),8:45 PM
+30,5,2,33,0020900229,MISS Ariza  Layup,,8:59,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:46 PM
+31,0,4,34,0020900229,Ariza REBOUND (Off:1 Def:1),,8:57,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:46 PM
+32,5,1,35,0020900229,Ariza  Layup (6 PTS),,8:56,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,3 - 8,5,,8:46 PM
+33,1,5,36,0020900229,Ariza STEAL (1 STL),,8:32,1,5,4,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Parker Bad Pass Turnover (P1.T1),8:46 PM
+34,49,1,37,0020900229,Ariza  Driving Dunk (8 PTS),,8:28,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,3 - 10,7,,8:46 PM
+35,1,9,38,0020900229,,,8:25,1,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.1 Short 0),8:46 PM
+36,1,2,42,0020900229,,,8:06,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 20' Jump Shot,8:49 PM
+37,0,4,43,0020900229,Scola REBOUND (Off:1 Def:2),,8:05,1,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:49 PM
+38,1,2,44,0020900229,MISS Brooks 25' 3PT Jump Shot,,7:50,1,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:49 PM
+39,0,4,45,0020900229,,,7:49,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:0 Def:1),8:49 PM
+40,1,1,46,0020900229,,,7:41,1,5,5,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,5 - 10,5,McDyess 15' Jump Shot (2 PTS) (Parker 1 AST),8:50 PM
+41,5,2,47,0020900229,MISS Hayes  Layup,,7:19,1,4,0,5,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,,,Duncan BLOCK (1 BLK),8:50 PM
+42,0,4,48,0020900229,Hayes REBOUND (Off:1 Def:1),,7:18,1,4,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:50 PM
+43,5,2,49,0020900229,MISS Hayes  Layup,,7:16,1,4,0,5,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,,,Duncan BLOCK (2 BLK),8:50 PM
+44,0,4,50,0020900229,,,7:14,1,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess REBOUND (Off:0 Def:2),8:50 PM
+45,1,2,51,0020900229,,,7:00,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 10' Jump Shot,8:50 PM
+46,0,4,52,0020900229,,,6:59,1,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess REBOUND (Off:1 Def:2),8:50 PM
+47,5,2,53,0020900229,,,6:58,1,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS McDyess  Layup,8:50 PM
+48,0,4,54,0020900229,,,6:57,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:1 Def:1),8:50 PM
+49,5,1,55,0020900229,,,6:55,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,7 - 10,3,Duncan  Layup (2 PTS),8:50 PM
+50,5,2,56,0020900229,MISS Scola  Layup,,6:32,1,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:51 PM
+51,0,4,57,0020900229,,,6:31,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:1 Def:2),8:51 PM
+52,85,2,58,0020900229,,,6:14,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 11' Turnaround Bank Shot,8:51 PM
+53,0,4,59,0020900229,Ariza REBOUND (Off:1 Def:2),,6:13,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:51 PM
+54,2,5,60,0020900229,Brooks Lost Ball Turnover (P1.T1),,6:07,1,4,5,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Bogans STEAL (1 STL),8:51 PM
+55,5,2,61,0020900229,,,6:01,1,5,0,0,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Bogans  Layup,8:51 PM
+56,0,4,63,0020900229,,,6:00,1,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess REBOUND (Off:2 Def:2),8:51 PM
+57,87,1,62,0020900229,,,6:00,1,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,9 - 10,1,McDyess  Putback Dunk (4 PTS),8:51 PM
+58,5,1,64,0020900229,Scola  Layup (4 PTS) (Hayes 2 AST),,5:42,1,4,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,9 - 12,3,,8:52 PM
+59,2,6,65,0020900229,Scola S.FOUL (P1.T2),,5:27,1,4,5,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:52 PM
+60,0,8,66,0020900229,,,5:27,1,5,5,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,2588,Matt Bonner,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Bonner FOR McDyess,8:52 PM
+61,11,3,67,0020900229,,,5:27,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,10 - 12,2,Duncan Free Throw 1 of 2 (3 PTS),8:52 PM
+62,0,8,70,0020900229,,,5:27,1,5,5,0,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Finley FOR Bogans,8:53 PM
+63,12,3,71,0020900229,,,5:27,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,11 - 12,1,Duncan Free Throw 2 of 2 (4 PTS),8:53 PM
+64,1,1,73,0020900229,Ariza  3PT Jump Shot (11 PTS) (Brooks 1 AST),,5:07,1,4,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,11 - 15,4,,8:53 PM
+65,85,1,74,0020900229,,,4:44,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,13 - 15,2,Duncan 8' Turnaround Bank Shot (6 PTS),8:54 PM
+66,96,1,75,0020900229,Scola 9' Turnaround Bank Hook Shot (6 PTS) (Ariza 1 AST),,4:24,1,4,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,13 - 17,4,,8:54 PM
+67,1,2,76,0020900229,Hayes BLOCK (1 BLK),,4:08,1,5,0,4,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,,,MISS Duncan 9' Jump Shot,8:54 PM
+68,0,4,77,0020900229,Scola REBOUND (Off:1 Def:3),,4:06,1,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:54 PM
+69,1,2,78,0020900229,MISS Ariza 25' 3PT Jump Shot,,4:00,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:54 PM
+70,0,4,79,0020900229,,,3:59,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:1 Def:3),8:54 PM
+71,2,6,80,0020900229,Ariza S.FOUL (P1.T3),,3:54,1,4,5,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,8:54 PM
+72,11,3,81,0020900229,,,3:54,1,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Parker Free Throw 1 of 2,8:55 PM
+73,1,4,82,0020900229,,,3:54,1,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,8:55 PM
+74,12,3,83,0020900229,,,3:54,1,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,14 - 17,3,Parker Free Throw 2 of 2 (4 PTS),8:55 PM
+75,42,1,85,0020900229,Scola  Driving Layup (8 PTS) (Brooks 2 AST),,3:36,1,4,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,14 - 19,5,,8:55 PM
+76,2,5,86,0020900229,Hayes STEAL (1 STL),,3:15,1,5,4,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Duncan Lost Ball Turnover (P1.T2),8:56 PM
+77,42,2,87,0020900229,MISS Brooks  Driving Layup,,2:54,1,4,0,5,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,2588,Matt Bonner,SAS,San Antonio,1610612759.0,Spurs,,,Bonner BLOCK (1 BLK),8:56 PM
+78,0,4,88,0020900229,,,2:53,1,5,0,0,2588,Matt Bonner,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bonner REBOUND (Off:0 Def:1),8:56 PM
+79,1,2,89,0020900229,,,2:40,1,5,0,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Jefferson 15' Jump Shot,8:56 PM
+80,0,4,90,0020900229,Scola REBOUND (Off:1 Def:4),,2:39,1,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:56 PM
+81,1,1,91,0020900229,Scola 6' Jump Shot (10 PTS),,2:18,1,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,14 - 21,7,,8:57 PM
+82,79,1,92,0020900229,,,2:01,1,5,5,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,16 - 21,5,Finley 13' Pullup Jump Shot (2 PTS) (Duncan 1 AST),8:57 PM
+83,42,2,93,0020900229,MISS Hayes  Driving Layup,,1:41,1,4,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:57 PM
+84,0,4,94,0020900229,,,1:40,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:1 Def:4),8:57 PM
+85,1,2,95,0020900229,,,1:33,1,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Parker 6' Jump Shot,8:57 PM
+86,0,4,97,0020900229,,,1:31,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:2 Def:4),8:57 PM
+87,4,1,96,0020900229,,,1:31,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,18 - 21,3,Duncan  Tip Shot (8 PTS),8:57 PM
+88,1,9,98,0020900229,ROCKETS Timeout: Regular (Full 1 Short 0),,1:24,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:58 PM
+89,0,8,100,0020900229,SUB: Lowry FOR Hayes,,1:24,1,4,4,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:00 PM
+90,0,8,101,0020900229,SUB: Landry FOR Brooks,,1:24,1,4,4,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:00 PM
+91,0,8,102,0020900229,,,1:24,1,5,5,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Blair FOR Jefferson,9:00 PM
+92,0,8,103,0020900229,,,1:24,1,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Mason Jr. FOR Duncan,9:00 PM
+93,0,8,104,0020900229,,,1:24,1,5,5,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Hill FOR Parker,9:00 PM
+94,5,1,105,0020900229,Scola  Layup (12 PTS) (Ariza 2 AST),,1:15,1,4,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,18 - 23,5,,9:01 PM
+95,1,5,106,0020900229,Scola STEAL (1 STL),,1:04,1,5,4,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Hill Bad Pass Turnover (P1.T3),9:01 PM
+96,1,2,107,0020900229,MISS Ariza 8' Jump Shot,,0:47,1,4,0,5,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,,,Mason Jr. BLOCK (1 BLK),9:01 PM
+97,0,4,108,0020900229,,,0:46,1,5,0,0,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Blair REBOUND (Off:0 Def:1),9:01 PM
+98,1,6,109,0020900229,Scola P.FOUL (P2.T4),,0:37,1,4,5,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:01 PM
+99,0,8,110,0020900229,SUB: Budinger FOR Battier,,0:37,1,4,4,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:01 PM
+100,0,8,111,0020900229,SUB: Andersen FOR Scola,,0:37,1,4,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:02 PM
+101,42,2,112,0020900229,,,0:31,1,5,0,0,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Mason Jr.  Driving Layup,9:02 PM
+102,0,4,113,0020900229,Andersen REBOUND (Off:0 Def:1),,0:29,1,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:02 PM
+103,1,2,114,0020900229,MISS Ariza 6' Jump Shot,,0:08,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:02 PM
+104,0,4,115,0020900229,Landry REBOUND (Off:1 Def:0),,0:07,1,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:02 PM
+105,1,5,116,0020900229,Landry Bad Pass Turnover (P1.T2),,0:05,1,4,5,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Mason Jr. STEAL (1 STL),9:03 PM
+106,40,5,117,0020900229,,,0:02,1,5,0,0,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Mason Jr. Out of Bounds Lost Ball Turnover (P1.T4),9:03 PM
+107,5,2,118,0020900229,MISS Ariza  Layup,,0:00,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:03 PM
+108,0,4,119,0020900229,ROCKETS Rebound,,0:00,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:03 PM
+109,0,13,120,0020900229,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,18 - 23,5,,9:03 PM
+110,0,12,122,0020900229,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,18 - 23,5,,9:06 PM
+111,1,6,123,0020900229,,,11:42,2,5,4,1,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Blair P.FOUL (P1.T1),9:07 PM
+112,5,2,124,0020900229,MISS Landry  Layup,,11:28,2,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:07 PM
+113,0,4,125,0020900229,,,11:25,2,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,9:07 PM
+114,2,6,126,0020900229,Andersen S.FOUL (P1.T1),,11:10,2,4,5,1,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:08 PM
+115,11,3,127,0020900229,,,11:10,2,5,0,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Hill Free Throw 1 of 2,9:08 PM
+116,1,4,128,0020900229,,,11:10,2,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,9:08 PM
+117,12,3,129,0020900229,,,11:10,2,5,0,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,19 - 23,4,Hill Free Throw 2 of 2 (1 PTS),9:08 PM
+118,2,6,131,0020900229,,,11:06,2,5,4,1,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Hill S.FOUL (P1.T2),9:08 PM
+119,11,3,132,0020900229,Lowry Free Throw 1 of 2 (1 PTS),,11:06,2,4,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,19 - 24,5,,9:09 PM
+120,12,3,134,0020900229,Lowry Free Throw 2 of 2 (2 PTS),,11:06,2,4,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,19 - 25,6,,9:09 PM
+121,79,1,136,0020900229,,,10:47,2,5,0,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,21 - 25,4,Hill 15' Pullup Jump Shot (3 PTS),9:09 PM
+122,49,2,137,0020900229,MISS Ariza  Driving Dunk,,10:27,2,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:10 PM
+123,0,4,138,0020900229,Andersen REBOUND (Off:1 Def:1),,10:25,2,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:10 PM
+124,1,1,139,0020900229,Budinger 25' 3PT Jump Shot (3 PTS) (Andersen 1 AST),,10:22,2,4,4,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,21 - 28,7,,9:10 PM
+125,1,1,140,0020900229,,,10:08,2,5,5,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,23 - 28,5,Finley 18' Jump Shot (4 PTS) (Hill 1 AST),9:10 PM
+126,5,2,141,0020900229,MISS Landry  Layup,,9:53,2,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:10 PM
+127,0,4,142,0020900229,Lowry REBOUND (Off:1 Def:0),,9:50,2,4,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:10 PM
+128,5,2,143,0020900229,MISS Lowry  Layup,,9:49,2,4,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:10 PM
+129,0,4,144,0020900229,,,9:49,2,5,0,0,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Blair REBOUND (Off:0 Def:2),9:10 PM
+130,1,1,145,0020900229,,,9:42,2,5,0,0,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,26 - 28,2,Mason Jr. 25' 3PT Jump Shot (3 PTS),9:10 PM
+131,1,2,146,0020900229,MISS Ariza 13' Jump Shot,,9:25,2,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:11 PM
+132,0,4,147,0020900229,,,9:24,2,5,0,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Finley REBOUND (Off:0 Def:1),9:11 PM
+133,5,1,148,0020900229,,,9:17,2,5,5,0,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,28 - 28,TIE,Blair  Layup (2 PTS) (Mason Jr. 1 AST),9:11 PM
+134,1,2,149,0020900229,MISS Landry 5' Jump Shot,,8:50,2,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:11 PM
+135,0,4,150,0020900229,,,8:49,2,5,0,0,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Blair REBOUND (Off:0 Def:3),9:11 PM
+136,1,1,151,0020900229,,,8:41,2,5,0,0,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,31 - 28,-3,Mason Jr. 25' 3PT Jump Shot (6 PTS),9:11 PM
+137,1,9,152,0020900229,ROCKETS Timeout: Regular (Full 2 Short 0),,8:35,2,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:12 PM
+138,0,8,154,0020900229,SUB: Brooks FOR Ariza,,8:35,2,4,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:14 PM
+139,5,1,156,0020900229,Landry  Layup (2 PTS) (Brooks 3 AST),,8:27,2,4,4,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,31 - 30,-1,,9:14 PM
+140,2,6,157,0020900229,,,8:27,2,5,4,1,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Blair S.FOUL (P2.T3),9:14 PM
+141,10,3,158,0020900229,Landry Free Throw 1 of 1 (3 PTS),,8:27,2,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,31 - 31,TIE,,9:15 PM
+142,44,1,160,0020900229,,,8:13,2,5,5,0,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,33 - 31,-2,Blair  Reverse Layup (4 PTS) (Mason Jr. 2 AST),9:15 PM
+143,47,1,161,0020900229,Andersen 7' Turnaround Jump Shot (2 PTS) (Brooks 4 AST),,7:57,2,4,4,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,33 - 33,TIE,,9:15 PM
+144,1,6,162,0020900229,Andersen P.FOUL (P2.T2),,7:50,2,4,5,1,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,2588,Matt Bonner,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:16 PM
+145,44,2,163,0020900229,,,7:40,2,5,0,0,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Blair  Reverse Layup,9:16 PM
+146,0,4,164,0020900229,Andersen REBOUND (Off:1 Def:2),,7:39,2,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:16 PM
+147,86,2,165,0020900229,MISS Andersen 11' Turnaround Fadeaway Shot,,7:16,2,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:16 PM
+148,0,4,166,0020900229,,,7:15,2,5,0,0,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Blair REBOUND (Off:0 Def:4),9:16 PM
+149,1,2,167,0020900229,,,7:04,2,5,0,0,2588,Matt Bonner,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Bonner 26' 3PT Jump Shot,9:17 PM
+150,0,4,168,0020900229,Budinger REBOUND (Off:0 Def:1),,7:03,2,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:17 PM
+151,1,2,169,0020900229,MISS Lowry 16' Jump Shot,,6:50,2,4,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:17 PM
+152,0,4,170,0020900229,,,6:49,2,5,0,0,2588,Matt Bonner,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bonner REBOUND (Off:0 Def:2),9:17 PM
+153,4,6,171,0020900229,,,6:44,2,5,4,1,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Mason Jr. OFF.Foul (P1),9:17 PM
+154,5,5,172,0020900229,,,6:44,2,5,0,1,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Mason Jr. Foul Turnover (P2.T5),9:17 PM
+155,1,6,173,0020900229,,,6:30,2,5,4,1,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Blair P.FOUL (P3.T4),9:17 PM
+156,0,8,174,0020900229,,,6:30,2,5,5,0,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: McDyess FOR Blair,9:18 PM
+157,1,2,175,0020900229,MISS Landry 12' Jump Shot,,6:18,2,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:18 PM
+158,0,4,176,0020900229,,,6:17,2,5,0,0,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Mason Jr. REBOUND (Off:0 Def:1),9:18 PM
+159,1,2,177,0020900229,,,6:08,2,5,0,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Hill 10' Jump Shot,9:18 PM
+160,0,4,178,0020900229,,,6:07,2,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,9:18 PM
+161,3,6,179,0020900229,Andersen L.B.FOUL (P3.T3),,6:07,2,4,5,1,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:18 PM
+162,0,8,180,0020900229,SUB: Scola FOR Andersen,,6:07,2,4,4,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:19 PM
+163,0,8,181,0020900229,,,6:07,2,5,5,0,2588,Matt Bonner,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Duncan FOR Bonner,9:19 PM
+164,1,2,183,0020900229,,,5:52,2,5,0,0,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Mason Jr. 18' Jump Shot,9:19 PM
+165,0,4,184,0020900229,ROCKETS Rebound,,5:50,2,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:19 PM
+166,1,9,185,0020900229,,,5:50,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:19 PM
+167,0,8,187,0020900229,,,5:50,2,5,5,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Parker FOR Hill,9:21 PM
+168,66,2,189,0020900229,MISS Budinger 19' Jump Bank Shot,,5:39,2,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:22 PM
+169,0,4,190,0020900229,,,5:38,2,5,0,0,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Mason Jr. REBOUND (Off:0 Def:2),9:22 PM
+170,1,2,191,0020900229,,,5:23,2,5,0,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Finley 18' Jump Shot,9:22 PM
+171,0,4,192,0020900229,Brooks REBOUND (Off:0 Def:1),,5:22,2,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:22 PM
+172,1,2,193,0020900229,MISS Lowry 25' 3PT Jump Shot,,5:14,2,4,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:23 PM
+173,0,4,194,0020900229,,,5:13,2,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,9:23 PM
+174,46,1,195,0020900229,,,4:56,2,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,35 - 33,-2,Parker 12' Running Jump Shot (6 PTS),9:23 PM
+175,42,2,196,0020900229,MISS Budinger  Driving Layup,,4:41,2,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:23 PM
+176,0,4,198,0020900229,Scola REBOUND (Off:2 Def:4),,4:39,2,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:23 PM
+177,5,1,197,0020900229,Scola  Layup (14 PTS),,4:39,2,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,35 - 35,TIE,,9:23 PM
+178,2,6,199,0020900229,Brooks S.FOUL (P2.T4),,4:26,2,4,5,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:24 PM
+179,0,8,200,0020900229,SUB: Battier FOR Budinger,,4:26,2,4,4,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:24 PM
+180,0,8,201,0020900229,SUB: Ariza FOR Lowry,,4:26,2,4,4,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:24 PM
+181,0,8,202,0020900229,,,4:26,2,5,5,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Jefferson FOR Finley,9:24 PM
+182,11,3,203,0020900229,,,4:26,2,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,36 - 35,-1,Parker Free Throw 1 of 2 (7 PTS),9:24 PM
+183,0,8,205,0020900229,,,4:26,2,5,5,0,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Bogans FOR Mason Jr.,9:24 PM
+184,12,3,206,0020900229,,,4:26,2,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Parker Free Throw 2 of 2,9:24 PM
+185,0,4,208,0020900229,Scola REBOUND (Off:2 Def:5),,4:26,2,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:24 PM
+186,1,5,209,0020900229,Scola Bad Pass Turnover (P1.T3),,4:09,2,4,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Parker STEAL (1 STL),9:25 PM
+187,5,1,210,0020900229,,,4:04,2,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,38 - 35,-3,Duncan  Layup (10 PTS) (Parker 2 AST),9:25 PM
+188,47,1,211,0020900229,Landry 6' Turnaround Jump Shot (5 PTS),,3:51,2,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,38 - 37,-1,,9:25 PM
+189,1,9,212,0020900229,,,3:31,2,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.2 Short 0),9:25 PM
+190,0,8,214,0020900229,SUB: Hayes FOR Landry,,3:31,2,4,4,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:28 PM
+191,42,2,216,0020900229,,,3:25,2,5,0,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Jefferson  Driving Layup,9:28 PM
+192,0,4,217,0020900229,Hayes REBOUND (Off:1 Def:2),,3:24,2,4,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:28 PM
+193,1,5,218,0020900229,Scola Bad Pass Turnover (P2.T4),,3:09,2,4,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,McDyess STEAL (1 STL),9:28 PM
+194,5,2,219,0020900229,,,2:59,2,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan  Layup,9:28 PM
+195,0,4,220,0020900229,Ariza REBOUND (Off:1 Def:3),,2:57,2,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:28 PM
+196,1,1,221,0020900229,Scola 18' Jump Shot (16 PTS) (Ariza 3 AST),,2:41,2,4,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,38 - 39,1,,9:29 PM
+197,1,2,222,0020900229,,,2:19,2,5,0,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Jefferson 19' Jump Shot,9:29 PM
+198,0,4,223,0020900229,Scola REBOUND (Off:2 Def:6),,2:19,2,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:29 PM
+199,58,2,224,0020900229,MISS Scola 10' Turnaround Hook Shot,,2:02,2,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:29 PM
+200,0,4,225,0020900229,,,2:02,2,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:2 Def:5),9:29 PM
+201,1,1,226,0020900229,,,1:51,2,5,5,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,40 - 39,-1,McDyess 18' Jump Shot (6 PTS) (Parker 3 AST),9:30 PM
+202,1,1,227,0020900229,Brooks 25' 3PT Jump Shot (3 PTS) (Scola 1 AST),,1:36,2,4,4,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,40 - 42,2,,9:30 PM
+203,0,18,238,0020900229,,,1:36,2,0,0,1,0,,,,,,0,,,,,,0,,,,,,40 - 42,2,,9:30 PM
+204,1,1,228,0020900229,,,1:12,2,5,5,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,42 - 42,TIE,Parker 11' Jump Shot (9 PTS) (Duncan 2 AST),9:30 PM
+205,42,2,229,0020900229,MISS Ariza  Driving Layup,,0:59,2,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:30 PM
+206,0,4,230,0020900229,,,0:58,2,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess REBOUND (Off:2 Def:3),9:30 PM
+207,1,1,231,0020900229,,,0:51,2,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,44 - 42,-2,Parker 7' Jump Shot (11 PTS),9:31 PM
+208,66,1,232,0020900229,Brooks 13' Jump Bank Shot (5 PTS),,0:33,2,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,44 - 44,TIE,,9:31 PM
+209,1,2,233,0020900229,,,0:09,2,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS McDyess 15' Jump Shot,9:31 PM
+210,0,4,234,0020900229,Ariza REBOUND (Off:1 Def:4),,0:08,2,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:31 PM
+211,44,1,235,0020900229,Brooks  Reverse Layup (7 PTS),,0:00,2,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,44 - 46,2,,9:32 PM
+212,0,13,236,0020900229,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,44 - 46,2,,9:32 PM
+213,0,12,243,0020900229,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,44 - 46,2,,9:48 PM
+214,1,2,244,0020900229,MISS Brooks 8' Jump Shot,,11:44,3,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:48 PM
+215,0,4,245,0020900229,Hayes REBOUND (Off:2 Def:2),,11:43,3,4,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:48 PM
+216,5,2,246,0020900229,MISS Hayes  Layup,,11:42,3,4,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:48 PM
+217,0,4,247,0020900229,Scola REBOUND (Off:3 Def:6),,11:41,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:48 PM
+218,1,2,248,0020900229,MISS Ariza 7' Jump Shot,,11:35,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:49 PM
+219,0,4,249,0020900229,,,11:34,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:2 Def:6),9:49 PM
+220,1,2,250,0020900229,,,11:21,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 18' Jump Shot,9:49 PM
+221,0,4,251,0020900229,Battier REBOUND (Off:0 Def:2),,11:20,3,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:49 PM
+222,5,2,252,0020900229,MISS Hayes  Layup,,11:03,3,4,0,5,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,,,Duncan BLOCK (3 BLK),9:49 PM
+223,0,4,253,0020900229,Hayes REBOUND (Off:3 Def:2),,11:02,3,4,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:49 PM
+224,5,2,254,0020900229,MISS Hayes  Layup,,11:01,3,4,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:49 PM
+225,0,4,255,0020900229,,,10:59,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:2 Def:7),9:49 PM
+226,1,2,256,0020900229,,,10:51,3,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Parker 16' Jump Shot,9:49 PM
+227,0,4,257,0020900229,Scola REBOUND (Off:3 Def:7),,10:50,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:49 PM
+228,1,2,258,0020900229,MISS Ariza 19' Jump Shot,,10:29,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:50 PM
+229,0,4,259,0020900229,,,10:28,3,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Parker REBOUND (Off:0 Def:2),9:50 PM
+230,1,2,260,0020900229,,,10:20,3,5,0,0,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Bogans 24' 3PT Jump Shot,9:50 PM
+231,0,4,261,0020900229,Ariza REBOUND (Off:1 Def:5),,10:20,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:50 PM
+232,1,2,262,0020900229,MISS Brooks 24' 3PT Jump Shot,,10:06,3,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:50 PM
+233,0,4,263,0020900229,,,10:05,3,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess REBOUND (Off:2 Def:4),9:50 PM
+234,2,6,264,0020900229,Scola S.FOUL (P3.T1),,9:45,3,4,5,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:50 PM
+235,11,3,265,0020900229,,,9:45,3,5,0,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,45 - 46,1,Jefferson Free Throw 1 of 2 (1 PTS),9:51 PM
+236,12,3,267,0020900229,,,9:45,3,5,0,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,46 - 46,TIE,Jefferson Free Throw 2 of 2 (2 PTS),9:51 PM
+237,1,2,269,0020900229,MISS Scola 18' Jump Shot,,9:31,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:51 PM
+238,0,4,270,0020900229,,,9:30,3,5,0,0,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bogans REBOUND (Off:0 Def:1),9:51 PM
+239,85,1,271,0020900229,,,9:17,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,48 - 46,-2,Duncan 14' Turnaround Bank Shot (12 PTS),9:52 PM
+240,1,2,272,0020900229,MISS Brooks  3PT Jump Shot,,9:00,3,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:52 PM
+241,0,4,273,0020900229,Ariza REBOUND (Off:2 Def:5),,8:58,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:52 PM
+242,1,2,274,0020900229,MISS Battier 25' 3PT Jump Shot,,8:55,3,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:52 PM
+243,0,4,275,0020900229,,,8:53,3,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess REBOUND (Off:2 Def:5),9:52 PM
+244,1,1,276,0020900229,,,8:41,3,5,5,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,50 - 46,-4,McDyess 16' Jump Shot (8 PTS) (Parker 4 AST),9:53 PM
+245,1,2,277,0020900229,MISS Scola 6' Jump Shot,,8:26,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:53 PM
+246,0,4,278,0020900229,Hayes REBOUND (Off:4 Def:2),,8:25,3,4,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:53 PM
+247,5,2,279,0020900229,MISS Hayes  Layup,,8:24,3,4,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:53 PM
+248,0,4,280,0020900229,,,8:23,3,5,0,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Jefferson REBOUND (Off:0 Def:1),9:53 PM
+249,1,2,281,0020900229,,,8:13,3,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS McDyess 14' Jump Shot,9:53 PM
+250,0,4,282,0020900229,Battier REBOUND (Off:0 Def:3),,8:12,3,4,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:53 PM
+251,5,2,283,0020900229,MISS Brooks  Layup,,7:59,3,4,0,5,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,,,Duncan BLOCK (4 BLK),9:53 PM
+252,0,4,284,0020900229,ROCKETS Rebound,,7:58,3,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:53 PM
+253,5,2,285,0020900229,MISS Hayes  Layup,,7:49,3,4,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:54 PM
+254,0,4,286,0020900229,,,7:48,3,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess REBOUND (Off:2 Def:6),9:54 PM
+255,5,2,287,0020900229,,,7:37,3,5,0,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Jefferson  Layup,9:54 PM
+256,0,4,288,0020900229,Scola REBOUND (Off:3 Def:8),,7:36,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:54 PM
+257,2,5,289,0020900229,Scola Lost Ball Turnover (P3.T5),,7:34,3,4,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,McDyess STEAL (2 STL),9:54 PM
+258,1,1,290,0020900229,,,7:30,3,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,52 - 46,-6,Duncan 14' Jump Shot (14 PTS) (Parker 5 AST),9:54 PM
+259,1,9,291,0020900229,ROCKETS Timeout: Regular (Full 3 Short 0),,7:30,3,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:54 PM
+260,0,8,293,0020900229,SUB: Landry FOR Hayes,,7:30,3,4,4,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:56 PM
+261,1,6,295,0020900229,,,7:13,3,5,4,1,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,McDyess P.FOUL (P1.T1),9:57 PM
+262,1,2,296,0020900229,MISS Brooks 23' Jump Shot,,6:57,3,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:58 PM
+263,0,4,297,0020900229,,,6:56,3,5,0,0,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bogans REBOUND (Off:0 Def:2),9:58 PM
+264,2,6,298,0020900229,Ariza S.FOUL (P2.T2),,6:44,3,4,5,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:58 PM
+265,11,3,300,0020900229,,,6:44,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,53 - 46,-7,Duncan Free Throw 1 of 2 (15 PTS),9:58 PM
+266,12,3,302,0020900229,,,6:44,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,54 - 46,-8,Duncan Free Throw 2 of 2 (16 PTS),9:58 PM
+267,1,2,304,0020900229,MISS Ariza 8' Jump Shot,,6:26,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:59 PM
+268,0,4,305,0020900229,,,6:25,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:2 Def:8),9:59 PM
+269,2,6,306,0020900229,Battier S.FOUL (P1.T3),,6:22,3,4,5,1,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,9:59 PM
+270,11,3,307,0020900229,,,6:22,3,5,0,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,55 - 46,-9,Jefferson Free Throw 1 of 2 (3 PTS),9:59 PM
+271,12,3,309,0020900229,,,6:22,3,5,0,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,56 - 46,-10,Jefferson Free Throw 2 of 2 (4 PTS),10:00 PM
+272,1,2,311,0020900229,MISS Scola 12' Jump Shot,,6:09,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:00 PM
+273,0,4,312,0020900229,,,6:08,3,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess REBOUND (Off:2 Def:7),10:00 PM
+274,3,1,313,0020900229,,,5:52,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,58 - 46,-12,Duncan 10' Hook Shot (18 PTS),10:01 PM
+275,1,9,314,0020900229,ROCKETS Timeout: Regular (Full 4 Short 0),,5:52,3,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,10:01 PM
+276,0,10,319,0020900229,Jump Ball Brooks vs. Bogans: Tip to Scola,,5:37,3,4,5,4,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,,,,10:04 PM
+277,1,5,321,0020900229,Scola Bad Pass Turnover (P4.T6),,5:32,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:04 PM
+278,1,2,323,0020900229,,,5:09,3,5,0,0,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Bogans 25' 3PT Jump Shot,10:05 PM
+279,0,4,325,0020900229,,,5:08,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,10:05 PM
+280,3,6,326,0020900229,Landry L.B.FOUL (P1.T4),,5:08,3,4,5,1,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:05 PM
+281,1,5,328,0020900229,,,4:54,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan Bad Pass Turnover (P2.T6),10:05 PM
+282,1,1,329,0020900229,Scola 18' Jump Shot (18 PTS) (Ariza 4 AST),,4:37,3,4,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,58 - 48,-10,,10:06 PM
+283,1,1,330,0020900229,,,4:10,3,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,60 - 48,-12,Parker 20' Jump Shot (13 PTS),10:06 PM
+284,4,6,331,0020900229,Brooks OFF.Foul (P3),,4:02,3,4,5,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:06 PM
+285,5,5,332,0020900229,Brooks Foul Turnover (P2.T7),,4:02,3,4,0,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:06 PM
+286,1,2,333,0020900229,,,3:42,3,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Parker 19' Jump Shot,10:07 PM
+287,0,4,334,0020900229,,,3:41,3,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess REBOUND (Off:3 Def:7),10:07 PM
+288,5,2,335,0020900229,Landry BLOCK (1 BLK),,3:37,3,5,0,4,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,,,MISS Parker  Layup,10:07 PM
+289,0,4,336,0020900229,Scola REBOUND (Off:3 Def:9),,3:35,3,4,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:07 PM
+290,5,1,337,0020900229,Brooks  Layup (9 PTS) (Scola 2 AST),,3:33,3,4,4,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,60 - 50,-10,,10:07 PM
+291,2,6,338,0020900229,Battier S.FOUL (P2.PN),,3:10,3,4,5,1,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:08 PM
+292,11,3,339,0020900229,,,3:10,3,5,0,0,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Bogans Free Throw 1 of 2,10:08 PM
+293,1,4,340,0020900229,,,3:10,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,10:08 PM
+294,0,8,341,0020900229,,,3:10,3,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Blair FOR Duncan,10:08 PM
+295,0,8,342,0020900229,,,3:10,3,5,5,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Finley FOR Jefferson,10:08 PM
+296,12,3,343,0020900229,,,3:10,3,5,0,0,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Bogans Free Throw 2 of 2,10:08 PM
+297,0,4,345,0020900229,Ariza REBOUND (Off:2 Def:6),,3:10,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:09 PM
+298,2,6,346,0020900229,,,2:51,3,5,4,1,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Bogans S.FOUL (P2.T2),10:09 PM
+299,11,3,347,0020900229,MISS Ariza Free Throw 1 of 2,,2:51,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:09 PM
+300,1,4,348,0020900229,ROCKETS Rebound,,2:51,3,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,10:09 PM
+301,12,3,349,0020900229,MISS Ariza Free Throw 2 of 2,,2:51,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:09 PM
+302,0,4,351,0020900229,,,2:51,3,5,0,0,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Blair REBOUND (Off:0 Def:5),10:10 PM
+303,1,1,352,0020900229,,,2:36,3,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,62 - 50,-12,Parker 6' Jump Shot (15 PTS),10:10 PM
+304,1,6,353,0020900229,,,2:29,3,5,4,1,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Blair P.FOUL (P4.T3),10:10 PM
+305,0,8,354,0020900229,SUB: Budinger FOR Battier,,2:29,3,4,4,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:10 PM
+306,0,8,355,0020900229,SUB: Lowry FOR Brooks,,2:29,3,4,4,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:10 PM
+307,0,8,356,0020900229,,,2:29,3,5,5,0,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Mason Jr. FOR Bogans,10:10 PM
+308,1,6,357,0020900229,,,2:16,3,5,4,1,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,McDyess P.FOUL (P2.T4),10:11 PM
+309,1,2,358,0020900229,MISS Landry 13' Jump Shot,,2:01,3,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:11 PM
+310,0,4,359,0020900229,,,2:00,3,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess REBOUND (Off:3 Def:8),10:11 PM
+311,1,9,360,0020900229,,,1:55,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.3 Short 0),10:11 PM
+312,1,6,364,0020900229,Scola P.FOUL (P4.PN),,1:50,3,4,5,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:14 PM
+313,0,8,365,0020900229,,,1:50,3,5,5,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Hill FOR Parker,10:14 PM
+314,11,3,366,0020900229,,,1:50,3,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS McDyess Free Throw 1 of 2,10:14 PM
+315,1,4,367,0020900229,,,1:50,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,10:14 PM
+316,0,8,368,0020900229,SUB: Andersen FOR Scola,,1:50,3,4,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:14 PM
+317,12,3,369,0020900229,,,1:50,3,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,63 - 50,-13,McDyess Free Throw 2 of 2 (9 PTS),10:15 PM
+318,46,1,371,0020900229,Budinger 7' Running Jump Shot (5 PTS) (Andersen 2 AST),,1:34,3,4,4,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,63 - 52,-11,,10:15 PM
+319,5,1,372,0020900229,,,1:16,3,5,5,0,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,65 - 52,-13,Blair  Layup (6 PTS) (Mason Jr. 3 AST),10:15 PM
+320,2,6,373,0020900229,Lowry S.FOUL (P1.PN),,1:16,3,4,5,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:15 PM
+321,10,3,374,0020900229,,,1:16,3,5,0,0,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,66 - 52,-14,Blair Free Throw 1 of 1 (7 PTS),10:16 PM
+322,1,1,376,0020900229,Lowry  3PT Jump Shot (5 PTS) (Ariza 5 AST),,0:57,3,4,4,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,66 - 55,-11,,10:16 PM
+323,1,6,377,0020900229,Lowry P.FOUL (P2.PN),,0:51,3,4,5,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:16 PM
+324,11,3,378,0020900229,,,0:51,3,5,0,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,67 - 55,-12,Hill Free Throw 1 of 2 (4 PTS),10:16 PM
+325,0,8,380,0020900229,,,0:51,3,5,5,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,2588,Matt Bonner,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Bonner FOR McDyess,10:17 PM
+326,12,3,381,0020900229,,,0:51,3,5,0,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,68 - 55,-13,Hill Free Throw 2 of 2 (5 PTS),10:17 PM
+327,1,2,383,0020900229,MISS Landry 19' Jump Shot,,0:40,3,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:17 PM
+328,0,4,384,0020900229,Lowry REBOUND (Off:2 Def:0),,0:37,3,4,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:17 PM
+329,1,2,385,0020900229,MISS Budinger 24' 3PT Jump Shot,,0:32,3,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:17 PM
+330,0,4,386,0020900229,Landry REBOUND (Off:2 Def:0),,0:31,3,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:17 PM
+331,2,6,387,0020900229,,,0:31,3,5,4,1,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Finley S.FOUL (P1.PN),10:17 PM
+332,11,3,388,0020900229,Landry Free Throw 1 of 2 (6 PTS),,0:31,3,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,68 - 56,-12,,10:18 PM
+333,12,3,390,0020900229,Landry Free Throw 2 of 2 (7 PTS),,0:31,3,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,68 - 57,-11,,10:18 PM
+334,39,5,392,0020900229,,,0:12,3,5,0,1,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Hill Step Out of Bounds Turnover (P2.T7),10:19 PM
+335,2,6,393,0020900229,,,0:04,3,5,4,1,201971,DeJuan Blair,SAS,San Antonio,1610612759.0,Spurs,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Blair S.FOUL (P5.PN),10:19 PM
+336,11,3,394,0020900229,MISS Lowry Free Throw 1 of 2,,0:04,3,4,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:19 PM
+337,1,4,395,0020900229,ROCKETS Rebound,,0:04,3,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,10:19 PM
+338,12,3,396,0020900229,Lowry Free Throw 2 of 2 (6 PTS),,0:04,3,4,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,68 - 58,-10,,10:19 PM
+339,45,2,401,0020900229,,,0:00,3,5,0,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Hill 23' Jump Shot,10:20 PM
+340,0,4,399,0020900229,,,0:00,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,10:20 PM
+341,0,13,400,0020900229,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,68 - 58,-10,,10:20 PM
+342,0,12,403,0020900229,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,68 - 58,-10,,10:23 PM
+343,1,5,404,0020900229,Lowry STEAL (1 STL),,11:37,4,5,4,0,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Mason Jr. Bad Pass Turnover (P3.T8),10:23 PM
+344,7,1,405,0020900229,Budinger  Dunk (7 PTS) (Lowry 1 AST),,11:33,4,4,4,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,68 - 60,-8,,10:23 PM
+345,1,6,406,0020900229,Ariza P.FOUL (P3.T1),,11:21,4,4,5,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:23 PM
+346,42,1,407,0020900229,,,11:08,4,5,0,0,2588,Matt Bonner,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,70 - 60,-10,Bonner  Driving Layup (2 PTS),10:24 PM
+347,1,6,408,0020900229,,,11:01,4,5,4,1,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Hill P.FOUL (P2.T1),10:24 PM
+348,0,8,409,0020900229,,,11:01,4,5,5,0,2427,Roger Mason Jr.,SAS,San Antonio,1610612759.0,Spurs,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Jefferson FOR Mason Jr.,10:24 PM
+349,5,7,414,0020900229,,,10:56,4,5,0,1,2588,Matt Bonner,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bonner Violation:Kicked Ball,10:25 PM
+350,0,8,410,0020900229,,,10:56,4,5,5,0,689,Theo Ratliff,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Duncan FOR Ratliff,10:25 PM
+351,42,1,411,0020900229,Budinger  Driving Layup (9 PTS),,10:43,4,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,70 - 62,-8,,10:25 PM
+352,5,1,412,0020900229,,,10:24,4,5,5,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,72 - 62,-10,Jefferson  Layup (6 PTS) (Duncan 3 AST),10:25 PM
+353,2,6,413,0020900229,Ariza S.FOUL (P4.T2),,10:24,4,4,5,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:25 PM
+354,10,3,415,0020900229,,,10:24,4,5,0,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,73 - 62,-11,Jefferson Free Throw 1 of 1 (7 PTS),10:26 PM
+355,44,1,417,0020900229,Landry  Reverse Layup (9 PTS),,10:08,4,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,73 - 64,-9,,10:26 PM
+356,0,8,419,0020900229,,,9:48,4,5,5,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Parker FOR Finley,10:27 PM
+357,66,2,420,0020900229,,,9:44,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 14' Jump Bank Shot,10:27 PM
+358,0,4,421,0020900229,,,9:43,4,5,0,0,2588,Matt Bonner,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bonner REBOUND (Off:1 Def:2),10:27 PM
+359,1,2,422,0020900229,,,9:26,4,5,0,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Hill 17' Jump Shot,10:27 PM
+360,0,4,423,0020900229,Andersen REBOUND (Off:1 Def:3),,9:24,4,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:27 PM
+361,42,1,424,0020900229,Lowry  Driving Layup (8 PTS),,9:13,4,4,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,73 - 66,-7,,10:28 PM
+362,1,9,425,0020900229,,,9:12,4,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.4 Short 0),10:28 PM
+363,42,1,429,0020900229,,,8:58,4,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,75 - 66,-9,Parker  Driving Layup (17 PTS),10:30 PM
+364,4,6,430,0020900229,Lowry OFF.Foul (P3),,8:46,4,4,5,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:31 PM
+365,5,5,431,0020900229,Lowry Foul Turnover (P1.T8),,8:46,4,4,0,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:31 PM
+366,73,1,432,0020900229,,,8:28,4,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,77 - 66,-11,Parker  Driving Reverse Layup (19 PTS),10:31 PM
+367,1,1,433,0020900229,Ariza 25' 3PT Jump Shot (14 PTS) (Lowry 2 AST),,8:16,4,4,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,77 - 69,-8,,10:31 PM
+368,4,6,434,0020900229,,,7:53,4,5,4,1,2588,Matt Bonner,SAS,San Antonio,1610612759.0,Spurs,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Bonner OFF.Foul (P1),10:32 PM
+369,5,5,435,0020900229,,,7:53,4,5,0,1,2588,Matt Bonner,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bonner Foul Turnover (P1.T9),10:32 PM
+370,0,8,436,0020900229,,,7:53,4,5,5,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Bogans FOR Jefferson,10:32 PM
+371,1,2,437,0020900229,MISS Landry 19' Jump Shot,,7:37,4,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:32 PM
+372,0,4,438,0020900229,,,7:35,4,5,0,0,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bogans REBOUND (Off:0 Def:3),10:32 PM
+373,2,5,439,0020900229,Lowry STEAL (2 STL),,7:18,4,5,4,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Parker Lost Ball Turnover (P2.T10),10:33 PM
+374,2,6,440,0020900229,,,7:15,4,5,4,1,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Hill S.FOUL (P3.T2),10:33 PM
+375,11,3,441,0020900229,Lowry Free Throw 1 of 2 (9 PTS),,7:15,4,4,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,77 - 70,-7,,10:33 PM
+376,0,8,443,0020900229,,,7:15,4,5,5,0,2588,Matt Bonner,SAS,San Antonio,1610612759.0,Spurs,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: McDyess FOR Bonner,10:33 PM
+377,0,8,444,0020900229,,,7:15,4,5,5,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Jefferson FOR Hill,10:33 PM
+378,12,3,445,0020900229,Lowry Free Throw 2 of 2 (10 PTS),,7:15,4,4,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,77 - 71,-6,,10:34 PM
+379,1,2,447,0020900229,,,6:57,4,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Parker 21' Jump Shot,10:34 PM
+380,0,4,448,0020900229,,,6:56,4,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess REBOUND (Off:4 Def:8),10:35 PM
+381,1,5,449,0020900229,Ariza STEAL (2 STL),,6:54,4,5,4,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,McDyess Bad Pass Turnover (P1.T11),10:35 PM
+382,1,5,450,0020900229,Ariza Bad Pass Turnover (P1.T9),,6:53,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:35 PM
+383,1,5,452,0020900229,,,6:43,4,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess Bad Pass Turnover (P2.T12),10:35 PM
+384,1,6,454,0020900229,,,6:33,4,5,4,1,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,McDyess P.FOUL (P3.T3),10:35 PM
+385,42,2,455,0020900229,MISS Ariza  Driving Layup,,6:22,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:36 PM
+386,0,4,456,0020900229,Ariza REBOUND (Off:3 Def:6),,6:21,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:36 PM
+387,5,2,457,0020900229,MISS Ariza  Layup,,6:19,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:36 PM
+388,0,4,458,0020900229,,,6:18,4,5,0,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Jefferson REBOUND (Off:0 Def:2),10:36 PM
+389,1,2,459,0020900229,,,6:03,4,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Parker 19' Jump Shot,10:36 PM
+390,0,4,460,0020900229,Ariza REBOUND (Off:3 Def:7),,6:02,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:36 PM
+391,39,5,461,0020900229,Lowry Step Out of Bounds Turnover (P2.T10),,5:49,4,4,0,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:37 PM
+392,1,9,462,0020900229,,,5:49,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:37 PM
+393,1,2,466,0020900229,,,5:26,4,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Parker 10' Jump Shot,10:40 PM
+394,0,4,467,0020900229,,,5:25,4,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess REBOUND (Off:5 Def:8),10:40 PM
+395,11,5,468,0020900229,,,5:25,4,3,0,1,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Turnover: Shot Clock (T#13),10:40 PM
+396,47,1,469,0020900229,Landry 9' Turnaround Jump Shot (11 PTS),,5:05,4,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,77 - 73,-4,,10:40 PM
+397,1,6,470,0020900229,Lowry P.FOUL (P4.T3),,4:40,4,4,5,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:41 PM
+398,5,1,471,0020900229,,,4:26,4,5,5,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,79 - 73,-6,McDyess  Layup (11 PTS) (Parker 6 AST),10:41 PM
+399,1,1,472,0020900229,Andersen 24' 3PT Jump Shot (5 PTS) (Lowry 3 AST),,4:09,4,4,4,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,79 - 76,-3,,10:41 PM
+400,1,2,473,0020900229,,,3:47,4,5,0,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Parker 10' Jump Shot,10:42 PM
+401,0,4,474,0020900229,Andersen REBOUND (Off:1 Def:4),,3:46,4,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:42 PM
+402,1,2,475,0020900229,MISS Budinger 24' 3PT Jump Shot,,3:38,4,4,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:42 PM
+403,0,4,476,0020900229,,,3:37,4,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,10:42 PM
+404,3,6,477,0020900229,Andersen L.B.FOUL (P4.T4),,3:37,4,4,5,1,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:42 PM
+405,46,1,479,0020900229,,,3:17,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,81 - 76,-5,Duncan 11' Running Jump Shot (20 PTS),10:43 PM
+406,1,6,480,0020900229,,,3:07,4,5,4,1,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Bogans P.FOUL (P3.T4),10:43 PM
+407,1,2,481,0020900229,MISS Ariza 24' 3PT Jump Shot,,2:59,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:43 PM
+408,0,4,482,0020900229,Landry REBOUND (Off:3 Def:0),,2:57,4,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:43 PM
+409,1,2,483,0020900229,MISS Andersen 25' 3PT Jump Shot,,2:44,4,4,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:44 PM
+410,0,4,484,0020900229,,,2:43,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:2 Def:9),10:44 PM
+411,1,6,485,0020900229,Landry P.FOUL (P2.PN),,2:43,4,4,5,1,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:44 PM
+412,1,9,486,0020900229,ROCKETS Timeout: Regular (Full 5 Short 0),,2:43,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,10:44 PM
+413,0,8,488,0020900229,,,2:43,4,5,5,0,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Hill FOR Bogans,10:46 PM
+414,0,8,490,0020900229,SUB: Brooks FOR Budinger,,2:43,4,4,4,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:46 PM
+415,11,3,491,0020900229,,,2:43,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,82 - 76,-6,Duncan Free Throw 1 of 2 (21 PTS),10:47 PM
+416,12,3,494,0020900229,,,2:43,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan Free Throw 2 of 2,10:47 PM
+417,0,4,496,0020900229,Ariza REBOUND (Off:3 Def:8),,2:43,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:47 PM
+418,40,5,497,0020900229,Lowry Out of Bounds Lost Ball Turnover (P3.T11),,2:28,4,4,0,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:47 PM
+419,1,2,498,0020900229,,,2:08,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 10' Jump Shot,10:48 PM
+420,0,4,499,0020900229,Lowry REBOUND (Off:2 Def:1),,2:07,4,4,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:48 PM
+421,5,2,500,0020900229,MISS Lowry  Layup,,2:03,4,4,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:48 PM
+422,0,4,501,0020900229,,,2:02,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:2 Def:10),10:48 PM
+423,1,1,502,0020900229,,,1:45,4,5,5,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,84 - 76,-8,McDyess 18' Jump Shot (13 PTS) (Parker 7 AST),10:49 PM
+424,5,2,503,0020900229,MISS Brooks  Layup,,1:39,4,4,0,5,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,,,McDyess BLOCK (1 BLK),10:49 PM
+425,0,4,504,0020900229,,,1:38,4,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,McDyess REBOUND (Off:5 Def:9),10:49 PM
+426,1,6,505,0020900229,Brooks P.FOUL (P4.PN),,1:38,4,4,5,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:49 PM
+427,11,3,506,0020900229,,,1:38,4,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,85 - 76,-9,McDyess Free Throw 1 of 2 (14 PTS),10:49 PM
+428,12,3,509,0020900229,,,1:38,4,5,0,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,86 - 76,-10,McDyess Free Throw 2 of 2 (15 PTS),10:49 PM
+429,42,1,511,0020900229,Brooks  Driving Layup (11 PTS),,1:33,4,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,86 - 78,-8,,10:50 PM
+430,2,6,512,0020900229,,,1:33,4,5,4,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Duncan S.FOUL (P1.PN),10:50 PM
+431,10,3,513,0020900229,Brooks Free Throw 1 of 1 (12 PTS),,1:33,4,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,86 - 79,-7,,10:50 PM
+432,1,5,515,0020900229,Lowry STEAL (3 STL),,1:13,4,5,4,0,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Parker Bad Pass Turnover (P3.T14),10:51 PM
+433,1,1,516,0020900229,Ariza 25' 3PT Jump Shot (17 PTS),,1:08,4,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,86 - 82,-4,,10:51 PM
+434,40,5,517,0020900229,,,0:47,4,5,0,1,2225,Tony Parker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Parker Out of Bounds Lost Ball Turnover (P4.T15),10:51 PM
+435,1,9,518,0020900229,ROCKETS Timeout: Regular (Full 6 Short 0),,0:47,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,10:51 PM
+436,1,2,522,0020900229,MISS Landry 10' Jump Shot,,0:42,4,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:54 PM
+437,0,4,523,0020900229,Landry REBOUND (Off:4 Def:0),,0:41,4,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:54 PM
+438,1,1,524,0020900229,Landry 7' Jump Shot (13 PTS),,0:40,4,4,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,86 - 84,-2,,10:54 PM
+439,1,9,525,0020900229,,,0:35,4,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.5 Short 0),10:54 PM
+440,0,8,530,0020900229,SUB: Battier FOR Lowry,,0:35,4,4,4,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:56 PM
+441,0,8,531,0020900229,,,0:35,4,5,5,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Finley FOR Hill,10:57 PM
+442,2,6,532,0020900229,Landry S.FOUL (P3.PN),,0:33,4,4,5,1,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:57 PM
+443,11,3,533,0020900229,,,0:33,4,5,0,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,87 - 84,-3,Jefferson Free Throw 1 of 2 (8 PTS),10:57 PM
+444,12,3,535,0020900229,,,0:33,4,5,0,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,88 - 84,-4,Jefferson Free Throw 2 of 2 (9 PTS),10:57 PM
+445,2,9,537,0020900229,ROCKETS Timeout: Short (Full 6 Short 1),,0:33,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,10:58 PM
+446,0,8,539,0020900229,SUB: Lowry FOR Battier,,0:33,4,4,4,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:58 PM
+447,0,8,540,0020900229,,,0:33,4,5,5,0,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Bogans FOR Jefferson,10:59 PM
+448,0,8,541,0020900229,,,0:33,4,5,5,0,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Hill FOR Finley,10:59 PM
+449,1,2,542,0020900229,MISS Brooks 17' Jump Shot,,0:28,4,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:59 PM
+450,0,4,543,0020900229,,,0:28,4,5,0,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Hill REBOUND (Off:0 Def:1),10:59 PM
+451,1,6,544,0020900229,Lowry P.FOUL (P5.PN),,0:28,4,4,5,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,10:59 PM
+452,2,9,545,0020900229,,,0:28,4,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Short (Reg.5 Short 1),11:00 PM
+453,11,3,546,0020900229,,,0:28,4,5,0,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,89 - 84,-5,Hill Free Throw 1 of 2 (6 PTS),11:02 PM
+454,12,3,548,0020900229,,,0:28,4,5,0,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,90 - 84,-6,Hill Free Throw 2 of 2 (7 PTS),11:02 PM
+455,0,8,551,0020900229,,,0:28,4,5,5,0,201588,George Hill,SAS,San Antonio,1610612759.0,Spurs,2210,Richard Jefferson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Jefferson FOR Hill,11:03 PM
+456,5,2,552,0020900229,MISS Brooks  Layup,,0:22,4,4,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,11:03 PM
+457,0,4,553,0020900229,,,0:21,4,5,0,0,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Bogans REBOUND (Off:0 Def:4),11:03 PM
+458,1,6,554,0020900229,Landry P.FOUL (P4.PN),,0:18,4,4,5,1,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,11:03 PM
+459,11,3,555,0020900229,,,0:18,4,5,0,0,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,91 - 84,-7,Bogans Free Throw 1 of 2 (1 PTS),11:04 PM
+460,0,8,557,0020900229,,,0:18,4,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,201612,Malik Hairston,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Hairston FOR Duncan,11:04 PM
+461,0,8,558,0020900229,,,0:18,4,5,5,0,686,Antonio McDyess,SAS,San Antonio,1610612759.0,Spurs,714,Michael Finley,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Finley FOR McDyess,11:04 PM
+462,12,3,559,0020900229,,,0:18,4,5,0,0,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,92 - 84,-8,Bogans Free Throw 2 of 2 (2 PTS),11:04 PM
+463,2,5,561,0020900229,Ariza Lost Ball Turnover (P2.T12),,0:14,4,4,5,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,2586,Keith Bogans,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Bogans STEAL (2 STL),11:04 PM
+464,0,13,563,0020900229,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,92 - 84,-8,,11:05 PM

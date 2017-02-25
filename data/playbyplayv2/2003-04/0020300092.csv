@@ -1,0 +1,485 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,1,0020300092,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:51 PM
+1,0,10,2,0020300092,Jump Ball Curry vs. Camby: Tip to Miller,,12:00,1,4,5,5,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,,,,8:51 PM
+2,2,5,3,0020300092,Gill STEAL (1 STL),,11:46,1,5,4,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Anthony Lost Ball Turnover (P1.T1),8:52 PM
+3,1,1,4,0020300092,Hinrich 25' 3PT Jump Shot (3 PTS) (Curry 1 AST),,11:26,1,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0 - 3,3,,8:52 PM
+4,1,2,5,0020300092,Robinson BLOCK (1 BLK),,11:06,1,5,0,4,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,,,MISS Camby 14' Jump Shot,8:52 PM
+5,0,4,6,0020300092,Robinson REBOUND (Off:0 Def:1),,11:03,1,4,0,0,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:52 PM
+6,1,1,7,0020300092,Gill 21' Jump Shot (2 PTS) (Hinrich 1 AST),,10:53,1,4,4,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0 - 5,5,,8:53 PM
+7,1,6,8,0020300092,Curry P.FOUL (P1.T1),,10:40,1,4,0,1,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:53 PM
+8,2,6,9,0020300092,Hinrich S.FOUL (P1.T2),,10:30,1,4,0,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:53 PM
+9,11,3,10,0020300092,,,10:30,1,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barry Free Throw 1 of 2,8:54 PM
+10,1,4,11,0020300092,,,10:30,1,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,8:54 PM
+11,12,3,12,0020300092,,,10:30,1,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,1 - 5,4,Barry Free Throw 2 of 2 (1 PTS),8:54 PM
+12,1,2,13,0020300092,MISS Marshall 15' Jump Shot,,10:13,1,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:54 PM
+13,0,4,14,0020300092,,,10:11,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:0 Def:1),8:54 PM
+14,5,2,15,0020300092,,,10:06,1,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Miller  Layup,8:54 PM
+15,0,4,16,0020300092,Gill REBOUND (Off:0 Def:1),,10:04,1,4,0,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:54 PM
+16,2,5,17,0020300092,Marshall Lost Ball Turnover (P1.T1),,10:02,1,4,5,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Anthony STEAL (1 STL),8:54 PM
+17,1,6,18,0020300092,Marshall P.FOUL (P1.T3),,9:59,1,4,0,1,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:55 PM
+18,5,2,19,0020300092,,,9:48,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony  Layup,8:55 PM
+19,0,4,20,0020300092,Robinson REBOUND (Off:0 Def:2),,9:47,1,4,0,0,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:55 PM
+20,1,2,21,0020300092,MISS Hinrich 25' 3PT Jump Shot,,9:40,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:55 PM
+21,0,4,22,0020300092,,,9:38,1,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barry REBOUND (Off:0 Def:1),8:55 PM
+22,1,6,23,0020300092,Marshall P.FOUL (P2.T4),,9:38,1,4,0,1,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:55 PM
+23,1,2,24,0020300092,,,9:27,1,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barry 21' Jump Shot,8:55 PM
+24,0,4,25,0020300092,,,9:25,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:1 Def:0),8:55 PM
+25,2,6,26,0020300092,Gill S.FOUL (P1.PN),,9:24,1,4,0,1,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:55 PM
+26,11,3,27,0020300092,,,9:24,1,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,2 - 5,3,Barry Free Throw 1 of 2 (2 PTS),8:56 PM
+27,12,3,28,0020300092,,,9:24,1,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,3 - 5,2,Barry Free Throw 2 of 2 (3 PTS),8:56 PM
+28,4,6,29,0020300092,Marshall OFF.Foul (P3),,9:15,1,4,0,1,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:56 PM
+29,5,5,30,0020300092,Marshall Foul Turnover (P2.T2),,9:15,1,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:56 PM
+30,0,8,31,0020300092,SUB: Baxter FOR Marshall,,9:15,1,4,4,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:56 PM
+31,42,2,32,0020300092,,,8:57,1,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Miller  Driving Layup,8:57 PM
+32,0,4,34,0020300092,,,8:56,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:2 Def:0),8:57 PM
+33,4,1,33,0020300092,,,8:56,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,5 - 5,TIE,Camby  Tip Shot (2 PTS),8:57 PM
+34,1,1,35,0020300092,Curry 6' Jump Shot (2 PTS),,8:44,1,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,5 - 7,2,,8:57 PM
+35,2,6,36,0020300092,,,8:44,1,5,0,1,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barry S.FOUL (P1.T1),8:57 PM
+36,10,3,37,0020300092,Curry Free Throw 1 of 1 (3 PTS),,8:44,1,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,5 - 8,3,,8:57 PM
+37,1,1,38,0020300092,,,8:36,1,5,5,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,8 - 8,TIE,Barry  3PT Jump Shot (6 PTS) (Anthony 1 AST),8:57 PM
+38,1,2,39,0020300092,MISS Baxter 14' Jump Shot,,8:23,1,4,0,0,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:58 PM
+39,0,4,40,0020300092,,,8:21,1,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene REBOUND (Off:0 Def:1),8:58 PM
+40,39,5,41,0020300092,,,8:18,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony Step Out of Bounds Turnover (P2.T2),8:58 PM
+41,1,5,42,0020300092,Robinson Bad Pass Turnover (P1.T3),,8:05,1,4,5,0,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Barry STEAL (1 STL),8:58 PM
+42,5,1,43,0020300092,,,8:01,1,5,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,10 - 8,-2,Anthony  Layup (2 PTS) (Barry 1 AST),8:58 PM
+43,3,2,44,0020300092,MISS Baxter 7' Hook Shot,,7:40,1,4,0,0,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:59 PM
+44,0,4,45,0020300092,,,7:38,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:2 Def:1),8:59 PM
+45,0,10,46,0020300092,Jump Ball Hinrich vs. Nene: Tip to Miller,,7:32,1,4,5,5,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2403,Nene,DEN,Denver,1610612743.0,Nuggets,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,,,,8:59 PM
+46,5,2,47,0020300092,,,7:21,1,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nene  Layup,9:00 PM
+47,0,4,49,0020300092,,,7:19,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:3 Def:1),9:00 PM
+48,64,1,48,0020300092,,,7:19,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,12 - 8,-4,Camby  Follow Up Dunk (4 PTS),9:00 PM
+49,1,1,50,0020300092,Gill 18' Jump Shot (4 PTS) (Curry 2 AST),,7:03,1,4,4,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,12 - 10,-2,,9:00 PM
+50,2,6,51,0020300092,Baxter S.FOUL (P1.PN),,6:47,1,4,0,1,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:00 PM
+51,11,3,52,0020300092,,,6:47,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,13 - 10,-3,Anthony Free Throw 1 of 2 (3 PTS),9:00 PM
+52,0,8,53,0020300092,SUB: Rose FOR Robinson,,6:47,1,4,4,0,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:01 PM
+53,12,3,54,0020300092,,,6:47,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,14 - 10,-4,Anthony Free Throw 2 of 2 (4 PTS),9:01 PM
+54,1,2,55,0020300092,MISS Gill 18' Jump Shot,,6:29,1,4,0,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:01 PM
+55,0,4,56,0020300092,Curry REBOUND (Off:1 Def:0),,6:28,1,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:01 PM
+56,2,6,57,0020300092,,,6:28,1,5,0,1,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Miller S.FOUL (P1.T2),9:01 PM
+57,11,3,58,0020300092,Curry Free Throw 1 of 2 (4 PTS),,6:28,1,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,14 - 11,-3,,9:02 PM
+58,12,3,59,0020300092,Curry Free Throw 2 of 2 (5 PTS),,6:28,1,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,14 - 12,-2,,9:02 PM
+59,1,2,60,0020300092,,,6:16,1,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Miller 12' Jump Shot,9:02 PM
+60,0,4,61,0020300092,Curry REBOUND (Off:1 Def:1),,6:14,1,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:02 PM
+61,1,5,62,0020300092,Gill Bad Pass Turnover (P1.T4),,5:57,1,4,5,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Barry STEAL (2 STL),9:02 PM
+62,4,6,63,0020300092,,,5:47,1,5,0,1,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Miller OFF.Foul (P2),9:03 PM
+63,5,5,64,0020300092,,,5:47,1,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Miller Foul Turnover (P1.T3),9:03 PM
+64,1,9,66,0020300092,BULLS Timeout: Regular (Full 1 Short 0),,5:47,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:03 PM
+65,0,8,67,0020300092,,,5:47,1,5,5,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Boykins FOR Miller,9:05 PM
+66,1,2,68,0020300092,MISS Rose 7' Jump Shot,,5:32,1,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:05 PM
+67,0,4,69,0020300092,,,5:30,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:3 Def:2),9:05 PM
+68,4,5,70,0020300092,,,5:16,1,5,0,1,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene Traveling Turnover (P1.T4),9:06 PM
+69,42,1,71,0020300092,Hinrich  Driving Layup (5 PTS),,5:10,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,14 - 14,TIE,,9:06 PM
+70,1,2,72,0020300092,,,5:02,1,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barry 24' 3PT Jump Shot,9:06 PM
+71,0,4,73,0020300092,Curry REBOUND (Off:1 Def:2),,5:00,1,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:06 PM
+72,1,5,74,0020300092,Hinrich Bad Pass Turnover (P1.T5),,4:53,1,4,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Barry STEAL (3 STL),9:06 PM
+73,5,1,75,0020300092,,,4:50,1,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,16 - 14,-2,Barry  Layup (8 PTS),9:06 PM
+74,11,5,76,0020300092,BULLS Turnover: Shot Clock (T#6),,4:21,1,2,0,1,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:07 PM
+75,1,2,77,0020300092,,,4:09,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony 8' Jump Shot,9:07 PM
+76,0,4,78,0020300092,,,4:07,1,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene REBOUND (Off:1 Def:1),9:07 PM
+77,5,2,79,0020300092,,,4:05,1,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nene  Layup,9:07 PM
+78,0,4,80,0020300092,Curry REBOUND (Off:1 Def:3),,4:04,1,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:07 PM
+79,44,1,81,0020300092,Gill  Reverse Layup (6 PTS) (Hinrich 2 AST),,3:52,1,4,4,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,16 - 16,TIE,,9:07 PM
+80,17,6,82,0020300092,BULLS T.Foul (Def. 3 Sec Baxter ),,3:36,1,4,0,1,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:08 PM
+81,0,8,83,0020300092,SUB: Pippen FOR Gill,,3:36,1,4,4,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:08 PM
+82,0,8,84,0020300092,SUB: Crawford FOR Hinrich,,3:36,1,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:08 PM
+83,0,8,85,0020300092,,,3:36,1,5,5,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Elson FOR Nene,9:08 PM
+84,16,3,86,0020300092,,,3:36,1,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,17 - 16,-1,Barry Free Throw Technical (9 PTS),9:08 PM
+85,7,1,87,0020300092,,,3:21,1,5,5,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,19 - 16,-3,Camby  Dunk (6 PTS) (Anthony 2 AST),9:08 PM
+86,41,5,88,0020300092,Baxter Poss Lost Ball Turnover (P1.T7),,2:59,1,4,0,0,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:09 PM
+87,1,9,89,0020300092,,,2:59,1,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.1 Short 0),9:09 PM
+88,1,2,91,0020300092,,,2:44,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony 22' Jump Shot,9:11 PM
+89,0,4,92,0020300092,,,2:42,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:4 Def:2),9:12 PM
+90,5,2,93,0020300092,Baxter BLOCK (1 BLK),,2:40,1,5,0,4,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,,,MISS Anthony  Layup,9:12 PM
+91,0,4,95,0020300092,,,2:37,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:1 Def:1),9:12 PM
+92,5,1,94,0020300092,,,2:37,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,21 - 16,-5,Anthony  Layup (6 PTS),9:12 PM
+93,1,5,96,0020300092,Pippen Bad Pass Turnover (P1.T8),,2:22,1,4,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:12 PM
+94,0,8,97,0020300092,SUB: Blount FOR Baxter,,2:22,1,4,4,0,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:12 PM
+95,1,2,98,0020300092,,,2:05,1,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barry 21' Jump Shot,9:12 PM
+96,0,4,99,0020300092,,,2:02,1,5,0,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Elson REBOUND (Off:1 Def:0),9:12 PM
+97,5,2,100,0020300092,,,2:01,1,5,0,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Elson  Layup,9:12 PM
+98,0,4,101,0020300092,BULLS Rebound,,2:01,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:12 PM
+99,0,8,102,0020300092,,,2:01,1,5,5,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,2401,Nikoloz Tskitishvili,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Tskitishvili FOR Camby,9:13 PM
+100,8,1,103,0020300092,Curry  Slam Dunk (7 PTS) (Rose 1 AST),,1:48,1,4,4,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,21 - 18,-3,,9:13 PM
+101,2,6,104,0020300092,Blount S.FOUL (P1.PN),,1:33,1,4,0,1,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:13 PM
+102,0,8,105,0020300092,,,1:33,1,5,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,1763,Ryan Bowen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Bowen FOR Anthony,9:13 PM
+103,11,3,106,0020300092,,,1:33,1,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,22 - 18,-4,Barry Free Throw 1 of 2 (10 PTS),9:13 PM
+104,12,3,107,0020300092,,,1:33,1,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barry Free Throw 2 of 2,9:14 PM
+105,0,4,108,0020300092,,,1:31,1,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barry REBOUND (Off:1 Def:1),9:14 PM
+106,1,2,109,0020300092,,,1:27,1,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barry 16' Jump Shot,9:14 PM
+107,0,4,110,0020300092,BULLS Rebound,,1:26,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:14 PM
+108,1,6,111,0020300092,,,1:13,1,5,0,1,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Elson P.FOUL (P1.T3),9:14 PM
+109,0,8,112,0020300092,,,1:13,1,5,5,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,2206,Rodney White,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: White FOR Barry,9:14 PM
+110,1,1,113,0020300092,Rose 18' Jump Shot (2 PTS),,1:05,1,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,22 - 20,-2,,9:15 PM
+111,1,2,114,0020300092,,,0:52,1,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Boykins 19' Jump Shot,9:15 PM
+112,0,4,115,0020300092,,,0:50,1,5,0,0,2401,Nikoloz Tskitishvili,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Tskitishvili REBOUND (Off:1 Def:0),9:15 PM
+113,1,1,116,0020300092,,,0:48,1,5,5,0,2206,Rodney White,DEN,Denver,1610612743.0,Nuggets,2401,Nikoloz Tskitishvili,DEN,Denver,1610612743.0,Nuggets,0,,,,,,25 - 20,-5,White 25' 3PT Jump Shot (3 PTS) (Tskitishvili 1 AST),9:15 PM
+114,3,1,117,0020300092,Curry 6' Hook Shot (9 PTS) (Pippen 1 AST),,0:40,1,4,4,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,25 - 22,-3,,9:15 PM
+115,1,2,118,0020300092,,,0:32,1,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Boykins 25' 3PT Jump Shot,9:16 PM
+116,0,4,119,0020300092,,,0:32,1,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,9:16 PM
+117,3,6,120,0020300092,Curry L.B.FOUL (P2.PN),,0:32,1,4,0,1,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:16 PM
+118,11,3,121,0020300092,,,0:32,1,5,0,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,26 - 22,-4,Elson Free Throw 1 of 2 (1 PTS),9:16 PM
+119,0,8,122,0020300092,SUB: Johnson FOR Curry,,0:32,1,4,4,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,2669,Linton Johnson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:16 PM
+120,12,3,123,0020300092,,,0:32,1,5,0,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,27 - 22,-5,Elson Free Throw 2 of 2 (2 PTS),9:16 PM
+121,1,5,124,0020300092,Pippen Bad Pass Turnover (P2.T9),,0:14,1,4,5,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,1763,Ryan Bowen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Bowen STEAL (1 STL),9:17 PM
+122,1,1,125,0020300092,,,0:10,1,5,5,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,1763,Ryan Bowen,DEN,Denver,1610612743.0,Nuggets,0,,,,,,29 - 22,-7,Boykins 19' Jump Shot (2 PTS) (Bowen 1 AST),9:17 PM
+123,1,2,126,0020300092,MISS Pippen 25' 3PT Jump Shot,,0:00,1,4,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:17 PM
+124,0,4,128,0020300092,BULLS Rebound,,0:00,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:17 PM
+125,0,13,127,0020300092,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,29 - 22,-7,,9:17 PM
+126,0,12,130,0020300092,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,29 - 22,-7,,9:20 PM
+127,1,2,131,0020300092,MISS Crawford 28' 3PT Jump Shot,,11:34,2,4,0,0,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:20 PM
+128,0,4,132,0020300092,Baxter REBOUND (Off:1 Def:0),,11:31,2,4,0,0,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:20 PM
+129,5,1,133,0020300092,Baxter  Layup (2 PTS),,11:30,2,4,0,0,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,29 - 24,-5,,9:20 PM
+130,1,2,134,0020300092,,,11:21,2,5,0,0,2206,Rodney White,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS White 19' Jump Shot,9:20 PM
+131,0,4,135,0020300092,Rose REBOUND (Off:0 Def:1),,11:19,2,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:20 PM
+132,1,5,136,0020300092,Pippen Bad Pass Turnover (P3.T10),,11:17,2,4,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:20 PM
+133,4,6,137,0020300092,,,11:03,2,5,0,1,2401,Nikoloz Tskitishvili,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Tskitishvili OFF.Foul (P1),9:21 PM
+134,5,5,138,0020300092,,,11:03,2,5,0,0,2401,Nikoloz Tskitishvili,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Tskitishvili Foul Turnover (P1.T5),9:21 PM
+135,66,1,139,0020300092,Baxter 6' Jump Bank Shot (4 PTS) (Rose 2 AST),,10:42,2,4,4,0,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,29 - 26,-3,,9:21 PM
+136,5,2,140,0020300092,,,10:27,2,5,0,0,2206,Rodney White,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS White  Layup,9:22 PM
+137,0,4,142,0020300092,,,10:26,2,5,0,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Elson REBOUND (Off:2 Def:0),9:22 PM
+138,5,1,141,0020300092,,,10:26,2,5,0,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,31 - 26,-5,Elson  Layup (4 PTS),9:22 PM
+139,1,2,143,0020300092,MISS Rose 25' 3PT Jump Shot,,10:16,2,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:22 PM
+140,0,4,144,0020300092,Blount REBOUND (Off:1 Def:0),,10:14,2,4,0,0,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:22 PM
+141,1,1,145,0020300092,Rose 25' 3PT Jump Shot (5 PTS) (Pippen 2 AST),,10:09,2,4,4,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,31 - 29,-2,,9:22 PM
+142,1,5,146,0020300092,Baxter STEAL (1 STL),,9:58,2,5,4,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Boykins Bad Pass Turnover (P1.T6),9:22 PM
+143,1,5,147,0020300092,Baxter Bad Pass Turnover (P2.T11),,9:53,2,4,5,0,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Elson STEAL (1 STL),9:22 PM
+144,5,1,148,0020300092,,,9:44,2,5,5,0,2401,Nikoloz Tskitishvili,DEN,Denver,1610612743.0,Nuggets,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,33 - 29,-4,Tskitishvili  Layup (2 PTS) (Boykins 1 AST),9:22 PM
+145,1,5,149,0020300092,Crawford Bad Pass Turnover (P1.T12),,9:37,2,4,5,0,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,2206,Rodney White,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,White STEAL (1 STL),9:22 PM
+146,5,2,150,0020300092,,,9:34,2,5,0,0,2206,Rodney White,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS White  Layup,9:22 PM
+147,0,4,151,0020300092,Pippen REBOUND (Off:0 Def:1),,9:33,2,4,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:22 PM
+148,1,1,152,0020300092,Pippen 16' Jump Shot (2 PTS) (Crawford 1 AST),,9:20,2,4,4,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,33 - 31,-2,,9:23 PM
+149,1,6,153,0020300092,Pippen P.FOUL (P1.T1),,9:06,2,4,0,1,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:23 PM
+150,0,8,154,0020300092,,,9:06,2,5,5,0,2401,Nikoloz Tskitishvili,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Anthony FOR Tskitishvili,9:23 PM
+151,0,8,155,0020300092,,,9:06,2,5,5,0,1763,Ryan Bowen,DEN,Denver,1610612743.0,Nuggets,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Barry FOR Bowen,9:23 PM
+152,0,8,156,0020300092,,,9:06,2,5,5,0,2206,Rodney White,DEN,Denver,1610612743.0,Nuggets,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Nene FOR White,9:23 PM
+153,2,6,157,0020300092,Baxter S.FOUL (P2.T2),,8:54,2,4,0,1,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:24 PM
+154,1,9,158,0020300092,,,8:54,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:24 PM
+155,11,3,160,0020300092,,,8:54,2,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,34 - 31,-3,Boykins Free Throw 1 of 2 (3 PTS),9:27 PM
+156,12,3,161,0020300092,,,8:54,2,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,35 - 31,-4,Boykins Free Throw 2 of 2 (4 PTS),9:27 PM
+157,1,2,162,0020300092,MISS Rose 20' Jump Shot,,8:32,2,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:27 PM
+158,0,4,163,0020300092,,,8:30,2,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene REBOUND (Off:1 Def:2),9:27 PM
+159,1,2,164,0020300092,,,8:26,2,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barry 19' Jump Shot,9:27 PM
+160,0,4,165,0020300092,Rose REBOUND (Off:0 Def:2),,8:25,2,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:27 PM
+161,1,1,166,0020300092,Pippen 20' Jump Shot (4 PTS) (Rose 3 AST),,8:17,2,4,4,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,35 - 33,-2,,9:28 PM
+162,4,5,167,0020300092,,,7:56,2,5,0,1,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene Traveling Turnover (P2.T7),9:28 PM
+163,0,8,168,0020300092,SUB: Curry FOR Baxter,,7:56,2,4,4,0,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:28 PM
+164,1,2,170,0020300092,MISS Blount 7' Jump Shot,,7:38,2,4,0,0,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:29 PM
+165,0,4,171,0020300092,,,7:36,2,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:1 Def:2),9:29 PM
+166,1,2,172,0020300092,,,7:25,2,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barry 18' Jump Shot,9:29 PM
+167,0,4,173,0020300092,Blount REBOUND (Off:1 Def:1),,7:22,2,4,0,0,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:29 PM
+168,1,2,174,0020300092,MISS Rose 20' Jump Shot,,7:17,2,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:30 PM
+169,0,4,175,0020300092,,,7:16,2,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene REBOUND (Off:1 Def:3),9:30 PM
+170,1,1,176,0020300092,,,7:08,2,5,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,37 - 33,-4,Anthony 23' Jump Shot (8 PTS) (Boykins 2 AST),9:30 PM
+171,5,1,177,0020300092,Pippen  Layup (6 PTS),,7:01,2,4,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,37 - 35,-2,,9:30 PM
+172,1,1,178,0020300092,,,6:42,2,5,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,39 - 35,-4,Anthony 16' Jump Shot (10 PTS) (Boykins 3 AST),9:30 PM
+173,1,2,179,0020300092,MISS Pippen 24' 3PT Jump Shot,,6:27,2,4,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:31 PM
+174,0,4,180,0020300092,Rose REBOUND (Off:1 Def:2),,6:25,2,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:31 PM
+175,3,1,181,0020300092,Curry  Hook Shot (11 PTS) (Rose 4 AST),,6:22,2,4,4,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,39 - 37,-2,,9:31 PM
+176,2,6,182,0020300092,Blount S.FOUL (P2.T3),,6:07,2,4,0,1,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:31 PM
+177,0,8,183,0020300092,,,6:07,2,5,5,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Camby FOR Elson,9:31 PM
+178,0,8,184,0020300092,SUB: Gill FOR Pippen,,6:07,2,4,4,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:31 PM
+179,11,3,185,0020300092,,,6:07,2,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,40 - 37,-3,Nene Free Throw 1 of 2 (1 PTS),9:31 PM
+180,12,3,186,0020300092,,,6:07,2,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Nene Free Throw 2 of 2,9:31 PM
+181,0,4,187,0020300092,Rose REBOUND (Off:1 Def:3),,6:06,2,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:32 PM
+182,2,5,188,0020300092,Gill Lost Ball Turnover (P2.T13),,5:42,2,4,5,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Anthony STEAL (2 STL),9:32 PM
+183,5,1,189,0020300092,,,5:37,2,5,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,42 - 37,-5,Anthony  Layup (12 PTS) (Boykins 4 AST),9:32 PM
+184,1,9,190,0020300092,BULLS Timeout: Regular (Full 2 Short 0),,5:30,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:32 PM
+185,1,2,192,0020300092,MISS Blount 15' Jump Shot,,5:13,2,4,0,0,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:35 PM
+186,0,4,193,0020300092,,,5:12,2,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:1 Def:3),9:35 PM
+187,1,2,194,0020300092,,,5:06,2,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony 25' 3PT Jump Shot,9:35 PM
+188,0,4,195,0020300092,Gill REBOUND (Off:0 Def:2),,5:04,2,4,0,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:35 PM
+189,1,5,196,0020300092,Blount Bad Pass Turnover (P1.T14),,4:54,2,4,0,0,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:35 PM
+190,2,6,197,0020300092,Rose S.FOUL (P1.T4),,4:31,2,4,0,1,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:36 PM
+191,11,3,198,0020300092,,,4:31,2,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,43 - 37,-6,Nene Free Throw 1 of 2 (2 PTS),9:36 PM
+192,12,3,199,0020300092,,,4:31,2,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,44 - 37,-7,Nene Free Throw 2 of 2 (3 PTS),9:36 PM
+193,1,6,200,0020300092,,,4:13,2,5,0,1,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene P.FOUL (P1.T1),9:37 PM
+194,42,1,201,0020300092,Crawford  Driving Layup (2 PTS),,4:06,2,4,0,0,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,44 - 39,-5,,9:37 PM
+195,5,2,202,0020300092,,,4:00,2,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Boykins  Layup,9:37 PM
+196,0,4,203,0020300092,Blount REBOUND (Off:1 Def:2),,3:59,2,4,0,0,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:37 PM
+197,1,6,204,0020300092,,,3:54,2,5,0,1,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene P.FOUL (P2.T2),9:38 PM
+198,5,2,205,0020300092,MISS Blount  Layup,,3:45,2,4,0,5,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,,,Camby BLOCK (1 BLK),9:38 PM
+199,0,4,207,0020300092,Blount REBOUND (Off:2 Def:2),,3:44,2,4,0,0,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:38 PM
+200,5,2,206,0020300092,MISS Blount  Layup,,3:44,2,4,0,0,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:38 PM
+201,0,4,208,0020300092,,,3:43,2,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barry REBOUND (Off:1 Def:2),9:38 PM
+202,1,2,209,0020300092,,,3:31,2,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Camby 17' Jump Shot,9:38 PM
+203,0,4,210,0020300092,,,3:28,2,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:5 Def:2),9:38 PM
+204,1,5,211,0020300092,Blount STEAL (1 STL),,3:26,2,5,4,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Camby Bad Pass Turnover (P1.T8),9:38 PM
+205,1,2,212,0020300092,MISS Rose 19' Jump Shot,,3:14,2,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:39 PM
+206,0,4,213,0020300092,,,3:12,2,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barry REBOUND (Off:1 Def:3),9:39 PM
+207,4,5,214,0020300092,,,3:03,2,5,0,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony Traveling Turnover (P3.T9),9:39 PM
+208,1,1,215,0020300092,Blount 19' Jump Shot (2 PTS) (Rose 5 AST),,2:48,2,4,4,0,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,44 - 41,-3,,9:40 PM
+209,1,6,216,0020300092,Gill P.FOUL (P2.PN),,2:41,2,4,0,1,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:40 PM
+210,0,8,217,0020300092,SUB: Hinrich FOR Crawford,,2:41,2,4,4,0,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:40 PM
+211,0,8,218,0020300092,SUB: Baxter FOR Blount,,2:41,2,4,4,0,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:40 PM
+212,1,9,219,0020300092,,,2:41,2,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.2 Short 0),9:40 PM
+213,11,3,221,0020300092,,,2:41,2,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,45 - 41,-4,Boykins Free Throw 1 of 2 (5 PTS),9:42 PM
+214,0,8,222,0020300092,,,2:41,2,5,5,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Elson FOR Nene,9:43 PM
+215,12,3,223,0020300092,,,2:41,2,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,46 - 41,-5,Boykins Free Throw 2 of 2 (6 PTS),9:43 PM
+216,2,5,224,0020300092,Hinrich Lost Ball Turnover (P2.T15),,2:32,2,4,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Boykins STEAL (1 STL),9:43 PM
+217,5,1,225,0020300092,,,2:29,2,5,5,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,48 - 41,-7,Boykins  Layup (8 PTS) (Elson 1 AST),9:43 PM
+218,1,5,226,0020300092,Rose Bad Pass Turnover (P1.T16),,2:09,2,4,5,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Anthony STEAL (3 STL),9:44 PM
+219,1,2,227,0020300092,,,2:04,2,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony 15' Jump Shot,9:44 PM
+220,0,10,228,0020300092,Jump Ball Baxter vs. Camby: Tip to Gill,,2:01,2,4,5,4,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,,,,9:44 PM
+221,0,4,229,0020300092,BULLS Rebound,,2:01,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:44 PM
+222,1,1,230,0020300092,Gill 19' Jump Shot (8 PTS),,1:40,2,4,0,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,48 - 43,-5,,9:44 PM
+223,1,2,231,0020300092,,,1:23,2,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Camby 14' Jump Shot,9:45 PM
+224,0,4,233,0020300092,,,1:21,2,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:6 Def:2),9:45 PM
+225,4,2,232,0020300092,,,1:21,2,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Camby  Tip Shot,9:45 PM
+226,0,4,234,0020300092,Curry REBOUND (Off:1 Def:4),,1:18,2,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:45 PM
+227,1,6,235,0020300092,,,1:07,2,5,0,1,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Elson P.FOUL (P2.T3),9:45 PM
+228,1,2,236,0020300092,MISS Rose 17' Jump Shot,,1:01,2,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:45 PM
+229,0,4,237,0020300092,,,0:59,2,5,0,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Elson REBOUND (Off:2 Def:1),9:45 PM
+230,1,1,238,0020300092,,,0:54,2,5,5,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,51 - 43,-8,Barry 25' 3PT Jump Shot (13 PTS) (Boykins 5 AST),9:46 PM
+231,1,6,239,0020300092,,,0:49,2,5,0,1,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Boykins P.FOUL (P1.PN),9:46 PM
+232,11,3,240,0020300092,Hinrich Free Throw 1 of 2 (6 PTS),,0:49,2,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,51 - 44,-7,,9:46 PM
+233,0,8,241,0020300092,SUB: Johnson FOR Rose,,0:49,2,4,4,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,2669,Linton Johnson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:46 PM
+234,12,3,242,0020300092,MISS Hinrich Free Throw 2 of 2,,0:49,2,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:46 PM
+235,0,4,243,0020300092,,,0:46,2,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Boykins REBOUND (Off:0 Def:1),9:47 PM
+236,5,2,244,0020300092,Baxter BLOCK (2 BLK),,0:35,2,5,0,4,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,,,MISS Elson  Layup,9:47 PM
+237,0,4,245,0020300092,Johnson REBOUND (Off:0 Def:1),,0:31,2,4,0,0,2669,Linton Johnson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:47 PM
+238,2,6,246,0020300092,,,0:27,2,5,0,1,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby S.FOUL (P1.PN),9:47 PM
+239,11,3,247,0020300092,MISS Curry Free Throw 1 of 2,,0:27,2,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:48 PM
+240,1,4,248,0020300092,BULLS Rebound,,0:27,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:48 PM
+241,12,3,249,0020300092,Curry Free Throw 2 of 2 (12 PTS),,0:27,2,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,51 - 45,-6,,9:48 PM
+242,1,2,250,0020300092,,,0:06,2,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Boykins 20' Jump Shot,9:48 PM
+243,0,4,251,0020300092,,,0:05,2,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:7 Def:2),9:48 PM
+244,1,2,252,0020300092,,,0:03,2,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Boykins 18' Jump Shot,9:48 PM
+245,0,4,254,0020300092,,,0:00,2,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:2 Def:3),9:48 PM
+246,4,2,253,0020300092,,,0:00,2,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony  Tip Shot,9:48 PM
+247,0,4,255,0020300092,Hinrich REBOUND (Off:0 Def:1),,0:00,2,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:48 PM
+248,0,13,256,0020300092,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 45,-6,,9:48 PM
+249,0,12,258,0020300092,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 45,-6,,10:05 PM
+250,2,7,260,0020300092,,,11:40,3,5,0,1,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Elson Violation:Defensive Goaltending,10:05 PM
+251,5,1,259,0020300092,Curry  Layup (14 PTS) (Marshall 1 AST),,11:40,3,4,4,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,51 - 47,-4,,10:05 PM
+252,1,2,261,0020300092,,,11:19,3,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Miller 25' 3PT Jump Shot,10:06 PM
+253,0,4,262,0020300092,Robinson REBOUND (Off:0 Def:3),,11:16,3,4,0,0,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:06 PM
+254,5,2,263,0020300092,MISS Curry  Layup,,11:10,3,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:06 PM
+255,0,4,264,0020300092,,,11:08,3,5,0,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Elson REBOUND (Off:2 Def:2),10:06 PM
+256,4,5,265,0020300092,,,11:00,3,5,0,1,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene Traveling Turnover (P3.T10),10:06 PM
+257,1,1,266,0020300092,Robinson 19' Jump Shot (2 PTS) (Marshall 2 AST),,10:45,3,4,4,0,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,51 - 49,-2,,10:07 PM
+258,5,2,267,0020300092,,,10:21,3,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barry  Layup,10:07 PM
+259,0,4,268,0020300092,BULLS Rebound,,10:21,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:07 PM
+260,5,2,269,0020300092,MISS Curry  Layup,,10:06,3,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:07 PM
+261,0,4,270,0020300092,,,10:05,3,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene REBOUND (Off:1 Def:4),10:07 PM
+262,1,5,271,0020300092,Marshall STEAL (1 STL),,10:02,3,5,4,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Nene Bad Pass Turnover (P4.T11),10:07 PM
+263,1,1,272,0020300092,Gill 20' Jump Shot (10 PTS) (Robinson 1 AST),,9:56,3,4,4,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,51 - 51,TIE,,10:08 PM
+264,1,9,273,0020300092,,,9:49,3,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.3 Short 0),10:08 PM
+265,1,2,275,0020300092,,,9:34,3,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Miller 15' Jump Shot,10:10 PM
+266,0,4,276,0020300092,Marshall REBOUND (Off:0 Def:1),,9:32,3,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:10 PM
+267,1,1,277,0020300092,Robinson 17' Jump Shot (4 PTS) (Hinrich 3 AST),,9:28,3,4,4,0,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,51 - 53,2,,10:10 PM
+268,1,2,278,0020300092,,,9:11,3,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Miller 9' Jump Shot,10:11 PM
+269,0,4,280,0020300092,,,9:09,3,5,0,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Elson REBOUND (Off:3 Def:2),10:11 PM
+270,4,2,279,0020300092,,,9:09,3,5,0,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Elson  Tip Shot,10:11 PM
+271,0,4,282,0020300092,,,9:07,3,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:0),10:11 PM
+272,5,1,281,0020300092,,,9:07,3,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,53 - 53,TIE,Miller  Layup (2 PTS),10:11 PM
+273,1,1,283,0020300092,Gill 15' Jump Shot (12 PTS) (Hinrich 4 AST),,8:45,3,4,4,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,53 - 55,2,,10:11 PM
+274,1,5,284,0020300092,Marshall STEAL (2 STL),,8:22,3,5,4,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Miller Bad Pass Turnover (P2.T12),10:11 PM
+275,3,2,285,0020300092,MISS Curry 5' Hook Shot,,8:04,3,4,0,5,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,,,Elson BLOCK (1 BLK),10:12 PM
+276,0,4,286,0020300092,BULLS Rebound,,8:03,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:12 PM
+277,2,6,287,0020300092,,,8:03,3,5,0,1,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Miller S.FOUL (P3.T1),10:12 PM
+278,11,3,288,0020300092,Curry Free Throw 1 of 2 (15 PTS),,8:03,3,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,53 - 56,3,,10:12 PM
+279,12,3,289,0020300092,Curry Free Throw 2 of 2 (16 PTS),,8:03,3,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,53 - 57,4,,10:12 PM
+280,1,2,290,0020300092,,,7:52,3,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barry  3PT Jump Shot,10:13 PM
+281,0,4,291,0020300092,Marshall REBOUND (Off:0 Def:2),,7:49,3,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:13 PM
+282,1,6,292,0020300092,,,7:43,3,5,0,1,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene P.FOUL (P3.T2),10:13 PM
+283,1,2,293,0020300092,MISS Marshall 20' Jump Shot,,7:36,3,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:13 PM
+284,0,4,294,0020300092,,,7:35,3,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene REBOUND (Off:1 Def:5),10:13 PM
+285,1,2,295,0020300092,,,7:24,3,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony 25' 3PT Jump Shot,10:14 PM
+286,0,4,296,0020300092,,,7:23,3,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:3 Def:3),10:14 PM
+287,2,6,297,0020300092,Curry S.FOUL (P3.T1),,7:23,3,4,0,1,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:14 PM
+288,11,3,298,0020300092,,,7:23,3,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,54 - 57,3,Anthony Free Throw 1 of 2 (13 PTS),10:14 PM
+289,12,3,299,0020300092,,,7:23,3,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,55 - 57,2,Anthony Free Throw 2 of 2 (14 PTS),10:14 PM
+290,5,2,300,0020300092,MISS Curry  Layup,,7:03,3,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:15 PM
+291,0,4,301,0020300092,,,7:01,3,5,0,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Elson REBOUND (Off:3 Def:3),10:15 PM
+292,1,2,302,0020300092,,,6:44,3,5,0,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Elson 14' Jump Shot,10:15 PM
+293,0,4,303,0020300092,Hinrich REBOUND (Off:0 Def:2),,6:42,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:15 PM
+294,1,6,304,0020300092,,,6:36,3,5,0,1,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Miller P.FOUL (P4.T3),10:15 PM
+295,5,1,305,0020300092,Marshall  Layup (2 PTS) (Gill 1 AST),,6:26,3,4,4,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,55 - 59,4,,10:16 PM
+296,1,2,306,0020300092,Marshall BLOCK (1 BLK),,5:59,3,5,0,4,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,,,MISS Nene 18' Jump Shot,10:16 PM
+297,0,4,307,0020300092,,,5:59,3,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,10:16 PM
+298,11,5,308,0020300092,,,5:59,3,3,0,1,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Turnover: Shot Clock (T#13),10:17 PM
+299,0,10,309,0020300092,Jump Ball Marshall vs. Anthony: Tip to Elson,,5:43,3,4,5,5,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,,,,10:17 PM
+300,2,5,310,0020300092,Marshall Lost Ball Turnover (P3.T17),,5:43,3,4,5,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Anthony STEAL (4 STL),10:17 PM
+301,66,1,311,0020300092,,,5:31,3,5,5,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,57 - 59,2,Barry 11' Jump Bank Shot (15 PTS) (Elson 2 AST),10:17 PM
+302,1,5,312,0020300092,Hinrich Bad Pass Turnover (P3.T18),,5:15,3,4,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Miller STEAL (1 STL),10:18 PM
+303,5,1,313,0020300092,,,5:12,3,5,5,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,59 - 59,TIE,Nene  Layup (5 PTS) (Barry 2 AST),10:18 PM
+304,2,6,314,0020300092,Hinrich S.FOUL (P2.T2),,5:12,3,4,0,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:18 PM
+305,0,8,315,0020300092,SUB: Crawford FOR Hinrich,,5:12,3,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:18 PM
+306,0,8,316,0020300092,SUB: Rose FOR Gill,,5:12,3,4,4,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:18 PM
+307,10,3,317,0020300092,,,5:12,3,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,60 - 59,-1,Nene Free Throw 1 of 1 (6 PTS),10:19 PM
+308,1,1,318,0020300092,Marshall 17' Jump Shot (4 PTS) (Rose 6 AST),,4:48,3,4,4,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,60 - 61,1,,10:19 PM
+309,5,2,319,0020300092,Marshall BLOCK (2 BLK),,4:41,3,5,0,4,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,,,MISS Miller  Layup,10:19 PM
+310,0,4,320,0020300092,Curry REBOUND (Off:1 Def:5),,4:39,3,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:19 PM
+311,5,1,321,0020300092,Rose  Layup (7 PTS) (Crawford 2 AST),,4:36,3,4,4,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,60 - 63,3,,10:19 PM
+312,3,1,322,0020300092,,,4:16,3,5,0,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,62 - 63,1,Elson 9' Hook Shot (6 PTS),10:20 PM
+313,1,2,323,0020300092,MISS Rose 13' Jump Shot,,3:59,3,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:20 PM
+314,0,4,325,0020300092,Curry REBOUND (Off:2 Def:5),,3:56,3,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:20 PM
+315,7,2,324,0020300092,MISS Curry  Dunk,,3:56,3,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:20 PM
+316,0,4,326,0020300092,,,3:55,3,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene REBOUND (Off:1 Def:6),10:20 PM
+317,2,6,327,0020300092,Robinson S.FOUL (P1.T3),,3:53,3,4,0,1,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:20 PM
+318,11,3,328,0020300092,,,3:53,3,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Miller Free Throw 1 of 2,10:21 PM
+319,1,4,329,0020300092,,,3:53,3,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,10:21 PM
+320,0,8,330,0020300092,,,3:53,3,5,5,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,2206,Rodney White,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: White FOR Nene,10:21 PM
+321,0,8,331,0020300092,SUB: Blount FOR Curry,,3:53,3,4,4,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:21 PM
+322,12,3,332,0020300092,,,3:53,3,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,63 - 63,TIE,Miller Free Throw 2 of 2 (3 PTS),10:21 PM
+323,1,2,333,0020300092,MISS Rose 19' Jump Shot,,3:34,3,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:22 PM
+324,0,4,334,0020300092,,,3:32,3,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:1 Def:1),10:22 PM
+325,1,2,335,0020300092,,,3:24,3,5,0,0,2206,Rodney White,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS White 23' Jump Shot,10:22 PM
+326,0,4,336,0020300092,,,3:21,3,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:4 Def:3),10:22 PM
+327,2,6,337,0020300092,Blount S.FOUL (P3.T4),,3:21,3,4,0,1,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:22 PM
+328,11,3,338,0020300092,,,3:21,3,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony Free Throw 1 of 2,10:22 PM
+329,0,4,354,0020300092,,,3:21,3,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,10:22 PM
+330,0,8,339,0020300092,,,3:21,3,5,5,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Boykins FOR Barry,10:22 PM
+331,12,3,340,0020300092,,,3:21,3,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,64 - 63,-1,Anthony Free Throw 2 of 2 (15 PTS),10:22 PM
+332,1,1,341,0020300092,Marshall 25' 3PT Jump Shot (7 PTS) (Crawford 3 AST),,3:05,3,4,4,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,64 - 66,2,,10:23 PM
+333,2,5,342,0020300092,Robinson STEAL (1 STL),,2:46,3,5,4,0,2206,Rodney White,DEN,Denver,1610612743.0,Nuggets,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,White Lost Ball Turnover (P1.T14),10:23 PM
+334,5,1,343,0020300092,Robinson  Layup (6 PTS) (Crawford 4 AST),,2:42,3,4,4,0,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,64 - 68,4,,10:23 PM
+335,1,2,344,0020300092,,,2:22,3,5,0,0,2206,Rodney White,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS White 17' Jump Shot,10:24 PM
+336,0,4,345,0020300092,Blount REBOUND (Off:2 Def:3),,2:20,3,4,0,0,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:24 PM
+337,5,2,346,0020300092,MISS Blount  Layup,,2:05,3,4,0,0,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:24 PM
+338,0,4,347,0020300092,Marshall REBOUND (Off:1 Def:2),,2:03,3,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:24 PM
+339,1,1,348,0020300092,Robinson 17' Jump Shot (8 PTS) (Blount 1 AST),,2:00,3,4,4,0,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,64 - 70,6,,10:24 PM
+340,1,5,349,0020300092,Crawford STEAL (1 STL),,1:35,3,5,4,0,2206,Rodney White,DEN,Denver,1610612743.0,Nuggets,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,White Bad Pass Turnover (P2.T15),10:24 PM
+341,7,1,350,0020300092,Crawford  Dunk (4 PTS) (Robinson 2 AST),,1:31,3,4,4,0,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,64 - 72,8,,10:24 PM
+342,2,9,351,0020300092,,,1:20,3,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Short (Reg.3 Short 1),10:25 PM
+343,1,9,352,0020300092,BULLS Timeout: Regular (Full 3 Short 0),,1:20,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:25 PM
+344,0,8,355,0020300092,,,1:20,3,5,5,0,2206,Rodney White,DEN,Denver,1610612743.0,Nuggets,2401,Nikoloz Tskitishvili,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Tskitishvili FOR White,10:28 PM
+345,42,1,356,0020300092,,,1:04,3,5,0,0,2401,Nikoloz Tskitishvili,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,66 - 72,6,Tskitishvili  Driving Layup (4 PTS),10:28 PM
+346,1,2,357,0020300092,MISS Robinson 16' Jump Shot,,0:44,3,4,0,0,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:28 PM
+347,0,4,358,0020300092,,,0:43,3,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,10:28 PM
+348,1,2,359,0020300092,,,0:31,3,5,0,0,2401,Nikoloz Tskitishvili,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Tskitishvili 18' Jump Shot,10:29 PM
+349,0,4,360,0020300092,,,0:29,3,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:2 Def:1),10:29 PM
+350,1,9,361,0020300092,,,0:25,3,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.4 Short 1),10:29 PM
+351,0,8,362,0020300092,SUB: Baxter FOR Marshall,,0:25,3,4,4,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:31 PM
+352,0,8,363,0020300092,,,0:25,3,5,5,0,1922,Francisco Elson,DEN,Denver,1610612743.0,Nuggets,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Nene FOR Elson,10:31 PM
+353,1,2,364,0020300092,,,0:07,3,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony 28' 3PT Jump Shot,10:31 PM
+354,0,4,365,0020300092,Rose REBOUND (Off:1 Def:4),,0:05,3,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:31 PM
+355,0,13,366,0020300092,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,66 - 72,6,,10:32 PM
+356,0,12,368,0020300092,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,66 - 72,6,,10:34 PM
+357,1,5,369,0020300092,Crawford STEAL (2 STL),,11:41,4,5,4,0,2401,Nikoloz Tskitishvili,DEN,Denver,1610612743.0,Nuggets,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Tskitishvili Bad Pass Turnover (P2.T16),10:35 PM
+358,7,1,370,0020300092,Baxter  Dunk (6 PTS) (Crawford 5 AST),,11:37,4,4,4,0,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,66 - 74,8,,10:35 PM
+359,1,1,371,0020300092,,,11:17,4,5,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,68 - 74,6,Anthony 13' Jump Shot (17 PTS) (Boykins 6 AST),10:35 PM
+360,40,5,372,0020300092,Rose Out of Bounds Lost Ball Turnover (P2.T19),,11:04,4,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:35 PM
+361,5,1,373,0020300092,,,11:00,4,5,5,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,70 - 74,4,Miller  Layup (5 PTS) (Boykins 7 AST),10:36 PM
+362,1,2,374,0020300092,MISS Crawford 7' Jump Shot,,10:37,4,4,0,0,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:36 PM
+363,0,4,375,0020300092,Blount REBOUND (Off:3 Def:3),,10:36,4,4,0,0,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:36 PM
+364,1,2,376,0020300092,MISS Rose 21' Jump Shot,,10:33,4,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:36 PM
+365,0,4,377,0020300092,,,10:31,4,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene REBOUND (Off:1 Def:7),10:36 PM
+366,42,1,378,0020300092,,,10:24,4,5,5,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,72 - 74,2,Miller  Driving Layup (7 PTS) (Boykins 8 AST),10:36 PM
+367,2,6,379,0020300092,Rose S.FOUL (P2.T1),,10:24,4,4,0,1,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:36 PM
+368,0,8,380,0020300092,SUB: Pippen FOR Rose,,10:24,4,4,4,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:37 PM
+369,0,8,381,0020300092,SUB: Curry FOR Blount,,10:24,4,4,4,0,916,Corie Blount,CHI,Chicago,1610612741.0,Bulls,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:37 PM
+370,10,3,382,0020300092,,,10:24,4,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,73 - 74,1,Miller Free Throw 1 of 1 (8 PTS),10:37 PM
+371,1,5,383,0020300092,Crawford Bad Pass Turnover (P2.T20),,10:08,4,4,5,0,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Boykins STEAL (2 STL),10:37 PM
+372,5,1,384,0020300092,,,10:05,4,5,5,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,75 - 74,-1,Boykins  Layup (10 PTS) (Miller 1 AST),10:37 PM
+373,1,9,385,0020300092,BULLS Timeout: Regular (Full 4 Short 0),,10:04,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:37 PM
+374,0,8,387,0020300092,,,10:04,4,5,5,0,2401,Nikoloz Tskitishvili,DEN,Denver,1610612743.0,Nuggets,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Barry FOR Tskitishvili,10:39 PM
+375,0,8,388,0020300092,SUB: Gill FOR Robinson,,10:04,4,4,4,0,1944,Eddie Robinson,CHI,Chicago,1610612741.0,Bulls,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:39 PM
+376,4,6,389,0020300092,Curry OFF.Foul (P4),,9:56,4,4,0,1,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:40 PM
+377,5,5,390,0020300092,Curry Foul Turnover (P1.T21),,9:56,4,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:40 PM
+378,0,8,391,0020300092,SUB: Marshall FOR Baxter,,9:56,4,4,4,0,2437,Lonny Baxter,CHI,Chicago,1610612741.0,Bulls,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:40 PM
+379,42,1,392,0020300092,,,9:42,4,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,77 - 74,-3,Anthony  Driving Layup (19 PTS),10:40 PM
+380,1,2,393,0020300092,MISS Crawford  3PT Jump Shot,,9:24,4,4,0,0,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:41 PM
+381,0,4,395,0020300092,Gill REBOUND (Off:1 Def:2),,9:20,4,4,0,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:41 PM
+382,5,1,394,0020300092,Gill  Layup (14 PTS),,9:20,4,4,0,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,77 - 76,-1,,10:41 PM
+383,1,1,396,0020300092,,,9:03,4,5,5,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,80 - 76,-4,Barry 25' 3PT Jump Shot (18 PTS) (Anthony 3 AST),10:41 PM
+384,1,2,397,0020300092,MISS Gill 16' Jump Shot,,8:53,4,4,0,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:41 PM
+385,0,4,398,0020300092,,,8:51,4,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:4 Def:4),10:41 PM
+386,5,1,399,0020300092,,,8:40,4,5,5,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,82 - 76,-6,Miller  Layup (10 PTS) (Nene 1 AST),10:41 PM
+387,1,2,400,0020300092,MISS Crawford 26' 3PT Jump Shot,,8:12,4,4,0,0,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:42 PM
+388,0,4,401,0020300092,Curry REBOUND (Off:3 Def:5),,8:09,4,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:42 PM
+389,5,1,402,0020300092,Curry  Layup (18 PTS),,8:08,4,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,82 - 78,-4,,10:42 PM
+390,1,1,403,0020300092,,,7:56,4,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,84 - 78,-6,Miller 20' Jump Shot (12 PTS),10:42 PM
+391,2,6,404,0020300092,,,7:39,4,5,0,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony S.FOUL (P1.T1),10:43 PM
+392,11,3,405,0020300092,Crawford Free Throw 1 of 2 (5 PTS),,7:39,4,4,0,0,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,84 - 79,-5,,10:43 PM
+393,12,3,406,0020300092,Crawford Free Throw 2 of 2 (6 PTS),,7:39,4,4,0,0,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,84 - 80,-4,,10:43 PM
+394,1,1,407,0020300092,,,7:31,4,5,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,87 - 80,-7,Anthony 26' 3PT Jump Shot (22 PTS) (Barry 3 AST),10:43 PM
+395,2,9,408,0020300092,BULLS Timeout: Short (Full 4 Short 1),,7:29,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:43 PM
+396,8,5,409,0020300092,Curry 3 Second Violation Turnover (P2.T22),,7:12,4,4,0,1,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:45 PM
+397,1,2,410,0020300092,,,7:01,4,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony 15' Jump Shot,10:45 PM
+398,0,4,411,0020300092,Marshall REBOUND (Off:1 Def:3),,7:01,4,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:45 PM
+399,1,6,412,0020300092,,,7:01,4,5,0,1,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene P.FOUL (P4.T2),10:45 PM
+400,5,2,413,0020300092,MISS Marshall  Layup,,6:42,4,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:46 PM
+401,0,4,414,0020300092,,,6:41,4,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene REBOUND (Off:1 Def:8),10:46 PM
+402,2,6,415,0020300092,Curry S.FOUL (P5.T2),,6:37,4,4,0,1,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:46 PM
+403,11,3,416,0020300092,,,6:37,4,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,88 - 80,-8,Miller Free Throw 1 of 2 (13 PTS),10:46 PM
+404,0,8,417,0020300092,SUB: Hinrich FOR Crawford,,6:37,4,4,4,0,2037,Jamal Crawford,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:47 PM
+405,12,3,418,0020300092,,,6:37,4,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,89 - 80,-9,Miller Free Throw 2 of 2 (14 PTS),10:47 PM
+406,1,2,419,0020300092,MISS Hinrich 20' Jump Shot,,6:26,4,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:47 PM
+407,0,4,420,0020300092,,,6:24,4,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:2 Def:2),10:47 PM
+408,5,2,421,0020300092,,,6:21,4,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Boykins  Layup,10:47 PM
+409,0,4,422,0020300092,Curry REBOUND (Off:3 Def:6),,6:20,4,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:47 PM
+410,5,2,423,0020300092,MISS Hinrich  Layup,,6:13,4,4,0,5,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,,,Anthony BLOCK (1 BLK),10:47 PM
+411,0,4,424,0020300092,Marshall REBOUND (Off:2 Def:3),,6:12,4,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:47 PM
+412,2,6,425,0020300092,,,6:12,4,5,0,1,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Miller S.FOUL (P5.T3),10:47 PM
+413,11,3,426,0020300092,Marshall Free Throw 1 of 2 (8 PTS),,6:12,4,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,89 - 81,-8,,10:48 PM
+414,12,3,427,0020300092,MISS Marshall Free Throw 2 of 2,,6:12,4,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:48 PM
+415,0,4,428,0020300092,Marshall REBOUND (Off:3 Def:3),,6:09,4,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:48 PM
+416,5,1,429,0020300092,Marshall  Layup (10 PTS),,6:07,4,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,89 - 83,-6,,10:48 PM
+417,1,2,430,0020300092,,,5:57,4,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Miller 14' Jump Shot,10:48 PM
+418,0,4,431,0020300092,Marshall REBOUND (Off:3 Def:4),,5:55,4,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:48 PM
+419,5,1,432,0020300092,Curry  Layup (20 PTS) (Marshall 3 AST),,5:38,4,4,4,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,89 - 85,-4,,10:49 PM
+420,1,2,433,0020300092,,,5:18,4,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Boykins 11' Jump Shot,10:49 PM
+421,0,4,434,0020300092,,,5:16,4,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:3 Def:2),10:49 PM
+422,1,2,435,0020300092,,,5:14,4,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony 22' Jump Shot,10:49 PM
+423,0,4,436,0020300092,,,5:12,4,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene REBOUND (Off:2 Def:8),10:49 PM
+424,1,2,437,0020300092,,,4:54,4,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Miller 9' Jump Shot,10:49 PM
+425,0,4,438,0020300092,Pippen REBOUND (Off:0 Def:2),,4:52,4,4,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:49 PM
+426,7,1,439,0020300092,Marshall  Dunk (12 PTS) (Gill 2 AST),,4:48,4,4,4,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,89 - 87,-2,,10:49 PM
+427,2,6,440,0020300092,Marshall S.FOUL (P4.T3),,4:23,4,4,0,1,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:50 PM
+428,1,9,441,0020300092,,,4:23,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:50 PM
+429,11,3,443,0020300092,,,4:23,4,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,90 - 87,-3,Anthony Free Throw 1 of 2 (23 PTS),10:53 PM
+430,12,3,444,0020300092,,,4:23,4,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,91 - 87,-4,Anthony Free Throw 2 of 2 (24 PTS),10:53 PM
+431,1,2,445,0020300092,MISS Gill 22' Jump Shot,,4:06,4,4,0,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:53 PM
+432,0,4,446,0020300092,,,4:03,4,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Miller REBOUND (Off:3 Def:3),10:53 PM
+433,2,6,447,0020300092,Curry S.FOUL (P6.T4),,4:02,4,4,0,1,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:53 PM
+434,0,8,448,0020300092,SUB: Rose FOR Curry,,4:02,4,4,4,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:54 PM
+435,11,3,449,0020300092,,,4:02,4,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,92 - 87,-5,Miller Free Throw 1 of 2 (15 PTS),10:54 PM
+436,12,3,450,0020300092,,,4:02,4,5,0,0,1889,Andre Miller,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Miller Free Throw 2 of 2,10:54 PM
+437,0,4,452,0020300092,,,3:59,4,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene REBOUND (Off:3 Def:8),10:54 PM
+438,4,1,451,0020300092,,,3:59,4,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,94 - 87,-7,Nene  Tip Shot (8 PTS),10:54 PM
+439,42,1,453,0020300092,Hinrich  Driving Layup (8 PTS),,3:39,4,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,94 - 89,-5,,10:55 PM
+440,2,6,454,0020300092,,,3:39,4,5,0,1,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Boykins S.FOUL (P2.T4),10:55 PM
+441,10,3,455,0020300092,Hinrich Free Throw 1 of 1 (9 PTS),,3:39,4,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,94 - 90,-4,,10:55 PM
+442,1,2,456,0020300092,,,3:23,4,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Boykins 7' Jump Shot,10:55 PM
+443,0,4,457,0020300092,Marshall REBOUND (Off:3 Def:5),,3:22,4,4,0,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:55 PM
+444,5,2,458,0020300092,MISS Rose  Layup,,3:08,4,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:56 PM
+445,0,4,459,0020300092,,,3:07,4,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene REBOUND (Off:3 Def:9),10:56 PM
+446,2,6,460,0020300092,Hinrich S.FOUL (P3.PN),,3:04,4,4,0,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:56 PM
+447,11,3,461,0020300092,,,3:04,4,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,95 - 90,-5,Boykins Free Throw 1 of 2 (11 PTS),10:56 PM
+448,12,3,462,0020300092,,,3:04,4,5,0,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Boykins Free Throw 2 of 2,10:57 PM
+449,0,4,463,0020300092,Rose REBOUND (Off:1 Def:5),,3:02,4,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:57 PM
+450,1,1,464,0020300092,Pippen 23' Jump Shot (8 PTS),,2:47,4,4,0,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,95 - 92,-3,,10:57 PM
+451,5,1,465,0020300092,,,2:27,4,5,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,97 - 92,-5,Anthony  Layup (26 PTS) (Boykins 9 AST),10:57 PM
+452,1,1,466,0020300092,Gill 13' Jump Shot (16 PTS),,2:07,4,4,0,0,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,97 - 94,-3,,10:58 PM
+453,1,5,467,0020300092,Rose STEAL (1 STL),,1:36,4,5,4,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Boykins Bad Pass Turnover (P2.T17),10:58 PM
+454,2,5,468,0020300092,Marshall Lost Ball Turnover (P4.T23),,1:25,4,4,5,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Boykins STEAL (3 STL),10:59 PM
+455,2,5,469,0020300092,Gill STEAL (2 STL),,1:24,4,5,4,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Boykins Lost Ball Turnover (P3.T18),10:59 PM
+456,5,1,470,0020300092,Marshall  Layup (14 PTS) (Gill 3 AST),,1:23,4,4,4,0,923,Donyell Marshall,CHI,Chicago,1610612741.0,Bulls,383,Kendall Gill,CHI,Chicago,1610612741.0,Bulls,0,,,,,,97 - 96,-1,,10:59 PM
+457,1,2,471,0020300092,,,0:58,4,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony 16' Jump Shot,10:59 PM
+458,0,4,472,0020300092,Hinrich REBOUND (Off:0 Def:3),,0:58,4,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:59 PM
+459,1,6,473,0020300092,,,0:58,4,5,0,1,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Barry P.FOUL (P2.PN),10:59 PM
+460,1,9,474,0020300092,,,0:58,4,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.5 Short 1),10:59 PM
+461,11,3,475,0020300092,MISS Hinrich Free Throw 1 of 2,,0:58,4,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,11:02 PM
+462,1,4,476,0020300092,BULLS Rebound,,0:58,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,11:02 PM
+463,12,3,477,0020300092,Hinrich Free Throw 2 of 2 (10 PTS),,0:58,4,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,97 - 97,TIE,,11:02 PM
+464,1,1,478,0020300092,,,0:38,4,5,5,0,1863,Earl Boykins,DEN,Denver,1610612743.0,Nuggets,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,100 - 97,-3,Boykins 25' 3PT Jump Shot (14 PTS) (Barry 4 AST),11:02 PM
+465,1,9,479,0020300092,BULLS Timeout: Regular (Full 5 Short 1),,0:38,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,11:02 PM
+466,1,2,481,0020300092,MISS Hinrich 24' 3PT Jump Shot,,0:30,4,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,11:05 PM
+467,0,4,482,0020300092,,,0:30,4,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nene REBOUND (Off:3 Def:10),11:05 PM
+468,1,6,483,0020300092,Pippen P.FOUL (P2.PN),,0:30,4,4,0,1,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,11:05 PM
+469,11,3,484,0020300092,,,0:30,4,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,101 - 97,-4,Nene Free Throw 1 of 2 (9 PTS),11:05 PM
+470,12,3,485,0020300092,,,0:30,4,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,102 - 97,-5,Nene Free Throw 2 of 2 (10 PTS),11:06 PM
+471,1,9,486,0020300092,BULLS Timeout: Regular (Full 6 Short 1),,0:30,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,11:06 PM
+472,5,2,488,0020300092,MISS Rose  Layup,,0:25,4,4,0,0,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,11:08 PM
+473,0,4,489,0020300092,,,0:25,4,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,11:09 PM
+474,3,6,490,0020300092,Rose L.B.FOUL (P3.PN),,0:25,4,4,0,1,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,11:09 PM
+475,11,3,491,0020300092,,,0:25,4,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,103 - 97,-6,Nene Free Throw 1 of 2 (11 PTS),11:09 PM
+476,12,3,492,0020300092,,,0:25,4,5,0,0,2403,Nene,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,104 - 97,-7,Nene Free Throw 2 of 2 (12 PTS),11:09 PM
+477,1,5,493,0020300092,Hinrich Bad Pass Turnover (P4.T24),,0:18,4,4,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Barry STEAL (4 STL),11:10 PM
+478,1,6,494,0020300092,Rose P.FOUL (P4.PN),,0:17,4,4,0,1,147,Jalen Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,11:10 PM
+479,11,3,495,0020300092,,,0:17,4,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Barry Free Throw 1 of 2,11:10 PM
+480,1,4,496,0020300092,,,0:17,4,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,11:10 PM
+481,12,3,497,0020300092,,,0:17,4,5,0,0,468,Jon Barry,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,105 - 97,-8,Barry Free Throw 2 of 2 (19 PTS),11:10 PM
+482,1,5,498,0020300092,Pippen Bad Pass Turnover (P4.T25),,0:15,4,4,5,0,937,Scottie Pippen,CHI,Chicago,1610612741.0,Bulls,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Anthony STEAL (5 STL),11:11 PM
+483,0,13,499,0020300092,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,105 - 97,-8,,11:11 PM

@@ -1,0 +1,418 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020801128,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:13 PM
+1,0,10,1,0020801128,Jump Ball Gasol vs. Dampier: Tip to Kidd,,12:00,1,4,5,5,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,,,,8:13 PM
+2,1,5,2,0020801128,Gasol STEAL (1 STL),,11:45,1,5,4,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Nowitzki Bad Pass Turnover (P1.T1),8:14 PM
+3,5,2,3,0020801128,MISS Arthur  Layup,,11:38,1,4,0,5,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,,,Wright BLOCK (1 BLK),8:14 PM
+4,0,4,4,0020801128,Arthur REBOUND (Off:1 Def:0),,11:35,1,4,0,0,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:14 PM
+5,1,1,5,0020801128,Conley  3PT Jump Shot (3 PTS) (Gay 1 AST),,11:33,1,4,4,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0 - 3,3,,8:14 PM
+6,1,1,6,0020801128,,,11:12,1,5,5,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,2 - 3,1,Nowitzki 20' Jump Shot (2 PTS) (Kidd 1 AST),8:15 PM
+7,47,1,7,0020801128,Arthur 9' Turnaround Jump Shot (2 PTS),,10:53,1,4,0,0,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,2 - 5,3,,8:15 PM
+8,1,2,8,0020801128,,,10:40,1,5,0,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Kidd 25' 3PT Jump Shot,8:15 PM
+9,0,4,9,0020801128,Mayo REBOUND (Off:0 Def:1),,10:39,1,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:15 PM
+10,7,1,10,0020801128,Gay  Dunk (2 PTS) (Arthur 1 AST),,10:29,1,4,4,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,2 - 7,5,,8:15 PM
+11,79,1,11,0020801128,,,10:08,1,5,0,0,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,4 - 7,3,Wright 18' Pullup Jump Shot (2 PTS),8:16 PM
+12,11,5,12,0020801128,GRIZZLIES Turnover: Shot Clock (T#1),,9:41,1,2,0,1,1610612763,,,,,,0,,,,,,0,,,,,,,,,8:17 PM
+13,47,2,13,0020801128,,,9:32,1,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki 6' Turnaround Jump Shot,8:17 PM
+14,0,4,14,0020801128,,,9:30,1,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Rebound,8:17 PM
+15,1,2,15,0020801128,,,9:19,1,5,0,0,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Wright 8' Jump Shot,8:17 PM
+16,0,4,16,0020801128,Mayo REBOUND (Off:0 Def:2),,9:18,1,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:17 PM
+17,3,1,17,0020801128,Gasol 7' Hook Shot (2 PTS),,9:07,1,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,4 - 9,5,,8:17 PM
+18,5,1,18,0020801128,,,9:00,1,5,5,0,101189,James Singleton,DAL,Dallas,1610612742.0,Mavericks,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,6 - 9,3,Singleton  Layup (2 PTS) (Kidd 2 AST),8:18 PM
+19,1,1,19,0020801128,Gay  3PT Jump Shot (5 PTS) (Conley 1 AST),,8:40,1,4,4,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,6 - 12,6,,8:18 PM
+20,7,1,20,0020801128,,,8:29,1,5,5,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,8 - 12,4,Dampier  Dunk (2 PTS) (Kidd 3 AST),8:18 PM
+21,1,1,21,0020801128,Gasol 20' Jump Shot (4 PTS) (Conley 2 AST),,8:11,1,4,4,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,8 - 14,6,,8:18 PM
+22,1,2,22,0020801128,,,7:48,1,5,0,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Dampier 8' Jump Shot,8:19 PM
+23,0,4,23,0020801128,Conley REBOUND (Off:0 Def:1),,7:47,1,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:19 PM
+24,1,2,24,0020801128,MISS Mayo 25' 3PT Jump Shot,,7:36,1,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:19 PM
+25,0,4,25,0020801128,,,7:35,1,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:1),8:19 PM
+26,1,1,26,0020801128,,,7:22,1,5,5,0,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,101189,James Singleton,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,11 - 14,3,Wright  3PT Jump Shot (5 PTS) (Singleton 1 AST),8:19 PM
+27,47,2,27,0020801128,MISS Arthur 11' Turnaround Jump Shot,,7:01,1,4,0,0,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:20 PM
+28,0,4,29,0020801128,Gasol REBOUND (Off:1 Def:0),,6:58,1,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:20 PM
+29,4,1,28,0020801128,Gasol  Tip Shot (6 PTS),,6:58,1,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,11 - 16,5,,8:20 PM
+30,1,1,30,0020801128,,,6:41,1,5,5,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,14 - 16,2,Kidd 24' 3PT Jump Shot (3 PTS) (Wright 1 AST),8:20 PM
+31,78,2,31,0020801128,MISS Conley 8' Floating Jump Shot,,6:19,1,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:20 PM
+32,0,4,32,0020801128,,,6:15,1,5,0,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Dampier REBOUND (Off:0 Def:1),8:20 PM
+33,2,6,33,0020801128,Arthur S.FOUL (P1.T1),,6:10,1,4,5,1,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,8:20 PM
+34,11,3,34,0020801128,,,6:10,1,5,0,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,15 - 16,1,Dampier Free Throw 1 of 2 (3 PTS),8:21 PM
+35,1,9,36,0020801128,GRIZZLIES Timeout: Regular (Full 1 Short 0),,6:10,1,2,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,,8:21 PM
+36,12,3,38,0020801128,,,6:10,1,5,0,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,16 - 16,TIE,Dampier Free Throw 2 of 2 (4 PTS),8:23 PM
+37,79,1,40,0020801128,Gay 12' Pullup Jump Shot (7 PTS),,5:56,1,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,16 - 18,2,,8:24 PM
+38,71,1,41,0020801128,,,5:34,1,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,18 - 18,TIE,Nowitzki  Finger Roll Layup (4 PTS),8:24 PM
+39,2,6,42,0020801128,Arthur S.FOUL (P2.T2),,5:34,1,4,5,1,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,8:24 PM
+40,0,8,43,0020801128,SUB: Milicic FOR Arthur,,5:34,1,4,4,0,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,8:24 PM
+41,10,3,45,0020801128,,,5:34,1,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,19 - 18,-1,Nowitzki Free Throw 1 of 1 (5 PTS),8:25 PM
+42,1,6,47,0020801128,,,5:21,1,5,4,1,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Wright P.FOUL (P1.T1),8:25 PM
+43,0,8,48,0020801128,,,5:21,1,5,5,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Bass FOR Nowitzki,8:25 PM
+44,0,8,49,0020801128,,,5:21,1,5,5,0,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Terry FOR Wright,8:25 PM
+45,1,2,50,0020801128,MISS Conley 21' Jump Shot,,5:09,1,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:26 PM
+46,0,4,51,0020801128,,,5:07,1,5,0,0,101189,James Singleton,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Singleton REBOUND (Off:0 Def:1),8:26 PM
+47,2,6,52,0020801128,Gasol S.FOUL (P1.T3),,5:00,1,4,5,1,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,8:26 PM
+48,11,3,53,0020801128,,,5:00,1,5,0,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,20 - 18,-2,Dampier Free Throw 1 of 2 (5 PTS),8:26 PM
+49,12,3,55,0020801128,,,5:00,1,5,0,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Dampier Free Throw 2 of 2,8:26 PM
+50,0,4,57,0020801128,Milicic REBOUND (Off:0 Def:1),,5:00,1,4,0,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:27 PM
+51,1,5,58,0020801128,Milicic Bad Pass Turnover (P1.T2),,4:36,1,4,5,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,101189,James Singleton,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Singleton STEAL (1 STL),8:27 PM
+52,1,2,59,0020801128,,,4:27,1,5,0,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Bass 8' Jump Shot,8:27 PM
+53,0,4,60,0020801128,Gay REBOUND (Off:0 Def:1),,4:25,1,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:27 PM
+54,5,1,61,0020801128,Conley  Layup (5 PTS) (Gay 2 AST),,4:22,1,4,4,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,20 - 20,TIE,,8:27 PM
+55,5,1,62,0020801128,,,4:12,1,5,5,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,22 - 20,-2,Dampier  Layup (7 PTS) (Kidd 4 AST),8:27 PM
+56,2,6,63,0020801128,Milicic S.FOUL (P1.T4),,4:12,1,4,5,1,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,8:27 PM
+57,0,8,65,0020801128,SUB: Warrick FOR Milicic,,4:12,1,4,4,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,8:28 PM
+58,10,3,66,0020801128,,,4:12,1,5,0,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,23 - 20,-3,Dampier Free Throw 1 of 1 (8 PTS),8:28 PM
+59,66,1,68,0020801128,Gay 6' Jump Bank Shot (9 PTS),,3:54,1,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,23 - 22,-1,,8:29 PM
+60,7,1,69,0020801128,,,3:45,1,5,5,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,25 - 22,-3,Bass  Dunk (2 PTS) (Kidd 5 AST),8:29 PM
+61,2,5,70,0020801128,Gasol Lost Ball Turnover (P1.T3),,3:26,1,4,5,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Kidd STEAL (1 STL),8:29 PM
+62,7,1,71,0020801128,,,3:21,1,5,5,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,27 - 22,-5,Bass  Dunk (4 PTS) (Kidd 6 AST),8:29 PM
+63,1,2,72,0020801128,MISS Gasol 9' Jump Shot,,3:09,1,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:29 PM
+64,0,4,73,0020801128,,,3:09,1,5,0,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Dampier REBOUND (Off:0 Def:2),8:29 PM
+65,11,6,74,0020801128,,,3:09,1,6,0,1,201865,,,,,,0,,,,,,0,,,,,,,,,8:29 PM
+66,16,3,75,0020801128,,,3:09,1,5,0,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,28 - 22,-6,Terry Free Throw Technical (1 PTS),8:30 PM
+67,1,9,77,0020801128,,,3:09,1,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Timeout: Regular (Reg.1 Short 0),8:30 PM
+68,1,2,81,0020801128,,,2:51,1,5,0,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Kidd 26' 3PT Jump Shot,8:33 PM
+69,0,4,82,0020801128,,,2:49,1,5,0,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Kidd REBOUND (Off:1 Def:0),8:33 PM
+70,1,5,83,0020801128,Gasol STEAL (2 STL),,2:47,1,5,4,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Kidd Bad Pass Turnover (P1.T2),8:33 PM
+71,1,1,84,0020801128,Warrick 19' Jump Shot (2 PTS) (Conley 3 AST),,2:29,1,4,4,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,28 - 24,-4,,8:33 PM
+72,1,6,85,0020801128,Conley P.FOUL (P1.PN),,2:17,1,4,5,1,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,8:33 PM
+73,11,3,86,0020801128,,,2:17,1,5,0,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Kidd Free Throw 1 of 2,8:34 PM
+74,1,4,87,0020801128,,,2:17,1,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Rebound,8:34 PM
+75,0,8,88,0020801128,SUB: Jaric FOR Conley,,2:17,1,4,4,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,8:34 PM
+76,0,8,89,0020801128,SUB: Milicic FOR Gasol,,2:17,1,4,4,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,8:34 PM
+77,12,3,90,0020801128,,,2:17,1,5,0,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,29 - 24,-5,Kidd Free Throw 2 of 2 (4 PTS),8:34 PM
+78,63,2,92,0020801128,MISS Gay 11' Fadeaway Jumper,,2:01,1,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:34 PM
+79,0,4,93,0020801128,,,1:58,1,5,0,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Dampier REBOUND (Off:0 Def:3),8:34 PM
+80,1,1,94,0020801128,,,1:41,1,5,5,0,101189,James Singleton,DAL,Dallas,1610612742.0,Mavericks,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,32 - 24,-8,Singleton  3PT Jump Shot (5 PTS) (Terry 1 AST),8:35 PM
+81,63,1,95,0020801128,Jaric 9' Fadeaway Jumper (2 PTS),,1:29,1,4,0,0,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,32 - 26,-6,,8:35 PM
+82,1,2,96,0020801128,,,1:17,1,5,0,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Bass 19' Jump Shot,8:35 PM
+83,0,4,97,0020801128,Mayo REBOUND (Off:0 Def:3),,1:16,1,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:35 PM
+84,2,6,98,0020801128,,,1:14,1,5,4,1,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Bass S.FOUL (P1.T2),8:35 PM
+85,0,8,99,0020801128,,,1:14,1,5,5,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Barea FOR Kidd,8:36 PM
+86,0,8,100,0020801128,,,1:14,1,5,5,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Nowitzki FOR Dampier,8:36 PM
+87,11,3,101,0020801128,Warrick Free Throw 1 of 2 (3 PTS),,1:14,1,4,0,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,32 - 27,-5,,8:36 PM
+88,12,3,103,0020801128,MISS Warrick Free Throw 2 of 2,,1:14,1,4,0,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:36 PM
+89,0,4,105,0020801128,,,1:14,1,5,0,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Bass REBOUND (Off:0 Def:1),8:36 PM
+90,1,2,106,0020801128,,,1:01,1,5,0,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Bass 13' Jump Shot,8:36 PM
+91,0,4,107,0020801128,Mayo REBOUND (Off:0 Def:4),,1:00,1,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:36 PM
+92,1,2,108,0020801128,MISS Mayo 23' Jump Shot,,0:53,1,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:36 PM
+93,0,4,109,0020801128,,,0:52,1,5,0,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Bass REBOUND (Off:0 Def:2),8:36 PM
+94,5,2,110,0020801128,Milicic BLOCK (1 BLK),,0:41,1,5,0,4,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,,,MISS Terry 4' Layup,8:37 PM
+95,0,4,111,0020801128,Mayo REBOUND (Off:0 Def:5),,0:38,1,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:37 PM
+96,1,2,112,0020801128,MISS Mayo 20' Jump Shot,,0:32,1,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:37 PM
+97,0,4,113,0020801128,,,0:31,1,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:2),8:37 PM
+98,1,2,114,0020801128,,,0:05,1,5,0,0,101189,James Singleton,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Singleton 20' Jump Shot,8:37 PM
+99,0,4,115,0020801128,Jaric REBOUND (Off:0 Def:1),,0:04,1,4,0,0,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:37 PM
+100,1,5,116,0020801128,Jaric Bad Pass Turnover (P1.T4),,0:01,1,4,0,0,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:37 PM
+101,1,2,117,0020801128,,,0:00,1,5,0,0,101189,James Singleton,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Singleton  3PT Jump Shot,8:38 PM
+102,0,4,119,0020801128,,,0:00,1,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Rebound,8:38 PM
+103,0,13,118,0020801128,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,32 - 27,-5,,8:38 PM
+104,0,12,121,0020801128,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,32 - 27,-5,,8:40 PM
+105,1,2,122,0020801128,MISS Warrick 5' Jump Shot,,11:40,2,4,0,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:41 PM
+106,0,4,123,0020801128,Warrick REBOUND (Off:1 Def:0),,11:38,2,4,0,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:41 PM
+107,1,2,124,0020801128,MISS Warrick 9' Jump Shot,,11:35,2,4,0,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:41 PM
+108,0,4,125,0020801128,,,11:33,2,5,0,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Terry REBOUND (Off:0 Def:1),8:41 PM
+109,40,5,126,0020801128,,,11:19,2,5,0,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Bass Out of Bounds Lost Ball Turnover (P1.T3),8:41 PM
+110,78,1,127,0020801128,Gay 9' Floating Jump Shot (11 PTS),,11:03,2,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,32 - 29,-3,,8:42 PM
+111,5,1,128,0020801128,,,10:47,2,5,5,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,34 - 29,-5,Bass  Layup (6 PTS) (Barea 1 AST),8:42 PM
+112,2,6,129,0020801128,Milicic S.FOUL (P2.T1),,10:47,2,4,5,1,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,8:42 PM
+113,10,3,130,0020801128,,,10:47,2,5,0,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Bass Free Throw 1 of 1,8:42 PM
+114,0,4,132,0020801128,Warrick REBOUND (Off:1 Def:1),,10:46,2,4,0,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:42 PM
+115,1,6,133,0020801128,,,10:34,2,5,4,1,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Bass P.FOUL (P2.T1),8:43 PM
+116,0,8,134,0020801128,SUB: Arthur FOR Milicic,,10:34,2,4,4,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,8:43 PM
+117,1,2,135,0020801128,MISS Jaric 24' 3PT Jump Shot,,10:25,2,4,0,0,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:43 PM
+118,0,4,136,0020801128,,,10:24,2,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:3),8:43 PM
+119,1,1,137,0020801128,,,10:15,2,5,5,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,37 - 29,-8,Terry 25' 3PT Jump Shot (4 PTS) (Wright 2 AST),8:43 PM
+120,79,1,138,0020801128,Jaric 16' Pullup Jump Shot (4 PTS),,9:50,2,4,0,0,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,37 - 31,-6,,8:44 PM
+121,1,1,139,0020801128,,,9:24,2,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,39 - 31,-8,Nowitzki 19' Jump Shot (7 PTS),8:44 PM
+122,1,6,140,0020801128,,,9:13,2,5,4,1,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Nowitzki P.FOUL (P1.T2),8:44 PM
+123,1,1,141,0020801128,Jaric 24' 3PT Jump Shot (7 PTS) (Warrick 1 AST),,9:07,2,4,4,0,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,39 - 34,-5,,8:45 PM
+124,5,2,142,0020801128,,,8:40,2,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki  Layup,8:45 PM
+125,0,4,143,0020801128,,,8:37,2,5,0,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Bass REBOUND (Off:1 Def:2),8:45 PM
+126,7,1,144,0020801128,,,8:35,2,5,0,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,41 - 34,-7,Bass  Dunk (8 PTS),8:45 PM
+127,5,2,145,0020801128,MISS Warrick  Layup,,8:24,2,4,0,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:45 PM
+128,0,4,146,0020801128,Arthur REBOUND (Off:2 Def:0),,8:21,2,4,0,0,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:45 PM
+129,87,2,147,0020801128,MISS Arthur  Putback Dunk,,8:19,2,4,0,0,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:45 PM
+130,0,4,149,0020801128,Arthur REBOUND (Off:3 Def:0),,8:19,2,4,0,0,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:46 PM
+131,1,5,148,0020801128,Arthur Bad Pass Turnover (P1.T5),,8:19,2,4,0,0,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:46 PM
+132,4,9,150,0020801128,,,8:19,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:46 PM
+133,0,8,153,0020801128,SUB: Haddadi FOR Gay,,8:19,2,4,4,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,201632,Hamed Haddadi,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,8:48 PM
+134,0,8,154,0020801128,SUB: Mayo FOR Arthur,,8:19,2,4,4,0,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,8:48 PM
+135,0,8,155,0020801128,SUB: Buckner FOR Ross,,8:19,2,4,4,0,2624,Quinton Ross,MEM,Memphis,1610612763.0,Grizzlies,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,8:48 PM
+136,79,2,156,0020801128,,,8:04,2,5,0,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Terry 17' Pullup Jump Shot,8:49 PM
+137,0,4,157,0020801128,Buckner REBOUND (Off:0 Def:1),,8:01,2,4,0,0,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:49 PM
+138,1,1,158,0020801128,Mayo 22' Jump Shot (2 PTS) (Jaric 1 AST),,7:49,2,4,4,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,41 - 36,-5,,8:49 PM
+139,63,1,159,0020801128,,,7:32,2,5,0,0,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,43 - 36,-7,Barea 9' Fadeaway Jumper (2 PTS),8:49 PM
+140,1,2,160,0020801128,MISS Jaric 11' Jump Shot,,7:10,2,4,0,0,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:49 PM
+141,0,4,161,0020801128,,,7:08,2,5,0,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Bass REBOUND (Off:1 Def:3),8:49 PM
+142,41,2,162,0020801128,,,7:02,2,5,0,0,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Wright  Running Layup,8:50 PM
+143,0,4,163,0020801128,Haddadi REBOUND (Off:0 Def:1),,6:58,2,4,0,0,201632,Hamed Haddadi,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:50 PM
+144,43,1,164,0020801128,Warrick  Alley Oop Layup (5 PTS) (Jaric 2 AST),,6:46,2,4,4,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,43 - 38,-5,,8:50 PM
+145,0,8,165,0020801128,SUB: Conley FOR Jaric,,6:33,2,4,4,0,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,8:50 PM
+146,1,1,166,0020801128,,,6:27,2,5,0,0,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,45 - 38,-7,Barea 21' Jump Shot (4 PTS),8:50 PM
+147,4,6,167,0020801128,Buckner OFF.Foul (P1),,6:00,2,4,5,1,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,8:51 PM
+148,5,5,168,0020801128,Buckner Foul Turnover (P1.T6),,6:00,2,4,0,1,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:51 PM
+149,42,1,169,0020801128,,,5:48,2,5,0,0,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,47 - 38,-9,Barea  Driving Layup (6 PTS),8:51 PM
+150,1,9,170,0020801128,GRIZZLIES Timeout: Regular (Full 2 Short 0),,5:42,2,2,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,,8:52 PM
+151,0,8,173,0020801128,SUB: Gasol FOR Haddadi,,5:42,2,4,4,0,201632,Hamed Haddadi,MEM,Memphis,1610612763.0,Grizzlies,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,8:54 PM
+152,0,8,174,0020801128,,,5:42,2,5,5,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Dampier FOR Bass,8:54 PM
+153,1,1,175,0020801128,Mayo 26' 3PT Jump Shot (5 PTS),,5:30,2,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,47 - 41,-6,,8:55 PM
+154,1,1,176,0020801128,,,5:16,2,5,5,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,50 - 41,-9,Terry 24' 3PT Jump Shot (7 PTS) (Barea 2 AST),8:55 PM
+155,1,1,177,0020801128,Mayo 22' Jump Shot (7 PTS) (Conley 4 AST),,5:02,2,4,4,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,50 - 43,-7,,8:55 PM
+156,2,6,178,0020801128,Warrick S.FOUL (P1.T2),,4:38,2,4,5,1,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,8:56 PM
+157,0,8,179,0020801128,,,4:38,2,5,5,0,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Kidd FOR Wright,8:56 PM
+158,0,8,180,0020801128,SUB: Jaric FOR Buckner,,4:38,2,4,4,0,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,8:56 PM
+159,11,3,181,0020801128,,,4:38,2,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,51 - 43,-8,Nowitzki Free Throw 1 of 2 (8 PTS),8:56 PM
+160,12,3,183,0020801128,,,4:38,2,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,52 - 43,-9,Nowitzki Free Throw 2 of 2 (9 PTS),8:56 PM
+161,1,1,185,0020801128,Conley 26' 3PT Jump Shot (8 PTS) (Mayo 1 AST),,4:26,2,4,4,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,52 - 46,-6,,8:57 PM
+162,1,1,186,0020801128,,,4:05,2,5,5,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,54 - 46,-8,Kidd 21' Jump Shot (6 PTS) (Barea 3 AST),8:57 PM
+163,80,1,187,0020801128,Mayo 23' Step Back Jump Shot (9 PTS),,3:50,2,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,54 - 48,-6,,8:57 PM
+164,79,2,188,0020801128,,,3:23,2,5,0,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Kidd 19' Pullup Jump Shot,8:58 PM
+165,0,4,189,0020801128,Warrick REBOUND (Off:1 Def:2),,3:20,2,4,0,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:58 PM
+166,79,2,190,0020801128,MISS Mayo 21' Pullup Jump Shot,,3:10,2,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:58 PM
+167,0,4,191,0020801128,,,3:07,2,5,0,0,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Barea REBOUND (Off:0 Def:1),8:58 PM
+168,1,2,192,0020801128,,,2:50,2,5,0,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Terry 27' 3PT Jump Shot,8:58 PM
+169,0,4,193,0020801128,Gasol REBOUND (Off:1 Def:1),,2:48,2,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,8:58 PM
+170,42,1,194,0020801128,Jaric  Driving Layup (9 PTS) (Mayo 2 AST),,2:45,2,4,4,0,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,54 - 50,-4,,8:58 PM
+171,2,6,195,0020801128,,,2:45,2,5,4,1,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Barea S.FOUL (P1.T3),8:58 PM
+172,1,9,196,0020801128,,,2:45,2,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Timeout: Regular (Reg.2 Short 0),8:59 PM
+173,0,8,198,0020801128,,,2:45,2,5,5,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Bass FOR Nowitzki,9:00 PM
+174,0,8,199,0020801128,SUB: Gay FOR Warrick,,2:45,2,4,4,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,9:01 PM
+175,10,3,200,0020801128,Jaric Free Throw 1 of 1 (10 PTS),,2:45,2,4,0,0,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,54 - 51,-3,,9:01 PM
+176,84,1,202,0020801128,,,2:30,2,5,0,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,56 - 51,-5,Terry 6' Running Bank Shot (9 PTS),9:02 PM
+177,2,6,203,0020801128,,,2:13,2,5,4,1,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Dampier S.FOUL (P1.T4),9:02 PM
+178,11,3,204,0020801128,Gay Free Throw 1 of 2 (12 PTS),,2:13,2,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,56 - 52,-4,,9:02 PM
+179,12,3,206,0020801128,Gay Free Throw 2 of 2 (13 PTS),,2:13,2,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,56 - 53,-3,,9:03 PM
+180,2,6,209,0020801128,Jaric S.FOUL (P1.T3),,1:59,2,4,5,1,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,9:03 PM
+181,11,3,211,0020801128,,,1:59,2,5,0,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,57 - 53,-4,Dampier Free Throw 1 of 2 (9 PTS),9:03 PM
+182,12,3,213,0020801128,,,1:59,2,5,0,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,58 - 53,-5,Dampier Free Throw 2 of 2 (10 PTS),9:04 PM
+183,2,6,215,0020801128,,,1:40,2,5,4,1,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Dampier S.FOUL (P2.PN),9:04 PM
+184,11,3,216,0020801128,Gasol Free Throw 1 of 2 (7 PTS),,1:40,2,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,58 - 54,-4,,9:05 PM
+185,0,8,218,0020801128,,,1:40,2,5,5,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Nowitzki FOR Bass,9:05 PM
+186,12,3,219,0020801128,Gasol Free Throw 2 of 2 (8 PTS),,1:40,2,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,58 - 55,-3,,9:05 PM
+187,2,6,221,0020801128,Gay S.FOUL (P1.PN),,1:28,2,4,5,1,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,9:06 PM
+188,11,3,222,0020801128,,,1:28,2,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki Free Throw 1 of 2,9:06 PM
+189,1,4,223,0020801128,,,1:28,2,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Rebound,9:06 PM
+190,12,3,224,0020801128,,,1:28,2,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,59 - 55,-4,Nowitzki Free Throw 2 of 2 (10 PTS),9:06 PM
+191,79,1,226,0020801128,Conley 19' Pullup Jump Shot (10 PTS),,1:14,2,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,59 - 57,-2,,9:07 PM
+192,2,9,227,0020801128,,,1:07,2,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Timeout: Short (Reg.2 Short 1),9:07 PM
+193,63,2,231,0020801128,,,0:54,2,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki 7' Fadeaway Jumper,9:08 PM
+194,0,4,232,0020801128,Jaric REBOUND (Off:0 Def:2),,0:51,2,4,0,0,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:08 PM
+195,1,1,233,0020801128,Gay 12' Jump Shot (15 PTS),,0:36,2,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,59 - 59,TIE,,9:09 PM
+196,78,1,234,0020801128,,,0:24,2,5,0,0,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,61 - 59,-2,Barea 7' Floating Jump Shot (8 PTS),9:09 PM
+197,2,9,235,0020801128,GRIZZLIES Timeout: Short (Full 2 Short 1),,0:19,2,2,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,,9:09 PM
+198,0,8,236,0020801128,,,0:19,2,5,5,0,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,101189,James Singleton,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Singleton FOR Barea,9:10 PM
+199,1,1,238,0020801128,Gasol 7' Jump Shot (10 PTS),,0:06,2,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,61 - 61,TIE,,9:11 PM
+200,1,2,239,0020801128,Jaric BLOCK (1 BLK),,0:00,2,5,0,4,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,,,MISS Nowitzki 27' 3PT Jump Shot,9:11 PM
+201,0,4,240,0020801128,Jaric REBOUND (Off:0 Def:3),,0:00,2,4,0,0,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:11 PM
+202,0,13,241,0020801128,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,61 - 61,TIE,,9:11 PM
+203,0,12,243,0020801128,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,61 - 61,TIE,,9:28 PM
+204,1,2,244,0020801128,MISS Mayo 21' Jump Shot,,11:43,3,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:28 PM
+205,0,4,245,0020801128,Gasol REBOUND (Off:2 Def:1),,11:41,3,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:28 PM
+206,2,9,246,0020801128,GRIZZLIES Timeout: Short (Full 2 Short 2),,11:22,3,2,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,,9:29 PM
+207,1,2,247,0020801128,MISS Gasol 21' Jump Shot,,11:16,3,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:30 PM
+208,0,4,248,0020801128,,,11:15,3,5,0,0,101189,James Singleton,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Singleton REBOUND (Off:0 Def:2),9:30 PM
+209,1,5,249,0020801128,Conley STEAL (1 STL),,11:00,3,5,4,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Nowitzki Bad Pass Turnover (P2.T4),9:30 PM
+210,52,1,250,0020801128,Arthur  Alley Oop Dunk (4 PTS) (Conley 5 AST),,10:55,3,4,4,0,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,61 - 63,2,,9:30 PM
+211,42,1,251,0020801128,,,10:39,3,5,0,0,101189,James Singleton,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,63 - 63,TIE,Singleton  Driving Layup (7 PTS),9:30 PM
+212,2,6,252,0020801128,,,10:16,3,5,4,1,101189,James Singleton,DAL,Dallas,1610612742.0,Mavericks,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Singleton S.FOUL (P1.T1),9:31 PM
+213,11,3,253,0020801128,Gay Free Throw 1 of 2 (16 PTS),,10:16,3,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,63 - 64,1,,9:32 PM
+214,12,3,255,0020801128,MISS Gay Free Throw 2 of 2,,10:16,3,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:32 PM
+215,0,4,257,0020801128,,,10:14,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:4),9:32 PM
+216,40,2,258,0020801128,Arthur BLOCK (1 BLK),,10:01,3,5,0,4,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,,,MISS Wright 4' Layup,9:32 PM
+217,0,4,281,0020801128,Mayo REBOUND (Off:0 Def:6),,10:01,3,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:32 PM
+218,2,5,259,0020801128,Gasol Lost Ball Turnover (P2.T7),,9:45,3,4,5,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Wright STEAL (1 STL),9:33 PM
+219,63,1,260,0020801128,,,9:30,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,65 - 64,-1,Nowitzki 14' Fadeaway Jumper (12 PTS),9:33 PM
+220,79,1,261,0020801128,Gay 20' Pullup Jump Shot (18 PTS),,9:07,3,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,65 - 66,1,,9:33 PM
+221,1,2,262,0020801128,,,8:42,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki 8' Jump Shot,9:34 PM
+222,0,4,263,0020801128,Gasol REBOUND (Off:2 Def:2),,8:41,3,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:34 PM
+223,1,1,264,0020801128,Arthur 22' Jump Shot (6 PTS),,8:23,3,4,0,0,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,65 - 68,3,,9:34 PM
+224,63,2,265,0020801128,,,7:59,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki 13' Fadeaway Jumper,9:34 PM
+225,0,4,266,0020801128,Gasol REBOUND (Off:2 Def:3),,7:57,3,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:34 PM
+226,42,2,267,0020801128,MISS Conley  Driving Layup,,7:42,3,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:35 PM
+227,0,4,268,0020801128,,,7:39,3,5,0,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Dampier REBOUND (Off:0 Def:4),9:35 PM
+228,1,5,269,0020801128,Gay STEAL (1 STL),,7:38,3,5,4,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Dampier Bad Pass Turnover (P1.T5),9:35 PM
+229,2,6,270,0020801128,,,7:38,3,5,4,1,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Dampier S.FOUL (P3.T2),9:35 PM
+230,11,3,271,0020801128,Gay Free Throw 1 of 2 (19 PTS),,7:38,3,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,65 - 69,4,,9:35 PM
+231,12,3,273,0020801128,MISS Gay Free Throw 2 of 2,,7:38,3,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:35 PM
+232,0,4,275,0020801128,,,7:37,3,5,0,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Dampier REBOUND (Off:0 Def:5),9:35 PM
+233,47,2,276,0020801128,,,7:22,3,5,0,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Kidd 8' Turnaround Jump Shot,9:36 PM
+234,0,4,277,0020801128,Gay REBOUND (Off:0 Def:2),,7:20,3,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:36 PM
+235,1,1,278,0020801128,Conley 25' 3PT Jump Shot (13 PTS) (Gay 3 AST),,7:14,3,4,4,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,65 - 72,7,,9:36 PM
+236,1,9,279,0020801128,,,7:13,3,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Timeout: Regular (Reg.3 Short 1),9:36 PM
+237,0,8,282,0020801128,,,7:13,3,5,5,0,101189,James Singleton,DAL,Dallas,1610612742.0,Mavericks,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Terry FOR Singleton,9:38 PM
+238,1,1,284,0020801128,,,6:49,3,5,5,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,68 - 72,4,Kidd 26' 3PT Jump Shot (9 PTS) (Nowitzki 1 AST),9:39 PM
+239,79,2,285,0020801128,MISS Gay 12' Pullup Jump Shot,,6:28,3,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:39 PM
+240,0,4,286,0020801128,,,6:26,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:5),9:39 PM
+241,1,2,287,0020801128,,,6:13,3,5,0,0,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Wright  3PT Jump Shot,9:40 PM
+242,0,4,288,0020801128,Mayo REBOUND (Off:0 Def:7),,6:12,3,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:40 PM
+243,79,1,289,0020801128,Mayo 18' Pullup Jump Shot (11 PTS),,6:04,3,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,68 - 74,6,,9:40 PM
+244,1,2,290,0020801128,,,5:46,3,5,0,0,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Wright  3PT Jump Shot,9:40 PM
+245,0,4,291,0020801128,Arthur REBOUND (Off:3 Def:1),,5:44,3,4,0,0,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:40 PM
+246,1,2,292,0020801128,MISS Conley 14' Jump Shot,,5:34,3,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:40 PM
+247,0,4,293,0020801128,Gasol REBOUND (Off:3 Def:3),,5:33,3,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:40 PM
+248,79,2,294,0020801128,MISS Gay 17' Pullup Jump Shot,,5:29,3,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:40 PM
+249,0,4,295,0020801128,,,5:26,3,5,0,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Kidd REBOUND (Off:1 Def:1),9:40 PM
+250,5,1,296,0020801128,,,5:22,3,5,5,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,70 - 74,4,Nowitzki  Layup (14 PTS) (Kidd 7 AST),9:40 PM
+251,2,6,297,0020801128,Mayo S.FOUL (P1.T1),,5:22,3,4,5,1,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,9:40 PM
+252,10,3,298,0020801128,,,5:22,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki Free Throw 1 of 1,9:41 PM
+253,0,4,300,0020801128,Gasol REBOUND (Off:3 Def:4),,5:20,3,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:41 PM
+254,5,2,301,0020801128,MISS Arthur  Layup,,5:02,3,4,0,5,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,,,Nowitzki BLOCK (1 BLK),9:41 PM
+255,0,4,302,0020801128,Gasol REBOUND (Off:4 Def:4),,5:00,3,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:41 PM
+256,1,6,303,0020801128,,,4:56,3,5,4,1,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Kidd P.FOUL (P1.T3),9:41 PM
+257,1,6,305,0020801128,,,4:44,3,5,4,1,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Dampier P.FOUL (P4.T4),9:43 PM
+258,0,8,306,0020801128,SUB: Warrick FOR Arthur,,4:44,3,4,4,0,201589,Darrell Arthur,MEM,Memphis,1610612763.0,Grizzlies,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,9:43 PM
+259,0,8,307,0020801128,,,4:44,3,5,5,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Bass FOR Dampier,9:43 PM
+260,2,6,308,0020801128,,,4:35,3,5,4,1,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Terry S.FOUL (P1.PN),9:44 PM
+261,11,3,309,0020801128,MISS Mayo Free Throw 1 of 2,,4:35,3,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:44 PM
+262,1,4,310,0020801128,GRIZZLIES Rebound,,4:35,3,2,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,,9:44 PM
+263,12,3,311,0020801128,Mayo Free Throw 2 of 2 (12 PTS),,4:35,3,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,70 - 75,5,,9:44 PM
+264,79,1,313,0020801128,,,4:16,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,72 - 75,3,Nowitzki 14' Pullup Jump Shot (16 PTS),9:45 PM
+265,1,1,314,0020801128,Conley 22' Jump Shot (15 PTS),,3:48,3,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,72 - 77,5,,9:45 PM
+266,0,18,328,0020801128,,,3:48,3,0,0,1,0,,,,,,0,,,,,,0,,,,,,72 - 77,5,,9:45 PM
+267,5,1,315,0020801128,,,3:35,3,5,5,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,74 - 77,3,Bass  Layup (10 PTS) (Wright 3 AST),9:45 PM
+268,1,2,316,0020801128,MISS Mayo 26' 3PT Jump Shot,,3:20,3,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:46 PM
+269,0,4,317,0020801128,,,3:19,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:6),9:46 PM
+270,5,1,318,0020801128,,,3:06,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,76 - 77,1,Nowitzki  Layup (18 PTS),9:46 PM
+271,2,6,319,0020801128,Warrick S.FOUL (P2.T2),,3:06,3,4,5,1,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,9:46 PM
+272,10,3,320,0020801128,,,3:06,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,77 - 77,TIE,Nowitzki Free Throw 1 of 1 (19 PTS),9:49 PM
+273,1,2,322,0020801128,MISS Gasol 7' Jump Shot,,2:49,3,4,0,5,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,,,Wright BLOCK (2 BLK),9:49 PM
+274,0,4,324,0020801128,GRIZZLIES Rebound,,2:49,3,2,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,,9:49 PM
+275,3,6,323,0020801128,Gasol L.B.FOUL (P2.T3),,2:49,3,4,5,1,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,9:49 PM
+276,5,5,325,0020801128,Gasol Foul Turnover (P3.T8),,2:49,3,4,0,1,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:49 PM
+277,1,9,327,0020801128,GRIZZLIES Timeout: Regular (Full 3 Short 2),,2:49,3,2,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,,9:50 PM
+278,63,1,329,0020801128,,,2:32,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,79 - 77,-2,Nowitzki 19' Fadeaway Jumper (21 PTS),9:52 PM
+279,0,8,330,0020801128,SUB: Buckner FOR Warrick,,2:26,3,4,4,0,101124,Hakim Warrick,MEM,Memphis,1610612763.0,Grizzlies,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,9:53 PM
+280,1,6,331,0020801128,,,2:14,3,5,4,1,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Bass P.FOUL (P3.PN),9:53 PM
+281,11,3,332,0020801128,Gasol Free Throw 1 of 2 (11 PTS),,2:14,3,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,79 - 78,-1,,9:53 PM
+282,12,3,334,0020801128,MISS Gasol Free Throw 2 of 2,,2:14,3,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:54 PM
+283,0,4,336,0020801128,,,2:08,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:7),9:54 PM
+284,41,1,337,0020801128,,,2:00,3,5,5,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,81 - 78,-3,Nowitzki  Running Layup (23 PTS) (Kidd 8 AST),9:54 PM
+285,1,6,338,0020801128,,,1:47,3,5,4,1,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Bass P.FOUL (P4.PN),9:54 PM
+286,11,3,339,0020801128,MISS Gasol Free Throw 1 of 2,,1:47,3,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:54 PM
+287,1,4,340,0020801128,GRIZZLIES Rebound,,1:47,3,2,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,,9:54 PM
+288,0,8,341,0020801128,,,1:47,3,5,5,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Dampier FOR Bass,9:55 PM
+289,12,3,343,0020801128,MISS Gasol Free Throw 2 of 2,,1:47,3,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:55 PM
+290,0,4,345,0020801128,Gay REBOUND (Off:1 Def:2),,1:46,3,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:55 PM
+291,1,1,346,0020801128,Gasol 10' Jump Shot (13 PTS),,1:26,3,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,81 - 80,-1,,9:56 PM
+292,63,1,347,0020801128,,,1:07,3,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,83 - 80,-3,Nowitzki 12' Fadeaway Jumper (25 PTS),9:56 PM
+293,80,1,349,0020801128,Conley 21' Step Back Jump Shot (17 PTS),,0:40,3,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,83 - 82,-1,,9:56 PM
+294,1,1,351,0020801128,,,0:30,3,5,5,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,85 - 82,-3,Nowitzki 18' Jump Shot (27 PTS) (Kidd 9 AST),9:57 PM
+295,40,5,353,0020801128,Mayo Out of Bounds Lost Ball Turnover (P1.T9),,0:23,3,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:57 PM
+296,0,8,354,0020801128,SUB: Milicic FOR Gasol,,0:23,3,4,4,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,9:57 PM
+297,1,2,356,0020801128,Gay BLOCK (1 BLK),,0:02,3,5,0,4,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,,,MISS Nowitzki 14' Jump Shot,9:58 PM
+298,0,4,357,0020801128,Gay REBOUND (Off:1 Def:3),,0:00,3,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,9:58 PM
+299,71,1,358,0020801128,Gay  Finger Roll Layup (21 PTS),,0:00,3,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,85 - 84,-1,,9:58 PM
+300,0,18,362,0020801128,,,0:00,3,0,0,1,0,,,,,,0,,,,,,0,,,,,,85 - 84,-1,,9:58 PM
+301,0,13,359,0020801128,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,85 - 84,-1,,9:58 PM
+302,0,12,364,0020801128,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,85 - 84,-1,,10:01 PM
+303,2,6,365,0020801128,Conley S.FOUL (P2.T1),,11:43,4,4,5,1,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,10:01 PM
+304,11,3,366,0020801128,,,11:43,4,5,0,0,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,86 - 84,-2,Barea Free Throw 1 of 2 (9 PTS),10:01 PM
+305,12,3,368,0020801128,,,11:43,4,5,0,0,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,87 - 84,-3,Barea Free Throw 2 of 2 (10 PTS),10:01 PM
+306,1,6,370,0020801128,,,11:31,4,5,4,1,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Wright P.FOUL (P2.T1),10:02 PM
+307,0,8,371,0020801128,SUB: Jaric FOR Mayo,,11:31,4,4,4,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:02 PM
+308,0,8,372,0020801128,,,11:31,4,5,5,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Bass FOR Dampier,10:02 PM
+309,42,2,373,0020801128,MISS Buckner  Driving Layup,,11:17,4,4,0,0,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:03 PM
+310,0,4,374,0020801128,,,11:14,4,5,0,0,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Barea REBOUND (Off:0 Def:2),10:03 PM
+311,1,2,375,0020801128,,,11:07,4,5,0,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Terry 25' 3PT Jump Shot,10:03 PM
+312,0,4,376,0020801128,GRIZZLIES Rebound,,11:06,4,2,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,,10:03 PM
+313,80,1,377,0020801128,Conley 24' 3PT Step Back Jump Shot (20 PTS),,10:44,4,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,87 - 87,TIE,,10:04 PM
+314,1,1,378,0020801128,,,10:17,4,5,5,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,89 - 87,-2,Nowitzki 17' Jump Shot (29 PTS) (Barea 4 AST),10:04 PM
+315,79,1,379,0020801128,Conley 16' Pullup Jump Shot (22 PTS),,10:02,4,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,89 - 89,TIE,,10:04 PM
+316,1,2,380,0020801128,,,9:41,4,5,0,0,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Wright 25' 3PT Jump Shot,10:05 PM
+317,0,4,381,0020801128,,,9:39,4,5,0,0,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Wright REBOUND (Off:1 Def:0),10:05 PM
+318,1,1,382,0020801128,,,9:27,4,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,91 - 89,-2,Nowitzki 12' Jump Shot (31 PTS),10:05 PM
+319,2,6,383,0020801128,Buckner S.FOUL (P2.T2),,9:27,4,4,5,1,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,10:05 PM
+320,0,8,384,0020801128,SUB: Mayo FOR Conley,,9:27,4,4,4,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:05 PM
+321,10,3,385,0020801128,,,9:27,4,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,92 - 89,-3,Nowitzki Free Throw 1 of 1 (32 PTS),10:05 PM
+322,4,6,387,0020801128,Jaric OFF.Foul (P2),,9:08,4,4,5,1,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,10:06 PM
+323,5,5,388,0020801128,Jaric Foul Turnover (P2.T10),,9:08,4,4,0,1,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:06 PM
+324,0,8,389,0020801128,,,9:08,4,5,5,0,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Kidd FOR Wright,10:06 PM
+325,1,5,390,0020801128,,,8:52,4,5,0,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Bass Bad Pass Turnover (P2.T6),10:07 PM
+326,4,9,391,0020801128,,,8:52,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:07 PM
+327,0,8,393,0020801128,,,8:52,4,5,5,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,101189,James Singleton,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Singleton FOR Nowitzki,10:09 PM
+328,79,1,395,0020801128,Gay 12' Pullup Jump Shot (23 PTS),,8:33,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,92 - 91,-1,,10:10 PM
+329,1,2,396,0020801128,,,8:09,4,5,0,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Bass 15' Jump Shot,10:10 PM
+330,0,4,397,0020801128,Buckner REBOUND (Off:0 Def:2),,8:08,4,4,0,0,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:10 PM
+331,1,2,398,0020801128,MISS Gay 21' Jump Shot,,7:48,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:11 PM
+332,0,4,399,0020801128,,,7:46,4,5,0,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Bass REBOUND (Off:1 Def:4),10:11 PM
+333,1,2,400,0020801128,,,7:28,4,5,0,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Terry  3PT Jump Shot,10:11 PM
+334,0,4,401,0020801128,Gay REBOUND (Off:1 Def:4),,7:26,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:11 PM
+335,5,1,402,0020801128,Buckner  Layup (2 PTS) (Jaric 3 AST),,7:03,4,4,4,0,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,92 - 93,1,,10:11 PM
+336,1,9,403,0020801128,,,6:56,4,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Timeout: Regular (Reg.4 Short 1),10:12 PM
+337,0,8,405,0020801128,,,6:56,4,5,5,0,101189,James Singleton,DAL,Dallas,1610612742.0,Mavericks,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Dampier FOR Singleton,10:14 PM
+338,0,8,406,0020801128,,,6:56,4,5,5,0,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Nowitzki FOR Bass,10:14 PM
+339,0,8,407,0020801128,SUB: Gasol FOR Gay,,6:56,4,4,4,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:14 PM
+340,0,8,408,0020801128,SUB: Conley FOR Milicic,,6:56,4,4,4,0,2545,Darko Milicic,MEM,Memphis,1610612763.0,Grizzlies,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:14 PM
+341,5,1,409,0020801128,,,6:49,4,5,5,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,94 - 93,-1,Nowitzki  Layup (34 PTS) (Kidd 10 AST),10:14 PM
+342,79,1,410,0020801128,Conley 21' Pullup Jump Shot (24 PTS),,6:32,4,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,94 - 95,1,,10:14 PM
+343,1,2,411,0020801128,,,6:10,4,5,0,0,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Barea 21' Jump Shot,10:15 PM
+344,0,4,413,0020801128,GRIZZLIES Rebound,,6:10,4,2,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,,10:15 PM
+345,3,6,412,0020801128,,,6:10,4,5,4,1,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Dampier L.B.FOUL (P5.T2),10:15 PM
+346,0,8,415,0020801128,SUB: Gay FOR Buckner,,6:04,4,4,4,0,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:15 PM
+347,1,2,416,0020801128,MISS Jaric  3PT Jump Shot,,5:46,4,4,0,0,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:16 PM
+348,0,4,417,0020801128,Gay REBOUND (Off:2 Def:4),,5:43,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:16 PM
+349,79,1,418,0020801128,Mayo 15' Pullup Jump Shot (14 PTS),,5:27,4,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,94 - 97,3,,10:16 PM
+350,1,5,419,0020801128,Conley STEAL (2 STL),,5:11,4,5,4,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Kidd Bad Pass Turnover (P2.T7),10:16 PM
+351,1,6,420,0020801128,,,5:09,4,5,4,1,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Nowitzki P.FOUL (P2.T3),10:16 PM
+352,0,8,421,0020801128,,,5:09,4,5,5,0,200826,J.J. Barea,DAL,Dallas,1610612742.0,Mavericks,101120,Antoine Wright,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Wright FOR Barea,10:17 PM
+353,78,2,422,0020801128,MISS Gay 9' Floating Jump Shot,,4:55,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:17 PM
+354,0,4,423,0020801128,,,4:51,4,5,0,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Kidd REBOUND (Off:1 Def:2),10:17 PM
+355,5,2,424,0020801128,,,4:47,4,5,0,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Kidd  Layup,10:17 PM
+356,0,4,425,0020801128,Gay REBOUND (Off:2 Def:5),,4:46,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:17 PM
+357,1,2,426,0020801128,MISS Conley 25' 3PT Jump Shot,,4:30,4,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:17 PM
+358,0,4,427,0020801128,,,4:28,4,5,0,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Kidd REBOUND (Off:1 Def:3),10:17 PM
+359,63,1,428,0020801128,,,4:19,4,5,0,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,96 - 97,1,Terry 8' Fadeaway Jumper (11 PTS),10:18 PM
+360,1,9,429,0020801128,GRIZZLIES Timeout: Regular (Full 4 Short 2),,4:19,4,2,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,,10:18 PM
+361,1,2,433,0020801128,MISS Mayo 19' Jump Shot,,4:01,4,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:21 PM
+362,0,4,434,0020801128,,,3:59,4,5,0,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Terry REBOUND (Off:0 Def:2),10:21 PM
+363,1,2,435,0020801128,,,3:46,4,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki 16' Jump Shot,10:21 PM
+364,0,4,436,0020801128,Gasol REBOUND (Off:4 Def:5),,3:45,4,4,0,0,201188,Marc Gasol,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:21 PM
+365,5,2,437,0020801128,MISS Jaric  Layup,,3:22,4,4,0,5,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,,,Dampier BLOCK (1 BLK),10:22 PM
+366,0,4,438,0020801128,GRIZZLIES Rebound,,3:21,4,2,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,,10:22 PM
+367,11,5,439,0020801128,GRIZZLIES Turnover: Shot Clock (T#11),,3:21,4,2,0,1,1610612763,,,,,,0,,,,,,0,,,,,,,,,10:22 PM
+368,2,6,440,0020801128,Gay S.FOUL (P2.T3),,3:10,4,4,5,1,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,10:22 PM
+369,11,3,441,0020801128,,,3:10,4,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki Free Throw 1 of 2,10:22 PM
+370,1,4,442,0020801128,,,3:10,4,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Rebound,10:22 PM
+371,12,3,443,0020801128,,,3:10,4,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,97 - 97,TIE,Nowitzki Free Throw 2 of 2 (35 PTS),10:23 PM
+372,1,2,445,0020801128,MISS Gay 24' 3PT Jump Shot,,2:56,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:23 PM
+373,0,4,446,0020801128,,,2:54,4,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:8),10:23 PM
+374,63,2,447,0020801128,,,2:40,4,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki 10' Fadeaway Jumper,10:23 PM
+375,0,4,448,0020801128,Conley REBOUND (Off:0 Def:2),,2:36,4,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:24 PM
+376,0,8,449,0020801128,SUB: Buckner FOR Jaric,,2:22,4,4,4,0,2060,Marko Jaric,MEM,Memphis,1610612763.0,Grizzlies,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,,10:24 PM
+377,2,9,450,0020801128,,,2:22,4,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Timeout: Short (Reg.4 Short 2),10:24 PM
+378,0,10,452,0020801128,Jump Ball Conley vs. Terry: Tip to Mayo,,2:22,4,4,5,4,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,,,,10:25 PM
+379,1,2,453,0020801128,MISS Conley 7' Jump Shot,,2:15,4,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:26 PM
+380,0,4,454,0020801128,,,2:13,4,5,0,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Dampier REBOUND (Off:0 Def:6),10:26 PM
+381,1,2,455,0020801128,,,2:08,4,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki 27' 3PT Jump Shot,10:26 PM
+382,0,4,456,0020801128,,,2:07,4,5,0,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Kidd REBOUND (Off:2 Def:3),10:26 PM
+383,5,2,457,0020801128,Buckner BLOCK (1 BLK),,1:52,4,5,0,4,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,,,MISS Nowitzki  Layup,10:26 PM
+384,0,4,458,0020801128,Mayo REBOUND (Off:0 Def:8),,1:50,4,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:26 PM
+385,5,2,459,0020801128,MISS Gay  Layup,,1:45,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:26 PM
+386,0,4,460,0020801128,Buckner REBOUND (Off:1 Def:2),,1:43,4,4,0,0,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:26 PM
+387,1,1,461,0020801128,Mayo  3PT Jump Shot (17 PTS) (Buckner 1 AST),,1:42,4,4,4,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,1761,Greg Buckner,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,97 - 100,3,,10:26 PM
+388,1,9,462,0020801128,,,1:42,4,3,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,Mavericks Timeout: Regular (Reg.5 Short 2),10:26 PM
+389,1,2,466,0020801128,,,1:35,4,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Nowitzki 25' 3PT Jump Shot,10:29 PM
+390,0,4,467,0020801128,Mayo REBOUND (Off:0 Def:9),,1:34,4,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:29 PM
+391,79,1,468,0020801128,Mayo 17' Pullup Jump Shot (19 PTS),,1:14,4,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,97 - 102,5,,10:29 PM
+392,1,2,469,0020801128,,,1:08,4,5,0,0,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Kidd 25' 3PT Jump Shot,10:29 PM
+393,0,4,470,0020801128,Gay REBOUND (Off:2 Def:6),,1:07,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:29 PM
+394,3,6,471,0020801128,,,1:06,4,5,4,1,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Dampier L.B.FOUL (P6.T4),10:29 PM
+395,0,8,472,0020801128,,,1:06,4,5,5,0,956,Erick Dampier,DAL,Dallas,1610612742.0,Mavericks,101138,Brandon Bass,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,SUB: Bass FOR Dampier,10:30 PM
+396,1,2,473,0020801128,MISS Mayo 22' Jump Shot,,0:46,4,4,0,0,201564,O.J. Mayo,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:30 PM
+397,0,4,474,0020801128,,,0:45,4,5,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,Nowitzki REBOUND (Off:0 Def:9),10:30 PM
+398,2,6,475,0020801128,Gay S.FOUL (P3.T4),,0:39,4,4,5,1,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,10:30 PM
+399,11,3,476,0020801128,,,0:39,4,5,0,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,98 - 102,4,Terry Free Throw 1 of 2 (12 PTS),10:31 PM
+400,12,3,478,0020801128,,,0:39,4,5,0,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,99 - 102,3,Terry Free Throw 2 of 2 (13 PTS),10:31 PM
+401,1,6,480,0020801128,,,0:35,4,5,4,1,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Kidd P.FOUL (P2.PN),10:31 PM
+402,11,3,481,0020801128,MISS Conley Free Throw 1 of 2,,0:35,4,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:32 PM
+403,1,4,482,0020801128,GRIZZLIES Rebound,,0:35,4,2,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,,10:32 PM
+404,12,3,483,0020801128,Conley Free Throw 2 of 2 (25 PTS),,0:35,4,4,0,0,201144,Mike Conley,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,99 - 103,4,,10:32 PM
+405,1,2,485,0020801128,,,0:26,4,5,0,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Terry 25' 3PT Jump Shot,10:32 PM
+406,0,4,486,0020801128,Gay REBOUND (Off:2 Def:7),,0:25,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:32 PM
+407,1,6,487,0020801128,,,0:23,4,5,4,1,467,Jason Kidd,DAL,Dallas,1610612742.0,Mavericks,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Kidd P.FOUL (P3.PN),10:32 PM
+408,11,3,488,0020801128,Gay Free Throw 1 of 2 (24 PTS),,0:23,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,99 - 104,5,,10:33 PM
+409,12,3,490,0020801128,Gay Free Throw 2 of 2 (25 PTS),,0:23,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,99 - 105,6,,10:33 PM
+410,1,2,492,0020801128,,,0:13,4,5,0,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,MISS Terry 26' 3PT Jump Shot,10:34 PM
+411,0,4,493,0020801128,Gay REBOUND (Off:2 Def:8),,0:11,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,,10:34 PM
+412,1,6,494,0020801128,,,0:11,4,5,4,1,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,,,Nowitzki P.FOUL (P3.PN),10:34 PM
+413,11,3,495,0020801128,Gay Free Throw 1 of 2 (26 PTS),,0:11,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,99 - 106,7,,10:34 PM
+414,12,3,497,0020801128,Gay Free Throw 2 of 2 (27 PTS),,0:11,4,4,0,0,200752,Rudy Gay,MEM,Memphis,1610612763.0,Grizzlies,0,,,,,,0,,,,,,99 - 107,8,,10:34 PM
+415,1,1,499,0020801128,,,0:04,4,5,0,0,1891,Jason Terry,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,102 - 107,5,Terry 25' 3PT Jump Shot (16 PTS),10:35 PM
+416,0,13,500,0020801128,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,102 - 107,5,,10:35 PM

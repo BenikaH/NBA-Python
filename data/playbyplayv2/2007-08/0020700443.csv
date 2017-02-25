@@ -1,0 +1,426 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020700443,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:00 PM
+1,0,10,1,0020700443,Jump Ball Lee vs. Wallace: Tip to Deng,,12:00,1,4,5,5,101135,David Lee,NYK,New York,1610612752.0,Knicks,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,,,,12:00 PM
+2,2,6,2,0020700443,Lee S.FOUL (P1.T1),,11:50,1,4,5,1,101135,David Lee,NYK,New York,1610612752.0,Knicks,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,12:00 PM
+3,11,3,3,0020700443,,,11:50,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,1 - 0,-1,Deng Free Throw 1 of 2 (1 PTS),12:01 PM
+4,12,3,4,0020700443,,,11:50,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng Free Throw 2 of 2,12:01 PM
+5,0,4,5,0020700443,Randolph REBOUND (Off:0 Def:1),,11:48,1,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:01 PM
+6,1,1,6,0020700443,Robinson 24' 3PT Jump Shot (3 PTS) (Richardson 1 AST),,11:27,1,4,4,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,1 - 3,2,,12:01 PM
+7,1,2,7,0020700443,,,11:05,1,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hinrich  3PT Jump Shot,12:02 PM
+8,0,4,8,0020700443,Richardson REBOUND (Off:0 Def:1),,11:04,1,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:02 PM
+9,2,6,9,0020700443,,,11:01,1,5,4,1,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Duhon S.FOUL (P1.T1),12:02 PM
+10,11,3,10,0020700443,Robinson Free Throw 1 of 2 (4 PTS),,11:01,1,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,1 - 4,3,,12:02 PM
+11,12,3,11,0020700443,Robinson Free Throw 2 of 2 (5 PTS),,11:01,1,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,1 - 5,4,,12:02 PM
+12,47,1,12,0020700443,,,10:37,1,5,0,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,3 - 5,2,Smith 14' Turnaround Jump Shot (2 PTS),12:03 PM
+13,5,2,13,0020700443,MISS Randolph  Layup,,10:13,1,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:03 PM
+14,0,4,14,0020700443,,,10:12,1,5,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:0 Def:1),12:03 PM
+15,1,1,15,0020700443,,,9:57,1,5,5,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,6 - 5,-1,Duhon 24' 3PT Jump Shot (3 PTS) (Deng 1 AST),12:04 PM
+16,1,1,16,0020700443,Richardson 25' 3PT Jump Shot (3 PTS) (Randolph 1 AST),,9:41,1,4,4,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,6 - 8,2,,12:04 PM
+17,1,1,17,0020700443,,,9:24,1,5,5,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,9 - 8,-1,Duhon 25' 3PT Jump Shot (6 PTS) (Deng 2 AST),12:04 PM
+18,1,2,18,0020700443,MISS Randolph 7' Jump Shot,,9:07,1,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:05 PM
+19,0,4,19,0020700443,KNICKS Rebound,,9:06,1,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:05 PM
+20,1,1,20,0020700443,Randolph 8' Jump Shot (2 PTS),,8:56,1,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,9 - 10,1,,12:05 PM
+21,1,1,21,0020700443,,,8:34,1,5,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,12 - 10,-2,Hinrich 24' 3PT Jump Shot (3 PTS) (Deng 3 AST),12:05 PM
+22,42,1,22,0020700443,Richardson  Driving Layup (5 PTS) (Randolph 2 AST),,8:16,1,4,4,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,12 - 12,TIE,,12:06 PM
+23,2,6,23,0020700443,Jeffries S.FOUL (P1.T2),,7:52,1,4,5,1,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,12:06 PM
+24,11,3,24,0020700443,,,7:52,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,13 - 12,-1,Deng Free Throw 1 of 2 (2 PTS),12:06 PM
+25,12,3,25,0020700443,,,7:52,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,14 - 12,-2,Deng Free Throw 2 of 2 (3 PTS),12:07 PM
+26,5,2,26,0020700443,MISS Jeffries  Layup,,7:36,1,4,0,0,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:07 PM
+27,0,4,27,0020700443,,,7:34,1,5,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Duhon REBOUND (Off:0 Def:1),12:07 PM
+28,79,1,28,0020700443,,,7:28,1,5,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,16 - 12,-4,Deng 15' Pullup Jump Shot (5 PTS) (Hinrich 1 AST),12:07 PM
+29,1,2,29,0020700443,MISS Richardson 25' 3PT Jump Shot,,7:10,1,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:07 PM
+30,0,4,30,0020700443,,,7:08,1,5,0,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:1),12:07 PM
+31,1,2,31,0020700443,,,6:53,1,5,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Duhon 24' 3PT Jump Shot,12:08 PM
+32,0,4,32,0020700443,Randolph REBOUND (Off:0 Def:2),,6:51,1,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:08 PM
+33,1,2,34,0020700443,MISS Randolph 21' Jump Shot,,6:37,1,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:08 PM
+34,0,4,36,0020700443,Richardson REBOUND (Off:1 Def:1),,6:36,1,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:08 PM
+35,4,2,35,0020700443,MISS Richardson  Tip Shot,,6:36,1,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:08 PM
+36,0,4,37,0020700443,Jeffries REBOUND (Off:1 Def:0),,6:35,1,4,0,0,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:08 PM
+37,53,2,54,0020700443,MISS Jeffries  Tip Shot,,6:35,1,4,0,0,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:08 PM
+38,0,4,63,0020700443,Jeffries REBOUND (Off:2 Def:0),,6:33,1,4,0,0,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:08 PM
+39,1,2,38,0020700443,MISS Randolph 8' Jump Shot,,6:20,1,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:08 PM
+40,0,4,40,0020700443,Lee REBOUND (Off:1 Def:0),,6:19,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:08 PM
+41,5,1,41,0020700443,Lee  Layup (2 PTS),,6:17,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,16 - 14,-2,,12:08 PM
+42,1,5,42,0020700443,Robinson STEAL (1 STL),,6:01,1,5,4,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Smith Bad Pass Turnover (P1.T1),12:09 PM
+43,73,1,43,0020700443,Lee  Driving Reverse Layup (4 PTS) (Robinson 1 AST),,5:57,1,4,4,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,16 - 16,TIE,,12:09 PM
+44,2,6,44,0020700443,,,5:57,1,5,4,1,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Smith S.FOUL (P1.T2),12:09 PM
+45,1,9,45,0020700443,KNICKS Timeout: Regular (Full 1 Short 0),,5:57,1,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:09 PM
+46,0,8,48,0020700443,,,5:57,1,5,5,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Gordon FOR Duhon,12:12 PM
+47,0,8,50,0020700443,SUB: Jones FOR Jeffries,,5:57,1,4,4,0,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:12 PM
+48,10,3,51,0020700443,Lee Free Throw 1 of 1 (5 PTS),,5:57,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,16 - 17,1,,12:12 PM
+49,1,5,52,0020700443,Richardson STEAL (1 STL),,5:41,1,5,4,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Smith Bad Pass Turnover (P2.T2),12:12 PM
+50,1,2,53,0020700443,MISS Randolph 9' Jump Shot,,5:33,1,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:12 PM
+51,0,4,55,0020700443,,,5:31,1,5,0,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:2),12:12 PM
+52,1,1,56,0020700443,,,5:19,1,5,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,19 - 17,-2,Hinrich 24' 3PT Jump Shot (6 PTS) (Deng 4 AST),12:13 PM
+53,8,1,57,0020700443,Lee  Slam Dunk (7 PTS) (Robinson 2 AST),,5:06,1,4,4,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,19 - 19,TIE,,12:13 PM
+54,1,2,58,0020700443,,,4:52,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 19' Jump Shot,12:13 PM
+55,0,4,59,0020700443,KNICKS Rebound,,4:52,1,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:13 PM
+56,3,6,60,0020700443,,,4:52,1,5,4,1,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Smith L.B.FOUL (P2.T3),12:13 PM
+57,0,8,61,0020700443,SUB: Curry FOR Randolph,,4:52,1,4,4,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:13 PM
+58,0,8,62,0020700443,,,4:52,1,5,5,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Gray FOR Smith,12:13 PM
+59,1,5,64,0020700443,Robinson Bad Pass Turnover (P1.T1),,4:38,1,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:14 PM
+60,1,5,65,0020700443,,,4:26,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng Bad Pass Turnover (P1.T3),12:14 PM
+61,1,2,66,0020700443,MISS Robinson 24' 3PT Jump Shot,,4:09,1,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:14 PM
+62,0,4,67,0020700443,,,4:08,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:0 Def:1),12:14 PM
+63,4,5,69,0020700443,,,3:50,1,5,0,1,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gray Traveling Turnover (P1.T4),12:15 PM
+64,1,2,70,0020700443,MISS Curry 10' Jump Shot,,3:25,1,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:16 PM
+65,0,4,71,0020700443,,,3:24,1,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Hinrich REBOUND (Off:0 Def:1),12:16 PM
+66,1,1,72,0020700443,,,3:15,1,5,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,22 - 19,-3,Hinrich 25' 3PT Jump Shot (9 PTS) (Deng 5 AST),12:16 PM
+67,4,5,73,0020700443,Curry Traveling Turnover (P1.T2),,2:58,1,4,0,1,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:16 PM
+68,1,9,74,0020700443,,,2:58,1,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.1 Short 0),12:16 PM
+69,1,2,76,0020700443,,,2:41,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 19' Jump Shot,12:19 PM
+70,0,4,77,0020700443,Lee REBOUND (Off:1 Def:1),,2:40,1,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:19 PM
+71,1,2,78,0020700443,MISS Robinson 24' 3PT Jump Shot,,2:21,1,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:19 PM
+72,0,4,79,0020700443,Curry REBOUND (Off:1 Def:0),,2:19,1,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:19 PM
+73,4,5,80,0020700443,Robinson Traveling Turnover (P2.T3),,2:12,1,4,0,1,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:20 PM
+74,4,5,81,0020700443,,,2:00,1,5,0,1,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gray Traveling Turnover (P2.T5),12:20 PM
+75,0,8,82,0020700443,SUB: Collins FOR Robinson,,2:00,1,4,4,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:20 PM
+76,0,8,83,0020700443,,,2:00,1,5,5,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Nocioni FOR Wallace,12:20 PM
+77,63,1,84,0020700443,Jones 15' Fadeaway Jumper (2 PTS),,1:38,1,4,0,0,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,22 - 21,-1,,12:21 PM
+78,1,1,85,0020700443,,,1:26,1,5,5,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,24 - 21,-3,Gordon 16' Jump Shot (2 PTS) (Hinrich 2 AST),12:21 PM
+79,2,6,86,0020700443,,,1:17,1,5,4,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Gordon S.FOUL (P1.T4),12:21 PM
+80,11,3,87,0020700443,MISS Curry Free Throw 1 of 2,,1:17,1,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:21 PM
+81,1,4,88,0020700443,KNICKS Rebound,,1:17,1,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:21 PM
+82,12,3,89,0020700443,Curry Free Throw 2 of 2 (1 PTS),,1:17,1,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,24 - 22,-2,,12:22 PM
+83,1,2,90,0020700443,,,1:03,1,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Gordon 21' Jump Shot,12:22 PM
+84,0,4,91,0020700443,,,1:02,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:1 Def:1),12:22 PM
+85,5,1,92,0020700443,,,1:01,1,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,26 - 22,-4,Deng  Layup (7 PTS),12:22 PM
+86,4,5,93,0020700443,Richardson Traveling Turnover (P1.T4),,0:42,1,4,0,1,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:22 PM
+87,2,6,94,0020700443,Collins S.FOUL (P1.T3),,0:33,1,4,5,1,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,12:23 PM
+88,11,3,95,0020700443,,,0:33,1,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,27 - 22,-5,Hinrich Free Throw 1 of 2 (10 PTS),12:23 PM
+89,12,3,96,0020700443,,,0:33,1,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,28 - 22,-6,Hinrich Free Throw 2 of 2 (11 PTS),12:23 PM
+90,2,5,97,0020700443,Curry Lost Ball Turnover (P2.T5),,0:20,1,4,5,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Deng STEAL (1 STL),12:24 PM
+91,5,1,98,0020700443,,,0:16,1,5,5,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,30 - 22,-8,Gordon  Layup (4 PTS) (Deng 6 AST),12:24 PM
+92,1,2,99,0020700443,MISS Jones 34' 3PT Jump Shot,,0:00,1,4,0,0,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:24 PM
+93,0,4,100,0020700443,KNICKS Rebound,,0:00,1,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:24 PM
+94,0,13,101,0020700443,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,30 - 22,-8,,12:24 PM
+95,0,12,103,0020700443,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,30 - 22,-8,,12:27 PM
+96,2,6,104,0020700443,,,11:46,2,5,4,1,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Gray S.FOUL (P1.T1),12:27 PM
+97,11,3,105,0020700443,Curry Free Throw 1 of 2 (2 PTS),,11:46,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,30 - 23,-7,,12:27 PM
+98,12,3,106,0020700443,Curry Free Throw 2 of 2 (3 PTS),,11:46,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,30 - 24,-6,,12:28 PM
+99,1,2,107,0020700443,,,11:21,2,5,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Nocioni 15' Jump Shot,12:28 PM
+100,0,4,108,0020700443,Jones REBOUND (Off:0 Def:1),,11:20,2,4,0,0,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:28 PM
+101,5,2,109,0020700443,MISS Balkman  Layup,,11:16,2,4,0,5,200764,Renaldo Balkman,NYK,New York,1610612752.0,Knicks,0,,,,,,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,,,Nocioni BLOCK (1 BLK),12:28 PM
+102,0,4,110,0020700443,,,11:14,2,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gordon REBOUND (Off:0 Def:1),12:28 PM
+103,1,2,111,0020700443,,,11:06,2,5,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Nocioni 26' 3PT Jump Shot,12:28 PM
+104,0,4,112,0020700443,Randolph REBOUND (Off:0 Def:3),,11:05,2,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:28 PM
+105,5,2,113,0020700443,MISS Curry  Layup,,10:54,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:29 PM
+106,0,4,115,0020700443,Curry REBOUND (Off:2 Def:0),,10:51,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:29 PM
+107,4,1,114,0020700443,Curry  Tip Shot (5 PTS),,10:51,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,30 - 26,-4,,12:29 PM
+108,1,1,116,0020700443,,,10:29,2,5,5,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,33 - 26,-7,Nocioni 24' 3PT Jump Shot (3 PTS) (Hinrich 3 AST),12:29 PM
+109,1,1,117,0020700443,Jones 16' Jump Shot (4 PTS) (Curry 1 AST),,10:04,2,4,4,0,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,33 - 28,-5,,12:29 PM
+110,1,1,118,0020700443,,,9:48,2,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,36 - 28,-8,Gordon 24' 3PT Jump Shot (7 PTS),12:30 PM
+111,1,6,119,0020700443,,,9:32,2,5,4,1,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Gray P.FOUL (P2.T2),12:30 PM
+112,0,8,120,0020700443,,,9:32,2,5,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Duhon FOR Hinrich,12:30 PM
+113,0,8,121,0020700443,,,9:32,2,5,5,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Wallace FOR Gray,12:30 PM
+114,2,5,122,0020700443,Collins Lost Ball Turnover (P1.T6),,9:27,2,4,5,0,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Noah STEAL (1 STL),12:30 PM
+115,2,5,123,0020700443,Collins STEAL (1 STL),,9:22,2,5,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Nocioni Lost Ball Turnover (P1.T6),12:31 PM
+116,5,2,124,0020700443,MISS Curry  Layup,,9:17,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:31 PM
+117,0,4,126,0020700443,Randolph REBOUND (Off:1 Def:3),,9:15,2,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:31 PM
+118,72,1,125,0020700443,Randolph  Putback Layup (4 PTS),,9:15,2,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,36 - 30,-6,,12:31 PM
+119,1,9,127,0020700443,,,9:06,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.2 Short 0),12:31 PM
+120,0,8,129,0020700443,,,9:06,2,5,5,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Deng FOR Nocioni,12:33 PM
+121,2,6,130,0020700443,Collins S.FOUL (P2.T1),,8:50,2,4,5,1,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,12:35 PM
+122,11,3,131,0020700443,,,8:50,2,5,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,37 - 30,-7,Wallace Free Throw 1 of 2 (1 PTS),12:35 PM
+123,0,8,133,0020700443,SUB: Robinson FOR Collins,,8:50,2,4,4,0,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:35 PM
+124,12,3,134,0020700443,,,8:50,2,5,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,38 - 30,-8,Wallace Free Throw 2 of 2 (2 PTS),12:35 PM
+125,5,2,135,0020700443,MISS Curry  Layup,,8:40,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:36 PM
+126,0,4,137,0020700443,Curry REBOUND (Off:3 Def:0),,8:37,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:36 PM
+127,4,2,136,0020700443,MISS Curry  Tip Shot,,8:37,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:36 PM
+128,0,4,138,0020700443,,,8:34,2,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gordon REBOUND (Off:0 Def:2),12:36 PM
+129,1,2,139,0020700443,,,8:29,2,5,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Duhon 25' 3PT Jump Shot,12:36 PM
+130,0,4,140,0020700443,Jones REBOUND (Off:0 Def:2),,8:27,2,4,0,0,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:36 PM
+131,2,6,141,0020700443,,,8:22,2,5,4,1,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Noah S.FOUL (P1.T3),12:36 PM
+132,11,3,142,0020700443,Curry Free Throw 1 of 2 (6 PTS),,8:22,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,38 - 31,-7,,12:36 PM
+133,12,3,143,0020700443,Curry Free Throw 2 of 2 (7 PTS),,8:22,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,38 - 32,-6,,12:37 PM
+134,1,2,144,0020700443,,,8:07,2,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 14' Jump Shot,12:37 PM
+135,0,4,145,0020700443,,,8:05,2,5,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Noah REBOUND (Off:1 Def:0),12:37 PM
+136,45,2,147,0020700443,,,7:58,2,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Gordon 25' 3PT Jump Shot,12:37 PM
+137,0,4,146,0020700443,,,7:56,2,5,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Duhon REBOUND (Off:1 Def:1),12:37 PM
+138,1,2,148,0020700443,,,7:40,2,5,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Duhon 15' Jump Shot,12:37 PM
+139,0,4,149,0020700443,Randolph REBOUND (Off:1 Def:4),,7:39,2,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:37 PM
+140,1,2,151,0020700443,MISS Curry 9' Jump Shot,,7:16,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:38 PM
+141,0,4,152,0020700443,KNICKS Rebound,,7:15,2,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:38 PM
+142,11,5,153,0020700443,KNICKS Turnover: Shot Clock (T#7),,7:15,2,2,0,1,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:38 PM
+143,1,2,154,0020700443,,,6:58,2,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 4' Jump Shot,12:39 PM
+144,0,4,155,0020700443,Curry REBOUND (Off:3 Def:1),,6:57,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:39 PM
+145,1,6,156,0020700443,,,6:50,2,5,4,1,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Wallace P.FOUL (P1.T4),12:39 PM
+146,1,5,157,0020700443,Balkman Bad Pass Turnover (P1.T8),,6:48,2,4,5,0,200764,Renaldo Balkman,NYK,New York,1610612752.0,Knicks,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Wallace STEAL (1 STL),12:39 PM
+147,1,1,158,0020700443,,,6:42,2,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,40 - 32,-8,Gordon 21' Jump Shot (9 PTS),12:39 PM
+148,1,9,159,0020700443,KNICKS Timeout: Regular (Full 2 Short 0),,6:36,2,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:39 PM
+149,0,8,162,0020700443,,,6:36,2,5,5,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Smith FOR Noah,12:42 PM
+150,1,2,163,0020700443,MISS Randolph 13' Jump Shot,,6:25,2,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:42 PM
+151,0,4,164,0020700443,Curry REBOUND (Off:4 Def:1),,6:23,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:42 PM
+152,1,2,165,0020700443,MISS Robinson 25' 3PT Jump Shot,,6:15,2,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:42 PM
+153,0,4,167,0020700443,Curry REBOUND (Off:5 Def:1),,6:14,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:42 PM
+154,8,1,166,0020700443,Curry  Slam Dunk (9 PTS),,6:13,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,40 - 34,-6,,12:43 PM
+155,1,1,168,0020700443,,,5:54,2,5,5,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,42 - 34,-8,Smith 17' Jump Shot (4 PTS) (Wallace 1 AST),12:43 PM
+156,1,2,169,0020700443,MISS Randolph 16' Jump Shot,,5:31,2,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:43 PM
+157,0,4,170,0020700443,KNICKS Rebound,,5:29,2,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:43 PM
+158,2,5,171,0020700443,Randolph Lost Ball Turnover (P1.T9),,5:15,2,4,5,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Wallace STEAL (2 STL),12:44 PM
+159,49,1,172,0020700443,,,5:10,2,5,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,44 - 34,-10,Deng  Driving Dunk (9 PTS) (Gordon 1 AST),12:44 PM
+160,5,2,173,0020700443,MISS Randolph  Layup,,4:51,2,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:44 PM
+161,0,4,174,0020700443,Randolph REBOUND (Off:2 Def:4),,4:49,2,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:44 PM
+162,5,1,175,0020700443,Randolph  Layup (6 PTS),,4:48,2,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,44 - 36,-8,,12:44 PM
+163,1,2,176,0020700443,,,4:21,2,5,0,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Smith 14' Jump Shot,12:45 PM
+164,0,4,177,0020700443,Jones REBOUND (Off:0 Def:3),,4:20,2,4,0,0,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:45 PM
+165,1,6,178,0020700443,,,4:16,2,5,4,1,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Smith P.FOUL (P3.PN),12:45 PM
+166,0,8,179,0020700443,,,4:16,2,5,5,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Hinrich FOR Duhon,12:45 PM
+167,11,3,180,0020700443,Randolph Free Throw 1 of 2 (7 PTS),,4:16,2,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,44 - 37,-7,,12:45 PM
+168,0,8,181,0020700443,SUB: Jeffries FOR Balkman,,4:16,2,4,4,0,200764,Renaldo Balkman,NYK,New York,1610612752.0,Knicks,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:45 PM
+169,12,3,182,0020700443,MISS Randolph Free Throw 2 of 2,,4:16,2,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:45 PM
+170,0,4,183,0020700443,,,4:14,2,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:1 Def:2),12:46 PM
+171,1,2,184,0020700443,,,4:01,2,5,0,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Smith 16' Jump Shot,12:46 PM
+172,0,4,185,0020700443,,,3:58,2,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gordon REBOUND (Off:1 Def:2),12:46 PM
+173,1,2,186,0020700443,,,3:48,2,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 19' Jump Shot,12:46 PM
+174,0,4,187,0020700443,Curry REBOUND (Off:5 Def:2),,3:47,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:46 PM
+175,5,7,189,0020700443,,,3:42,2,5,0,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Hinrich Violation:Kicked Ball,12:46 PM
+176,1,2,190,0020700443,MISS Robinson 20' Jump Shot,,3:33,2,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:47 PM
+177,0,4,191,0020700443,,,3:31,2,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:1 Def:3),12:47 PM
+178,46,1,192,0020700443,,,3:19,2,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,46 - 37,-9,Gordon 12' Running Jump Shot (11 PTS),12:47 PM
+179,2,5,193,0020700443,Jones Lost Ball Turnover (P1.T10),,2:54,2,4,5,0,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Smith STEAL (1 STL),12:47 PM
+180,42,1,194,0020700443,,,2:49,2,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,48 - 37,-11,Gordon  Driving Layup (13 PTS),12:47 PM
+181,1,9,195,0020700443,KNICKS Timeout: Regular (Full 3 Short 0),,2:46,2,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:48 PM
+182,0,8,197,0020700443,,,2:46,2,5,5,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Nocioni FOR Smith,12:50 PM
+183,5,2,199,0020700443,MISS Jeffries  Layup,,2:33,2,4,0,0,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:52 PM
+184,0,4,201,0020700443,Jeffries REBOUND (Off:3 Def:0),,2:31,2,4,0,0,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:52 PM
+185,4,1,200,0020700443,Jeffries  Tip Shot (2 PTS),,2:31,2,4,0,0,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,48 - 39,-9,,12:52 PM
+186,1,2,202,0020700443,,,2:15,2,5,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Nocioni 22' Jump Shot,12:52 PM
+187,0,4,203,0020700443,Curry REBOUND (Off:5 Def:3),,2:13,2,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:52 PM
+188,2,5,204,0020700443,Jones Lost Ball Turnover (P2.T11),,2:01,2,4,5,0,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Gordon STEAL (1 STL),12:52 PM
+189,2,6,205,0020700443,Randolph S.FOUL (P1.T2),,1:58,2,4,5,1,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,12:52 PM
+190,11,3,206,0020700443,,,1:58,2,5,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Nocioni Free Throw 1 of 2,12:52 PM
+191,1,4,207,0020700443,,,1:58,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,12:52 PM
+192,0,8,208,0020700443,SUB: Richardson FOR Jones,,1:58,2,4,4,0,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:53 PM
+193,12,3,209,0020700443,,,1:58,2,5,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Nocioni Free Throw 2 of 2,12:53 PM
+194,0,4,210,0020700443,Randolph REBOUND (Off:2 Def:5),,1:57,2,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:53 PM
+195,2,6,211,0020700443,,,1:37,2,5,4,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Gordon S.FOUL (P2.PN),12:54 PM
+196,11,3,212,0020700443,Richardson Free Throw 1 of 2 (6 PTS),,1:37,2,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,48 - 40,-8,,12:54 PM
+197,0,8,213,0020700443,SUB: Lee FOR Curry,,1:37,2,4,4,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:54 PM
+198,0,8,214,0020700443,,,1:37,2,5,5,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Duhon FOR Gordon,12:54 PM
+199,12,3,215,0020700443,Richardson Free Throw 2 of 2 (7 PTS),,1:37,2,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,48 - 41,-7,,12:54 PM
+200,1,1,216,0020700443,,,1:24,2,5,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,50 - 41,-9,Deng 15' Jump Shot (11 PTS) (Hinrich 4 AST),12:54 PM
+201,1,2,217,0020700443,MISS Richardson 16' Jump Shot,,1:08,2,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:55 PM
+202,0,4,218,0020700443,,,1:07,2,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Hinrich REBOUND (Off:0 Def:2),12:55 PM
+203,1,2,219,0020700443,,,0:55,2,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 20' Jump Shot,12:55 PM
+204,0,4,220,0020700443,,,0:53,2,5,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Nocioni REBOUND (Off:1 Def:0),12:55 PM
+205,1,5,221,0020700443,Richardson STEAL (2 STL),,0:37,2,5,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Nocioni Bad Pass Turnover (P2.T7),12:55 PM
+206,5,2,222,0020700443,MISS Robinson  Layup,,0:33,2,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:55 PM
+207,0,4,224,0020700443,Richardson REBOUND (Off:2 Def:1),,0:32,2,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:55 PM
+208,5,2,223,0020700443,MISS Richardson  Layup,,0:32,2,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:55 PM
+209,0,4,225,0020700443,KNICKS Rebound,,0:28,2,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:55 PM
+210,5,2,226,0020700443,MISS Richardson  Layup,,0:09,2,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:56 PM
+211,0,4,227,0020700443,Randolph REBOUND (Off:3 Def:5),,0:07,2,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:56 PM
+212,5,2,228,0020700443,MISS Randolph  Layup,,0:06,2,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:56 PM
+213,0,4,229,0020700443,Lee REBOUND (Off:2 Def:1),,0:05,2,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:56 PM
+214,5,1,230,0020700443,Lee  Layup (9 PTS),,0:05,2,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,50 - 43,-7,,12:56 PM
+215,5,2,231,0020700443,Jeffries BLOCK (1 BLK),,0:01,2,5,0,4,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,,,MISS Deng  Layup,12:56 PM
+216,0,4,232,0020700443,,,0:00,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,12:57 PM
+217,0,13,233,0020700443,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,50 - 43,-7,,12:57 PM
+218,0,12,235,0020700443,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,50 - 43,-7,,1:15 PM
+219,66,1,236,0020700443,Richardson 9' Jump Bank Shot (9 PTS),,11:40,3,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,50 - 45,-5,,1:15 PM
+220,1,1,237,0020700443,,,11:28,3,5,5,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,52 - 45,-7,Smith 14' Jump Shot (6 PTS) (Duhon 1 AST),1:15 PM
+221,1,2,238,0020700443,MISS Randolph 22' Jump Shot,,11:04,3,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:16 PM
+222,0,4,239,0020700443,,,11:02,3,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Hinrich REBOUND (Off:0 Def:3),1:16 PM
+223,1,1,240,0020700443,,,10:49,3,5,5,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,55 - 45,-10,Duhon 25' 3PT Jump Shot (9 PTS) (Deng 7 AST),1:16 PM
+224,1,2,241,0020700443,MISS Randolph 13' Jump Shot,,10:21,3,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:16 PM
+225,0,4,243,0020700443,Jeffries REBOUND (Off:4 Def:0),,10:19,3,4,0,0,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:16 PM
+226,4,2,242,0020700443,MISS Jeffries  Tip Shot,,10:19,3,4,0,0,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:16 PM
+227,0,4,244,0020700443,Jeffries REBOUND (Off:5 Def:0),,10:17,3,4,0,0,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:16 PM
+228,1,1,245,0020700443,Robinson 24' 3PT Jump Shot (8 PTS) (Jeffries 1 AST),,10:14,3,4,4,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,0,,,,,,55 - 48,-7,,1:16 PM
+229,1,1,246,0020700443,,,9:45,3,5,0,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,57 - 48,-9,Smith 17' Jump Shot (8 PTS),1:17 PM
+230,5,1,247,0020700443,Richardson  Layup (11 PTS) (Lee 1 AST),,9:29,3,4,4,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,57 - 50,-7,,1:17 PM
+231,5,2,248,0020700443,,,9:04,3,5,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Wallace  Layup,1:18 PM
+232,0,4,249,0020700443,Lee REBOUND (Off:2 Def:2),,9:02,3,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:18 PM
+233,45,2,251,0020700443,MISS Randolph 7' Jump Shot,,8:54,3,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:18 PM
+234,0,4,250,0020700443,,,8:52,3,5,0,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:3),1:18 PM
+235,1,2,252,0020700443,,,8:35,3,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hinrich 14' Jump Shot,1:18 PM
+236,0,4,253,0020700443,Randolph REBOUND (Off:3 Def:6),,8:34,3,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:18 PM
+237,1,2,255,0020700443,MISS Randolph 5' Jump Shot,,8:20,3,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:18 PM
+238,0,4,256,0020700443,KNICKS Rebound,,8:19,3,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,1:18 PM
+239,42,1,257,0020700443,Randolph  Driving Layup (9 PTS),,8:09,3,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,57 - 52,-5,,1:19 PM
+240,5,2,258,0020700443,Lee BLOCK (1 BLK),,7:52,3,5,0,4,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,101135,David Lee,NYK,New York,1610612752.0,Knicks,,,MISS Duhon  Layup,1:19 PM
+241,0,4,259,0020700443,,,7:48,3,5,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:1 Def:1),1:19 PM
+242,40,2,260,0020700443,,,7:45,3,5,0,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Smith  Layup,1:19 PM
+243,0,4,261,0020700443,,,7:43,3,5,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:2 Def:1),1:19 PM
+244,1,2,262,0020700443,,,7:39,3,5,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Duhon 24' 3PT Jump Shot,1:19 PM
+245,0,4,263,0020700443,,,7:37,3,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,1:19 PM
+246,46,1,264,0020700443,,,7:25,3,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,59 - 52,-7,Deng 6' Running Jump Shot (13 PTS),1:20 PM
+247,5,2,265,0020700443,MISS Richardson  Layup,,7:12,3,4,0,5,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,,,Hinrich BLOCK (1 BLK),1:20 PM
+248,0,4,266,0020700443,Lee REBOUND (Off:3 Def:2),,7:09,3,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:20 PM
+249,1,5,267,0020700443,Lee Bad Pass Turnover (P1.T12),,7:07,3,4,5,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Duhon STEAL (1 STL),1:20 PM
+250,1,2,268,0020700443,,,7:01,3,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hinrich  3PT Jump Shot,1:20 PM
+251,0,4,269,0020700443,Jeffries REBOUND (Off:5 Def:1),,6:59,3,4,0,0,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:20 PM
+252,5,2,270,0020700443,MISS Richardson  Layup,,6:44,3,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:21 PM
+253,0,4,271,0020700443,Randolph REBOUND (Off:4 Def:6),,6:42,3,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:21 PM
+254,5,1,272,0020700443,Randolph  Layup (11 PTS),,6:42,3,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,59 - 54,-5,,1:21 PM
+255,2,6,273,0020700443,,,6:42,3,5,4,1,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Smith S.FOUL (P4.T1),1:21 PM
+256,0,8,274,0020700443,,,6:42,3,5,5,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Noah FOR Smith,1:21 PM
+257,10,3,275,0020700443,Randolph Free Throw 1 of 1 (12 PTS),,6:42,3,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,59 - 55,-4,,1:21 PM
+258,4,5,277,0020700443,,,6:28,3,5,0,1,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng Traveling Turnover (P2.T8),1:22 PM
+259,5,2,279,0020700443,MISS Robinson  Layup,,6:16,3,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:22 PM
+260,0,4,280,0020700443,,,6:14,3,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:1 Def:4),1:22 PM
+261,63,1,281,0020700443,,,5:56,3,5,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,61 - 55,-6,Wallace 11' Fadeaway Jumper (4 PTS),1:22 PM
+262,2,5,282,0020700443,Richardson Lost Ball Turnover (P2.T13),,5:39,3,4,5,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Noah STEAL (2 STL),1:23 PM
+263,2,6,283,0020700443,Robinson S.FOUL (P1.T1),,5:36,3,4,5,1,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,1:23 PM
+264,1,9,284,0020700443,KNICKS Timeout: Regular (Full 4 Short 0),,5:36,3,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,1:23 PM
+265,11,3,287,0020700443,,,5:36,3,5,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Duhon Free Throw 1 of 2,1:26 PM
+266,1,4,288,0020700443,,,5:36,3,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,1:26 PM
+267,0,8,289,0020700443,SUB: Jones FOR Jeffries,,5:36,3,4,4,0,2407,Jared Jeffries,NYK,New York,1610612752.0,Knicks,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,1:26 PM
+268,12,3,291,0020700443,,,5:36,3,5,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Duhon Free Throw 2 of 2,1:26 PM
+269,0,4,292,0020700443,Randolph REBOUND (Off:4 Def:7),,5:34,3,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:26 PM
+270,1,2,293,0020700443,MISS Richardson 26' 3PT Jump Shot,,5:11,3,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:27 PM
+271,0,4,294,0020700443,,,5:10,3,5,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:2 Def:2),1:27 PM
+272,46,2,296,0020700443,,,4:47,3,5,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Duhon 10' Running Jump Shot,1:27 PM
+273,0,4,297,0020700443,Robinson REBOUND (Off:0 Def:1),,4:46,3,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:27 PM
+274,1,2,298,0020700443,MISS Richardson 23' Jump Shot,,4:21,3,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:28 PM
+275,0,4,299,0020700443,,,4:20,3,5,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:2 Def:3),1:28 PM
+276,1,1,300,0020700443,,,4:14,3,5,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,63 - 55,-8,Deng 20' Jump Shot (15 PTS) (Hinrich 5 AST),1:28 PM
+277,2,5,301,0020700443,Richardson Lost Ball Turnover (P3.T14),,3:46,3,4,5,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Hinrich STEAL (1 STL),1:28 PM
+278,3,1,302,0020700443,,,3:31,3,5,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,65 - 55,-10,Noah 4' Hook Shot (2 PTS),1:28 PM
+279,1,9,303,0020700443,KNICKS Timeout: Regular (Full 5 Short 0),,3:29,3,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,1:29 PM
+280,0,8,304,0020700443,,,3:29,3,5,5,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Gordon FOR Duhon,1:31 PM
+281,0,8,305,0020700443,SUB: Curry FOR Randolph,,3:29,3,4,4,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,1:31 PM
+282,0,8,306,0020700443,SUB: Balkman FOR Richardson,,3:29,3,4,4,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,200764,Renaldo Balkman,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,1:31 PM
+283,6,5,307,0020700443,Balkman Double Dribble Turnover (P2.T15),,3:08,3,4,0,1,200764,Renaldo Balkman,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:32 PM
+284,1,2,308,0020700443,,,2:50,3,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Deng 19' Jump Shot,1:32 PM
+285,0,4,309,0020700443,,,2:48,3,5,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:3 Def:3),1:32 PM
+286,1,2,310,0020700443,,,2:36,3,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hinrich 24' 3PT Jump Shot,1:33 PM
+287,0,4,311,0020700443,,,2:34,3,5,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:4 Def:3),1:33 PM
+288,46,1,312,0020700443,,,2:17,3,5,5,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,67 - 55,-12,Wallace 11' Running Jump Shot (6 PTS) (Gordon 2 AST),1:33 PM
+289,1,2,313,0020700443,MISS Balkman 24' 3PT Jump Shot,,1:51,3,4,0,0,200764,Renaldo Balkman,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:33 PM
+290,0,4,314,0020700443,,,1:49,3,5,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Noah REBOUND (Off:1 Def:1),1:33 PM
+291,2,6,315,0020700443,Balkman S.FOUL (P1.T2),,1:48,3,4,5,1,200764,Renaldo Balkman,NYK,New York,1610612752.0,Knicks,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,1:33 PM
+292,0,8,316,0020700443,,,1:48,3,5,5,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Gray FOR Wallace,1:34 PM
+293,11,3,317,0020700443,,,1:48,3,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,68 - 55,-13,Deng Free Throw 1 of 2 (16 PTS),1:34 PM
+294,0,8,318,0020700443,SUB: Richardson FOR Lee,,1:48,3,4,4,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,1:34 PM
+295,12,3,319,0020700443,,,1:48,3,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,69 - 55,-14,Deng Free Throw 2 of 2 (17 PTS),1:34 PM
+296,1,6,320,0020700443,,,1:42,3,5,4,1,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,200764,Renaldo Balkman,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Noah P.FOUL (P2.T2),1:35 PM
+297,1,1,321,0020700443,Robinson 16' Jump Shot (10 PTS),,1:26,3,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,69 - 57,-12,,1:35 PM
+298,4,6,322,0020700443,,,1:12,3,5,4,1,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Gray OFF.Foul (P3),1:36 PM
+299,5,5,323,0020700443,,,1:12,3,5,0,1,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gray Foul Turnover (P3.T9),1:36 PM
+300,7,2,324,0020700443,MISS Balkman  Dunk,,1:01,3,4,0,0,200764,Renaldo Balkman,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:36 PM
+301,0,4,325,0020700443,,,0:59,3,5,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Noah REBOUND (Off:1 Def:2),1:36 PM
+302,65,1,326,0020700443,,,0:42,3,5,0,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,71 - 57,-14,Gray 8' Jump Hook Shot (2 PTS),1:36 PM
+303,1,2,327,0020700443,MISS Balkman 15' Jump Shot,,0:20,3,4,0,0,200764,Renaldo Balkman,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:37 PM
+304,0,4,328,0020700443,,,0:19,3,5,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Deng REBOUND (Off:1 Def:5),1:37 PM
+305,46,1,329,0020700443,,,0:00,3,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,73 - 57,-16,Gordon 13' Running Jump Shot (15 PTS),1:37 PM
+306,0,13,330,0020700443,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,73 - 57,-16,,1:37 PM
+307,0,12,332,0020700443,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,73 - 57,-16,,1:40 PM
+308,4,5,333,0020700443,,,11:41,4,5,0,1,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gray Traveling Turnover (P4.T10),1:40 PM
+309,65,1,334,0020700443,Curry 9' Jump Hook Shot (11 PTS),,11:26,4,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,73 - 59,-14,,1:41 PM
+310,1,2,335,0020700443,,,11:01,4,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Gordon 25' 3PT Jump Shot,1:41 PM
+311,0,4,336,0020700443,Collins REBOUND (Off:0 Def:1),,11:00,4,4,0,0,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:41 PM
+312,5,2,337,0020700443,MISS Lee  Layup,,10:55,4,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:41 PM
+313,0,4,338,0020700443,,,10:54,4,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Hinrich REBOUND (Off:0 Def:4),1:41 PM
+314,1,6,339,0020700443,Lee P.FOUL (P2.T1),,10:39,4,4,5,1,101135,David Lee,NYK,New York,1610612752.0,Knicks,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,1:41 PM
+315,0,8,340,0020700443,,,10:39,4,5,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Nocioni FOR Deng,1:42 PM
+316,1,2,341,0020700443,,,10:26,4,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hinrich 25' 3PT Jump Shot,1:42 PM
+317,0,4,342,0020700443,Lee REBOUND (Off:3 Def:3),,10:25,4,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:42 PM
+318,1,2,343,0020700443,MISS Richardson 8' Jump Shot,,10:09,4,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:42 PM
+319,0,4,344,0020700443,,,10:08,4,5,0,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gray REBOUND (Off:0 Def:1),1:42 PM
+320,2,6,345,0020700443,Randolph S.FOUL (P2.T2),,10:04,4,4,5,1,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,1:42 PM
+321,11,3,346,0020700443,,,10:04,4,5,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,74 - 59,-15,Noah Free Throw 1 of 2 (3 PTS),1:43 PM
+322,12,3,347,0020700443,,,10:04,4,5,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,75 - 59,-16,Noah Free Throw 2 of 2 (4 PTS),1:43 PM
+323,1,1,348,0020700443,Randolph 17' Jump Shot (14 PTS) (Richardson 2 AST),,9:56,4,4,4,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,75 - 61,-14,,1:43 PM
+324,1,1,349,0020700443,,,9:41,4,5,5,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,77 - 61,-16,Gordon 17' Jump Shot (17 PTS) (Hinrich 6 AST),1:43 PM
+325,2,6,350,0020700443,,,9:27,4,5,4,1,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Gray S.FOUL (P4.T1),1:44 PM
+326,11,3,351,0020700443,Curry Free Throw 1 of 2 (12 PTS),,9:27,4,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,77 - 62,-15,,1:44 PM
+327,0,8,352,0020700443,,,9:27,4,5,5,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Wallace FOR Noah,1:44 PM
+328,12,3,353,0020700443,MISS Curry Free Throw 2 of 2,,9:27,4,4,0,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:44 PM
+329,0,4,354,0020700443,,,9:26,4,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Hinrich REBOUND (Off:0 Def:5),1:45 PM
+330,63,1,355,0020700443,,,9:07,4,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,79 - 62,-17,Hinrich 8' Fadeaway Jumper (13 PTS),1:45 PM
+331,41,5,356,0020700443,Lee Poss Lost Ball Turnover (P2.T16),,8:52,4,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:45 PM
+332,4,9,357,0020700443,,,8:52,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,1:45 PM
+333,0,8,360,0020700443,SUB: Robinson FOR Curry,,8:52,4,4,4,0,2201,Eddy Curry,NYK,New York,1610612752.0,Knicks,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,1:47 PM
+334,1,5,361,0020700443,Robinson STEAL (2 STL),,8:46,4,5,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Gordon Bad Pass Turnover (P1.T11),1:48 PM
+335,1,1,362,0020700443,Robinson 24' 3PT Jump Shot (13 PTS) (Collins 1 AST),,8:38,4,4,4,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,0,,,,,,79 - 65,-14,,1:48 PM
+336,1,5,363,0020700443,Robinson STEAL (3 STL),,8:28,4,5,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Gordon Bad Pass Turnover (P2.T12),1:48 PM
+337,5,1,364,0020700443,Collins  Layup (2 PTS) (Robinson 3 AST),,8:26,4,4,4,0,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,79 - 67,-12,,1:48 PM
+338,1,9,365,0020700443,,,8:25,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.3 Short 0),1:48 PM
+339,0,8,367,0020700443,,,8:25,4,5,5,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Smith FOR Gray,1:50 PM
+340,1,2,368,0020700443,,,8:09,4,5,0,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Smith 9' Jump Shot,1:51 PM
+341,0,4,369,0020700443,Collins REBOUND (Off:0 Def:2),,8:08,4,4,0,0,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:51 PM
+342,1,2,370,0020700443,MISS Robinson 24' 3PT Jump Shot,,7:56,4,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:51 PM
+343,0,4,371,0020700443,,,7:54,4,5,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Nocioni REBOUND (Off:1 Def:1),1:51 PM
+344,1,2,372,0020700443,,,7:43,4,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hinrich 13' Jump Shot,1:51 PM
+345,0,4,373,0020700443,Lee REBOUND (Off:3 Def:4),,7:41,4,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:51 PM
+346,5,2,374,0020700443,MISS Randolph  Layup,,7:29,4,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:52 PM
+347,0,4,375,0020700443,,,7:28,4,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gordon REBOUND (Off:1 Def:3),1:52 PM
+348,1,1,376,0020700443,,,7:21,4,5,5,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,82 - 67,-15,Gordon 25' 3PT Jump Shot (20 PTS) (Hinrich 7 AST),1:52 PM
+349,1,2,377,0020700443,MISS Randolph 16' Jump Shot,,6:57,4,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:52 PM
+350,0,4,378,0020700443,Collins REBOUND (Off:1 Def:2),,6:56,4,4,0,0,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:52 PM
+351,46,2,379,0020700443,MISS Robinson 7' Running Jump Shot,,6:48,4,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:52 PM
+352,0,4,380,0020700443,,,6:47,4,5,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Nocioni REBOUND (Off:1 Def:2),1:52 PM
+353,1,6,381,0020700443,Lee P.FOUL (P3.T3),,6:34,4,4,5,1,101135,David Lee,NYK,New York,1610612752.0,Knicks,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,1:52 PM
+354,1,1,382,0020700443,,,6:29,4,5,5,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,84 - 67,-17,Gordon 7' Jump Shot (22 PTS) (Hinrich 8 AST),1:53 PM
+355,1,1,383,0020700443,Richardson 21' Jump Shot (13 PTS) (Collins 2 AST),,6:05,4,4,4,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,0,,,,,,84 - 69,-15,,1:53 PM
+356,1,2,384,0020700443,,,5:44,4,5,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Hinrich 26' 3PT Jump Shot,1:54 PM
+357,0,4,385,0020700443,,,5:41,4,5,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:5 Def:3),1:54 PM
+358,1,2,386,0020700443,,,5:37,4,5,0,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Smith 22' Jump Shot,1:54 PM
+359,0,4,387,0020700443,Randolph REBOUND (Off:4 Def:8),,5:36,4,4,0,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:54 PM
+360,66,1,388,0020700443,Randolph 9' Jump Bank Shot (16 PTS) (Robinson 4 AST),,5:13,4,4,4,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,84 - 71,-13,,1:54 PM
+361,1,7,389,0020700443,KNICKS Violation: Delay of game Violation,,5:10,4,2,0,1,1610612752,,,,,,0,,,,,,0,,,,,,,,,1:54 PM
+362,1,1,390,0020700443,,,4:56,4,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,87 - 71,-16,Gordon 24' 3PT Jump Shot (25 PTS),1:55 PM
+363,1,2,391,0020700443,MISS Robinson 17' Jump Shot,,4:34,4,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:55 PM
+364,0,4,392,0020700443,,,4:33,4,5,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Nocioni REBOUND (Off:1 Def:3),1:55 PM
+365,2,5,393,0020700443,Collins STEAL (2 STL),,4:19,4,5,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Gordon Lost Ball Turnover (P3.T13),1:55 PM
+366,1,5,394,0020700443,Robinson Bad Pass Turnover (P3.T17),,4:13,4,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:55 PM
+367,0,8,395,0020700443,,,4:13,4,5,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Duhon FOR Hinrich,1:55 PM
+368,0,8,396,0020700443,SUB: Jones FOR Randolph,,4:13,4,4,4,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,1:55 PM
+369,65,1,397,0020700443,,,4:06,4,5,0,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,89 - 71,-18,Smith 9' Jump Hook Shot (10 PTS),1:56 PM
+370,1,6,398,0020700443,,,3:56,4,5,4,1,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Smith P.FOUL (P5.T2),1:56 PM
+371,1,1,399,0020700443,Robinson 14' Jump Shot (15 PTS),,3:46,4,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,89 - 73,-16,,1:57 PM
+372,2,6,400,0020700443,Robinson S.FOUL (P2.T4),,3:30,4,4,5,1,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,1:57 PM
+373,11,3,401,0020700443,,,3:30,4,5,0,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Smith Free Throw 1 of 2,1:57 PM
+374,1,4,402,0020700443,,,3:30,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,1:57 PM
+375,12,3,403,0020700443,,,3:30,4,5,0,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,90 - 73,-17,Smith Free Throw 2 of 2 (11 PTS),1:58 PM
+376,2,6,404,0020700443,,,3:26,4,5,4,1,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Nocioni S.FOUL (P1.T3),1:58 PM
+377,11,3,405,0020700443,Jones Free Throw 1 of 2 (5 PTS),,3:26,4,4,0,0,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,90 - 74,-16,,1:58 PM
+378,12,3,406,0020700443,MISS Jones Free Throw 2 of 2,,3:26,4,4,0,0,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:59 PM
+379,0,4,407,0020700443,,,3:25,4,5,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:5 Def:4),1:59 PM
+380,1,1,408,0020700443,,,3:06,4,5,0,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,92 - 74,-18,Smith 9' Jump Shot (13 PTS),1:59 PM
+381,1,2,409,0020700443,MISS Richardson 25' 3PT Jump Shot,,2:55,4,4,0,0,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:59 PM
+382,0,4,410,0020700443,Jones REBOUND (Off:1 Def:3),,2:54,4,4,0,0,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:59 PM
+383,1,2,411,0020700443,MISS Robinson 24' 3PT Jump Shot,,2:50,4,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,1:59 PM
+384,0,4,412,0020700443,,,2:49,4,5,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:5 Def:5),1:59 PM
+385,2,6,413,0020700443,Robinson S.FOUL (P3.PN),,2:47,4,4,5,1,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,1:59 PM
+386,1,9,414,0020700443,KNICKS Timeout: Regular (Full 6 Short 0),,2:47,4,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,2:00 PM
+387,0,8,415,0020700443,SUB: Randolph FOR Jones,,2:47,4,4,4,0,2410,Fred Jones,NYK,New York,1610612752.0,Knicks,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,2:02 PM
+388,0,8,416,0020700443,,,2:47,4,5,5,0,693,Joe Smith,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Noah FOR Smith,2:02 PM
+389,11,3,418,0020700443,,,2:47,4,5,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,93 - 74,-19,Nocioni Free Throw 1 of 2 (4 PTS),2:02 PM
+390,12,3,419,0020700443,,,2:47,4,5,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,94 - 74,-20,Nocioni Free Throw 2 of 2 (5 PTS),2:03 PM
+391,1,6,421,0020700443,,,2:33,4,5,4,1,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Noah P.FOUL (P3.T4),2:03 PM
+392,0,8,422,0020700443,,,2:33,4,5,5,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Gray FOR Wallace,2:03 PM
+393,1,2,423,0020700443,MISS Collins 25' 3PT Jump Shot,,2:22,4,4,0,0,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,2:04 PM
+394,0,4,424,0020700443,Robinson REBOUND (Off:1 Def:1),,2:20,4,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,2:04 PM
+395,5,1,425,0020700443,Robinson  Layup (17 PTS),,2:19,4,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,94 - 76,-18,,2:04 PM
+396,4,5,426,0020700443,,,1:58,4,5,0,1,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gray Traveling Turnover (P5.T14),2:04 PM
+397,1,2,427,0020700443,MISS Lee 17' Jump Shot,,1:48,4,4,0,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,2:04 PM
+398,0,4,428,0020700443,,,1:47,4,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gordon REBOUND (Off:1 Def:4),2:04 PM
+399,1,2,429,0020700443,,,1:39,4,5,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Gordon 26' 3PT Jump Shot,2:05 PM
+400,0,4,430,0020700443,,,1:38,4,5,0,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gray REBOUND (Off:1 Def:1),2:05 PM
+401,1,6,431,0020700443,Robinson P.FOUL (P4.PN),,1:37,4,4,5,1,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,2:05 PM
+402,0,8,432,0020700443,,,1:37,4,5,5,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Sefolosha FOR Gordon,2:05 PM
+403,11,3,433,0020700443,,,1:37,4,5,0,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,95 - 76,-19,Gray Free Throw 1 of 2 (3 PTS),2:05 PM
+404,0,8,434,0020700443,,,1:37,4,5,5,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,1559,Adrian Griffin,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Griffin FOR Nocioni,2:05 PM
+405,12,3,435,0020700443,,,1:37,4,5,0,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,96 - 76,-20,Gray Free Throw 2 of 2 (4 PTS),2:05 PM
+406,1,1,436,0020700443,Randolph 20' Jump Shot (18 PTS) (Richardson 3 AST),,1:17,4,4,4,0,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,2047,Quentin Richardson,NYK,New York,1610612752.0,Knicks,0,,,,,,96 - 78,-18,,2:06 PM
+407,1,6,437,0020700443,Randolph P.FOUL (P3.PN),,1:02,4,4,5,1,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,2:06 PM
+408,11,3,438,0020700443,,,1:02,4,5,0,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,97 - 78,-19,Gray Free Throw 1 of 2 (5 PTS),2:06 PM
+409,12,3,439,0020700443,,,1:02,4,5,0,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Gray Free Throw 2 of 2,2:07 PM
+410,0,4,440,0020700443,Robinson REBOUND (Off:1 Def:2),,1:00,4,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,2:07 PM
+411,42,1,441,0020700443,Robinson  Driving Layup (19 PTS),,0:52,4,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,97 - 80,-17,,2:07 PM
+412,5,1,442,0020700443,,,0:41,4,5,5,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,99 - 80,-19,Gray  Layup (7 PTS) (Noah 1 AST),2:07 PM
+413,2,6,443,0020700443,Randolph S.FOUL (P4.PN),,0:41,4,4,5,1,2216,Zach Randolph,NYK,New York,1610612752.0,Knicks,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,2:07 PM
+414,10,3,444,0020700443,,,0:41,4,5,0,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,100 - 80,-20,Gray Free Throw 1 of 1 (8 PTS),2:08 PM
+415,2,6,445,0020700443,,,0:34,4,5,4,1,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Gray S.FOUL (P5.PN),2:08 PM
+416,11,3,446,0020700443,MISS Collins Free Throw 1 of 2,,0:34,4,4,0,0,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,2:08 PM
+417,1,4,447,0020700443,KNICKS Rebound,,0:34,4,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,2:08 PM
+418,12,3,448,0020700443,Collins Free Throw 2 of 2 (3 PTS),,0:34,4,4,0,0,200776,Mardy Collins,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,100 - 81,-19,,2:08 PM
+419,1,2,449,0020700443,,,0:13,4,5,0,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Sefolosha 21' Jump Shot,2:09 PM
+420,0,4,450,0020700443,,,0:12,4,5,0,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Gray REBOUND (Off:2 Def:1),2:09 PM
+421,1,2,451,0020700443,,,0:10,4,5,0,0,201189,Aaron Gray,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Gray 8' Jump Shot,2:09 PM
+422,0,4,452,0020700443,Robinson REBOUND (Off:1 Def:3),,0:09,4,4,0,0,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,2:09 PM
+423,42,1,453,0020700443,Lee  Driving Layup (11 PTS) (Robinson 5 AST),,0:04,4,4,4,0,101135,David Lee,NYK,New York,1610612752.0,Knicks,101126,Nate Robinson,NYK,New York,1610612752.0,Knicks,0,,,,,,100 - 83,-17,,2:09 PM
+424,0,13,454,0020700443,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,100 - 83,-17,,2:09 PM

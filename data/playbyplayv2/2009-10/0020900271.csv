@@ -1,0 +1,466 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020900271,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:42 PM
+1,0,10,1,0020900271,Jump Ball Moore vs. Scola: Tip to Morrow,,12:00,1,4,5,4,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,,,,10:42 PM
+2,5,2,2,0020900271,MISS Radmanovic 2' Layup,,11:44,1,4,0,5,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,,,Battier BLOCK (1 BLK),10:43 PM
+3,0,4,3,0020900271,,,11:43,1,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:0 Def:1),10:43 PM
+4,1,6,4,0020900271,Curry P.FOUL (P1.T1),,11:41,1,4,5,1,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:43 PM
+5,1,2,5,0020900271,,,11:32,1,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Battier 26' 3PT Jump Shot,10:43 PM
+6,0,4,6,0020900271,Moore REBOUND (Off:0 Def:1),,11:30,1,4,0,0,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:43 PM
+7,1,2,7,0020900271,MISS Curry 16' Jump Shot,,11:12,1,4,0,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:43 PM
+8,0,4,8,0020900271,Radmanovic REBOUND (Off:1 Def:0),,11:11,1,4,0,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:43 PM
+9,2,5,9,0020900271,Ellis Lost Ball Turnover (P1.T1),,11:00,1,4,5,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Brooks STEAL (1 STL),10:44 PM
+10,79,1,10,0020900271,,,10:47,1,5,5,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,3 - 0,-3,Ariza  3PT Pullup Jump Shot (3 PTS) (Scola 1 AST),10:44 PM
+11,1,2,11,0020900271,MISS Morrow 27' 3PT Jump Shot,,10:28,1,4,0,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:44 PM
+12,0,4,12,0020900271,,,10:27,1,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes REBOUND (Off:0 Def:1),10:44 PM
+13,79,2,13,0020900271,,,10:14,1,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza 26' 3PT Pullup Jump Shot,10:44 PM
+14,0,4,14,0020900271,Moore REBOUND (Off:0 Def:2),,10:13,1,4,0,0,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:44 PM
+15,80,1,15,0020900271,Radmanovic 25' 3PT Step Back Jump Shot (3 PTS) (Moore 1 AST),,10:00,1,4,4,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,0,,,,,,3 - 3,TIE,,10:45 PM
+16,1,5,16,0020900271,Radmanovic STEAL (1 STL),,9:53,1,5,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Ariza Bad Pass Turnover (P1.T1),10:45 PM
+17,8,1,17,0020900271,Radmanovic 2' Slam Dunk (5 PTS),,9:49,1,4,0,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,3 - 5,2,,10:45 PM
+18,42,1,18,0020900271,,,9:28,1,5,5,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,5 - 5,TIE,Battier 2' Driving Layup (2 PTS) (Hayes 1 AST),10:45 PM
+19,1,5,19,0020900271,Curry Bad Pass Turnover (P1.T2),,9:14,1,4,5,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Hayes STEAL (1 STL),10:46 PM
+20,2,6,20,0020900271,Morrow S.FOUL (P1.T2),,9:11,1,4,5,1,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:46 PM
+21,11,3,21,0020900271,,,9:11,1,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,6 - 5,-1,Ariza Free Throw 1 of 2 (4 PTS),10:46 PM
+22,12,3,23,0020900271,,,9:11,1,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza Free Throw 2 of 2,10:46 PM
+23,0,4,25,0020900271,,,9:10,1,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:1 Def:1),10:46 PM
+24,1,2,26,0020900271,,,9:00,1,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza 16' Jump Shot,10:46 PM
+25,0,4,27,0020900271,WARRIORS Rebound,,9:00,1,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,10:47 PM
+26,3,6,28,0020900271,,,9:00,1,5,4,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Scola L.B.FOUL (P1.T1),10:47 PM
+27,79,1,29,0020900271,Curry  3PT Pullup Jump Shot (3 PTS) (Moore 2 AST),,8:47,1,4,4,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,0,,,,,,6 - 8,2,,10:47 PM
+28,42,1,30,0020900271,,,8:26,1,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,8 - 8,TIE,Battier 3' Driving Layup (4 PTS),10:47 PM
+29,79,1,31,0020900271,Moore 18' Pullup Jump Shot (2 PTS) (Curry 1 AST),,8:09,1,4,4,0,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,8 - 10,2,,10:48 PM
+30,1,2,32,0020900271,,,7:51,1,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Hayes 11' Jump Shot,10:48 PM
+31,0,4,57,0020900271,,,7:50,1,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:1 Def:0),10:48 PM
+32,53,2,58,0020900271,,,7:50,1,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Battier 1' Tip Shot,10:48 PM
+33,0,4,34,0020900271,,,7:48,1,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:2 Def:0),10:48 PM
+34,65,1,33,0020900271,,,7:48,1,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,10 - 10,TIE,Battier 6' Jump Hook Shot (6 PTS),10:48 PM
+35,1,2,35,0020900271,MISS Ellis 4' Jump Shot,,7:35,1,4,0,5,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,,,Hayes BLOCK (1 BLK),10:48 PM
+36,0,4,36,0020900271,,,7:33,1,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes REBOUND (Off:0 Def:2),10:48 PM
+37,5,2,37,0020900271,,,7:30,1,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brooks 1' Layup,10:48 PM
+38,0,4,38,0020900271,Radmanovic REBOUND (Off:1 Def:1),,7:29,1,4,0,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:48 PM
+39,2,6,39,0020900271,,,7:15,1,5,4,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Brooks S.FOUL (P1.T2),10:48 PM
+40,11,3,40,0020900271,Curry Free Throw 1 of 2 (4 PTS),,7:15,1,4,0,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,10 - 11,1,,10:49 PM
+41,12,3,42,0020900271,Curry Free Throw 2 of 2 (5 PTS),,7:15,1,4,0,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,10 - 12,2,,10:49 PM
+42,41,5,44,0020900271,,,7:01,1,5,0,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brooks Poss Lost Ball Turnover (P1.T2),10:49 PM
+43,79,1,45,0020900271,Ellis 17' Pullup Jump Shot (2 PTS),,6:45,1,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,10 - 14,4,,10:50 PM
+44,1,1,46,0020900271,,,6:29,1,5,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,12 - 14,2,Scola 18' Jump Shot (2 PTS) (Brooks 1 AST),10:50 PM
+45,1,2,47,0020900271,MISS Moore 19' Jump Shot,,6:18,1,4,0,0,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:50 PM
+46,0,4,48,0020900271,,,6:17,1,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:1 Def:2),10:50 PM
+47,1,2,49,0020900271,,,6:02,1,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Battier  3PT Jump Shot,10:50 PM
+48,0,4,50,0020900271,Moore REBOUND (Off:0 Def:3),,6:01,1,4,0,0,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:50 PM
+49,79,1,51,0020900271,Morrow 26' 3PT Pullup Jump Shot (3 PTS) (Ellis 1 AST),,5:52,1,4,4,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,12 - 17,5,,10:51 PM
+50,1,2,52,0020900271,,,5:34,1,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza 25' 3PT Jump Shot,10:51 PM
+51,0,4,53,0020900271,Morrow REBOUND (Off:0 Def:1),,5:33,1,4,0,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:51 PM
+52,42,1,54,0020900271,Moore 2' Driving Layup (4 PTS) (Radmanovic 1 AST),,5:19,1,4,4,0,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,12 - 19,7,,10:51 PM
+53,2,6,55,0020900271,,,5:19,1,5,4,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Brooks S.FOUL (P2.T3),10:51 PM
+54,1,9,56,0020900271,WARRIORS Timeout: Regular (Full 1 Short 0),,5:19,1,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,10:51 PM
+55,0,8,60,0020900271,,,5:19,1,5,5,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Lowry FOR Brooks,10:54 PM
+56,10,3,61,0020900271,MISS Moore Free Throw 1 of 1,,5:19,1,4,0,0,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:54 PM
+57,0,4,63,0020900271,,,5:17,1,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:1 Def:3),10:54 PM
+58,2,5,64,0020900271,Curry STEAL (1 STL),,5:05,1,5,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Ariza Lost Ball Turnover (P2.T3),10:54 PM
+59,1,2,65,0020900271,MISS Ellis 17' Jump Shot,,4:58,1,4,0,5,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,,,Battier BLOCK (2 BLK),10:54 PM
+60,0,4,66,0020900271,,,4:57,1,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:1 Def:4),10:54 PM
+61,1,2,67,0020900271,,,4:36,1,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza 25' 3PT Jump Shot,10:55 PM
+62,0,4,68,0020900271,,,4:35,1,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:2 Def:4),10:55 PM
+63,1,2,69,0020900271,Moore BLOCK (1 BLK),,4:26,1,5,0,4,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,,,MISS Lowry 6' Jump Shot,10:55 PM
+64,0,4,70,0020900271,,,4:24,1,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:1 Def:0),10:55 PM
+65,72,1,71,0020900271,,,4:22,1,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,14 - 19,5,Ariza 2' Putback Layup (6 PTS),10:55 PM
+66,78,2,72,0020900271,MISS Curry 10' Floating Jump Shot,,4:05,1,4,0,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:56 PM
+67,0,4,73,0020900271,,,4:04,1,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:2 Def:5),10:56 PM
+68,5,1,74,0020900271,,,3:55,1,5,5,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,16 - 19,3,Hayes 1' Layup (2 PTS) (Battier 1 AST),10:56 PM
+69,2,6,75,0020900271,Moore S.FOUL (P1.T3),,3:55,1,4,5,1,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:56 PM
+70,0,8,76,0020900271,SUB: C. Hunter FOR Moore,,3:55,1,4,4,0,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,10:56 PM
+71,10,3,77,0020900271,,,3:55,1,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Hayes Free Throw 1 of 1,10:56 PM
+72,0,4,79,0020900271,Radmanovic REBOUND (Off:1 Def:2),,3:54,1,4,0,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:57 PM
+73,1,2,80,0020900271,MISS Radmanovic 25' 3PT Jump Shot,,3:44,1,4,0,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:57 PM
+74,0,4,81,0020900271,Curry REBOUND (Off:1 Def:0),,3:42,1,4,0,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:57 PM
+75,1,2,82,0020900271,MISS Curry 24' 3PT Jump Shot,,3:37,1,4,0,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:57 PM
+76,0,4,83,0020900271,,,3:36,1,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes REBOUND (Off:0 Def:3),10:57 PM
+77,5,2,84,0020900271,,,3:23,1,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Hayes 2' Layup,10:57 PM
+78,0,4,86,0020900271,,,3:21,1,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:2 Def:0),10:57 PM
+79,7,1,85,0020900271,,,3:21,1,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,18 - 19,1,Ariza 1' Dunk (8 PTS),10:57 PM
+80,1,2,87,0020900271,MISS C. Hunter 4' Jump Shot,,3:08,1,4,0,0,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:57 PM
+81,0,4,88,0020900271,,,3:04,1,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:2 Def:6),10:57 PM
+82,2,6,89,0020900271,Morrow S.FOUL (P2.T4),,3:03,1,4,5,1,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:57 PM
+83,11,3,90,0020900271,,,3:03,1,5,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lowry Free Throw 1 of 2,10:58 PM
+84,1,4,91,0020900271,,,3:03,1,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:58 PM
+85,0,8,92,0020900271,,,3:03,1,5,5,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Landry FOR Hayes,10:58 PM
+86,12,3,93,0020900271,,,3:03,1,5,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,19 - 19,TIE,Lowry Free Throw 2 of 2 (1 PTS),10:58 PM
+87,5,2,95,0020900271,MISS Ellis 1' Layup,,2:43,1,4,0,5,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,,,Landry BLOCK (1 BLK),10:59 PM
+88,0,4,96,0020900271,,,2:42,1,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Landry REBOUND (Off:0 Def:1),10:59 PM
+89,1,5,97,0020900271,Radmanovic STEAL (2 STL),,2:39,1,5,4,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Landry Bad Pass Turnover (P1.T4),10:59 PM
+90,2,5,98,0020900271,Curry Lost Ball Turnover (P2.T3),,2:28,1,4,5,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Landry STEAL (1 STL),10:59 PM
+91,42,1,99,0020900271,,,2:24,1,5,5,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,21 - 19,-2,Landry 2' Driving Layup (2 PTS) (Lowry 1 AST),10:59 PM
+92,2,6,100,0020900271,Ellis S.FOUL (P1.PN),,2:24,1,4,5,1,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:59 PM
+93,1,9,101,0020900271,,,2:24,1,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.1 Short 0),10:59 PM
+94,0,8,103,0020900271,SUB: Watson FOR Curry,,2:24,1,4,4,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:02 PM
+95,10,3,104,0020900271,,,2:24,1,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,22 - 19,-3,Landry Free Throw 1 of 1 (3 PTS),11:02 PM
+96,2,5,106,0020900271,Ellis Lost Ball Turnover (P2.T4),,2:12,1,4,5,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Battier STEAL (1 STL),11:02 PM
+97,5,1,107,0020900271,,,2:07,1,5,5,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,24 - 19,-5,Ariza 2' Layup (10 PTS) (Battier 2 AST),11:02 PM
+98,42,1,108,0020900271,Ellis 2' Driving Layup (4 PTS),,1:56,1,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,24 - 21,-3,,11:02 PM
+99,1,5,109,0020900271,Watson STEAL (1 STL),,1:35,1,5,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Ariza Bad Pass Turnover (P3.T5),11:03 PM
+100,42,1,110,0020900271,Ellis 2' Driving Layup (6 PTS) (Watson 1 AST),,1:30,1,4,4,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,24 - 23,-1,,11:03 PM
+101,58,2,111,0020900271,,,1:16,1,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Scola 7' Turnaround Hook Shot,11:03 PM
+102,0,4,112,0020900271,,,1:16,1,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,11:03 PM
+103,1,6,113,0020900271,Morrow P.FOUL (P3.PN),,1:16,1,4,5,1,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:03 PM
+104,11,3,114,0020900271,,,1:16,1,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,25 - 23,-2,Battier Free Throw 1 of 2 (7 PTS),11:04 PM
+105,0,8,116,0020900271,,,1:16,1,5,5,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Budinger FOR Ariza,11:04 PM
+106,0,8,117,0020900271,,,1:16,1,5,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Andersen FOR Scola,11:04 PM
+107,0,8,118,0020900271,SUB: Maggette FOR Morrow,,1:16,1,4,4,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:04 PM
+108,12,3,119,0020900271,,,1:16,1,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,26 - 23,-3,Battier Free Throw 2 of 2 (8 PTS),11:04 PM
+109,96,2,121,0020900271,MISS C. Hunter 3' Turnaround Bank Hook Shot,,1:00,1,4,0,0,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:04 PM
+110,0,4,122,0020900271,Maggette REBOUND (Off:1 Def:0),,0:59,1,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:04 PM
+111,1,6,123,0020900271,,,0:59,1,5,4,1,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Battier P.FOUL (P1.T4),11:05 PM
+112,80,1,124,0020900271,Radmanovic 18' Step Back Jump Shot (7 PTS),,0:55,1,4,0,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,26 - 25,-1,,11:05 PM
+113,1,2,125,0020900271,,,0:43,1,5,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Andersen 18' Jump Shot,11:05 PM
+114,0,4,126,0020900271,,,0:40,1,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:3 Def:0),11:05 PM
+115,5,2,127,0020900271,,,0:35,1,5,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Budinger 1' Layup,11:05 PM
+116,0,4,128,0020900271,,,0:34,1,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Landry REBOUND (Off:1 Def:1),11:06 PM
+117,4,6,129,0020900271,,,0:33,1,5,4,1,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Landry OFF.Foul (P1),11:06 PM
+118,5,5,130,0020900271,,,0:33,1,5,0,1,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Landry Foul Turnover (P2.T6),11:06 PM
+119,1,2,131,0020900271,MISS Maggette 3' Jump Shot,,0:19,1,4,0,5,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,,,Battier BLOCK (3 BLK),11:06 PM
+120,0,4,132,0020900271,Watson REBOUND (Off:1 Def:0),,0:17,1,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:06 PM
+121,79,1,133,0020900271,Watson 25' 3PT Pullup Jump Shot (3 PTS),,0:15,1,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,26 - 28,2,,11:06 PM
+122,2,6,134,0020900271,Ellis S.FOUL (P2.PN),,0:05,1,4,5,1,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:07 PM
+123,11,3,135,0020900271,,,0:05,1,5,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,27 - 28,1,Lowry Free Throw 1 of 2 (2 PTS),11:07 PM
+124,12,3,137,0020900271,,,0:05,1,5,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,28 - 28,TIE,Lowry Free Throw 2 of 2 (3 PTS),11:07 PM
+125,1,2,139,0020900271,MISS Ellis 27' 3PT Jump Shot,,0:01,1,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:08 PM
+126,0,4,140,0020900271,WARRIORS Rebound,,0:00,1,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,11:08 PM
+127,0,13,141,0020900271,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,28 - 28,TIE,,11:08 PM
+128,0,12,143,0020900271,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,28 - 28,TIE,,11:10 PM
+129,78,1,144,0020900271,,,11:42,2,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,30 - 28,-2,Landry 8' Floating Jump Shot (5 PTS),11:11 PM
+130,42,1,145,0020900271,Ellis 1' Driving Layup (8 PTS),,11:24,2,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,30 - 30,TIE,,11:11 PM
+131,80,1,146,0020900271,,,11:11,2,5,5,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,32 - 30,-2,Landry 14' Step Back Jump Shot (7 PTS) (Ariza 1 AST),11:11 PM
+132,1,2,147,0020900271,MISS Radmanovic 26' 3PT Jump Shot,,10:57,2,4,0,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:11 PM
+133,0,4,148,0020900271,,,10:55,2,5,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:0 Def:1),11:11 PM
+134,80,1,149,0020900271,,,10:45,2,5,5,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,35 - 30,-5,Budinger 27' 3PT Step Back Jump Shot (3 PTS) (Landry 1 AST),11:12 PM
+135,1,2,150,0020900271,MISS Maggette 4' Jump Shot,,10:26,2,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:12 PM
+136,0,4,151,0020900271,,,10:26,2,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,11:12 PM
+137,1,5,152,0020900271,Maggette STEAL (1 STL),,10:16,2,5,4,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Lowry Bad Pass Turnover (P1.T7),11:12 PM
+138,79,1,153,0020900271,Watson 14' Pullup Jump Shot (5 PTS) (Maggette 1 AST),,10:11,2,4,4,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,35 - 32,-3,,11:12 PM
+139,1,2,154,0020900271,,,9:49,2,5,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Budinger  3PT Jump Shot,11:13 PM
+140,0,4,155,0020900271,Watson REBOUND (Off:1 Def:1),,9:48,2,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:13 PM
+141,42,1,156,0020900271,Ellis 2' Driving Layup (10 PTS) (Watson 2 AST),,9:44,2,4,4,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,35 - 34,-1,,11:13 PM
+142,1,2,157,0020900271,,,9:23,2,5,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Andersen 14' Jump Shot,11:13 PM
+143,0,4,158,0020900271,,,9:22,2,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:3 Def:0),11:13 PM
+144,1,6,159,0020900271,C. Hunter P.FOUL (P1.T1),,9:20,2,4,5,1,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:13 PM
+145,0,8,160,0020900271,SUB: Moore FOR C. Hunter,,9:20,2,4,4,0,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:13 PM
+146,1,2,161,0020900271,,,9:08,2,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Landry 5' Jump Shot,11:14 PM
+147,0,4,162,0020900271,,,9:07,2,5,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Budinger REBOUND (Off:1 Def:0),11:14 PM
+148,5,1,163,0020900271,,,9:06,2,5,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,37 - 34,-3,Budinger 3' Layup (5 PTS),11:14 PM
+149,1,5,164,0020900271,Ellis Bad Pass Turnover (P3.T5),,8:46,2,4,5,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Lowry STEAL (1 STL),11:14 PM
+150,42,1,165,0020900271,,,8:40,2,5,5,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,39 - 34,-5,Budinger 2' Driving Layup (7 PTS) (Lowry 2 AST),11:14 PM
+151,1,6,166,0020900271,,,8:36,2,5,4,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Lowry P.FOUL (P1.T1),11:14 PM
+152,4,9,167,0020900271,,,8:36,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:14 PM
+153,1,5,169,0020900271,Ellis Bad Pass Turnover (P4.T6),,8:29,2,4,5,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Budinger STEAL (1 STL),11:17 PM
+154,79,1,170,0020900271,,,8:23,2,5,5,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,42 - 34,-8,Budinger 27' 3PT Pullup Jump Shot (10 PTS) (Ariza 2 AST),11:17 PM
+155,75,1,171,0020900271,Radmanovic 3' Driving Finger Roll Layup (9 PTS) (Ellis 2 AST),,8:06,2,4,4,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,42 - 36,-6,,11:17 PM
+156,1,2,172,0020900271,,,7:43,2,5,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lowry 27' 3PT Jump Shot,11:18 PM
+157,0,4,173,0020900271,Maggette REBOUND (Off:1 Def:1),,7:42,2,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:18 PM
+158,1,2,174,0020900271,MISS Ellis 19' Jump Shot,,7:34,2,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:18 PM
+159,0,4,175,0020900271,,,7:33,2,5,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Andersen REBOUND (Off:0 Def:1),11:18 PM
+160,5,7,176,0020900271,Ellis Violation:Kicked Ball,,7:29,2,4,0,1,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:18 PM
+161,86,2,177,0020900271,,,7:18,2,5,0,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Andersen 14' Turnaround Fadeaway Shot,11:18 PM
+162,0,4,178,0020900271,Radmanovic REBOUND (Off:1 Def:3),,7:17,2,4,0,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:18 PM
+163,2,6,179,0020900271,,,7:13,2,5,4,1,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Budinger S.FOUL (P1.T2),11:19 PM
+164,11,3,180,0020900271,MISS Ellis Free Throw 1 of 2,,7:13,2,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:19 PM
+165,1,4,181,0020900271,WARRIORS Rebound,,7:13,2,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,11:19 PM
+166,0,8,182,0020900271,SUB: Morrow FOR Radmanovic,,7:13,2,4,4,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:19 PM
+167,0,8,183,0020900271,,,7:13,2,5,5,0,2431,David Andersen,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Scola FOR Andersen,11:19 PM
+168,12,3,184,0020900271,Ellis Free Throw 2 of 2 (11 PTS),,7:13,2,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,42 - 37,-5,,11:19 PM
+169,1,6,186,0020900271,Moore P.FOUL (P2.T2),,7:02,2,4,5,1,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:20 PM
+170,1,2,187,0020900271,,,6:54,2,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Scola 6' Jump Shot,11:20 PM
+171,0,4,188,0020900271,,,6:53,2,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Landry REBOUND (Off:2 Def:1),11:20 PM
+172,49,1,189,0020900271,,,6:50,2,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,44 - 37,-7,Landry 1' Driving Dunk (9 PTS),11:20 PM
+173,79,1,190,0020900271,Watson 26' 3PT Pullup Jump Shot (8 PTS) (Morrow 1 AST),,6:34,2,4,4,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,44 - 40,-4,,11:20 PM
+174,2,6,191,0020900271,Moore S.FOUL (P3.T3),,6:22,2,4,5,1,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:21 PM
+175,11,3,192,0020900271,,,6:22,2,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,45 - 40,-5,Landry Free Throw 1 of 2 (10 PTS),11:21 PM
+176,0,8,194,0020900271,SUB: C. Hunter FOR Moore,,6:22,2,4,4,0,1630,Mikki Moore,GSW,Golden State,1610612744.0,Warriors,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:21 PM
+177,12,3,195,0020900271,,,6:22,2,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,46 - 40,-6,Landry Free Throw 2 of 2 (11 PTS),11:21 PM
+178,1,6,197,0020900271,,,6:13,2,5,4,1,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Landry P.FOUL (P2.T3),11:22 PM
+179,11,3,198,0020900271,Maggette Free Throw 1 of 2 (1 PTS),,6:13,2,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,46 - 41,-5,,11:22 PM
+180,12,3,200,0020900271,Maggette Free Throw 2 of 2 (2 PTS),,6:13,2,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,46 - 42,-4,,11:22 PM
+181,79,2,202,0020900271,,,5:55,2,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza 21' Pullup Jump Shot,11:23 PM
+182,0,4,203,0020900271,Watson REBOUND (Off:1 Def:2),,5:54,2,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:23 PM
+183,5,2,204,0020900271,MISS Ellis 2' Layup,,5:42,2,4,0,5,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,,,Landry BLOCK (2 BLK),11:23 PM
+184,0,4,205,0020900271,C. Hunter REBOUND (Off:1 Def:0),,5:39,2,4,0,0,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:23 PM
+185,5,2,206,0020900271,MISS C. Hunter 3' Layup,,5:37,2,4,0,0,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:23 PM
+186,0,4,207,0020900271,,,5:35,2,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Landry REBOUND (Off:2 Def:2),11:23 PM
+187,1,2,208,0020900271,,,5:28,2,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Scola 19' Jump Shot,11:23 PM
+188,0,4,209,0020900271,Watson REBOUND (Off:1 Def:3),,5:27,2,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:23 PM
+189,42,1,210,0020900271,Watson 2' Driving Layup (10 PTS) (C. Hunter 1 AST),,5:15,2,4,4,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,46 - 44,-2,,11:24 PM
+190,1,2,211,0020900271,,,4:59,2,5,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Budinger 20' Jump Shot,11:24 PM
+191,0,4,212,0020900271,Watson REBOUND (Off:1 Def:4),,4:58,2,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:24 PM
+192,2,5,213,0020900271,Watson Lost Ball Turnover (P1.T7),,4:54,2,4,5,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Landry STEAL (2 STL),11:24 PM
+193,7,1,214,0020900271,,,4:49,2,5,5,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,48 - 44,-4,Ariza 1' Dunk (12 PTS) (Budinger 1 AST),11:24 PM
+194,1,9,215,0020900271,WARRIORS Timeout: Regular (Full 2 Short 0),,4:37,2,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,11:24 PM
+195,0,8,217,0020900271,,,4:37,2,5,5,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Brooks FOR Lowry,11:27 PM
+196,0,8,218,0020900271,,,4:37,2,5,5,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Battier FOR Landry,11:27 PM
+197,88,1,220,0020900271,Maggette 1' Driving Slam Dunk (4 PTS) (Ellis 3 AST),,4:29,2,4,4,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,48 - 46,-2,,11:27 PM
+198,41,5,221,0020900271,,,4:11,2,5,0,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza Poss Lost Ball Turnover (P4.T8),11:27 PM
+199,79,2,222,0020900271,MISS C. Hunter 14' Pullup Jump Shot,,3:58,2,4,0,0,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:28 PM
+200,0,4,223,0020900271,WARRIORS Rebound,,3:57,2,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,11:28 PM
+201,63,2,224,0020900271,MISS C. Hunter 8' Fadeaway Jumper,,3:51,2,4,0,0,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:28 PM
+202,0,4,225,0020900271,,,3:50,2,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:2 Def:7),11:28 PM
+203,2,6,226,0020900271,C. Hunter S.FOUL (P2.T4),,3:39,2,4,5,1,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:29 PM
+204,11,3,227,0020900271,,,3:39,2,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Battier Free Throw 1 of 2,11:29 PM
+205,1,4,228,0020900271,,,3:39,2,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,11:29 PM
+206,0,8,229,0020900271,SUB: Radmanovic FOR C. Hunter,,3:39,2,4,4,0,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:29 PM
+207,12,3,230,0020900271,,,3:39,2,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,49 - 46,-3,Battier Free Throw 2 of 2 (9 PTS),11:29 PM
+208,2,5,232,0020900271,Ellis Lost Ball Turnover (P5.T8),,3:18,2,4,5,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Ariza STEAL (1 STL),11:30 PM
+209,79,1,233,0020900271,,,3:06,2,5,5,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,52 - 46,-6,Brooks 26' 3PT Pullup Jump Shot (3 PTS) (Battier 3 AST),11:30 PM
+210,47,1,234,0020900271,Maggette 17' Turnaround Jump Shot (6 PTS),,2:52,2,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,52 - 48,-4,,11:30 PM
+211,8,5,235,0020900271,,,2:34,2,5,0,1,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Budinger 3 Second Violation Turnover (P1.T9),11:31 PM
+212,5,2,238,0020900271,MISS Maggette 2' Layup,,2:20,2,4,0,5,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,,,Battier BLOCK (4 BLK),11:33 PM
+213,0,4,239,0020900271,,,2:18,2,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:2 Def:8),11:34 PM
+214,65,1,240,0020900271,,,2:02,2,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,54 - 48,-6,Scola 6' Jump Hook Shot (4 PTS),11:34 PM
+215,1,2,241,0020900271,MISS Ellis 15' Jump Shot,,1:46,2,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:34 PM
+216,0,4,242,0020900271,,,1:44,2,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:3 Def:1),11:34 PM
+217,1,1,243,0020900271,,,1:39,2,5,5,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,56 - 48,-8,Ariza 18' Jump Shot (14 PTS) (Brooks 2 AST),11:35 PM
+218,1,2,244,0020900271,MISS Maggette 3' Jump Shot,,1:25,2,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:35 PM
+219,0,4,245,0020900271,Maggette REBOUND (Off:2 Def:1),,1:24,2,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:35 PM
+220,2,6,246,0020900271,,,1:24,2,5,4,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Scola S.FOUL (P2.T4),11:35 PM
+221,11,3,247,0020900271,Maggette Free Throw 1 of 2 (7 PTS),,1:24,2,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,56 - 49,-7,,11:35 PM
+222,0,8,249,0020900271,SUB: Curry FOR Morrow,,1:24,2,4,4,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:35 PM
+223,12,3,250,0020900271,Maggette Free Throw 2 of 2 (8 PTS),,1:24,2,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,56 - 50,-6,,11:35 PM
+224,1,2,252,0020900271,,,1:15,2,5,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Budinger  3PT Jump Shot,11:36 PM
+225,0,4,253,0020900271,Ellis REBOUND (Off:0 Def:1),,1:14,2,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:36 PM
+226,2,6,254,0020900271,,,1:11,2,5,4,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Ariza S.FOUL (P1.PN),11:36 PM
+227,11,3,255,0020900271,MISS Ellis Free Throw 1 of 2,,1:11,2,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:36 PM
+228,1,4,256,0020900271,WARRIORS Rebound,,1:11,2,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,11:36 PM
+229,0,8,257,0020900271,,,1:11,2,5,5,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Lowry FOR Budinger,11:36 PM
+230,12,3,258,0020900271,Ellis Free Throw 2 of 2 (12 PTS),,1:11,2,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,56 - 51,-5,,11:36 PM
+231,1,2,260,0020900271,,,0:55,2,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brooks  3PT Jump Shot,11:37 PM
+232,0,4,261,0020900271,Ellis REBOUND (Off:0 Def:2),,0:54,2,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:37 PM
+233,4,6,262,0020900271,Ellis OFF.Foul (P3),,0:50,2,4,5,1,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:37 PM
+234,5,5,263,0020900271,Ellis Foul Turnover (P6.T9),,0:50,2,4,0,1,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:37 PM
+235,4,5,264,0020900271,,,0:37,2,5,0,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola Traveling Turnover (P1.T10),11:38 PM
+236,1,5,265,0020900271,Curry Bad Pass Turnover (P3.T10),,0:27,2,4,5,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Ariza STEAL (2 STL),11:38 PM
+237,8,1,266,0020900271,,,0:25,2,5,5,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,58 - 51,-7,Ariza  Slam Dunk (16 PTS) (Lowry 3 AST),11:38 PM
+238,4,6,267,0020900271,Ellis OFF.Foul (P4),,0:05,2,4,5,1,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:38 PM
+239,5,5,268,0020900271,Ellis Foul Turnover (P7.T11),,0:05,2,4,0,1,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:38 PM
+240,79,2,269,0020900271,,,0:00,2,5,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lowry 24' 3PT Pullup Jump Shot,11:39 PM
+241,0,4,270,0020900271,,,0:00,2,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,11:39 PM
+242,0,13,271,0020900271,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,58 - 51,-7,,11:39 PM
+243,0,12,273,0020900271,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,58 - 51,-7,,11:55 PM
+244,1,2,274,0020900271,,,11:48,3,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza 4' Jump Shot,11:55 PM
+245,0,4,275,0020900271,Ellis REBOUND (Off:0 Def:3),,11:47,3,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:55 PM
+246,79,2,276,0020900271,MISS Ellis 19' Pullup Jump Shot,,11:39,3,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:55 PM
+247,0,4,277,0020900271,,,11:38,3,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes REBOUND (Off:0 Def:4),11:55 PM
+248,2,5,278,0020900271,Ellis STEAL (1 STL),,11:24,3,5,4,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Brooks Lost Ball Turnover (P2.T11),11:56 PM
+249,79,1,279,0020900271,Morrow 25' 3PT Pullup Jump Shot (6 PTS) (Ellis 4 AST),,11:18,3,4,4,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,58 - 54,-4,,11:56 PM
+250,1,5,280,0020900271,Ellis STEAL (2 STL),,11:01,3,5,4,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Hayes Bad Pass Turnover (P1.T12),11:56 PM
+251,42,1,281,0020900271,Ellis 1' Driving Layup (14 PTS),,10:55,3,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,58 - 56,-2,,11:56 PM
+252,42,1,282,0020900271,,,10:38,3,5,5,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,60 - 56,-4,Ariza 1' Driving Layup (18 PTS) (Battier 4 AST),11:56 PM
+253,80,1,283,0020900271,C. Hunter 16' Step Back Jump Shot (2 PTS) (Radmanovic 2 AST),,10:23,3,4,4,0,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,60 - 58,-2,,11:57 PM
+254,42,1,284,0020900271,,,10:10,3,5,5,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,62 - 58,-4,Brooks 2' Driving Layup (5 PTS) (Scola 2 AST),11:57 PM
+255,19,6,285,0020900271,,,10:09,3,5,0,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brooks Taunting (P2.T0),11:57 PM
+256,16,3,286,0020900271,Morrow Free Throw Technical (7 PTS),,10:09,3,4,0,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,62 - 59,-3,,11:57 PM
+257,78,1,288,0020900271,Curry 7' Floating Jump Shot (7 PTS) (Radmanovic 3 AST),,9:52,3,4,4,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,62 - 61,-1,,11:58 PM
+258,1,2,289,0020900271,,,9:36,3,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza  3PT Jump Shot,11:58 PM
+259,0,4,290,0020900271,Curry REBOUND (Off:1 Def:1),,9:34,3,4,0,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:58 PM
+260,79,1,291,0020900271,Radmanovic  3PT Pullup Jump Shot (12 PTS) (Morrow 2 AST),,9:19,3,4,4,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,62 - 64,2,,11:58 PM
+261,2,5,292,0020900271,Radmanovic STEAL (3 STL),,9:06,3,5,4,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Scola Lost Ball Turnover (P2.T13),11:59 PM
+262,42,1,293,0020900271,Radmanovic 2' Driving Layup (14 PTS) (Morrow 3 AST),,9:00,3,4,4,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,62 - 66,4,,11:59 PM
+263,1,9,294,0020900271,,,8:59,3,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.2 Short 0),11:59 PM
+264,4,6,298,0020900271,,,8:46,3,5,4,1,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Hayes OFF.Foul (P1),12:02 PM
+265,5,5,299,0020900271,,,8:46,3,5,0,1,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes Foul Turnover (P2.T14),12:02 PM
+266,1,2,300,0020900271,MISS Ellis 20' Jump Shot,,8:27,3,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:03 PM
+267,0,4,301,0020900271,,,8:26,3,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brooks REBOUND (Off:0 Def:1),12:03 PM
+268,5,1,302,0020900271,,,8:17,3,5,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,64 - 66,2,Scola 3' Layup (6 PTS) (Hayes 2 AST),12:03 PM
+269,1,6,303,0020900271,,,8:04,3,5,4,1,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Hayes P.FOUL (P2.T1),12:03 PM
+270,1,1,304,0020900271,Radmanovic 25' 3PT Jump Shot (17 PTS) (Morrow 4 AST),,7:58,3,4,4,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,64 - 69,5,,12:04 PM
+271,79,1,305,0020900271,,,7:42,3,5,5,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,67 - 69,2,Brooks 26' 3PT Pullup Jump Shot (8 PTS) (Scola 3 AST),12:04 PM
+272,1,2,306,0020900271,MISS Curry 26' 3PT Jump Shot,,7:33,3,4,0,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:04 PM
+273,0,4,307,0020900271,,,7:32,3,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:2 Def:9),12:04 PM
+274,65,1,308,0020900271,,,7:16,3,5,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,69 - 69,TIE,Scola 5' Jump Hook Shot (8 PTS) (Brooks 3 AST),12:04 PM
+275,2,5,309,0020900271,Curry Lost Ball Turnover (P4.T12),,7:08,3,4,5,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Ariza STEAL (3 STL),12:04 PM
+276,63,2,310,0020900271,,,6:56,3,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza 4' Fadeaway Jumper,12:05 PM
+277,0,4,312,0020900271,,,6:54,3,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:3 Def:9),12:05 PM
+278,4,1,311,0020900271,,,6:54,3,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,71 - 69,-2,Scola 1' Tip Shot (10 PTS),12:05 PM
+279,79,1,313,0020900271,Morrow 26' 3PT Pullup Jump Shot (10 PTS) (Ellis 5 AST),,6:34,3,4,4,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,71 - 72,1,,12:05 PM
+280,79,1,314,0020900271,,,6:25,3,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,74 - 72,-2,Brooks 25' 3PT Pullup Jump Shot (11 PTS),12:05 PM
+281,79,1,315,0020900271,Radmanovic 25' 3PT Pullup Jump Shot (20 PTS) (Ellis 6 AST),,6:09,3,4,4,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,74 - 75,1,,12:05 PM
+282,5,2,316,0020900271,C. Hunter BLOCK (1 BLK),,5:54,3,5,0,4,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,,,MISS Hayes 1' Layup,12:06 PM
+283,0,4,317,0020900271,Radmanovic REBOUND (Off:1 Def:4),,5:52,3,4,0,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:06 PM
+284,43,1,318,0020900271,Ellis 1' Alley Oop Layup (16 PTS) (Radmanovic 4 AST),,5:48,3,4,4,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,74 - 77,3,,12:06 PM
+285,79,1,319,0020900271,,,5:26,3,5,5,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,77 - 77,TIE,Brooks 26' 3PT Pullup Jump Shot (14 PTS) (Hayes 3 AST),12:06 PM
+286,1,2,320,0020900271,MISS Ellis 4' Jump Shot,,5:03,3,4,0,5,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,,,Battier BLOCK (5 BLK),12:06 PM
+287,0,4,321,0020900271,,,5:01,3,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brooks REBOUND (Off:0 Def:2),12:07 PM
+288,1,2,322,0020900271,,,4:59,3,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brooks 3' Jump Shot,12:07 PM
+289,0,4,323,0020900271,Curry REBOUND (Off:1 Def:2),,4:58,3,4,0,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:07 PM
+290,5,2,324,0020900271,MISS Radmanovic 2' Layup,,4:51,3,4,0,5,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,,,Battier BLOCK (6 BLK),12:07 PM
+291,0,4,325,0020900271,Radmanovic REBOUND (Off:2 Def:4),,4:50,3,4,0,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:07 PM
+292,1,1,326,0020900271,Morrow 27' 3PT Jump Shot (13 PTS) (Radmanovic 5 AST),,4:44,3,4,4,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,77 - 80,3,,12:07 PM
+293,42,1,327,0020900271,,,4:29,3,5,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,79 - 80,1,Scola 2' Driving Layup (12 PTS) (Brooks 4 AST),12:07 PM
+294,1,2,328,0020900271,MISS Morrow  3PT Jump Shot,,4:18,3,4,0,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:07 PM
+295,0,4,329,0020900271,,,4:16,3,5,0,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola REBOUND (Off:3 Def:10),12:07 PM
+296,1,2,330,0020900271,,,3:57,3,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza 25' 3PT Jump Shot,12:08 PM
+297,0,4,331,0020900271,,,3:56,3,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:4 Def:0),12:08 PM
+298,4,5,332,0020900271,,,3:51,3,5,0,1,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Scola Traveling Turnover (P3.T15),12:09 PM
+299,0,8,333,0020900271,,,3:51,3,5,5,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Landry FOR Hayes,12:09 PM
+300,0,8,334,0020900271,SUB: Watson FOR Curry,,3:51,3,4,4,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:09 PM
+301,80,1,335,0020900271,Morrow 18' Step Back Jump Shot (15 PTS),,3:33,3,4,0,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,79 - 82,3,,12:09 PM
+302,4,5,336,0020900271,,,3:15,3,5,0,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza Traveling Turnover (P5.T16),12:10 PM
+303,0,8,337,0020900271,,,3:15,3,5,5,0,2449,Luis Scola,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Lowry FOR Scola,12:10 PM
+304,79,1,338,0020900271,Ellis 19' Pullup Jump Shot (18 PTS) (C. Hunter 2 AST),,3:02,3,4,4,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,79 - 84,5,,12:10 PM
+305,1,6,339,0020900271,C. Hunter P.FOUL (P3.T1),,2:51,3,4,5,1,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:10 PM
+306,1,9,340,0020900271,WARRIORS Timeout: Regular (Full 3 Short 0),,2:51,3,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,12:11 PM
+307,40,5,344,0020900271,,,2:45,3,5,0,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brooks Out of Bounds Lost Ball Turnover (P3.T17),12:13 PM
+308,1,5,345,0020900271,Radmanovic Bad Pass Turnover (P1.T13),,2:34,3,4,0,1,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:14 PM
+309,1,2,346,0020900271,,,2:25,3,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brooks 26' 3PT Jump Shot,12:14 PM
+310,0,4,347,0020900271,Radmanovic REBOUND (Off:2 Def:5),,2:24,3,4,0,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:14 PM
+311,80,1,348,0020900271,Morrow 19' Step Back Jump Shot (17 PTS) (Radmanovic 6 AST),,2:17,3,4,4,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,79 - 86,7,,12:14 PM
+312,56,2,349,0020900271,C. Hunter BLOCK (2 BLK),,2:04,3,5,0,4,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,,,MISS Ariza 5' Running Hook Shot,12:14 PM
+313,0,4,350,0020900271,Ellis REBOUND (Off:0 Def:4),,2:02,3,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:14 PM
+314,1,2,351,0020900271,MISS Ellis 28' 3PT Jump Shot,,1:55,3,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:14 PM
+315,0,4,352,0020900271,,,1:54,3,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:3 Def:2),12:14 PM
+316,1,2,353,0020900271,C. Hunter BLOCK (3 BLK),,1:46,3,5,0,4,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,,,MISS Landry 5' Jump Shot,12:15 PM
+317,0,4,354,0020900271,C. Hunter REBOUND (Off:1 Def:1),,1:44,3,4,0,0,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:15 PM
+318,1,2,355,0020900271,MISS Morrow 24' 3PT Jump Shot,,1:38,3,4,0,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:15 PM
+319,0,4,356,0020900271,,,1:37,3,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Landry REBOUND (Off:2 Def:3),12:15 PM
+320,0,8,357,0020900271,,,1:29,3,5,5,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Budinger FOR Battier,12:15 PM
+321,2,6,358,0020900271,C. Hunter S.FOUL (P4.T2),,1:23,3,4,5,1,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:15 PM
+322,11,3,359,0020900271,,,1:23,3,5,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Budinger Free Throw 1 of 2,12:16 PM
+323,1,4,360,0020900271,,,1:23,3,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,12:16 PM
+324,12,3,361,0020900271,,,1:23,3,5,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,80 - 86,6,Budinger Free Throw 2 of 2 (11 PTS),12:16 PM
+325,65,1,363,0020900271,Ellis 5' Jump Hook Shot (20 PTS),,1:05,3,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,80 - 88,8,,12:16 PM
+326,1,1,364,0020900271,,,0:57,3,5,5,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,83 - 88,5,Brooks 25' 3PT Jump Shot (17 PTS) (Budinger 2 AST),12:16 PM
+327,1,6,365,0020900271,,,0:41,3,5,4,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Ariza P.FOUL (P2.T2),12:17 PM
+328,0,8,366,0020900271,SUB: Curry FOR Radmanovic,,0:41,3,4,4,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:17 PM
+329,1,2,367,0020900271,MISS Morrow 6' Jump Shot,,0:32,3,4,0,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:17 PM
+330,0,4,368,0020900271,WARRIORS Rebound,,0:32,3,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,12:17 PM
+331,3,6,369,0020900271,,,0:32,3,5,4,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Lowry L.B.FOUL (P2.PN),12:18 PM
+332,11,3,370,0020900271,MISS C. Hunter Free Throw 1 of 2,,0:32,3,4,0,0,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:18 PM
+333,1,4,371,0020900271,WARRIORS Rebound,,0:32,3,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,12:18 PM
+334,0,8,372,0020900271,SUB: Radmanovic FOR Ellis,,0:32,3,4,4,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:18 PM
+335,12,3,373,0020900271,C. Hunter Free Throw 2 of 2 (3 PTS),,0:32,3,4,0,0,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,83 - 89,6,,12:18 PM
+336,5,2,375,0020900271,,,0:10,3,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brooks 2' Layup,12:19 PM
+337,0,4,376,0020900271,C. Hunter REBOUND (Off:1 Def:2),,0:09,3,4,0,0,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:19 PM
+338,1,2,377,0020900271,MISS Radmanovic  3PT Jump Shot,,0:02,3,4,0,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:19 PM
+339,0,4,378,0020900271,,,0:01,3,5,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Budinger REBOUND (Off:1 Def:1),12:19 PM
+340,1,2,379,0020900271,,,0:00,3,5,0,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Budinger 58' 3PT Jump Shot,12:19 PM
+341,0,4,380,0020900271,,,0:00,3,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,12:19 PM
+342,0,13,381,0020900271,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,83 - 89,6,,12:20 PM
+343,0,12,383,0020900271,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,83 - 89,6,,12:22 PM
+344,42,1,384,0020900271,Maggette  Driving Layup (10 PTS) (Curry 2 AST),,11:49,4,4,4,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,83 - 91,8,,12:22 PM
+345,1,2,385,0020900271,,,11:37,4,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza 4' Jump Shot,12:23 PM
+346,0,4,386,0020900271,Morrow REBOUND (Off:0 Def:2),,11:32,4,4,0,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:23 PM
+347,80,2,387,0020900271,MISS Watson 19' Step Back Jump Shot,,11:27,4,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:23 PM
+348,0,4,388,0020900271,,,11:25,4,5,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:0 Def:2),12:23 PM
+349,1,2,389,0020900271,Curry BLOCK (1 BLK),,11:18,4,5,0,4,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,,,MISS Lowry 5' Jump Shot,12:23 PM
+350,0,4,390,0020900271,Ellis REBOUND (Off:0 Def:5),,11:16,4,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:23 PM
+351,2,6,391,0020900271,,,11:16,4,5,4,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Brooks S.FOUL (P3.T1),12:23 PM
+352,11,3,392,0020900271,Maggette Free Throw 1 of 2 (11 PTS),,11:16,4,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,83 - 92,9,,12:23 PM
+353,12,3,394,0020900271,Maggette Free Throw 2 of 2 (12 PTS),,11:16,4,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,83 - 93,10,,12:24 PM
+354,42,1,396,0020900271,,,10:59,4,5,5,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,85 - 93,8,Landry 2' Driving Layup (13 PTS) (Brooks 5 AST),12:24 PM
+355,1,2,397,0020900271,MISS Ellis 3' Jump Shot,,10:48,4,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:24 PM
+356,0,4,398,0020900271,,,10:46,4,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Landry REBOUND (Off:2 Def:4),12:24 PM
+357,2,6,399,0020900271,Maggette S.FOUL (P1.T1),,10:43,4,4,5,1,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:24 PM
+358,11,3,400,0020900271,,,10:43,4,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,86 - 93,7,Brooks Free Throw 1 of 2 (18 PTS),12:25 PM
+359,12,3,402,0020900271,,,10:43,4,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,87 - 93,6,Brooks Free Throw 2 of 2 (19 PTS),12:25 PM
+360,4,6,404,0020900271,Maggette OFF.Foul (P2),,10:34,4,4,5,1,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:25 PM
+361,5,5,405,0020900271,Maggette Foul Turnover (P1.T14),,10:34,4,4,0,1,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:25 PM
+362,4,5,406,0020900271,,,10:19,4,5,0,1,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Budinger Traveling Turnover (P2.T18),12:26 PM
+363,78,1,407,0020900271,Curry 5' Floating Jump Shot (9 PTS) (Ellis 7 AST),,10:02,4,4,4,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,87 - 95,8,,12:26 PM
+364,4,6,408,0020900271,,,9:42,4,5,4,1,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Landry OFF.Foul (P3),12:27 PM
+365,5,5,409,0020900271,,,9:42,4,5,0,1,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Landry Foul Turnover (P3.T19),12:27 PM
+366,1,9,410,0020900271,,,9:42,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.3 Short 0),12:27 PM
+367,0,8,412,0020900271,,,9:42,4,5,5,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Battier FOR Budinger,12:30 PM
+368,1,2,413,0020900271,MISS Maggette 18' Jump Shot,,9:32,4,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:30 PM
+369,0,4,414,0020900271,,,9:29,4,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Landry REBOUND (Off:2 Def:5),12:30 PM
+370,2,5,415,0020900271,Watson STEAL (2 STL),,9:09,4,5,4,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Lowry Lost Ball Turnover (P2.T20),12:30 PM
+371,2,6,416,0020900271,,,9:06,4,5,4,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Brooks S.FOUL (P4.T2),12:30 PM
+372,11,3,417,0020900271,Ellis Free Throw 1 of 2 (21 PTS),,9:06,4,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,87 - 96,9,,12:31 PM
+373,12,3,419,0020900271,Ellis Free Throw 2 of 2 (22 PTS),,9:06,4,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,87 - 97,10,,12:31 PM
+374,0,10,421,0020900271,Jump Ball Morrow vs. Brooks: Tip to Lowry,,8:54,4,4,5,5,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,,,,12:32 PM
+375,1,2,422,0020900271,,,8:43,4,5,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Lowry 12' Jump Shot,12:32 PM
+376,0,4,423,0020900271,Curry REBOUND (Off:1 Def:3),,8:42,4,4,0,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:32 PM
+377,79,2,424,0020900271,MISS Maggette 23' Pullup Jump Shot,,8:33,4,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:32 PM
+378,0,4,425,0020900271,,,8:31,4,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:3 Def:3),12:32 PM
+379,1,6,426,0020900271,Maggette P.FOUL (P3.T2),,8:21,4,4,5,1,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:33 PM
+380,1,6,427,0020900271,Morrow P.FOUL (P4.T3),,8:18,4,4,5,1,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:33 PM
+381,42,1,428,0020900271,,,8:09,4,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,89 - 97,8,Landry 1' Driving Layup (15 PTS),12:33 PM
+382,2,6,429,0020900271,Watson S.FOUL (P1.T4),,8:09,4,4,5,1,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:33 PM
+383,10,3,430,0020900271,,,8:09,4,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,90 - 97,7,Landry Free Throw 1 of 1 (16 PTS),12:34 PM
+384,5,1,432,0020900271,Maggette 1' Layup (14 PTS) (Ellis 8 AST),,7:56,4,4,4,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,90 - 99,9,,12:34 PM
+385,1,6,433,0020900271,Ellis P.FOUL (P5.PN),,7:37,4,4,5,1,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:34 PM
+386,11,3,434,0020900271,,,7:37,4,5,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,91 - 99,8,Lowry Free Throw 1 of 2 (4 PTS),12:35 PM
+387,12,3,436,0020900271,,,7:37,4,5,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,92 - 99,7,Lowry Free Throw 2 of 2 (5 PTS),12:35 PM
+388,79,1,438,0020900271,Curry 17' Pullup Jump Shot (11 PTS) (Maggette 2 AST),,7:17,4,4,4,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,92 - 101,9,,12:36 PM
+389,2,6,439,0020900271,Curry S.FOUL (P2.PN),,6:58,4,4,5,1,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:36 PM
+390,11,3,440,0020900271,,,6:58,4,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Battier Free Throw 1 of 2,12:36 PM
+391,1,4,441,0020900271,,,6:58,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,12:36 PM
+392,12,3,442,0020900271,,,6:58,4,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,93 - 101,8,Battier Free Throw 2 of 2 (10 PTS),12:36 PM
+393,79,2,444,0020900271,MISS Watson 19' Pullup Jump Shot,,6:41,4,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:37 PM
+394,0,4,445,0020900271,,,6:41,4,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:3 Def:4),12:37 PM
+395,4,6,446,0020900271,,,6:35,4,5,4,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Brooks OFF.Foul (P5),12:37 PM
+396,5,5,447,0020900271,,,6:35,4,5,0,1,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brooks Foul Turnover (P4.T21),12:37 PM
+397,46,1,448,0020900271,Watson 7' Running Jump Shot (12 PTS) (Morrow 5 AST),,6:21,4,4,4,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,93 - 103,10,,12:37 PM
+398,8,1,449,0020900271,,,6:08,4,5,5,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,95 - 103,8,Landry  Slam Dunk (18 PTS) (Brooks 6 AST),12:38 PM
+399,1,2,450,0020900271,MISS Watson 26' 3PT Jump Shot,,5:47,4,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:38 PM
+400,0,4,451,0020900271,,,5:46,4,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:3 Def:5),12:38 PM
+401,4,9,452,0020900271,,,5:37,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:38 PM
+402,0,10,456,0020900271,Jump Ball Morrow vs. Battier: Tip to Lowry,,5:37,4,4,5,5,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,,,,12:41 PM
+403,1,2,457,0020900271,,,5:23,4,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brooks 26' 3PT Jump Shot,12:42 PM
+404,0,4,458,0020900271,Watson REBOUND (Off:1 Def:5),,5:22,4,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:42 PM
+405,5,2,459,0020900271,MISS Watson 3' Layup,,5:18,4,4,0,5,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,,,Lowry BLOCK (1 BLK),12:42 PM
+406,0,4,460,0020900271,Morrow REBOUND (Off:1 Def:2),,5:16,4,4,0,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:42 PM
+407,1,2,461,0020900271,MISS Morrow 27' 3PT Jump Shot,,5:15,4,4,0,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:42 PM
+408,0,4,462,0020900271,,,5:12,4,5,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:4 Def:1),12:42 PM
+409,42,1,463,0020900271,,,5:04,4,5,5,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,97 - 103,6,Lowry 3' Driving Layup (7 PTS) (Ariza 3 AST),12:42 PM
+410,1,2,464,0020900271,MISS Ellis 18' Jump Shot,,4:45,4,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:42 PM
+411,0,4,465,0020900271,,,4:43,4,5,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Lowry REBOUND (Off:0 Def:3),12:42 PM
+412,2,5,466,0020900271,Curry STEAL (2 STL),,4:39,4,5,4,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Lowry Lost Ball Turnover (P3.T22),12:43 PM
+413,1,6,467,0020900271,,,4:39,4,5,4,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Ariza P.FOUL (P3.T3),12:43 PM
+414,4,5,468,0020900271,Maggette Traveling Turnover (P2.T15),,4:25,4,4,0,1,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:43 PM
+415,78,1,469,0020900271,,,4:04,4,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,99 - 103,4,Brooks 5' Floating Jump Shot (21 PTS),12:44 PM
+416,5,2,470,0020900271,MISS Maggette 3' Layup,,3:46,4,4,0,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:44 PM
+417,0,4,471,0020900271,,,3:43,4,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:3 Def:6),12:44 PM
+418,21,5,472,0020900271,,,3:41,4,5,0,1,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Lowry Palming Turnover (P4.T23),12:44 PM
+419,5,2,473,0020900271,MISS Ellis 2' Layup,,3:27,4,4,0,5,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,,,Ariza BLOCK (1 BLK),12:45 PM
+420,0,4,474,0020900271,,,3:24,4,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Landry REBOUND (Off:2 Def:6),12:45 PM
+421,42,1,475,0020900271,,,3:19,4,5,5,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,101 - 103,2,Brooks 2' Driving Layup (23 PTS) (Lowry 4 AST),12:45 PM
+422,40,2,480,0020900271,MISS Maggette  Layup,,3:00,4,4,0,5,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,0,,,,,,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,,,Landry BLOCK (3 BLK),12:45 PM
+423,0,4,481,0020900271,Ellis REBOUND (Off:1 Def:5),,2:59,4,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:45 PM
+424,5,2,476,0020900271,MISS Ellis 3' Layup,,2:58,4,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:45 PM
+425,0,4,477,0020900271,,,2:56,4,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Landry REBOUND (Off:2 Def:7),12:45 PM
+426,1,6,478,0020900271,Maggette P.FOUL (P4.PN),,2:55,4,4,5,1,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:45 PM
+427,1,9,479,0020900271,WARRIORS Timeout: Regular (Full 4 Short 0),,2:55,4,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,12:45 PM
+428,0,8,483,0020900271,SUB: Radmanovic FOR Maggette,,2:55,4,4,4,0,1894,Corey Maggette,GSW,Golden State,1610612744.0,Warriors,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:48 PM
+429,11,3,485,0020900271,,,2:55,4,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,102 - 103,1,Landry Free Throw 1 of 2 (19 PTS),12:48 PM
+430,12,3,487,0020900271,,,2:55,4,5,0,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,103 - 103,TIE,Landry Free Throw 2 of 2 (20 PTS),12:48 PM
+431,46,2,489,0020900271,MISS Ellis 3' Running Jump Shot,,2:41,4,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:49 PM
+432,0,4,490,0020900271,,,2:38,4,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:3 Def:7),12:49 PM
+433,42,1,491,0020900271,,,2:21,4,5,5,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,105 - 103,-2,Landry 3' Driving Layup (22 PTS) (Ariza 4 AST),12:49 PM
+434,1,6,492,0020900271,,,2:11,4,5,4,1,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Landry P.FOUL (P4.T4),12:50 PM
+435,80,2,493,0020900271,MISS Ellis 17' Step Back Jump Shot,,1:55,4,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:50 PM
+436,0,4,494,0020900271,Radmanovic REBOUND (Off:3 Def:5),,1:53,4,4,0,0,2209,Vladimir Radmanovic,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:50 PM
+437,79,1,495,0020900271,Morrow 15' Pullup Jump Shot (19 PTS),,1:48,4,4,0,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,105 - 105,TIE,,12:50 PM
+438,1,6,496,0020900271,Curry P.FOUL (P3.PN),,1:32,4,4,5,1,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:51 PM
+439,11,3,497,0020900271,,,1:32,4,5,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,106 - 105,-1,Lowry Free Throw 1 of 2 (8 PTS),12:51 PM
+440,12,3,499,0020900271,,,1:32,4,5,0,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,107 - 105,-2,Lowry Free Throw 2 of 2 (9 PTS),12:51 PM
+441,46,2,501,0020900271,MISS Ellis 3' Running Jump Shot,,1:22,4,4,0,5,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,,,Ariza BLOCK (2 BLK),12:52 PM
+442,0,4,502,0020900271,WARRIORS Rebound,,1:20,4,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,12:52 PM
+443,2,6,503,0020900271,,,1:20,4,5,4,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Ariza S.FOUL (P4.PN),12:52 PM
+444,11,3,504,0020900271,Ellis Free Throw 1 of 2 (23 PTS),,1:20,4,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,107 - 106,-1,,12:53 PM
+445,12,3,506,0020900271,Ellis Free Throw 2 of 2 (24 PTS),,1:20,4,4,0,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,107 - 107,TIE,,12:53 PM
+446,2,9,508,0020900271,,,1:02,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Short (Reg.3 Short 1),12:54 PM
+447,42,1,512,0020900271,,,0:55,4,5,5,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,109 - 107,-2,Lowry 2' Driving Layup (11 PTS) (Brooks 7 AST),12:55 PM
+448,2,5,513,0020900271,Ellis Lost Ball Turnover (P8.T16),,0:42,4,4,5,0,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Brooks STEAL (2 STL),12:55 PM
+449,1,2,514,0020900271,,,0:21,4,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brooks 3' Jump Shot,12:56 PM
+450,0,4,515,0020900271,Curry REBOUND (Off:1 Def:4),,0:20,4,4,0,0,201939,Stephen Curry,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:56 PM
+451,75,1,516,0020900271,Morrow 3' Driving Finger Roll Layup (21 PTS),,0:13,4,4,0,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,109 - 109,TIE,,12:56 PM
+452,1,9,517,0020900271,,,0:13,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.4 Short 1),12:56 PM
+453,0,8,519,0020900271,,,0:13,4,5,5,0,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Budinger FOR Lowry,12:58 PM
+454,2,6,522,0020900271,Watson S.FOUL (P2.PN),,0:02,4,4,5,1,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:59 PM
+455,11,3,523,0020900271,,,0:02,4,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,110 - 109,-1,Brooks Free Throw 1 of 2 (24 PTS),12:59 PM
+456,0,8,524,0020900271,SUB: C. Hunter FOR Morrow,,0:02,4,4,4,0,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:59 PM
+457,0,8,525,0020900271,,,0:02,4,5,5,0,201978,Chase Budinger,HOU,Houston,1610612745.0,Rockets,200768,Kyle Lowry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Lowry FOR Budinger,12:59 PM
+458,12,3,526,0020900271,,,0:02,4,5,0,0,201166,Aaron Brooks,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,111 - 109,-2,Brooks Free Throw 2 of 2 (25 PTS),12:59 PM
+459,1,9,528,0020900271,WARRIORS Timeout: Regular (Full 5 Short 0),,0:02,4,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,12:59 PM
+460,2,9,530,0020900271,WARRIORS Timeout: Short (Full 5 Short 1),,0:02,4,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,13:01 PM
+461,0,8,532,0020900271,SUB: Morrow FOR C. Hunter,,0:02,4,4,4,0,201805,Chris Hunter,GSW,Golden State,1610612744.0,Warriors,201627,Anthony Morrow,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,13:01 PM
+462,0,8,533,0020900271,,,0:02,4,5,5,0,201171,Carl Landry,HOU,Houston,1610612745.0,Rockets,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Hayes FOR Landry,13:01 PM
+463,4,5,534,0020900271,Ellis Traveling Turnover (P9.T17),,0:01,4,4,0,1,101145,Monta Ellis,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,13:02 PM
+464,0,13,535,0020900271,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,111 - 109,-2,,13:02 PM

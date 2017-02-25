@@ -1,0 +1,473 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020800457,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:42 PM
+1,0,10,1,0020800457,Jump Ball Biedrins vs. Bosh: Tip to O'Neal,,12:00,1,4,5,5,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,,,,10:42 PM
+2,1,6,2,0020800457,Belinelli P.FOUL (P1.T1),,11:50,1,4,5,1,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,10:42 PM
+3,1,2,3,0020800457,,,11:38,1,5,0,0,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS O'Neal 14' Jump Shot,10:43 PM
+4,0,4,4,0020800457,,,11:36,1,5,0,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Kapono REBOUND (Off:1 Def:0),10:43 PM
+5,1,2,5,0020800457,Biedrins BLOCK (1 BLK),,11:33,1,5,0,4,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,,,MISS Bosh 4' Jump Shot,10:43 PM
+6,0,4,6,0020800457,Jackson REBOUND (Off:0 Def:1),,11:31,1,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:43 PM
+7,1,5,7,0020800457,Jackson Bad Pass Turnover (P1.T1),,11:25,1,4,5,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Moon STEAL (1 STL),10:43 PM
+8,44,1,8,0020800457,,,11:10,1,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,2 - 0,-2,Bosh 3' Reverse Layup (2 PTS),10:43 PM
+9,1,2,9,0020800457,MISS Wright 11' Jump Shot,,10:46,1,4,0,0,201148,Brandan Wright,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:43 PM
+10,0,4,10,0020800457,,,10:45,1,5,0,0,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,O'Neal REBOUND (Off:0 Def:1),10:43 PM
+11,86,1,11,0020800457,,,10:30,1,5,5,0,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,4 - 0,-4,O'Neal 7' Turnaround Fadeaway (2 PTS) (Moon 1 AST),10:44 PM
+12,79,1,12,0020800457,Wright 8' Pullup Jump Shot (2 PTS) (Jackson 1 AST),,10:14,1,4,4,0,201148,Brandan Wright,GSW,Golden State,1610612744.0,Warriors,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,4 - 2,-2,,10:44 PM
+13,1,5,13,0020800457,Biedrins STEAL (1 STL),,9:57,1,5,4,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Moon Bad Pass Turnover (P1.T1),10:44 PM
+14,1,1,14,0020800457,Belinelli 25' 3PT Jump Shot (3 PTS) (Crawford 1 AST),,9:43,1,4,4,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,4 - 5,1,,10:45 PM
+15,1,2,15,0020800457,,,9:22,1,5,0,0,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS O'Neal 12' Jump Shot,10:45 PM
+16,0,4,16,0020800457,Biedrins REBOUND (Off:0 Def:1),,9:21,1,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:45 PM
+17,88,1,17,0020800457,Wright 1' Driving Slam Dunk (4 PTS) (Crawford 2 AST),,9:17,1,4,4,0,201148,Brandan Wright,GSW,Golden State,1610612744.0,Warriors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,4 - 7,3,,10:45 PM
+18,2,6,18,0020800457,Wright S.FOUL (P1.T2),,9:03,1,4,5,1,201148,Brandan Wright,GSW,Golden State,1610612744.0,Warriors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,10:45 PM
+19,11,3,19,0020800457,,,9:03,1,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Bosh Free Throw 1 of 2,10:46 PM
+20,1,4,20,0020800457,,,9:03,1,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,10:46 PM
+21,12,3,21,0020800457,,,9:03,1,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,5 - 7,2,Bosh Free Throw 2 of 2 (3 PTS),10:46 PM
+22,79,1,23,0020800457,Jackson 21' Pullup Jump Shot (2 PTS) (Crawford 3 AST),,8:49,1,4,4,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,5 - 9,4,,10:46 PM
+23,1,2,24,0020800457,,,8:37,1,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Calderon 18' Jump Shot,10:46 PM
+24,0,4,25,0020800457,Crawford REBOUND (Off:0 Def:1),,8:36,1,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:46 PM
+25,1,2,26,0020800457,MISS Crawford 19' Jump Shot,,8:27,1,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:47 PM
+26,0,4,27,0020800457,,,8:26,1,5,0,0,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,O'Neal REBOUND (Off:0 Def:2),10:47 PM
+27,2,6,28,0020800457,Wright S.FOUL (P2.T3),,8:15,1,4,5,1,201148,Brandan Wright,GSW,Golden State,1610612744.0,Warriors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,10:47 PM
+28,11,3,29,0020800457,,,8:15,1,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,6 - 9,3,Bosh Free Throw 1 of 2 (4 PTS),10:47 PM
+29,12,3,31,0020800457,,,8:15,1,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,7 - 9,2,Bosh Free Throw 2 of 2 (5 PTS),10:47 PM
+30,1,2,33,0020800457,MISS Jackson 16' Jump Shot,,8:04,1,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:48 PM
+31,0,4,34,0020800457,,,8:03,1,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bosh REBOUND (Off:0 Def:1),10:48 PM
+32,1,2,35,0020800457,Biedrins BLOCK (2 BLK),,7:48,1,5,0,4,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,0,,,,,,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,,,MISS O'Neal 4' Jump Shot,10:48 PM
+33,0,4,36,0020800457,,,7:46,1,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bosh REBOUND (Off:1 Def:1),10:48 PM
+34,5,2,37,0020800457,,,7:42,1,5,0,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Moon 2' Layup,10:48 PM
+35,0,4,38,0020800457,Biedrins REBOUND (Off:0 Def:2),,7:41,1,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:48 PM
+36,2,6,39,0020800457,,,7:35,1,5,4,1,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,O'Neal S.FOUL (P1.T1),10:48 PM
+37,11,3,40,0020800457,Jackson Free Throw 1 of 2 (3 PTS),,7:35,1,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,7 - 10,3,,10:49 PM
+38,12,3,42,0020800457,Jackson Free Throw 2 of 2 (4 PTS),,7:35,1,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,7 - 11,4,,10:49 PM
+39,57,2,44,0020800457,,,7:18,1,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Bosh 5' Driving Hook Shot,10:49 PM
+40,0,4,45,0020800457,Biedrins REBOUND (Off:0 Def:3),,7:16,1,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:49 PM
+41,2,6,46,0020800457,,,7:11,1,5,4,1,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,201148,Brandan Wright,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Moon S.FOUL (P1.T2),10:50 PM
+42,11,3,47,0020800457,Wright Free Throw 1 of 2 (5 PTS),,7:11,1,4,0,0,201148,Brandan Wright,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,7 - 12,5,,10:50 PM
+43,12,3,49,0020800457,Wright Free Throw 2 of 2 (6 PTS),,7:11,1,4,0,0,201148,Brandan Wright,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,7 - 13,6,,10:50 PM
+44,46,2,51,0020800457,,,6:53,1,5,0,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Kapono 11' Running Jump Shot,10:51 PM
+45,0,4,52,0020800457,Biedrins REBOUND (Off:0 Def:4),,6:52,1,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:51 PM
+46,5,2,53,0020800457,MISS Wright 1' Layup,,6:45,1,4,0,5,201148,Brandan Wright,GSW,Golden State,1610612744.0,Warriors,0,,,,,,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,,,Bosh BLOCK (1 BLK),10:51 PM
+47,0,4,54,0020800457,Wright REBOUND (Off:1 Def:0),,6:43,1,4,0,0,201148,Brandan Wright,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:51 PM
+48,5,2,55,0020800457,MISS Wright 2' Layup,,6:42,1,4,0,5,201148,Brandan Wright,GSW,Golden State,1610612744.0,Warriors,0,,,,,,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,,,O'Neal BLOCK (1 BLK),10:51 PM
+49,0,4,56,0020800457,,,6:40,1,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Calderon REBOUND (Off:0 Def:1),10:51 PM
+50,1,2,57,0020800457,,,6:35,1,5,0,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Kapono 27' 3PT Jump Shot,10:51 PM
+51,0,4,58,0020800457,,,6:34,1,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bosh REBOUND (Off:2 Def:1),10:51 PM
+52,72,1,59,0020800457,,,6:33,1,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,9 - 13,4,Bosh 2' Putback Layup (7 PTS),10:51 PM
+53,4,6,60,0020800457,Biedrins OFF.Foul (P1),,6:11,1,4,5,1,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,10:51 PM
+54,5,5,61,0020800457,Biedrins Foul Turnover (P1.T2),,6:11,1,4,0,1,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:51 PM
+55,79,1,62,0020800457,,,5:57,1,5,5,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,11 - 13,2,Bosh 21' Pullup Jump Shot (9 PTS) (Calderon 1 AST),10:52 PM
+56,73,1,63,0020800457,Biedrins 1' Driving Reverse Layup (2 PTS) (Belinelli 1 AST),,5:41,1,4,4,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,11 - 15,4,,10:52 PM
+57,1,2,64,0020800457,,,5:28,1,5,0,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Kapono 27' 3PT Jump Shot,10:52 PM
+58,0,4,65,0020800457,,,5:27,1,5,0,0,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,O'Neal REBOUND (Off:1 Def:2),10:52 PM
+59,1,1,66,0020800457,,,5:21,1,5,5,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,0,,,,,,14 - 15,1,Calderon  3PT Jump Shot (3 PTS) (O'Neal 1 AST),10:52 PM
+60,1,2,67,0020800457,MISS Biedrins 4' Jump Shot,,5:05,1,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:53 PM
+61,0,4,68,0020800457,,,5:03,1,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bosh REBOUND (Off:2 Def:2),10:53 PM
+62,1,1,69,0020800457,,,4:59,1,5,5,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,17 - 15,-2,Kapono 27' 3PT Jump Shot (3 PTS) (Calderon 2 AST),10:53 PM
+63,1,2,70,0020800457,MISS Crawford 26' 3PT Jump Shot,,4:42,1,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:53 PM
+64,0,4,71,0020800457,,,4:40,1,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bosh REBOUND (Off:2 Def:3),10:53 PM
+65,79,1,72,0020800457,,,4:32,1,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,19 - 15,-4,Calderon 16' Pullup Jump Shot (5 PTS),10:53 PM
+66,1,9,73,0020800457,WARRIORS Timeout: Regular (Full 1 Short 0),,4:27,1,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,10:53 PM
+67,0,8,75,0020800457,,,4:27,1,5,5,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Bargnani FOR Moon,10:56 PM
+68,0,8,76,0020800457,,,4:27,1,5,5,0,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Graham FOR O'Neal,10:56 PM
+69,0,8,77,0020800457,SUB: Azubuike FOR Wright,,4:27,1,4,4,0,201148,Brandan Wright,GSW,Golden State,1610612744.0,Warriors,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,10:56 PM
+70,63,1,78,0020800457,Jackson 17' Fadeaway Jumper (6 PTS),,4:14,1,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,19 - 17,-2,,10:57 PM
+71,79,2,79,0020800457,,,3:53,1,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Bosh 17' Pullup Jump Shot,10:57 PM
+72,0,4,80,0020800457,Biedrins REBOUND (Off:0 Def:5),,3:52,1,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:57 PM
+73,79,1,81,0020800457,Belinelli  3PT Pullup Jump Shot (6 PTS) (Jackson 2 AST),,3:39,1,4,4,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,19 - 20,1,,10:57 PM
+74,1,1,82,0020800457,,,3:18,1,5,5,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,21 - 20,-1,Bargnani 19' Jump Shot (2 PTS) (Bosh 1 AST),10:57 PM
+75,47,2,83,0020800457,MISS Jackson 14' Turnaround Jump Shot,,2:52,1,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:58 PM
+76,0,4,84,0020800457,,,2:51,1,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bosh REBOUND (Off:2 Def:4),10:58 PM
+77,58,2,85,0020800457,,,2:38,1,5,0,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Bargnani 5' Turnaround Hook Shot,10:58 PM
+78,0,4,86,0020800457,Azubuike REBOUND (Off:0 Def:1),,2:37,1,4,0,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:58 PM
+79,4,6,87,0020800457,Azubuike OFF.Foul (P1),,2:32,1,4,5,1,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,10:58 PM
+80,5,5,88,0020800457,Azubuike Foul Turnover (P1.T3),,2:32,1,4,0,1,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,10:58 PM
+81,1,9,89,0020800457,,,2:32,1,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.1 Short 0),10:58 PM
+82,0,8,91,0020800457,SUB: Turiaf FOR Biedrins,,2:32,1,4,4,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:01 PM
+83,0,8,92,0020800457,,,2:32,1,5,5,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,2063,Jake Voskuhl,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Voskuhl FOR Bosh,11:01 PM
+84,0,8,93,0020800457,,,2:32,1,5,5,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Parker FOR Kapono,11:01 PM
+85,79,1,94,0020800457,,,2:22,1,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,23 - 20,-3,Calderon 20' Pullup Jump Shot (7 PTS),11:01 PM
+86,2,5,95,0020800457,Turiaf Lost Ball Turnover (P1.T4),,1:55,1,4,5,0,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,2063,Jake Voskuhl,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Voskuhl STEAL (1 STL),11:02 PM
+87,76,1,96,0020800457,,,1:48,1,5,5,0,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,25 - 20,-5,Parker 2' Running Finger Roll Layup (2 PTS) (Calderon 3 AST),11:02 PM
+88,1,2,97,0020800457,MISS Belinelli 22' Jump Shot,,1:33,1,4,0,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:02 PM
+89,0,4,98,0020800457,,,1:31,1,5,0,0,2063,Jake Voskuhl,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Voskuhl REBOUND (Off:0 Def:1),11:02 PM
+90,1,5,99,0020800457,Crawford STEAL (1 STL),,1:25,1,5,4,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Calderon Bad Pass Turnover (P1.T2),11:02 PM
+91,79,1,100,0020800457,Azubuike 21' Pullup Jump Shot (2 PTS) (Crawford 4 AST),,1:14,1,4,4,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,25 - 22,-3,,11:02 PM
+92,79,1,101,0020800457,,,1:00,1,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,27 - 22,-5,Calderon 21' Pullup Jump Shot (9 PTS),11:03 PM
+93,1,1,102,0020800457,Crawford 20' Jump Shot (2 PTS),,0:52,1,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,27 - 24,-3,,11:03 PM
+94,4,6,103,0020800457,,,0:44,1,5,4,1,2063,Jake Voskuhl,TOR,Toronto,1610612761.0,Raptors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Voskuhl OFF.Foul (P1),11:03 PM
+95,5,5,104,0020800457,,,0:44,1,5,0,1,2063,Jake Voskuhl,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Voskuhl Foul Turnover (P1.T3),11:03 PM
+96,0,8,105,0020800457,SUB: Watson FOR Crawford,,0:44,1,4,4,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:03 PM
+97,79,1,106,0020800457,Watson 20' Pullup Jump Shot (2 PTS),,0:33,1,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,27 - 26,-1,,11:04 PM
+98,1,2,107,0020800457,Jackson BLOCK (1 BLK),,0:20,1,5,0,4,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,,,MISS Parker 18' Jump Shot,11:04 PM
+99,0,4,108,0020800457,Azubuike REBOUND (Off:0 Def:2),,0:18,1,4,0,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:04 PM
+100,2,6,109,0020800457,,,0:17,1,5,4,1,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Graham S.FOUL (P1.T3),11:04 PM
+101,11,3,110,0020800457,Jackson Free Throw 1 of 2 (7 PTS),,0:17,1,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,27 - 27,TIE,,11:04 PM
+102,12,3,112,0020800457,Jackson Free Throw 2 of 2 (8 PTS),,0:17,1,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,27 - 28,1,,11:04 PM
+103,46,1,114,0020800457,,,0:03,1,5,5,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,29 - 28,-1,Graham 3' Running Jump Shot (2 PTS) (Calderon 4 AST),11:05 PM
+104,1,2,115,0020800457,MISS Belinelli 25' 3PT Jump Shot,,0:00,1,4,0,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:05 PM
+105,0,4,116,0020800457,WARRIORS Rebound,,0:00,1,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,11:05 PM
+106,0,13,117,0020800457,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,29 - 28,-1,,11:05 PM
+107,0,12,119,0020800457,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,29 - 28,-1,,11:08 PM
+108,1,6,120,0020800457,,,11:50,2,5,4,1,2226,Will Solomon,TOR,Toronto,1610612761.0,Raptors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Solomon P.FOUL (P1.T1),11:08 PM
+109,1,1,121,0020800457,Jackson 25' 3PT Jump Shot (11 PTS) (Watson 1 AST),,11:45,2,4,4,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,29 - 31,2,,11:08 PM
+110,88,1,122,0020800457,,,11:27,2,5,5,0,2063,Jake Voskuhl,TOR,Toronto,1610612761.0,Raptors,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,31 - 31,TIE,Voskuhl 1' Driving Slam Dunk (2 PTS) (Parker 1 AST),11:09 PM
+111,90,1,123,0020800457,Biedrins  Running Slam Dunk (4 PTS) (Belinelli 2 AST),,11:11,2,4,4,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,31 - 33,2,,11:09 PM
+112,1,2,124,0020800457,,,10:43,2,5,0,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Bargnani 27' 3PT Jump Shot,11:10 PM
+113,0,4,125,0020800457,WARRIORS Rebound,,10:43,2,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,11:10 PM
+114,3,6,126,0020800457,,,10:43,2,5,4,1,2063,Jake Voskuhl,TOR,Toronto,1610612761.0,Raptors,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Voskuhl L.B.FOUL (P2.T2),11:10 PM
+115,0,8,127,0020800457,,,10:43,2,5,5,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Moon FOR Graham,11:10 PM
+116,42,1,128,0020800457,Biedrins 2' Driving Layup (6 PTS),,10:31,2,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,31 - 35,4,,11:10 PM
+117,2,6,129,0020800457,,,10:31,2,5,4,1,2063,Jake Voskuhl,TOR,Toronto,1610612761.0,Raptors,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Voskuhl S.FOUL (P3.T3),11:10 PM
+118,10,3,130,0020800457,MISS Biedrins Free Throw 1 of 1,,10:31,2,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:11 PM
+119,0,4,132,0020800457,,,10:29,2,5,0,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bargnani REBOUND (Off:0 Def:1),11:11 PM
+120,1,2,133,0020800457,,,10:13,2,5,0,0,2226,Will Solomon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Solomon 16' Jump Shot,11:11 PM
+121,0,4,134,0020800457,,,10:11,2,5,0,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bargnani REBOUND (Off:1 Def:1),11:11 PM
+122,8,1,135,0020800457,,,10:10,2,5,0,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,33 - 35,2,Bargnani  Slam Dunk (4 PTS),11:11 PM
+123,1,6,136,0020800457,,,9:56,2,5,4,1,2063,Jake Voskuhl,TOR,Toronto,1610612761.0,Raptors,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Voskuhl P.FOUL (P4.T4),11:11 PM
+124,0,8,137,0020800457,,,9:56,2,5,5,0,2063,Jake Voskuhl,TOR,Toronto,1610612761.0,Raptors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Bosh FOR Voskuhl,11:12 PM
+125,1,2,138,0020800457,MISS Belinelli 4' Jump Shot,,9:50,2,4,0,5,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,,,Moon BLOCK (1 BLK),11:12 PM
+126,0,4,139,0020800457,Belinelli REBOUND (Off:1 Def:0),,9:48,2,4,0,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:12 PM
+127,3,6,140,0020800457,,,9:43,2,5,4,1,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Moon L.B.FOUL (P2.PN),11:12 PM
+128,11,3,141,0020800457,Watson Free Throw 1 of 2 (3 PTS),,9:43,2,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,33 - 36,3,,11:12 PM
+129,0,8,143,0020800457,SUB: Crawford FOR Belinelli,,9:43,2,4,4,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:13 PM
+130,12,3,144,0020800457,Watson Free Throw 2 of 2 (4 PTS),,9:43,2,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,33 - 37,4,,11:13 PM
+131,79,1,147,0020800457,,,9:24,2,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,36 - 37,1,Bosh 27' 3PT Pullup Jump Shot (12 PTS),11:13 PM
+132,5,7,148,0020800457,,,9:07,2,5,0,1,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bargnani Violation:Kicked Ball,11:14 PM
+133,5,2,150,0020800457,MISS Jackson 1' Layup,,8:54,2,4,0,5,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,,,Moon BLOCK (2 BLK),11:14 PM
+134,0,4,151,0020800457,,,8:52,2,5,0,0,2226,Will Solomon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Solomon REBOUND (Off:0 Def:1),11:14 PM
+135,1,2,152,0020800457,,,8:50,2,5,0,0,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Parker 20' Jump Shot,11:14 PM
+136,0,4,153,0020800457,,,8:46,2,5,0,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Moon REBOUND (Off:1 Def:0),11:14 PM
+137,2,5,154,0020800457,Biedrins STEAL (2 STL),,8:39,2,5,4,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Bosh Lost Ball Turnover (P1.T4),11:15 PM
+138,1,2,155,0020800457,MISS Azubuike 4' Jump Shot,,8:31,2,4,0,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:15 PM
+139,0,4,156,0020800457,,,8:30,2,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bosh REBOUND (Off:2 Def:5),11:15 PM
+140,2,5,157,0020800457,Jackson STEAL (1 STL),,8:27,2,5,4,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Bosh Lost Ball Turnover (P2.T5),11:15 PM
+141,8,1,158,0020800457,Azubuike 1' Slam Dunk (4 PTS) (Jackson 3 AST),,8:22,2,4,4,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,36 - 39,3,,11:15 PM
+142,1,6,159,0020800457,Biedrins P.FOUL (P2.T1),,8:04,2,4,5,1,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,11:15 PM
+143,4,9,160,0020800457,,,8:04,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:15 PM
+144,0,8,162,0020800457,SUB: Turiaf FOR Biedrins,,8:04,2,4,4,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:18 PM
+145,0,8,163,0020800457,,,8:04,2,5,5,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Calderon FOR Bargnani,11:18 PM
+146,0,8,164,0020800457,,,8:04,2,5,5,0,2226,Will Solomon,TOR,Toronto,1610612761.0,Raptors,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Kapono FOR Solomon,11:18 PM
+147,79,1,165,0020800457,,,7:50,2,5,5,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,39 - 39,TIE,Moon 27' 3PT Pullup Jump Shot (3 PTS) (Bosh 2 AST),11:18 PM
+148,57,1,166,0020800457,Jackson 7' Driving Hook Shot (13 PTS),,7:26,2,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,39 - 41,2,,11:19 PM
+149,52,1,167,0020800457,,,7:07,2,5,5,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,41 - 41,TIE,Bosh 1' Alley Oop Dunk (14 PTS) (Calderon 5 AST),11:19 PM
+150,1,5,168,0020800457,Jackson Bad Pass Turnover (P2.T5),,6:53,2,4,5,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Calderon STEAL (1 STL),11:19 PM
+151,42,1,169,0020800457,,,6:47,2,5,5,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,43 - 41,-2,Moon 1' Driving Layup (5 PTS) (Calderon 6 AST),11:19 PM
+152,1,2,170,0020800457,MISS Crawford  3PT Jump Shot,,6:24,2,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:20 PM
+153,0,4,171,0020800457,,,6:22,2,5,0,0,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Parker REBOUND (Off:0 Def:1),11:20 PM
+154,1,2,172,0020800457,,,6:15,2,5,0,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Kapono 17' Jump Shot,11:20 PM
+155,0,4,173,0020800457,Crawford REBOUND (Off:0 Def:2),,6:14,2,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:20 PM
+156,4,5,174,0020800457,Azubuike Traveling Turnover (P2.T6),,6:12,2,4,0,1,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:20 PM
+157,0,8,175,0020800457,,,6:12,2,5,5,0,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: O'Neal FOR Parker,11:20 PM
+158,1,2,176,0020800457,,,5:58,2,5,0,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Moon  3PT Jump Shot,11:20 PM
+159,0,4,177,0020800457,Azubuike REBOUND (Off:0 Def:3),,5:56,2,4,0,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:21 PM
+160,42,1,178,0020800457,Azubuike 2' Driving Layup (6 PTS) (Crawford 5 AST),,5:48,2,4,4,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,43 - 43,TIE,,11:21 PM
+161,1,9,179,0020800457,,,5:40,2,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.2 Short 0),11:21 PM
+162,0,8,181,0020800457,SUB: Biedrins FOR Turiaf,,5:40,2,4,4,0,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:23 PM
+163,0,8,182,0020800457,,,5:40,2,5,5,0,979,Jermaine O'Neal,TOR,Toronto,1610612761.0,Raptors,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Bargnani FOR O'Neal,11:23 PM
+164,1,2,183,0020800457,,,5:21,2,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Bosh 16' Jump Shot,11:24 PM
+165,0,4,184,0020800457,Biedrins REBOUND (Off:0 Def:6),,5:20,2,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:24 PM
+166,1,2,185,0020800457,MISS Azubuike 21' Jump Shot,,5:15,2,4,0,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:24 PM
+167,0,4,186,0020800457,,,5:15,2,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,11:24 PM
+168,79,1,187,0020800457,,,4:58,2,5,5,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,45 - 43,-2,Bargnani 20' Pullup Jump Shot (6 PTS) (Kapono 1 AST),11:24 PM
+169,1,2,188,0020800457,MISS Biedrins 5' Jump Shot,,4:36,2,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:25 PM
+170,0,4,189,0020800457,Jackson REBOUND (Off:1 Def:1),,4:35,2,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:25 PM
+171,5,1,190,0020800457,Jackson 2' Layup (15 PTS),,4:34,2,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,45 - 45,TIE,,11:25 PM
+172,2,6,191,0020800457,Jackson S.FOUL (P1.T2),,4:16,2,4,5,1,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,11:25 PM
+173,11,3,192,0020800457,,,4:16,2,5,0,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,46 - 45,-1,Bargnani Free Throw 1 of 2 (7 PTS),11:26 PM
+174,12,3,194,0020800457,,,4:16,2,5,0,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Bargnani Free Throw 2 of 2,11:26 PM
+175,0,4,196,0020800457,Biedrins REBOUND (Off:0 Def:7),,4:14,2,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:26 PM
+176,1,2,197,0020800457,MISS Jackson 25' 3PT Jump Shot,,4:00,2,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:26 PM
+177,0,4,198,0020800457,,,3:58,2,5,0,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Kapono REBOUND (Off:1 Def:1),11:26 PM
+178,2,6,199,0020800457,Crawford S.FOUL (P1.T3),,3:50,2,4,5,1,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,11:27 PM
+179,11,3,200,0020800457,,,3:50,2,5,0,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Moon Free Throw 1 of 2,11:27 PM
+180,1,4,201,0020800457,,,3:50,2,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,11:27 PM
+181,0,8,202,0020800457,SUB: Turiaf FOR Biedrins,,3:50,2,4,4,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:27 PM
+182,12,3,203,0020800457,,,3:50,2,5,0,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,47 - 45,-2,Moon Free Throw 2 of 2 (6 PTS),11:27 PM
+183,1,2,205,0020800457,MISS Crawford 26' 3PT Jump Shot,,3:31,2,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:28 PM
+184,0,4,206,0020800457,,,3:29,2,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Calderon REBOUND (Off:0 Def:2),11:28 PM
+185,1,2,207,0020800457,Turiaf BLOCK (1 BLK),,3:16,2,5,0,4,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,,,MISS Bosh 4' Jump Shot,11:28 PM
+186,0,4,208,0020800457,Jackson REBOUND (Off:1 Def:2),,3:15,2,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:28 PM
+187,79,1,209,0020800457,Watson  3PT Pullup Jump Shot (7 PTS) (Crawford 6 AST),,3:08,2,4,4,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,47 - 48,1,,11:28 PM
+188,1,2,210,0020800457,Turiaf BLOCK (2 BLK),,2:55,2,5,0,4,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,,,MISS Calderon 16' Jump Shot,11:28 PM
+189,0,4,211,0020800457,Turiaf REBOUND (Off:0 Def:1),,2:53,2,4,0,0,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:28 PM
+190,1,1,212,0020800457,Azubuike  3PT Jump Shot (9 PTS) (Jackson 4 AST),,2:43,2,4,4,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,47 - 51,4,,11:28 PM
+191,2,6,213,0020800457,Turiaf S.FOUL (P1.T4),,2:28,2,4,5,1,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,11:29 PM
+192,1,9,214,0020800457,WARRIORS Timeout: Regular (Full 2 Short 0),,2:28,2,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,11:29 PM
+193,0,8,216,0020800457,SUB: Belinelli FOR Azubuike,,2:28,2,4,4,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:31 PM
+194,11,3,218,0020800457,,,2:28,2,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,48 - 51,3,Bosh Free Throw 1 of 2 (15 PTS),11:31 PM
+195,12,3,220,0020800457,,,2:28,2,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,49 - 51,2,Bosh Free Throw 2 of 2 (16 PTS),11:32 PM
+196,1,1,222,0020800457,Belinelli 26' 3PT Jump Shot (9 PTS) (Turiaf 1 AST),,2:01,2,4,4,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,0,,,,,,49 - 54,5,,11:32 PM
+197,4,6,223,0020800457,,,1:49,2,5,4,1,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Bargnani OFF.Foul (P1),11:33 PM
+198,5,5,224,0020800457,,,1:49,2,5,0,1,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bargnani Foul Turnover (P1.T6),11:33 PM
+199,79,1,225,0020800457,Belinelli 21' Pullup Jump Shot (11 PTS) (Turiaf 2 AST),,1:33,2,4,4,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,0,,,,,,49 - 56,7,,11:33 PM
+200,2,6,226,0020800457,Turiaf S.FOUL (P2.PN),,1:14,2,4,5,1,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,11:34 PM
+201,11,3,227,0020800457,,,1:14,2,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Bosh Free Throw 1 of 2,11:34 PM
+202,0,4,237,0020800457,,,1:14,2,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,11:34 PM
+203,12,3,228,0020800457,,,1:14,2,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,50 - 56,6,Bosh Free Throw 2 of 2 (17 PTS),11:34 PM
+204,0,8,230,0020800457,,,1:14,2,5,5,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Parker FOR Bargnani,11:34 PM
+205,63,1,231,0020800457,Jackson 18' Fadeaway Jumper (17 PTS),,0:57,2,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,50 - 58,8,,11:35 PM
+206,1,2,233,0020800457,,,0:46,2,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Calderon 19' Jump Shot,11:35 PM
+207,0,4,234,0020800457,,,0:45,2,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bosh REBOUND (Off:3 Def:5),11:35 PM
+208,42,1,235,0020800457,,,0:40,2,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,52 - 58,6,Calderon 1' Driving Layup (11 PTS),11:35 PM
+209,1,7,236,0020800457,,,0:40,2,3,0,1,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Violation: Delay of game Violation,11:35 PM
+210,1,2,238,0020800457,MISS Jackson 18' Jump Shot,,0:25,2,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:36 PM
+211,0,4,239,0020800457,,,0:24,2,5,0,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Kapono REBOUND (Off:1 Def:2),11:36 PM
+212,2,5,240,0020800457,Jackson STEAL (2 STL),,0:04,2,5,4,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Bosh Lost Ball Turnover (P3.T7),11:36 PM
+213,2,6,241,0020800457,,,0:00,2,5,4,1,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Bosh S.FOUL (P1.PN),11:36 PM
+214,11,3,243,0020800457,Jackson Free Throw 1 of 2 (18 PTS),,0:00,2,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,52 - 59,7,,11:37 PM
+215,0,8,245,0020800457,SUB: Azubuike FOR Turiaf,,0:00,2,4,4,0,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,11:37 PM
+216,12,3,246,0020800457,Jackson Free Throw 2 of 2 (19 PTS),,0:00,2,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,52 - 60,8,,11:37 PM
+217,0,13,248,0020800457,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,52 - 60,8,,11:37 PM
+218,0,12,250,0020800457,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,52 - 60,8,,11:54 PM
+219,1,2,251,0020800457,MISS Crawford 16' Jump Shot,,11:46,3,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:54 PM
+220,0,4,252,0020800457,,,11:45,3,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bosh REBOUND (Off:3 Def:6),11:54 PM
+221,1,2,253,0020800457,,,11:27,3,5,0,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Moon 22' Jump Shot,11:54 PM
+222,0,4,255,0020800457,,,11:25,3,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bosh REBOUND (Off:4 Def:6),11:54 PM
+223,92,1,254,0020800457,,,11:25,3,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,54 - 60,6,Bosh 1' Putback Slam Dunk (19 PTS),11:54 PM
+224,1,1,256,0020800457,Jackson 27' 3PT Jump Shot (22 PTS) (Belinelli 3 AST),,11:14,3,4,4,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,54 - 63,9,,11:54 PM
+225,2,5,257,0020800457,Watson STEAL (1 STL),,10:54,3,5,4,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Calderon Lost Ball Turnover (P2.T8),11:55 PM
+226,1,1,258,0020800457,Watson 24' 3PT Jump Shot (10 PTS) (Jackson 5 AST),,10:43,3,4,4,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,54 - 66,12,,11:55 PM
+227,1,2,259,0020800457,,,10:30,3,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Bosh 19' Jump Shot,11:55 PM
+228,0,4,260,0020800457,Biedrins REBOUND (Off:0 Def:8),,10:27,3,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:55 PM
+229,2,6,261,0020800457,,,10:22,3,5,4,1,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Kapono S.FOUL (P1.T1),11:55 PM
+230,11,3,262,0020800457,Crawford Free Throw 1 of 2 (3 PTS),,10:22,3,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,54 - 67,13,,11:56 PM
+231,12,3,264,0020800457,Crawford Free Throw 2 of 2 (4 PTS),,10:22,3,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,54 - 68,14,,11:56 PM
+232,79,1,266,0020800457,,,10:04,3,5,5,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,57 - 68,11,Moon 26' 3PT Pullup Jump Shot (9 PTS) (Calderon 7 AST),11:56 PM
+233,2,6,267,0020800457,,,9:53,3,5,4,1,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Bosh S.FOUL (P2.T2),11:56 PM
+234,11,3,268,0020800457,Jackson Free Throw 1 of 2 (23 PTS),,9:53,3,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,57 - 69,12,,11:57 PM
+235,12,3,270,0020800457,Jackson Free Throw 2 of 2 (24 PTS),,9:53,3,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,57 - 70,13,,11:57 PM
+236,1,2,272,0020800457,,,9:39,3,5,0,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Moon 20' Jump Shot,11:57 PM
+237,0,4,273,0020800457,Crawford REBOUND (Off:0 Def:3),,9:38,3,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:57 PM
+238,1,2,274,0020800457,MISS Watson 19' Jump Shot,,9:28,3,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:58 PM
+239,0,4,275,0020800457,,,9:27,3,5,0,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bargnani REBOUND (Off:1 Def:2),11:58 PM
+240,1,2,276,0020800457,,,9:19,3,5,0,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Bargnani 26' 3PT Jump Shot,11:58 PM
+241,0,4,277,0020800457,Crawford REBOUND (Off:0 Def:4),,9:17,3,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:58 PM
+242,1,2,278,0020800457,MISS Jackson 4' Jump Shot,,9:02,3,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:58 PM
+243,0,4,279,0020800457,Jackson REBOUND (Off:2 Def:2),,9:02,3,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,11:58 PM
+244,1,6,280,0020800457,,,9:02,3,5,4,1,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Bosh P.FOUL (P3.T3),11:59 PM
+245,11,3,281,0020800457,Jackson Free Throw 1 of 2 (25 PTS),,9:02,3,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,57 - 71,14,,11:59 PM
+246,12,3,283,0020800457,Jackson Free Throw 2 of 2 (26 PTS),,9:02,3,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,57 - 72,15,,11:59 PM
+247,5,2,285,0020800457,,,8:45,3,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Bosh 3' Layup,11:59 PM
+248,0,4,286,0020800457,,,8:42,3,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Calderon REBOUND (Off:1 Def:2),11:59 PM
+249,1,2,287,0020800457,,,8:36,3,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Calderon 27' 3PT Jump Shot,11:59 PM
+250,0,4,288,0020800457,,,8:35,3,5,0,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Moon REBOUND (Off:2 Def:0),11:59 PM
+251,1,1,289,0020800457,,,8:33,3,5,5,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,60 - 72,12,Kapono 26' 3PT Jump Shot (6 PTS) (Moon 2 AST),11:59 PM
+252,1,6,290,0020800457,,,8:23,3,5,4,1,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Kapono P.FOUL (P2.T4),12:00 PM
+253,1,2,291,0020800457,MISS Jackson 26' 3PT Jump Shot,,8:09,3,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:00 PM
+254,0,4,292,0020800457,,,8:08,3,5,0,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Moon REBOUND (Off:2 Def:1),12:00 PM
+255,4,5,293,0020800457,,,8:02,3,5,0,1,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Kapono Traveling Turnover (P1.T9),12:00 PM
+256,1,1,294,0020800457,Belinelli 26' 3PT Jump Shot (14 PTS) (Jackson 6 AST),,7:45,3,4,4,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,60 - 75,15,,12:01 PM
+257,1,6,295,0020800457,Watson P.FOUL (P1.T1),,7:25,3,4,5,1,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:01 PM
+258,1,1,296,0020800457,,,7:18,3,5,5,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,63 - 75,12,Moon  3PT Jump Shot (12 PTS) (Calderon 8 AST),12:01 PM
+259,1,2,297,0020800457,MISS Crawford 17' Jump Shot,,7:00,3,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:02 PM
+260,0,4,298,0020800457,,,6:59,3,5,0,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bargnani REBOUND (Off:1 Def:3),12:02 PM
+261,75,1,299,0020800457,,,6:51,3,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,65 - 75,10,Calderon  Driving Finger Roll Layup (13 PTS),12:02 PM
+262,2,5,300,0020800457,Jackson Lost Ball Turnover (P3.T7),,6:38,3,4,5,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Bosh STEAL (1 STL),12:02 PM
+263,1,6,301,0020800457,Jackson P.FOUL (P2.T2),,6:29,3,4,5,1,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:02 PM
+264,4,6,302,0020800457,,,6:26,3,5,4,1,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Kapono OFF.Foul (P3),12:03 PM
+265,5,5,303,0020800457,,,6:26,3,5,0,1,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Kapono Foul Turnover (P2.T10),12:03 PM
+266,5,1,304,0020800457,Biedrins 3' Layup (8 PTS) (Belinelli 4 AST),,6:07,3,4,4,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,65 - 77,12,,12:03 PM
+267,8,1,305,0020800457,,,5:55,3,5,5,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,67 - 77,10,Bosh  Slam Dunk (21 PTS) (Calderon 9 AST),12:04 PM
+268,1,2,306,0020800457,MISS Watson  3PT Jump Shot,,5:42,3,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:04 PM
+269,0,4,307,0020800457,,,5:40,3,5,0,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Moon REBOUND (Off:2 Def:2),12:04 PM
+270,1,2,308,0020800457,,,5:34,3,5,0,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Kapono 28' 3PT Jump Shot,12:04 PM
+271,0,4,309,0020800457,Biedrins REBOUND (Off:0 Def:9),,5:32,3,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:04 PM
+272,79,1,310,0020800457,Crawford  3PT Pullup Jump Shot (7 PTS) (Watson 2 AST),,5:23,3,4,4,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,67 - 80,13,,12:04 PM
+273,1,9,311,0020800457,,,5:17,3,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.3 Short 0),12:04 PM
+274,0,8,314,0020800457,,,5:17,3,5,5,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Parker FOR Moon,12:07 PM
+275,0,8,315,0020800457,,,5:17,3,5,5,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Graham FOR Kapono,12:07 PM
+276,0,8,316,0020800457,,,5:17,3,5,5,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Humphries FOR Bargnani,12:07 PM
+277,63,2,317,0020800457,,,5:03,3,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Bosh 9' Fadeaway Jumper,12:07 PM
+278,0,4,318,0020800457,Biedrins REBOUND (Off:0 Def:10),,5:01,3,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:07 PM
+279,1,2,319,0020800457,MISS Belinelli 28' 3PT Jump Shot,,4:50,3,4,0,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:07 PM
+280,0,4,320,0020800457,,,4:48,3,5,0,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Humphries REBOUND (Off:0 Def:1),12:07 PM
+281,1,1,321,0020800457,,,4:41,3,5,5,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,69 - 80,11,Graham 18' Jump Shot (4 PTS) (Calderon 10 AST),12:08 PM
+282,2,6,322,0020800457,,,4:23,3,5,4,1,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Graham S.FOUL (P2.PN),12:08 PM
+283,11,3,323,0020800457,MISS Watson Free Throw 1 of 2,,4:23,3,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:08 PM
+284,1,4,324,0020800457,WARRIORS Rebound,,4:23,3,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,12:08 PM
+285,12,3,325,0020800457,Watson Free Throw 2 of 2 (11 PTS),,4:23,3,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,69 - 81,12,,12:08 PM
+286,1,2,327,0020800457,,,4:09,3,5,0,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Humphries 19' Jump Shot,12:09 PM
+287,0,4,328,0020800457,,,4:07,3,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bosh REBOUND (Off:5 Def:6),12:09 PM
+288,5,2,329,0020800457,Biedrins BLOCK (3 BLK),,4:06,3,5,0,4,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,,,MISS Bosh 3' Layup,12:09 PM
+289,0,4,330,0020800457,Biedrins REBOUND (Off:0 Def:11),,4:04,3,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:09 PM
+290,75,2,331,0020800457,MISS Crawford 4' Driving Finger Roll Layup,,3:56,3,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:09 PM
+291,0,4,332,0020800457,WARRIORS Rebound,,3:56,3,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,12:09 PM
+292,1,6,333,0020800457,,,3:54,3,5,4,1,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Parker P.FOUL (P1.PN),12:10 PM
+293,11,3,334,0020800457,Belinelli Free Throw 1 of 2 (15 PTS),,3:54,3,4,0,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,69 - 82,13,,12:10 PM
+294,0,8,336,0020800457,SUB: Turiaf FOR Biedrins,,3:54,3,4,4,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:10 PM
+295,12,3,337,0020800457,Belinelli Free Throw 2 of 2 (16 PTS),,3:54,3,4,0,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,69 - 83,14,,12:10 PM
+296,1,6,339,0020800457,Jackson P.FOUL (P3.T3),,3:46,3,4,5,1,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:11 PM
+297,1,2,340,0020800457,,,3:41,3,5,0,0,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Parker 3' Jump Shot,12:11 PM
+298,0,4,341,0020800457,,,3:39,3,5,0,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Humphries REBOUND (Off:1 Def:1),12:11 PM
+299,2,6,342,0020800457,Belinelli S.FOUL (P2.T4),,3:39,3,4,5,1,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:11 PM
+300,11,3,343,0020800457,,,3:39,3,5,0,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Humphries Free Throw 1 of 2,12:11 PM
+301,1,4,344,0020800457,,,3:39,3,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,12:11 PM
+302,12,3,345,0020800457,,,3:39,3,5,0,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,70 - 83,13,Humphries Free Throw 2 of 2 (1 PTS),12:11 PM
+303,65,2,347,0020800457,MISS Belinelli 8' Jump Hook Shot,,3:21,3,4,0,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:12 PM
+304,0,4,348,0020800457,,,3:20,3,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Calderon REBOUND (Off:1 Def:3),12:12 PM
+305,43,1,349,0020800457,,,3:15,3,5,5,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,72 - 83,11,Graham 1' Alley Oop Layup (6 PTS) (Calderon 11 AST),12:12 PM
+306,1,5,350,0020800457,Belinelli Bad Pass Turnover (P1.T8),,2:56,3,4,5,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Calderon STEAL (2 STL),12:12 PM
+307,1,1,351,0020800457,,,2:43,3,5,5,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,74 - 83,9,Humphries 18' Jump Shot (3 PTS) (Calderon 12 AST),12:13 PM
+308,1,2,352,0020800457,MISS Crawford 22' Jump Shot,,2:26,3,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:13 PM
+309,0,4,353,0020800457,,,2:25,3,5,0,0,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Parker REBOUND (Off:0 Def:2),12:13 PM
+310,8,1,354,0020800457,,,2:21,3,5,5,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,76 - 83,7,Bosh 2' Slam Dunk (23 PTS) (Graham 1 AST),12:13 PM
+311,0,8,356,0020800457,SUB: Azubuike FOR Turiaf,,2:21,3,4,4,0,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:16 PM
+312,0,8,357,0020800457,SUB: Biedrins FOR Watson,,2:21,3,4,4,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:16 PM
+313,0,8,358,0020800457,,,2:21,3,5,5,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Bargnani FOR Bosh,12:16 PM
+314,1,2,359,0020800457,MISS Jackson 26' 3PT Jump Shot,,2:00,3,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:16 PM
+315,0,4,360,0020800457,,,1:59,3,5,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Graham REBOUND (Off:0 Def:1),12:16 PM
+316,5,2,361,0020800457,Biedrins BLOCK (4 BLK),,1:45,3,5,0,4,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,,,MISS Humphries 2' Layup,12:16 PM
+317,0,4,362,0020800457,,,1:44,3,5,0,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Humphries REBOUND (Off:2 Def:1),12:16 PM
+318,5,2,363,0020800457,Jackson BLOCK (2 BLK),,1:43,3,5,0,4,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,,,MISS Humphries 3' Layup,12:16 PM
+319,0,4,364,0020800457,,,1:40,3,5,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Graham REBOUND (Off:1 Def:1),12:17 PM
+320,5,2,365,0020800457,,,1:39,3,5,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Graham 2' Layup,12:17 PM
+321,0,4,366,0020800457,,,1:37,3,5,0,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bargnani REBOUND (Off:2 Def:3),12:17 PM
+322,1,2,367,0020800457,,,1:36,3,5,0,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Bargnani 15' Jump Shot,12:17 PM
+323,0,4,368,0020800457,,,1:34,3,5,0,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bargnani REBOUND (Off:3 Def:3),12:17 PM
+324,1,2,369,0020800457,,,1:17,3,5,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Graham 5' Jump Shot,12:17 PM
+325,0,4,370,0020800457,Biedrins REBOUND (Off:0 Def:12),,1:16,3,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:17 PM
+326,3,6,371,0020800457,,,1:16,3,5,4,1,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Humphries L.B.FOUL (P1.PN),12:17 PM
+327,11,3,372,0020800457,MISS Biedrins Free Throw 1 of 2,,1:16,3,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:17 PM
+328,1,4,373,0020800457,WARRIORS Rebound,,1:16,3,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,12:17 PM
+329,12,3,374,0020800457,Biedrins Free Throw 2 of 2 (9 PTS),,1:16,3,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,76 - 84,8,,12:18 PM
+330,42,1,376,0020800457,,,1:01,3,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,78 - 84,6,Calderon 1' Driving Layup (15 PTS),12:18 PM
+331,2,6,377,0020800457,,,0:50,3,5,4,1,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Humphries S.FOUL (P2.PN),12:19 PM
+332,0,8,378,0020800457,SUB: Watson FOR Crawford,,0:50,3,4,4,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:19 PM
+333,11,3,379,0020800457,Biedrins Free Throw 1 of 2 (10 PTS),,0:50,3,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,78 - 85,7,,12:19 PM
+334,12,3,381,0020800457,Biedrins Free Throw 2 of 2 (11 PTS),,0:50,3,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,78 - 86,8,,12:19 PM
+335,1,2,383,0020800457,,,0:26,3,5,0,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Humphries 16' Jump Shot,12:20 PM
+336,0,4,384,0020800457,Jackson REBOUND (Off:2 Def:3),,0:25,3,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:20 PM
+337,2,5,385,0020800457,Jackson Lost Ball Turnover (P4.T9),,0:04,3,4,5,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Bargnani STEAL (1 STL),12:20 PM
+338,11,6,386,0020800457,Jackson T.FOUL (P3.T4),,0:01,3,4,0,1,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:20 PM
+339,16,3,387,0020800457,,,0:01,3,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,79 - 86,7,Calderon Free Throw Technical (16 PTS),12:20 PM
+340,0,8,389,0020800457,,,0:01,3,5,5,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Bosh FOR Humphries,12:21 PM
+341,0,8,390,0020800457,SUB: Turiaf FOR Biedrins,,0:01,3,4,4,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:21 PM
+342,0,13,393,0020800457,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,79 - 86,7,,12:21 PM
+343,0,12,395,0020800457,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,79 - 86,7,,12:24 PM
+344,42,1,396,0020800457,,,11:36,4,5,5,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,81 - 86,5,Humphries 2' Driving Layup (5 PTS) (Graham 2 AST),12:24 PM
+345,2,6,397,0020800457,Turiaf S.FOUL (P3.T1),,11:36,4,4,5,1,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:24 PM
+346,10,3,398,0020800457,,,11:36,4,5,0,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,82 - 86,4,Humphries Free Throw 1 of 1 (6 PTS),12:25 PM
+347,42,1,400,0020800457,Azubuike 2' Driving Layup (11 PTS),,11:13,4,4,0,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,82 - 88,6,,12:25 PM
+348,1,1,401,0020800457,,,10:52,4,5,5,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,84 - 88,4,Humphries 18' Jump Shot (8 PTS) (Parker 2 AST),12:25 PM
+349,1,1,402,0020800457,Belinelli 27' 3PT Jump Shot (19 PTS) (Turiaf 3 AST),,10:33,4,4,4,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,0,,,,,,84 - 91,7,,12:26 PM
+350,1,5,403,0020800457,,,10:16,4,5,0,1,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Calderon Bad Pass Turnover (P3.T11),12:26 PM
+351,88,1,404,0020800457,Turiaf 1' Driving Slam Dunk (2 PTS) (Jackson 7 AST),,10:03,4,4,4,0,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,84 - 93,9,,12:26 PM
+352,11,6,405,0020800457,Turiaf T.FOUL (P3.T1),,10:03,4,4,0,1,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:27 PM
+353,16,3,406,0020800457,,,10:03,4,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,85 - 93,8,Calderon Free Throw Technical (17 PTS),12:27 PM
+354,2,6,408,0020800457,Azubuike S.FOUL (P2.T2),,9:45,4,4,5,1,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:27 PM
+355,11,3,409,0020800457,,,9:45,4,5,0,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,86 - 93,7,Humphries Free Throw 1 of 2 (9 PTS),12:28 PM
+356,12,3,411,0020800457,,,9:45,4,5,0,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,87 - 93,6,Humphries Free Throw 2 of 2 (10 PTS),12:28 PM
+357,1,1,413,0020800457,Azubuike 26' 3PT Jump Shot (14 PTS) (Belinelli 5 AST),,9:29,4,4,4,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,87 - 96,9,,12:28 PM
+358,1,2,414,0020800457,,,9:07,4,5,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Graham 17' Jump Shot,12:29 PM
+359,0,4,415,0020800457,Turiaf REBOUND (Off:0 Def:2),,9:05,4,4,0,0,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:29 PM
+360,42,1,416,0020800457,Azubuike 2' Driving Layup (16 PTS) (Turiaf 4 AST),,8:49,4,4,4,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,0,,,,,,87 - 98,11,,12:29 PM
+361,5,7,417,0020800457,,,8:34,4,5,0,1,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Parker Violation:Kicked Ball,12:29 PM
+362,4,9,418,0020800457,,,8:34,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:29 PM
+363,0,8,420,0020800457,,,8:34,4,5,5,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Bosh FOR Bargnani,12:32 PM
+364,1,2,422,0020800457,,,8:19,4,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Calderon 29' 3PT Jump Shot,12:33 PM
+365,0,4,423,0020800457,Azubuike REBOUND (Off:0 Def:4),,8:16,4,4,0,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:33 PM
+366,42,1,424,0020800457,Azubuike 2' Driving Layup (18 PTS) (Belinelli 6 AST),,8:07,4,4,4,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,87 - 100,13,,12:33 PM
+367,1,2,425,0020800457,,,7:47,4,5,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Graham 5' Jump Shot,12:33 PM
+368,0,4,426,0020800457,,,7:47,4,5,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Graham REBOUND (Off:2 Def:1),12:33 PM
+369,2,6,427,0020800457,Azubuike S.FOUL (P3.T3),,7:47,4,4,5,1,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:33 PM
+370,11,3,428,0020800457,,,7:47,4,5,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Graham Free Throw 1 of 2,12:34 PM
+371,1,4,429,0020800457,,,7:47,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,12:34 PM
+372,12,3,430,0020800457,,,7:47,4,5,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,88 - 100,12,Graham Free Throw 2 of 2 (7 PTS),12:34 PM
+373,5,2,432,0020800457,MISS Jackson 3' Layup,,7:29,4,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:34 PM
+374,0,4,433,0020800457,,,7:27,4,5,0,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Humphries REBOUND (Off:2 Def:2),12:34 PM
+375,88,1,434,0020800457,,,7:21,4,5,5,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,90 - 100,10,Graham 1' Driving Slam Dunk (9 PTS) (Parker 3 AST),12:34 PM
+376,1,2,435,0020800457,MISS Belinelli 28' 3PT Jump Shot,,7:05,4,4,0,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:35 PM
+377,0,4,436,0020800457,,,7:03,4,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Calderon REBOUND (Off:1 Def:4),12:35 PM
+378,5,1,437,0020800457,,,6:49,4,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,92 - 100,8,Bosh 2' Layup (25 PTS),12:35 PM
+379,79,1,438,0020800457,Jackson 20' Pullup Jump Shot (28 PTS),,6:31,4,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,92 - 102,10,,12:35 PM
+380,1,6,439,0020800457,Watson P.FOUL (P2.T4),,6:22,4,4,5,1,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:35 PM
+381,0,8,440,0020800457,,,6:22,4,5,5,0,2743,Kris Humphries,TOR,Toronto,1610612761.0,Raptors,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Kapono FOR Humphries,12:35 PM
+382,0,8,441,0020800457,SUB: Crawford FOR Belinelli,,6:22,4,4,4,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:36 PM
+383,1,1,442,0020800457,,,6:18,4,5,5,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,95 - 102,7,Kapono 26' 3PT Jump Shot (9 PTS) (Calderon 13 AST),12:36 PM
+384,1,6,443,0020800457,,,6:05,4,5,4,1,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Parker P.FOUL (P2.T1),12:36 PM
+385,1,2,444,0020800457,MISS Jackson 26' 3PT Jump Shot,,5:54,4,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:36 PM
+386,0,4,445,0020800457,,,5:53,4,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Calderon REBOUND (Off:1 Def:5),12:36 PM
+387,1,2,446,0020800457,,,5:45,4,5,0,0,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Parker 24' 3PT Jump Shot,12:37 PM
+388,0,4,447,0020800457,Watson REBOUND (Off:0 Def:1),,5:43,4,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:37 PM
+389,78,2,448,0020800457,MISS Watson 5' Floating Jump Shot,,5:31,4,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:37 PM
+390,0,4,450,0020800457,Jackson REBOUND (Off:3 Def:3),,5:29,4,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:37 PM
+391,4,1,449,0020800457,Jackson 1' Tip Shot (30 PTS),,5:29,4,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,95 - 104,9,,12:37 PM
+392,1,6,451,0020800457,Jackson P.FOUL (P4.PN),,5:25,4,4,5,1,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:37 PM
+393,1,9,452,0020800457,WARRIORS Timeout: Regular (Full 3 Short 0),,5:25,4,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,12:37 PM
+394,0,8,455,0020800457,SUB: Biedrins FOR Turiaf,,5:25,4,4,4,0,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:40 PM
+395,11,3,456,0020800457,,,5:25,4,5,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,96 - 104,8,Graham Free Throw 1 of 2 (10 PTS),12:40 PM
+396,12,3,458,0020800457,,,5:25,4,5,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,97 - 104,7,Graham Free Throw 2 of 2 (11 PTS),12:40 PM
+397,4,6,460,0020800457,Biedrins OFF.Foul (P3),,5:12,4,4,5,1,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:41 PM
+398,5,5,461,0020800457,Biedrins Foul Turnover (P2.T10),,5:12,4,4,0,1,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:41 PM
+399,65,1,462,0020800457,,,4:55,4,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,99 - 104,5,Bosh 6' Jump Hook Shot (27 PTS),12:41 PM
+400,79,1,463,0020800457,Watson 17' Pullup Jump Shot (13 PTS) (Crawford 7 AST),,4:36,4,4,4,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,99 - 106,7,,12:41 PM
+401,1,2,464,0020800457,Biedrins BLOCK (5 BLK),,4:17,4,5,0,4,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,,,MISS Graham 5' Jump Shot,12:42 PM
+402,0,4,465,0020800457,Biedrins REBOUND (Off:0 Def:13),,4:15,4,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:42 PM
+403,1,2,466,0020800457,MISS Crawford 27' 3PT Jump Shot,,3:54,4,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:42 PM
+404,0,4,467,0020800457,,,3:53,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,12:42 PM
+405,3,6,468,0020800457,Watson L.B.FOUL (P3.PN),,3:53,4,4,5,1,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:42 PM
+406,11,3,470,0020800457,,,3:53,4,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,100 - 106,6,Calderon Free Throw 1 of 2 (18 PTS),12:42 PM
+407,12,3,472,0020800457,,,3:53,4,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,101 - 106,5,Calderon Free Throw 2 of 2 (19 PTS),12:43 PM
+408,1,2,474,0020800457,MISS Biedrins 3' Jump Shot,,3:37,4,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:43 PM
+409,0,4,475,0020800457,,,3:37,4,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bosh REBOUND (Off:5 Def:7),12:43 PM
+410,1,1,476,0020800457,,,3:29,4,5,5,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,104 - 106,2,Bosh 27' 3PT Jump Shot (30 PTS) (Calderon 14 AST),12:43 PM
+411,4,6,477,0020800457,Crawford OFF.Foul (P2),,3:16,4,4,5,1,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:44 PM
+412,5,5,478,0020800457,Crawford Foul Turnover (P1.T11),,3:16,4,4,0,1,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:44 PM
+413,0,8,479,0020800457,SUB: Belinelli FOR Crawford,,3:16,4,4,4,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:44 PM
+414,1,2,480,0020800457,,,3:09,4,5,0,0,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Parker  3PT Jump Shot,12:44 PM
+415,0,4,481,0020800457,Watson REBOUND (Off:0 Def:2),,3:06,4,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:44 PM
+416,1,2,482,0020800457,MISS Jackson 18' Jump Shot,,2:49,4,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:45 PM
+417,0,4,483,0020800457,,,2:48,4,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bosh REBOUND (Off:5 Def:8),12:45 PM
+418,1,2,484,0020800457,,,2:37,4,5,0,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Kapono 24' 3PT Jump Shot,12:45 PM
+419,0,4,485,0020800457,,,2:36,4,5,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Graham REBOUND (Off:3 Def:1),12:45 PM
+420,1,2,486,0020800457,,,2:24,4,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Calderon 28' 3PT Jump Shot,12:45 PM
+421,0,4,487,0020800457,Biedrins REBOUND (Off:0 Def:14),,2:22,4,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:45 PM
+422,5,2,488,0020800457,MISS Watson 1' Layup,,2:07,4,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:45 PM
+423,0,4,490,0020800457,Biedrins REBOUND (Off:1 Def:14),,2:05,4,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:45 PM
+424,72,1,489,0020800457,Biedrins 3' Putback Layup (13 PTS),,2:05,4,4,0,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,104 - 108,4,,12:45 PM
+425,1,9,491,0020800457,,,2:05,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.4 Short 0),12:45 PM
+426,0,8,493,0020800457,SUB: Turiaf FOR Azubuike,,2:05,4,4,4,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:48 PM
+427,1,2,494,0020800457,,,1:51,4,5,0,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Kapono 25' 3PT Jump Shot,12:48 PM
+428,0,4,495,0020800457,,,1:50,4,5,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Graham REBOUND (Off:4 Def:1),12:48 PM
+429,1,2,496,0020800457,,,1:48,4,5,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Graham 5' Jump Shot,12:48 PM
+430,0,4,497,0020800457,,,1:46,4,5,0,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Bosh REBOUND (Off:6 Def:8),12:48 PM
+431,1,2,498,0020800457,,,1:42,4,5,0,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Kapono  3PT Jump Shot,12:48 PM
+432,0,4,499,0020800457,Belinelli REBOUND (Off:1 Def:1),,1:41,4,4,0,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:48 PM
+433,4,6,500,0020800457,Belinelli OFF.Foul (P3),,1:21,4,4,5,1,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:49 PM
+434,5,5,501,0020800457,Belinelli Foul Turnover (P2.T12),,1:21,4,4,0,1,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:49 PM
+435,47,1,502,0020800457,,,1:10,4,5,5,0,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,106 - 108,2,Kapono 9' Turnaround Jump Shot (11 PTS) (Calderon 15 AST),12:49 PM
+436,79,1,503,0020800457,Watson 17' Pullup Jump Shot (15 PTS),,0:52,4,4,0,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,106 - 110,4,,12:50 PM
+437,2,5,504,0020800457,Watson STEAL (2 STL),,0:36,4,5,4,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Bosh Lost Ball Turnover (P4.T12),12:50 PM
+438,1,6,505,0020800457,,,0:30,4,5,4,1,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Graham P.FOUL (P3.T2),12:50 PM
+439,1,9,506,0020800457,WARRIORS Timeout: Regular (Full 4 Short 0),,0:30,4,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,12:51 PM
+440,0,8,508,0020800457,SUB: Azubuike FOR Biedrins,,0:30,4,4,4,0,2740,Andris Biedrins,GSW,Golden State,1610612744.0,Warriors,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:52 PM
+441,0,8,509,0020800457,SUB: Crawford FOR Watson,,0:30,4,4,4,0,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:52 PM
+442,0,8,510,0020800457,,,0:30,4,5,5,0,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,2226,Will Solomon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Solomon FOR Bosh,12:52 PM
+443,0,8,511,0020800457,,,0:30,4,5,5,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Moon FOR Calderon,12:52 PM
+444,1,6,512,0020800457,,,0:29,4,5,4,1,2226,Will Solomon,TOR,Toronto,1610612761.0,Raptors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Solomon P.FOUL (P2.PN),12:53 PM
+445,11,3,513,0020800457,MISS Crawford Free Throw 1 of 2,,0:29,4,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,12:53 PM
+446,1,4,514,0020800457,WARRIORS Rebound,,0:29,4,2,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,,12:53 PM
+447,0,8,515,0020800457,,,0:29,4,5,5,0,200081,Jamario Moon,TOR,Toronto,1610612761.0,Raptors,2547,Chris Bosh,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Bosh FOR Moon,12:53 PM
+448,0,8,516,0020800457,,,0:29,4,5,5,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Bargnani FOR Graham,12:53 PM
+449,0,8,517,0020800457,,,0:29,4,5,5,0,2226,Will Solomon,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Calderon FOR Solomon,12:53 PM
+450,12,3,518,0020800457,Crawford Free Throw 2 of 2 (8 PTS),,0:29,4,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,106 - 111,5,,12:53 PM
+451,2,9,520,0020800457,,,0:29,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Short (Reg.4 Short 1),12:53 PM
+452,0,8,522,0020800457,SUB: Watson FOR Azubuike,,0:29,4,4,4,0,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:55 PM
+453,1,5,523,0020800457,Watson STEAL (3 STL),,0:27,4,5,4,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,201228,C.J. Watson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Calderon Bad Pass Turnover (P4.T13),12:55 PM
+454,1,6,524,0020800457,,,0:25,4,5,4,1,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Parker P.FOUL (P3.PN),12:55 PM
+455,11,3,525,0020800457,Belinelli Free Throw 1 of 2 (20 PTS),,0:25,4,4,0,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,106 - 112,6,,12:55 PM
+456,12,3,527,0020800457,Belinelli Free Throw 2 of 2 (21 PTS),,0:25,4,4,0,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,106 - 113,7,,12:55 PM
+457,79,1,529,0020800457,,,0:18,4,5,5,0,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,109 - 113,4,Parker 26' 3PT Pullup Jump Shot (5 PTS) (Calderon 16 AST),12:56 PM
+458,1,6,530,0020800457,,,0:18,4,5,4,1,2574,Jason Kapono,TOR,Toronto,1610612761.0,Raptors,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Kapono P.FOUL (P4.PN),12:56 PM
+459,11,3,531,0020800457,Belinelli Free Throw 1 of 2 (22 PTS),,0:18,4,4,0,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,109 - 114,5,,12:56 PM
+460,0,8,533,0020800457,SUB: Azubuike FOR Turiaf,,0:18,4,4,4,0,101142,Ronny Turiaf,GSW,Golden State,1610612744.0,Warriors,101235,Kelenna Azubuike,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,,12:56 PM
+461,12,3,534,0020800457,Belinelli Free Throw 2 of 2 (23 PTS),,0:18,4,4,0,0,201158,Marco Belinelli,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,109 - 115,6,,12:57 PM
+462,1,9,536,0020800457,,,0:18,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.5 Short 1),12:57 PM
+463,42,1,540,0020800457,,,0:13,4,5,0,0,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,111 - 115,4,Calderon 1' Driving Layup (21 PTS),12:59 PM
+464,1,6,541,0020800457,,,0:13,4,5,4,1,101181,Jose Calderon,TOR,Toronto,1610612761.0,Raptors,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Calderon P.FOUL (P1.PN),12:59 PM
+465,11,3,542,0020800457,Crawford Free Throw 1 of 2 (9 PTS),,0:13,4,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,111 - 116,5,,12:59 PM
+466,12,3,544,0020800457,Crawford Free Throw 2 of 2 (10 PTS),,0:13,4,4,0,0,2037,Jamal Crawford,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,111 - 117,6,,12:59 PM
+467,1,2,546,0020800457,,,0:05,4,5,0,0,1515,Anthony Parker,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Parker 27' 3PT Jump Shot,13:00 PM
+468,0,4,547,0020800457,,,0:05,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,13:00 PM
+469,1,2,548,0020800457,,,0:00,4,5,0,0,200745,Andrea Bargnani,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Bargnani 29' 3PT Jump Shot,13:00 PM
+470,0,4,549,0020800457,Jackson REBOUND (Off:3 Def:4),,0:00,4,4,0,0,1536,Stephen Jackson,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,,13:00 PM
+471,0,13,550,0020800457,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,111 - 117,6,,13:00 PM

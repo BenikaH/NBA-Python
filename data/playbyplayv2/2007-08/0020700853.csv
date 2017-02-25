@@ -1,0 +1,456 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020700853,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:55 PM
+1,0,10,1,0020700853,Jump Ball Wilcox vs. Camby: Tip to Martin,,12:00,1,4,5,5,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,,,,9:57 PM
+2,1,2,2,0020700853,,,11:46,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Camby 19' Jump Shot,9:57 PM
+3,0,4,3,0020700853,SUPERSONICS Rebound,,11:45,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,9:57 PM
+4,1,2,4,0020700853,MISS Petro 18' Jump Shot,,11:27,1,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,9:58 PM
+5,0,4,5,0020700853,,,11:26,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:0 Def:1),9:58 PM
+6,1,1,6,0020700853,,,11:08,1,5,5,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,2 - 0,-2,Martin 17' Jump Shot (2 PTS) (Anthony 1 AST),9:58 PM
+7,1,1,7,0020700853,Durant 19' Jump Shot (2 PTS),,10:51,1,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,2 - 2,TIE,,9:58 PM
+8,1,6,8,0020700853,Green P.FOUL (P1.T1),,10:40,1,4,5,1,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:58 PM
+9,43,2,9,0020700853,,,10:39,1,5,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Martin  Alley Oop Layup,9:59 PM
+10,0,4,10,0020700853,Petro REBOUND (Off:0 Def:1),,10:34,1,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,9:59 PM
+11,8,1,11,0020700853,Wilcox  Slam Dunk (2 PTS) (Ridnour 1 AST),,10:19,1,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,2 - 4,2,,9:59 PM
+12,1,1,12,0020700853,,,10:03,1,5,5,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,4 - 4,TIE,Camby 20' Jump Shot (2 PTS) (Carter 1 AST),9:59 PM
+13,1,2,13,0020700853,MISS Durant 18' Jump Shot,,9:50,1,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:00 PM
+14,0,4,14,0020700853,,,9:49,1,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Iverson REBOUND (Off:0 Def:1),10:00 PM
+15,1,2,15,0020700853,,,9:40,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony 25' 3PT Jump Shot,10:00 PM
+16,0,4,16,0020700853,Wilcox REBOUND (Off:0 Def:1),,9:39,1,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:00 PM
+17,1,2,17,0020700853,MISS Green 20' Jump Shot,,9:24,1,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:00 PM
+18,0,4,18,0020700853,Petro REBOUND (Off:1 Def:1),,9:23,1,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:00 PM
+19,2,5,19,0020700853,Wilcox Lost Ball Turnover (P1.T1),,9:19,1,4,5,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Carter STEAL (1 STL),10:00 PM
+20,2,7,21,0020700853,Petro Violation:Defensive Goaltending,,9:15,1,4,0,1,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:00 PM
+21,5,1,20,0020700853,,,9:15,1,5,0,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,6 - 4,-2,Carter  Layup (2 PTS),10:00 PM
+22,1,2,23,0020700853,MISS Petro 9' Jump Shot,,8:53,1,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:01 PM
+23,0,4,24,0020700853,,,8:53,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:0 Def:2),10:01 PM
+24,1,2,25,0020700853,,,8:43,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony 4' Jump Shot,10:01 PM
+25,0,4,26,0020700853,Green REBOUND (Off:0 Def:1),,8:42,1,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:01 PM
+26,1,5,27,0020700853,Ridnour Bad Pass Turnover (P1.T2),,8:38,1,4,5,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Anthony STEAL (1 STL),10:01 PM
+27,2,5,28,0020700853,Durant STEAL (1 STL),,8:31,1,5,4,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Iverson Lost Ball Turnover (P1.T1),10:01 PM
+28,1,2,29,0020700853,MISS Green 25' 3PT Jump Shot,,8:25,1,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:01 PM
+29,0,4,30,0020700853,SUPERSONICS Rebound,,8:25,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:01 PM
+30,1,6,31,0020700853,,,8:25,1,5,4,1,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Camby P.FOUL (P1.T1),10:01 PM
+31,2,5,32,0020700853,Durant Lost Ball Turnover (P1.T3),,8:20,1,4,5,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Carter STEAL (2 STL),10:02 PM
+32,41,1,33,0020700853,,,8:16,1,5,0,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,8 - 4,-4,Carter  Running Layup (4 PTS),10:02 PM
+33,8,1,34,0020700853,Petro  Slam Dunk (2 PTS) (Durant 1 AST),,8:00,1,4,4,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,8 - 6,-2,,10:02 PM
+34,1,1,35,0020700853,,,7:36,1,5,5,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,10 - 6,-4,Martin 13' Jump Shot (4 PTS) (Carter 2 AST),10:02 PM
+35,2,6,36,0020700853,,,7:25,1,5,4,1,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Martin S.FOUL (P1.T2),10:03 PM
+36,11,3,38,0020700853,MISS Wilcox Free Throw 1 of 2,,7:25,1,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:03 PM
+37,1,4,39,0020700853,SUPERSONICS Rebound,,7:25,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:03 PM
+38,12,3,40,0020700853,Wilcox Free Throw 2 of 2 (3 PTS),,7:25,1,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,10 - 7,-3,,10:03 PM
+39,1,2,42,0020700853,,,7:12,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony 8' Jump Shot,10:04 PM
+40,0,4,44,0020700853,,,7:08,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:1 Def:0),10:04 PM
+41,4,2,43,0020700853,,,7:08,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Camby  Tip Shot,10:04 PM
+42,0,4,72,0020700853,,,7:08,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:2 Def:0),10:04 PM
+43,53,1,54,0020700853,,,7:08,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,12 - 7,-5,Camby 2' Tip Shot (4 PTS),10:04 PM
+44,1,2,47,0020700853,MISS Ridnour 18' Jump Shot,,6:56,1,4,0,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:04 PM
+45,0,4,49,0020700853,,,6:56,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:2 Def:1),10:04 PM
+46,1,5,50,0020700853,,,6:56,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby Bad Pass Turnover (P1.T2),10:04 PM
+47,1,2,52,0020700853,MISS Durant 18' Jump Shot,,6:53,1,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:04 PM
+48,0,4,53,0020700853,,,6:52,1,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:2 Def:2),10:04 PM
+49,2,5,55,0020700853,Ridnour STEAL (1 STL),,6:46,1,5,4,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Iverson Lost Ball Turnover (P2.T3),10:04 PM
+50,1,2,56,0020700853,MISS Durant 5' Jump Shot,,6:38,1,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:04 PM
+51,0,4,57,0020700853,,,6:37,1,5,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:0 Def:1),10:04 PM
+52,1,2,58,0020700853,,,6:31,1,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Iverson 17' Jump Shot,10:05 PM
+53,0,4,59,0020700853,Petro REBOUND (Off:1 Def:2),,6:30,1,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:05 PM
+54,3,1,60,0020700853,Petro 7' Hook Shot (4 PTS),,6:07,1,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,12 - 9,-3,,10:05 PM
+55,1,1,61,0020700853,,,5:48,1,5,5,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,14 - 9,-5,Iverson 13' Jump Shot (2 PTS) (Carter 3 AST),10:05 PM
+56,1,2,62,0020700853,MISS Durant 18' Jump Shot,,5:31,1,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:06 PM
+57,0,4,63,0020700853,,,5:30,1,5,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:0 Def:2),10:06 PM
+58,5,2,64,0020700853,,,5:18,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony  Layup,10:06 PM
+59,0,4,65,0020700853,Petro REBOUND (Off:1 Def:3),,5:17,1,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:06 PM
+60,1,2,66,0020700853,MISS Ridnour 9' Jump Shot,,5:08,1,4,0,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:06 PM
+61,0,4,67,0020700853,,,5:08,1,5,0,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Carter REBOUND (Off:0 Def:1),10:06 PM
+62,1,6,69,0020700853,Ridnour P.FOUL (P1.T2),,5:08,1,4,5,1,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:06 PM
+63,1,9,70,0020700853,SUPERSONICS Timeout: Regular (Full 1 Short 0),,5:08,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:06 PM
+64,0,8,73,0020700853,SUB: Collison FOR Wilcox,,5:08,1,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:09 PM
+65,0,8,74,0020700853,SUB: Wilkins FOR Durant,,5:08,1,4,4,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:09 PM
+66,1,1,75,0020700853,,,4:51,1,5,5,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,16 - 9,-7,Iverson 19' Jump Shot (4 PTS) (Carter 4 AST),10:09 PM
+67,1,2,76,0020700853,MISS Wilkins 20' Jump Shot,,4:43,1,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:09 PM
+68,0,4,77,0020700853,,,4:42,1,5,0,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Carter REBOUND (Off:0 Def:2),10:09 PM
+69,1,1,78,0020700853,,,4:33,1,5,5,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,18 - 9,-9,Iverson 20' Jump Shot (6 PTS) (Anthony 2 AST),10:09 PM
+70,41,5,79,0020700853,Ridnour Poss Lost Ball Turnover (P2.T4),,4:19,1,4,0,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:10 PM
+71,1,1,80,0020700853,,,3:59,1,5,5,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,21 - 9,-12,Iverson  3PT Jump Shot (9 PTS) (Camby 1 AST),10:10 PM
+72,1,1,81,0020700853,Green 16' Jump Shot (2 PTS),,3:43,1,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,21 - 11,-10,,10:10 PM
+73,2,6,82,0020700853,Collison S.FOUL (P1.T3),,3:33,1,4,5,1,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:11 PM
+74,11,3,83,0020700853,,,3:33,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,22 - 11,-11,Anthony Free Throw 1 of 2 (1 PTS),10:11 PM
+75,12,3,84,0020700853,,,3:33,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,23 - 11,-12,Anthony Free Throw 2 of 2 (2 PTS),10:11 PM
+76,2,6,85,0020700853,,,3:12,1,5,4,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Anthony S.FOUL (P1.T3),10:12 PM
+77,0,8,86,0020700853,,,3:12,1,5,5,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Kleiza FOR Carter,10:12 PM
+78,11,3,87,0020700853,Green Free Throw 1 of 2 (3 PTS),,3:12,1,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,23 - 12,-11,,10:12 PM
+79,0,8,89,0020700853,SUB: Gelabale FOR Ridnour,,3:12,1,4,4,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:12 PM
+80,12,3,90,0020700853,Green Free Throw 2 of 2 (4 PTS),,3:12,1,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,23 - 13,-10,,10:12 PM
+81,47,1,92,0020700853,,,2:54,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,25 - 13,-12,Anthony 11' Turnaround Jump Shot (4 PTS),10:13 PM
+82,40,5,93,0020700853,Collison Out of Bounds Lost Ball Turnover (P1.T5),,2:32,1,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:13 PM
+83,1,9,94,0020700853,,,2:32,1,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.1 Short 0),10:13 PM
+84,0,8,96,0020700853,SUB: Durant FOR Green,,2:32,1,4,4,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:16 PM
+85,0,8,97,0020700853,SUB: Wilcox FOR Petro,,2:32,1,4,4,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:16 PM
+86,7,1,99,0020700853,,,2:20,1,5,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,27 - 13,-14,Martin  Dunk (6 PTS),10:16 PM
+87,5,2,100,0020700853,MISS Collison  Layup,,2:05,1,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:17 PM
+88,0,4,101,0020700853,Wilcox REBOUND (Off:1 Def:1),,2:03,1,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:17 PM
+89,5,2,102,0020700853,MISS Collison  Layup,,1:59,1,4,0,5,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,,,Camby BLOCK (1 BLK),10:17 PM
+90,0,4,103,0020700853,,,1:57,1,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:0 Def:3),10:17 PM
+91,4,5,104,0020700853,,,1:55,1,5,0,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony Traveling Turnover (P1.T4),10:17 PM
+92,1,1,105,0020700853,Gelabale 16' Jump Shot (2 PTS),,1:42,1,4,0,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,27 - 15,-12,,10:17 PM
+93,52,1,106,0020700853,,,1:30,1,5,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,29 - 15,-14,Anthony  Alley Oop Dunk (6 PTS) (Camby 2 AST),10:17 PM
+94,66,1,107,0020700853,Wilkins 15' Jump Bank Shot (2 PTS),,1:17,1,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,29 - 17,-12,,10:18 PM
+95,1,2,108,0020700853,,,0:59,1,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Iverson 16' Jump Shot,10:18 PM
+96,0,4,109,0020700853,Collison REBOUND (Off:0 Def:1),,0:58,1,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:18 PM
+97,1,1,110,0020700853,Wilkins 21' Jump Shot (4 PTS) (Gelabale 1 AST),,0:51,1,4,4,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,29 - 19,-10,,10:18 PM
+98,1,2,111,0020700853,,,0:34,1,5,0,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Kleiza 3' Jump Shot,10:18 PM
+99,0,4,112,0020700853,Durant REBOUND (Off:0 Def:1),,0:33,1,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:18 PM
+100,4,6,113,0020700853,Durant OFF.Foul (P1),,0:29,1,4,5,1,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:18 PM
+101,5,5,114,0020700853,Durant Foul Turnover (P2.T6),,0:29,1,4,0,1,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:18 PM
+102,0,8,115,0020700853,,,0:29,1,5,5,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Smith FOR Camby,10:19 PM
+103,5,1,117,0020700853,,,0:04,1,5,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,31 - 19,-12,Anthony 2' Layup (8 PTS) (Kleiza 1 AST),10:19 PM
+104,2,5,118,0020700853,Gelabale Lost Ball Turnover (P1.T7),,0:00,1,4,5,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Iverson STEAL (1 STL),10:19 PM
+105,0,13,119,0020700853,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,31 - 19,-12,,10:19 PM
+106,0,12,121,0020700853,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,31 - 19,-12,,10:22 PM
+107,8,1,122,0020700853,Collison  Slam Dunk (2 PTS) (Gelabale 2 AST),,11:41,2,4,4,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,31 - 21,-10,,10:22 PM
+108,42,1,123,0020700853,,,11:19,2,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,33 - 21,-12,Iverson  Driving Layup (11 PTS),10:23 PM
+109,5,2,124,0020700853,MISS Collison  Layup,,11:10,2,4,0,5,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,,,Anthony BLOCK (1 BLK),10:23 PM
+110,0,4,125,0020700853,,,11:08,2,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Iverson REBOUND (Off:0 Def:2),10:23 PM
+111,8,1,126,0020700853,,,11:06,2,5,5,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,35 - 21,-14,Kleiza  Slam Dunk (2 PTS) (Iverson 1 AST),10:23 PM
+112,1,2,127,0020700853,MISS Durant 10' Jump Shot,,10:42,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:23 PM
+113,0,4,128,0020700853,,,10:41,2,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:2 Def:3),10:23 PM
+114,41,1,129,0020700853,,,10:36,2,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,37 - 21,-16,Anthony  Running Layup (10 PTS),10:24 PM
+115,1,9,130,0020700853,SUPERSONICS Timeout: Regular (Full 2 Short 0),,10:30,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:24 PM
+116,8,1,133,0020700853,Wilcox  Slam Dunk (5 PTS),,10:17,2,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,37 - 23,-14,,10:26 PM
+117,1,5,134,0020700853,Durant STEAL (2 STL),,10:00,2,5,4,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Anthony Bad Pass Turnover (P2.T5),10:27 PM
+118,1,2,135,0020700853,MISS Wilkins 21' Jump Shot,,9:53,2,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:27 PM
+119,0,4,136,0020700853,,,9:52,2,5,0,0,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:1),10:27 PM
+120,1,1,137,0020700853,,,9:38,2,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,39 - 23,-16,Iverson 7' Jump Shot (13 PTS),10:27 PM
+121,1,2,138,0020700853,MISS Gelabale 14' Jump Shot,,9:22,2,4,0,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:27 PM
+122,0,4,139,0020700853,,,9:21,2,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:0 Def:4),10:27 PM
+123,1,5,140,0020700853,Collison STEAL (1 STL),,9:14,2,5,4,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Kleiza Bad Pass Turnover (P1.T6),10:27 PM
+124,5,1,141,0020700853,Durant  Layup (4 PTS),,9:07,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,39 - 25,-14,,10:27 PM
+125,2,6,142,0020700853,,,9:07,2,5,4,1,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Smith S.FOUL (P1.T1),10:27 PM
+126,0,8,143,0020700853,,,9:07,2,5,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Carter FOR Anthony,10:28 PM
+127,0,8,144,0020700853,SUB: Ridnour FOR Gelabale,,9:07,2,4,4,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:28 PM
+128,0,8,145,0020700853,SUB: Green FOR Wilkins,,9:07,2,4,4,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:28 PM
+129,0,8,146,0020700853,SUB: Petro FOR Collison,,9:07,2,4,4,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:28 PM
+130,10,3,147,0020700853,Durant Free Throw 1 of 1 (5 PTS),,9:07,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,39 - 26,-13,,10:28 PM
+131,2,6,149,0020700853,Ridnour S.FOUL (P2.T1),,8:55,2,4,5,1,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:28 PM
+132,11,3,150,0020700853,,,8:55,2,5,0,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,40 - 26,-14,Kleiza Free Throw 1 of 2 (3 PTS),10:29 PM
+133,12,3,151,0020700853,,,8:55,2,5,0,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Kleiza Free Throw 2 of 2,10:29 PM
+134,0,4,153,0020700853,Wilcox REBOUND (Off:1 Def:2),,8:53,2,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:29 PM
+135,1,1,154,0020700853,Green 14' Jump Shot (6 PTS) (Ridnour 2 AST),,8:37,2,4,4,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,40 - 28,-12,,10:29 PM
+136,1,2,155,0020700853,,,8:19,2,5,0,0,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Smith 25' 3PT Jump Shot,10:30 PM
+137,0,4,156,0020700853,,,8:18,2,5,0,0,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:1),10:30 PM
+138,1,2,157,0020700853,,,8:08,2,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Iverson 11' Jump Shot,10:30 PM
+139,0,4,159,0020700853,,,8:06,2,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:3 Def:3),10:30 PM
+140,4,1,158,0020700853,,,8:06,2,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,42 - 28,-14,Camby  Tip Shot (6 PTS),10:30 PM
+141,1,2,160,0020700853,MISS Green 25' 3PT Jump Shot,,7:44,2,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:30 PM
+142,0,4,161,0020700853,,,7:42,2,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:3 Def:4),10:30 PM
+143,1,1,162,0020700853,,,7:24,2,5,5,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,44 - 28,-16,Camby 21' Jump Shot (8 PTS) (Carter 5 AST),10:31 PM
+144,1,1,163,0020700853,Wilcox 12' Jump Shot (7 PTS) (Ridnour 3 AST),,7:00,2,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,44 - 30,-14,,10:31 PM
+145,1,5,164,0020700853,,,6:55,2,5,0,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Carter Bad Pass Turnover (P1.T7),10:31 PM
+146,1,1,165,0020700853,Wilcox 16' Jump Shot (9 PTS),,6:42,2,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,44 - 32,-12,,10:31 PM
+147,1,9,167,0020700853,,,6:34,2,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.2 Short 0),10:32 PM
+148,0,8,169,0020700853,,,6:34,2,5,5,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Martin FOR Camby,10:34 PM
+149,1,2,171,0020700853,,,6:30,2,5,0,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Kleiza 3' Jump Shot,10:34 PM
+150,0,4,172,0020700853,,,6:29,2,5,0,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Kleiza REBOUND (Off:1 Def:0),10:34 PM
+151,5,2,173,0020700853,Petro BLOCK (1 BLK),,6:27,2,5,0,4,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Kleiza  Layup,10:34 PM
+152,0,4,174,0020700853,,,6:24,2,5,0,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Kleiza REBOUND (Off:2 Def:0),10:34 PM
+153,5,1,175,0020700853,,,6:22,2,5,0,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,46 - 32,-14,Kleiza  Layup (5 PTS),10:34 PM
+154,78,1,176,0020700853,Ridnour 9' Floating Jump Shot (2 PTS),,6:11,2,4,0,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,46 - 34,-12,,10:35 PM
+155,1,1,177,0020700853,,,5:54,2,5,5,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,49 - 34,-15,Kleiza 24' 3PT Jump Shot (8 PTS) (Carter 6 AST),10:35 PM
+156,17,6,178,0020700853,,,5:42,2,5,0,1,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Nuggets T.Foul (Def. 3 Sec Martin ),10:35 PM
+157,16,3,179,0020700853,Durant Free Throw Technical (6 PTS),,5:42,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,49 - 35,-14,,10:35 PM
+158,1,2,180,0020700853,MISS Petro 10' Jump Shot,,5:33,2,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:36 PM
+159,0,4,181,0020700853,Durant REBOUND (Off:1 Def:1),,5:32,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:36 PM
+160,1,2,182,0020700853,MISS Durant 6' Jump Shot,,5:31,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:36 PM
+161,0,4,183,0020700853,,,5:29,2,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Iverson REBOUND (Off:0 Def:3),10:36 PM
+162,5,2,184,0020700853,,,5:23,2,5,0,0,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Smith  Layup,10:36 PM
+163,0,4,185,0020700853,Petro REBOUND (Off:1 Def:4),,5:21,2,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:36 PM
+164,1,2,186,0020700853,MISS Durant 19' Jump Shot,,5:07,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:36 PM
+165,0,4,187,0020700853,,,5:05,2,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Iverson REBOUND (Off:0 Def:4),10:36 PM
+166,1,6,188,0020700853,Green P.FOUL (P2.T2),,5:02,2,4,5,1,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:36 PM
+167,0,8,189,0020700853,,,5:02,2,5,5,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Anthony FOR Iverson,10:37 PM
+168,41,1,190,0020700853,,,4:54,2,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,51 - 35,-16,Anthony  Running Layup (12 PTS),10:37 PM
+169,65,1,191,0020700853,Petro 4' Jump Hook Shot (6 PTS) (Green 1 AST),,4:43,2,4,4,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,51 - 37,-14,,10:37 PM
+170,2,6,192,0020700853,,,4:43,2,5,4,1,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Kleiza S.FOUL (P1.T2),10:37 PM
+171,10,3,193,0020700853,Petro Free Throw 1 of 1 (7 PTS),,4:43,2,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,51 - 38,-13,,10:37 PM
+172,1,2,195,0020700853,,,4:32,2,5,0,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Kleiza 25' 3PT Jump Shot,10:38 PM
+173,0,4,196,0020700853,,,4:31,2,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,10:38 PM
+174,2,5,197,0020700853,Durant STEAL (3 STL),,4:24,2,5,4,0,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Smith Lost Ball Turnover (P1.T8),10:38 PM
+175,50,1,198,0020700853,Durant  Running Dunk (8 PTS),,4:20,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,51 - 40,-11,,10:38 PM
+176,1,1,199,0020700853,,,4:03,2,5,5,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,53 - 40,-13,Martin 13' Jump Shot (8 PTS) (Carter 7 AST),10:39 PM
+177,2,5,200,0020700853,Wilcox Lost Ball Turnover (P2.T8),,3:51,2,4,5,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Kleiza STEAL (1 STL),10:39 PM
+178,41,1,201,0020700853,,,3:46,2,5,0,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,55 - 40,-15,Kleiza  Running Layup (10 PTS),10:39 PM
+179,3,2,202,0020700853,MISS Petro 10' Hook Shot,,3:23,2,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:39 PM
+180,0,4,203,0020700853,,,3:21,2,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:0 Def:5),10:39 PM
+181,1,1,204,0020700853,,,3:10,2,5,5,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,57 - 40,-17,Martin 8' Jump Shot (10 PTS) (Anthony 3 AST),10:39 PM
+182,2,5,205,0020700853,Wilcox Lost Ball Turnover (P3.T9),,2:47,2,4,5,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Martin STEAL (1 STL),10:40 PM
+183,42,1,206,0020700853,,,2:42,2,5,0,0,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,59 - 40,-19,Smith  Driving Layup (2 PTS),10:40 PM
+184,2,9,209,0020700853,SUPERSONICS Timeout: Short (Full 2 Short 1),,2:42,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:40 PM
+185,4,9,210,0020700853,,,2:42,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:40 PM
+186,0,8,212,0020700853,,,2:42,2,5,5,0,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Camby FOR Smith,10:43 PM
+187,0,8,213,0020700853,SUB: Collison FOR Petro,,2:42,2,4,4,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:43 PM
+188,1,2,214,0020700853,MISS Green 24' 3PT Jump Shot,,2:31,2,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:43 PM
+189,0,4,215,0020700853,,,2:30,2,5,0,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Carter REBOUND (Off:0 Def:3),10:43 PM
+190,1,2,216,0020700853,,,2:12,2,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony 11' Jump Shot,10:43 PM
+191,0,4,217,0020700853,Collison REBOUND (Off:0 Def:2),,2:11,2,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:43 PM
+192,1,2,218,0020700853,MISS Ridnour 21' Jump Shot,,1:59,2,4,0,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:44 PM
+193,0,4,219,0020700853,,,1:58,2,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:3 Def:5),10:44 PM
+194,8,1,220,0020700853,,,1:54,2,5,5,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,61 - 40,-21,Kleiza  Slam Dunk (12 PTS) (Carter 8 AST),10:44 PM
+195,5,2,221,0020700853,MISS Durant  Layup,,1:44,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:44 PM
+196,0,4,222,0020700853,,,1:43,2,5,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:0 Def:3),10:44 PM
+197,1,5,223,0020700853,Collison STEAL (2 STL),,1:41,2,5,4,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Martin Bad Pass Turnover (P1.T9),10:44 PM
+198,5,1,224,0020700853,Collison  Layup (4 PTS),,1:35,2,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,61 - 42,-19,,10:44 PM
+199,4,6,225,0020700853,,,1:16,2,5,4,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Anthony OFF.Foul (P2),10:44 PM
+200,5,5,226,0020700853,,,1:16,2,5,0,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony Foul Turnover (P3.T10),10:44 PM
+201,0,8,227,0020700853,,,1:16,2,5,5,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Iverson FOR Kleiza,10:45 PM
+202,5,2,228,0020700853,MISS Ridnour  Layup,,1:01,2,4,0,5,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,,,Camby BLOCK (2 BLK),10:45 PM
+203,0,4,229,0020700853,SUPERSONICS Rebound,,1:01,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:45 PM
+204,7,2,230,0020700853,MISS Wilcox  Dunk,,0:58,2,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:45 PM
+205,0,4,231,0020700853,,,0:56,2,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:3 Def:6),10:45 PM
+206,5,2,232,0020700853,,,0:51,2,5,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Martin  Layup,10:45 PM
+207,0,4,233,0020700853,Durant REBOUND (Off:1 Def:2),,0:49,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:45 PM
+208,2,6,235,0020700853,,,0:39,2,5,4,1,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Martin S.FOUL (P2.T3),10:46 PM
+209,11,3,236,0020700853,Durant Free Throw 1 of 2 (9 PTS),,0:39,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,61 - 43,-18,,10:46 PM
+210,0,8,237,0020700853,SUB: Gelabale FOR Ridnour,,0:39,2,4,4,0,2557,Luke Ridnour,SEA,Seattle,1610612760.0,SuperSonics,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:46 PM
+211,0,8,238,0020700853,SUB: Wilkins FOR Green,,0:39,2,4,4,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,10:46 PM
+212,12,3,239,0020700853,Durant Free Throw 2 of 2 (10 PTS),,0:39,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,61 - 44,-17,,10:46 PM
+213,8,5,242,0020700853,,,0:33,2,5,0,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony 3 Second Violation Turnover (P4.T11),10:47 PM
+214,0,8,241,0020700853,,,0:33,2,5,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Kleiza FOR Anthony,10:47 PM
+215,11,6,243,0020700853,,,0:27,2,5,0,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony T.FOUL (P2.T3),10:47 PM
+216,16,3,244,0020700853,MISS Durant Free Throw Technical,,0:27,2,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:47 PM
+217,1,4,245,0020700853,SUPERSONICS Rebound,,0:27,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:47 PM
+218,2,6,247,0020700853,,,0:11,2,5,4,1,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Iverson S.FOUL (P1.PN),10:48 PM
+219,11,3,248,0020700853,MISS Collison Free Throw 1 of 2,,0:11,2,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,10:48 PM
+220,1,4,250,0020700853,SUPERSONICS Rebound,,0:11,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,10:48 PM
+221,0,8,251,0020700853,,,0:11,2,5,5,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Smith FOR Carter,10:48 PM
+222,12,3,253,0020700853,Collison Free Throw 2 of 2 (5 PTS),,0:11,2,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,61 - 45,-16,,10:48 PM
+223,1,1,255,0020700853,,,0:00,2,5,5,0,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,64 - 45,-19,Smith 29' 3PT Jump Shot (5 PTS) (Camby 3 AST),10:49 PM
+224,0,13,257,0020700853,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,64 - 45,-19,,10:49 PM
+225,0,12,259,0020700853,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,64 - 45,-19,,11:04 PM
+226,1,2,260,0020700853,MISS Wilcox 7' Jump Shot,,11:38,3,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:05 PM
+227,0,4,261,0020700853,,,11:37,3,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:3 Def:7),11:05 PM
+228,2,7,263,0020700853,Petro Violation:Defensive Goaltending,,11:16,3,4,0,1,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:06 PM
+229,5,1,262,0020700853,,,11:16,3,5,5,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,66 - 45,-21,Carter 2' Layup (6 PTS) (Martin 1 AST),11:06 PM
+230,5,2,264,0020700853,MISS Green  Layup,,11:05,3,4,0,5,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,,,Camby BLOCK (3 BLK),11:06 PM
+231,0,4,266,0020700853,Green REBOUND (Off:1 Def:1),,11:01,3,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:06 PM
+232,5,2,265,0020700853,MISS Green  Layup,,11:01,3,4,0,5,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,,,Camby BLOCK (4 BLK),11:06 PM
+233,0,4,267,0020700853,Gelabale REBOUND (Off:1 Def:0),,10:58,3,4,0,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:06 PM
+234,1,1,268,0020700853,Gelabale 27' 3PT Jump Shot (5 PTS),,10:57,3,4,0,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,66 - 48,-18,,11:06 PM
+235,2,5,269,0020700853,Petro STEAL (1 STL),,10:50,3,5,4,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Anthony Lost Ball Turnover (P5.T12),11:06 PM
+236,2,5,270,0020700853,Wilcox Lost Ball Turnover (P4.T10),,10:38,3,4,5,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Anthony STEAL (2 STL),11:07 PM
+237,1,5,271,0020700853,Petro STEAL (2 STL),,10:31,3,5,4,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Iverson Bad Pass Turnover (P3.T13),11:07 PM
+238,1,1,272,0020700853,Green 24' 3PT Jump Shot (9 PTS) (Gelabale 3 AST),,10:22,3,4,4,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,66 - 51,-15,,11:07 PM
+239,42,1,273,0020700853,,,10:18,3,5,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,68 - 51,-17,Anthony  Driving Layup (14 PTS) (Carter 9 AST),11:07 PM
+240,1,2,274,0020700853,MISS Durant 11' Jump Shot,,9:58,3,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:07 PM
+241,0,4,275,0020700853,Petro REBOUND (Off:2 Def:4),,9:57,3,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:07 PM
+242,1,2,276,0020700853,MISS Durant 6' Jump Shot,,9:52,3,4,0,5,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,,,Camby BLOCK (5 BLK),11:07 PM
+243,0,4,277,0020700853,SUPERSONICS Rebound,,9:52,3,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:07 PM
+244,1,2,278,0020700853,MISS Petro 13' Jump Shot,,9:49,3,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:08 PM
+245,0,4,279,0020700853,,,9:48,3,5,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:0 Def:4),11:08 PM
+246,1,2,280,0020700853,,,9:38,3,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Iverson 24' 3PT Jump Shot,11:08 PM
+247,0,4,281,0020700853,Gelabale REBOUND (Off:1 Def:1),,9:37,3,4,0,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:08 PM
+248,2,6,282,0020700853,,,9:36,3,5,4,1,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Camby S.FOUL (P2.T1),11:08 PM
+249,11,3,283,0020700853,Durant Free Throw 1 of 2 (11 PTS),,9:36,3,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,68 - 52,-16,,11:08 PM
+250,12,3,284,0020700853,Durant Free Throw 2 of 2 (12 PTS),,9:36,3,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,68 - 53,-15,,11:08 PM
+251,1,1,285,0020700853,,,9:21,3,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,70 - 53,-17,Anthony 20' Jump Shot (16 PTS),11:09 PM
+252,1,1,286,0020700853,Petro 16' Jump Shot (9 PTS),,9:09,3,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,70 - 55,-15,,11:09 PM
+253,1,2,287,0020700853,,,9:02,3,5,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Martin 6' Jump Shot,11:09 PM
+254,0,4,288,0020700853,Wilcox REBOUND (Off:1 Def:3),,9:01,3,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:09 PM
+255,1,2,289,0020700853,MISS Gelabale 4' Jump Shot,,8:55,3,4,0,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:09 PM
+256,0,4,290,0020700853,Durant REBOUND (Off:2 Def:2),,8:52,3,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:10 PM
+257,5,2,291,0020700853,MISS Durant  Layup,,8:51,3,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:10 PM
+258,0,4,292,0020700853,,,8:50,3,5,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:0 Def:5),11:10 PM
+259,41,1,293,0020700853,,,8:48,3,5,5,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,72 - 55,-17,Iverson  Running Layup (15 PTS) (Martin 2 AST),11:10 PM
+260,1,5,294,0020700853,Durant Bad Pass Turnover (P3.T11),,8:36,3,4,5,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Carter STEAL (3 STL),11:10 PM
+261,2,6,295,0020700853,Durant S.FOUL (P2.T1),,8:33,3,4,5,1,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:10 PM
+262,11,3,296,0020700853,,,8:33,3,5,0,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,73 - 55,-18,Carter Free Throw 1 of 2 (7 PTS),11:10 PM
+263,12,3,297,0020700853,,,8:33,3,5,0,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,74 - 55,-19,Carter Free Throw 2 of 2 (8 PTS),11:10 PM
+264,1,2,299,0020700853,MISS Gelabale 21' Jump Shot,,8:10,3,4,0,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:11 PM
+265,0,4,300,0020700853,Durant REBOUND (Off:3 Def:2),,8:09,3,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:11 PM
+266,2,6,301,0020700853,,,8:09,3,5,4,1,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Camby S.FOUL (P3.T2),11:11 PM
+267,11,3,302,0020700853,Durant Free Throw 1 of 2 (13 PTS),,8:09,3,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,74 - 56,-18,,11:11 PM
+268,12,3,303,0020700853,Durant Free Throw 2 of 2 (14 PTS),,8:09,3,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,74 - 57,-17,,11:11 PM
+269,52,1,305,0020700853,,,7:57,3,5,5,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,76 - 57,-19,Martin  Alley Oop Dunk (12 PTS) (Camby 4 AST),11:12 PM
+270,2,6,306,0020700853,,,7:42,3,5,4,1,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Martin S.FOUL (P3.T3),11:12 PM
+271,11,3,307,0020700853,Green Free Throw 1 of 2 (10 PTS),,7:42,3,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,76 - 58,-18,,11:12 PM
+272,12,3,308,0020700853,Green Free Throw 2 of 2 (11 PTS),,7:42,3,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,76 - 59,-17,,11:13 PM
+273,4,6,309,0020700853,,,7:36,3,5,4,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Anthony OFF.Foul (P3),11:13 PM
+274,5,5,310,0020700853,,,7:36,3,5,0,1,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony Foul Turnover (P6.T14),11:13 PM
+275,1,1,311,0020700853,Gelabale 13' Jump Shot (7 PTS),,7:25,3,4,0,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,76 - 61,-15,,11:13 PM
+276,41,1,312,0020700853,,,7:11,3,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,78 - 61,-17,Iverson  Running Layup (17 PTS),11:14 PM
+277,1,2,313,0020700853,MISS Green 18' Jump Shot,,6:53,3,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:14 PM
+278,0,4,314,0020700853,,,6:52,3,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Iverson REBOUND (Off:0 Def:5),11:14 PM
+279,5,7,315,0020700853,Durant Violation:Kicked Ball,,6:51,3,4,0,1,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:14 PM
+280,44,2,316,0020700853,,,6:45,3,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Anthony  Reverse Layup,11:14 PM
+281,0,4,317,0020700853,Durant REBOUND (Off:3 Def:3),,6:42,3,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:14 PM
+282,8,1,318,0020700853,Gelabale  Slam Dunk (9 PTS) (Wilcox 1 AST),,6:39,3,4,4,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,78 - 63,-15,,11:14 PM
+283,1,5,319,0020700853,,,6:21,3,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Iverson Bad Pass Turnover (P4.T15),11:15 PM
+284,1,2,320,0020700853,MISS Petro 16' Jump Shot,,6:11,3,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:15 PM
+285,0,4,321,0020700853,,,6:10,3,5,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:0 Def:6),11:15 PM
+286,5,1,322,0020700853,,,6:02,3,5,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,80 - 63,-17,Martin  Layup (14 PTS),11:15 PM
+287,1,9,323,0020700853,SUPERSONICS Timeout: Regular (Full 3 Short 1),,5:53,3,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:15 PM
+288,0,8,325,0020700853,SUB: Collison FOR Wilcox,,5:53,3,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:18 PM
+289,0,8,326,0020700853,SUB: Wilkins FOR Green,,5:53,3,4,4,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:18 PM
+290,1,1,327,0020700853,Gelabale 8' Jump Shot (11 PTS),,5:47,3,4,0,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,80 - 65,-15,,11:18 PM
+291,1,6,328,0020700853,Wilkins P.FOUL (P1.T2),,5:38,3,4,5,1,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:18 PM
+292,1,1,329,0020700853,,,5:24,3,5,5,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,82 - 65,-17,Martin 16' Jump Shot (16 PTS) (Iverson 2 AST),11:19 PM
+293,5,7,330,0020700853,,,5:11,3,5,0,1,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby Violation:Kicked Ball,11:19 PM
+294,8,1,331,0020700853,Petro  Slam Dunk (11 PTS) (Durant 2 AST),,5:01,3,4,4,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,82 - 67,-15,,11:19 PM
+295,2,6,332,0020700853,Petro S.FOUL (P1.T3),,4:35,3,4,5,1,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:20 PM
+296,13,3,333,0020700853,,,4:35,3,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Iverson Free Throw 1 of 3,11:20 PM
+297,1,4,334,0020700853,,,4:35,3,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,11:20 PM
+298,14,3,335,0020700853,,,4:35,3,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,83 - 67,-16,Iverson Free Throw 2 of 3 (18 PTS),11:20 PM
+299,15,3,336,0020700853,,,4:35,3,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,84 - 67,-17,Iverson Free Throw 3 of 3 (19 PTS),11:20 PM
+300,1,2,337,0020700853,MISS Wilkins 17' Jump Shot,,4:23,3,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:21 PM
+301,0,4,338,0020700853,,,4:21,3,5,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Martin REBOUND (Off:0 Def:7),11:21 PM
+302,1,1,339,0020700853,,,4:14,3,5,5,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,86 - 67,-19,Camby 3' Jump Shot (10 PTS) (Iverson 3 AST),11:21 PM
+303,5,2,340,0020700853,MISS Gelabale  Layup,,4:07,3,4,0,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:21 PM
+304,0,4,342,0020700853,Wilkins REBOUND (Off:1 Def:0),,4:03,3,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:21 PM
+305,4,2,341,0020700853,MISS Durant  Tip Shot,,4:03,3,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:21 PM
+306,0,4,343,0020700853,,,4:02,3,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:3 Def:8),11:21 PM
+307,1,1,344,0020700853,,,3:57,3,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,88 - 67,-21,Iverson 20' Jump Shot (21 PTS),11:21 PM
+308,0,8,345,0020700853,,,3:40,3,5,5,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Kleiza FOR Carter,11:21 PM
+309,5,1,346,0020700853,Durant  Layup (16 PTS) (Wilkins 1 AST),,3:37,3,4,4,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,88 - 69,-19,,11:22 PM
+310,1,6,347,0020700853,Wilkins P.FOUL (P2.T4),,3:25,3,4,5,1,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:22 PM
+311,1,1,348,0020700853,,,3:16,3,5,5,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,91 - 69,-22,Iverson 25' 3PT Jump Shot (24 PTS) (Kleiza 2 AST),11:22 PM
+312,1,1,349,0020700853,Petro 11' Jump Shot (13 PTS),,2:57,3,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,91 - 71,-20,,11:23 PM
+313,8,1,350,0020700853,,,2:46,3,5,5,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,93 - 71,-22,Martin  Slam Dunk (18 PTS) (Iverson 4 AST),11:23 PM
+314,1,6,351,0020700853,,,2:31,3,5,4,1,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Iverson P.FOUL (P2.T4),11:23 PM
+315,1,9,353,0020700853,,,2:31,3,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.3 Short 0),11:23 PM
+316,0,8,356,0020700853,SUB: Green FOR Durant,,2:31,3,4,4,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:26 PM
+317,0,8,357,0020700853,SUB: Wilcox FOR Petro,,2:31,3,4,4,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:26 PM
+318,1,2,358,0020700853,MISS Green 17' Jump Shot,,2:16,3,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:26 PM
+319,0,4,359,0020700853,Collison REBOUND (Off:1 Def:2),,2:15,3,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:26 PM
+320,5,1,360,0020700853,Collison 3' Layup (7 PTS),,2:13,3,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,93 - 73,-20,,11:26 PM
+321,1,2,361,0020700853,,,1:47,3,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Iverson 25' 3PT Jump Shot,11:26 PM
+322,0,4,362,0020700853,Wilkins REBOUND (Off:1 Def:1),,1:46,3,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:26 PM
+323,3,2,363,0020700853,MISS Wilcox 4' Hook Shot,,1:29,3,4,0,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:27 PM
+324,0,4,364,0020700853,,,1:25,3,5,0,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:0 Def:6),11:27 PM
+325,2,6,365,0020700853,Gelabale S.FOUL (P1.PN),,1:24,3,4,5,1,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:27 PM
+326,0,8,366,0020700853,,,1:24,3,5,5,0,2546,Carmelo Anthony,DEN,Denver,1610612743.0,Nuggets,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Smith FOR Anthony,11:27 PM
+327,11,3,367,0020700853,,,1:24,3,5,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,94 - 73,-21,Martin Free Throw 1 of 2 (19 PTS),11:27 PM
+328,12,3,368,0020700853,,,1:24,3,5,0,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Martin Free Throw 2 of 2,11:28 PM
+329,0,4,369,0020700853,Collison REBOUND (Off:1 Def:3),,1:23,3,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:28 PM
+330,2,5,370,0020700853,Collison Lost Ball Turnover (P2.T12),,1:14,3,4,5,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Kleiza STEAL (2 STL),11:28 PM
+331,8,1,371,0020700853,,,1:09,3,5,0,0,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,96 - 73,-23,Smith  Slam Dunk (7 PTS),11:28 PM
+332,1,1,372,0020700853,Wilkins 14' Jump Shot (6 PTS),,0:55,3,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,96 - 75,-21,,11:29 PM
+333,8,1,374,0020700853,,,0:44,3,5,5,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,98 - 75,-23,Martin  Slam Dunk (21 PTS) (Kleiza 3 AST),11:29 PM
+334,1,5,375,0020700853,Wilcox Bad Pass Turnover (P5.T13),,0:33,3,4,5,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Camby STEAL (1 STL),11:29 PM
+335,41,1,376,0020700853,,,0:29,3,5,5,0,2030,Kenyon Martin,DEN,Denver,1610612743.0,Nuggets,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,100 - 75,-25,Martin  Running Layup (23 PTS) (Iverson 5 AST),11:29 PM
+336,1,2,378,0020700853,MISS Wilkins 13' Jump Shot,,0:06,3,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:29 PM
+337,0,4,379,0020700853,Collison REBOUND (Off:2 Def:3),,0:05,3,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:30 PM
+338,1,2,380,0020700853,MISS Collison 17' Jump Shot,,0:04,3,4,0,0,2555,Nick Collison,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:30 PM
+339,0,4,382,0020700853,Wilkins REBOUND (Off:2 Def:1),,0:04,3,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:30 PM
+340,4,2,381,0020700853,MISS Wilkins  Tip Shot,,0:00,3,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:30 PM
+341,0,4,383,0020700853,SUPERSONICS Rebound,,0:00,3,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:30 PM
+342,0,13,384,0020700853,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,100 - 75,-25,,11:30 PM
+343,0,12,386,0020700853,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,100 - 75,-25,,11:32 PM
+344,1,1,387,0020700853,,,11:43,4,5,5,0,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,103 - 75,-28,Smith 25' 3PT Jump Shot (10 PTS) (Carter 10 AST),11:33 PM
+345,1,2,388,0020700853,MISS Green 14' Jump Shot,,11:26,4,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:33 PM
+346,0,4,389,0020700853,Petro REBOUND (Off:3 Def:4),,11:25,4,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:33 PM
+347,2,6,390,0020700853,,,11:21,4,5,4,1,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Camby S.FOUL (P4.T1),11:33 PM
+348,11,3,391,0020700853,Green Free Throw 1 of 2 (12 PTS),,11:21,4,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,103 - 76,-27,,11:33 PM
+349,12,3,392,0020700853,Green Free Throw 2 of 2 (13 PTS),,11:21,4,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,103 - 77,-26,,11:34 PM
+350,1,2,393,0020700853,,,11:09,4,5,0,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Kleiza 21' Jump Shot,11:34 PM
+351,0,4,394,0020700853,,,11:08,4,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:4 Def:8),11:34 PM
+352,41,1,395,0020700853,,,11:01,4,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,105 - 77,-28,Iverson  Running Layup (26 PTS),11:34 PM
+353,1,5,396,0020700853,Wilcox Bad Pass Turnover (P6.T14),,10:41,4,4,5,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Camby STEAL (2 STL),11:35 PM
+354,1,5,397,0020700853,Wilcox STEAL (1 STL),,10:33,4,5,4,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Iverson Bad Pass Turnover (P5.T16),11:35 PM
+355,1,2,398,0020700853,MISS Green 26' 3PT Jump Shot,,10:26,4,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:35 PM
+356,0,4,399,0020700853,,,10:24,4,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:4 Def:9),11:35 PM
+357,1,1,400,0020700853,,,10:18,4,5,5,0,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,108 - 77,-31,Smith 25' 3PT Jump Shot (13 PTS) (Iverson 6 AST),11:35 PM
+358,44,1,401,0020700853,Wilkins  Reverse Layup (8 PTS),,9:53,4,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,108 - 79,-29,,11:35 PM
+359,1,1,402,0020700853,,,9:32,4,5,5,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,111 - 79,-32,Iverson 25' 3PT Jump Shot (29 PTS) (Smith 1 AST),11:36 PM
+360,1,2,403,0020700853,MISS Durant 21' Jump Shot,,9:17,4,4,0,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:36 PM
+361,0,4,404,0020700853,,,9:16,4,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Camby REBOUND (Off:4 Def:10),11:36 PM
+362,1,1,405,0020700853,,,9:04,4,5,0,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,113 - 79,-34,Iverson 18' Jump Shot (31 PTS),11:36 PM
+363,1,9,407,0020700853,SUPERSONICS Timeout: Regular (Full 4 Short 1),,8:56,4,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:36 PM
+364,0,8,409,0020700853,,,8:56,4,5,5,0,947,Allen Iverson,DEN,Denver,1610612743.0,Nuggets,200821,Yakhouba Diawara,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Diawara FOR Iverson,11:39 PM
+365,0,8,410,0020700853,SUB: Gelabale FOR Durant,,8:56,4,4,4,0,201142,Kevin Durant,SEA,Seattle,1610612760.0,SuperSonics,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:39 PM
+366,0,8,411,0020700853,SUB: Marshall FOR Wilcox,,8:56,4,4,4,0,2404,Chris Wilcox,SEA,Seattle,1610612760.0,SuperSonics,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:39 PM
+367,1,2,412,0020700853,MISS Wilkins 17' Jump Shot,,8:48,4,4,0,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:39 PM
+368,0,4,413,0020700853,,,8:46,4,5,0,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Kleiza REBOUND (Off:2 Def:1),11:39 PM
+369,1,1,414,0020700853,,,8:29,4,5,5,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,200821,Yakhouba Diawara,DEN,Denver,1610612743.0,Nuggets,0,,,,,,115 - 79,-36,Camby 14' Jump Shot (12 PTS) (Diawara 1 AST),11:40 PM
+370,5,1,415,0020700853,Petro  Layup (15 PTS),,8:15,4,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,115 - 81,-34,,11:40 PM
+371,1,2,416,0020700853,,,7:56,4,5,0,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Camby 14' Jump Shot,11:40 PM
+372,0,4,417,0020700853,Petro REBOUND (Off:3 Def:5),,7:55,4,4,0,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:40 PM
+373,5,1,418,0020700853,Gelabale  Layup (13 PTS) (Wilkins 2 AST),,7:43,4,4,4,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,115 - 83,-32,,11:40 PM
+374,44,1,419,0020700853,,,7:25,4,5,0,0,200821,Yakhouba Diawara,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,117 - 83,-34,Diawara  Reverse Layup (2 PTS),11:41 PM
+375,66,1,420,0020700853,Green 14' Jump Bank Shot (15 PTS) (Gelabale 4 AST),,7:18,4,4,4,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,117 - 85,-32,,11:41 PM
+376,1,1,421,0020700853,,,7:08,4,5,5,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,200821,Yakhouba Diawara,DEN,Denver,1610612743.0,Nuggets,0,,,,,,120 - 85,-35,Kleiza 24' 3PT Jump Shot (15 PTS) (Diawara 2 AST),11:41 PM
+377,1,2,422,0020700853,MISS Marshall 25' 3PT Jump Shot,,6:46,4,4,0,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:41 PM
+378,0,4,423,0020700853,,,6:44,4,5,0,0,200821,Yakhouba Diawara,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Diawara REBOUND (Off:0 Def:1),11:41 PM
+379,1,2,424,0020700853,,,6:37,4,5,0,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Kleiza  3PT Jump Shot,11:41 PM
+380,0,4,425,0020700853,Marshall REBOUND (Off:0 Def:1),,6:36,4,4,0,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:41 PM
+381,1,5,426,0020700853,Gelabale Bad Pass Turnover (P2.T15),,6:22,4,4,5,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Carter STEAL (4 STL),11:42 PM
+382,2,6,427,0020700853,Petro S.FOUL (P2.T1),,6:16,4,4,5,1,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:42 PM
+383,0,8,428,0020700853,,,6:16,4,5,5,0,948,Marcus Camby,DEN,Denver,1610612743.0,Nuggets,2212,Steven Hunter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Hunter FOR Camby,11:42 PM
+384,0,8,429,0020700853,,,6:16,4,5,5,0,101132,Linas Kleiza,DEN,Denver,1610612743.0,Nuggets,201192,Taurean Green,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,SUB: Green FOR Kleiza,11:42 PM
+385,11,3,430,0020700853,,,6:16,4,5,0,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Carter Free Throw 1 of 2,11:42 PM
+386,1,4,431,0020700853,,,6:16,4,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Rebound,11:42 PM
+387,12,3,433,0020700853,,,6:16,4,5,0,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,121 - 85,-36,Carter Free Throw 2 of 2 (9 PTS),11:43 PM
+388,1,1,435,0020700853,Gelabale 24' 3PT Jump Shot (16 PTS) (Wilkins 3 AST),,6:00,4,4,4,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,121 - 88,-33,,11:43 PM
+389,1,2,436,0020700853,,,5:42,4,5,0,0,200821,Yakhouba Diawara,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Diawara 24' 3PT Jump Shot,11:43 PM
+390,0,4,437,0020700853,Gelabale REBOUND (Off:1 Def:2),,5:41,4,4,0,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:43 PM
+391,1,2,438,0020700853,MISS Green  3PT Jump Shot,,5:31,4,4,0,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:43 PM
+392,0,4,439,0020700853,,,5:31,4,5,0,0,2212,Steven Hunter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hunter REBOUND (Off:0 Def:1),11:43 PM
+393,1,6,440,0020700853,Petro P.FOUL (P3.T2),,5:31,4,4,5,1,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,2212,Steven Hunter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:43 PM
+394,4,9,442,0020700853,,,5:31,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:44 PM
+395,0,8,444,0020700853,SUB: Newble FOR Green,,5:31,4,4,4,0,201145,Jeff Green,SEA,Seattle,1610612760.0,SuperSonics,1956,Ira Newble,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:46 PM
+396,0,8,445,0020700853,SUB: Elson FOR Petro,,5:31,4,4,4,0,101130,Johan Petro,SEA,Seattle,1610612760.0,SuperSonics,1922,Francisco Elson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:46 PM
+397,0,8,446,0020700853,SUB: Griffin FOR Wilkins,,5:31,4,4,4,0,2863,Damien Wilkins,SEA,Seattle,1610612760.0,SuperSonics,1559,Adrian Griffin,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,11:46 PM
+398,1,1,447,0020700853,,,5:20,4,5,5,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,201192,Taurean Green,DEN,Denver,1610612743.0,Nuggets,0,,,,,,124 - 88,-36,Carter  3PT Jump Shot (12 PTS) (Green 1 AST),11:46 PM
+399,47,2,448,0020700853,MISS Griffin 11' Turnaround Jump Shot,,4:55,4,4,0,0,1559,Adrian Griffin,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:47 PM
+400,0,4,449,0020700853,,,4:53,4,5,0,0,200821,Yakhouba Diawara,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Diawara REBOUND (Off:0 Def:2),11:47 PM
+401,1,2,450,0020700853,,,4:41,4,5,0,0,201192,Taurean Green,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Green 16' Jump Shot,11:47 PM
+402,0,4,451,0020700853,Marshall REBOUND (Off:0 Def:2),,4:40,4,4,0,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:47 PM
+403,2,5,452,0020700853,Marshall Lost Ball Turnover (P1.T16),,4:25,4,4,5,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Smith STEAL (1 STL),11:47 PM
+404,1,5,453,0020700853,Griffin STEAL (1 STL),,4:20,4,5,4,0,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,1559,Adrian Griffin,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Smith Bad Pass Turnover (P2.T17),11:47 PM
+405,1,2,454,0020700853,MISS Newble 15' Jump Shot,,4:14,4,4,0,0,1956,Ira Newble,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:47 PM
+406,0,4,455,0020700853,Marshall REBOUND (Off:1 Def:2),,4:11,4,4,0,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:47 PM
+407,5,1,456,0020700853,Marshall  Layup (2 PTS),,4:10,4,4,0,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,124 - 90,-34,,11:47 PM
+408,41,1,457,0020700853,,,4:05,4,5,0,0,200821,Yakhouba Diawara,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,126 - 90,-36,Diawara  Running Layup (4 PTS),11:47 PM
+409,3,2,458,0020700853,MISS Elson 4' Hook Shot,,3:44,4,4,0,0,1922,Francisco Elson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:48 PM
+410,0,4,459,0020700853,Marshall REBOUND (Off:2 Def:2),,3:41,4,4,0,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:48 PM
+411,3,2,460,0020700853,MISS Newble 4' Hook Shot,,3:31,4,4,0,5,1956,Ira Newble,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,2212,Steven Hunter,DEN,Denver,1610612743.0,Nuggets,,,Hunter BLOCK (1 BLK),11:48 PM
+412,0,4,461,0020700853,,,3:27,4,5,0,0,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Carter REBOUND (Off:0 Def:4),11:48 PM
+413,2,6,462,0020700853,Griffin S.FOUL (P1.T3),,3:27,4,4,5,1,1559,Adrian Griffin,SEA,Seattle,1610612760.0,SuperSonics,201192,Taurean Green,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:48 PM
+414,11,3,463,0020700853,,,3:27,4,5,0,0,201192,Taurean Green,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,127 - 90,-37,Green Free Throw 1 of 2 (1 PTS),11:48 PM
+415,12,3,464,0020700853,,,3:27,4,5,0,0,201192,Taurean Green,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,128 - 90,-38,Green Free Throw 2 of 2 (2 PTS),11:49 PM
+416,1,2,465,0020700853,MISS Newble 24' 3PT Jump Shot,,3:17,4,4,0,0,1956,Ira Newble,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:49 PM
+417,0,4,466,0020700853,,,3:15,4,5,0,0,201192,Taurean Green,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Green REBOUND (Off:0 Def:1),11:49 PM
+418,8,1,467,0020700853,,,3:12,4,5,0,0,2212,Steven Hunter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,130 - 90,-40,Hunter  Slam Dunk (2 PTS),11:49 PM
+419,1,2,468,0020700853,MISS Marshall  3PT Jump Shot,,2:49,4,4,0,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:50 PM
+420,0,4,469,0020700853,,,2:48,4,5,0,0,2212,Steven Hunter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hunter REBOUND (Off:0 Def:2),11:50 PM
+421,42,1,470,0020700853,,,2:42,4,5,5,0,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,132 - 90,-42,Smith  Driving Layup (15 PTS) (Carter 11 AST),11:50 PM
+422,2,9,472,0020700853,SUPERSONICS Timeout: Short (Full 4 Short 2),,2:32,4,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,11:50 PM
+423,1,9,477,0020700853,,,2:32,4,3,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,Nuggets Timeout: Regular (Reg.4 Short 0),11:53 PM
+424,1,2,480,0020700853,MISS Elson 15' Jump Shot,,2:23,4,4,0,0,1922,Francisco Elson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:55 PM
+425,0,4,481,0020700853,,,2:22,4,5,0,0,201192,Taurean Green,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Green REBOUND (Off:0 Def:2),11:55 PM
+426,5,2,482,0020700853,,,2:10,4,5,0,0,2212,Steven Hunter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Hunter  Layup,11:55 PM
+427,0,4,483,0020700853,Griffin REBOUND (Off:0 Def:1),,2:07,4,4,0,0,1559,Adrian Griffin,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:55 PM
+428,5,2,484,0020700853,MISS Marshall  Layup,,1:58,4,4,0,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:56 PM
+429,0,4,485,0020700853,Elson REBOUND (Off:1 Def:0),,1:57,4,4,0,0,1922,Francisco Elson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:56 PM
+430,4,2,486,0020700853,MISS Elson  Tip Shot,,1:40,4,4,0,0,1922,Francisco Elson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:56 PM
+431,0,4,487,0020700853,,,1:36,4,5,0,0,2212,Steven Hunter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Hunter REBOUND (Off:0 Def:3),11:56 PM
+432,1,2,488,0020700853,,,1:33,4,5,0,0,2747,JR Smith,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Smith 26' 3PT Jump Shot,11:56 PM
+433,0,4,489,0020700853,Elson REBOUND (Off:1 Def:1),,1:31,4,4,0,0,1922,Francisco Elson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:56 PM
+434,1,2,490,0020700853,MISS Gelabale 4' Jump Shot,,1:21,4,4,0,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:56 PM
+435,0,4,491,0020700853,Elson REBOUND (Off:2 Def:1),,1:20,4,4,0,0,1922,Francisco Elson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:56 PM
+436,1,1,492,0020700853,Elson 17' Jump Shot (2 PTS),,1:06,4,4,0,0,1922,Francisco Elson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,132 - 92,-40,,11:57 PM
+437,41,1,493,0020700853,,,1:03,4,5,5,0,2212,Steven Hunter,DEN,Denver,1610612743.0,Nuggets,200821,Yakhouba Diawara,DEN,Denver,1610612743.0,Nuggets,0,,,,,,134 - 92,-42,Hunter  Running Layup (4 PTS) (Diawara 3 AST),11:57 PM
+438,2,6,494,0020700853,Elson S.FOUL (P1.T4),,1:03,4,4,5,1,1922,Francisco Elson,SEA,Seattle,1610612760.0,SuperSonics,2212,Steven Hunter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:57 PM
+439,10,3,495,0020700853,,,1:03,4,5,0,0,2212,Steven Hunter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,MISS Hunter Free Throw 1 of 1,11:57 PM
+440,0,4,496,0020700853,Marshall REBOUND (Off:2 Def:3),,1:01,4,4,0,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:57 PM
+441,1,6,497,0020700853,,,0:56,4,5,4,1,201192,Taurean Green,DEN,Denver,1610612743.0,Nuggets,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Green P.FOUL (P1.T2),11:57 PM
+442,1,2,498,0020700853,MISS Elson 16' Jump Shot,,0:50,4,4,0,0,1922,Francisco Elson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:58 PM
+443,0,4,499,0020700853,Marshall REBOUND (Off:3 Def:3),,0:50,4,4,0,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:58 PM
+444,5,2,500,0020700853,MISS Marshall  Layup,,0:47,4,4,0,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:58 PM
+445,0,4,501,0020700853,Marshall REBOUND (Off:4 Def:3),,0:46,4,4,0,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:58 PM
+446,1,6,502,0020700853,,,0:46,4,5,4,1,200821,Yakhouba Diawara,DEN,Denver,1610612743.0,Nuggets,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Diawara P.FOUL (P1.PN),11:58 PM
+447,11,3,503,0020700853,Marshall Free Throw 1 of 2 (3 PTS),,0:46,4,4,0,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,134 - 93,-41,,11:58 PM
+448,12,3,504,0020700853,Marshall Free Throw 2 of 2 (4 PTS),,0:46,4,4,0,0,923,Donyell Marshall,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,134 - 94,-40,,11:58 PM
+449,5,1,506,0020700853,,,0:40,4,5,0,0,201192,Taurean Green,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,136 - 94,-42,Green  Layup (4 PTS),11:59 PM
+450,5,1,507,0020700853,Newble  Layup (2 PTS) (Elson 1 AST),,0:28,4,4,4,0,1956,Ira Newble,SEA,Seattle,1610612760.0,SuperSonics,1922,Francisco Elson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,136 - 96,-40,,11:59 PM
+451,8,1,508,0020700853,,,0:26,4,5,5,0,200821,Yakhouba Diawara,DEN,Denver,1610612743.0,Nuggets,1853,Anthony Carter,DEN,Denver,1610612743.0,Nuggets,0,,,,,,138 - 96,-42,Diawara  Slam Dunk (6 PTS) (Carter 12 AST),11:59 PM
+452,1,2,509,0020700853,MISS Gelabale 22' Jump Shot,,0:03,4,4,0,0,101153,Mickael Gelabale,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,11:59 PM
+453,0,4,510,0020700853,,,0:02,4,5,0,0,201192,Taurean Green,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,Green REBOUND (Off:0 Def:3),11:59 PM
+454,0,13,511,0020700853,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,138 - 96,-42,,12:00 PM

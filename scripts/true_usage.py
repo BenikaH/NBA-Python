@@ -1,5 +1,6 @@
-import data_getters as d
 import pandas as p
+
+from scripts import data_getters as d
 
 years = ['2013-14', '2014-15', '2015-16', '2016-17']
 

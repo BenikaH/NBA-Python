@@ -1,0 +1,420 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0029900896,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:18 AM
+1,0,10,1,0029900896,Jump Ball Ewing vs. Robinson: Tip to Daniels,,12:00,1,4,5,5,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,,,,10:18 AM
+2,6,1,2,0029900896,,,11:54,1,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,2 - 0,-2,Daniels  Driving Layup (2 PTS),10:18 AM
+3,1,6,3,0029900896,,,11:41,1,5,0,1,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Johnson P.FOUL (P1.T1),10:19 AM
+4,1,2,4,0029900896,MISS Ewing 15' Jump Shot,,11:36,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:19 AM
+5,0,4,5,0029900896,Houston REBOUND (Off:1 Def:0),,11:35,1,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:19 AM
+6,1,1,6,0029900896,Houston 16' Jump Shot (2 PTS),,11:33,1,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,2 - 2,TIE,,10:19 AM
+7,1,2,7,0029900896,,,11:12,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 10' Jump Shot,10:19 AM
+8,0,4,8,0029900896,,,11:10,1,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:1 Def:0),10:19 AM
+9,1,2,9,0029900896,,,10:48,1,5,0,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Johnson 12' Jump Shot,10:20 AM
+10,0,4,10,0029900896,Sprewell REBOUND (Off:0 Def:1),,10:47,1,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:20 AM
+11,1,1,11,0029900896,Sprewell 16' Jump Shot (2 PTS),,10:36,1,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,2 - 4,2,,10:20 AM
+12,1,1,12,0029900896,,,10:17,1,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,4 - 4,TIE,Robinson 14' Jump Shot (2 PTS),10:20 AM
+13,6,1,13,0029900896,Houston  Driving Layup (4 PTS),,10:01,1,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,4 - 6,2,,10:20 AM
+14,2,6,14,0029900896,,,10:01,1,5,0,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan S.FOUL (P1.T2),10:20 AM
+15,10,3,15,0029900896,MISS Houston Free Throw 1 of 1,,10:01,1,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:21 AM
+16,0,4,16,0029900896,Ewing REBOUND (Off:1 Def:0),,9:59,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:21 AM
+17,4,2,17,0029900896,MISS Ewing  Tip Shot,,9:57,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:21 AM
+18,0,4,19,0029900896,Ewing REBOUND (Off:2 Def:0),,9:55,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:21 AM
+19,4,1,18,0029900896,Ewing  Tip Shot (2 PTS),,9:55,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,4 - 8,4,,10:21 AM
+20,1,1,20,0029900896,,,9:43,1,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,6 - 8,2,Robinson 18' Jump Shot (4 PTS),10:21 AM
+21,6,1,21,0029900896,Sprewell  Driving Layup (4 PTS),,9:26,1,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,6 - 10,4,,10:21 AM
+22,1,6,22,0029900896,Johnson P.FOUL (P1.T1),,9:16,1,4,0,1,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:22 AM
+23,6,2,23,0029900896,,,9:08,1,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Robinson  Driving Layup,10:22 AM
+24,0,4,24,0029900896,,,9:05,1,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:2 Def:0),10:22 AM
+25,5,1,25,0029900896,,,9:04,1,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,8 - 10,2,Robinson  Layup (6 PTS),10:22 AM
+26,1,2,26,0029900896,MISS Houston 9' Jump Shot,,8:42,1,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:22 AM
+27,0,4,27,0029900896,,,8:41,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:0 Def:1),10:22 AM
+28,1,2,28,0029900896,,,8:32,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 4' Jump Shot,10:23 AM
+29,0,4,29,0029900896,Ward REBOUND (Off:0 Def:1),,8:30,1,4,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:23 AM
+30,5,1,30,0029900896,Johnson  Layup (2 PTS) (Ward 1 AST),,8:24,1,4,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,8 - 12,4,,10:23 AM
+31,1,6,31,0029900896,Ewing P.FOUL (P1.T2),,8:04,1,4,0,1,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:23 AM
+32,1,2,32,0029900896,,,7:54,1,5,0,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Elie 10' Jump Shot,10:23 AM
+33,0,4,33,0029900896,Johnson REBOUND (Off:0 Def:1),,7:52,1,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:23 AM
+34,1,2,34,0029900896,MISS Ewing 7' Jump Shot,,7:38,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:24 AM
+35,0,4,35,0029900896,,,7:36,1,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:2 Def:1),10:24 AM
+36,3,1,36,0029900896,,,7:28,1,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,10 - 12,2,Duncan 7' Hook Shot (2 PTS) (Elie 1 AST),10:24 AM
+37,1,1,37,0029900896,Sprewell 8' Jump Shot (6 PTS) (Houston 1 AST),,7:08,1,4,4,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,10 - 14,4,,10:24 AM
+38,1,1,38,0029900896,,,6:51,1,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,12 - 14,2,Robinson 17' Jump Shot (8 PTS) (Johnson 1 AST),10:24 AM
+39,7,1,39,0029900896,Houston  Dunk (6 PTS) (Ward 2 AST),,6:39,1,4,4,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,12 - 16,4,,10:25 AM
+40,1,5,40,0029900896,Johnson STEAL (1 STL),,6:22,1,5,4,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Elie Bad Pass Turnover (P1.T1),10:25 AM
+41,6,2,41,0029900896,MISS Sprewell  Driving Layup,,6:17,1,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:25 AM
+42,0,4,42,0029900896,,,6:13,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:0 Def:2),10:25 AM
+43,1,6,43,0029900896,Ward P.FOUL (P1.T3),,6:08,1,4,0,1,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:25 AM
+44,1,9,44,0029900896,KNICKS Timeout: Regular (Full 1 Short 0),,6:08,1,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,10:25 AM
+45,1,2,46,0029900896,,,5:57,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 11' Jump Shot,10:29 AM
+46,0,4,47,0029900896,Ewing REBOUND (Off:2 Def:1),,5:55,1,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:29 AM
+47,1,1,48,0029900896,Ewing 14' Jump Shot (4 PTS) (Ward 3 AST),,5:42,1,4,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,12 - 18,6,,10:29 AM
+48,1,6,49,0029900896,Ewing P.FOUL (P2.T4),,5:28,1,4,0,1,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:29 AM
+49,0,8,50,0029900896,SUB: Thomas FOR Ewing,,5:28,1,4,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,10:30 AM
+50,5,1,51,0029900896,,,5:20,1,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,14 - 18,4,Robinson  Layup (10 PTS),10:30 AM
+51,2,5,52,0029900896,Thomas Lost Ball Turnover (P1.T1),,4:58,1,4,0,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:30 AM
+52,6,1,53,0029900896,,,4:43,1,5,5,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,16 - 18,2,Johnson  Driving Layup (2 PTS) (Robinson 1 AST),10:31 AM
+53,1,1,54,0029900896,Johnson 25' 3PT Jump Shot (5 PTS) (Sprewell 1 AST),,4:24,1,4,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,16 - 21,5,,10:31 AM
+54,1,2,55,0029900896,,,4:02,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 5' Jump Shot,10:31 AM
+55,0,4,56,0029900896,Sprewell REBOUND (Off:0 Def:2),,4:00,1,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:32 AM
+56,6,1,57,0029900896,Ward  Driving Layup (2 PTS),,3:48,1,4,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,16 - 23,7,,10:32 AM
+57,1,9,59,0029900896,,,3:41,1,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.1 Short 0),10:32 AM
+58,0,8,60,0029900896,,,3:41,1,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Jackson FOR Duncan,10:35 AM
+59,0,8,61,0029900896,,,3:41,1,5,5,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Walker FOR Daniels,10:35 AM
+60,1,1,62,0029900896,,,3:28,1,5,5,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,18 - 23,5,Johnson 17' Jump Shot (4 PTS) (Jackson 1 AST),10:35 AM
+61,6,1,63,0029900896,Sprewell  Driving Layup (8 PTS),,3:10,1,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,18 - 25,7,,10:36 AM
+62,2,6,64,0029900896,,,3:10,1,5,0,1,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson S.FOUL (P1.T3),10:36 AM
+63,10,3,65,0029900896,Sprewell Free Throw 1 of 1 (9 PTS),,3:10,1,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,18 - 26,8,,10:36 AM
+64,1,2,66,0029900896,,,2:48,1,5,0,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Elie 24' 3PT Jump Shot,10:37 AM
+65,0,4,67,0029900896,Sprewell REBOUND (Off:0 Def:3),,2:46,1,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:37 AM
+66,2,2,68,0029900896,MISS Sprewell 16' Running Jump Shot,,2:41,1,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:37 AM
+67,0,4,69,0029900896,,,2:40,1,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:1),10:37 AM
+68,5,1,70,0029900896,,,2:24,1,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,20 - 26,6,Robinson  Layup (12 PTS) (Walker 1 AST),10:37 AM
+69,2,6,71,0029900896,,,2:02,1,5,0,1,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson S.FOUL (P2.T4),10:38 AM
+70,11,3,72,0029900896,Thomas Free Throw 1 of 2 (1 PTS),,2:02,1,4,0,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,20 - 27,7,,10:38 AM
+71,0,8,73,0029900896,,,2:02,1,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Duncan FOR Robinson,10:38 AM
+72,12,3,74,0029900896,Thomas Free Throw 2 of 2 (2 PTS),,2:02,1,4,0,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,20 - 28,8,,10:38 AM
+73,1,2,75,0029900896,,,1:47,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 11' Jump Shot,10:39 AM
+74,0,4,76,0029900896,Thomas REBOUND (Off:0 Def:1),,1:45,1,4,0,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:39 AM
+75,1,6,77,0029900896,,,1:38,1,5,0,1,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Jackson P.FOUL (P1.PN),10:39 AM
+76,11,3,78,0029900896,Sprewell Free Throw 1 of 2 (10 PTS),,1:38,1,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,20 - 29,9,,10:39 AM
+77,12,3,79,0029900896,Sprewell Free Throw 2 of 2 (11 PTS),,1:38,1,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,20 - 30,10,,10:39 AM
+78,2,2,80,0029900896,,,1:17,1,5,0,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Elie 6' Running Jump Shot,10:40 AM
+79,0,4,81,0029900896,Thomas REBOUND (Off:0 Def:2),,1:16,1,4,0,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:40 AM
+80,2,5,82,0029900896,Houston Lost Ball Turnover (P1.T2),,0:56,1,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:40 AM
+81,0,8,83,0029900896,,,0:56,1,5,5,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,760,Jerome Kersey,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Kersey FOR Elie,10:41 AM
+82,0,8,84,0029900896,SUB: Wallace FOR Houston,,0:56,1,4,4,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,10:41 AM
+83,1,2,85,0029900896,,,0:45,1,5,0,0,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Jackson  3PT Jump Shot,10:41 AM
+84,0,4,86,0029900896,Johnson REBOUND (Off:0 Def:2),,0:44,1,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:41 AM
+85,1,6,87,0029900896,,,0:41,1,5,0,1,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Johnson P.FOUL (P2.PN),10:41 AM
+86,11,3,88,0029900896,MISS Ward Free Throw 1 of 2,,0:41,1,4,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:41 AM
+87,1,4,89,0029900896,KNICKS Rebound,,0:41,1,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,10:41 AM
+88,0,8,90,0029900896,,,0:41,1,5,5,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Daniels FOR Johnson,10:42 AM
+89,12,3,91,0029900896,Ward Free Throw 2 of 2 (3 PTS),,0:41,1,4,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,20 - 31,11,,10:42 AM
+90,1,6,92,0029900896,Thomas P.FOUL (P1.PN),,0:28,1,4,0,1,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:42 AM
+91,11,3,93,0029900896,,,0:28,1,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,21 - 31,10,Walker Free Throw 1 of 2 (1 PTS),10:42 AM
+92,12,3,94,0029900896,,,0:28,1,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,22 - 31,9,Walker Free Throw 2 of 2 (2 PTS),10:43 AM
+93,6,1,95,0029900896,Sprewell  Driving Layup (13 PTS),,0:09,1,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,22 - 33,11,,10:43 AM
+94,2,6,96,0029900896,,,0:09,1,5,0,1,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Jackson S.FOUL (P2.PN),10:43 AM
+95,10,3,97,0029900896,Sprewell Free Throw 1 of 1 (14 PTS),,0:09,1,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,22 - 34,12,,10:43 AM
+96,1,2,98,0029900896,,,0:00,1,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 14' Jump Shot,10:44 AM
+97,0,4,99,0029900896,,,0:00,1,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,10:44 AM
+98,0,13,101,0029900896,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,22 - 34,12,,10:44 AM
+99,0,12,103,0029900896,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,22 - 34,12,,10:47 AM
+100,5,2,104,0029900896,MISS Thomas  Layup,,11:43,2,4,0,5,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,,,Duncan BLOCK (1 BLK),10:47 AM
+101,0,4,105,0029900896,,,11:42,2,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:0 Def:3),10:48 AM
+102,1,1,106,0029900896,,,11:34,2,5,5,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,24 - 34,10,Walker 5' Jump Shot (4 PTS) (Duncan 1 AST),10:48 AM
+103,1,5,107,0029900896,Johnson Bad Pass Turnover (P1.T3),,11:17,2,4,5,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Jackson STEAL (1 STL),10:48 AM
+104,1,1,108,0029900896,,,10:54,2,5,5,0,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,27 - 34,7,Jackson 28' 3PT Jump Shot (3 PTS) (Daniels 1 AST),10:48 AM
+105,1,2,109,0029900896,MISS Thomas 4' Jump Shot,,10:37,2,4,0,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:49 AM
+106,0,4,110,0029900896,,,10:36,2,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:0 Def:4),10:49 AM
+107,1,2,111,0029900896,,,10:22,2,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Daniels 25' 3PT Jump Shot,10:49 AM
+108,0,4,112,0029900896,Sprewell REBOUND (Off:0 Def:4),,10:20,2,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:49 AM
+109,1,1,113,0029900896,Wallace 15' Jump Shot (2 PTS) (Sprewell 2 AST),,10:13,2,4,4,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,27 - 36,9,,10:49 AM
+110,6,2,114,0029900896,,,9:46,2,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Walker  Driving Layup,10:49 AM
+111,0,4,116,0029900896,,,9:45,2,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Walker REBOUND (Off:1 Def:1),10:49 AM
+112,5,2,115,0029900896,,,9:45,2,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Walker  Layup,10:49 AM
+113,0,4,117,0029900896,Thomas REBOUND (Off:0 Def:3),,9:43,2,4,0,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:49 AM
+114,1,6,118,0029900896,,,9:36,2,5,0,1,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Jackson P.FOUL (P3.T1),10:50 AM
+115,4,9,119,0029900896,,,9:36,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:50 AM
+116,0,8,121,0029900896,,,9:36,2,5,5,0,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Elie FOR Jackson,10:53 AM
+117,0,8,122,0029900896,SUB: Ewing FOR Johnson,,9:36,2,4,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,10:53 AM
+118,0,8,123,0029900896,SUB: Houston FOR Sprewell,,9:36,2,4,4,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,10:53 AM
+119,1,2,124,0029900896,MISS Wallace 18' Jump Shot,,9:26,2,4,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:53 AM
+120,0,4,125,0029900896,,,9:24,2,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:0 Def:5),10:53 AM
+121,1,1,127,0029900896,,,9:05,2,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,29 - 36,7,Walker 14' Jump Shot (6 PTS),10:53 AM
+122,1,5,128,0029900896,Wallace Bad Pass Turnover (P1.T4),,8:48,2,4,5,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Walker STEAL (1 STL),10:54 AM
+123,1,1,129,0029900896,,,8:42,2,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,31 - 36,5,Duncan 14' Jump Shot (4 PTS) (Daniels 2 AST),10:54 AM
+124,1,9,130,0029900896,KNICKS Timeout: Regular (Full 2 Short 0),,8:34,2,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,10:54 AM
+125,1,2,133,0029900896,MISS Ewing 6' Jump Shot,,8:23,2,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:57 AM
+126,0,4,134,0029900896,,,8:22,2,5,0,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Elie REBOUND (Off:0 Def:1),10:57 AM
+127,1,1,135,0029900896,,,8:02,2,5,5,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,760,Jerome Kersey,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,34 - 36,2,Elie 24' 3PT Jump Shot (3 PTS) (Kersey 1 AST),10:57 AM
+128,1,1,136,0029900896,Houston 18' Jump Shot (8 PTS),,7:44,2,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,34 - 38,4,,10:57 AM
+129,9,1,137,0029900896,,,7:29,2,5,5,0,760,Jerome Kersey,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,36 - 38,2,Kersey  Driving Dunk (2 PTS) (Daniels 3 AST),10:58 AM
+130,2,5,138,0029900896,Ewing Lost Ball Turnover (P1.T5),,7:05,2,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:58 AM
+131,0,8,139,0029900896,SUB: Johnson FOR Wallace,,7:05,2,4,4,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,10:58 AM
+132,0,8,140,0029900896,SUB: Sprewell FOR Thomas,,7:05,2,4,4,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,10:58 AM
+133,1,2,141,0029900896,,,6:49,2,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Walker 12' Jump Shot,10:59 AM
+134,0,4,142,0029900896,Ewing REBOUND (Off:2 Def:2),,6:47,2,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,10:59 AM
+135,2,6,143,0029900896,,,6:34,2,5,0,1,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Walker S.FOUL (P1.T2),10:59 AM
+136,11,3,144,0029900896,Ewing Free Throw 1 of 2 (5 PTS),,6:34,2,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,36 - 39,3,,10:59 AM
+137,12,3,145,0029900896,Ewing Free Throw 2 of 2 (6 PTS),,6:34,2,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,36 - 40,4,,10:59 AM
+138,1,1,146,0029900896,,,6:10,2,5,5,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,39 - 40,1,Elie 24' 3PT Jump Shot (6 PTS) (Walker 2 AST),11:00 AM
+139,1,1,147,0029900896,Houston 16' Jump Shot (10 PTS) (Sprewell 3 AST),,5:48,2,4,4,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,39 - 42,3,,11:00 AM
+140,1,2,148,0029900896,,,5:31,2,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Daniels 25' 3PT Jump Shot,11:01 AM
+141,0,4,149,0029900896,KNICKS Rebound,,5:28,2,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,11:01 AM
+142,0,8,150,0029900896,,,5:28,2,5,5,0,760,Jerome Kersey,SAS,San Antonio,1610612759.0,Spurs,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Johnson FOR Kersey,11:01 AM
+143,0,8,151,0029900896,,,5:28,2,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Robinson FOR Duncan,11:01 AM
+144,1,2,152,0029900896,MISS Houston 25' 3PT Jump Shot,,5:13,2,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:01 AM
+145,0,4,153,0029900896,,,5:12,2,5,0,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:0 Def:1),11:01 AM
+146,1,5,154,0029900896,,,5:02,2,5,0,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Elie Bad Pass Turnover (P2.T2),11:01 AM
+147,0,8,155,0029900896,,,5:02,2,5,5,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Duncan FOR Walker,11:02 AM
+148,1,2,156,0029900896,MISS Sprewell 13' Jump Shot,,4:51,2,4,0,5,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,,,Robinson BLOCK (1 BLK),11:02 AM
+149,0,4,157,0029900896,,,4:49,2,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:2 Def:2),11:02 AM
+150,1,1,158,0029900896,,,4:41,2,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,41 - 42,1,Robinson 9' Jump Shot (14 PTS),11:02 AM
+151,1,6,159,0029900896,,,4:27,2,5,0,1,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Elie P.FOUL (P1.T3),11:02 AM
+152,1,2,161,0029900896,MISS Childs  3PT Jump Shot,,4:14,2,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:03 AM
+153,0,4,162,0029900896,Ewing REBOUND (Off:3 Def:2),,4:11,2,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:03 AM
+154,5,2,164,0029900896,MISS Sprewell  Layup,,4:10,2,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:03 AM
+155,0,4,165,0029900896,Sprewell REBOUND (Off:1 Def:4),,4:08,2,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:03 AM
+156,2,6,166,0029900896,,,4:08,2,5,0,1,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson S.FOUL (P3.T4),11:03 AM
+157,11,6,167,0029900896,,,4:08,2,7,0,1,873,,,,,,0,,,,,,0,,,,,,,,,11:04 AM
+158,16,3,168,0029900896,Houston Free Throw Technical (11 PTS),,4:08,2,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,41 - 43,2,,11:04 AM
+159,0,8,169,0029900896,,,4:08,2,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Walker FOR Robinson,11:04 AM
+160,11,3,170,0029900896,Sprewell Free Throw 1 of 2 (15 PTS),,4:08,2,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,41 - 44,3,,11:04 AM
+161,12,3,171,0029900896,Sprewell Free Throw 2 of 2 (16 PTS),,4:08,2,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,41 - 45,4,,11:04 AM
+162,1,2,172,0029900896,,,3:50,2,5,0,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Johnson 18' Jump Shot,11:05 AM
+163,0,4,173,0029900896,Ewing REBOUND (Off:3 Def:3),,3:48,2,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:05 AM
+164,1,6,174,0029900896,,,3:41,2,5,0,1,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Daniels P.FOUL (P1.PN),11:05 AM
+165,11,3,175,0029900896,Houston Free Throw 1 of 2 (12 PTS),,3:41,2,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,41 - 46,5,,11:06 AM
+166,12,3,176,0029900896,Houston Free Throw 2 of 2 (13 PTS),,3:41,2,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,41 - 47,6,,11:06 AM
+167,5,1,177,0029900896,,,3:28,2,5,5,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,43 - 47,4,Johnson  Layup (6 PTS) (Duncan 2 AST),11:06 AM
+168,7,1,178,0029900896,Ewing  Dunk (8 PTS) (Sprewell 4 AST),,3:09,2,4,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,43 - 49,6,,11:06 AM
+169,3,2,179,0029900896,,,2:50,2,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 4' Hook Shot,11:07 AM
+170,0,4,180,0029900896,Sprewell REBOUND (Off:1 Def:5),,2:48,2,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:07 AM
+171,1,1,181,0029900896,Ewing 9' Jump Shot (10 PTS) (Childs 1 AST),,2:27,2,4,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,43 - 51,8,,11:07 AM
+172,1,9,182,0029900896,,,2:21,2,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.2 Short 0),11:07 AM
+173,1,1,184,0029900896,,,2:08,2,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,45 - 51,6,Duncan 16' Jump Shot (6 PTS) (Walker 3 AST),11:10 AM
+174,1,2,185,0029900896,MISS Johnson 11' Jump Shot,,1:48,2,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:11 AM
+175,0,4,186,0029900896,,,1:47,2,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:0 Def:6),11:11 AM
+176,3,2,187,0029900896,,,1:38,2,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Walker 7' Hook Shot,11:11 AM
+177,0,4,188,0029900896,Ewing REBOUND (Off:3 Def:4),,1:36,2,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:11 AM
+178,1,2,189,0029900896,MISS Houston 12' Jump Shot,,1:28,2,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:11 AM
+179,0,4,190,0029900896,,,1:27,2,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,11:11 AM
+180,1,1,191,0029900896,,,1:11,2,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,47 - 51,4,Duncan 17' Jump Shot (8 PTS),11:11 AM
+181,2,5,192,0029900896,Ewing Lost Ball Turnover (P2.T6),,0:51,2,4,5,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Elie STEAL (1 STL),11:12 AM
+182,1,6,193,0029900896,Houston P.FOUL (P1.T1),,0:44,2,4,0,1,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:12 AM
+183,0,8,194,0029900896,SUB: Thomas FOR Ewing,,0:44,2,4,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,11:12 AM
+184,2,6,195,0029900896,Johnson S.FOUL (P2.PN),,0:36,2,4,0,1,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:13 AM
+185,11,3,196,0029900896,,,0:36,2,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Walker Free Throw 1 of 2,11:13 AM
+186,1,4,197,0029900896,,,0:36,2,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,11:13 AM
+187,2,9,199,0029900896,KNICKS Timeout: Short (Full 2 Short 1),,0:36,2,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,11:13 AM
+188,0,8,200,0029900896,SUB: Wallace FOR Johnson,,0:36,2,4,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,11:14 AM
+189,12,3,201,0029900896,,,0:36,2,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Walker Free Throw 2 of 2,11:14 AM
+190,0,4,202,0029900896,Thomas REBOUND (Off:0 Def:4),,0:35,2,4,0,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:14 AM
+191,1,2,203,0029900896,MISS Houston 18' Jump Shot,,0:20,2,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:15 AM
+192,0,4,204,0029900896,,,0:19,2,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:0 Def:7),11:15 AM
+193,1,5,205,0029900896,Wallace STEAL (1 STL),,0:04,2,5,4,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Johnson Bad Pass Turnover (P1.T3),11:15 AM
+194,2,1,206,0029900896,Childs 26' 3PT Running Jump Shot (3 PTS),,0:00,2,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,47 - 54,7,,11:15 AM
+195,0,13,207,0029900896,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,47 - 54,7,,11:15 AM
+196,0,12,209,0029900896,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,47 - 54,7,,11:36 AM
+197,1,2,210,0029900896,MISS Houston 12' Jump Shot,,11:45,3,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:36 AM
+198,0,4,211,0029900896,,,11:44,3,5,0,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:0 Def:2),11:36 AM
+199,1,2,212,0029900896,,,11:36,3,5,0,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Elie 24' 3PT Jump Shot,11:36 AM
+200,0,4,213,0029900896,,,11:34,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:1 Def:7),11:36 AM
+201,5,1,214,0029900896,,,11:33,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,49 - 54,5,Duncan  Layup (10 PTS),11:36 AM
+202,1,1,215,0029900896,Johnson 24' 3PT Jump Shot (8 PTS) (Sprewell 5 AST),,11:12,3,4,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,49 - 57,8,,11:36 AM
+203,1,2,216,0029900896,,,10:53,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 7' Jump Shot,11:37 AM
+204,0,4,217,0029900896,Ewing REBOUND (Off:3 Def:5),,10:52,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:37 AM
+205,1,1,218,0029900896,Ewing 12' Jump Shot (12 PTS) (Sprewell 6 AST),,10:43,3,4,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,49 - 59,10,,11:37 AM
+206,2,9,219,0029900896,,,10:40,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Short (Reg.2 Short 1),11:37 AM
+207,2,6,220,0029900896,Houston S.FOUL (P2.T1),,10:27,3,4,0,1,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:38 AM
+208,11,3,221,0029900896,,,10:27,3,5,0,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Elie Free Throw 1 of 2,11:39 AM
+209,1,4,222,0029900896,,,10:27,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,11:39 AM
+210,12,3,223,0029900896,,,10:27,3,5,0,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,50 - 59,9,Elie Free Throw 2 of 2 (7 PTS),11:39 AM
+211,1,2,224,0029900896,MISS Ewing 7' Jump Shot,,10:12,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:39 AM
+212,0,4,225,0029900896,,,10:10,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:1 Def:8),11:39 AM
+213,1,2,226,0029900896,,,9:55,3,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Robinson 14' Jump Shot,11:39 AM
+214,0,4,227,0029900896,Ward REBOUND (Off:0 Def:2),,9:52,3,4,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:39 AM
+215,1,2,228,0029900896,MISS Sprewell 24' 3PT Jump Shot,,9:47,3,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:40 AM
+216,0,4,229,0029900896,,,9:45,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,11:40 AM
+217,1,2,230,0029900896,,,9:35,3,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Robinson 12' Jump Shot,11:40 AM
+218,0,4,231,0029900896,Sprewell REBOUND (Off:1 Def:6),,9:33,3,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:40 AM
+219,5,1,232,0029900896,Sprewell  Layup (18 PTS) (Johnson 1 AST),,9:19,3,4,4,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,50 - 61,11,,11:40 AM
+220,1,5,233,0029900896,Ewing STEAL (1 STL),,9:01,3,5,4,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Duncan Bad Pass Turnover (P1.T4),11:41 AM
+221,1,5,234,0029900896,Houston Bad Pass Turnover (P2.T7),,8:59,3,4,5,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Daniels STEAL (1 STL),11:41 AM
+222,8,1,235,0029900896,,,8:54,3,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,52 - 61,9,Robinson  Slam Dunk (16 PTS) (Duncan 3 AST),11:41 AM
+223,2,6,236,0029900896,,,8:27,3,5,0,1,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Daniels S.FOUL (P2.T1),11:41 AM
+224,11,3,237,0029900896,MISS Ewing Free Throw 1 of 2,,8:27,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:41 AM
+225,1,4,238,0029900896,KNICKS Rebound,,8:27,3,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,11:41 AM
+226,12,3,239,0029900896,Ewing Free Throw 2 of 2 (13 PTS),,8:27,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,52 - 62,10,,11:41 AM
+227,1,2,240,0029900896,,,8:09,3,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Robinson 9' Jump Shot,11:42 AM
+228,0,4,241,0029900896,Johnson REBOUND (Off:0 Def:3),,8:07,3,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:42 AM
+229,1,1,242,0029900896,Ewing 12' Jump Shot (15 PTS) (Ward 4 AST),,8:02,3,4,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,52 - 64,12,,11:42 AM
+230,1,9,243,0029900896,,,7:58,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.3 Short 1),11:42 AM
+231,3,2,245,0029900896,,,7:44,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 7' Hook Shot,11:46 AM
+232,0,4,246,0029900896,Ewing REBOUND (Off:3 Def:6),,7:42,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:46 AM
+233,1,2,247,0029900896,MISS Ewing 6' Jump Shot,,7:29,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:46 AM
+234,0,4,248,0029900896,,,7:29,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,11:46 AM
+235,3,6,249,0029900896,Johnson L.B.FOUL (P3.T2),,7:29,3,4,0,1,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:46 AM
+236,5,1,250,0029900896,,,7:14,3,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,54 - 64,10,Robinson  Layup (18 PTS) (Johnson 2 AST),11:47 AM
+237,2,6,251,0029900896,Ewing S.FOUL (P3.T3),,7:14,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:47 AM
+238,10,3,252,0029900896,,,7:14,3,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,55 - 64,9,Robinson Free Throw 1 of 1 (19 PTS),11:47 AM
+239,1,1,253,0029900896,Houston  3PT Jump Shot (16 PTS) (Ewing 1 AST),,6:49,3,4,4,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,55 - 67,12,,11:48 AM
+240,1,2,254,0029900896,,,6:25,3,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Daniels 24' 3PT Jump Shot,11:48 AM
+241,0,4,255,0029900896,Ewing REBOUND (Off:3 Def:7),,6:23,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:48 AM
+242,5,1,256,0029900896,Johnson  Layup (10 PTS) (Ward 5 AST),,6:18,3,4,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,55 - 69,14,,11:48 AM
+243,1,2,257,0029900896,,,5:57,3,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Daniels 17' Jump Shot,11:48 AM
+244,0,4,258,0029900896,Ward REBOUND (Off:0 Def:3),,5:56,3,4,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:48 AM
+245,1,1,259,0029900896,Houston 16' Jump Shot (18 PTS) (Ewing 2 AST),,5:45,3,4,4,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,55 - 71,16,,11:49 AM
+246,1,9,260,0029900896,,,5:37,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.4 Short 1),11:49 AM
+247,2,5,262,0029900896,Ward STEAL (1 STL),,5:28,3,5,4,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Johnson Lost Ball Turnover (P2.T5),11:52 AM
+248,1,5,263,0029900896,Ward Bad Pass Turnover (P1.T8),,5:25,3,4,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:52 AM
+249,2,6,264,0029900896,Johnson S.FOUL (P4.T4),,5:13,3,4,0,1,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:53 AM
+250,0,8,265,0029900896,,,5:13,3,5,5,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Jackson FOR Daniels,11:53 AM
+251,0,8,266,0029900896,SUB: Thomas FOR Johnson,,5:13,3,4,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,11:53 AM
+252,11,3,267,0029900896,,,5:13,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,56 - 71,15,Duncan Free Throw 1 of 2 (11 PTS),11:53 AM
+253,12,3,268,0029900896,,,5:13,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan Free Throw 2 of 2,11:53 AM
+254,0,4,269,0029900896,,,5:13,3,5,0,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Elie REBOUND (Off:1 Def:1),11:53 AM
+255,1,2,270,0029900896,,,4:59,3,5,0,0,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Jackson 19' Jump Shot,11:54 AM
+256,0,4,271,0029900896,,,4:56,3,5,0,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:1 Def:2),11:54 AM
+257,4,6,272,0029900896,,,4:37,3,5,4,1,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Elie OFF.Foul (P2),11:54 AM
+258,5,5,273,0029900896,,,4:37,3,5,0,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Elie Foul Turnover (P3.T6),11:54 AM
+259,2,1,274,0029900896,Ewing 8' Running Jump Shot (17 PTS) (Sprewell 7 AST),,4:20,3,4,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,56 - 73,17,,11:54 AM
+260,1,6,275,0029900896,Ward P.FOUL (P2.PN),,4:08,3,4,0,1,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:55 AM
+261,11,3,276,0029900896,,,4:08,3,5,0,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,57 - 73,16,Johnson Free Throw 1 of 2 (7 PTS),11:55 AM
+262,0,8,277,0029900896,,,4:08,3,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Walker FOR Robinson,11:55 AM
+263,12,3,278,0029900896,,,4:08,3,5,0,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,58 - 73,15,Johnson Free Throw 2 of 2 (8 PTS),11:55 AM
+264,5,1,279,0029900896,Sprewell  Layup (20 PTS) (Houston 2 AST),,3:53,3,4,4,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,58 - 75,17,,11:56 AM
+265,2,5,280,0029900896,,,3:34,3,5,0,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Johnson Lost Ball Turnover (P3.T7),11:56 AM
+266,1,2,281,0029900896,MISS Houston 14' Jump Shot,,3:23,3,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:56 AM
+267,0,4,282,0029900896,,,3:21,3,5,0,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Elie REBOUND (Off:1 Def:2),11:57 AM
+268,5,1,283,0029900896,,,3:18,3,5,5,0,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,60 - 75,15,Jackson  Layup (5 PTS) (Elie 2 AST),11:57 AM
+269,2,6,284,0029900896,Ward S.FOUL (P3.PN),,3:18,3,4,0,1,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:57 AM
+270,10,3,285,0029900896,,,3:18,3,5,0,0,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,61 - 75,14,Jackson Free Throw 1 of 1 (6 PTS),11:57 AM
+271,1,2,286,0029900896,MISS Ward 25' 3PT Jump Shot,,3:02,3,4,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:57 AM
+272,0,4,287,0029900896,,,3:00,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,11:57 AM
+273,1,2,288,0029900896,,,2:45,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 14' Jump Shot,11:58 AM
+274,0,4,289,0029900896,Ewing REBOUND (Off:3 Def:8),,2:44,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:58 AM
+275,6,2,290,0029900896,MISS Sprewell  Driving Layup,,2:38,3,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:58 AM
+276,0,4,291,0029900896,Ewing REBOUND (Off:4 Def:8),,2:36,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:58 AM
+277,5,1,292,0029900896,Ewing  Layup (19 PTS),,2:35,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,61 - 77,16,,11:58 AM
+278,4,6,293,0029900896,,,2:17,3,5,4,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Duncan OFF.Foul (P2),11:58 AM
+279,5,5,294,0029900896,,,2:17,3,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan Foul Turnover (P2.T8),11:58 AM
+280,3,2,295,0029900896,MISS Thomas 5' Hook Shot,,2:04,3,4,0,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:59 AM
+281,0,4,296,0029900896,,,2:02,3,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Walker REBOUND (Off:1 Def:2),11:59 AM
+282,6,2,297,0029900896,,,1:45,3,5,0,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Johnson  Driving Layup,11:59 AM
+283,0,4,298,0029900896,Thomas REBOUND (Off:0 Def:5),,1:44,3,4,0,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:59 AM
+284,1,5,299,0029900896,Thomas Bad Pass Turnover (P2.T9),,1:42,3,4,5,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Johnson STEAL (1 STL),11:59 AM
+285,2,6,300,0029900896,Ward S.FOUL (P4.PN),,1:40,3,4,0,1,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,11:59 AM
+286,11,3,301,0029900896,,,1:40,3,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,62 - 77,15,Walker Free Throw 1 of 2 (7 PTS),11:59 AM
+287,0,8,302,0029900896,,,1:40,3,5,5,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Daniels FOR Johnson,12:00 PM
+288,1,9,303,0029900896,KNICKS Timeout: Regular (Full 3 Short 1),,1:40,3,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:00 PM
+289,0,8,312,0029900896,,,1:40,3,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Robinson FOR Duncan,12:00 PM
+290,0,8,305,0029900896,SUB: Childs FOR Ward,,1:40,3,4,4,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:02 PM
+291,0,8,307,0029900896,,,1:40,3,5,5,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Dial FOR Elie,12:02 PM
+292,12,3,308,0029900896,,,1:40,3,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,63 - 77,14,Walker Free Throw 2 of 2 (8 PTS),12:02 PM
+293,2,1,309,0029900896,Ewing 4' Running Jump Shot (21 PTS),,1:24,3,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,63 - 79,16,,12:03 PM
+294,1,1,310,0029900896,,,1:07,3,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,65 - 79,14,Robinson 9' Jump Shot (21 PTS),12:03 PM
+295,0,10,311,0029900896,Jump Ball Ewing vs. Robinson: Tip to Walker,,0:51,3,4,5,5,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,,,,12:04 PM
+296,2,5,314,0029900896,Ewing Lost Ball Turnover (P3.T10),,0:51,3,4,5,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Robinson STEAL (1 STL),12:04 PM
+297,1,6,316,0029900896,Ewing P.FOUL (P4.PN),,0:32,3,4,0,1,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:04 PM
+298,11,3,317,0029900896,,,0:32,3,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,66 - 79,13,Walker Free Throw 1 of 2 (9 PTS),12:04 PM
+299,0,8,318,0029900896,SUB: Wallace FOR Ewing,,0:32,3,4,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:05 PM
+300,12,3,319,0029900896,,,0:32,3,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,67 - 79,12,Walker Free Throw 2 of 2 (10 PTS),12:05 PM
+301,1,6,320,0029900896,,,0:23,3,5,0,1,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Jackson P.FOUL (P4.T2),12:05 PM
+302,2,5,321,0029900896,Wallace Lost Ball Turnover (P2.T11),,0:09,3,4,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:06 PM
+303,2,2,322,0029900896,,,0:00,3,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Daniels 6' Running Jump Shot,12:06 PM
+304,0,4,324,0029900896,,,0:00,3,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,12:06 PM
+305,0,13,325,0029900896,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,67 - 79,12,,12:06 PM
+306,0,12,327,0029900896,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,67 - 79,12,,12:09 PM
+307,1,2,328,0029900896,,,11:37,4,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Walker 13' Jump Shot,12:09 PM
+308,0,4,329,0029900896,Thomas REBOUND (Off:0 Def:6),,11:35,4,4,0,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:09 PM
+309,1,1,330,0029900896,Sprewell 13' Jump Shot (22 PTS) (Johnson 2 AST),,11:20,4,4,4,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,67 - 81,14,,12:10 PM
+310,1,1,331,0029900896,,,10:56,4,5,0,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,69 - 81,12,Daniels 18' Jump Shot (4 PTS),12:10 PM
+311,1,2,332,0029900896,MISS Wallace 8' Jump Shot,,10:35,4,4,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:10 PM
+312,0,4,333,0029900896,,,10:33,4,5,0,0,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Dial REBOUND (Off:0 Def:1),12:11 PM
+313,6,1,334,0029900896,,,10:27,4,5,0,0,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,71 - 81,10,Jackson  Driving Layup (8 PTS),12:11 PM
+314,4,6,335,0029900896,Sprewell OFF.Foul (P1),,10:05,4,4,5,1,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,,12:11 PM
+315,5,5,336,0029900896,Sprewell Foul Turnover (P1.T12),,10:05,4,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:11 PM
+316,1,2,337,0029900896,,,9:52,4,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Robinson 10' Jump Shot,12:11 PM
+317,0,4,338,0029900896,Wallace REBOUND (Off:0 Def:1),,9:50,4,4,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:12 PM
+318,1,2,339,0029900896,MISS Sprewell 17' Jump Shot,,9:41,4,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:12 PM
+319,0,4,340,0029900896,,,9:39,4,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Walker REBOUND (Off:1 Def:3),12:12 PM
+320,1,2,341,0029900896,,,9:32,4,5,0,0,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Dial  3PT Jump Shot,12:12 PM
+321,0,4,342,0029900896,Childs REBOUND (Off:0 Def:1),,9:30,4,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:12 PM
+322,2,6,343,0029900896,,,9:14,4,5,0,1,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson S.FOUL (P4.T1),12:12 PM
+323,4,9,344,0029900896,,,9:14,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:12 PM
+324,0,8,346,0029900896,,,9:14,4,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Duncan FOR Robinson,12:15 PM
+325,0,8,347,0029900896,,,9:14,4,5,5,0,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,760,Jerome Kersey,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Kersey FOR Daniels,12:15 PM
+326,0,8,348,0029900896,,,9:14,4,5,5,0,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Johnson FOR Dial,12:15 PM
+327,0,8,350,0029900896,SUB: Houston FOR Sprewell,,9:14,4,4,4,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:15 PM
+328,11,3,349,0029900896,Wallace Free Throw 1 of 2 (3 PTS),,9:14,4,4,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,71 - 82,11,,12:15 PM
+329,12,3,351,0029900896,MISS Wallace Free Throw 2 of 2,,9:14,4,4,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:15 PM
+330,0,4,353,0029900896,,,9:13,4,5,0,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Walker REBOUND (Off:1 Def:4),12:15 PM
+331,3,1,354,0029900896,,,8:56,4,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,73 - 82,9,Duncan 10' Hook Shot (13 PTS) (Johnson 3 AST),12:16 PM
+332,2,9,355,0029900896,KNICKS Timeout: Short (Full 3 Short 2),,8:37,4,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:16 PM
+333,1,2,356,0029900896,MISS Houston 20' Jump Shot,,8:31,4,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:17 PM
+334,0,4,357,0029900896,,,8:30,4,5,0,0,760,Jerome Kersey,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Kersey REBOUND (Off:0 Def:1),12:17 PM
+335,1,2,358,0029900896,,,8:08,4,5,0,0,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Jackson 19' Jump Shot,12:18 PM
+336,0,4,359,0029900896,Thomas REBOUND (Off:0 Def:7),,8:06,4,4,0,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:18 PM
+337,5,1,360,0029900896,Wallace  Layup (5 PTS) (Childs 2 AST),,7:59,4,4,4,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,73 - 84,11,,12:18 PM
+338,1,2,361,0029900896,,,7:37,4,5,0,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Johnson 20' Jump Shot,12:18 PM
+339,0,4,362,0029900896,Thomas REBOUND (Off:0 Def:8),,7:36,4,4,0,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:18 PM
+340,4,5,363,0029900896,Wallace Traveling Turnover (P3.T13),,7:22,4,4,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:18 PM
+341,1,2,364,0029900896,,,7:03,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan 9' Jump Shot,12:19 PM
+342,0,4,365,0029900896,Johnson REBOUND (Off:0 Def:4),,7:02,4,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:19 PM
+343,1,1,366,0029900896,Johnson 25' 3PT Jump Shot (13 PTS) (Childs 3 AST),,6:55,4,4,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,73 - 87,14,,12:19 PM
+344,1,9,367,0029900896,,,6:53,4,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.5 Short 1),12:19 PM
+345,0,8,369,0029900896,,,6:53,4,5,5,0,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Robinson FOR Walker,12:22 PM
+346,1,2,370,0029900896,,,6:38,4,5,0,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Johnson 10' Jump Shot,12:23 PM
+347,0,4,371,0029900896,Houston REBOUND (Off:1 Def:1),,6:37,4,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:23 PM
+348,1,5,372,0029900896,Houston Bad Pass Turnover (P3.T14),,6:33,4,4,5,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,760,Jerome Kersey,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,Kersey STEAL (1 STL),12:23 PM
+349,1,1,373,0029900896,,,6:16,4,5,5,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,75 - 87,12,Johnson 13' Jump Shot (10 PTS) (Jackson 2 AST),12:23 PM
+350,2,6,374,0029900896,,,5:55,4,5,0,1,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Jackson S.FOUL (P5.T2),12:24 PM
+351,11,3,375,0029900896,Houston Free Throw 1 of 2 (19 PTS),,5:55,4,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,75 - 88,13,,12:24 PM
+352,12,3,376,0029900896,Houston Free Throw 2 of 2 (20 PTS),,5:55,4,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,75 - 89,14,,12:24 PM
+353,1,6,377,0029900896,Childs P.FOUL (P1.T1),,5:38,4,4,0,1,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:25 PM
+354,0,8,378,0029900896,SUB: Sprewell FOR Wallace,,5:38,4,4,4,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:25 PM
+355,0,8,379,0029900896,,,5:38,4,5,5,0,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Elie FOR Jackson,12:25 PM
+356,2,6,380,0029900896,Thomas S.FOUL (P2.T2),,5:30,4,4,0,1,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:25 PM
+357,11,3,381,0029900896,,,5:30,4,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Robinson Free Throw 1 of 2,12:25 PM
+358,1,4,382,0029900896,,,5:30,4,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Rebound,12:25 PM
+359,0,8,383,0029900896,SUB: Ewing FOR Thomas,,5:30,4,4,4,0,703,Kurt Thomas,NYK,New York,1610612752.0,Knicks,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,12:26 PM
+360,12,3,384,0029900896,,,5:30,4,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,76 - 89,13,Robinson Free Throw 2 of 2 (22 PTS),12:26 PM
+361,1,2,385,0029900896,MISS Houston 19' Jump Shot,,5:13,4,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:26 PM
+362,0,4,386,0029900896,,,5:11,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:1 Def:9),12:26 PM
+363,1,2,387,0029900896,,,4:54,4,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Robinson 13' Jump Shot,12:27 PM
+364,0,4,388,0029900896,,,4:53,4,5,0,0,760,Jerome Kersey,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Kersey REBOUND (Off:1 Def:1),12:27 PM
+365,5,2,389,0029900896,,,4:51,4,5,0,0,760,Jerome Kersey,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Kersey  Layup,12:27 PM
+366,0,4,390,0029900896,Ewing REBOUND (Off:4 Def:9),,4:49,4,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:27 PM
+367,1,5,391,0029900896,Ewing Bad Pass Turnover (P4.T15),,4:47,4,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:27 PM
+368,0,8,392,0029900896,,,4:47,4,5,5,0,760,Jerome Kersey,SAS,San Antonio,1610612759.0,Spurs,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Dial FOR Kersey,12:27 PM
+369,1,2,393,0029900896,,,4:39,4,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Robinson 13' Jump Shot,12:27 PM
+370,0,4,394,0029900896,Ewing REBOUND (Off:4 Def:10),,4:37,4,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:27 PM
+371,1,6,395,0029900896,,,4:22,4,5,0,1,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan P.FOUL (P3.T3),12:28 PM
+372,1,2,396,0029900896,MISS Johnson  3PT Jump Shot,,4:16,4,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:28 PM
+373,0,4,397,0029900896,,,4:13,4,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:2 Def:3),12:28 PM
+374,1,1,398,0029900896,,,4:04,4,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,78 - 89,11,Duncan 12' Jump Shot (15 PTS) (Johnson 4 AST),12:28 PM
+375,1,2,399,0029900896,MISS Johnson  3PT Jump Shot,,3:41,4,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:29 PM
+376,0,4,400,0029900896,,,3:39,4,5,0,0,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Dial REBOUND (Off:0 Def:2),12:29 PM
+377,2,2,401,0029900896,,,3:26,4,5,0,0,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Dial 12' Running Jump Shot,12:29 PM
+378,0,4,402,0029900896,Houston REBOUND (Off:1 Def:2),,3:24,4,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:29 PM
+379,1,6,403,0029900896,,,3:18,4,5,0,1,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Johnson P.FOUL (P3.T4),12:29 PM
+380,1,9,404,0029900896,KNICKS Timeout: Regular (Full 4 Short 2),,3:18,4,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:29 PM
+381,1,2,406,0029900896,MISS Houston 14' Jump Shot,,3:05,4,4,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:32 PM
+382,0,4,407,0029900896,,,3:04,4,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:2 Def:4),12:32 PM
+383,6,2,408,0029900896,,,2:41,4,5,0,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Johnson  Driving Layup,12:33 PM
+384,0,4,410,0029900896,,,2:39,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:2 Def:9),12:33 PM
+385,4,2,409,0029900896,,,2:39,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Duncan  Tip Shot,12:33 PM
+386,0,4,411,0029900896,Ewing REBOUND (Off:4 Def:11),,2:38,4,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:33 PM
+387,1,2,412,0029900896,MISS Houston 12' Jump Shot,,2:17,4,4,0,5,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,,,Elie BLOCK (1 BLK),12:33 PM
+388,0,4,413,0029900896,,,2:15,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:2 Def:10),12:33 PM
+389,6,1,414,0029900896,,,2:11,4,5,0,0,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,80 - 89,9,Dial  Driving Layup (2 PTS),12:33 PM
+390,1,2,415,0029900896,MISS Ewing 16' Jump Shot,,1:52,4,4,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:34 PM
+391,0,4,416,0029900896,,,1:51,4,5,0,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Duncan REBOUND (Off:2 Def:11),12:34 PM
+392,1,2,417,0029900896,,,1:41,4,5,0,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Robinson 10' Jump Shot,12:34 PM
+393,0,4,419,0029900896,,,1:39,4,5,0,0,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Dial REBOUND (Off:1 Def:2),12:34 PM
+394,4,2,418,0029900896,,,1:39,4,5,0,0,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Dial  Tip Shot,12:34 PM
+395,0,4,420,0029900896,Johnson REBOUND (Off:0 Def:5),,1:38,4,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:34 PM
+396,6,1,421,0029900896,Childs  Driving Layup (5 PTS),,1:23,4,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,80 - 91,11,,12:34 PM
+397,1,9,422,0029900896,,,1:19,4,3,0,0,1610612759,,,,,,0,,,,,,0,,,,,,,,Spurs Timeout: Regular (Reg.6 Short 1),12:34 PM
+398,1,2,424,0029900896,,,1:16,4,5,0,0,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Dial 25' 3PT Jump Shot,12:37 PM
+399,0,4,425,0029900896,Sprewell REBOUND (Off:1 Def:7),,1:14,4,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:37 PM
+400,1,6,426,0029900896,,,1:12,4,5,0,1,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Dial P.FOUL (P1.PN),12:37 PM
+401,11,3,427,0029900896,Sprewell Free Throw 1 of 2 (23 PTS),,1:12,4,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,80 - 92,12,,12:37 PM
+402,0,8,428,0029900896,,,1:12,4,5,5,0,1495,Tim Duncan,SAS,San Antonio,1610612759.0,Spurs,955,Samaki Walker,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Walker FOR Duncan,12:38 PM
+403,0,8,429,0029900896,,,1:12,4,5,5,0,53,Mario Elie,SAS,San Antonio,1610612759.0,Spurs,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Jackson FOR Elie,12:38 PM
+404,0,8,430,0029900896,,,1:12,4,5,5,0,764,David Robinson,SAS,San Antonio,1610612759.0,Spurs,1498,Antonio Daniels,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Daniels FOR Robinson,12:38 PM
+405,0,8,431,0029900896,,,1:12,4,5,5,0,422,Avery Johnson,SAS,San Antonio,1610612759.0,Spurs,280,Felton Spencer,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,,,SUB: Spencer FOR Johnson,12:38 PM
+406,12,3,432,0029900896,Sprewell Free Throw 2 of 2 (24 PTS),,1:12,4,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,80 - 93,13,,12:38 PM
+407,1,2,433,0029900896,Ewing BLOCK (1 BLK),,1:02,4,5,0,4,280,Felton Spencer,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,,,MISS Spencer 8' Jump Shot,12:38 PM
+408,0,4,434,0029900896,Childs REBOUND (Off:0 Def:2),,1:00,4,4,0,0,164,Chris Childs,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:38 PM
+409,1,2,435,0029900896,MISS Sprewell 11' Jump Shot,,0:40,4,4,0,0,84,Latrell Sprewell,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:39 PM
+410,0,4,436,0029900896,,,0:39,4,5,0,0,1114,Jaren Jackson,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Jackson REBOUND (Off:0 Def:1),12:39 PM
+411,1,2,437,0029900896,,,0:33,4,5,0,0,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Dial  3PT Jump Shot,12:39 PM
+412,0,4,438,0029900896,,,0:30,4,5,0,0,280,Felton Spencer,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,Spencer REBOUND (Off:1 Def:0),12:39 PM
+413,5,2,439,0029900896,,,0:26,4,5,0,0,1760,Derrick Dial,SAS,San Antonio,1610612759.0,Spurs,0,,,,,,0,,,,,,,,MISS Dial  Layup,12:39 PM
+414,0,4,440,0029900896,Johnson REBOUND (Off:0 Def:6),,0:24,4,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:39 PM
+415,1,2,441,0029900896,MISS Johnson 29' 3PT Jump Shot,,0:02,4,4,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,,12:39 PM
+416,0,4,442,0029900896,KNICKS Rebound,,0:01,4,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:39 PM
+417,11,5,443,0029900896,KNICKS Turnover: Shot Clock (T#16),,0:01,4,2,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,,12:39 PM
+418,0,13,445,0029900896,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,80 - 93,13,,12:40 PM

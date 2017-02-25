@@ -1,0 +1,433 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020100560,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,4:00 AM
+1,0,10,1,0020100560,Jump Ball Campbell vs. Davis: Tip to Brown,,12:00,1,4,5,4,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,,,,8:41 PM
+2,1,2,2,0020100560,MISS Nailon 13' Jump Shot,,11:40,1,4,0,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:42 PM
+3,0,4,3,0020100560,,,11:38,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:1),8:42 PM
+4,1,2,4,0020100560,,,11:16,1,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams 26' 3PT Jump Shot,8:42 PM
+5,0,4,5,0020100560,,,11:14,1,5,0,0,165,Hakeem Olajuwon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Olajuwon REBOUND (Off:1 Def:0),8:42 PM
+6,1,1,6,0020100560,,,10:55,1,5,5,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,3 - 0,-3,Carter 26' 3PT Jump Shot (3 PTS) (Williams 1 AST),8:43 PM
+7,2,5,7,0020100560,Campbell Lost Ball Turnover (P1.T1),,10:34,1,4,5,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,165,Hakeem Olajuwon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Olajuwon STEAL (1 STL),8:43 PM
+8,1,1,8,0020100560,,,10:26,1,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,6 - 0,-6,Carter 26' 3PT Jump Shot (6 PTS),8:43 PM
+9,1,2,9,0020100560,MISS Wesley 20' Jump Shot,,10:07,1,4,0,5,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,,,Carter BLOCK (1 BLK),8:43 PM
+10,0,4,10,0020100560,,,10:00,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:2),8:43 PM
+11,1,2,11,0020100560,,,9:55,1,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter 21' Jump Shot,8:44 PM
+12,0,4,12,0020100560,Davis REBOUND (Off:0 Def:1),,9:53,1,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:44 PM
+13,42,1,13,0020100560,Davis  Driving Layup (2 PTS),,9:48,1,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,6 - 2,-4,,8:44 PM
+14,2,6,14,0020100560,,,9:48,1,5,0,1,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams S.FOUL (P1.T1),8:44 PM
+15,10,3,15,0020100560,MISS Davis Free Throw 1 of 1,,9:48,1,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:44 PM
+16,0,4,16,0020100560,Davis REBOUND (Off:1 Def:1),,9:47,1,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:44 PM
+17,1,2,17,0020100560,MISS Nailon 18' Jump Shot,,9:34,1,4,0,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:44 PM
+18,0,4,18,0020100560,,,9:31,1,5,0,0,165,Hakeem Olajuwon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Olajuwon REBOUND (Off:1 Def:1),8:44 PM
+19,1,1,19,0020100560,,,9:20,1,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,8 - 2,-6,Carter 6' Jump Shot (8 PTS),8:45 PM
+20,5,1,20,0020100560,Brown  Layup (2 PTS) (Wesley 1 AST),,9:06,1,4,4,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,8 - 4,-4,,8:45 PM
+21,2,6,21,0020100560,,,9:06,1,5,0,1,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams S.FOUL (P1.T2),8:45 PM
+22,10,3,22,0020100560,Brown Free Throw 1 of 1 (3 PTS),,9:06,1,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,8 - 5,-3,,8:45 PM
+23,1,1,23,0020100560,,,8:48,1,5,5,0,165,Hakeem Olajuwon,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,10 - 5,-5,Olajuwon 12' Jump Shot (2 PTS) (Williams 2 AST),8:46 PM
+24,46,1,24,0020100560,Nailon 6' Running Jump Shot (2 PTS) (Davis 1 AST),,8:29,1,4,4,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,10 - 7,-3,,8:46 PM
+25,1,2,25,0020100560,,,8:11,1,5,0,0,165,Hakeem Olajuwon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Olajuwon 18' Jump Shot,8:46 PM
+26,0,4,26,0020100560,Brown REBOUND (Off:0 Def:1),,8:08,1,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:46 PM
+27,2,6,27,0020100560,,,8:05,1,5,0,1,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Carter S.FOUL (P1.T3),8:46 PM
+28,11,3,28,0020100560,Wesley Free Throw 1 of 2 (1 PTS),,8:05,1,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,10 - 8,-2,,8:47 PM
+29,12,3,29,0020100560,Wesley Free Throw 2 of 2 (2 PTS),,8:05,1,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,10 - 9,-1,,8:47 PM
+30,1,6,30,0020100560,Campbell P.FOUL (P1.T1),,7:53,1,4,0,1,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:47 PM
+31,17,6,31,0020100560,HORNETS T.Foul (Def. 3 Sec Campbell ),,7:46,1,4,0,1,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:48 PM
+32,16,3,33,0020100560,,,7:46,1,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,11 - 9,-2,Carter Free Throw Technical (9 PTS),8:48 PM
+33,1,2,34,0020100560,,,7:38,1,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter 21' Jump Shot,8:48 PM
+34,0,4,35,0020100560,Wesley REBOUND (Off:0 Def:1),,7:35,1,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:48 PM
+35,7,1,36,0020100560,Davis  Dunk (4 PTS) (Wesley 2 AST),,7:32,1,4,4,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,11 - 11,TIE,,8:48 PM
+36,1,5,37,0020100560,Davis STEAL (1 STL),,7:17,1,5,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,Carter Bad Pass Turnover (P1.T1),8:49 PM
+37,5,1,38,0020100560,Wesley  Layup (4 PTS) (Nailon 1 AST),,7:11,1,4,4,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,11 - 13,2,,8:49 PM
+38,1,1,39,0020100560,,,6:49,1,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,13 - 13,TIE,Carter 19' Jump Shot (11 PTS),8:49 PM
+39,1,2,40,0020100560,MISS Wesley 21' Jump Shot,,6:39,1,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:49 PM
+40,0,4,41,0020100560,,,6:37,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:3),8:49 PM
+41,5,2,42,0020100560,,,6:16,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams  Layup,8:50 PM
+42,0,4,43,0020100560,Nailon REBOUND (Off:0 Def:1),,6:14,1,4,0,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:50 PM
+43,1,2,44,0020100560,MISS Nailon 9' Jump Shot,,5:53,1,4,0,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:50 PM
+44,0,4,45,0020100560,Brown REBOUND (Off:1 Def:1),,5:48,1,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:50 PM
+45,5,2,46,0020100560,MISS Wesley  Layup,,5:35,1,4,0,5,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,,,Davis BLOCK (1 BLK),8:51 PM
+46,0,4,47,0020100560,Wesley REBOUND (Off:1 Def:1),,5:31,1,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:51 PM
+47,1,1,48,0020100560,Campbell 10' Jump Shot (2 PTS) (Wesley 3 AST),,5:26,1,4,4,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,13 - 15,2,,8:51 PM
+48,1,2,49,0020100560,,,5:05,1,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Davis 11' Jump Shot,8:51 PM
+49,0,4,50,0020100560,,,5:00,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:1 Def:3),8:51 PM
+50,5,1,51,0020100560,,,4:58,1,5,5,0,165,Hakeem Olajuwon,TOR,Toronto,1610612761.0,Raptors,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,15 - 15,TIE,Olajuwon  Layup (4 PTS) (Williams 1 AST),8:51 PM
+51,2,6,52,0020100560,,,4:41,1,5,0,1,165,Hakeem Olajuwon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Olajuwon S.FOUL (P1.T4),8:52 PM
+52,1,9,53,0020100560,HORNETS Timeout: Regular (Full 1 Short 0),,4:41,1,2,0,0,1610612740,,,,,,0,,,,,,0,,,,,,,,,8:52 PM
+53,0,8,55,0020100560,,,4:41,1,5,5,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,164,Chris Childs,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Childs FOR Williams,8:53 PM
+54,11,3,56,0020100560,Campbell Free Throw 1 of 2 (3 PTS),,4:41,1,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,15 - 16,1,,8:54 PM
+55,12,3,57,0020100560,Campbell Free Throw 2 of 2 (4 PTS),,4:41,1,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,15 - 17,2,,8:54 PM
+56,5,7,58,0020100560,Nailon Violation:Kicked Ball,,4:16,1,4,0,1,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:55 PM
+57,1,2,59,0020100560,,,4:08,1,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter 24' 3PT Jump Shot,8:56 PM
+58,0,4,60,0020100560,,,4:05,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:2 Def:3),8:56 PM
+59,46,1,61,0020100560,,,3:53,1,5,5,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,164,Chris Childs,TOR,Toronto,1610612761.0,Raptors,0,,,,,,17 - 17,TIE,Carter 8' Running Jump Shot (13 PTS) (Childs 1 AST),8:56 PM
+60,1,1,62,0020100560,Wesley 18' Jump Shot (6 PTS) (Nailon 2 AST),,3:26,1,4,4,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,17 - 19,2,,8:56 PM
+61,2,6,63,0020100560,Campbell S.FOUL (P2.T2),,3:07,1,4,0,1,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:57 PM
+62,0,8,64,0020100560,SUB: Magloire FOR Campbell,,3:07,1,4,4,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,8:57 PM
+63,11,3,65,0020100560,,,3:07,1,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,18 - 19,1,Carter Free Throw 1 of 2 (14 PTS),8:57 PM
+64,12,3,66,0020100560,,,3:07,1,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,19 - 19,TIE,Carter Free Throw 2 of 2 (15 PTS),8:57 PM
+65,1,2,67,0020100560,MISS Wesley 20' Jump Shot,,2:48,1,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:58 PM
+66,0,4,68,0020100560,,,2:45,1,5,0,0,165,Hakeem Olajuwon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Olajuwon REBOUND (Off:1 Def:2),8:58 PM
+67,5,1,69,0020100560,,,2:23,1,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,21 - 19,-2,Davis  Layup (2 PTS),8:58 PM
+68,1,2,70,0020100560,MISS Nailon 13' Jump Shot,,1:59,1,4,0,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:59 PM
+69,0,4,71,0020100560,,,1:56,1,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:2 Def:4),8:59 PM
+70,63,1,72,0020100560,,,1:41,1,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,23 - 19,-4,Carter 15' Fadeaway Jumper (17 PTS),8:59 PM
+71,3,2,73,0020100560,MISS Magloire 6' Hook Shot,,1:15,1,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,8:59 PM
+72,0,4,74,0020100560,,,1:12,1,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:0 Def:1),8:59 PM
+73,1,2,75,0020100560,,,0:56,1,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter 20' Jump Shot,9:00 PM
+74,0,4,76,0020100560,Nailon REBOUND (Off:0 Def:2),,0:52,1,4,0,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:00 PM
+75,1,6,77,0020100560,,,0:50,1,5,0,1,164,Chris Childs,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Childs P.FOUL (P1.PN),9:00 PM
+76,1,9,78,0020100560,,,0:50,1,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.1 Short 0),9:00 PM
+77,0,8,80,0020100560,,,0:50,1,5,5,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Clark FOR Davis,9:02 PM
+78,0,8,81,0020100560,SUB: Drew FOR Davis,,0:50,1,4,4,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,1724,Bryce Drew,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,9:02 PM
+79,0,8,82,0020100560,SUB: Lynch FOR Brown,,0:50,1,4,4,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,248,George Lynch,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,9:02 PM
+80,0,8,83,0020100560,SUB: Bullard FOR Nailon,,0:50,1,4,4,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,672,Matt Bullard,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,9:02 PM
+81,11,3,84,0020100560,Magloire Free Throw 1 of 2 (1 PTS),,0:50,1,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,23 - 20,-3,,9:02 PM
+82,0,8,85,0020100560,,,0:50,1,5,5,0,165,Hakeem Olajuwon,TOR,Toronto,1610612761.0,Raptors,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Curry FOR Olajuwon,9:03 PM
+83,12,3,86,0020100560,MISS Magloire Free Throw 2 of 2,,0:50,1,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:03 PM
+84,0,4,87,0020100560,,,0:48,1,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Clark REBOUND (Off:0 Def:1),9:03 PM
+85,5,2,88,0020100560,,,0:33,1,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Clark  Layup,9:03 PM
+86,0,4,89,0020100560,Wesley REBOUND (Off:1 Def:2),,0:32,1,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:03 PM
+87,0,10,90,0020100560,Jump Ball Bullard vs. Williams: Tip to Childs,,0:15,1,4,5,5,672,Matt Bullard,CHH,Charlotte,1610612766.0,Hornets,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,164,Chris Childs,TOR,Toronto,1610612761.0,Raptors,,,,9:04 PM
+88,2,5,91,0020100560,Bullard Lost Ball Turnover (P1.T2),,0:15,1,4,5,0,672,Matt Bullard,CHH,Charlotte,1610612766.0,Hornets,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Williams STEAL (1 STL),9:04 PM
+89,5,2,92,0020100560,,,0:02,1,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter  Layup,9:04 PM
+90,0,4,93,0020100560,Drew REBOUND (Off:0 Def:1),,0:01,1,4,0,0,1724,Bryce Drew,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:04 PM
+91,1,2,94,0020100560,MISS Drew 34' 3PT Jump Shot,,0:00,1,4,0,0,1724,Bryce Drew,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:04 PM
+92,0,4,96,0020100560,HORNETS Rebound,,0:00,1,2,0,0,1610612740,,,,,,0,,,,,,0,,,,,,,,,9:04 PM
+93,0,13,95,0020100560,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 20,-3,,9:04 PM
+94,0,12,98,0020100560,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 20,-3,,9:07 PM
+95,1,6,99,0020100560,Bullard P.FOUL (P1.T1),,11:48,2,4,0,1,672,Matt Bullard,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:07 PM
+96,0,8,100,0020100560,,,11:48,2,5,5,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,145,Tracy Murray,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Murray FOR Carter,9:07 PM
+97,1,2,101,0020100560,,,11:41,2,5,0,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Curry 17' Jump Shot,9:07 PM
+98,0,4,102,0020100560,Lynch REBOUND (Off:0 Def:1),,11:38,2,4,0,0,248,George Lynch,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:07 PM
+99,1,2,103,0020100560,MISS Bullard 29' 3PT Jump Shot,,11:21,2,4,0,0,672,Matt Bullard,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:08 PM
+100,0,4,104,0020100560,,,11:19,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:2 Def:5),9:08 PM
+101,17,6,105,0020100560,HORNETS T.Foul (Def. 3 Sec Lynch ),,11:10,2,4,0,1,248,George Lynch,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:08 PM
+102,16,3,106,0020100560,,,11:10,2,5,0,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,24 - 20,-4,Curry Free Throw Technical (1 PTS),9:08 PM
+103,1,2,107,0020100560,,,11:02,2,5,0,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Curry 26' 3PT Jump Shot,9:09 PM
+104,0,4,108,0020100560,Bullard REBOUND (Off:0 Def:1),,11:00,2,4,0,0,672,Matt Bullard,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:09 PM
+105,5,2,109,0020100560,MISS Davis  Layup,,10:48,2,4,0,5,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,,,Curry BLOCK (1 BLK),9:09 PM
+106,0,4,110,0020100560,,,10:48,2,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,9:09 PM
+107,1,2,111,0020100560,,,10:34,2,5,0,0,164,Chris Childs,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Childs 19' Jump Shot,9:09 PM
+108,0,4,113,0020100560,,,10:30,2,5,0,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Curry REBOUND (Off:1 Def:0),9:09 PM
+109,40,2,112,0020100560,,,10:30,2,5,0,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Curry 1' Layup,9:09 PM
+110,0,4,114,0020100560,,,10:29,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:3 Def:5),9:09 PM
+111,5,1,115,0020100560,,,10:29,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,26 - 20,-6,Williams  Layup (2 PTS),9:09 PM
+112,2,6,116,0020100560,Lynch S.FOUL (P1.T2),,10:29,2,4,0,1,248,George Lynch,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:09 PM
+113,10,3,117,0020100560,,,10:29,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams Free Throw 1 of 1,9:10 PM
+114,0,4,118,0020100560,Lynch REBOUND (Off:0 Def:2),,10:24,2,4,0,0,248,George Lynch,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:10 PM
+115,5,1,119,0020100560,Lynch  Layup (2 PTS) (Davis 2 AST),,10:15,2,4,4,0,248,George Lynch,CHH,Charlotte,1610612766.0,Hornets,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,26 - 22,-4,,9:10 PM
+116,1,1,121,0020100560,,,9:59,2,5,5,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,164,Chris Childs,TOR,Toronto,1610612761.0,Raptors,0,,,,,,28 - 22,-6,Clark 14' Jump Shot (2 PTS) (Childs 2 AST),9:10 PM
+117,1,2,122,0020100560,MISS Bullard 26' 3PT Jump Shot,,9:41,2,4,0,0,672,Matt Bullard,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:11 PM
+118,0,4,123,0020100560,,,9:39,2,5,0,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Curry REBOUND (Off:1 Def:1),9:11 PM
+119,2,7,125,0020100560,Magloire Violation:Defensive Goaltending,,9:34,2,4,0,1,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:11 PM
+120,5,1,124,0020100560,,,9:34,2,5,0,0,164,Chris Childs,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,30 - 22,-8,Childs  Layup (2 PTS),9:11 PM
+121,1,5,126,0020100560,Bullard Bad Pass Turnover (P2.T3),,9:18,2,4,5,0,672,Matt Bullard,CHH,Charlotte,1610612766.0,Hornets,164,Chris Childs,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Childs STEAL (1 STL),9:12 PM
+122,1,1,127,0020100560,,,9:14,2,5,5,0,145,Tracy Murray,TOR,Toronto,1610612761.0,Raptors,164,Chris Childs,TOR,Toronto,1610612761.0,Raptors,0,,,,,,33 - 22,-11,Murray 27' 3PT Jump Shot (3 PTS) (Childs 3 AST),9:12 PM
+123,1,9,128,0020100560,HORNETS Timeout: Regular (Full 2 Short 0),,9:05,2,2,0,0,1610612740,,,,,,0,,,,,,0,,,,,,,,,9:12 PM
+124,0,8,130,0020100560,SUB: Nailon FOR Bullard,,9:05,2,4,4,0,672,Matt Bullard,CHH,Charlotte,1610612766.0,Hornets,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,9:13 PM
+125,0,8,131,0020100560,SUB: Wesley FOR Drew,,9:05,2,4,4,0,1724,Bryce Drew,CHH,Charlotte,1610612766.0,Hornets,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,9:14 PM
+126,0,8,132,0020100560,,,9:05,2,5,5,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Davis FOR Williams,9:14 PM
+127,1,2,133,0020100560,MISS Davis 30' 3PT Jump Shot,,8:47,2,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:14 PM
+128,0,4,134,0020100560,HORNETS Rebound,,8:47,2,2,0,0,1610612740,,,,,,0,,,,,,0,,,,,,,,,9:14 PM
+129,11,5,135,0020100560,HORNETS Turnover: Shot Clock (T#4),,8:47,2,2,0,1,1610612740,,,,,,0,,,,,,0,,,,,,,,,9:14 PM
+130,1,2,136,0020100560,,,8:23,2,5,0,0,164,Chris Childs,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Childs 16' Jump Shot,9:15 PM
+131,0,4,137,0020100560,,,8:20,2,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Clark REBOUND (Off:1 Def:1),9:15 PM
+132,1,2,138,0020100560,,,8:16,2,5,0,0,145,Tracy Murray,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Murray 18' Jump Shot,9:15 PM
+133,0,4,139,0020100560,Lynch REBOUND (Off:0 Def:3),,8:14,2,4,0,0,248,George Lynch,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:15 PM
+134,63,1,140,0020100560,Davis 13' Fadeaway Jumper (6 PTS),,8:01,2,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,33 - 24,-9,,9:15 PM
+135,1,2,141,0020100560,,,7:39,2,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Davis 13' Jump Shot,9:16 PM
+136,0,4,142,0020100560,,,7:37,2,5,0,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Curry REBOUND (Off:2 Def:1),9:16 PM
+137,5,1,143,0020100560,,,7:35,2,5,0,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,35 - 24,-11,Curry  Layup (3 PTS),9:16 PM
+138,1,2,144,0020100560,MISS Davis 26' 3PT Jump Shot,,7:12,2,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:16 PM
+139,0,4,146,0020100560,Magloire REBOUND (Off:1 Def:0),,7:09,2,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:16 PM
+140,4,1,145,0020100560,Magloire  Tip Shot (3 PTS),,7:09,2,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,35 - 26,-9,,9:16 PM
+141,2,6,147,0020100560,Nailon S.FOUL (P1.T3),,6:53,2,4,0,1,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:16 PM
+142,0,8,148,0020100560,SUB: Brown FOR Magloire,,6:53,2,4,4,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,9:17 PM
+143,0,8,153,0020100560,,,6:53,2,5,5,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Williams FOR Curry,9:17 PM
+144,0,8,149,0020100560,SUB: Campbell FOR Lynch,,6:53,2,4,4,0,248,George Lynch,CHH,Charlotte,1610612766.0,Hornets,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,9:17 PM
+145,11,3,150,0020100560,,,6:53,2,5,0,0,145,Tracy Murray,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Murray Free Throw 1 of 2,9:17 PM
+146,1,4,151,0020100560,,,6:53,2,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,9:17 PM
+147,12,3,152,0020100560,,,6:53,2,5,0,0,145,Tracy Murray,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,36 - 26,-10,Murray Free Throw 2 of 2 (4 PTS),9:17 PM
+148,2,6,155,0020100560,,,6:39,2,5,0,1,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis S.FOUL (P1.T1),9:17 PM
+149,11,3,156,0020100560,Campbell Free Throw 1 of 2 (5 PTS),,6:39,2,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,36 - 27,-9,,9:18 PM
+150,12,3,157,0020100560,Campbell Free Throw 2 of 2 (6 PTS),,6:39,2,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,36 - 28,-8,,9:18 PM
+151,1,2,158,0020100560,,,6:22,2,5,0,0,145,Tracy Murray,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Murray 24' 3PT Jump Shot,9:18 PM
+152,0,4,159,0020100560,,,6:20,2,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Clark REBOUND (Off:2 Def:1),9:18 PM
+153,1,1,160,0020100560,,,6:03,2,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,38 - 28,-10,Williams 20' Jump Shot (2 PTS),9:19 PM
+154,47,1,161,0020100560,Campbell 12' Turnaround Jump Shot (8 PTS) (Wesley 4 AST),,5:39,2,4,4,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,38 - 30,-8,,9:19 PM
+155,1,1,162,0020100560,,,5:27,2,5,5,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,40 - 30,-10,Davis 12' Jump Shot (4 PTS) (Williams 3 AST),9:19 PM
+156,2,6,163,0020100560,,,5:07,2,5,0,1,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis S.FOUL (P2.T2),9:20 PM
+157,4,9,164,0020100560,,,5:07,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:20 PM
+158,0,8,166,0020100560,,,5:07,2,5,5,0,164,Chris Childs,TOR,Toronto,1610612761.0,Raptors,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Carter FOR Childs,9:22 PM
+159,11,3,167,0020100560,Campbell Free Throw 1 of 2 (9 PTS),,5:07,2,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,40 - 31,-9,,9:22 PM
+160,12,3,168,0020100560,Campbell Free Throw 2 of 2 (10 PTS),,5:07,2,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,40 - 32,-8,,9:22 PM
+161,1,5,169,0020100560,,,4:44,2,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Carter Bad Pass Turnover (P2.T2),9:23 PM
+162,2,6,170,0020100560,,,4:28,2,5,0,1,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Clark S.FOUL (P1.T3),9:23 PM
+163,0,8,171,0020100560,,,4:28,2,5,5,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Williams FOR Clark,9:23 PM
+164,0,8,172,0020100560,,,4:28,2,5,5,0,145,Tracy Murray,TOR,Toronto,1610612761.0,Raptors,165,Hakeem Olajuwon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Olajuwon FOR Murray,9:24 PM
+165,11,3,173,0020100560,MISS Wesley Free Throw 1 of 2,,4:28,2,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:24 PM
+166,1,4,174,0020100560,HORNETS Rebound,,4:28,2,2,0,0,1610612740,,,,,,0,,,,,,0,,,,,,,,,9:24 PM
+167,12,3,175,0020100560,Wesley Free Throw 2 of 2 (7 PTS),,4:28,2,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,40 - 33,-7,,9:24 PM
+168,1,1,176,0020100560,,,4:11,2,5,5,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,43 - 33,-10,Carter 26' 3PT Jump Shot (20 PTS) (Davis 1 AST),9:24 PM
+169,7,2,177,0020100560,MISS Campbell  Dunk,,3:57,2,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:24 PM
+170,0,4,178,0020100560,HORNETS Rebound,,3:55,2,2,0,0,1610612740,,,,,,0,,,,,,0,,,,,,,,,9:25 PM
+171,1,2,179,0020100560,MISS Campbell 16' Jump Shot,,3:48,2,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:25 PM
+172,0,4,180,0020100560,,,3:44,2,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:0 Def:2),9:25 PM
+173,1,2,181,0020100560,,,3:35,2,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter 26' 3PT Jump Shot,9:25 PM
+174,0,4,182,0020100560,,,3:33,2,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:1 Def:2),9:25 PM
+175,1,1,183,0020100560,,,3:29,2,5,5,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,45 - 33,-12,Davis 18' Jump Shot (6 PTS) (Carter 1 AST),9:25 PM
+176,1,5,184,0020100560,Brown Bad Pass Turnover (P1.T5),,3:25,2,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:25 PM
+177,2,9,185,0020100560,HORNETS Timeout: Short (Full 2 Short 1),,3:25,2,2,0,0,1610612740,,,,,,0,,,,,,0,,,,,,,,,9:25 PM
+178,1,2,186,0020100560,,,3:07,2,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams 22' Jump Shot,9:27 PM
+179,0,4,187,0020100560,,,3:06,2,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,9:27 PM
+180,1,2,188,0020100560,,,2:57,2,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter 17' Jump Shot,9:27 PM
+181,0,4,189,0020100560,Brown REBOUND (Off:1 Def:2),,2:55,2,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:27 PM
+182,5,1,190,0020100560,Davis  Layup (8 PTS),,2:48,2,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,45 - 35,-10,,9:27 PM
+183,1,5,191,0020100560,Davis STEAL (2 STL),,2:34,2,5,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,Carter Bad Pass Turnover (P3.T3),9:27 PM
+184,1,9,192,0020100560,,,2:34,2,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.2 Short 0),9:27 PM
+185,3,1,194,0020100560,Campbell 7' Hook Shot (12 PTS) (Brown 1 AST),,2:19,2,4,4,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,45 - 37,-8,,9:30 PM
+186,1,1,195,0020100560,,,2:05,2,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,47 - 37,-10,Williams 19' Jump Shot (4 PTS),9:30 PM
+187,1,5,196,0020100560,Wesley Bad Pass Turnover (P1.T6),,1:46,2,4,5,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Williams STEAL (2 STL),9:30 PM
+188,1,2,197,0020100560,,,1:38,2,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter 11' Jump Shot,9:31 PM
+189,0,4,198,0020100560,Campbell REBOUND (Off:0 Def:1),,1:35,2,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:31 PM
+190,1,2,199,0020100560,MISS Wesley 17' Jump Shot,,1:30,2,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:31 PM
+191,0,4,200,0020100560,,,1:26,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:3 Def:6),9:31 PM
+192,1,2,202,0020100560,,,1:18,2,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter  3PT Jump Shot,9:31 PM
+193,0,4,203,0020100560,Campbell REBOUND (Off:0 Def:2),,1:16,2,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:31 PM
+194,2,6,204,0020100560,,,1:08,2,5,0,1,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis S.FOUL (P3.T4),9:31 PM
+195,11,3,205,0020100560,MISS Davis Free Throw 1 of 2,,1:08,2,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:31 PM
+196,1,4,206,0020100560,HORNETS Rebound,,1:08,2,2,0,0,1610612740,,,,,,0,,,,,,0,,,,,,,,,9:31 PM
+197,0,8,207,0020100560,,,1:08,2,5,5,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Clark FOR Davis,9:32 PM
+198,12,3,208,0020100560,Davis Free Throw 2 of 2 (9 PTS),,1:08,2,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,47 - 38,-9,,9:32 PM
+199,7,1,209,0020100560,,,0:52,2,5,5,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,49 - 38,-11,Williams  Dunk (4 PTS) (Carter 2 AST),9:32 PM
+200,5,1,210,0020100560,Campbell  Layup (14 PTS) (Brown 2 AST),,0:34,2,4,4,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,49 - 40,-9,,9:33 PM
+201,2,6,211,0020100560,Wesley S.FOUL (P1.T4),,0:18,2,4,0,1,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:33 PM
+202,11,3,212,0020100560,,,0:18,2,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,50 - 40,-10,Carter Free Throw 1 of 2 (21 PTS),9:33 PM
+203,12,3,213,0020100560,,,0:18,2,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,51 - 40,-11,Carter Free Throw 2 of 2 (22 PTS),9:33 PM
+204,1,2,214,0020100560,MISS Davis 22' Jump Shot,,0:01,2,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:34 PM
+205,0,4,215,0020100560,,,0:00,2,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:3 Def:7),9:34 PM
+206,0,13,216,0020100560,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 40,-11,,9:34 PM
+207,0,12,218,0020100560,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 40,-11,,9:50 PM
+208,1,6,219,0020100560,Wesley P.FOUL (P2.T1),,11:49,3,4,0,1,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:51 PM
+209,49,1,220,0020100560,,,11:40,3,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,53 - 40,-13,Carter  Driving Dunk (24 PTS),9:51 PM
+210,1,9,221,0020100560,HORNETS Timeout: Regular (Full 3 Short 1),,11:31,3,2,0,0,1610612740,,,,,,0,,,,,,0,,,,,,,,,9:51 PM
+211,49,1,223,0020100560,Campbell  Driving Dunk (16 PTS) (Wesley 5 AST),,11:21,3,4,4,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,53 - 42,-11,,9:53 PM
+212,1,2,224,0020100560,,,10:59,3,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams 16' Jump Shot,9:54 PM
+213,0,4,225,0020100560,Brown REBOUND (Off:1 Def:3),,10:57,3,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:54 PM
+214,1,6,226,0020100560,,,10:57,3,5,0,1,165,Hakeem Olajuwon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Olajuwon P.FOUL (P2.T1),9:54 PM
+215,1,1,227,0020100560,Nailon 15' Jump Shot (4 PTS) (Brown 3 AST),,10:43,3,4,4,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,53 - 44,-9,,9:54 PM
+216,2,6,228,0020100560,,,10:43,3,5,0,1,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams S.FOUL (P2.T2),9:54 PM
+217,10,3,229,0020100560,Nailon Free Throw 1 of 1 (5 PTS),,10:43,3,4,0,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,53 - 45,-8,,9:55 PM
+218,1,1,230,0020100560,,,10:23,3,5,5,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,55 - 45,-10,Davis 16' Jump Shot (8 PTS) (Williams 2 AST),9:55 PM
+219,1,1,231,0020100560,Wesley 23' Jump Shot (9 PTS) (Brown 4 AST),,10:02,3,4,4,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,55 - 47,-8,,9:56 PM
+220,1,2,232,0020100560,,,9:51,3,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter 25' 3PT Jump Shot,9:56 PM
+221,0,4,233,0020100560,Brown REBOUND (Off:1 Def:4),,9:47,3,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:56 PM
+222,2,6,234,0020100560,,,9:43,3,5,0,1,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Carter S.FOUL (P2.T3),9:56 PM
+223,11,3,235,0020100560,MISS Wesley Free Throw 1 of 2,,9:43,3,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:56 PM
+224,1,4,236,0020100560,HORNETS Rebound,,9:43,3,2,0,0,1610612740,,,,,,0,,,,,,0,,,,,,,,,9:56 PM
+225,12,3,237,0020100560,Wesley Free Throw 2 of 2 (10 PTS),,9:43,3,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,55 - 48,-7,,9:56 PM
+226,1,6,238,0020100560,Campbell P.FOUL (P3.T2),,9:23,3,4,0,1,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:57 PM
+227,1,1,239,0020100560,,,9:18,3,5,5,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,58 - 48,-10,Williams 24' 3PT Jump Shot (7 PTS) (Carter 3 AST),9:57 PM
+228,1,1,240,0020100560,Davis 26' 3PT Jump Shot (12 PTS) (Wesley 6 AST),,9:02,3,4,4,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,58 - 51,-7,,9:57 PM
+229,1,2,241,0020100560,,,8:34,3,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams 25' 3PT Jump Shot,9:58 PM
+230,0,4,242,0020100560,Brown REBOUND (Off:1 Def:5),,8:32,3,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,9:58 PM
+231,5,1,243,0020100560,Brown  Layup (5 PTS) (Wesley 7 AST),,8:26,3,4,4,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,58 - 53,-5,,9:58 PM
+232,1,9,244,0020100560,,,8:22,3,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.3 Short 0),9:58 PM
+233,1,1,246,0020100560,,,7:58,3,5,5,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,60 - 53,-7,Williams 21' Jump Shot (9 PTS) (Davis 2 AST),10:01 PM
+234,1,2,247,0020100560,MISS Nailon 17' Jump Shot,,7:36,3,4,0,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:01 PM
+235,0,4,248,0020100560,Brown REBOUND (Off:2 Def:5),,7:34,3,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:01 PM
+236,7,2,249,0020100560,MISS Campbell  Dunk,,7:23,3,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:01 PM
+237,0,4,250,0020100560,,,7:20,3,5,0,0,165,Hakeem Olajuwon,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Olajuwon REBOUND (Off:1 Def:3),10:01 PM
+238,1,2,251,0020100560,,,7:04,3,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams 6' Jump Shot,10:02 PM
+239,0,4,252,0020100560,Campbell REBOUND (Off:0 Def:3),,7:02,3,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:02 PM
+240,1,2,253,0020100560,MISS Wesley 25' 3PT Jump Shot,,6:53,3,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:02 PM
+241,0,4,254,0020100560,Brown REBOUND (Off:3 Def:5),,6:50,3,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:02 PM
+242,1,2,255,0020100560,MISS Davis 26' 3PT Jump Shot,,6:36,3,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:02 PM
+243,0,4,256,0020100560,Davis REBOUND (Off:2 Def:1),,6:34,3,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:03 PM
+244,5,2,257,0020100560,MISS Brown  Layup,,6:28,3,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:03 PM
+245,0,4,259,0020100560,Brown REBOUND (Off:4 Def:5),,6:25,3,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:03 PM
+246,4,2,258,0020100560,MISS Brown  Tip Shot,,6:25,3,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:03 PM
+247,0,4,261,0020100560,Brown REBOUND (Off:5 Def:5),,6:23,3,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:03 PM
+248,4,2,260,0020100560,MISS Brown  Tip Shot,,6:23,3,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:03 PM
+249,0,4,262,0020100560,Brown REBOUND (Off:6 Def:5),,6:20,3,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:03 PM
+250,1,1,263,0020100560,Wesley 10' Jump Shot (12 PTS) (Brown 5 AST),,6:18,3,4,4,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,60 - 55,-5,,10:03 PM
+251,3,1,264,0020100560,,,6:00,3,5,5,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,62 - 55,-7,Davis 8' Hook Shot (10 PTS) (Williams 4 AST),10:03 PM
+252,1,1,265,0020100560,Nailon 11' Jump Shot (7 PTS) (Davis 3 AST),,5:41,3,4,4,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,62 - 57,-5,,10:03 PM
+253,2,6,266,0020100560,Wesley S.FOUL (P3.T3),,5:33,3,4,0,1,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:04 PM
+254,11,3,267,0020100560,,,5:33,3,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,63 - 57,-6,Williams Free Throw 1 of 2 (5 PTS),10:04 PM
+255,12,3,268,0020100560,,,5:33,3,5,0,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,64 - 57,-7,Williams Free Throw 2 of 2 (6 PTS),10:04 PM
+256,5,1,269,0020100560,Campbell  Layup (18 PTS),,5:16,3,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,64 - 59,-5,,10:05 PM
+257,2,6,270,0020100560,,,5:16,3,5,0,1,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Carter S.FOUL (P3.T4),10:05 PM
+258,10,3,271,0020100560,Campbell Free Throw 1 of 1 (19 PTS),,5:16,3,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,64 - 60,-4,,10:05 PM
+259,1,2,272,0020100560,,,4:56,3,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams 26' 3PT Jump Shot,10:06 PM
+260,0,4,273,0020100560,Nailon REBOUND (Off:0 Def:3),,4:53,3,4,0,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:06 PM
+261,2,5,274,0020100560,Nailon Lost Ball Turnover (P1.T7),,4:51,3,4,5,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Davis STEAL (1 STL),10:06 PM
+262,5,1,275,0020100560,,,4:46,3,5,5,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,66 - 60,-6,Williams  Layup (8 PTS) (Davis 3 AST),10:06 PM
+263,1,2,276,0020100560,MISS Nailon 17' Jump Shot,,4:24,3,4,0,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:06 PM
+264,0,4,277,0020100560,,,4:21,3,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:1 Def:3),10:06 PM
+265,1,6,278,0020100560,Nailon P.FOUL (P2.T4),,4:12,3,4,0,1,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:07 PM
+266,0,8,279,0020100560,,,4:12,3,5,5,0,165,Hakeem Olajuwon,TOR,Toronto,1610612761.0,Raptors,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Clark FOR Olajuwon,10:07 PM
+267,1,6,280,0020100560,Campbell P.FOUL (P4.PN),,4:06,3,4,0,1,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:07 PM
+268,11,3,281,0020100560,,,4:06,3,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,67 - 60,-7,Clark Free Throw 1 of 2 (3 PTS),10:07 PM
+269,0,8,282,0020100560,SUB: Magloire FOR Campbell,,4:06,3,4,4,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,10:07 PM
+270,12,3,283,0020100560,,,4:06,3,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,68 - 60,-8,Clark Free Throw 2 of 2 (4 PTS),10:08 PM
+271,1,1,284,0020100560,Wesley 25' 3PT Jump Shot (15 PTS) (Magloire 1 AST),,3:48,3,4,4,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,68 - 63,-5,,10:08 PM
+272,5,2,285,0020100560,,,3:26,3,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Clark  Layup,10:08 PM
+273,0,4,286,0020100560,Magloire REBOUND (Off:1 Def:1),,3:25,3,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:08 PM
+274,1,6,287,0020100560,,,3:25,3,5,0,1,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams P.FOUL (P2.PN),10:09 PM
+275,11,3,288,0020100560,MISS Magloire Free Throw 1 of 2,,3:25,3,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:09 PM
+276,1,4,289,0020100560,HORNETS Rebound,,3:25,3,2,0,0,1610612740,,,,,,0,,,,,,0,,,,,,,,,10:09 PM
+277,12,3,290,0020100560,Magloire Free Throw 2 of 2 (4 PTS),,3:25,3,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,68 - 64,-4,,10:09 PM
+278,1,1,291,0020100560,,,3:07,3,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,70 - 64,-6,Clark 18' Jump Shot (6 PTS),10:10 PM
+279,2,6,292,0020100560,,,2:52,3,5,0,1,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Carter S.FOUL (P4.PN),10:10 PM
+280,11,3,293,0020100560,Wesley Free Throw 1 of 2 (16 PTS),,2:52,3,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,70 - 65,-5,,10:11 PM
+281,0,8,294,0020100560,SUB: Augmon FOR Nailon,,2:52,3,4,4,0,1924,Lee Nailon,CHH,Charlotte,1610612766.0,Hornets,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,10:11 PM
+282,12,3,295,0020100560,Wesley Free Throw 2 of 2 (17 PTS),,2:52,3,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,70 - 66,-4,,10:11 PM
+283,1,2,296,0020100560,,,2:38,3,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter 20' Jump Shot,10:11 PM
+284,0,4,297,0020100560,Davis REBOUND (Off:2 Def:2),,2:36,3,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:11 PM
+285,5,2,298,0020100560,MISS Davis  Layup,,2:29,3,4,0,5,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,,,Davis BLOCK (2 BLK),10:11 PM
+286,0,4,300,0020100560,Magloire REBOUND (Off:2 Def:1),,2:28,3,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:11 PM
+287,5,1,299,0020100560,Magloire  Layup (6 PTS),,2:28,3,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,70 - 68,-2,,10:11 PM
+288,2,6,301,0020100560,,,2:28,3,5,0,1,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams S.FOUL (P3.PN),10:11 PM
+289,0,8,302,0020100560,SUB: Traylor FOR Brown,,2:28,3,4,4,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,1714,Robert Traylor,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,10:12 PM
+290,0,8,305,0020100560,,,2:28,3,5,5,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Curry FOR Williams,10:12 PM
+291,10,3,304,0020100560,MISS Magloire Free Throw 1 of 1,,2:28,3,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:12 PM
+292,0,4,323,0020100560,,,2:28,3,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:1 Def:4),10:12 PM
+293,45,2,311,0020100560,,,2:28,3,5,0,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Curry  3PT Jump Shot,10:12 PM
+294,0,4,306,0020100560,,,2:02,3,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Carter REBOUND (Off:1 Def:0),10:13 PM
+295,1,1,307,0020100560,,,2:00,3,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,73 - 68,-5,Carter  3PT Jump Shot (27 PTS),10:13 PM
+296,5,1,309,0020100560,Magloire  Layup (8 PTS) (Davis 4 AST),,1:41,3,4,4,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,73 - 70,-3,,10:13 PM
+297,1,5,310,0020100560,Magloire STEAL (1 STL),,1:20,3,5,4,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,Williams Bad Pass Turnover (P1.T4),10:14 PM
+298,1,2,312,0020100560,MISS Wesley 19' Jump Shot,,0:59,3,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:14 PM
+299,0,4,313,0020100560,,,0:56,3,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:1 Def:5),10:14 PM
+300,5,1,314,0020100560,,,0:49,3,5,5,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,75 - 70,-5,Carter  Layup (29 PTS) (Williams 5 AST),10:14 PM
+301,5,2,317,0020100560,MISS Magloire  Layup,,0:29,3,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:15 PM
+302,0,4,318,0020100560,,,0:28,3,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,10:15 PM
+303,1,6,319,0020100560,Traylor P.FOUL (P1.PN),,0:28,3,4,0,1,1714,Robert Traylor,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:15 PM
+304,0,8,321,0020100560,,,0:28,3,5,5,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,164,Chris Childs,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Childs FOR Davis,10:15 PM
+305,0,8,322,0020100560,SUB: Drew FOR Wesley,,0:28,3,4,4,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,1724,Bryce Drew,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,10:15 PM
+306,11,3,324,0020100560,,,0:28,3,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,76 - 70,-6,Carter Free Throw 1 of 2 (30 PTS),10:16 PM
+307,12,3,325,0020100560,,,0:28,3,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter Free Throw 2 of 2,10:16 PM
+308,0,4,326,0020100560,Traylor REBOUND (Off:0 Def:1),,0:25,3,4,0,0,1714,Robert Traylor,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:16 PM
+309,5,1,328,0020100560,Magloire  Layup (10 PTS) (Davis 5 AST),,0:06,3,4,4,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,76 - 72,-4,,10:16 PM
+310,1,2,330,0020100560,,,0:00,3,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter 36' 3PT Jump Shot,10:16 PM
+311,0,4,332,0020100560,,,0:00,3,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,10:17 PM
+312,0,13,331,0020100560,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,76 - 72,-4,,10:17 PM
+313,0,12,334,0020100560,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,76 - 72,-4,,10:19 PM
+314,1,1,335,0020100560,Davis 27' 3PT Jump Shot (15 PTS) (Augmon 1 AST),,11:43,4,4,4,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,76 - 75,-1,,10:19 PM
+315,2,5,336,0020100560,Augmon STEAL (1 STL),,11:25,4,5,4,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,Davis Lost Ball Turnover (P1.T5),10:19 PM
+316,4,5,337,0020100560,Traylor Traveling Turnover (P1.T8),,11:25,4,4,0,1,1714,Robert Traylor,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:20 PM
+317,1,1,338,0020100560,,,11:09,4,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,78 - 75,-3,Carter 21' Jump Shot (32 PTS),10:20 PM
+318,1,2,339,0020100560,MISS Augmon 15' Jump Shot,,10:44,4,4,0,0,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:20 PM
+319,0,4,341,0020100560,Magloire REBOUND (Off:3 Def:1),,10:43,4,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:20 PM
+320,4,2,340,0020100560,MISS Magloire  Tip Shot,,10:43,4,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:20 PM
+321,0,4,342,0020100560,,,10:43,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,10:21 PM
+322,1,2,343,0020100560,,,10:20,4,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter 27' 3PT Jump Shot,10:21 PM
+323,0,4,344,0020100560,Augmon REBOUND (Off:0 Def:1),,10:18,4,4,0,0,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:21 PM
+324,1,5,345,0020100560,Augmon Bad Pass Turnover (P1.T9),,10:14,4,4,5,0,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Carter STEAL (1 STL),10:21 PM
+325,1,2,346,0020100560,,,10:04,4,5,0,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Curry 20' Jump Shot,10:22 PM
+326,0,4,347,0020100560,Traylor REBOUND (Off:0 Def:2),,10:02,4,4,0,0,1714,Robert Traylor,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:22 PM
+327,1,2,348,0020100560,MISS Davis 18' Jump Shot,,9:49,4,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:22 PM
+328,0,4,349,0020100560,Magloire REBOUND (Off:4 Def:1),,9:48,4,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:22 PM
+329,2,6,350,0020100560,,,9:48,4,5,0,1,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis S.FOUL (P4.T1),10:22 PM
+330,11,3,351,0020100560,Magloire Free Throw 1 of 2 (11 PTS),,9:48,4,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,78 - 76,-2,,10:22 PM
+331,0,8,352,0020100560,SUB: Wesley FOR Davis,,9:48,4,4,4,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,10:23 PM
+332,12,3,353,0020100560,Magloire Free Throw 2 of 2 (12 PTS),,9:48,4,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,78 - 77,-1,,10:23 PM
+333,0,8,354,0020100560,SUB: Campbell FOR Magloire,,9:48,4,4,4,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,10:23 PM
+334,7,5,356,0020100560,,,9:30,4,5,0,1,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Clark Discontinue Dribble Turnover (P1.T6),10:24 PM
+335,1,2,357,0020100560,MISS Drew 24' 3PT Jump Shot,,9:24,4,4,0,0,1724,Bryce Drew,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:24 PM
+336,0,4,358,0020100560,,,9:20,4,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Clark REBOUND (Off:2 Def:2),10:24 PM
+337,0,8,359,0020100560,,,9:03,4,5,5,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Williams FOR Curry,10:24 PM
+338,1,2,360,0020100560,,,8:58,4,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Clark 14' Jump Shot,10:25 PM
+339,0,4,362,0020100560,,,8:56,4,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Carter REBOUND (Off:2 Def:0),10:25 PM
+340,4,2,361,0020100560,,,8:56,4,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter  Tip Shot,10:25 PM
+341,0,4,363,0020100560,Augmon REBOUND (Off:0 Def:2),,8:56,4,4,0,0,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:25 PM
+342,1,6,364,0020100560,,,8:56,4,5,0,1,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Carter P.FOUL (P5.T2),10:25 PM
+343,4,9,365,0020100560,,,8:56,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:25 PM
+344,0,8,367,0020100560,,,8:56,4,5,5,0,164,Chris Childs,TOR,Toronto,1610612761.0,Raptors,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Curry FOR Childs,10:27 PM
+345,0,8,368,0020100560,,,8:56,4,5,5,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Williams FOR Carter,10:27 PM
+346,2,6,369,0020100560,,,8:39,4,5,0,1,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis S.FOUL (P5.T3),10:27 PM
+347,11,3,370,0020100560,Campbell Free Throw 1 of 2 (20 PTS),,8:39,4,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,78 - 78,TIE,,10:28 PM
+348,12,3,371,0020100560,MISS Campbell Free Throw 2 of 2,,8:39,4,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:28 PM
+349,0,4,372,0020100560,,,8:38,4,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Clark REBOUND (Off:2 Def:3),10:28 PM
+350,2,6,373,0020100560,Traylor S.FOUL (P2.T1),,8:25,4,4,0,1,1714,Robert Traylor,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:28 PM
+351,11,3,374,0020100560,,,8:25,4,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Clark Free Throw 1 of 2,10:28 PM
+352,1,4,375,0020100560,,,8:25,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,10:28 PM
+353,0,8,376,0020100560,SUB: Davis FOR Drew,,8:25,4,4,4,0,1724,Bryce Drew,CHH,Charlotte,1610612766.0,Hornets,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,10:29 PM
+354,0,8,377,0020100560,SUB: Brown FOR Traylor,,8:25,4,4,4,0,1714,Robert Traylor,CHH,Charlotte,1610612766.0,Hornets,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,10:29 PM
+355,12,3,378,0020100560,,,8:25,4,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,79 - 78,-1,Clark Free Throw 2 of 2 (7 PTS),10:29 PM
+356,4,6,379,0020100560,Campbell OFF.Foul (P5),,8:07,4,4,0,1,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:29 PM
+357,5,5,380,0020100560,Campbell Foul Turnover (P2.T10),,8:07,4,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:29 PM
+358,2,6,381,0020100560,Brown S.FOUL (P1.T2),,7:54,4,4,0,1,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:30 PM
+359,0,8,382,0020100560,SUB: Magloire FOR Campbell,,7:54,4,4,4,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,10:30 PM
+360,11,3,383,0020100560,,,7:54,4,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,80 - 78,-2,Davis Free Throw 1 of 2 (11 PTS),10:30 PM
+361,12,3,384,0020100560,,,7:54,4,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Davis Free Throw 2 of 2,10:30 PM
+362,0,4,385,0020100560,Brown REBOUND (Off:6 Def:6),,7:52,4,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:30 PM
+363,1,2,386,0020100560,MISS Augmon 18' Jump Shot,,7:37,4,4,0,0,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:31 PM
+364,0,4,387,0020100560,Magloire REBOUND (Off:5 Def:1),,7:34,4,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:31 PM
+365,1,5,388,0020100560,Magloire Bad Pass Turnover (P1.T11),,7:33,4,4,5,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Williams STEAL (1 STL),10:31 PM
+366,5,2,389,0020100560,,,7:28,4,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams  Layup,10:31 PM
+367,0,4,390,0020100560,Brown REBOUND (Off:6 Def:7),,7:25,4,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:31 PM
+368,5,1,391,0020100560,Magloire  Layup (14 PTS) (Davis 6 AST),,7:13,4,4,4,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,80 - 80,TIE,,10:31 PM
+369,1,1,392,0020100560,,,6:50,4,5,5,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,83 - 80,-3,Curry 25' 3PT Jump Shot (6 PTS) (Davis 4 AST),10:31 PM
+370,1,2,393,0020100560,MISS Wesley 25' 3PT Jump Shot,,6:24,4,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:32 PM
+371,0,4,394,0020100560,Magloire REBOUND (Off:6 Def:1),,6:24,4,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:32 PM
+372,53,2,395,0020100560,MISS Magloire 2' Tip Shot,,6:24,4,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:32 PM
+373,0,4,397,0020100560,Magloire REBOUND (Off:7 Def:1),,6:09,4,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:32 PM
+374,1,1,396,0020100560,Davis 21' Jump Shot (17 PTS),,6:09,4,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,83 - 82,-1,,10:32 PM
+375,1,5,398,0020100560,,,5:47,4,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Clark Bad Pass Turnover (P2.T7),10:33 PM
+376,1,9,399,0020100560,HORNETS Timeout: Regular (Full 4 Short 1),,5:47,4,2,0,0,1610612740,,,,,,0,,,,,,0,,,,,,,,,10:33 PM
+377,1,1,401,0020100560,Augmon 18' Jump Shot (2 PTS) (Wesley 8 AST),,5:28,4,4,4,0,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,83 - 84,1,,10:35 PM
+378,49,1,402,0020100560,,,5:05,4,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,85 - 84,-1,Davis  Driving Dunk (13 PTS),10:36 PM
+379,1,6,403,0020100560,,,4:42,4,5,0,1,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Clark P.FOUL (P2.T4),10:36 PM
+380,1,2,404,0020100560,MISS Wesley 19' Jump Shot,,4:31,4,4,0,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:37 PM
+381,0,4,405,0020100560,,,4:29,4,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Clark REBOUND (Off:2 Def:4),10:37 PM
+382,1,6,406,0020100560,Augmon P.FOUL (P1.T3),,4:13,4,4,0,1,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:37 PM
+383,0,8,407,0020100560,,,4:13,4,5,5,0,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Carter FOR Williams,10:37 PM
+384,5,2,408,0020100560,Magloire BLOCK (1 BLK),,4:02,4,5,0,4,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,,,MISS Clark  Layup,10:38 PM
+385,0,4,409,0020100560,,,4:00,4,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Clark REBOUND (Off:3 Def:4),10:38 PM
+386,1,1,410,0020100560,,,3:57,4,5,5,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,87 - 84,-3,Curry 19' Jump Shot (8 PTS) (Clark 1 AST),10:38 PM
+387,2,5,411,0020100560,Brown Lost Ball Turnover (P2.T12),,3:40,4,4,5,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Williams STEAL (2 STL),10:38 PM
+388,1,1,412,0020100560,,,3:27,4,5,5,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,89 - 84,-5,Carter 16' Jump Shot (34 PTS) (Davis 5 AST),10:38 PM
+389,1,9,413,0020100560,HORNETS Timeout: Regular (Full 5 Short 1),,3:23,4,2,0,0,1610612740,,,,,,0,,,,,,0,,,,,,,,,10:38 PM
+390,0,8,416,0020100560,SUB: Campbell FOR Magloire,,3:23,4,4,4,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,10:40 PM
+391,5,2,417,0020100560,MISS Campbell  Layup,,3:12,4,4,0,5,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,,,Clark BLOCK (1 BLK),10:40 PM
+392,0,4,418,0020100560,,,3:09,4,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:1 Def:6),10:40 PM
+393,3,2,419,0020100560,,,2:49,4,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter 12' Hook Shot,10:41 PM
+394,0,4,420,0020100560,Campbell REBOUND (Off:0 Def:4),,2:45,4,4,0,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:41 PM
+395,1,2,421,0020100560,MISS Davis 16' Jump Shot,,2:39,4,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:41 PM
+396,0,4,422,0020100560,,,2:37,4,5,0,0,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Davis REBOUND (Off:1 Def:7),10:41 PM
+397,1,9,423,0020100560,,,2:29,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Regular (Reg.4 Short 0),10:41 PM
+398,2,9,425,0020100560,,,2:29,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Timeout: Short (Reg.4 Short 1),10:43 PM
+399,1,6,426,0020100560,Augmon P.FOUL (P2.T4),,2:17,4,4,0,1,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:44 PM
+400,1,5,427,0020100560,Campbell STEAL (1 STL),,2:06,4,5,4,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,Curry Bad Pass Turnover (P1.T8),10:45 PM
+401,2,6,428,0020100560,,,1:49,4,5,0,1,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Clark S.FOUL (P3.PN),10:45 PM
+402,11,3,429,0020100560,Brown Free Throw 1 of 2 (6 PTS),,1:49,4,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,89 - 85,-4,,10:45 PM
+403,12,3,430,0020100560,Brown Free Throw 2 of 2 (7 PTS),,1:49,4,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,89 - 86,-3,,10:46 PM
+404,5,2,431,0020100560,Brown BLOCK (1 BLK),,1:34,4,5,0,4,213,Antonio Davis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,,,MISS Davis  Layup,10:46 PM
+405,0,4,432,0020100560,,,1:34,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,10:46 PM
+406,1,2,433,0020100560,Wesley BLOCK (1 BLK),,1:32,4,5,0,4,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,,,MISS Curry 19' Jump Shot,10:46 PM
+407,0,4,434,0020100560,,,1:32,4,3,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,Raptors Rebound,10:47 PM
+408,1,2,435,0020100560,,,1:24,4,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Williams 18' Jump Shot,10:47 PM
+409,0,4,436,0020100560,Augmon REBOUND (Off:0 Def:3),,1:22,4,4,0,0,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:47 PM
+410,1,1,437,0020100560,Campbell 16' Jump Shot (22 PTS) (Wesley 9 AST),,1:05,4,4,4,0,922,Elden Campbell,CHH,Charlotte,1610612766.0,Hornets,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,89 - 88,-1,,10:47 PM
+411,1,2,438,0020100560,,,0:44,4,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Carter 17' Jump Shot,10:48 PM
+412,0,4,439,0020100560,,,0:42,4,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:1 Def:0),10:48 PM
+413,1,2,440,0020100560,,,0:38,4,5,0,0,209,Dell Curry,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,MISS Curry 25' 3PT Jump Shot,10:48 PM
+414,0,4,441,0020100560,Brown REBOUND (Off:6 Def:8),,0:35,4,4,0,0,136,P.J. Brown,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:48 PM
+415,1,2,442,0020100560,MISS Davis 18' Jump Shot,,0:17,4,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:48 PM
+416,0,4,443,0020100560,,,0:15,4,5,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Carter REBOUND (Off:2 Def:1),10:48 PM
+417,1,6,444,0020100560,Augmon P.FOUL (P3.PN),,0:06,4,4,0,1,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:48 PM
+418,11,3,445,0020100560,,,0:06,4,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,90 - 88,-2,Williams Free Throw 1 of 2 (10 PTS),10:49 PM
+419,12,3,446,0020100560,,,0:06,4,5,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,91 - 88,-3,Williams Free Throw 2 of 2 (11 PTS),10:49 PM
+420,1,9,447,0020100560,HORNETS Timeout: Regular (Full 6 Short 1),,0:06,4,2,0,0,1610612740,,,,,,0,,,,,,0,,,,,,,,,10:49 PM
+421,0,8,449,0020100560,SUB: Drew FOR Augmon,,0:06,4,4,4,0,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,1724,Bryce Drew,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,10:51 PM
+422,1,6,450,0020100560,,,0:01,4,5,0,1,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Carter P.FOUL (P6.PN),10:52 PM
+423,0,8,451,0020100560,,,0:01,4,5,5,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,966,Jerome Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,SUB: Williams FOR Carter,10:52 PM
+424,0,8,452,0020100560,SUB: Augmon FOR Drew,,0:01,4,4,4,0,1724,Bryce Drew,CHH,Charlotte,1610612766.0,Hornets,278,Stacey Augmon,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,10:52 PM
+425,0,8,453,0020100560,SUB: Magloire FOR Wesley,,0:01,4,4,4,0,133,David Wesley,CHH,Charlotte,1610612766.0,Hornets,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,,,,10:52 PM
+426,11,3,454,0020100560,Davis Free Throw 1 of 2 (18 PTS),,0:01,4,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,91 - 89,-2,,10:53 PM
+427,12,3,455,0020100560,MISS Davis Free Throw 2 of 2,,0:01,4,4,0,0,1884,Baron Davis,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:53 PM
+428,0,4,457,0020100560,Magloire REBOUND (Off:8 Def:1),,0:00,4,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:53 PM
+429,5,2,456,0020100560,MISS Magloire  Layup,,0:00,4,4,0,0,2048,Jamaal Magloire,CHH,Charlotte,1610612766.0,Hornets,0,,,,,,0,,,,,,,,,10:53 PM
+430,0,4,458,0020100560,,,0:00,4,5,0,0,1721,Keon Clark,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,Clark REBOUND (Off:3 Def:5),10:53 PM
+431,0,13,459,0020100560,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,91 - 89,-2,,10:54 PM

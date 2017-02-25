@@ -1,0 +1,456 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,1,0020500983,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,2:17 PM
+1,0,10,2,0020500983,Jump Ball Smith vs. Howard: Tip to Battie,,12:00,1,4,5,5,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,,,,2:18 PM
+2,1,2,3,0020500983,,,11:37,1,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Nelson 18' Jump Shot,2:19 PM
+3,0,4,4,0020500983,Pachulia REBOUND (Off:0 Def:1),,11:35,1,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:19 PM
+4,1,2,5,0020500983,MISS Harrington 19' Jump Shot,,11:13,1,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:20 PM
+5,0,4,6,0020500983,HAWKS Rebound,,11:11,1,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,2:20 PM
+6,1,2,7,0020500983,MISS Johnson 15' Jump Shot,,11:02,1,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:20 PM
+7,0,4,8,0020500983,,,11:00,1,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:1),2:20 PM
+8,1,1,9,0020500983,,,10:51,1,5,5,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,2 - 0,-2,Battie 13' Jump Shot (2 PTS) (Turkoglu 1 AST),2:20 PM
+9,1,1,10,0020500983,Ivey 16' Jump Shot (2 PTS) (Harrington 1 AST),,10:33,1,4,4,0,2767,Royal Ivey,ATL,Atlanta,1610612737.0,Hawks,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,2 - 2,TIE,,2:21 PM
+10,2,7,12,0020500983,Smith Violation:Defensive Goaltending,,10:16,1,4,0,1,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:21 PM
+11,1,1,11,0020500983,,,10:16,1,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,4 - 2,-2,Howard 5' Jump Shot (2 PTS),2:21 PM
+12,1,2,13,0020500983,MISS Pachulia 15' Jump Shot,,9:58,1,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:22 PM
+13,0,4,15,0020500983,Pachulia REBOUND (Off:1 Def:1),,9:55,1,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:22 PM
+14,5,1,14,0020500983,Pachulia  Layup (2 PTS),,9:55,1,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,4 - 4,TIE,,2:22 PM
+15,1,2,16,0020500983,,,9:36,1,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Howard 7' Jump Shot,2:22 PM
+16,0,4,17,0020500983,Harrington REBOUND (Off:0 Def:1),,9:35,1,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:22 PM
+17,5,2,18,0020500983,MISS Pachulia  Layup,,9:30,1,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:22 PM
+18,0,4,19,0020500983,,,9:28,1,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:2),2:22 PM
+19,1,1,20,0020500983,,,9:10,1,5,5,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,6 - 4,-2,Battie 17' Jump Shot (4 PTS) (Nelson 1 AST),2:23 PM
+20,46,1,21,0020500983,Johnson 6' Running Jump Shot (2 PTS),,8:57,1,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,6 - 6,TIE,,2:23 PM
+21,2,6,22,0020500983,Johnson S.FOUL (P1.T1),,8:39,1,4,5,1,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,2:23 PM
+22,11,3,23,0020500983,,,8:39,1,5,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,7 - 6,-1,Turkoglu Free Throw 1 of 2 (1 PTS),2:24 PM
+23,12,3,24,0020500983,,,8:39,1,5,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,8 - 6,-2,Turkoglu Free Throw 2 of 2 (2 PTS),2:24 PM
+24,5,2,26,0020500983,MISS Pachulia  Layup,,8:25,1,4,0,5,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,,,Howard BLOCK (1 BLK),2:24 PM
+25,0,4,27,0020500983,HAWKS Rebound,,8:25,1,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,2:24 PM
+26,1,2,28,0020500983,MISS Harrington 14' Jump Shot,,8:22,1,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:25 PM
+27,0,4,29,0020500983,Smith REBOUND (Off:1 Def:0),,8:20,1,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:25 PM
+28,1,1,30,0020500983,Smith 3' Jump Shot (2 PTS),,8:18,1,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,8 - 8,TIE,,2:25 PM
+29,2,6,31,0020500983,,,8:18,1,5,4,1,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Turkoglu S.FOUL (P1.T1),2:25 PM
+30,10,3,32,0020500983,MISS Smith Free Throw 1 of 1,,8:18,1,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:25 PM
+31,0,4,33,0020500983,,,8:16,1,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:3),2:25 PM
+32,7,1,34,0020500983,,,8:01,1,5,5,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,10 - 8,-2,Battie 1' Dunk (6 PTS) (Turkoglu 2 AST),2:25 PM
+33,1,2,35,0020500983,MISS Johnson 20' Jump Shot,,7:40,1,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:26 PM
+34,0,4,36,0020500983,,,7:38,1,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Nelson REBOUND (Off:0 Def:1),2:26 PM
+35,1,2,37,0020500983,,,7:27,1,5,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Turkoglu 3' Jump Shot,2:26 PM
+36,0,4,39,0020500983,,,7:25,1,5,0,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Battie REBOUND (Off:1 Def:0),2:26 PM
+37,5,1,38,0020500983,,,7:25,1,5,0,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,12 - 8,-4,Battie  Layup (8 PTS),2:26 PM
+38,1,1,40,0020500983,Harrington 18' Jump Shot (2 PTS) (Johnson 1 AST),,7:16,1,4,4,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,12 - 10,-2,,2:26 PM
+39,5,2,41,0020500983,,,6:58,1,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Howard  Layup,2:27 PM
+40,0,4,43,0020500983,,,6:56,1,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:1 Def:3),2:27 PM
+41,7,1,42,0020500983,,,6:56,1,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,14 - 10,-4,Howard  Dunk (4 PTS),2:27 PM
+42,2,5,44,0020500983,Pachulia Lost Ball Turnover (P1.T1),,6:38,1,4,5,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Turkoglu STEAL (1 STL),2:27 PM
+43,5,1,45,0020500983,,,6:33,1,5,5,0,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,16 - 10,-6,Stevenson  Layup (2 PTS) (Turkoglu 3 AST),2:27 PM
+44,1,9,46,0020500983,HAWKS Timeout: Regular (Full 1 Short 0),,6:23,1,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,2:27 PM
+45,1,1,48,0020500983,Johnson 24' 3PT Jump Shot (5 PTS) (Ivey 1 AST),,6:17,1,4,4,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2767,Royal Ivey,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,16 - 13,-3,,2:30 PM
+46,1,2,49,0020500983,,,5:51,1,5,0,0,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Stevenson 16' Jump Shot,2:30 PM
+47,0,4,50,0020500983,Smith REBOUND (Off:1 Def:1),,5:49,1,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:30 PM
+48,2,6,51,0020500983,,,5:47,1,5,4,1,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Nelson S.FOUL (P1.T2),2:30 PM
+49,11,3,52,0020500983,Smith Free Throw 1 of 2 (3 PTS),,5:47,1,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,16 - 14,-2,,2:30 PM
+50,0,8,53,0020500983,SUB: Childress FOR Ivey,,5:47,1,4,4,0,2767,Royal Ivey,ATL,Atlanta,1610612737.0,Hawks,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,2:31 PM
+51,12,3,54,0020500983,Smith Free Throw 2 of 2 (4 PTS),,5:47,1,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,16 - 15,-1,,2:31 PM
+52,1,1,55,0020500983,,,5:33,1,5,5,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,0,,,,,,19 - 15,-4,Turkoglu 24' 3PT Jump Shot (5 PTS) (Stevenson 1 AST),2:31 PM
+53,1,1,56,0020500983,Harrington 16' Jump Shot (4 PTS) (Smith 1 AST),,5:13,1,4,4,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,19 - 17,-2,,2:31 PM
+54,1,1,57,0020500983,,,4:59,1,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,21 - 17,-4,Nelson 20' Jump Shot (2 PTS),2:32 PM
+55,1,6,58,0020500983,,,4:36,1,5,4,1,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Stevenson P.FOUL (P1.T3),2:32 PM
+56,1,1,59,0020500983,Johnson 17' Jump Shot (7 PTS) (Childress 1 AST),,4:29,1,4,4,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,21 - 19,-2,,2:32 PM
+57,17,6,61,0020500983,HAWKS T.Foul (Def. 3 Sec Harrington ),,4:16,1,4,0,1,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:33 PM
+58,16,3,62,0020500983,,,4:16,1,5,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,22 - 19,-3,Turkoglu Free Throw Technical (6 PTS),2:33 PM
+59,0,8,63,0020500983,SUB: Williams FOR Harrington,,4:16,1,4,4,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,2:33 PM
+60,1,1,64,0020500983,,,4:04,1,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,24 - 19,-5,Nelson 18' Jump Shot (4 PTS),2:34 PM
+61,1,2,65,0020500983,MISS Williams 16' Jump Shot,,3:41,1,4,0,0,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:34 PM
+62,0,4,66,0020500983,Williams REBOUND (Off:1 Def:0),,3:39,1,4,0,0,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:34 PM
+63,5,1,67,0020500983,Williams  Layup (2 PTS),,3:39,1,4,0,0,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,24 - 21,-3,,2:34 PM
+64,2,6,68,0020500983,,,3:39,1,5,4,1,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Nelson S.FOUL (P2.T4),2:34 PM
+65,10,3,69,0020500983,Williams Free Throw 1 of 1 (3 PTS),,3:39,1,4,0,0,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,24 - 22,-2,,2:34 PM
+66,4,5,70,0020500983,,,3:24,1,5,0,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard Traveling Turnover (P1.T1),2:35 PM
+67,0,8,71,0020500983,,,3:24,1,5,5,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Arroyo FOR Nelson,2:35 PM
+68,1,1,72,0020500983,Smith 15' Jump Shot (6 PTS),,3:08,1,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,24 - 24,TIE,,2:35 PM
+69,1,1,73,0020500983,,,2:53,1,5,5,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,26 - 24,-2,Turkoglu 18' Jump Shot (8 PTS) (Arroyo 1 AST),2:35 PM
+70,1,1,74,0020500983,Pachulia 3' Jump Shot (4 PTS) (Smith 2 AST),,2:39,1,4,4,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,26 - 26,TIE,,2:36 PM
+71,1,6,75,0020500983,Williams P.FOUL (P1.T2),,2:24,1,4,5,1,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,2:36 PM
+72,1,9,76,0020500983,,,2:24,1,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.1 Short 0),2:36 PM
+73,0,8,77,0020500983,,,2:24,1,5,5,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Milicic FOR Battie,2:38 PM
+74,1,1,78,0020500983,,,2:13,1,5,5,0,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,28 - 26,-2,Stevenson 4' Jump Shot (4 PTS) (Arroyo 2 AST),2:39 PM
+75,5,1,79,0020500983,Childress  Layup (2 PTS) (Johnson 2 AST),,1:57,1,4,4,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,28 - 28,TIE,,2:39 PM
+76,1,1,80,0020500983,,,1:40,1,5,0,0,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,30 - 28,-2,Milicic 6' Jump Shot (2 PTS),2:39 PM
+77,1,2,81,0020500983,MISS Childress 25' 3PT Jump Shot,,1:21,1,4,0,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:40 PM
+78,0,4,82,0020500983,,,1:18,1,5,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Turkoglu REBOUND (Off:0 Def:1),2:40 PM
+79,1,2,83,0020500983,,,1:07,1,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Howard 7' Jump Shot,2:40 PM
+80,0,4,84,0020500983,Smith REBOUND (Off:1 Def:2),,1:05,1,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:40 PM
+81,0,8,85,0020500983,SUB: Stoudamire FOR Johnson,,1:03,1,4,4,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,101136,Salim Stoudamire,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,2:40 PM
+82,0,8,86,0020500983,,,1:03,1,5,5,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Outlaw FOR Howard,2:40 PM
+83,4,5,87,0020500983,Pachulia Traveling Turnover (P2.T2),,0:59,1,4,0,1,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:41 PM
+84,0,8,88,0020500983,,,0:59,1,5,5,0,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Dooling FOR Stevenson,2:41 PM
+85,1,1,89,0020500983,,,0:42,1,5,0,0,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,32 - 28,-4,Milicic 15' Jump Shot (4 PTS),2:42 PM
+86,1,2,90,0020500983,MISS Stoudamire 19' Jump Shot,,0:25,1,4,0,0,101136,Salim Stoudamire,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:42 PM
+87,0,4,91,0020500983,Pachulia REBOUND (Off:2 Def:1),,0:23,1,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:42 PM
+88,5,2,92,0020500983,MISS Stoudamire  Layup,,0:01,1,4,0,0,101136,Salim Stoudamire,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:42 PM
+89,0,4,94,0020500983,Pachulia REBOUND (Off:3 Def:1),,0:00,1,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:42 PM
+90,5,2,93,0020500983,MISS Pachulia  Layup,,0:00,1,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:42 PM
+91,0,4,96,0020500983,Pachulia REBOUND (Off:4 Def:1),,0:00,1,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:42 PM
+92,4,2,95,0020500983,MISS Pachulia  Tip Shot,,0:00,1,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:42 PM
+93,0,4,97,0020500983,,,0:00,1,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,2:42 PM
+94,0,13,98,0020500983,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,32 - 28,-4,,2:42 PM
+95,0,12,100,0020500983,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,32 - 28,-4,,2:45 PM
+96,1,2,102,0020500983,MISS Williams 20' Jump Shot,,11:42,2,4,0,0,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:45 PM
+97,0,4,103,0020500983,,,11:40,2,5,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Turkoglu REBOUND (Off:0 Def:2),2:45 PM
+98,2,6,104,0020500983,Edwards S.FOUL (P1.T1),,11:31,2,4,5,1,2823,John Edwards,ATL,Atlanta,1610612737.0,Hawks,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,2:46 PM
+99,11,3,105,0020500983,,,11:31,2,5,0,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,33 - 28,-5,Dooling Free Throw 1 of 2 (1 PTS),2:46 PM
+100,12,3,106,0020500983,,,11:31,2,5,0,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,34 - 28,-6,Dooling Free Throw 2 of 2 (2 PTS),2:46 PM
+101,1,6,107,0020500983,,,11:22,2,5,4,1,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Turkoglu P.FOUL (P2.T1),2:46 PM
+102,0,8,108,0020500983,,,11:22,2,5,5,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Ariza FOR Turkoglu,2:47 PM
+103,1,2,109,0020500983,MISS Harrington 8' Jump Shot,,11:10,2,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:47 PM
+104,0,4,110,0020500983,,,11:09,2,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:0 Def:1),2:47 PM
+105,1,2,111,0020500983,,,10:47,2,5,0,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Dooling 19' Jump Shot,2:47 PM
+106,0,4,112,0020500983,Edwards REBOUND (Off:0 Def:1),,10:46,2,4,0,0,2823,John Edwards,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:47 PM
+107,2,6,113,0020500983,,,10:39,2,5,4,1,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,101136,Salim Stoudamire,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Arroyo S.FOUL (P1.T2),2:48 PM
+108,11,3,114,0020500983,Stoudamire Free Throw 1 of 2 (1 PTS),,10:39,2,4,0,0,101136,Salim Stoudamire,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,34 - 29,-5,,2:48 PM
+109,12,3,115,0020500983,Stoudamire Free Throw 2 of 2 (2 PTS),,10:39,2,4,0,0,101136,Salim Stoudamire,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,34 - 30,-4,,2:48 PM
+110,2,6,116,0020500983,Harrington S.FOUL (P1.T2),,10:26,2,4,5,1,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,2:49 PM
+111,11,3,117,0020500983,,,10:26,2,5,0,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,35 - 30,-5,Dooling Free Throw 1 of 2 (3 PTS),2:49 PM
+112,12,3,118,0020500983,,,10:26,2,5,0,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,36 - 30,-6,Dooling Free Throw 2 of 2 (4 PTS),2:49 PM
+113,1,1,119,0020500983,Harrington 4' Jump Shot (6 PTS),,10:08,2,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,36 - 32,-4,,2:50 PM
+114,44,1,121,0020500983,,,9:49,2,5,0,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,38 - 32,-6,Dooling  Reverse Layup (6 PTS),2:50 PM
+115,1,2,122,0020500983,MISS Harrington 5' Jump Shot,,9:34,2,4,0,5,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,,,Milicic BLOCK (1 BLK),2:50 PM
+116,0,4,123,0020500983,,,9:31,2,5,0,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Dooling REBOUND (Off:0 Def:1),2:50 PM
+117,1,2,124,0020500983,,,9:24,2,5,0,0,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Milicic 23' Jump Shot,2:50 PM
+118,0,4,125,0020500983,Harrington REBOUND (Off:0 Def:2),,9:22,2,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:50 PM
+119,1,2,126,0020500983,MISS Stoudamire 25' 3PT Jump Shot,,9:16,2,4,0,0,101136,Salim Stoudamire,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:51 PM
+120,0,4,127,0020500983,,,9:15,2,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:0 Def:1),2:51 PM
+121,1,2,128,0020500983,,,8:56,2,5,0,0,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Arroyo 20' Jump Shot,2:51 PM
+122,0,4,130,0020500983,,,8:54,2,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:1 Def:1),2:51 PM
+123,4,2,129,0020500983,,,8:54,2,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Outlaw  Tip Shot,2:51 PM
+124,0,4,131,0020500983,Harrington REBOUND (Off:0 Def:3),,8:52,2,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:51 PM
+125,1,6,132,0020500983,,,8:46,2,5,4,1,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,101136,Salim Stoudamire,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Outlaw P.FOUL (P1.T3),2:51 PM
+126,4,9,133,0020500983,,,8:46,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,2:51 PM
+127,0,8,135,0020500983,SUB: Johnson FOR Williams,,8:46,2,4,4,0,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,2:53 PM
+128,1,2,137,0020500983,MISS Harrington  3PT Jump Shot,,8:32,2,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:54 PM
+129,0,4,138,0020500983,,,8:30,2,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:0 Def:2),2:54 PM
+130,2,6,139,0020500983,Edwards S.FOUL (P2.T3),,8:13,2,4,5,1,2823,John Edwards,ATL,Atlanta,1610612737.0,Hawks,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,2:54 PM
+131,11,3,140,0020500983,,,8:13,2,5,0,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,39 - 32,-7,Dooling Free Throw 1 of 2 (7 PTS),2:54 PM
+132,0,8,141,0020500983,SUB: Pachulia FOR Edwards,,8:13,2,4,4,0,2823,John Edwards,ATL,Atlanta,1610612737.0,Hawks,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,2:54 PM
+133,12,3,142,0020500983,,,8:13,2,5,0,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,40 - 32,-8,Dooling Free Throw 2 of 2 (8 PTS),2:54 PM
+134,1,2,143,0020500983,MISS Stoudamire 16' Jump Shot,,7:51,2,4,0,0,101136,Salim Stoudamire,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:55 PM
+135,0,4,144,0020500983,Pachulia REBOUND (Off:5 Def:1),,7:49,2,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:55 PM
+136,1,1,145,0020500983,Harrington 5' Jump Shot (8 PTS) (Stoudamire 1 AST),,7:43,2,4,4,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,101136,Salim Stoudamire,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,40 - 34,-6,,2:55 PM
+137,1,1,146,0020500983,,,7:21,2,5,0,0,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,42 - 34,-8,Arroyo 14' Jump Shot (2 PTS),2:56 PM
+138,5,2,147,0020500983,MISS Pachulia  Layup,,7:01,2,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:56 PM
+139,0,4,148,0020500983,HAWKS Rebound,,7:01,2,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,2:56 PM
+140,0,8,149,0020500983,SUB: Smith FOR Childress,,7:01,2,4,4,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,2:56 PM
+141,0,8,150,0020500983,,,7:01,2,5,5,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Howard FOR Outlaw,2:56 PM
+142,5,2,151,0020500983,MISS Harrington  Layup,,6:54,2,4,0,5,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,,,Milicic BLOCK (2 BLK),2:57 PM
+143,0,4,152,0020500983,,,6:52,2,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:0 Def:3),2:57 PM
+144,2,6,153,0020500983,Smith S.FOUL (P1.T4),,6:47,2,4,5,1,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,2:57 PM
+145,11,3,154,0020500983,,,6:47,2,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,43 - 34,-9,Ariza Free Throw 1 of 2 (1 PTS),2:57 PM
+146,12,3,155,0020500983,,,6:47,2,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,44 - 34,-10,Ariza Free Throw 2 of 2 (2 PTS),2:57 PM
+147,1,1,156,0020500983,Johnson 4' Jump Shot (9 PTS) (Pachulia 1 AST),,6:36,2,4,4,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,44 - 36,-8,,2:58 PM
+148,1,2,157,0020500983,,,6:16,2,5,0,0,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Arroyo 5' Jump Shot,2:58 PM
+149,0,4,158,0020500983,Smith REBOUND (Off:1 Def:3),,6:15,2,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:58 PM
+150,1,1,159,0020500983,Johnson 15' Jump Shot (11 PTS),,6:01,2,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,44 - 38,-6,,2:59 PM
+151,1,2,160,0020500983,,,5:38,2,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Ariza 18' Jump Shot,2:59 PM
+152,0,4,161,0020500983,Smith REBOUND (Off:1 Def:4),,5:37,2,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,2:59 PM
+153,7,1,162,0020500983,Harrington  Dunk (10 PTS) (Johnson 3 AST),,5:34,2,4,4,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,44 - 40,-4,,2:59 PM
+154,1,2,163,0020500983,,,5:10,2,5,0,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Dooling 7' Jump Shot,2:59 PM
+155,0,4,165,0020500983,,,5:08,2,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:1 Def:3),2:59 PM
+156,4,2,164,0020500983,,,5:08,2,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Ariza  Tip Shot,2:59 PM
+157,0,4,167,0020500983,,,5:06,2,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:2 Def:3),2:59 PM
+158,5,1,166,0020500983,,,5:06,2,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,46 - 40,-6,Ariza  Layup (4 PTS),3:00 PM
+159,43,1,168,0020500983,Smith  Alley Oop Layup (8 PTS) (Johnson 4 AST),,5:01,2,4,4,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,46 - 42,-4,,3:00 PM
+160,1,2,169,0020500983,,,4:41,2,5,0,0,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Arroyo 5' Jump Shot,3:00 PM
+161,0,4,170,0020500983,HAWKS Rebound,,4:41,2,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,3:00 PM
+162,1,9,171,0020500983,HAWKS Timeout: Regular (Full 2 Short 0),,4:41,2,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,3:00 PM
+163,0,8,172,0020500983,,,4:41,2,5,5,0,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Battie FOR Milicic,3:02 PM
+164,0,8,173,0020500983,SUB: Childress FOR Stoudamire,,4:41,2,4,4,0,101136,Salim Stoudamire,ATL,Atlanta,1610612737.0,Hawks,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,3:02 PM
+165,0,8,174,0020500983,,,4:41,2,5,5,0,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Stevenson FOR Arroyo,3:02 PM
+166,0,8,175,0020500983,,,4:41,2,5,5,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Nelson FOR Dooling,3:02 PM
+167,1,1,176,0020500983,Harrington 16' Jump Shot (12 PTS),,4:19,2,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,46 - 44,-2,,3:03 PM
+168,1,5,177,0020500983,Harrington STEAL (1 STL),,4:06,2,5,4,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Nelson Bad Pass Turnover (P1.T2),3:03 PM
+169,1,1,178,0020500983,Johnson 17' Jump Shot (13 PTS),,3:58,2,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,46 - 46,TIE,,3:03 PM
+170,1,1,179,0020500983,,,3:40,2,5,5,0,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,48 - 46,-2,Stevenson 19' Jump Shot (6 PTS) (Ariza 1 AST),3:03 PM
+171,1,1,180,0020500983,Harrington 25' 3PT Jump Shot (15 PTS) (Johnson 5 AST),,3:19,2,4,4,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,48 - 49,1,,3:04 PM
+172,1,2,181,0020500983,,,2:48,2,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Howard 10' Jump Shot,3:04 PM
+173,0,4,182,0020500983,Smith REBOUND (Off:1 Def:5),,2:46,2,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:04 PM
+174,1,1,183,0020500983,Johnson 26' 3PT Jump Shot (16 PTS) (Smith 3 AST),,2:41,2,4,4,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,48 - 52,4,,3:04 PM
+175,1,9,184,0020500983,,,2:31,2,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.2 Short 0),3:05 PM
+176,0,8,186,0020500983,,,2:31,2,5,5,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Turkoglu FOR Ariza,3:07 PM
+177,46,1,187,0020500983,,,2:22,2,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,50 - 52,2,Nelson 4' Running Jump Shot (6 PTS),3:07 PM
+178,5,2,188,0020500983,MISS Childress  Layup,,2:06,2,4,0,5,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,,,Howard BLOCK (2 BLK),3:07 PM
+179,0,4,189,0020500983,Pachulia REBOUND (Off:6 Def:1),,2:04,2,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:07 PM
+180,5,2,190,0020500983,MISS Pachulia  Layup,,2:02,2,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:07 PM
+181,0,4,191,0020500983,Pachulia REBOUND (Off:7 Def:1),,2:01,2,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:07 PM
+182,5,2,192,0020500983,MISS Pachulia  Layup,,2:00,2,4,0,5,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,,,Battie BLOCK (1 BLK),3:07 PM
+183,0,4,193,0020500983,Pachulia REBOUND (Off:8 Def:1),,1:59,2,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:07 PM
+184,2,6,194,0020500983,,,1:59,2,5,4,1,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Battie S.FOUL (P1.T4),3:08 PM
+185,11,3,195,0020500983,Pachulia Free Throw 1 of 2 (5 PTS),,1:59,2,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,50 - 53,3,,3:08 PM
+186,12,3,196,0020500983,MISS Pachulia Free Throw 2 of 2,,1:59,2,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:08 PM
+187,0,4,197,0020500983,,,1:57,2,5,0,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Battie REBOUND (Off:1 Def:1),3:08 PM
+188,1,1,198,0020500983,,,1:46,2,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,52 - 53,1,Nelson 21' Jump Shot (8 PTS),3:08 PM
+189,1,1,199,0020500983,Harrington 26' 3PT Jump Shot (18 PTS) (Johnson 6 AST),,1:28,2,4,4,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,52 - 56,4,,3:09 PM
+190,2,6,200,0020500983,Johnson S.FOUL (P2.PN),,1:10,2,4,5,1,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,3:09 PM
+191,11,3,201,0020500983,,,1:10,2,5,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,53 - 56,3,Turkoglu Free Throw 1 of 2 (9 PTS),3:09 PM
+192,0,8,202,0020500983,SUB: Ivey FOR Johnson,,1:10,2,4,4,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2767,Royal Ivey,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,3:09 PM
+193,12,3,203,0020500983,,,1:10,2,5,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,54 - 56,2,Turkoglu Free Throw 2 of 2 (10 PTS),3:09 PM
+194,1,2,204,0020500983,MISS Smith 25' 3PT Jump Shot,,0:57,2,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:10 PM
+195,0,4,206,0020500983,Childress REBOUND (Off:1 Def:0),,0:56,2,4,0,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:10 PM
+196,5,1,205,0020500983,Childress  Layup (4 PTS),,0:56,2,4,0,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,54 - 58,4,,3:10 PM
+197,1,6,207,0020500983,Ivey P.FOUL (P1.PN),,0:38,2,4,5,1,2767,Royal Ivey,ATL,Atlanta,1610612737.0,Hawks,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,3:10 PM
+198,11,3,208,0020500983,,,0:38,2,5,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,55 - 58,3,Turkoglu Free Throw 1 of 2 (11 PTS),3:10 PM
+199,0,8,210,0020500983,,,0:38,2,5,5,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Arroyo FOR Nelson,3:11 PM
+200,12,3,211,0020500983,,,0:38,2,5,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,56 - 58,2,Turkoglu Free Throw 2 of 2 (12 PTS),3:11 PM
+201,5,2,212,0020500983,MISS Smith  Layup,,0:22,2,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:11 PM
+202,0,4,213,0020500983,,,0:21,2,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:1 Def:4),3:11 PM
+203,1,6,215,0020500983,Ivey P.FOUL (P2.PN),,0:00,2,4,5,1,2767,Royal Ivey,ATL,Atlanta,1610612737.0,Hawks,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,3:12 PM
+204,11,3,216,0020500983,,,0:00,2,5,0,0,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,57 - 58,1,Arroyo Free Throw 1 of 2 (3 PTS),3:12 PM
+205,12,3,217,0020500983,,,0:00,2,5,0,0,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,58 - 58,TIE,Arroyo Free Throw 2 of 2 (4 PTS),3:12 PM
+206,0,13,218,0020500983,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,58 - 58,TIE,,3:13 PM
+207,0,12,220,0020500983,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,58 - 58,TIE,,3:29 PM
+208,1,2,221,0020500983,MISS Ivey 18' Jump Shot,,11:42,3,4,0,0,2767,Royal Ivey,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:30 PM
+209,0,4,222,0020500983,,,11:41,3,5,0,0,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Stevenson REBOUND (Off:0 Def:1),3:30 PM
+210,1,1,223,0020500983,,,11:24,3,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,60 - 58,-2,Howard 5' Jump Shot (6 PTS),3:30 PM
+211,1,2,224,0020500983,MISS Ivey 6' Jump Shot,,11:03,3,4,0,0,2767,Royal Ivey,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:31 PM
+212,0,4,225,0020500983,,,11:01,3,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:1 Def:5),3:31 PM
+213,1,1,226,0020500983,,,10:39,3,5,0,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,62 - 58,-4,Battie 19' Jump Shot (10 PTS),3:31 PM
+214,1,2,227,0020500983,MISS Ivey 4' Jump Shot,,10:17,3,4,0,0,2767,Royal Ivey,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:31 PM
+215,0,4,229,0020500983,Pachulia REBOUND (Off:9 Def:1),,10:15,3,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:31 PM
+216,4,1,228,0020500983,Pachulia  Tip Shot (7 PTS),,10:15,3,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,62 - 60,-2,,3:31 PM
+217,4,6,230,0020500983,,,10:01,3,5,4,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Howard OFF.Foul (P1),3:32 PM
+218,5,5,231,0020500983,,,10:01,3,5,0,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard Foul Turnover (P2.T3),3:32 PM
+219,1,1,232,0020500983,Johnson 14' Jump Shot (18 PTS),,9:41,3,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,62 - 62,TIE,,3:32 PM
+220,1,2,233,0020500983,,,9:25,3,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Nelson 18' Jump Shot,3:33 PM
+221,0,4,234,0020500983,Johnson REBOUND (Off:0 Def:1),,9:22,3,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:33 PM
+222,1,2,235,0020500983,MISS Harrington 24' 3PT Jump Shot,,9:12,3,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:33 PM
+223,0,4,236,0020500983,Johnson REBOUND (Off:1 Def:1),,9:10,3,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:33 PM
+224,2,6,237,0020500983,,,9:09,3,5,4,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Howard S.FOUL (P2.T1),3:33 PM
+225,11,3,238,0020500983,MISS Smith Free Throw 1 of 2,,9:09,3,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:33 PM
+226,1,4,239,0020500983,HAWKS Rebound,,9:09,3,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,3:33 PM
+227,12,3,240,0020500983,MISS Smith Free Throw 2 of 2,,9:09,3,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:33 PM
+228,0,4,241,0020500983,,,9:08,3,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:1 Def:6),3:34 PM
+229,1,1,242,0020500983,,,8:49,3,5,5,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,64 - 62,-2,Battie 3' Jump Shot (12 PTS) (Howard 1 AST),3:34 PM
+230,5,2,243,0020500983,MISS Harrington  Layup,,8:43,3,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:34 PM
+231,0,4,244,0020500983,,,8:41,3,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:1 Def:7),3:34 PM
+232,10,5,245,0020500983,,,8:34,3,3,0,1,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Turnover: 8 Second Violation (T#4),3:34 PM
+233,4,6,247,0020500983,Pachulia OFF.Foul (P1),,8:22,3,4,5,1,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,3:35 PM
+234,5,5,248,0020500983,Pachulia Foul Turnover (P3.T3),,8:22,3,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:35 PM
+235,5,1,249,0020500983,,,8:08,3,5,5,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,66 - 62,-4,Turkoglu  Layup (14 PTS) (Howard 2 AST),3:35 PM
+236,1,6,250,0020500983,,,7:56,3,5,4,1,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Stevenson P.FOUL (P2.T2),3:35 PM
+237,1,1,251,0020500983,Johnson 24' 3PT Jump Shot (21 PTS) (Smith 4 AST),,7:47,3,4,4,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,66 - 65,-1,,3:36 PM
+238,1,2,252,0020500983,,,7:20,3,5,0,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Battie 6' Jump Shot,3:36 PM
+239,0,4,253,0020500983,Smith REBOUND (Off:1 Def:6),,7:18,3,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:36 PM
+240,41,5,254,0020500983,Smith Poss Lost Ball Turnover (P1.T4),,7:08,3,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:37 PM
+241,2,6,255,0020500983,Smith S.FOUL (P2.T1),,6:54,3,4,5,1,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,3:37 PM
+242,0,8,256,0020500983,SUB: Childress FOR Ivey,,6:54,3,4,4,0,2767,Royal Ivey,ATL,Atlanta,1610612737.0,Hawks,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,3:37 PM
+243,11,3,257,0020500983,,,6:54,3,5,0,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Battie Free Throw 1 of 2,3:37 PM
+244,1,4,258,0020500983,,,6:54,3,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,3:37 PM
+245,12,3,259,0020500983,,,6:54,3,5,0,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Battie Free Throw 2 of 2,3:38 PM
+246,0,4,260,0020500983,Harrington REBOUND (Off:0 Def:4),,6:53,3,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:38 PM
+247,1,2,261,0020500983,MISS Johnson 23' Jump Shot,,6:45,3,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:38 PM
+248,0,4,262,0020500983,,,6:43,3,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:1 Def:8),3:38 PM
+249,1,2,263,0020500983,,,6:29,3,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Howard 5' Jump Shot,3:38 PM
+250,0,4,264,0020500983,Harrington REBOUND (Off:0 Def:5),,6:28,3,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:38 PM
+251,5,2,265,0020500983,MISS Harrington  Layup,,6:08,3,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:39 PM
+252,0,4,267,0020500983,Johnson REBOUND (Off:2 Def:1),,6:04,3,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:39 PM
+253,5,2,266,0020500983,MISS Childress  Layup,,6:04,3,4,0,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:39 PM
+254,0,4,269,0020500983,Childress REBOUND (Off:2 Def:0),,6:03,3,4,0,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:39 PM
+255,4,1,268,0020500983,Childress  Tip Shot (6 PTS),,6:03,3,4,0,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,66 - 67,1,,3:39 PM
+256,1,2,270,0020500983,,,5:36,3,5,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Turkoglu 26' 3PT Jump Shot,3:39 PM
+257,0,4,271,0020500983,Smith REBOUND (Off:1 Def:7),,5:34,3,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:39 PM
+258,1,5,272,0020500983,Smith Bad Pass Turnover (P2.T5),,5:27,3,4,5,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Howard STEAL (1 STL),3:39 PM
+259,2,6,273,0020500983,Smith S.FOUL (P3.T2),,5:23,3,4,5,1,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,3:40 PM
+260,1,9,274,0020500983,HAWKS Timeout: Regular (Full 3 Short 0),,5:23,3,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,3:40 PM
+261,0,8,275,0020500983,SUB: Williams FOR Smith,,5:23,3,4,4,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,3:42 PM
+262,11,3,277,0020500983,,,5:23,3,5,0,0,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,67 - 67,TIE,Stevenson Free Throw 1 of 2 (7 PTS),3:42 PM
+263,12,3,278,0020500983,,,5:23,3,5,0,0,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,68 - 67,-1,Stevenson Free Throw 2 of 2 (8 PTS),3:42 PM
+264,2,6,279,0020500983,,,5:08,3,5,4,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Howard S.FOUL (P3.T3),3:43 PM
+265,11,3,280,0020500983,Williams Free Throw 1 of 2 (4 PTS),,5:08,3,4,0,0,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,68 - 68,TIE,,3:43 PM
+266,12,3,281,0020500983,MISS Williams Free Throw 2 of 2,,5:08,3,4,0,0,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:43 PM
+267,0,4,282,0020500983,,,5:06,3,5,0,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Battie REBOUND (Off:1 Def:2),3:44 PM
+268,1,2,283,0020500983,,,4:47,3,5,0,0,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Stevenson 19' Jump Shot,3:44 PM
+269,0,4,284,0020500983,Pachulia REBOUND (Off:9 Def:2),,4:45,3,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:44 PM
+270,1,1,285,0020500983,Pachulia 4' Jump Shot (9 PTS) (Johnson 7 AST),,4:27,3,4,4,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,68 - 70,2,,3:44 PM
+271,2,6,286,0020500983,Harrington S.FOUL (P2.T3),,4:11,3,4,5,1,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,3:45 PM
+272,11,3,287,0020500983,,,4:11,3,5,0,0,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,69 - 70,1,Stevenson Free Throw 1 of 2 (9 PTS),3:45 PM
+273,12,3,288,0020500983,,,4:11,3,5,0,0,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,70 - 70,TIE,Stevenson Free Throw 2 of 2 (10 PTS),3:45 PM
+274,1,2,289,0020500983,MISS Childress 5' Jump Shot,,3:46,3,4,0,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:46 PM
+275,0,4,290,0020500983,,,3:44,3,5,0,0,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Stevenson REBOUND (Off:0 Def:2),3:46 PM
+276,2,6,291,0020500983,Harrington S.FOUL (P3.T4),,3:41,3,4,5,1,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,3:46 PM
+277,11,3,292,0020500983,,,3:41,3,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,71 - 70,-1,Howard Free Throw 1 of 2 (7 PTS),3:46 PM
+278,0,8,293,0020500983,,,3:41,3,5,5,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Milicic FOR Battie,3:46 PM
+279,0,8,294,0020500983,SUB: Stoudamire FOR Harrington,,3:41,3,4,4,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,101136,Salim Stoudamire,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,3:46 PM
+280,12,3,295,0020500983,,,3:41,3,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Howard Free Throw 2 of 2,3:46 PM
+281,0,4,296,0020500983,,,3:39,3,5,0,0,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Milicic REBOUND (Off:1 Def:0),3:47 PM
+282,1,1,297,0020500983,,,3:32,3,5,5,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,74 - 70,-4,Nelson 25' 3PT Jump Shot (11 PTS) (Turkoglu 4 AST),3:47 PM
+283,1,2,298,0020500983,MISS Williams 11' Jump Shot,,3:05,3,4,0,0,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:47 PM
+284,0,4,299,0020500983,HAWKS Rebound,,3:05,3,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,3:47 PM
+285,3,6,300,0020500983,,,3:05,3,5,4,1,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Nelson L.B.FOUL (P3.T4),3:48 PM
+286,1,1,301,0020500983,Johnson 19' Jump Shot (23 PTS),,2:53,3,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,74 - 72,-2,,3:48 PM
+287,1,5,302,0020500983,,,2:33,3,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Nelson Bad Pass Turnover (P2.T5),3:48 PM
+288,1,9,303,0020500983,,,2:33,3,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.3 Short 0),3:48 PM
+289,0,8,305,0020500983,,,2:33,3,5,5,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Arroyo FOR Nelson,3:51 PM
+290,1,2,306,0020500983,MISS Pachulia 13' Jump Shot,,2:09,3,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:51 PM
+291,0,4,307,0020500983,,,2:06,3,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:1 Def:9),3:51 PM
+292,1,2,308,0020500983,,,1:49,3,5,0,0,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Milicic 5' Jump Shot,3:51 PM
+293,0,4,309,0020500983,Childress REBOUND (Off:2 Def:1),,1:48,3,4,0,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:51 PM
+294,5,2,310,0020500983,MISS Childress  Layup,,1:43,3,4,0,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:51 PM
+295,0,4,311,0020500983,,,1:42,3,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:1 Def:10),3:51 PM
+296,1,2,312,0020500983,,,1:23,3,5,0,0,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Arroyo 10' Jump Shot,3:52 PM
+297,0,4,313,0020500983,HAWKS Rebound,,1:23,3,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,3:52 PM
+298,3,6,314,0020500983,,,1:23,3,5,4,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Howard L.B.FOUL (P4.PN),3:52 PM
+299,0,8,324,0020500983,,,1:23,3,5,5,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Battie FOR Howard,3:52 PM
+300,11,3,315,0020500983,Pachulia Free Throw 1 of 2 (10 PTS),,1:23,3,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,74 - 73,-1,,3:52 PM
+301,12,3,316,0020500983,Pachulia Free Throw 2 of 2 (11 PTS),,1:23,3,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,74 - 74,TIE,,3:52 PM
+302,4,5,318,0020500983,,,1:06,3,5,0,1,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Stevenson Traveling Turnover (P1.T6),3:53 PM
+303,46,1,319,0020500983,Johnson 7' Running Jump Shot (25 PTS),,0:52,3,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,74 - 76,2,,3:54 PM
+304,1,2,320,0020500983,,,0:34,3,5,0,0,2052,DeShawn Stevenson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Stevenson 21' Jump Shot,3:54 PM
+305,0,4,321,0020500983,Pachulia REBOUND (Off:9 Def:3),,0:32,3,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,3:54 PM
+306,1,9,322,0020500983,HAWKS Timeout: Regular (Full 4 Short 0),,0:30,3,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,3:54 PM
+307,0,8,323,0020500983,SUB: Ivey FOR Stoudamire,,0:30,3,4,4,0,101136,Salim Stoudamire,ATL,Atlanta,1610612737.0,Hawks,2767,Royal Ivey,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,3:55 PM
+308,1,1,326,0020500983,Williams 19' Jump Shot (6 PTS) (Childress 2 AST),,0:15,3,4,4,0,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,74 - 78,4,,3:56 PM
+309,0,13,327,0020500983,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,74 - 78,4,,3:57 PM
+310,0,12,329,0020500983,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,74 - 78,4,,4:00 PM
+311,1,2,330,0020500983,Pachulia BLOCK (1 BLK),,11:42,4,5,0,4,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,,,MISS Dooling 3' Jump Shot,4:00 PM
+312,0,4,331,0020500983,,,11:42,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,4:00 PM
+313,3,6,332,0020500983,Williams L.B.FOUL (P2.T1),,11:42,4,4,5,1,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,4:00 PM
+314,1,1,333,0020500983,,,11:32,4,5,0,0,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,76 - 78,2,Arroyo 16' Jump Shot (6 PTS),4:00 PM
+315,2,5,334,0020500983,Pachulia Lost Ball Turnover (P4.T6),,11:14,4,4,5,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Ariza STEAL (1 STL),4:01 PM
+316,5,1,335,0020500983,,,11:10,4,5,5,0,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,78 - 78,TIE,Arroyo  Layup (8 PTS) (Ariza 2 AST),4:01 PM
+317,5,2,336,0020500983,MISS Johnson  Layup,,10:54,4,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:01 PM
+318,0,4,338,0020500983,Pachulia REBOUND (Off:10 Def:3),,10:49,4,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:01 PM
+319,5,2,337,0020500983,MISS Pachulia  Layup,,10:49,4,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:01 PM
+320,0,4,339,0020500983,,,10:48,4,5,0,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Battie REBOUND (Off:1 Def:3),4:01 PM
+321,1,2,340,0020500983,Ivey BLOCK (1 BLK),,10:34,4,5,0,4,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,2767,Royal Ivey,ATL,Atlanta,1610612737.0,Hawks,,,MISS Arroyo 5' Jump Shot,4:01 PM
+322,0,4,341,0020500983,,,10:34,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,4:01 PM
+323,0,8,342,0020500983,SUB: Harrington FOR Ivey,,10:34,4,4,4,0,2767,Royal Ivey,ATL,Atlanta,1610612737.0,Hawks,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,4:02 PM
+324,1,2,343,0020500983,,,10:27,4,5,0,0,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Milicic 17' Jump Shot,4:02 PM
+325,0,4,344,0020500983,Harrington REBOUND (Off:0 Def:6),,10:25,4,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:02 PM
+326,1,2,345,0020500983,MISS Williams 25' 3PT Jump Shot,,10:12,4,4,0,0,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:02 PM
+327,0,4,346,0020500983,,,10:10,4,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:2 Def:4),4:02 PM
+328,1,1,347,0020500983,,,10:01,4,5,5,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,80 - 78,-2,Ariza 18' Jump Shot (6 PTS) (Arroyo 3 AST),4:02 PM
+329,1,2,348,0020500983,MISS Johnson 6' Jump Shot,,9:44,4,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:03 PM
+330,0,4,349,0020500983,Pachulia REBOUND (Off:11 Def:3),,9:42,4,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:03 PM
+331,2,6,350,0020500983,,,9:36,4,5,4,1,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Milicic S.FOUL (P1.T1),4:03 PM
+332,11,3,351,0020500983,MISS Pachulia Free Throw 1 of 2,,9:36,4,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:03 PM
+333,1,4,352,0020500983,HAWKS Rebound,,9:36,4,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,4:03 PM
+334,12,3,353,0020500983,MISS Pachulia Free Throw 2 of 2,,9:36,4,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:03 PM
+335,0,4,354,0020500983,,,9:34,4,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:2 Def:5),4:04 PM
+336,5,2,355,0020500983,,,9:19,4,5,0,0,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Milicic  Layup,4:04 PM
+337,0,4,356,0020500983,Harrington REBOUND (Off:0 Def:7),,9:18,4,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:04 PM
+338,1,1,357,0020500983,Harrington 5' Jump Shot (20 PTS) (Johnson 8 AST),,9:10,4,4,4,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,80 - 80,TIE,,4:04 PM
+339,1,5,358,0020500983,Pachulia STEAL (1 STL),,8:54,4,5,4,0,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Milicic Bad Pass Turnover (P1.T7),4:04 PM
+340,1,2,359,0020500983,MISS Childress 24' 3PT Jump Shot,,8:39,4,4,0,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:05 PM
+341,0,4,360,0020500983,,,8:36,4,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:2 Def:6),4:05 PM
+342,1,2,362,0020500983,,,8:26,4,5,0,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Battie 5' Jump Shot,4:05 PM
+343,0,4,363,0020500983,Pachulia REBOUND (Off:11 Def:4),,8:24,4,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:05 PM
+344,1,9,364,0020500983,HAWKS Timeout: Regular (Full 5 Short 0),,8:19,4,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,4:05 PM
+345,0,8,365,0020500983,SUB: Smith FOR Pachulia,,8:19,4,4,4,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,4:07 PM
+346,0,8,366,0020500983,,,8:19,4,5,5,0,2545,Darko Milicic,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Howard FOR Milicic,4:07 PM
+347,1,1,367,0020500983,Harrington 18' Jump Shot (22 PTS) (Johnson 9 AST),,8:06,4,4,4,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,80 - 82,2,,4:08 PM
+348,1,6,368,0020500983,Harrington P.FOUL (P4.T2),,7:46,4,4,5,1,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,4:08 PM
+349,1,1,369,0020500983,,,7:32,4,5,5,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,82 - 82,TIE,Dooling 7' Jump Shot (10 PTS) (Ariza 3 AST),4:09 PM
+350,2,5,370,0020500983,Childress Lost Ball Turnover (P1.T7),,7:20,4,4,5,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Howard STEAL (2 STL),4:09 PM
+351,5,1,371,0020500983,,,7:14,4,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,84 - 82,-2,Ariza  Layup (8 PTS),4:09 PM
+352,2,6,372,0020500983,,,6:55,4,5,4,1,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Ariza S.FOUL (P1.T2),4:09 PM
+353,11,3,373,0020500983,Smith Free Throw 1 of 2 (9 PTS),,6:55,4,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,84 - 83,-1,,4:10 PM
+354,0,8,374,0020500983,SUB: Pachulia FOR Williams,,6:55,4,4,4,0,101107,Marvin Williams,ATL,Atlanta,1610612737.0,Hawks,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,,4:10 PM
+355,12,3,375,0020500983,Smith Free Throw 2 of 2 (10 PTS),,6:55,4,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,84 - 84,TIE,,4:10 PM
+356,7,1,377,0020500983,,,6:41,4,5,5,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,86 - 84,-2,Battie  Dunk (14 PTS) (Ariza 4 AST),4:10 PM
+357,1,6,378,0020500983,,,6:29,4,5,4,1,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Dooling P.FOUL (P1.T3),4:11 PM
+358,1,1,379,0020500983,Johnson 7' Jump Shot (27 PTS) (Harrington 2 AST),,6:15,4,4,4,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,86 - 86,TIE,,4:11 PM
+359,4,9,380,0020500983,,,5:53,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,4:12 PM
+360,44,1,383,0020500983,,,5:50,4,5,5,0,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,88 - 86,-2,Arroyo  Reverse Layup (10 PTS) (Ariza 5 AST),4:14 PM
+361,1,1,384,0020500983,Johnson 20' Jump Shot (29 PTS) (Childress 3 AST),,5:27,4,4,4,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,88 - 88,TIE,,4:15 PM
+362,1,6,385,0020500983,Johnson P.FOUL (P3.T3),,5:13,4,4,5,1,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,4:15 PM
+363,0,8,386,0020500983,,,5:13,4,5,5,0,2306,Carlos Arroyo,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Nelson FOR Arroyo,4:15 PM
+364,1,2,387,0020500983,,,4:58,4,5,0,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Dooling 4' Jump Shot,4:16 PM
+365,0,4,389,0020500983,,,4:55,4,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:2 Def:10),4:16 PM
+366,4,1,388,0020500983,,,4:55,4,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,90 - 88,-2,Howard  Tip Shot (9 PTS),4:16 PM
+367,1,1,390,0020500983,Harrington 16' Jump Shot (24 PTS) (Johnson 10 AST),,4:37,4,4,4,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,90 - 90,TIE,,4:16 PM
+368,1,2,391,0020500983,,,4:21,4,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Nelson 16' Jump Shot,4:16 PM
+369,0,4,392,0020500983,Childress REBOUND (Off:2 Def:2),,4:20,4,4,0,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:16 PM
+370,2,6,393,0020500983,,,4:00,4,5,4,1,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Battie S.FOUL (P2.T4),4:17 PM
+371,11,3,394,0020500983,MISS Johnson Free Throw 1 of 2,,4:00,4,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:17 PM
+372,1,4,395,0020500983,HAWKS Rebound,,4:00,4,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,4:17 PM
+373,12,3,396,0020500983,Johnson Free Throw 2 of 2 (30 PTS),,4:00,4,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,90 - 91,1,,4:17 PM
+374,1,2,397,0020500983,,,3:44,4,5,0,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Ariza 18' Jump Shot,4:18 PM
+375,0,4,398,0020500983,Childress REBOUND (Off:2 Def:3),,3:43,4,4,0,0,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:18 PM
+376,2,9,399,0020500983,HAWKS Timeout: Short (Full 5 Short 1),,3:38,4,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,4:18 PM
+377,52,1,401,0020500983,Smith  Alley Oop Dunk (12 PTS) (Johnson 11 AST),,3:29,4,4,4,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,90 - 93,3,,4:19 PM
+378,1,2,402,0020500983,,,3:08,4,5,0,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Battie 16' Jump Shot,4:20 PM
+379,0,4,403,0020500983,,,3:06,4,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Nelson REBOUND (Off:1 Def:1),4:20 PM
+380,1,2,404,0020500983,,,2:56,4,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Nelson 26' 3PT Jump Shot,4:20 PM
+381,1,9,407,0020500983,,,2:56,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.4 Short 0),4:21 PM
+382,0,4,410,0020500983,,,2:56,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,4:22 PM
+383,0,10,412,0020500983,Jump Ball Smith vs. Ariza: Tip to Dooling,,2:56,4,4,5,5,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,,,,4:23 PM
+384,5,1,414,0020500983,,,2:37,4,5,5,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,92 - 93,1,Ariza  Layup (10 PTS) (Howard 3 AST),4:24 PM
+385,1,2,415,0020500983,MISS Harrington 6' Jump Shot,,2:17,4,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:24 PM
+386,0,4,416,0020500983,,,2:15,4,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:2 Def:11),4:24 PM
+387,1,2,417,0020500983,,,1:56,4,5,0,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Dooling 17' Jump Shot,4:24 PM
+388,0,4,418,0020500983,Pachulia REBOUND (Off:11 Def:5),,1:54,4,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:24 PM
+389,1,2,420,0020500983,MISS Harrington 6' Jump Shot,,1:30,4,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:25 PM
+390,0,4,421,0020500983,,,1:29,4,5,0,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Dooling REBOUND (Off:0 Def:2),4:25 PM
+391,5,2,422,0020500983,Smith BLOCK (1 BLK),,1:24,4,5,0,4,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,,,MISS Dooling  Layup,4:25 PM
+392,0,4,424,0020500983,,,1:20,4,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Nelson REBOUND (Off:2 Def:1),4:25 PM
+393,5,2,423,0020500983,,,1:20,4,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Nelson  Layup,4:25 PM
+394,0,4,425,0020500983,Smith REBOUND (Off:1 Def:8),,1:17,4,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:25 PM
+395,1,1,426,0020500983,Johnson  3PT Jump Shot (33 PTS) (Smith 5 AST),,1:15,4,4,4,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,92 - 96,4,,4:25 PM
+396,1,9,427,0020500983,,,1:15,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.5 Short 0),4:25 PM
+397,0,8,430,0020500983,,,1:15,4,5,5,0,2772,Trevor Ariza,ORL,Orlando,1610612753.0,Magic,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Turkoglu FOR Ariza,4:27 PM
+398,1,1,432,0020500983,,,1:05,4,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,94 - 96,2,Nelson 17' Jump Shot (13 PTS),4:28 PM
+399,1,2,433,0020500983,MISS Johnson 3' Jump Shot,,0:42,4,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:28 PM
+400,0,4,434,0020500983,,,0:40,4,5,0,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Dooling REBOUND (Off:0 Def:3),4:28 PM
+401,1,1,435,0020500983,,,0:23,4,5,0,0,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,96 - 96,TIE,Turkoglu 22' Jump Shot (16 PTS),4:28 PM
+402,1,9,436,0020500983,HAWKS Timeout: Regular (Full 6 Short 1),,0:18,4,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,4:29 PM
+403,1,2,439,0020500983,MISS Harrington 16' Jump Shot,,0:00,4,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:31 PM
+404,0,4,440,0020500983,,,0:00,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,4:31 PM
+405,0,13,442,0020500983,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,96 - 96,TIE,,4:31 PM
+406,0,12,444,0020500983,,,5:00,5,0,0,0,0,,,,,,0,,,,,,0,,,,,,96 - 96,TIE,,4:33 PM
+407,1,7,445,0020500983,,,5:00,5,3,0,1,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Violation: Delay of game Violation,4:34 PM
+408,1,7,446,0020500983,HAWKS Violation: Delay of game Violation,,5:00,5,2,0,1,1610612737,,,,,,0,,,,,,0,,,,,,,,,4:34 PM
+409,0,10,447,0020500983,Jump Ball Smith vs. Howard: Tip to Nelson,,5:00,5,4,5,5,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,,,,4:34 PM
+410,1,2,449,0020500983,,,4:47,5,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Nelson 18' Jump Shot,4:34 PM
+411,0,4,450,0020500983,Pachulia REBOUND (Off:11 Def:6),,4:46,5,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:34 PM
+412,1,1,451,0020500983,Johnson 18' Jump Shot (35 PTS) (Pachulia 2 AST),,4:29,5,4,4,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,96 - 98,2,,4:34 PM
+413,1,2,452,0020500983,,,4:09,5,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Howard 5' Jump Shot,4:35 PM
+414,0,4,453,0020500983,,,4:09,5,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:3 Def:11),4:35 PM
+415,2,6,454,0020500983,Childress S.FOUL (P1.T1),,4:09,5,4,5,1,2735,Josh Childress,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,4:35 PM
+416,11,3,455,0020500983,,,4:09,5,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Howard Free Throw 1 of 2,4:35 PM
+417,1,4,456,0020500983,,,4:09,5,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,4:35 PM
+418,12,3,457,0020500983,,,4:09,5,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Howard Free Throw 2 of 2,4:35 PM
+419,0,4,458,0020500983,Smith REBOUND (Off:1 Def:9),,4:07,5,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:36 PM
+420,1,1,459,0020500983,Johnson 17' Jump Shot (37 PTS),,3:51,5,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,96 - 100,4,,4:36 PM
+421,1,1,460,0020500983,,,3:27,5,5,5,0,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,98 - 100,2,Dooling 17' Jump Shot (12 PTS) (Howard 4 AST),4:36 PM
+422,4,6,461,0020500983,Harrington OFF.Foul (P5),,3:07,5,4,5,1,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,4:37 PM
+423,5,5,462,0020500983,Harrington Foul Turnover (P1.T8),,3:07,5,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:37 PM
+424,42,1,463,0020500983,,,2:56,5,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,100 - 100,TIE,Nelson  Driving Layup (15 PTS),4:37 PM
+425,1,2,464,0020500983,MISS Harrington 17' Jump Shot,,2:39,5,4,0,0,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:37 PM
+426,0,4,465,0020500983,,,2:36,5,5,0,0,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Battie REBOUND (Off:1 Def:4),4:37 PM
+427,1,2,466,0020500983,Smith BLOCK (2 BLK),,2:19,5,5,0,4,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,,,MISS Dooling 6' Jump Shot,4:38 PM
+428,0,4,467,0020500983,,,2:18,5,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,4:38 PM
+429,1,9,468,0020500983,,,2:18,5,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.6 Short 0),4:38 PM
+430,1,2,472,0020500983,,,2:13,5,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Nelson 17' Jump Shot,4:40 PM
+431,0,4,474,0020500983,,,2:12,5,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Howard REBOUND (Off:4 Def:11),4:40 PM
+432,5,1,473,0020500983,,,2:12,5,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,102 - 100,-2,Howard  Layup (11 PTS),4:40 PM
+433,1,2,475,0020500983,MISS Smith 26' 3PT Jump Shot,,1:45,5,4,0,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:40 PM
+434,0,4,476,0020500983,,,1:45,5,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,4:40 PM
+435,3,6,477,0020500983,Pachulia L.B.FOUL (P2.T2),,1:45,5,4,5,1,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,4:40 PM
+436,1,1,478,0020500983,,,1:24,5,5,5,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,2039,Keyon Dooling,ORL,Orlando,1610612753.0,Magic,0,,,,,,105 - 100,-5,Nelson 25' 3PT Jump Shot (18 PTS) (Dooling 1 AST),4:41 PM
+437,1,9,479,0020500983,HAWKS Timeout: Regular (Full 7 Short 1),,1:24,5,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,4:41 PM
+438,1,1,483,0020500983,Smith 26' 3PT Jump Shot (15 PTS) (Harrington 3 AST),,1:06,5,4,4,0,2746,Josh Smith,ATL,Atlanta,1610612737.0,Hawks,1733,Al Harrington,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,105 - 103,-2,,4:43 PM
+439,2,6,484,0020500983,Pachulia S.FOUL (P3.PN),,0:47,5,4,5,1,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,4:44 PM
+440,11,3,485,0020500983,,,0:47,5,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,106 - 103,-3,Howard Free Throw 1 of 2 (12 PTS),4:44 PM
+441,12,3,486,0020500983,,,0:47,5,5,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,107 - 103,-4,Howard Free Throw 2 of 2 (13 PTS),4:44 PM
+442,1,1,488,0020500983,Johnson 25' 3PT Jump Shot (40 PTS) (Pachulia 3 AST),,0:34,5,4,4,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,107 - 106,-1,,4:45 PM
+443,4,6,489,0020500983,,,0:12,5,5,4,1,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Turkoglu OFF.Foul (P3),4:45 PM
+444,5,5,490,0020500983,,,0:12,5,5,0,1,2045,Hedo Turkoglu,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Turkoglu Foul Turnover (P1.T8),4:45 PM
+445,1,9,491,0020500983,HAWKS Timeout: Regular (Full 8 Short 1),,0:12,5,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,4:46 PM
+446,1,6,494,0020500983,,,0:11,5,5,4,1,1499,Tony Battie,ORL,Orlando,1610612753.0,Magic,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Battie P.FOUL (P3.T1),4:48 PM
+447,5,2,495,0020500983,MISS Johnson  Layup,,0:02,5,4,0,0,2207,Joe Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:48 PM
+448,0,4,497,0020500983,Pachulia REBOUND (Off:12 Def:6),,0:02,5,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,,4:48 PM
+449,4,1,496,0020500983,Pachulia  Tip Shot (13 PTS),,0:02,5,4,0,0,2585,Zaza Pachulia,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,107 - 108,1,,4:48 PM
+450,1,9,498,0020500983,,,0:02,5,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.7 Short 0),4:48 PM
+451,1,9,501,0020500983,,,0:02,5,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.8 Short 0),4:50 PM
+452,1,2,502,0020500983,,,0:00,5,5,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Nelson 30' 3PT Jump Shot,4:51 PM
+453,0,4,503,0020500983,HAWKS Rebound,,0:00,5,2,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,,4:52 PM
+454,0,13,504,0020500983,,,0:00,5,0,0,0,0,,,,,,0,,,,,,0,,,,,,107 - 108,1,,4:52 PM

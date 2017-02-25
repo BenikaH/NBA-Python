@@ -1,0 +1,519 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0029700001,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:08 PM
+1,0,10,1,0029700001,Jump Ball Knight vs. Longley: Tip to Harper,,12:00,1,4,5,5,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,,,,12:09 PM
+2,1,2,2,0029700001,,,11:42,1,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Caffey 12' Jump Shot,12:09 PM
+3,0,4,3,0029700001,Walker REBOUND (Off:0 Def:1),,11:39,1,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:09 PM
+4,2,5,4,0029700001,Walker Lost Ball Turnover (P1.T1),,11:34,1,4,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Caffey STEAL (1 STL),12:09 PM
+5,5,1,5,0029700001,,,11:30,1,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,2 - 0,-2,Caffey 1' Layup (2 PTS),12:09 PM
+6,1,2,6,0029700001,MISS McCarty 21' Jump Shot,,11:22,1,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:09 PM
+7,0,4,7,0029700001,Knight REBOUND (Off:1 Def:0),,11:17,1,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:10 PM
+8,1,2,8,0029700001,MISS Walker 19' Jump Shot,,11:09,1,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:10 PM
+9,0,4,9,0029700001,,,11:08,1,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,12:10 PM
+10,1,6,10,0029700001,McCarty P.FOUL (P1.T1),,10:50,1,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:10 PM
+11,1,6,11,0029700001,Mercer P.FOUL (P1.T2),,10:45,1,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:10 PM
+12,8,1,13,0029700001,,,10:38,1,5,5,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,4 - 0,-4,Caffey 1' Slam Dunk (4 PTS) (Kukoc 1 AST),12:11 PM
+13,1,2,14,0029700001,MISS McCarty 21' Jump Shot,,10:21,1,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:11 PM
+14,0,4,15,0029700001,,,10:15,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:0 Def:1),12:11 PM
+15,2,6,16,0029700001,McCarty S.FOUL (P2.T3),,10:00,1,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:11 PM
+16,11,3,17,0029700001,,,10:00,1,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Longley Free Throw 1 of 2,12:12 PM
+17,0,4,18,0029700001,,,10:00,1,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,12:12 PM
+18,0,8,19,0029700001,SUB: Bowen FOR McCarty,,10:00,1,4,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,12:12 PM
+19,12,3,20,0029700001,,,10:00,1,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Longley Free Throw 2 of 2,12:12 PM
+20,0,4,21,0029700001,Knight REBOUND (Off:1 Def:1),,9:59,1,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:12 PM
+21,2,5,22,0029700001,Knight Lost Ball Turnover (P1.T2),,9:57,1,4,5,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Harper STEAL (1 STL),12:12 PM
+22,9,1,23,0029700001,,,9:54,1,5,5,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,6 - 0,-6,Caffey  Driving Dunk (6 PTS) (Harper 1 AST),12:12 PM
+23,1,1,24,0029700001,Mercer 18' Jump Shot (2 PTS) (Knight 1 AST),,9:39,1,4,4,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,6 - 2,-4,,12:13 PM
+24,4,6,25,0029700001,,,9:28,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan OFF.Foul (P1),12:13 PM
+25,5,5,26,0029700001,,,9:28,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan Foul Turnover (P1.T1),12:13 PM
+26,1,2,27,0029700001,MISS Knight 15' Jump Shot,,9:15,1,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:13 PM
+27,0,4,28,0029700001,,,9:11,1,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey REBOUND (Off:0 Def:1),12:13 PM
+28,1,1,29,0029700001,,,9:01,1,5,5,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,8 - 2,-6,Kukoc 17' Jump Shot (2 PTS) (Caffey 1 AST),12:14 PM
+29,1,1,30,0029700001,Walker 23' Jump Shot (2 PTS) (Knight 2 AST),,8:40,1,4,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,8 - 4,-4,,12:14 PM
+30,1,6,31,0029700001,Bowen P.FOUL (P1.T4),,8:30,1,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:14 PM
+31,6,1,32,0029700001,,,8:20,1,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,10 - 4,-6,Longley  Driving Layup (2 PTS),12:14 PM
+32,1,2,33,0029700001,MISS Knight 27' 3PT Jump Shot,,8:05,1,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:15 PM
+33,0,4,34,0029700001,Bowen REBOUND (Off:1 Def:0),,8:02,1,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:15 PM
+34,5,1,35,0029700001,Bowen  Layup (2 PTS),,8:00,1,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,10 - 6,-4,,12:15 PM
+35,4,6,36,0029700001,,,7:54,1,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley OFF.Foul (P1),12:15 PM
+36,5,5,37,0029700001,,,7:54,1,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley Foul Turnover (P1.T2),12:15 PM
+37,0,8,38,0029700001,SUB: Ellison FOR Knight,,7:54,1,4,4,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,12:15 PM
+38,1,6,39,0029700001,,,7:37,1,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey P.FOUL (P1.T1),12:15 PM
+39,1,2,40,0029700001,MISS Barros 18' Jump Shot,,7:32,1,4,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:16 PM
+40,0,4,41,0029700001,,,7:29,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:0 Def:2),12:16 PM
+41,4,5,42,0029700001,,,7:22,1,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc Traveling Turnover (P1.T3),12:16 PM
+42,2,5,43,0029700001,Barros Lost Ball Turnover (P1.T3),,7:17,1,4,5,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Harper STEAL (2 STL),12:16 PM
+43,8,1,44,0029700001,,,7:13,1,5,5,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,12 - 6,-6,Caffey  Slam Dunk (8 PTS) (Harper 2 AST),12:16 PM
+44,1,2,45,0029700001,MISS Bowen 14' Jump Shot,,6:51,1,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:17 PM
+45,0,4,46,0029700001,,,6:48,1,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley REBOUND (Off:0 Def:1),12:17 PM
+46,1,2,47,0029700001,,,6:39,1,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Harper 25' 3PT Jump Shot,12:17 PM
+47,0,4,48,0029700001,CELTICS Rebound,,6:37,1,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,12:17 PM
+48,3,6,49,0029700001,,,6:37,1,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley L.B.FOUL (P2.T2),12:17 PM
+49,1,9,51,0029700001,CELTICS Timeout: Regular (Full 1 Short 0),,6:37,1,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,12:17 PM
+50,0,8,52,0029700001,,,6:37,1,5,5,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Rodman FOR Longley,12:19 PM
+51,1,5,53,0029700001,Ellison Bad Pass Turnover (P1.T4),,6:24,1,4,0,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:19 PM
+52,1,2,54,0029700001,,,6:07,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 22' Jump Shot,12:20 PM
+53,0,4,55,0029700001,Mercer REBOUND (Off:0 Def:1),,6:04,1,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:20 PM
+54,6,1,56,0029700001,Walker 2' Driving Layup (4 PTS),,5:53,1,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,12 - 8,-4,,12:20 PM
+55,2,6,57,0029700001,,,5:53,1,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey S.FOUL (P2.T3),12:20 PM
+56,0,8,58,0029700001,SUB: Brown FOR Barros,,5:53,1,4,4,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,12:21 PM
+57,0,8,59,0029700001,SUB: Billups FOR Mercer,,5:53,1,4,4,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,12:21 PM
+58,10,3,60,0029700001,MISS Walker Free Throw 1 of 1,,5:53,1,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:21 PM
+59,0,4,61,0029700001,,,5:50,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:0 Def:1),12:21 PM
+60,5,2,62,0029700001,,,5:45,1,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Caffey 2' Layup,12:21 PM
+61,0,4,63,0029700001,Bowen REBOUND (Off:1 Def:1),,5:42,1,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:21 PM
+62,1,2,64,0029700001,MISS Walker 20' Jump Shot,,5:32,1,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:21 PM
+63,0,4,65,0029700001,,,5:28,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:0 Def:3),12:21 PM
+64,6,1,66,0029700001,,,5:25,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,14 - 8,-6,Jordan  Driving Layup (2 PTS),12:22 PM
+65,2,6,67,0029700001,Ellison S.FOUL (P1.PN),,5:25,1,4,0,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:22 PM
+66,0,8,68,0029700001,SUB: Knight FOR Ellison,,5:25,1,4,4,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,12:22 PM
+67,10,3,69,0029700001,,,5:25,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,15 - 8,-7,Jordan Free Throw 1 of 1 (3 PTS),12:22 PM
+68,1,5,70,0029700001,Knight Bad Pass Turnover (P2.T5),,5:11,1,4,5,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Caffey STEAL (2 STL),12:22 PM
+69,2,6,71,0029700001,Knight S.FOUL (P1.PN),,5:01,1,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:23 PM
+70,11,3,72,0029700001,,,5:01,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,16 - 8,-8,Jordan Free Throw 1 of 2 (4 PTS),12:23 PM
+71,12,3,73,0029700001,,,5:01,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,17 - 8,-9,Jordan Free Throw 2 of 2 (5 PTS),12:23 PM
+72,1,2,74,0029700001,MISS Billups 18' Jump Shot,,4:54,1,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:23 PM
+73,0,4,75,0029700001,,,4:51,1,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey REBOUND (Off:0 Def:2),12:23 PM
+74,1,1,76,0029700001,,,4:38,1,5,5,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,19 - 8,-11,Kukoc 18' Jump Shot (4 PTS) (Harper 3 AST),12:24 PM
+75,1,5,77,0029700001,Billups Bad Pass Turnover (P1.T6),,4:20,1,4,5,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Jordan STEAL (1 STL),12:24 PM
+76,9,1,78,0029700001,,,4:16,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,21 - 8,-13,Jordan  Driving Dunk (7 PTS),12:24 PM
+77,1,9,79,0029700001,CELTICS Timeout: Regular (Full 2 Short 0),,4:14,1,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,12:24 PM
+78,0,8,81,0029700001,,,4:14,1,5,5,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Burrell FOR Caffey,12:27 PM
+79,1,6,82,0029700001,,,4:03,1,5,0,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Burrell P.FOUL (P1.T4),12:27 PM
+80,1,2,83,0029700001,MISS Bowen 7' Jump Shot,,3:55,1,4,0,5,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,,,Kukoc BLOCK (1 BLK),12:27 PM
+81,0,4,84,0029700001,Bowen REBOUND (Off:2 Def:1),,3:51,1,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:27 PM
+82,5,2,85,0029700001,MISS Bowen 2' Layup,,3:49,1,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:27 PM
+83,0,4,86,0029700001,Walker REBOUND (Off:1 Def:1),,3:46,1,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:27 PM
+84,5,2,87,0029700001,MISS Walker  Layup,,3:43,1,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:27 PM
+85,0,4,88,0029700001,,,3:40,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:0 Def:2),12:27 PM
+86,4,5,89,0029700001,,,3:25,1,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Harper Traveling Turnover (P1.T4),12:28 PM
+87,1,2,90,0029700001,MISS Walker 25' 3PT Jump Shot,,3:06,1,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:28 PM
+88,0,4,91,0029700001,,,3:02,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:0 Def:3),12:28 PM
+89,1,6,92,0029700001,Brown P.FOUL (P1.PN),,2:52,1,4,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:28 PM
+90,11,3,93,0029700001,,,2:52,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,22 - 8,-14,Jordan Free Throw 1 of 2 (8 PTS),12:29 PM
+91,0,8,94,0029700001,SUB: Thomas FOR Walker,,2:52,1,4,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1519,John Thomas,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,12:29 PM
+92,12,3,95,0029700001,,,2:52,1,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan Free Throw 2 of 2,12:29 PM
+93,0,4,96,0029700001,Thomas REBOUND (Off:0 Def:1),,2:51,1,4,0,0,1519,John Thomas,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:29 PM
+94,1,1,97,0029700001,Billups 10' Jump Shot (2 PTS),,2:40,1,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,22 - 10,-12,,12:29 PM
+95,5,1,98,0029700001,,,2:28,1,5,5,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,24 - 10,-14,Kukoc  Layup (6 PTS) (Jordan 1 AST),12:30 PM
+96,1,2,99,0029700001,MISS Brown 19' Jump Shot,,2:12,1,4,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:30 PM
+97,0,4,100,0029700001,,,2:07,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:0 Def:4),12:30 PM
+98,2,5,101,0029700001,Thomas STEAL (1 STL),,1:58,1,5,4,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,1519,John Thomas,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Jordan Lost Ball Turnover (P2.T5),12:30 PM
+99,2,5,102,0029700001,Thomas Lost Ball Turnover (P1.T7),,1:57,1,4,0,0,1519,John Thomas,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:30 PM
+100,0,8,103,0029700001,SUB: Mercer FOR Bowen,,1:57,1,4,4,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,12:30 PM
+101,0,8,104,0029700001,,,1:57,1,5,5,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Brown FOR Jordan,12:30 PM
+102,1,1,105,0029700001,,,1:44,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,26 - 10,-16,Rodman 4' Jump Shot (2 PTS),12:31 PM
+103,2,5,106,0029700001,Billups Lost Ball Turnover (P2.T8),,1:37,1,4,5,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Brown STEAL (1 STL),12:31 PM
+104,6,2,107,0029700001,,,1:32,1,5,0,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Brown  Driving Layup,12:31 PM
+105,0,4,108,0029700001,,,1:26,1,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc REBOUND (Off:1 Def:0),12:32 PM
+106,4,1,109,0029700001,,,1:24,1,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,28 - 10,-18,Kukoc  Tip Shot (8 PTS),12:32 PM
+107,1,1,110,0029700001,Mercer 21' Jump Shot (4 PTS),,1:10,1,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,28 - 12,-16,,12:32 PM
+108,1,7,111,0029700001,CELTICS Violation: Delay of game Violation,,1:08,1,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,12:32 PM
+109,8,1,112,0029700001,,,1:05,1,5,5,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,30 - 12,-18,Kukoc 1' Slam Dunk (10 PTS) (Burrell 1 AST),12:32 PM
+110,1,5,113,0029700001,Billups Bad Pass Turnover (P3.T9),,0:49,1,4,5,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Kukoc STEAL (1 STL),12:32 PM
+111,6,1,114,0029700001,,,0:46,1,5,0,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,32 - 12,-20,Brown 1' Driving Layup (2 PTS),12:32 PM
+112,1,2,115,0029700001,MISS Billups 25' 3PT Jump Shot,,0:32,1,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:33 PM
+113,0,4,116,0029700001,,,0:30,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:0 Def:5),12:33 PM
+114,1,5,117,0029700001,,,0:28,1,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman Bad Pass Turnover (P1.T6),12:33 PM
+115,0,8,118,0029700001,,,0:28,1,5,5,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kerr FOR Harper,12:33 PM
+116,0,8,119,0029700001,SUB: Barros FOR Billups,,0:28,1,4,4,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,12:33 PM
+117,1,5,120,0029700001,Barros Bad Pass Turnover (P2.T10),,0:08,1,4,5,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Kukoc STEAL (2 STL),12:34 PM
+118,1,2,121,0029700001,,,0:04,1,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kukoc 27' 3PT Jump Shot,12:34 PM
+119,0,4,122,0029700001,Barros REBOUND (Off:0 Def:1),,0:01,1,4,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:34 PM
+120,1,2,123,0029700001,MISS Barros 42' 3PT Jump Shot,,0:00,1,4,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:34 PM
+121,0,4,124,0029700001,CELTICS Rebound,,0:00,1,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,12:34 PM
+122,0,13,125,0029700001,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,32 - 12,-20,,12:34 PM
+123,0,12,127,0029700001,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,32 - 12,-20,,12:36 PM
+124,1,2,128,0029700001,MISS Walker 6' Jump Shot,,11:37,2,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:37 PM
+125,0,4,129,0029700001,McCarty REBOUND (Off:1 Def:0),,11:36,2,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:37 PM
+126,3,1,130,0029700001,McCarty 1' Hook Shot (2 PTS),,11:36,2,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,32 - 14,-18,,12:37 PM
+127,2,6,131,0029700001,,,11:36,2,5,0,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kerr S.FOUL (P1.T1),12:37 PM
+128,10,3,132,0029700001,McCarty Free Throw 1 of 1 (3 PTS),,11:36,2,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,32 - 15,-17,,12:37 PM
+129,1,6,133,0029700001,DeClercq P.FOUL (P1.T1),,11:18,2,4,0,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:38 PM
+130,1,2,134,0029700001,,,11:09,2,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Longley 3' Jump Shot,12:38 PM
+131,0,4,135,0029700001,Barros REBOUND (Off:0 Def:2),,11:05,2,4,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:38 PM
+132,2,5,136,0029700001,Walker Lost Ball Turnover (P2.T11),,10:58,2,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:38 PM
+133,4,6,137,0029700001,,,10:47,2,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley OFF.Foul (P3),12:39 PM
+134,5,5,138,0029700001,,,10:47,2,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley Foul Turnover (P2.T7),12:39 PM
+135,2,5,139,0029700001,Walker Lost Ball Turnover (P3.T12),,10:31,2,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:39 PM
+136,0,8,140,0029700001,,,10:31,2,5,5,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kukoc FOR Longley,12:39 PM
+137,1,2,141,0029700001,,,10:19,2,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rodman 18' Jump Shot,12:40 PM
+138,0,4,142,0029700001,McCarty REBOUND (Off:1 Def:1),,10:15,2,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:40 PM
+139,5,2,143,0029700001,MISS Walker 1' Layup,,10:10,2,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:40 PM
+140,0,4,144,0029700001,DeClercq REBOUND (Off:1 Def:0),,10:07,2,4,0,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:40 PM
+141,5,2,145,0029700001,MISS DeClercq  Layup,,10:06,2,4,0,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:40 PM
+142,0,4,146,0029700001,,,10:06,2,5,0,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Burrell REBOUND (Off:0 Def:1),12:40 PM
+143,0,8,147,0029700001,SUB: Mercer FOR Brown,,10:06,2,4,4,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,12:40 PM
+144,0,8,148,0029700001,,,10:06,2,5,5,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Jordan FOR Kerr,12:40 PM
+145,1,2,149,0029700001,,,9:58,2,5,0,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Brown 16' Jump Shot,12:41 PM
+146,0,4,150,0029700001,McCarty REBOUND (Off:1 Def:2),,9:55,2,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:41 PM
+147,5,1,151,0029700001,Walker  Layup (6 PTS) (McCarty 1 AST),,9:47,2,4,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,32 - 17,-15,,12:41 PM
+148,1,5,152,0029700001,,,9:21,2,5,0,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Burrell Bad Pass Turnover (P1.T8),12:41 PM
+149,1,5,153,0029700001,DeClercq Bad Pass Turnover (P1.T13),,9:07,2,4,0,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:42 PM
+150,1,9,154,0029700001,,,9:07,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.1 Short 0),12:42 PM
+151,0,8,156,0029700001,SUB: Knight FOR DeClercq,,9:07,2,4,4,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,12:44 PM
+152,1,2,158,0029700001,,,8:45,2,5,0,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Brown 10' Jump Shot,12:44 PM
+153,0,4,159,0029700001,CELTICS Rebound,,8:41,2,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,12:44 PM
+154,1,1,160,0029700001,Barros 26' 3PT Jump Shot (3 PTS) (McCarty 2 AST),,8:32,2,4,4,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,32 - 20,-12,,12:45 PM
+155,5,2,161,0029700001,,,8:05,2,5,0,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Brown 1' Layup,12:45 PM
+156,0,4,162,0029700001,,,8:02,2,5,0,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Burrell REBOUND (Off:1 Def:1),12:45 PM
+157,5,1,163,0029700001,,,8:01,2,5,0,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,34 - 20,-14,Burrell  Layup (2 PTS),12:45 PM
+158,1,2,164,0029700001,MISS McCarty 18' Jump Shot,,7:50,2,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:45 PM
+159,0,4,165,0029700001,,,7:48,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,12:45 PM
+160,0,8,166,0029700001,,,7:48,2,5,5,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kerr FOR Brown,12:46 PM
+161,1,2,167,0029700001,,,7:34,2,5,0,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kerr 18' Jump Shot,12:46 PM
+162,0,4,168,0029700001,Knight REBOUND (Off:1 Def:2),,7:30,2,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:46 PM
+163,1,2,169,0029700001,MISS Mercer 3' Jump Shot,,7:15,2,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:46 PM
+164,0,4,170,0029700001,Mercer REBOUND (Off:1 Def:1),,7:12,2,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:46 PM
+165,2,6,171,0029700001,,,7:12,2,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc S.FOUL (P1.T2),12:46 PM
+166,11,3,172,0029700001,MISS Mercer Free Throw 1 of 2,,7:12,2,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:46 PM
+167,0,4,173,0029700001,CELTICS Rebound,,7:12,2,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,12:46 PM
+168,0,8,174,0029700001,,,7:12,2,5,5,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Harper FOR Burrell,12:47 PM
+169,12,3,175,0029700001,MISS Mercer Free Throw 2 of 2,,7:12,2,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:47 PM
+170,0,4,176,0029700001,Mercer REBOUND (Off:2 Def:1),,7:10,2,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:47 PM
+171,5,1,177,0029700001,Mercer 1' Layup (6 PTS),,7:09,2,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,34 - 22,-12,,12:47 PM
+172,6,1,178,0029700001,,,6:51,2,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,36 - 22,-14,Jordan 2' Driving Layup (10 PTS),12:47 PM
+173,1,5,179,0029700001,Knight Bad Pass Turnover (P3.T14),,6:46,2,4,5,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Jordan STEAL (2 STL),12:47 PM
+174,1,2,180,0029700001,,,6:43,2,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 17' Jump Shot,12:48 PM
+175,0,4,181,0029700001,Walker REBOUND (Off:1 Def:2),,6:43,2,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:48 PM
+176,1,2,182,0029700001,MISS Mercer 20' Jump Shot,,6:28,2,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:48 PM
+177,0,4,183,0029700001,McCarty REBOUND (Off:2 Def:2),,6:25,2,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:48 PM
+178,4,6,184,0029700001,McCarty OFF.Foul (P3),,6:25,2,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:48 PM
+179,5,5,185,0029700001,McCarty Foul Turnover (P1.T15),,6:25,2,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:48 PM
+180,0,8,186,0029700001,SUB: Bowen FOR McCarty,,6:25,2,4,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,12:48 PM
+181,4,6,187,0029700001,,,6:11,2,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc OFF.Foul (P2),12:49 PM
+182,5,5,188,0029700001,,,6:11,2,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc Foul Turnover (P2.T9),12:49 PM
+183,1,1,189,0029700001,Walker 17' Jump Shot (8 PTS) (Bowen 1 AST),,5:54,2,4,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,36 - 24,-12,,12:49 PM
+184,5,2,190,0029700001,,,5:41,2,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 2' Layup,12:49 PM
+185,0,4,191,0029700001,,,5:38,2,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc REBOUND (Off:2 Def:0),12:49 PM
+186,5,2,192,0029700001,,,5:37,2,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kukoc 1' Layup,12:49 PM
+187,0,4,193,0029700001,Knight REBOUND (Off:1 Def:3),,5:34,2,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:50 PM
+188,1,6,194,0029700001,,,5:28,2,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc P.FOUL (P3.T3),12:50 PM
+189,0,8,195,0029700001,,,5:28,2,5,5,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Caffey FOR Rodman,12:50 PM
+190,5,2,196,0029700001,MISS Barros 3' Layup,,5:16,2,4,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:50 PM
+191,0,4,197,0029700001,,,5:13,2,5,0,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kerr REBOUND (Off:0 Def:1),12:50 PM
+192,1,2,198,0029700001,,,5:08,2,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kukoc 20' Jump Shot,12:50 PM
+193,0,4,199,0029700001,,,5:05,2,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey REBOUND (Off:1 Def:2),12:50 PM
+194,2,6,200,0029700001,Knight S.FOUL (P2.T2),,5:03,2,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:51 PM
+195,0,8,201,0029700001,,,5:03,2,5,5,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,146,Jud Buechler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Buechler FOR Kukoc,12:51 PM
+196,11,3,202,0029700001,,,5:03,2,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Caffey Free Throw 1 of 2,12:51 PM
+197,0,4,203,0029700001,,,5:03,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,12:51 PM
+198,0,8,205,0029700001,SUB: DeClercq FOR Knight,,5:03,2,4,4,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,12:51 PM
+199,12,3,206,0029700001,,,5:03,2,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Caffey Free Throw 2 of 2,12:51 PM
+200,0,4,207,0029700001,,,5:02,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,12:51 PM
+201,1,2,208,0029700001,,,4:48,2,5,0,0,146,Jud Buechler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Buechler 20' Jump Shot,12:52 PM
+202,0,4,209,0029700001,Barros REBOUND (Off:0 Def:3),,4:45,2,4,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:52 PM
+203,2,5,210,0029700001,Walker Lost Ball Turnover (P4.T16),,4:37,2,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:52 PM
+204,2,9,211,0029700001,,,4:37,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Short (Reg.1 Short 1),12:52 PM
+205,2,6,212,0029700001,DeClercq S.FOUL (P2.T3),,4:23,2,4,0,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:53 PM
+206,11,3,213,0029700001,,,4:23,2,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,37 - 24,-13,Harper Free Throw 1 of 2 (1 PTS),12:54 PM
+207,0,8,214,0029700001,SUB: Billups FOR Barros,,4:23,2,4,4,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,12:54 PM
+208,12,3,215,0029700001,,,4:23,2,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Harper Free Throw 2 of 2,12:54 PM
+209,0,4,216,0029700001,,,4:22,2,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey REBOUND (Off:2 Def:2),12:54 PM
+210,1,6,217,0029700001,Billups P.FOUL (P1.T4),,4:06,2,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:54 PM
+211,1,1,218,0029700001,,,3:52,2,5,5,0,146,Jud Buechler,CHI,Chicago,1610612741.0,Bulls,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,39 - 24,-15,Buechler 21' Jump Shot (2 PTS) (Harper 4 AST),12:55 PM
+212,5,1,219,0029700001,Walker  Layup (10 PTS) (Billups 1 AST),,3:22,2,4,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,39 - 26,-13,,12:55 PM
+213,1,2,220,0029700001,,,2:53,2,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 21' Jump Shot,12:56 PM
+214,0,4,221,0029700001,,,2:49,2,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Harper REBOUND (Off:1 Def:0),12:56 PM
+215,1,2,222,0029700001,,,2:47,2,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Harper 7' Jump Shot,12:56 PM
+216,0,4,223,0029700001,Bowen REBOUND (Off:2 Def:2),,2:41,2,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:56 PM
+217,1,5,224,0029700001,Walker Bad Pass Turnover (P5.T17),,2:39,2,4,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Harper STEAL (3 STL),12:56 PM
+218,6,1,225,0029700001,,,2:34,2,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,41 - 26,-15,Jordan  Driving Layup (12 PTS),12:56 PM
+219,2,6,226,0029700001,Billups S.FOUL (P2.PN),,2:34,2,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,12:56 PM
+220,1,9,227,0029700001,CELTICS Timeout: Regular (Full 3 Short 0),,2:34,2,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,12:56 PM
+221,10,3,233,0029700001,,,2:34,2,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,42 - 26,-16,Jordan Free Throw 1 of 1 (13 PTS),12:59 PM
+222,6,1,234,0029700001,Billups 4' Driving Layup (4 PTS),,2:24,2,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,42 - 28,-14,,12:59 PM
+223,1,2,235,0029700001,,,1:57,2,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 19' Jump Shot,1:00 PM
+224,0,4,236,0029700001,DeClercq REBOUND (Off:1 Def:1),,1:52,2,4,0,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:00 PM
+225,1,2,237,0029700001,MISS Walker 7' Jump Shot,,1:40,2,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:00 PM
+226,0,4,238,0029700001,Walker REBOUND (Off:2 Def:2),,1:38,2,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:00 PM
+227,5,1,239,0029700001,Walker  Layup (12 PTS),,1:36,2,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,42 - 30,-12,,1:00 PM
+228,2,6,240,0029700001,DeClercq S.FOUL (P3.PN),,1:25,2,4,0,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:01 PM
+229,11,3,241,0029700001,,,1:25,2,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Caffey Free Throw 1 of 2,1:01 PM
+230,0,4,242,0029700001,,,1:25,2,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,1:01 PM
+231,0,8,243,0029700001,SUB: Ellison FOR DeClercq,,1:25,2,4,4,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:01 PM
+232,0,8,244,0029700001,SUB: Barros FOR Billups,,1:25,2,4,4,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:01 PM
+233,12,3,245,0029700001,,,1:25,2,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,43 - 30,-13,Caffey Free Throw 2 of 2 (9 PTS),1:01 PM
+234,1,1,246,0029700001,Bowen 19' Jump Shot (4 PTS) (Mercer 1 AST),,1:12,2,4,4,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,43 - 32,-11,,1:02 PM
+235,1,2,247,0029700001,,,0:54,2,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 16' Jump Shot,1:02 PM
+236,0,4,248,0029700001,Ellison REBOUND (Off:0 Def:1),,0:50,2,4,0,0,442,Pervis Ellison,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:02 PM
+237,1,2,249,0029700001,MISS Mercer 18' Jump Shot,,0:36,2,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:02 PM
+238,0,4,250,0029700001,CELTICS Rebound,,0:34,2,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,1:02 PM
+239,2,9,251,0029700001,CELTICS Timeout: Short (Full 3 Short 1),,0:34,2,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,1:03 PM
+240,1,1,253,0029700001,Walker 14' Jump Shot (14 PTS),,0:28,2,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,43 - 34,-9,,1:03 PM
+241,1,2,254,0029700001,,,0:06,2,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 8' Jump Shot,1:04 PM
+242,0,4,255,0029700001,Barros REBOUND (Off:0 Def:4),,0:03,2,4,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:04 PM
+243,1,6,256,0029700001,,,0:03,2,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Harper P.FOUL (P1.T4),1:04 PM
+244,1,2,257,0029700001,MISS Walker 39' 3PT Jump Shot,,0:00,2,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:05 PM
+245,0,4,258,0029700001,CELTICS Rebound,,0:00,2,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,1:05 PM
+246,0,13,259,0029700001,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,43 - 34,-9,,1:05 PM
+247,0,12,260,0029700001,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,43 - 34,-9,,1:21 PM
+248,6,1,261,0029700001,McCarty  Driving Layup (5 PTS) (Barros 1 AST),,11:47,3,4,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,43 - 36,-7,,1:22 PM
+249,4,6,262,0029700001,,,11:30,3,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley OFF.Foul (P4),1:22 PM
+250,5,5,263,0029700001,,,11:30,3,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley Foul Turnover (P3.T10),1:22 PM
+251,1,2,264,0029700001,MISS McCarty 19' Jump Shot,,11:21,3,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:23 PM
+252,0,4,265,0029700001,,,11:18,3,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Harper REBOUND (Off:1 Def:1),1:23 PM
+253,1,2,266,0029700001,,,11:11,3,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Caffey 10' Jump Shot,1:23 PM
+254,0,4,267,0029700001,Knight REBOUND (Off:1 Def:4),,11:08,3,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:23 PM
+255,2,6,268,0029700001,,,10:59,3,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey S.FOUL (P3.T1),1:23 PM
+256,11,3,269,0029700001,Walker Free Throw 1 of 2 (15 PTS),,10:59,3,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,43 - 37,-6,,1:23 PM
+257,12,3,270,0029700001,Walker Free Throw 2 of 2 (16 PTS),,10:59,3,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,43 - 38,-5,,1:23 PM
+258,7,1,271,0029700001,,,10:39,3,5,5,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,45 - 38,-7,Longley  Dunk (4 PTS) (Jordan 2 AST),1:24 PM
+259,1,1,272,0029700001,Barros 26' 3PT Jump Shot (6 PTS) (Walker 1 AST),,10:26,3,4,4,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,45 - 41,-4,,1:24 PM
+260,1,2,273,0029700001,,,10:06,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 14' Jump Shot,1:24 PM
+261,0,4,274,0029700001,Mercer REBOUND (Off:2 Def:2),,10:03,3,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:24 PM
+262,1,2,275,0029700001,MISS Walker 26' 3PT Jump Shot,,9:56,3,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:25 PM
+263,0,4,276,0029700001,Barros REBOUND (Off:1 Def:4),,9:52,3,4,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:25 PM
+264,2,5,277,0029700001,Knight Lost Ball Turnover (P4.T18),,9:47,3,4,5,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Harper STEAL (4 STL),1:25 PM
+265,5,2,278,0029700001,McCarty BLOCK (1 BLK),,9:37,3,5,0,4,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,,,MISS Caffey 1' Layup,1:25 PM
+266,0,4,279,0029700001,,,9:33,3,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey REBOUND (Off:3 Def:2),1:25 PM
+267,2,5,280,0029700001,McCarty STEAL (1 STL),,9:31,3,5,4,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Caffey Lost Ball Turnover (P1.T11),1:25 PM
+268,5,2,281,0029700001,MISS McCarty 3' Layup,,9:24,3,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:25 PM
+269,0,4,282,0029700001,Knight REBOUND (Off:2 Def:4),,9:22,3,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:25 PM
+270,4,1,283,0029700001,Knight 1' Tip Shot (2 PTS),,9:20,3,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,45 - 43,-2,,1:25 PM
+271,1,5,284,0029700001,Walker STEAL (1 STL),,9:09,3,5,4,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Harper Bad Pass Turnover (P2.T12),1:25 PM
+272,1,2,285,0029700001,MISS Barros 25' 3PT Jump Shot,,9:03,3,4,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:25 PM
+273,0,4,286,0029700001,Mercer REBOUND (Off:3 Def:2),,8:59,3,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:25 PM
+274,6,1,287,0029700001,Mercer 1' Driving Layup (8 PTS) (Barros 2 AST),,8:42,3,4,4,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,45 - 45,TIE,,1:26 PM
+275,1,6,288,0029700001,Walker P.FOUL (P1.T1),,8:29,3,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:26 PM
+276,0,8,289,0029700001,SUB: DeClercq FOR Knight,,8:29,3,4,4,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:26 PM
+277,5,2,290,0029700001,,,8:25,3,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kukoc 2' Layup,1:26 PM
+278,0,4,291,0029700001,,,8:21,3,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey REBOUND (Off:4 Def:2),1:27 PM
+279,1,9,292,0029700001,,,8:13,3,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.2 Short 1),1:27 PM
+280,1,2,294,0029700001,,,7:59,3,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Caffey 23' Jump Shot,1:30 PM
+281,0,4,295,0029700001,,,7:59,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:1 Def:3),1:30 PM
+282,11,5,296,0029700001,,,7:59,3,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Turnover: Shot Clock (T#13),1:30 PM
+283,1,2,297,0029700001,MISS McCarty 26' 3PT Jump Shot,,7:48,3,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:30 PM
+284,0,4,298,0029700001,,,7:45,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:1 Def:4),1:30 PM
+285,6,1,299,0029700001,,,7:41,3,5,5,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,47 - 45,-2,Caffey 1' Driving Layup (11 PTS) (Jordan 3 AST),1:30 PM
+286,9,1,300,0029700001,McCarty 1' Driving Dunk (7 PTS) (DeClercq 1 AST),,7:25,3,4,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,47 - 47,TIE,,1:30 PM
+287,1,5,301,0029700001,DeClercq STEAL (1 STL),,7:18,3,5,4,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Longley Bad Pass Turnover (P4.T14),1:30 PM
+288,1,1,302,0029700001,McCarty 10' Jump Shot (9 PTS) (DeClercq 2 AST),,7:15,3,4,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,47 - 49,2,,1:31 PM
+289,1,2,303,0029700001,,,6:55,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 12' Jump Shot,1:31 PM
+290,0,4,304,0029700001,,,6:51,3,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley REBOUND (Off:1 Def:1),1:31 PM
+291,4,1,305,0029700001,,,6:50,3,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,49 - 49,TIE,Longley  Tip Shot (6 PTS),1:31 PM
+292,2,7,306,0029700001,,,6:39,3,3,0,1,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Violation: Def. Goaltending Violation,1:31 PM
+293,0,8,307,0029700001,SUB: Bowen FOR Mercer,,6:39,3,4,4,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:31 PM
+294,1,1,308,0029700001,Walker 27' 3PT Jump Shot (19 PTS) (Barros 3 AST),,6:31,3,4,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,49 - 52,3,,1:32 PM
+295,1,5,309,0029700001,Walker STEAL (2 STL),,6:26,3,5,4,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Caffey Bad Pass Turnover (P2.T15),1:32 PM
+296,1,2,310,0029700001,MISS Walker 11' Jump Shot,,6:21,3,4,0,5,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,,,Longley BLOCK (1 BLK),1:32 PM
+297,0,4,311,0029700001,,,6:21,3,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey REBOUND (Off:4 Def:3),1:32 PM
+298,1,6,312,0029700001,Walker P.FOUL (P2.T2),,6:21,3,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:32 PM
+299,0,8,313,0029700001,SUB: Mercer FOR McCarty,,6:21,3,4,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:32 PM
+300,5,2,314,0029700001,,,6:16,3,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Longley 2' Layup,1:32 PM
+301,0,4,315,0029700001,Bowen REBOUND (Off:2 Def:3),,6:13,3,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:32 PM
+302,1,2,316,0029700001,MISS Mercer 19' Jump Shot,,6:00,3,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:32 PM
+303,0,4,317,0029700001,,,5:57,3,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc REBOUND (Off:2 Def:1),1:33 PM
+304,1,2,318,0029700001,,,5:41,3,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Harper 25' 3PT Jump Shot,1:33 PM
+305,0,4,319,0029700001,Walker REBOUND (Off:2 Def:3),,5:37,3,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:33 PM
+306,1,1,320,0029700001,Walker 26' 3PT Jump Shot (22 PTS),,5:32,3,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,49 - 55,6,,1:33 PM
+307,0,8,321,0029700001,,,5:22,3,5,5,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kerr FOR Harper,1:33 PM
+308,0,8,322,0029700001,,,5:22,3,5,5,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Rodman FOR Longley,1:33 PM
+309,0,8,324,0029700001,SUB: McCarty FOR Walker,,5:22,3,4,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:34 PM
+310,0,8,325,0029700001,SUB: Knight FOR DeClercq,,5:22,3,4,4,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:34 PM
+311,2,6,326,0029700001,McCarty S.FOUL (P4.T3),,5:10,3,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:34 PM
+312,0,8,327,0029700001,SUB: Billups FOR Barros,,5:10,3,4,4,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:34 PM
+313,11,3,328,0029700001,,,5:10,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan Free Throw 1 of 2,1:34 PM
+314,0,4,329,0029700001,,,5:10,3,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,1:34 PM
+315,0,8,330,0029700001,SUB: Thomas FOR McCarty,,5:10,3,4,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1519,John Thomas,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:35 PM
+316,12,3,331,0029700001,,,5:10,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,50 - 55,5,Jordan Free Throw 2 of 2 (14 PTS),1:35 PM
+317,1,1,332,0029700001,Billups 26' 3PT Jump Shot (7 PTS),,4:59,3,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,50 - 58,8,,1:35 PM
+318,1,2,333,0029700001,,,4:39,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 14' Jump Shot,1:35 PM
+319,0,4,334,0029700001,,,4:36,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:1 Def:5),1:36 PM
+320,5,1,335,0029700001,,,4:33,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,52 - 58,6,Rodman 1' Layup (4 PTS),1:36 PM
+321,1,2,336,0029700001,MISS Bowen 18' Jump Shot,,4:24,3,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:36 PM
+322,0,4,337,0029700001,Billups REBOUND (Off:1 Def:0),,4:21,3,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:36 PM
+323,1,1,338,0029700001,Billups 4' Jump Shot (9 PTS),,4:19,3,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,52 - 60,8,,1:36 PM
+324,6,1,339,0029700001,,,4:06,3,5,5,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,54 - 60,6,Rodman 1' Driving Layup (6 PTS) (Caffey 2 AST),1:36 PM
+325,5,2,340,0029700001,MISS Bowen  Layup,,3:57,3,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:36 PM
+326,0,4,341,0029700001,Thomas REBOUND (Off:1 Def:1),,3:54,3,4,0,0,1519,John Thomas,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:36 PM
+327,5,2,342,0029700001,MISS Thomas  Layup,,3:54,3,4,0,5,1519,John Thomas,BOS,Boston,1610612738.0,Celtics,0,,,,,,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,,,Jordan BLOCK (1 BLK),1:36 PM
+328,0,4,343,0029700001,,,3:54,3,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,1:36 PM
+329,5,1,344,0029700001,,,3:41,3,5,5,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,56 - 60,4,Kukoc 2' Layup (12 PTS) (Jordan 4 AST),1:37 PM
+330,10,6,345,0029700001,,,3:23,3,4,5,1,1519,John Thomas,BOS,Boston,1610612738.0,Celtics,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,1:37 PM
+331,0,8,347,0029700001,SUB: Walker FOR Thomas,,3:23,3,4,4,0,1519,John Thomas,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:37 PM
+332,5,1,348,0029700001,Walker 1' Layup (24 PTS) (Billups 2 AST),,3:15,3,4,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,56 - 62,6,,1:37 PM
+333,1,6,350,0029700001,Bowen P.FOUL (P2.T4),,3:05,3,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:38 PM
+334,0,8,351,0029700001,SUB: Brown FOR Mercer,,3:05,3,4,4,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:38 PM
+335,5,2,352,0029700001,,,2:52,3,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 2' Layup,1:38 PM
+336,0,4,353,0029700001,Bowen REBOUND (Off:2 Def:4),,2:49,3,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:38 PM
+337,1,1,354,0029700001,Billups 14' Jump Shot (11 PTS),,2:46,3,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,56 - 64,8,,1:38 PM
+338,1,2,355,0029700001,,,2:17,3,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kukoc 25' 3PT Jump Shot,1:39 PM
+339,0,4,356,0029700001,Knight REBOUND (Off:2 Def:5),,2:14,3,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:39 PM
+340,5,2,357,0029700001,MISS Walker 2' Layup,,2:02,3,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:39 PM
+341,0,4,358,0029700001,Walker REBOUND (Off:3 Def:3),,2:01,3,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:39 PM
+342,5,1,359,0029700001,Walker  Layup (26 PTS),,2:01,3,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,56 - 66,10,,1:39 PM
+343,2,6,360,0029700001,,,2:01,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman S.FOUL (P1.T2),1:39 PM
+344,1,9,361,0029700001,CELTICS Timeout: Regular (Full 4 Short 1),,2:01,3,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,1:40 PM
+345,0,8,363,0029700001,,,2:01,3,5,5,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Harper FOR Jordan,1:42 PM
+346,0,8,364,0029700001,,,2:01,3,5,5,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Burrell FOR Kukoc,1:42 PM
+347,10,3,365,0029700001,MISS Walker Free Throw 1 of 1,,2:01,3,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:42 PM
+348,0,4,366,0029700001,,,1:58,3,5,0,0,166,Ron Harper,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Harper REBOUND (Off:1 Def:2),1:42 PM
+349,1,2,367,0029700001,Knight BLOCK (1 BLK),,1:48,3,5,0,4,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,,,MISS Caffey 4' Jump Shot,1:42 PM
+350,0,4,368,0029700001,,,1:44,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:2 Def:5),1:42 PM
+351,1,2,369,0029700001,,,1:42,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rodman 18' Jump Shot,1:42 PM
+352,0,4,370,0029700001,Knight REBOUND (Off:2 Def:6),,1:38,3,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:42 PM
+353,6,1,371,0029700001,Bowen  Driving Layup (6 PTS) (Billups 3 AST),,1:34,3,4,4,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,56 - 68,12,,1:43 PM
+354,1,2,372,0029700001,Walker BLOCK (1 BLK),,1:12,3,5,0,4,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,,,MISS Caffey 5' Jump Shot,1:43 PM
+355,0,4,373,0029700001,Walker REBOUND (Off:3 Def:4),,1:10,3,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:43 PM
+356,5,2,374,0029700001,MISS Billups  Layup,,1:08,3,4,0,5,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,,,Burrell BLOCK (1 BLK),1:43 PM
+357,0,4,375,0029700001,,,1:07,3,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,1:43 PM
+358,1,2,376,0029700001,,,1:01,3,5,0,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Burrell 25' 3PT Jump Shot,1:43 PM
+359,0,4,377,0029700001,,,0:58,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:3 Def:5),1:43 PM
+360,5,2,378,0029700001,,,0:56,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Rodman 1' Layup,1:43 PM
+361,0,4,379,0029700001,Knight REBOUND (Off:2 Def:7),,0:53,3,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:43 PM
+362,1,2,380,0029700001,MISS Walker 25' 3PT Jump Shot,,0:41,3,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:44 PM
+363,0,4,381,0029700001,Billups REBOUND (Off:2 Def:0),,0:37,3,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:44 PM
+364,1,2,382,0029700001,MISS Billups 25' 3PT Jump Shot,,0:35,3,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:44 PM
+365,0,4,383,0029700001,,,0:31,3,5,0,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Burrell REBOUND (Off:1 Def:2),1:44 PM
+366,1,1,384,0029700001,,,0:14,3,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,58 - 68,10,Rodman 12' Jump Shot (8 PTS),1:44 PM
+367,0,13,385,0029700001,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,58 - 68,10,,1:44 PM
+368,0,12,387,0029700001,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,58 - 68,10,,1:47 PM
+369,1,5,388,0029700001,Billups STEAL (1 STL),,11:54,4,5,4,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Kerr Bad Pass Turnover (P1.T16),1:47 PM
+370,6,1,389,0029700001,Billups  Driving Layup (13 PTS),,11:51,4,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,58 - 70,12,,1:47 PM
+371,6,1,390,0029700001,,,11:43,4,5,5,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,60 - 70,10,Rodman  Driving Layup (10 PTS) (Kerr 1 AST),1:47 PM
+372,1,2,391,0029700001,MISS Brown 25' 3PT Jump Shot,,11:30,4,4,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:48 PM
+373,0,4,392,0029700001,,,11:27,4,5,0,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kerr REBOUND (Off:0 Def:2),1:48 PM
+374,1,5,393,0029700001,,,11:24,4,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman Bad Pass Turnover (P2.T17),1:48 PM
+375,1,1,394,0029700001,Knight 18' Jump Shot (4 PTS) (Billups 4 AST),,11:15,4,4,4,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,60 - 72,12,,1:48 PM
+376,2,9,395,0029700001,,,11:08,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Short (Reg.2 Short 2),1:48 PM
+377,1,6,397,0029700001,Knight P.FOUL (P3.T1),,11:02,4,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:49 PM
+378,1,1,441,0029700001,,,10:38,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,62 - 72,10,Jordan 19' Jump Shot (16 PTS),1:50 PM
+379,1,2,398,0029700001,MISS Billups 12' Jump Shot,,10:28,4,4,0,5,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,,,Longley BLOCK (2 BLK),1:50 PM
+380,0,4,399,0029700001,DeClercq REBOUND (Off:2 Def:1),,10:25,4,4,0,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:50 PM
+381,1,1,400,0029700001,DeClercq 9' Jump Shot (2 PTS),,10:21,4,4,0,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,62 - 74,12,,1:50 PM
+382,1,6,401,0029700001,DeClercq P.FOUL (P4.T2),,10:17,4,4,0,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:51 PM
+383,6,7,521,0029700001,DeClercq Violation:Double Lane,,10:17,4,4,0,1,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:51 PM
+384,1,6,402,0029700001,Bowen P.FOUL (P3.T3),,10:11,4,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:51 PM
+385,1,1,403,0029700001,,,9:50,4,5,5,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,64 - 74,10,Kerr 14' Jump Shot (2 PTS) (Brown 1 AST),1:52 PM
+386,1,1,404,0029700001,Knight 22' Jump Shot (6 PTS),,9:41,4,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,64 - 76,12,,1:52 PM
+387,1,2,405,0029700001,Knight BLOCK (2 BLK),,9:17,4,5,0,4,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,,,MISS Jordan 3' Jump Shot,1:52 PM
+388,0,4,406,0029700001,CELTICS Rebound,,9:11,4,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,1:52 PM
+389,1,2,407,0029700001,MISS Billups 28' 3PT Jump Shot,,9:09,4,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:52 PM
+390,0,4,408,0029700001,,,9:06,4,5,0,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Rodman REBOUND (Off:3 Def:6),1:52 PM
+391,0,8,409,0029700001,SUB: McCarty FOR Bowen,,8:55,4,4,4,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:53 PM
+392,2,6,410,0029700001,Billups S.FOUL (P3.T4),,8:55,4,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:53 PM
+393,0,8,411,0029700001,SUB: Barros FOR Billups,,8:55,4,4,4,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:53 PM
+394,11,3,412,0029700001,,,8:55,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,65 - 76,11,Jordan Free Throw 1 of 2 (17 PTS),1:53 PM
+395,12,3,413,0029700001,,,8:55,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,66 - 76,10,Jordan Free Throw 2 of 2 (18 PTS),1:53 PM
+396,0,8,414,0029700001,SUB: Walker FOR Knight,,8:55,4,4,4,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:53 PM
+397,1,2,415,0029700001,MISS McCarty 11' Jump Shot,,8:39,4,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:54 PM
+398,0,4,416,0029700001,,,8:37,4,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley REBOUND (Off:1 Def:2),1:54 PM
+399,2,6,417,0029700001,DeClercq S.FOUL (P5.PN),,8:31,4,4,0,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:54 PM
+400,11,3,418,0029700001,,,8:31,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,67 - 76,9,Jordan Free Throw 1 of 2 (19 PTS),1:54 PM
+401,0,8,419,0029700001,SUB: Knight FOR DeClercq,,8:31,4,4,4,0,692,Andrew DeClercq,BOS,Boston,1610612738.0,Celtics,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,1:54 PM
+402,0,8,442,0029700001,,,8:31,4,5,5,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kukoc FOR Rodman,1:54 PM
+403,12,3,421,0029700001,,,8:31,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan Free Throw 2 of 2,1:55 PM
+404,0,4,422,0029700001,Knight REBOUND (Off:2 Def:8),,8:29,4,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:55 PM
+405,5,2,423,0029700001,MISS Walker 3' Layup,,8:13,4,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:55 PM
+406,0,4,424,0029700001,,,8:10,4,5,0,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Brown REBOUND (Off:0 Def:1),1:55 PM
+407,2,5,425,0029700001,Walker STEAL (3 STL),,8:05,4,5,4,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Brown Lost Ball Turnover (P1.T18),1:55 PM
+408,5,1,426,0029700001,Walker  Layup (28 PTS) (McCarty 3 AST),,7:59,4,4,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,67 - 78,11,,1:55 PM
+409,2,6,427,0029700001,,,7:59,4,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc S.FOUL (P4.T1),1:55 PM
+410,10,3,428,0029700001,Walker Free Throw 1 of 1 (29 PTS),,7:59,4,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,67 - 79,12,,1:55 PM
+411,1,1,429,0029700001,,,7:45,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,69 - 79,10,Jordan 17' Jump Shot (21 PTS),1:56 PM
+412,2,6,430,0029700001,Brown S.FOUL (P2.PN),,7:45,4,4,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:56 PM
+413,10,3,431,0029700001,,,7:45,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,70 - 79,9,Jordan Free Throw 1 of 1 (22 PTS),1:56 PM
+414,1,1,432,0029700001,Brown 20' Jump Shot (2 PTS),,7:29,4,4,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,70 - 81,11,,1:57 PM
+415,1,2,433,0029700001,Walker BLOCK (2 BLK),,7:14,4,5,0,4,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,,,MISS Brown 6' Jump Shot,1:57 PM
+416,0,4,434,0029700001,,,7:12,4,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley REBOUND (Off:2 Def:2),1:57 PM
+417,5,1,435,0029700001,,,7:10,4,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,72 - 81,9,Longley 2' Layup (8 PTS),1:57 PM
+418,1,2,436,0029700001,MISS Brown 17' Jump Shot,,6:45,4,4,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:57 PM
+419,0,4,437,0029700001,McCarty REBOUND (Off:3 Def:2),,6:45,4,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:58 PM
+420,15,5,438,0029700001,McCarty Offensive Goaltending Turnover (P2.T19),,6:45,4,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,1:58 PM
+421,1,9,439,0029700001,CELTICS Timeout: Regular (Full 5 Short 1),,6:45,4,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,1:58 PM
+422,1,2,443,0029700001,,,6:34,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 20' Jump Shot,2:00 PM
+423,0,4,444,0029700001,,,6:31,4,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley REBOUND (Off:3 Def:2),2:00 PM
+424,1,2,445,0029700001,,,6:18,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 7' Jump Shot,2:00 PM
+425,0,4,446,0029700001,Knight REBOUND (Off:2 Def:9),,6:13,4,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:00 PM
+426,1,2,448,0029700001,MISS McCarty 6' Jump Shot,,6:00,4,4,0,5,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,,,Brown BLOCK (1 BLK),2:01 PM
+427,0,4,449,0029700001,McCarty REBOUND (Off:4 Def:2),,5:57,4,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:01 PM
+428,4,5,450,0029700001,Brown Traveling Turnover (P1.T20),,5:55,4,4,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:01 PM
+429,1,5,452,0029700001,Walker STEAL (4 STL),,5:41,4,5,4,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Kukoc Bad Pass Turnover (P3.T19),2:01 PM
+430,4,6,453,0029700001,Walker OFF.Foul (P3),,5:36,4,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:01 PM
+431,5,5,454,0029700001,Walker Foul Turnover (P6.T21),,5:36,4,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:01 PM
+432,1,9,455,0029700001,,,5:36,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.3 Short 2),2:01 PM
+433,0,8,457,0029700001,SUB: Bowen FOR McCarty,,5:36,4,4,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,2:04 PM
+434,0,8,458,0029700001,,,5:36,4,5,5,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,146,Jud Buechler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Buechler FOR Brown,2:04 PM
+435,0,8,459,0029700001,,,5:27,4,5,5,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Caffey FOR Longley,2:04 PM
+436,1,5,460,0029700001,Walker STEAL (5 STL),,5:12,4,5,4,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Jordan Bad Pass Turnover (P3.T20),2:04 PM
+437,1,1,461,0029700001,Walker 19' Jump Shot (31 PTS),,4:50,4,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,72 - 83,11,,2:05 PM
+438,5,1,462,0029700001,,,4:36,4,5,5,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,74 - 83,9,Jordan 3' Layup (24 PTS) (Kukoc 2 AST),2:05 PM
+439,5,2,463,0029700001,MISS Brown 2' Layup,,4:08,4,4,0,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:05 PM
+440,0,4,464,0029700001,,,4:05,4,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Caffey REBOUND (Off:4 Def:4),2:05 PM
+441,1,2,465,0029700001,,,3:57,4,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kukoc  3PT Jump Shot,2:05 PM
+442,0,4,466,0029700001,Walker REBOUND (Off:3 Def:5),,3:54,4,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:05 PM
+443,1,9,469,0029700001,CELTICS Timeout: Regular (Full 6 Short 1),,3:51,4,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,2:07 PM
+444,0,8,470,0029700001,SUB: Mercer FOR Brown,,3:51,4,4,4,0,244,Dee Brown,BOS,Boston,1610612738.0,Celtics,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,2:07 PM
+445,0,8,471,0029700001,SUB: McCarty FOR Bowen,,3:51,4,4,4,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,2:08 PM
+446,0,8,472,0029700001,,,3:51,4,5,5,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Rodman FOR Caffey,2:08 PM
+447,10,5,473,0029700001,CELTICS Turnover: 8 Second Violation (T#22),,3:44,4,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,2:08 PM
+448,1,6,474,0029700001,Walker P.FOUL (P4.PN),,3:34,4,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:08 PM
+449,11,3,475,0029700001,,,3:34,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,75 - 83,8,Jordan Free Throw 1 of 2 (25 PTS),2:08 PM
+450,0,8,476,0029700001,,,3:34,4,5,5,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Brown FOR Kerr,2:09 PM
+451,0,8,477,0029700001,,,3:34,4,5,5,0,146,Jud Buechler,CHI,Chicago,1610612741.0,Bulls,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Burrell FOR Buechler,2:09 PM
+452,12,3,478,0029700001,,,3:34,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,76 - 83,7,Jordan Free Throw 2 of 2 (26 PTS),2:09 PM
+453,1,2,479,0029700001,MISS Knight 17' Jump Shot,,3:13,4,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:09 PM
+454,0,4,480,0029700001,,,3:09,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:1 Def:5),2:10 PM
+455,1,6,481,0029700001,Walker P.FOUL (P5.PN),,3:03,4,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:10 PM
+456,11,3,482,0029700001,,,3:03,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,77 - 83,6,Jordan Free Throw 1 of 2 (27 PTS),2:10 PM
+457,12,3,483,0029700001,,,3:03,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,78 - 83,5,Jordan Free Throw 2 of 2 (28 PTS),2:10 PM
+458,6,1,484,0029700001,Mercer 3' Driving Layup (10 PTS) (Walker 2 AST),,2:53,4,4,4,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,78 - 85,7,,2:11 PM
+459,2,6,485,0029700001,,,2:53,4,5,0,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Burrell S.FOUL (P2.T2),2:11 PM
+460,0,8,486,0029700001,,,2:53,4,5,5,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kerr FOR Brown,2:11 PM
+461,0,8,487,0029700001,,,2:53,4,5,5,0,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,146,Jud Buechler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Buechler FOR Burrell,2:11 PM
+462,0,8,488,0029700001,SUB: Bowen FOR Walker,,2:53,4,4,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,2:11 PM
+463,0,8,489,0029700001,,,2:53,4,5,5,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Longley FOR Rodman,2:11 PM
+464,10,3,490,0029700001,Mercer Free Throw 1 of 1 (11 PTS),,2:53,4,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,78 - 86,8,,2:11 PM
+465,1,1,491,0029700001,,,2:41,4,5,5,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,146,Jud Buechler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,81 - 86,5,Kerr 26' 3PT Jump Shot (5 PTS) (Buechler 1 AST),2:12 PM
+466,2,9,492,0029700001,CELTICS Timeout: Short (Full 6 Short 2),,2:35,4,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,2:12 PM
+467,0,8,494,0029700001,SUB: Walker FOR Bowen,,2:35,4,4,4,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,2:12 PM
+468,0,8,495,0029700001,,,2:35,4,5,5,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Rodman FOR Longley,2:12 PM
+469,1,5,496,0029700001,McCarty Bad Pass Turnover (P3.T23),,2:22,4,4,5,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Kukoc STEAL (3 STL),2:13 PM
+470,2,6,497,0029700001,Mercer S.FOUL (P2.PN),,2:15,4,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:13 PM
+471,11,3,498,0029700001,,,2:15,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan Free Throw 1 of 2,2:13 PM
+472,0,4,499,0029700001,,,2:15,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,2:13 PM
+473,0,8,500,0029700001,,,2:15,4,5,5,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Brown FOR Kerr,2:14 PM
+474,12,3,501,0029700001,,,2:15,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,82 - 86,4,Jordan Free Throw 2 of 2 (29 PTS),2:14 PM
+475,1,2,502,0029700001,MISS Barros 28' 3PT Jump Shot,,1:54,4,4,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:14 PM
+476,0,4,503,0029700001,Knight REBOUND (Off:3 Def:9),,1:52,4,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:14 PM
+477,5,2,504,0029700001,MISS Knight 1' Layup,,1:50,4,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:14 PM
+478,0,4,505,0029700001,Knight REBOUND (Off:4 Def:9),,1:50,4,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:14 PM
+479,1,2,506,0029700001,MISS Mercer 13' Jump Shot,,1:46,4,4,0,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:15 PM
+480,0,4,507,0029700001,,,1:43,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,2:15 PM
+481,0,8,508,0029700001,,,1:43,4,5,5,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kerr FOR Brown,2:15 PM
+482,1,2,509,0029700001,,,1:31,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 15' Jump Shot,2:15 PM
+483,0,4,510,0029700001,,,1:27,4,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Kukoc REBOUND (Off:3 Def:1),2:15 PM
+484,1,6,511,0029700001,McCarty P.FOUL (P5.PN),,1:21,4,4,0,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:15 PM
+485,11,3,512,0029700001,,,1:21,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan Free Throw 1 of 2,2:16 PM
+486,0,4,513,0029700001,,,1:21,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Rebound,2:16 PM
+487,0,8,514,0029700001,,,1:21,4,5,5,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Brown FOR Kerr,2:16 PM
+488,12,3,515,0029700001,,,1:21,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,83 - 86,3,Jordan Free Throw 2 of 2 (30 PTS),2:16 PM
+489,1,6,516,0029700001,,,1:02,4,5,0,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Brown P.FOUL (P1.T3),2:16 PM
+490,3,5,517,0029700001,Walker Out Of Bounds Turnover (P7.T24),,0:47,4,4,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:17 PM
+491,0,8,518,0029700001,,,0:47,4,5,5,0,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kerr FOR Brown,2:17 PM
+492,1,9,519,0029700001,,,0:47,4,3,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,Bulls Timeout: Regular (Reg.4 Short 2),2:17 PM
+493,0,8,523,0029700001,,,0:47,4,5,5,0,23,Dennis Rodman,CHI,Chicago,1610612741.0,Bulls,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Longley FOR Rodman,2:19 PM
+494,1,2,524,0029700001,,,0:39,4,5,0,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Jordan 9' Jump Shot,2:20 PM
+495,0,4,525,0029700001,CELTICS Rebound,,0:38,4,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,2:20 PM
+496,1,6,526,0029700001,,,0:38,4,5,0,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Longley P.FOUL (P5.PN),2:20 PM
+497,11,3,527,0029700001,Knight Free Throw 1 of 2 (7 PTS),,0:38,4,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,83 - 87,4,,2:20 PM
+498,0,8,528,0029700001,SUB: Bowen FOR Mercer,,0:38,4,4,4,0,1500,Ron Mercer,BOS,Boston,1610612738.0,Celtics,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,2:20 PM
+499,12,3,529,0029700001,Knight Free Throw 2 of 2 (8 PTS),,0:38,4,4,0,0,969,Travis Knight,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,83 - 88,5,,2:20 PM
+500,1,2,530,0029700001,,,0:27,4,5,0,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,MISS Kukoc 25' 3PT Jump Shot,2:21 PM
+501,0,4,531,0029700001,Barros REBOUND (Off:1 Def:5),,0:24,4,4,0,0,344,Dana Barros,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,,2:21 PM
+502,1,6,532,0029700001,,,0:11,4,5,0,0,146,Jud Buechler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Buechler P.FOUL (P1.PN),2:21 PM
+503,11,3,533,0029700001,Bowen Free Throw 1 of 2 (7 PTS),,0:11,4,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,83 - 89,6,,2:21 PM
+504,0,8,534,0029700001,,,0:11,4,5,5,0,389,Toni Kukoc,CHI,Chicago,1610612741.0,Bulls,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Caffey FOR Kukoc,2:22 PM
+505,12,3,535,0029700001,Bowen Free Throw 2 of 2 (8 PTS),,0:11,4,4,0,0,1477,Bruce Bowen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,83 - 90,7,,2:22 PM
+506,1,1,536,0029700001,,,0:05,4,5,0,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,85 - 90,5,Caffey 22' Jump Shot (13 PTS),2:22 PM
+507,1,9,537,0029700001,CELTICS Timeout: Regular (Full 7 Short 2),,0:05,4,2,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,,2:22 PM
+508,0,8,539,0029700001,,,0:05,4,5,5,0,679,Jason Caffey,CHI,Chicago,1610612741.0,Bulls,753,Randy Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Brown FOR Caffey,2:24 PM
+509,0,8,540,0029700001,,,0:05,4,5,5,0,26,Luc Longley,CHI,Chicago,1610612741.0,Bulls,197,Scott Burrell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Burrell FOR Longley,2:24 PM
+510,0,8,541,0029700001,,,0:05,4,5,5,0,893,Michael Jordan,CHI,Chicago,1610612741.0,Bulls,82,Bill Wennington,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Wennington FOR Jordan,2:24 PM
+511,0,8,542,0029700001,,,0:05,4,5,5,0,70,Steve Kerr,CHI,Chicago,1610612741.0,Bulls,170,Joe Kleine,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,SUB: Kleine FOR Kerr,2:24 PM
+512,0,8,543,0029700001,SUB: Billups FOR McCarty,,0:05,4,4,4,0,962,Walter McCarty,BOS,Boston,1610612738.0,Celtics,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,2:24 PM
+513,1,6,544,0029700001,,,0:04,4,5,0,0,146,Jud Buechler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,Buechler P.FOUL (P2.PN),2:24 PM
+514,11,3,545,0029700001,Billups Free Throw 1 of 2 (14 PTS),,0:04,4,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,85 - 91,6,,2:24 PM
+515,12,3,546,0029700001,Billups Free Throw 2 of 2 (15 PTS),,0:04,4,4,0,0,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,85 - 92,7,,2:25 PM
+516,1,5,547,0029700001,Billups STEAL (2 STL),,0:02,4,5,4,0,170,Joe Kleine,CHI,Chicago,1610612741.0,Bulls,1497,Chauncey Billups,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Kleine Bad Pass Turnover (P1.T21),2:25 PM
+517,0,13,548,0029700001,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,85 - 92,7,,2:25 PM

@@ -1,0 +1,495 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021000830,,,12:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:13 PM
+1,0,10,1,0021000830,Jump Ball Milicic vs. Jordan: Tip to Griffin,,12:00,1,4.0,5,5,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,,,,8:13 PM
+2,1,1,2,0021000830,,,11:46,1,5.0,5,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,2 - 0,-2,Gomes 21' Jump Shot (2 PTS) (Griffin 1 AST),8:13 PM
+3,1,1,3,0021000830,Webster 19' Jump Shot (2 PTS),,11:29,1,4.0,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,2 - 2,TIE,,8:14 PM
+4,66,1,4,0021000830,,,11:11,1,5.0,5,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,4 - 2,-2,Griffin 18' Jump Bank Shot (2 PTS) (Davis 1 AST),8:14 PM
+5,4,6,5,0021000830,Brewer OFF.Foul (P1),,11:03,1,4.0,5,1,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,8:14 PM
+6,5,5,6,0021000830,Brewer Foul Turnover (P1.T1),,11:03,1,4.0,0,1,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:14 PM
+7,1,2,7,0021000830,,,10:49,1,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Griffin 5' Jump Shot,8:14 PM
+8,0,4,8,0021000830,Love REBOUND (Off:0 Def:1),,10:48,1,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:14 PM
+9,1,2,9,0021000830,MISS Love 20' Jump Shot,,10:36,1,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:15 PM
+10,0,4,11,0021000830,Brewer REBOUND (Off:1 Def:0),,10:34,1,4.0,0,0,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:15 PM
+11,65,1,10,0021000830,Milicic 4' Jump Hook Shot (2 PTS),,10:23,1,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,4 - 4,TIE,,8:15 PM
+12,1,1,12,0021000830,,,10:01,1,5.0,5,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,7 - 4,-3,Foye 25' 3PT Jump Shot (3 PTS) (Davis 2 AST),8:15 PM
+13,1,2,13,0021000830,MISS Webster  3PT Jump Shot,,9:45,1,4.0,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:16 PM
+14,0,4,14,0021000830,TIMBERWOLVES Rebound,,9:43,1,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,8:16 PM
+15,1,2,15,0021000830,MISS Webster 15' Jump Shot,,9:40,1,4.0,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:16 PM
+16,0,4,16,0021000830,Brewer REBOUND (Off:2 Def:0),,9:39,1,4.0,0,0,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:16 PM
+17,2,6,17,0021000830,,,9:39,1,5.0,4,1,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Foye S.FOUL (P1.T1),8:16 PM
+18,11,3,18,0021000830,MISS Brewer Free Throw 1 of 2,,9:39,1,4.0,0,0,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:16 PM
+19,1,4,19,0021000830,TIMBERWOLVES Rebound,,9:39,1,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,8:16 PM
+20,12,3,20,0021000830,MISS Brewer Free Throw 2 of 2,,9:39,1,4.0,0,0,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:16 PM
+21,0,4,22,0021000830,,,9:38,1,5.0,0,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:0 Def:1),8:17 PM
+22,1,2,23,0021000830,,,9:20,1,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Foye 18' Jump Shot,8:17 PM
+23,0,4,24,0021000830,Love REBOUND (Off:0 Def:2),,9:19,1,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:17 PM
+24,2,5,25,0021000830,Milicic Lost Ball Turnover (P1.T2),,9:07,1,4.0,5,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Davis STEAL (1 STL),8:17 PM
+25,8,1,26,0021000830,,,9:01,1,5.0,5,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,9 - 4,-5,Griffin 2' Slam Dunk (4 PTS) (Davis 3 AST),8:17 PM
+26,5,2,27,0021000830,MISS Brewer  Layup,,8:49,1,4.0,0,5,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,,,Jordan BLOCK (1 BLK),8:17 PM
+27,0,4,28,0021000830,,,8:47,1,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:0 Def:1),8:18 PM
+28,1,1,29,0021000830,,,8:41,1,5.0,5,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,12 - 4,-8,Gomes  3PT Jump Shot (5 PTS) (Foye 1 AST),8:18 PM
+29,65,1,30,0021000830,Milicic 7' Jump Hook Shot (4 PTS),,8:22,1,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,12 - 6,-6,,8:18 PM
+30,1,2,31,0021000830,,,8:07,1,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Foye  3PT Jump Shot,8:18 PM
+31,0,4,32,0021000830,Milicic REBOUND (Off:0 Def:1),,8:06,1,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:18 PM
+32,5,2,33,0021000830,MISS Ridnour  Layup,,7:59,1,4.0,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:18 PM
+33,0,4,34,0021000830,,,7:58,1,5.0,0,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:0 Def:2),8:18 PM
+34,1,2,35,0021000830,,,7:50,1,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Foye 24' 3PT Jump Shot,8:18 PM
+35,0,4,36,0021000830,Love REBOUND (Off:0 Def:3),,7:49,1,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:18 PM
+36,1,2,37,0021000830,MISS Ridnour  3PT Jump Shot,,7:34,1,4.0,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:19 PM
+37,0,4,38,0021000830,Milicic REBOUND (Off:1 Def:1),,7:33,1,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:19 PM
+38,1,1,39,0021000830,Love 7' Jump Shot (2 PTS),,7:28,1,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,12 - 8,-4,,8:19 PM
+39,4,5,40,0021000830,,,7:08,1,5.0,0,1,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Foye Traveling Turnover (P1.T1),8:19 PM
+40,5,1,41,0021000830,Milicic 3' Layup (6 PTS),,6:52,1,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,12 - 10,-2,,8:20 PM
+41,2,6,42,0021000830,,,6:52,1,5.0,4,1,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Jordan S.FOUL (P1.T2),8:20 PM
+42,0,8,43,0021000830,,,6:52,1,5.0,5,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Bledsoe FOR Davis,8:20 PM
+43,10,3,44,0021000830,MISS Milicic Free Throw 1 of 1,,6:52,1,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:20 PM
+44,0,4,46,0021000830,Milicic REBOUND (Off:2 Def:1),,6:50,1,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:20 PM
+45,1,2,49,0021000830,MISS Milicic 7' Jump Shot,,6:32,1,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:21 PM
+46,0,4,50,0021000830,,,6:31,1,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Foye REBOUND (Off:0 Def:1),8:21 PM
+47,1,1,51,0021000830,,,6:10,1,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,14 - 10,-4,Foye 22' Jump Shot (5 PTS),8:21 PM
+48,79,2,52,0021000830,MISS Webster 21' Pullup Jump Shot,,5:54,1,4.0,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:22 PM
+49,0,4,53,0021000830,,,5:53,1,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Bledsoe REBOUND (Off:0 Def:1),8:22 PM
+50,1,1,54,0021000830,,,5:46,1,5.0,5,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,17 - 10,-7,Foye  3PT Jump Shot (8 PTS) (Gomes 1 AST),8:22 PM
+51,1,9,55,0021000830,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,5:39,1,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,8:22 PM
+52,0,18,56,0021000830,,,5:39,1,,0,1,51,Mahmoud Abdul-Rauf,,,,,0,,,,,,0,,,,,,,,,8:22 PM
+53,58,1,57,0021000830,Love 7' Turnaround Hook Shot (4 PTS) (Brewer 1 AST),,5:20,1,4.0,4,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,17 - 12,-5,,8:25 PM
+54,1,2,58,0021000830,,,4:54,1,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Bledsoe 24' 3PT Jump Shot,8:25 PM
+55,0,4,59,0021000830,,,4:52,1,5.0,0,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Gomes REBOUND (Off:1 Def:0),8:26 PM
+56,45,2,61,0021000830,,,4:34,1,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Foye 25' 3PT Jump Shot,8:26 PM
+57,0,4,60,0021000830,Love REBOUND (Off:0 Def:4),,4:34,1,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:26 PM
+58,2,6,62,0021000830,,,4:28,1,5.0,4,1,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Bledsoe S.FOUL (P1.T3),8:26 PM
+59,11,3,63,0021000830,Ridnour Free Throw 1 of 2 (1 PTS),,4:28,1,4.0,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,17 - 13,-4,,8:26 PM
+60,0,8,65,0021000830,SUB: Ellington FOR Brewer,,4:28,1,4.0,4,0,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,8:26 PM
+61,12,3,66,0021000830,Ridnour Free Throw 2 of 2 (2 PTS),,4:28,1,4.0,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,17 - 14,-3,,8:27 PM
+62,1,2,69,0021000830,,,4:11,1,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Foye 22' Jump Shot,8:27 PM
+63,0,4,70,0021000830,Love REBOUND (Off:0 Def:5),,4:09,1,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:27 PM
+64,1,5,71,0021000830,Love Bad Pass Turnover (P1.T3),,4:03,1,4.0,5,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Bledsoe STEAL (1 STL),8:27 PM
+65,1,2,74,0021000830,,,3:49,1,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Griffin 5' Jump Shot,8:28 PM
+66,0,4,75,0021000830,Love REBOUND (Off:0 Def:6),,3:48,1,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:28 PM
+67,1,2,76,0021000830,MISS Milicic 10' Jump Shot,,3:40,1,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:28 PM
+68,0,4,77,0021000830,Love REBOUND (Off:1 Def:6),,3:39,1,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:28 PM
+69,44,1,78,0021000830,Love 2' Reverse Layup (6 PTS),,3:36,1,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,17 - 16,-1,,8:28 PM
+70,1,6,79,0021000830,Ellington P.FOUL (P1.T1),,3:20,1,4.0,5,1,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,8:28 PM
+71,5,1,80,0021000830,,,3:12,1,5.0,5,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,19 - 16,-3,Jordan 2' Layup (2 PTS) (Gomes 2 AST),8:29 PM
+72,1,1,81,0021000830,Milicic 5' Jump Shot (8 PTS) (Ridnour 1 AST),,2:58,1,4.0,4,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,19 - 18,-1,,8:29 PM
+73,1,2,82,0021000830,,,2:36,1,5.0,0,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Gomes 20' Jump Shot,8:29 PM
+74,0,4,83,0021000830,Love REBOUND (Off:1 Def:7),,2:35,1,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:29 PM
+75,1,5,84,0021000830,Ridnour Bad Pass Turnover (P1.T4),,2:30,1,4.0,5,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Bledsoe STEAL (2 STL),8:29 PM
+76,8,1,85,0021000830,,,2:25,1,5.0,5,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,21 - 18,-3,Griffin 1' Slam Dunk (6 PTS) (Bledsoe 1 AST),8:29 PM
+77,1,2,86,0021000830,MISS Milicic 6' Jump Shot,,2:08,1,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:30 PM
+78,0,4,87,0021000830,,,2:07,1,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Bledsoe REBOUND (Off:0 Def:2),8:30 PM
+79,41,1,88,0021000830,,,2:03,1,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,23 - 18,-5,Bledsoe 2' Running Layup (2 PTS),8:30 PM
+80,1,6,89,0021000830,,,1:45,1,5.0,4,1,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Griffin P.FOUL (P1.T4),8:30 PM
+81,1,9,91,0021000830,,,1:45,1,3.0,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Timeout: Regular (Reg.1 Short 0),8:30 PM
+82,0,8,92,0021000830,SUB: Telfair FOR Ridnour,,1:45,1,4.0,4,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,8:33 PM
+83,0,8,93,0021000830,,,1:45,1,5.0,5,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Aminu FOR Jordan,8:33 PM
+84,0,8,94,0021000830,,,1:45,1,5.0,5,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,101113,Ike Diogu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Diogu FOR Gomes,8:33 PM
+85,8,1,95,0021000830,Webster 1' Slam Dunk (4 PTS) (Milicic 1 AST),,1:34,1,4.0,4,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,23 - 20,-3,,8:33 PM
+86,1,6,96,0021000830,Milicic P.FOUL (P1.T2),,1:10,1,4.0,5,1,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,8:34 PM
+87,1,2,97,0021000830,,,0:58,1,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Bledsoe 21' Jump Shot,8:35 PM
+88,0,4,98,0021000830,Love REBOUND (Off:1 Def:8),,0:57,1,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:35 PM
+89,5,2,99,0021000830,MISS Milicic 2' Layup,,0:42,1,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:35 PM
+90,0,4,100,0021000830,,,0:40,1,5.0,0,0,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Aminu REBOUND (Off:0 Def:1),8:35 PM
+91,1,2,101,0021000830,,,0:23,1,5.0,0,0,101113,Ike Diogu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Diogu 6' Jump Shot,8:35 PM
+92,0,4,102,0021000830,Love REBOUND (Off:1 Def:9),,0:20,1,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:35 PM
+93,2,6,103,0021000830,,,0:03,1,5.0,4,1,101113,Ike Diogu,LAC,Los Angeles,1610612746.0,Clippers,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Diogu S.FOUL (P1.PN),8:36 PM
+94,11,3,104,0021000830,MISS Milicic Free Throw 1 of 2,,0:03,1,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:36 PM
+95,1,4,105,0021000830,TIMBERWOLVES Rebound,,0:03,1,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,8:36 PM
+96,0,8,107,0021000830,SUB: Tolliver FOR Love,,0:03,1,4.0,4,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,8:36 PM
+97,12,3,108,0021000830,MISS Milicic Free Throw 2 of 2,,0:03,1,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:36 PM
+98,0,4,110,0021000830,,,0:03,1,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Foye REBOUND (Off:0 Def:2),8:36 PM
+99,1,2,111,0021000830,,,0:00,1,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Foye 25' 3PT Jump Shot,8:36 PM
+100,0,4,112,0021000830,,,0:00,1,3.0,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Rebound,8:37 PM
+101,0,13,113,0021000830,,,0:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 20,-3,,8:37 PM
+102,0,12,115,0021000830,,,12:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 20,-3,,8:39 PM
+103,1,1,116,0021000830,Tolliver 19' Jump Shot (2 PTS) (Telfair 1 AST),,11:41,2,4.0,4,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,23 - 22,-1,,8:40 PM
+104,1,2,117,0021000830,,,11:27,2,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Griffin 7' Jump Shot,8:40 PM
+105,0,4,118,0021000830,W. Johnson REBOUND (Off:0 Def:1),,11:26,2,4.0,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:40 PM
+106,7,5,119,0021000830,Ellington Discontinue Dribble Turnover (P1.T5),,11:23,2,4.0,0,1,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:40 PM
+107,5,2,120,0021000830,,,11:10,2,5.0,0,0,101113,Ike Diogu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Diogu 2' Layup,8:40 PM
+108,0,4,121,0021000830,,,11:09,2,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Bledsoe REBOUND (Off:1 Def:2),8:40 PM
+109,1,2,122,0021000830,,,10:54,2,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Davis 24' 3PT Jump Shot,8:41 PM
+110,0,4,123,0021000830,Telfair REBOUND (Off:0 Def:1),,10:52,2,4.0,0,0,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:41 PM
+111,5,1,125,0021000830,Milicic  Layup (10 PTS) (Telfair 2 AST),,10:31,2,4.0,4,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,23 - 24,1,,8:41 PM
+112,41,1,126,0021000830,,,10:03,2,5.0,0,0,101113,Ike Diogu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,25 - 24,-1,Diogu 3' Running Layup (2 PTS),8:42 PM
+113,1,5,127,0021000830,Tolliver Bad Pass Turnover (P1.T6),,9:44,2,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:42 PM
+114,5,1,128,0021000830,,,9:42,2,5.0,5,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,27 - 24,-3,Griffin 2' Layup (8 PTS) (Davis 4 AST),8:42 PM
+115,1,5,129,0021000830,W. Johnson Bad Pass Turnover (P1.T7),,9:31,2,4.0,5,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Aminu STEAL (1 STL),8:43 PM
+116,80,2,130,0021000830,,,9:25,2,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Davis 25' 3PT Step Back Jump Shot,8:43 PM
+117,0,4,131,0021000830,,,9:25,2,3.0,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Rebound,8:43 PM
+118,3,6,132,0021000830,Tolliver L.B.FOUL (P1.T1),,9:25,2,4.0,5,1,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,101113,Ike Diogu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,8:43 PM
+119,5,1,133,0021000830,,,9:17,2,5.0,5,0,101113,Ike Diogu,LAC,Los Angeles,1610612746.0,Clippers,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,29 - 24,-5,Diogu 3' Layup (4 PTS) (Bledsoe 2 AST),8:43 PM
+120,1,2,134,0021000830,MISS Ellington 26' 3PT Jump Shot,,9:04,2,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:43 PM
+121,0,4,135,0021000830,Ellington REBOUND (Off:1 Def:0),,9:02,2,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:43 PM
+122,41,2,136,0021000830,MISS Milicic 1' Running Layup,,8:51,2,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:44 PM
+123,0,4,137,0021000830,,,8:50,2,5.0,0,0,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Aminu REBOUND (Off:0 Def:2),8:44 PM
+124,1,2,138,0021000830,,,8:35,2,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Davis 25' 3PT Jump Shot,8:44 PM
+125,0,4,139,0021000830,Tolliver REBOUND (Off:0 Def:1),,8:34,2,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:44 PM
+126,5,2,140,0021000830,MISS Telfair 1' Layup,,8:28,2,4.0,0,0,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:44 PM
+127,0,4,141,0021000830,,,8:27,2,5.0,0,0,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Aminu REBOUND (Off:0 Def:3),8:44 PM
+128,1,5,142,0021000830,W. Johnson STEAL (1 STL),,8:20,2,5.0,4,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Bledsoe Bad Pass Turnover (P1.T2),8:44 PM
+129,1,2,143,0021000830,MISS Tolliver  3PT Jump Shot,,8:13,2,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:44 PM
+130,0,4,144,0021000830,Milicic REBOUND (Off:3 Def:1),,8:12,2,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:44 PM
+131,2,6,145,0021000830,,,8:06,2,5.0,4,1,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Aminu S.FOUL (P1.T1),8:44 PM
+132,1,9,146,0021000830,,,8:06,2,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:44 PM
+133,0,8,148,0021000830,SUB: Pekovic FOR Milicic,,8:06,2,4.0,4,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,8:47 PM
+134,0,8,149,0021000830,,,8:06,2,5.0,5,0,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Kaman FOR Aminu,8:47 PM
+135,0,8,150,0021000830,,,8:06,2,5.0,5,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Gomes FOR Griffin,8:47 PM
+136,11,3,151,0021000830,Tolliver Free Throw 1 of 2 (3 PTS),,8:06,2,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,29 - 25,-4,,8:47 PM
+137,12,3,153,0021000830,Tolliver Free Throw 2 of 2 (4 PTS),,8:06,2,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,29 - 26,-3,,8:48 PM
+138,1,2,155,0021000830,,,7:49,2,5.0,0,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Gomes  3PT Jump Shot,8:48 PM
+139,0,4,156,0021000830,Pekovic REBOUND (Off:0 Def:1),,7:48,2,4.0,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:48 PM
+140,1,2,157,0021000830,MISS Ellington 23' Jump Shot,,7:30,2,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:48 PM
+141,0,4,158,0021000830,Pekovic REBOUND (Off:1 Def:1),,7:29,2,4.0,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:49 PM
+142,5,2,159,0021000830,MISS Pekovic 2' Layup,,7:22,2,4.0,0,5,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,,,Kaman BLOCK (1 BLK),8:49 PM
+143,0,4,160,0021000830,,,7:20,2,5.0,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Kaman REBOUND (Off:0 Def:1),8:49 PM
+144,26,6,161,0021000830,,,7:14,2,5.0,4,1,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Davis Offensive Charge Foul (P1.T2),8:49 PM
+145,5,5,162,0021000830,,,7:14,2,5.0,0,1,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Davis Foul Turnover (P1.T3),8:49 PM
+146,0,8,163,0021000830,SUB: Love FOR Tolliver,,7:14,2,4.0,4,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,8:49 PM
+147,42,2,164,0021000830,MISS Telfair 3' Driving Layup,,7:05,2,4.0,0,0,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:49 PM
+148,0,4,165,0021000830,,,7:04,2,5.0,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Kaman REBOUND (Off:0 Def:2),8:49 PM
+149,1,2,166,0021000830,,,6:57,2,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Davis 9' Jump Shot,8:49 PM
+150,0,4,167,0021000830,TIMBERWOLVES Rebound,,6:56,2,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,8:49 PM
+151,1,2,168,0021000830,MISS Pekovic 5' Jump Shot,,6:42,2,4.0,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:50 PM
+152,0,4,169,0021000830,,,6:41,2,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Davis REBOUND (Off:0 Def:1),8:50 PM
+153,1,2,170,0021000830,,,6:28,2,5.0,0,0,101113,Ike Diogu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Diogu 17' Jump Shot,8:50 PM
+154,0,4,171,0021000830,Love REBOUND (Off:1 Def:10),,6:27,2,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:50 PM
+155,29,6,172,0021000830,,,6:23,2,5.0,4,1,101113,Ike Diogu,LAC,Los Angeles,1610612746.0,Clippers,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Diogu Shooting Block Foul (P2.T3),8:50 PM
+156,11,3,173,0021000830,Ellington Free Throw 1 of 2 (1 PTS),,6:23,2,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,29 - 27,-2,,8:50 PM
+157,0,8,175,0021000830,SUB: Ridnour FOR Telfair,,6:23,2,4.0,4,0,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,8:51 PM
+158,0,8,176,0021000830,SUB: Webster FOR W. Johnson,,6:23,2,4.0,4,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,8:51 PM
+159,12,3,177,0021000830,MISS Ellington Free Throw 2 of 2,,6:23,2,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:51 PM
+160,0,4,179,0021000830,,,6:22,2,5.0,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Kaman REBOUND (Off:0 Def:3),8:51 PM
+161,78,2,180,0021000830,,,6:04,2,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Davis 7' Floating Jump Shot,8:51 PM
+162,0,4,181,0021000830,,,6:03,2,5.0,0,0,101113,Ike Diogu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Diogu REBOUND (Off:1 Def:0),8:51 PM
+163,5,2,182,0021000830,,,6:00,2,5.0,0,0,101113,Ike Diogu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Diogu 2' Layup,8:51 PM
+164,0,4,183,0021000830,Love REBOUND (Off:1 Def:11),,5:59,2,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:51 PM
+165,1,2,184,0021000830,MISS Love 24' 3PT Jump Shot,,5:50,2,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:51 PM
+166,0,4,185,0021000830,,,5:49,2,5.0,0,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Gomes REBOUND (Off:1 Def:1),8:51 PM
+167,5,2,186,0021000830,,,5:40,2,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Davis 2' Layup,8:52 PM
+168,0,4,187,0021000830,,,5:40,2,3.0,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Rebound,8:52 PM
+169,1,9,188,0021000830,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,5:40,2,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,8:52 PM
+170,0,8,190,0021000830,SUB: Brewer FOR Ellington,,5:40,2,4.0,4,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,8:54 PM
+171,0,8,191,0021000830,,,5:40,2,5.0,5,0,101113,Ike Diogu,LAC,Los Angeles,1610612746.0,Clippers,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Griffin FOR Diogu,8:54 PM
+172,1,2,193,0021000830,,,5:28,2,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Davis 24' 3PT Jump Shot,8:55 PM
+173,0,4,194,0021000830,Pekovic REBOUND (Off:1 Def:2),,5:27,2,4.0,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:55 PM
+174,1,2,195,0021000830,MISS Ridnour 20' Jump Shot,,5:14,2,4.0,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:55 PM
+175,0,4,196,0021000830,Pekovic REBOUND (Off:2 Def:2),,5:13,2,4.0,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:55 PM
+176,2,6,197,0021000830,,,5:13,2,5.0,4,1,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Gomes S.FOUL (P1.T4),8:55 PM
+177,11,3,198,0021000830,Pekovic Free Throw 1 of 2 (1 PTS),,5:13,2,4.0,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,29 - 28,-1,,8:55 PM
+178,0,8,200,0021000830,,,5:13,2,5.0,5,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Foye FOR Davis,8:56 PM
+179,12,3,201,0021000830,Pekovic Free Throw 2 of 2 (2 PTS),,5:13,2,4.0,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,29 - 29,TIE,,8:56 PM
+180,80,1,203,0021000830,,,4:48,2,5.0,5,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,31 - 29,-2,Griffin 19' Step Back Jump Shot (10 PTS) (Foye 2 AST),8:56 PM
+181,1,1,204,0021000830,Love 7' Jump Shot (8 PTS) (Ridnour 2 AST),,4:39,2,4.0,4,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,31 - 31,TIE,,8:57 PM
+182,2,6,205,0021000830,,,4:39,2,5.0,4,1,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Kaman S.FOUL (P1.PN),8:57 PM
+183,0,8,206,0021000830,SUB: Milicic FOR Pekovic,,4:39,2,4.0,4,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,8:57 PM
+184,10,3,207,0021000830,MISS Love Free Throw 1 of 1,,4:39,2,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:57 PM
+185,0,4,209,0021000830,,,4:39,2,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:0 Def:2),8:57 PM
+186,1,1,210,0021000830,,,4:27,2,5.0,5,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,33 - 31,-2,Kaman 18' Jump Shot (2 PTS) (Bledsoe 3 AST),8:57 PM
+187,1,7,211,0021000830,,,4:25,2,3.0,0,1,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Violation: Delay of game Violation,8:58 PM
+188,2,9,212,0021000830,TIMBERWOLVES Timeout: Short (Full 2 Short 1),,4:22,2,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,8:58 PM
+189,0,8,213,0021000830,SUB: Tolliver FOR Love,,4:22,2,4.0,4,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,8:58 PM
+190,63,2,214,0021000830,MISS Ridnour 16' Fadeaway Jumper,,4:18,2,4.0,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,8:59 PM
+191,0,4,215,0021000830,,,4:17,2,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:0 Def:3),8:59 PM
+192,1,5,216,0021000830,Brewer STEAL (1 STL),,4:11,2,5.0,4,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Griffin Bad Pass Turnover (P1.T4),8:59 PM
+193,2,6,217,0021000830,,,4:03,2,5.0,4,1,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Bledsoe S.FOUL (P2.PN),9:00 PM
+194,11,3,218,0021000830,MISS Tolliver Free Throw 1 of 2,,4:03,2,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:00 PM
+195,1,4,219,0021000830,TIMBERWOLVES Rebound,,4:03,2,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,9:00 PM
+196,12,3,220,0021000830,Tolliver Free Throw 2 of 2 (5 PTS),,4:03,2,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,33 - 32,-1,,9:00 PM
+197,1,1,222,0021000830,,,3:51,2,5.0,5,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,35 - 32,-3,Kaman 12' Jump Shot (4 PTS) (Bledsoe 4 AST),9:00 PM
+198,1,2,223,0021000830,MISS Brewer 25' 3PT Jump Shot,,3:37,2,4.0,0,0,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:01 PM
+199,0,4,224,0021000830,,,3:36,2,5.0,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Kaman REBOUND (Off:0 Def:4),9:01 PM
+200,1,2,225,0021000830,,,3:18,2,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Foye 25' 3PT Jump Shot,9:01 PM
+201,0,4,226,0021000830,Tolliver REBOUND (Off:0 Def:2),,3:17,2,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:01 PM
+202,5,1,227,0021000830,Brewer 1' Layup (2 PTS) (Milicic 2 AST),,3:07,2,4.0,4,0,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,35 - 34,-1,,9:01 PM
+203,1,9,228,0021000830,,,2:59,2,3.0,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Timeout: Regular (Reg.2 Short 0),9:01 PM
+204,0,8,230,0021000830,,,2:59,2,5.0,5,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Jordan FOR Kaman,9:04 PM
+205,1,2,231,0021000830,,,2:41,2,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Griffin 17' Jump Shot,9:04 PM
+206,0,4,232,0021000830,Tolliver REBOUND (Off:0 Def:3),,2:40,2,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:04 PM
+207,1,2,233,0021000830,MISS Ridnour 5' Jump Shot,,2:25,2,4.0,0,5,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,,,Jordan BLOCK (2 BLK),9:05 PM
+208,0,4,234,0021000830,TIMBERWOLVES Rebound,,2:24,2,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,9:05 PM
+209,1,2,235,0021000830,MISS Webster 13' Jump Shot,,2:21,2,4.0,0,5,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,,,Foye BLOCK (1 BLK),9:05 PM
+210,0,4,236,0021000830,TIMBERWOLVES Rebound,,2:20,2,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,9:05 PM
+211,3,6,237,0021000830,,,2:20,2,5.0,4,1,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Jordan L.B.FOUL (P2.PN),9:05 PM
+212,11,3,238,0021000830,Webster Free Throw 1 of 2 (5 PTS),,2:20,2,4.0,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,35 - 35,TIE,,9:05 PM
+213,12,3,240,0021000830,MISS Webster Free Throw 2 of 2,,2:20,2,4.0,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:05 PM
+214,0,4,242,0021000830,,,2:20,2,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:0 Def:4),9:06 PM
+215,1,5,243,0021000830,Webster STEAL (1 STL),,2:01,2,5.0,4,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Bledsoe Bad Pass Turnover (P2.T5),9:06 PM
+216,5,1,244,0021000830,Ridnour 1' Layup (4 PTS) (Webster 1 AST),,1:57,2,4.0,4,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,35 - 37,2,,9:06 PM
+217,1,6,245,0021000830,Ridnour P.FOUL (P1.T2),,1:51,2,4.0,5,1,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,9:06 PM
+218,1,1,246,0021000830,,,1:35,2,5.0,5,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,37 - 37,TIE,Foye 20' Jump Shot (10 PTS) (Griffin 2 AST),9:07 PM
+219,2,7,249,0021000830,,,1:15,2,5.0,0,1,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Jordan Violation:Defensive Goaltending,9:08 PM
+220,5,1,248,0021000830,Tolliver 1' Layup (7 PTS),,1:15,2,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,37 - 39,2,,9:08 PM
+221,12,6,250,0021000830,,,1:15,2,5.0,0,1,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Jordan Non-Unsportsmanlike (P2.PN),9:08 PM
+222,16,3,251,0021000830,Ridnour Free Throw Technical (5 PTS),,1:15,2,4.0,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,37 - 40,3,,9:08 PM
+223,2,6,253,0021000830,Tolliver S.FOUL (P2.PN),,1:06,2,4.0,5,1,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,9:09 PM
+224,11,3,254,0021000830,,,1:06,2,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,38 - 40,2,Griffin Free Throw 1 of 2 (11 PTS),9:09 PM
+225,0,8,257,0021000830,SUB: Love FOR Tolliver,,1:06,2,4.0,4,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:09 PM
+226,12,3,258,0021000830,,,1:06,2,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,39 - 40,1,Griffin Free Throw 2 of 2 (12 PTS),9:09 PM
+227,1,2,260,0021000830,MISS Love 26' 3PT Jump Shot,,0:55,2,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:10 PM
+228,0,4,261,0021000830,,,0:54,2,5.0,0,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:0 Def:3),9:10 PM
+229,73,1,262,0021000830,,,0:44,2,5.0,5,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,41 - 40,-1,Griffin  Driving Reverse Layup (14 PTS) (Foye 3 AST),9:10 PM
+230,7,1,263,0021000830,Milicic  Dunk (12 PTS),,0:31,2,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,41 - 42,1,,9:10 PM
+231,1,2,264,0021000830,,,0:08,2,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Griffin 25' 3PT Jump Shot,9:11 PM
+232,0,4,265,0021000830,,,0:07,2,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Bledsoe REBOUND (Off:2 Def:2),9:11 PM
+233,2,6,266,0021000830,Webster S.FOUL (P1.PN),,0:02,2,4.0,5,1,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,9:11 PM
+234,11,3,267,0021000830,,,0:02,2,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,42 - 42,TIE,Bledsoe Free Throw 1 of 2 (3 PTS),9:11 PM
+235,12,3,269,0021000830,,,0:02,2,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,43 - 42,-1,Bledsoe Free Throw 2 of 2 (4 PTS),9:11 PM
+236,0,13,271,0021000830,,,0:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,43 - 42,-1,,9:12 PM
+237,0,12,273,0021000830,,,12:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,43 - 42,-1,,9:28 PM
+238,2,6,274,0021000830,,,11:49,3,5.0,4,1,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Davis S.FOUL (P2.T1),9:28 PM
+239,11,3,275,0021000830,MISS Love Free Throw 1 of 2,,11:49,3,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:28 PM
+240,1,4,276,0021000830,TIMBERWOLVES Rebound,,11:49,3,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,9:28 PM
+241,12,3,277,0021000830,Love Free Throw 2 of 2 (9 PTS),,11:49,3,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,43 - 43,TIE,,9:29 PM
+242,1,1,279,0021000830,,,11:33,3,5.0,5,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,45 - 43,-2,Gomes 18' Jump Shot (7 PTS) (Griffin 3 AST),9:29 PM
+243,4,5,280,0021000830,Love Traveling Turnover (P2.T8),,11:21,3,4.0,0,1,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:29 PM
+244,41,5,281,0021000830,,,11:08,3,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Griffin Poss Lost Ball Turnover (P2.T6),9:30 PM
+245,3,6,282,0021000830,,,11:05,3,5.0,4,1,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Griffin L.B.FOUL (P2.T2),9:30 PM
+246,1,1,283,0021000830,Webster  3PT Jump Shot (8 PTS) (Brewer 2 AST),,10:56,3,4.0,4,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,45 - 46,1,,9:30 PM
+247,66,1,285,0021000830,,,10:33,3,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,47 - 46,-1,Griffin 16' Jump Bank Shot (16 PTS),9:31 PM
+248,1,5,286,0021000830,Milicic Bad Pass Turnover (P2.T9),,10:20,3,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:31 PM
+249,3,6,287,0021000830,Love L.B.FOUL (P1.T1),,10:19,3,4.0,5,1,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,9:31 PM
+250,42,1,288,0021000830,,,9:59,3,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,49 - 46,-3,Foye 1' Driving Layup (12 PTS),9:32 PM
+251,5,1,289,0021000830,Love 2' Layup (11 PTS),,9:46,3,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,49 - 48,-1,,9:32 PM
+252,2,6,290,0021000830,Brewer S.FOUL (P2.T2),,9:22,3,4.0,5,1,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,9:32 PM
+253,11,3,291,0021000830,,,9:22,3,5.0,0,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,50 - 48,-2,Gomes Free Throw 1 of 2 (8 PTS),9:33 PM
+254,12,3,293,0021000830,,,9:22,3,5.0,0,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Gomes Free Throw 2 of 2,9:33 PM
+255,0,4,295,0021000830,,,9:22,3,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:1 Def:4),9:33 PM
+256,44,1,296,0021000830,,,9:18,3,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,52 - 48,-4,Griffin 1' Reverse Layup (18 PTS),9:33 PM
+257,2,6,297,0021000830,Milicic S.FOUL (P2.T3),,9:18,3,4.0,5,1,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,9:33 PM
+258,10,3,298,0021000830,,,9:18,3,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Griffin Free Throw 1 of 1,9:33 PM
+259,0,4,300,0021000830,,,9:18,3,5.0,0,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:1 Def:3),9:34 PM
+260,1,1,301,0021000830,,,9:02,3,5.0,5,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,55 - 48,-7,Davis 25' 3PT Jump Shot (3 PTS) (Foye 4 AST),9:34 PM
+261,5,2,302,0021000830,MISS Webster 3' Layup,,8:46,3,4.0,0,5,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,,,Jordan BLOCK (3 BLK),9:34 PM
+262,0,4,303,0021000830,,,8:45,3,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:1 Def:5),9:34 PM
+263,1,5,304,0021000830,Brewer STEAL (2 STL),,8:37,3,5.0,4,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Davis Bad Pass Turnover (P2.T7),9:34 PM
+264,1,2,305,0021000830,MISS Webster  3PT Jump Shot,,8:29,3,4.0,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:34 PM
+265,0,4,306,0021000830,TIMBERWOLVES Rebound,,8:27,3,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,9:34 PM
+266,1,1,307,0021000830,Ridnour 19' Jump Shot (7 PTS),,8:23,3,4.0,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,55 - 50,-5,,9:35 PM
+267,1,1,308,0021000830,,,8:07,3,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,57 - 50,-7,Griffin 20' Jump Shot (20 PTS),9:35 PM
+268,40,5,309,0021000830,Milicic Out of Bounds Lost Ball Turnover (P3.T10),,7:53,3,4.0,0,1,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:35 PM
+269,1,2,310,0021000830,,,7:35,3,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Griffin 21' Jump Shot,9:36 PM
+270,0,4,311,0021000830,TIMBERWOLVES Rebound,,7:33,3,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,9:36 PM
+271,1,2,312,0021000830,MISS Brewer  3PT Jump Shot,,7:19,3,4.0,0,0,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:36 PM
+272,0,4,313,0021000830,Milicic REBOUND (Off:4 Def:1),,7:18,3,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:36 PM
+273,8,1,314,0021000830,Brewer  Slam Dunk (4 PTS) (Milicic 3 AST),,7:15,3,4.0,4,0,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,57 - 52,-5,,9:36 PM
+274,2,6,315,0021000830,Brewer S.FOUL (P3.T4),,7:03,3,4.0,5,1,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,9:37 PM
+275,13,3,316,0021000830,,,7:03,3,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,58 - 52,-6,Foye Free Throw 1 of 3 (13 PTS),9:37 PM
+276,0,8,318,0021000830,SUB: Ellington FOR Brewer,,7:03,3,4.0,4,0,201147,Corey Brewer,MIN,Minnesota,1610612750.0,Timberwolves,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:37 PM
+277,14,3,319,0021000830,,,7:03,3,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,59 - 52,-7,Foye Free Throw 2 of 3 (14 PTS),9:37 PM
+278,15,3,321,0021000830,,,7:03,3,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,60 - 52,-8,Foye Free Throw 3 of 3 (15 PTS),9:37 PM
+279,1,2,324,0021000830,MISS Ellington 16' Jump Shot,,6:39,3,4.0,0,5,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,,,Jordan BLOCK (4 BLK),9:38 PM
+280,0,4,325,0021000830,TIMBERWOLVES Rebound,,6:39,3,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,9:38 PM
+281,11,5,326,0021000830,TIMBERWOLVES Turnover: Shot Clock (T#11),,6:39,3,2.0,0,1,1610612750,,,,,,0,,,,,,0,,,,,,,,,9:39 PM
+282,1,1,327,0021000830,,,6:17,3,5.0,5,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,62 - 52,-10,Foye 19' Jump Shot (17 PTS) (Davis 5 AST),9:39 PM
+283,1,2,328,0021000830,MISS Love 17' Jump Shot,,5:51,3,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:39 PM
+284,0,4,329,0021000830,,,5:50,3,5.0,0,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:1 Def:4),9:39 PM
+285,1,9,331,0021000830,TIMBERWOLVES Timeout: Regular (Full 3 Short 1),,5:40,3,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,9:40 PM
+286,1,1,333,0021000830,,,5:34,3,5.0,5,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,64 - 52,-12,Griffin 23' Jump Shot (22 PTS) (Foye 5 AST),9:43 PM
+287,1,2,334,0021000830,MISS Ellington 10' Jump Shot,,5:13,3,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:43 PM
+288,0,4,335,0021000830,,,5:12,3,5.0,0,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:1 Def:5),9:43 PM
+289,8,1,336,0021000830,,,5:09,3,5.0,5,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,66 - 52,-14,Griffin 1' Slam Dunk (24 PTS) (Jordan 1 AST),9:43 PM
+290,1,1,337,0021000830,Ellington 25' 3PT Jump Shot (4 PTS) (Ridnour 3 AST),,4:47,3,4.0,4,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,66 - 55,-11,,9:43 PM
+291,5,1,338,0021000830,,,4:26,3,5.0,5,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,68 - 55,-13,Gomes  Layup (10 PTS) (Griffin 4 AST),9:44 PM
+292,2,5,339,0021000830,Milicic Lost Ball Turnover (P4.T12),,4:11,3,4.0,5,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Jordan STEAL (1 STL),9:44 PM
+293,1,6,340,0021000830,Ellington P.FOUL (P2.PN),,4:07,3,4.0,5,1,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,9:44 PM
+294,0,8,342,0021000830,SUB: Telfair FOR Ridnour,,4:07,3,4.0,4,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:45 PM
+295,0,8,343,0021000830,SUB: Tolliver FOR Love,,4:07,3,4.0,4,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:45 PM
+296,11,3,344,0021000830,,,4:07,3,5.0,0,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Jordan Free Throw 1 of 2,9:45 PM
+297,1,4,345,0021000830,,,4:07,3,3.0,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Rebound,9:45 PM
+298,12,3,346,0021000830,,,4:07,3,5.0,0,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Jordan Free Throw 2 of 2,9:45 PM
+299,0,4,348,0021000830,Ellington REBOUND (Off:1 Def:1),,4:06,3,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:45 PM
+300,1,2,349,0021000830,MISS Ellington 26' 3PT Jump Shot,,3:53,3,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:45 PM
+301,0,4,350,0021000830,,,3:52,3,5.0,0,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:1 Def:6),9:45 PM
+302,17,6,351,0021000830,TIMBERWOLVES T.Foul (Def. 3 Sec Webster ),,3:37,3,4.0,0,1,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:46 PM
+303,0,8,352,0021000830,,,3:37,3,5.0,5,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Bledsoe FOR Davis,9:46 PM
+304,16,3,353,0021000830,,,3:37,3,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,69 - 55,-14,Foye Free Throw Technical (18 PTS),9:46 PM
+305,1,2,355,0021000830,,,3:25,3,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Griffin 20' Jump Shot,9:47 PM
+306,0,4,356,0021000830,TIMBERWOLVES Rebound,,3:24,3,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,9:47 PM
+307,1,1,357,0021000830,Tolliver 14' Jump Shot (9 PTS) (Telfair 3 AST),,3:12,3,4.0,4,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,69 - 57,-12,,9:47 PM
+308,2,6,358,0021000830,Milicic S.FOUL (P3.PN),,2:50,3,4.0,5,1,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,9:47 PM
+309,1,9,359,0021000830,,,2:50,3,3.0,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Timeout: Regular (Reg.3 Short 0),9:47 PM
+310,0,8,361,0021000830,SUB: W. Johnson FOR Webster,,2:50,3,4.0,4,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:50 PM
+311,0,8,362,0021000830,SUB: Pekovic FOR Milicic,,2:50,3,4.0,4,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,9:50 PM
+312,11,3,363,0021000830,,,2:50,3,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Griffin Free Throw 1 of 2,9:50 PM
+313,1,4,364,0021000830,,,2:50,3,3.0,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Rebound,9:50 PM
+314,12,3,365,0021000830,,,2:50,3,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,70 - 57,-13,Griffin Free Throw 2 of 2 (25 PTS),9:51 PM
+315,1,2,367,0021000830,MISS W. Johnson 25' 3PT Jump Shot,,2:34,3,4.0,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:51 PM
+316,0,4,368,0021000830,W. Johnson REBOUND (Off:1 Def:1),,2:32,3,4.0,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:51 PM
+317,2,6,369,0021000830,,,2:25,3,5.0,4,1,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Gomes S.FOUL (P2.T3),9:51 PM
+318,11,3,370,0021000830,Pekovic Free Throw 1 of 2 (3 PTS),,2:25,3,4.0,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,70 - 58,-12,,9:51 PM
+319,12,3,372,0021000830,Pekovic Free Throw 2 of 2 (4 PTS),,2:25,3,4.0,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,70 - 59,-11,,9:52 PM
+320,1,2,374,0021000830,,,2:12,3,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Foye 25' 3PT Jump Shot,9:52 PM
+321,0,4,375,0021000830,Pekovic REBOUND (Off:2 Def:3),,2:11,3,4.0,0,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:52 PM
+322,1,2,376,0021000830,MISS Tolliver 25' 3PT Jump Shot,,2:02,3,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:52 PM
+323,0,4,377,0021000830,,,2:01,3,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Bledsoe REBOUND (Off:2 Def:3),9:52 PM
+324,5,2,378,0021000830,Pekovic BLOCK (1 BLK),,1:41,3,5.0,0,4,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,,,MISS Gomes 1' Layup,9:53 PM
+325,0,4,379,0021000830,Tolliver REBOUND (Off:0 Def:4),,1:39,3,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:53 PM
+326,1,1,380,0021000830,Ellington 24' 3PT Jump Shot (7 PTS) (Telfair 4 AST),,1:17,3,4.0,4,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,70 - 62,-8,,9:53 PM
+327,1,2,381,0021000830,,,0:56,3,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Bledsoe  3PT Jump Shot,9:54 PM
+328,0,4,382,0021000830,Telfair REBOUND (Off:0 Def:2),,0:55,3,4.0,0,0,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:54 PM
+329,1,2,383,0021000830,MISS W. Johnson 24' 3PT Jump Shot,,0:48,3,4.0,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:54 PM
+330,0,4,384,0021000830,,,0:46,3,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Bledsoe REBOUND (Off:2 Def:4),9:54 PM
+331,42,1,385,0021000830,,,0:42,3,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,72 - 62,-10,Bledsoe 1' Driving Layup (6 PTS),9:54 PM
+332,1,5,386,0021000830,W. Johnson Bad Pass Turnover (P2.T13),,0:28,3,4.0,0,0,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:54 PM
+333,1,2,387,0021000830,,,0:05,3,5.0,0,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Gomes 24' 3PT Jump Shot,9:55 PM
+334,0,4,388,0021000830,,,0:04,3,5.0,0,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Jordan REBOUND (Off:2 Def:6),9:55 PM
+335,1,2,389,0021000830,,,0:01,3,5.0,0,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Jordan 5' Jump Shot,9:55 PM
+336,0,4,390,0021000830,Telfair REBOUND (Off:0 Def:3),,0:01,3,4.0,0,0,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:55 PM
+337,1,2,391,0021000830,MISS Telfair 69' 3PT Jump Shot,,0:00,3,4.0,0,0,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,9:55 PM
+338,0,4,392,0021000830,TIMBERWOLVES Rebound,,0:00,3,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,9:55 PM
+339,0,13,393,0021000830,,,0:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,72 - 62,-10,,9:55 PM
+340,0,12,395,0021000830,,,12:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,72 - 62,-10,,9:58 PM
+341,1,2,396,0021000830,,,11:34,4,5.0,0,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Gomes  3PT Jump Shot,9:58 PM
+342,0,4,397,0021000830,,,11:33,4,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:2 Def:5),9:59 PM
+343,2,6,398,0021000830,Pekovic S.FOUL (P1.T1),,11:20,4,4.0,5,1,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,2567,Brian Cook,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,9:59 PM
+344,11,3,399,0021000830,,,11:20,4,5.0,0,0,2567,Brian Cook,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Cook Free Throw 1 of 2,9:59 PM
+345,1,4,400,0021000830,,,11:20,4,3.0,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Rebound,9:59 PM
+346,0,8,401,0021000830,,,11:20,4,5.0,5,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Aminu FOR Gomes,9:59 PM
+347,12,3,402,0021000830,,,11:20,4,5.0,0,0,2567,Brian Cook,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Cook Free Throw 2 of 2,9:59 PM
+348,0,4,404,0021000830,Tolliver REBOUND (Off:0 Def:5),,11:19,4,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:00 PM
+349,1,6,405,0021000830,,,11:09,4,5.0,4,1,2567,Brian Cook,LAC,Los Angeles,1610612746.0,Clippers,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Cook P.FOUL (P1.T1),10:00 PM
+350,0,8,406,0021000830,SUB: Milicic FOR Pekovic,,11:09,4,4.0,4,0,201593,Nikola Pekovic,MIN,Minnesota,1610612750.0,Timberwolves,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:00 PM
+351,0,8,407,0021000830,,,11:09,4,5.0,5,0,2567,Brian Cook,LAC,Los Angeles,1610612746.0,Clippers,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Kaman FOR Cook,10:00 PM
+352,1,2,408,0021000830,MISS Tolliver 21' Jump Shot,,11:03,4,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:00 PM
+353,0,4,409,0021000830,Milicic REBOUND (Off:5 Def:1),,11:02,4,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:00 PM
+354,1,2,410,0021000830,MISS Ellington 20' Jump Shot,,10:54,4,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:00 PM
+355,0,4,411,0021000830,,,10:52,4,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Bledsoe REBOUND (Off:2 Def:5),10:00 PM
+356,5,2,412,0021000830,Milicic BLOCK (1 BLK),,10:36,4,5.0,0,4,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,,,MISS Kaman 3' Layup,10:01 PM
+357,0,4,413,0021000830,,,10:34,4,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Davis REBOUND (Off:1 Def:1),10:01 PM
+358,1,2,414,0021000830,,,10:31,4,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Davis 17' Jump Shot,10:01 PM
+359,0,4,415,0021000830,Webster REBOUND (Off:0 Def:1),,10:31,4,4.0,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:01 PM
+360,5,2,416,0021000830,MISS Telfair 2' Layup,,10:26,4,4.0,0,5,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,,,Griffin BLOCK (1 BLK),10:01 PM
+361,0,4,417,0021000830,TIMBERWOLVES Rebound,,10:25,4,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,10:01 PM
+362,1,5,419,0021000830,Telfair Bad Pass Turnover (P1.T14),,10:13,4,4.0,5,0,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Bledsoe STEAL (3 STL),10:02 PM
+363,52,1,420,0021000830,,,10:09,4,5.0,5,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,74 - 62,-12,Griffin  Alley Oop Dunk (27 PTS) (Bledsoe 5 AST),10:02 PM
+364,2,6,421,0021000830,,,9:51,4,5.0,4,1,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Aminu S.FOUL (P2.T2),10:02 PM
+365,11,3,422,0021000830,Tolliver Free Throw 1 of 2 (10 PTS),,9:51,4,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,74 - 63,-11,,10:02 PM
+366,0,8,424,0021000830,SUB: Ridnour FOR Telfair,,9:51,4,4.0,4,0,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:02 PM
+367,12,3,425,0021000830,Tolliver Free Throw 2 of 2 (11 PTS),,9:51,4,4.0,0,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,74 - 64,-10,,10:03 PM
+368,1,2,427,0021000830,,,9:31,4,5.0,0,0,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Aminu 24' 3PT Jump Shot,10:03 PM
+369,0,4,428,0021000830,,,9:30,4,5.0,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Kaman REBOUND (Off:1 Def:4),10:03 PM
+370,4,5,429,0021000830,,,9:30,4,5.0,0,1,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Kaman Traveling Turnover (P1.T8),10:03 PM
+371,1,2,430,0021000830,MISS Ellington 16' Jump Shot,,9:16,4,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:04 PM
+372,0,4,431,0021000830,,,9:15,4,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Davis REBOUND (Off:1 Def:2),10:04 PM
+373,2,5,432,0021000830,Milicic STEAL (1 STL),,8:55,4,5.0,4,0,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Aminu Lost Ball Turnover (P1.T9),10:05 PM
+374,1,2,433,0021000830,MISS Ridnour 19' Jump Shot,,8:48,4,4.0,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:05 PM
+375,0,4,434,0021000830,,,8:48,4,3.0,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Rebound,10:05 PM
+376,3,6,435,0021000830,Tolliver L.B.FOUL (P3.T2),,8:48,4,4.0,5,1,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:05 PM
+377,1,9,436,0021000830,,,8:48,4,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:05 PM
+378,0,8,438,0021000830,SUB: Love FOR Tolliver,,8:48,4,4.0,4,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:07 PM
+379,1,2,439,0021000830,,,8:36,4,5.0,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Kaman 19' Jump Shot,10:08 PM
+380,0,4,440,0021000830,Webster REBOUND (Off:0 Def:2),,8:35,4,4.0,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:08 PM
+381,5,2,441,0021000830,MISS Ridnour 1' Layup,,8:22,4,4.0,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:08 PM
+382,0,4,442,0021000830,Ridnour REBOUND (Off:1 Def:0),,8:20,4,4.0,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:08 PM
+383,2,5,443,0021000830,Ridnour Lost Ball Turnover (P2.T15),,8:17,4,4.0,5,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Bledsoe STEAL (4 STL),10:08 PM
+384,2,6,444,0021000830,Ellington S.FOUL (P3.T3),,8:14,4,4.0,5,1,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:08 PM
+385,11,3,445,0021000830,,,8:14,4,5.0,0,0,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,75 - 64,-11,Aminu Free Throw 1 of 2 (1 PTS),10:08 PM
+386,12,3,447,0021000830,,,8:14,4,5.0,0,0,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,76 - 64,-12,Aminu Free Throw 2 of 2 (2 PTS),10:09 PM
+387,1,6,449,0021000830,,,8:06,4,5.0,4,1,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Kaman P.FOUL (P2.T3),10:09 PM
+388,3,2,450,0021000830,MISS Milicic 5' Hook Shot,,7:55,4,4.0,0,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:09 PM
+389,0,4,451,0021000830,,,7:54,4,5.0,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Kaman REBOUND (Off:1 Def:5),10:09 PM
+390,42,1,452,0021000830,,,7:51,4,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,78 - 64,-14,Bledsoe 1' Driving Layup (8 PTS),10:10 PM
+391,2,6,453,0021000830,Ellington S.FOUL (P4.T4),,7:51,4,4.0,5,1,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:10 PM
+392,10,3,454,0021000830,,,7:51,4,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Bledsoe Free Throw 1 of 1,10:10 PM
+393,0,4,456,0021000830,Love REBOUND (Off:1 Def:12),,7:51,4,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:10 PM
+394,5,2,457,0021000830,MISS Love 2' Layup,,7:36,4,4.0,0,5,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,,,Kaman BLOCK (2 BLK),10:10 PM
+395,0,4,458,0021000830,,,7:35,4,5.0,0,0,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Aminu REBOUND (Off:0 Def:4),10:10 PM
+396,1,5,459,0021000830,Love STEAL (1 STL),,7:29,4,5.0,4,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Bledsoe Bad Pass Turnover (P3.T10),10:10 PM
+397,5,2,460,0021000830,MISS Ellington 1' Layup,,7:22,4,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:10 PM
+398,0,4,461,0021000830,Ridnour REBOUND (Off:2 Def:0),,7:21,4,4.0,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:10 PM
+399,1,2,462,0021000830,MISS Ridnour 19' Jump Shot,,7:20,4,4.0,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:10 PM
+400,0,4,463,0021000830,Ellington REBOUND (Off:2 Def:1),,7:19,4,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:10 PM
+401,5,2,464,0021000830,MISS Ellington  Layup,,7:13,4,4.0,0,5,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,,,Kaman BLOCK (3 BLK),10:11 PM
+402,0,4,465,0021000830,,,7:12,4,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Bledsoe REBOUND (Off:2 Def:6),10:11 PM
+403,1,2,466,0021000830,,,6:58,4,5.0,0,0,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Aminu  3PT Jump Shot,10:11 PM
+404,0,4,467,0021000830,Love REBOUND (Off:1 Def:13),,6:57,4,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:11 PM
+405,2,6,468,0021000830,,,6:45,4,5.0,4,1,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Aminu S.FOUL (P3.T4),10:11 PM
+406,11,3,469,0021000830,MISS Webster Free Throw 1 of 2,,6:45,4,4.0,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:12 PM
+407,1,4,470,0021000830,TIMBERWOLVES Rebound,,6:45,4,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,10:12 PM
+408,0,8,471,0021000830,,,6:45,4,5.0,5,0,202329,Al-Farouq Aminu,LAC,Los Angeles,1610612746.0,Clippers,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Gomes FOR Aminu,10:12 PM
+409,12,3,472,0021000830,Webster Free Throw 2 of 2 (9 PTS),,6:45,4,4.0,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,78 - 65,-13,,10:12 PM
+410,1,9,474,0021000830,,,6:45,4,3.0,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Timeout: Regular (Reg.4 Short 0),10:12 PM
+411,0,8,476,0021000830,,,6:45,4,5.0,5,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Jordan FOR Kaman,10:15 PM
+412,1,1,477,0021000830,,,6:22,4,5.0,5,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,81 - 65,-16,Gomes  3PT Jump Shot (13 PTS) (Griffin 5 AST),10:16 PM
+413,2,6,478,0021000830,,,6:10,4,5.0,4,1,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Bledsoe S.FOUL (P3.PN),10:16 PM
+414,0,8,480,0021000830,,,6:10,4,5.0,5,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Foye FOR Bledsoe,10:16 PM
+415,11,3,481,0021000830,Love Free Throw 1 of 2 (12 PTS),,6:10,4,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,81 - 66,-15,,10:16 PM
+416,12,3,483,0021000830,Love Free Throw 2 of 2 (13 PTS),,6:10,4,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,81 - 67,-14,,10:16 PM
+417,1,2,485,0021000830,,,5:44,4,5.0,0,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Gomes  3PT Jump Shot,10:17 PM
+418,0,4,486,0021000830,Love REBOUND (Off:1 Def:14),,5:42,4,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:17 PM
+419,1,2,487,0021000830,MISS Love 5' Jump Shot,,5:28,4,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:17 PM
+420,0,4,488,0021000830,Love REBOUND (Off:2 Def:14),,5:24,4,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:17 PM
+421,0,10,489,0021000830,Jump Ball Love vs. Davis: Tip to Webster,,5:24,4,4.0,5,4,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,,,,10:18 PM
+422,1,2,490,0021000830,MISS Ridnour 26' 3PT Jump Shot,,5:20,4,4.0,0,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:18 PM
+423,0,4,491,0021000830,,,5:19,4,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:2 Def:6),10:18 PM
+424,1,2,492,0021000830,,,4:54,4,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Griffin 18' Jump Shot,10:19 PM
+425,0,4,494,0021000830,,,4:52,4,5.0,0,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Gomes REBOUND (Off:2 Def:1),10:19 PM
+426,4,1,493,0021000830,,,4:52,4,5.0,0,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,83 - 67,-16,Gomes 1' Tip Shot (15 PTS),10:19 PM
+427,1,2,495,0021000830,MISS Ellington 13' Jump Shot,,4:43,4,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:19 PM
+428,0,4,496,0021000830,Love REBOUND (Off:3 Def:14),,4:42,4,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:19 PM
+429,2,6,497,0021000830,,,4:41,4,5.0,4,1,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Griffin S.FOUL (P3.PN),10:19 PM
+430,11,3,498,0021000830,Love Free Throw 1 of 2 (14 PTS),,4:41,4,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,83 - 68,-15,,10:19 PM
+431,0,8,500,0021000830,SUB: Tolliver FOR Milicic,,4:41,4,4.0,4,0,2545,Darko Milicic,MIN,Minnesota,1610612750.0,Timberwolves,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:20 PM
+432,12,3,501,0021000830,Love Free Throw 2 of 2 (15 PTS),,4:41,4,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,83 - 69,-14,,10:20 PM
+433,8,5,503,0021000830,,,4:18,4,5.0,0,1,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Jordan 3 Second Violation Turnover (P1.T11),10:20 PM
+434,1,1,504,0021000830,Ridnour  3PT Jump Shot (10 PTS) (Tolliver 1 AST),,4:01,4,4.0,4,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,83 - 72,-11,,10:21 PM
+435,8,1,505,0021000830,,,3:45,4,5.0,5,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,85 - 72,-13,Jordan 1' Slam Dunk (4 PTS) (Davis 6 AST),10:21 PM
+436,2,6,506,0021000830,Tolliver S.FOUL (P4.PN),,3:45,4,4.0,5,1,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:21 PM
+437,10,3,507,0021000830,,,3:45,4,5.0,0,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Jordan Free Throw 1 of 1,10:21 PM
+438,0,4,509,0021000830,Ellington REBOUND (Off:2 Def:2),,3:45,4,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:22 PM
+439,1,6,510,0021000830,,,3:41,4,5.0,4,1,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Jordan P.FOUL (P3.PN),10:22 PM
+440,11,3,511,0021000830,Ellington Free Throw 1 of 2 (8 PTS),,3:41,4,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,85 - 73,-12,,10:22 PM
+441,12,3,513,0021000830,Ellington Free Throw 2 of 2 (9 PTS),,3:41,4,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,85 - 74,-11,,10:22 PM
+442,80,1,515,0021000830,,,3:23,4,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,87 - 74,-13,Davis 21' Step Back Jump Shot (5 PTS),10:23 PM
+443,1,5,516,0021000830,Ridnour Bad Pass Turnover (P3.T16),,3:09,4,4.0,5,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Foye STEAL (1 STL),10:23 PM
+444,1,2,517,0021000830,,,2:45,4,5.0,0,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Gomes  3PT Jump Shot,10:24 PM
+445,0,4,518,0021000830,,,2:45,4,3.0,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Rebound,10:24 PM
+446,3,6,519,0021000830,Tolliver L.B.FOUL (P5.PN),,2:45,4,4.0,5,1,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:24 PM
+447,1,9,520,0021000830,TIMBERWOLVES Timeout: Regular (Full 4 Short 1),,2:45,4,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,10:24 PM
+448,0,8,522,0021000830,SUB: Telfair FOR Ridnour,,2:45,4,4.0,4,0,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:26 PM
+449,11,3,523,0021000830,,,2:45,4,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,88 - 74,-14,Griffin Free Throw 1 of 2 (28 PTS),10:26 PM
+450,12,3,525,0021000830,,,2:45,4,5.0,0,0,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,89 - 74,-15,Griffin Free Throw 2 of 2 (29 PTS),10:27 PM
+451,2,5,527,0021000830,Ellington Lost Ball Turnover (P2.T17),,2:28,4,4.0,5,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Davis STEAL (2 STL),10:27 PM
+452,11,5,528,0021000830,,,2:03,4,3.0,0,1,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Turnover: Shot Clock (T#12),10:28 PM
+453,1,1,529,0021000830,Telfair 21' Jump Shot (2 PTS),,1:56,4,4.0,0,0,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,89 - 76,-13,,10:28 PM
+454,1,9,530,0021000830,,,1:56,4,3.0,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Timeout: Regular (Reg.5 Short 0),10:28 PM
+455,0,8,532,0021000830,,,1:56,4,5.0,5,0,201599,DeAndre Jordan,LAC,Los Angeles,1610612746.0,Clippers,2567,Brian Cook,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Cook FOR Jordan,10:30 PM
+456,4,6,533,0021000830,,,1:40,4,5.0,4,1,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Griffin OFF.Foul (P4),10:31 PM
+457,5,5,534,0021000830,,,1:40,4,5.0,0,1,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Griffin Foul Turnover (P3.T13),10:31 PM
+458,11,6,535,0021000830,,,1:40,4,5.0,0,1,201933,Blake Griffin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Griffin T.FOUL (P4.PN),10:31 PM
+459,16,3,536,0021000830,Love Free Throw Technical (16 PTS),,1:40,4,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,89 - 77,-12,,10:31 PM
+460,2,9,538,0021000830,TIMBERWOLVES Timeout: Short (Full 4 Short 2),,1:40,4,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,10:31 PM
+461,1,1,539,0021000830,Ellington 24' 3PT Jump Shot (12 PTS),,1:30,4,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,89 - 80,-9,,10:33 PM
+462,28,6,540,0021000830,Tolliver Personal Take Foul (P6.PN),,1:29,4,4.0,5,1,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:33 PM
+463,0,8,541,0021000830,SUB: W. Johnson FOR Tolliver,,1:29,4,4.0,4,0,201229,Anthony Tolliver,MIN,Minnesota,1610612750.0,Timberwolves,202325,Wesley Johnson,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:34 PM
+464,11,3,542,0021000830,,,1:29,4,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,90 - 80,-10,Davis Free Throw 1 of 2 (6 PTS),10:34 PM
+465,0,8,545,0021000830,,,1:29,4,5.0,5,0,2567,Brian Cook,LAC,Los Angeles,1610612746.0,Clippers,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Bledsoe FOR Cook,10:35 PM
+466,12,3,546,0021000830,,,1:29,4,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Davis Free Throw 2 of 2,10:35 PM
+467,0,4,548,0021000830,TIMBERWOLVES Rebound,,1:28,4,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,10:35 PM
+468,1,9,549,0021000830,TIMBERWOLVES Timeout: Regular (Full 5 Short 2),,1:28,4,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,10:35 PM
+469,5,1,551,0021000830,Love 2' Layup (18 PTS) (Ellington 1 AST),,1:24,4,4.0,4,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,90 - 82,-8,,10:37 PM
+470,2,5,552,0021000830,Webster STEAL (2 STL),,1:18,4,5.0,4,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Bledsoe Lost Ball Turnover (P4.T14),10:38 PM
+471,2,6,553,0021000830,,,1:17,4,5.0,4,1,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,Davis S.FOUL (P3.PN),10:38 PM
+472,11,3,554,0021000830,Webster Free Throw 1 of 2 (10 PTS),,1:17,4,4.0,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,90 - 83,-7,,10:38 PM
+473,12,3,556,0021000830,Webster Free Throw 2 of 2 (11 PTS),,1:17,4,4.0,0,0,101110,Martell Webster,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,90 - 84,-6,,10:38 PM
+474,1,1,558,0021000830,,,0:53,4,5.0,5,0,101155,Ryan Gomes,LAC,Los Angeles,1610612746.0,Clippers,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,93 - 84,-9,Gomes  3PT Jump Shot (18 PTS) (Foye 6 AST),10:39 PM
+475,2,9,559,0021000830,TIMBERWOLVES Timeout: Short (Full 5 Short 3),,0:53,4,2.0,0,0,1610612750,,,,,,0,,,,,,0,,,,,,,,,10:39 PM
+476,1,1,560,0021000830,Ellington 26' 3PT Jump Shot (15 PTS),,0:49,4,4.0,0,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,93 - 87,-6,,10:40 PM
+477,28,6,561,0021000830,Telfair Personal Take Foul (P1.PN),,0:44,4,4.0,5,1,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:40 PM
+478,11,3,562,0021000830,,,0:44,4,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,94 - 87,-7,Bledsoe Free Throw 1 of 2 (9 PTS),10:41 PM
+479,12,3,564,0021000830,,,0:44,4,5.0,0,0,202339,Eric Bledsoe,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,95 - 87,-8,Bledsoe Free Throw 2 of 2 (10 PTS),10:41 PM
+480,1,2,566,0021000830,MISS Telfair 25' 3PT Jump Shot,,0:38,4,4.0,0,0,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:41 PM
+481,0,4,567,0021000830,,,0:37,4,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Foye REBOUND (Off:0 Def:3),10:41 PM
+482,28,6,568,0021000830,Ellington Personal Take Foul (P5.PN),,0:37,4,4.0,5,1,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:41 PM
+483,11,3,569,0021000830,,,0:37,4,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,96 - 87,-9,Foye Free Throw 1 of 2 (19 PTS),10:42 PM
+484,12,3,571,0021000830,,,0:37,4,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Foye Free Throw 2 of 2,10:42 PM
+485,0,4,573,0021000830,Love REBOUND (Off:3 Def:15),,0:37,4,4.0,0,0,201567,Kevin Love,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:42 PM
+486,1,1,574,0021000830,Ellington 24' 3PT Jump Shot (18 PTS) (Telfair 5 AST),,0:28,4,4.0,4,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,96 - 90,-6,,10:42 PM
+487,28,6,575,0021000830,Ellington Personal Take Foul (P6.PN),,0:26,4,4.0,5,1,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:42 PM
+488,0,8,576,0021000830,SUB: Ridnour FOR Ellington,,0:26,4,4.0,4,0,201961,Wayne Ellington,MIN,Minnesota,1610612750.0,Timberwolves,2557,Luke Ridnour,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,,,,10:43 PM
+489,11,3,577,0021000830,,,0:26,4,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,97 - 90,-7,Foye Free Throw 1 of 2 (20 PTS),10:43 PM
+490,12,3,579,0021000830,,,0:26,4,5.0,0,0,200751,Randy Foye,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,98 - 90,-8,Foye Free Throw 2 of 2 (21 PTS),10:43 PM
+491,1,2,581,0021000830,MISS Telfair 24' 3PT Jump Shot,,0:20,4,4.0,0,0,2742,Sebastian Telfair,MIN,Minnesota,1610612750.0,Timberwolves,0,,,,,,0,,,,,,,,,10:44 PM
+492,0,4,582,0021000830,,,0:19,4,5.0,0,0,1884,Baron Davis,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Davis REBOUND (Off:1 Def:3),10:44 PM
+493,0,13,583,0021000830,,,0:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,98 - 90,-8,,10:44 PM

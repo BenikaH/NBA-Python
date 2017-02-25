@@ -1,9 +1,9 @@
 import pandas as p
 import plotly.graph_objs as go
 import plotly.plotly as py
-
-import data_getters as d
 from numpy import array
+
+from scripts import data_getters as d
 
 season_year = '2016'
 offensive_or_defensive = 'offensive'

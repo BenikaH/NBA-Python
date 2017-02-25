@@ -1,0 +1,440 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0029800618,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:13 AM
+1,0,10,1,0029800618,Jump Ball Thorpe vs. Mutombo: Tip to Long,,12:00,1,4,5,5,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,,,,11:13 AM
+2,1,2,2,0029800618,,,11:38,1,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Blaylock 25' 3PT Jump Shot,11:13 AM
+3,0,4,3,0029800618,WIZARDS Rebound,,11:38,1,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,11:13 AM
+4,2,5,4,0029800618,Thorpe Lost Ball Turnover (P1.T1),,11:18,1,4,0,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:14 AM
+5,1,1,5,0029800618,,,11:05,1,5,5,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,2 - 0,-2,Smith 17' Jump Shot (2 PTS) (Blaylock 1 AST),11:14 AM
+6,1,2,6,0029800618,MISS Thorpe 14' Jump Shot,,10:51,1,4,0,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:14 AM
+7,0,4,7,0029800618,,,10:49,1,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:0 Def:1),11:14 AM
+8,1,2,8,0029800618,,,10:34,1,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 11' Jump Shot,11:14 AM
+9,0,4,9,0029800618,Strickland REBOUND (Off:0 Def:1),,10:32,1,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:14 AM
+10,1,1,10,0029800618,Richmond 18' Jump Shot (2 PTS) (Strickland 1 AST),,10:26,1,4,4,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,2 - 2,TIE,,11:15 AM
+11,2,5,11,0029800618,Richmond STEAL (1 STL),,10:08,1,5,4,0,1544,Chris Crawford,ATL,Atlanta,1610612737.0,Hawks,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Crawford Lost Ball Turnover (P1.T1),11:15 AM
+12,1,1,12,0029800618,Cheaney 16' Jump Shot (2 PTS) (Strickland 2 AST),,9:59,1,4,4,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,2 - 4,2,,11:15 AM
+13,1,2,14,0029800618,,,9:41,1,5,0,0,1544,Chris Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Crawford 20' Jump Shot,11:15 AM
+14,0,4,15,0029800618,Wallace REBOUND (Off:0 Def:1),,9:39,1,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:15 AM
+15,5,2,16,0029800618,MISS Thorpe 2' Layup,,9:22,1,4,0,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:16 AM
+16,0,4,17,0029800618,Strickland REBOUND (Off:1 Def:1),,9:20,1,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:16 AM
+17,1,2,18,0029800618,MISS Strickland 14' Jump Shot,,9:15,1,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:16 AM
+18,0,4,19,0029800618,,,9:12,1,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:1),11:16 AM
+19,1,2,20,0029800618,,,9:07,1,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Long 16' Jump Shot,11:16 AM
+20,0,4,21,0029800618,,,9:05,1,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Blaylock REBOUND (Off:1 Def:0),11:16 AM
+21,1,1,22,0029800618,,,8:53,1,5,5,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,4 - 4,TIE,Long 14' Jump Shot (2 PTS) (Blaylock 2 AST),11:16 AM
+22,6,1,23,0029800618,Wallace 2' Driving Layup (2 PTS),,8:28,1,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,4 - 6,2,,11:17 AM
+23,1,1,24,0029800618,,,8:12,1,5,5,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,6 - 6,TIE,Long 19' Jump Shot (4 PTS) (Smith 1 AST),11:17 AM
+24,1,2,25,0029800618,MISS Thorpe 5' Jump Shot,,7:55,1,4,0,5,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,,,Mutombo BLOCK (1 BLK),11:17 AM
+25,0,4,26,0029800618,,,7:52,1,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:2),11:17 AM
+26,2,6,27,0029800618,Cheaney S.FOUL (P1.T1),,7:47,1,4,0,1,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:17 AM
+27,11,3,28,0029800618,,,7:47,1,5,0,0,1544,Chris Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,7 - 6,-1,Crawford Free Throw 1 of 2 (1 PTS),11:17 AM
+28,12,3,29,0029800618,,,7:47,1,5,0,0,1544,Chris Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,8 - 6,-2,Crawford Free Throw 2 of 2 (2 PTS),11:18 AM
+29,1,1,30,0029800618,Strickland 20' Jump Shot (2 PTS) (Cheaney 1 AST),,7:27,1,4,4,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,8 - 8,TIE,,11:18 AM
+30,4,5,31,0029800618,,,7:16,1,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith Traveling Turnover (P1.T2),11:18 AM
+31,1,1,32,0029800618,Cheaney 19' Jump Shot (4 PTS) (Richmond 1 AST),,7:00,1,4,4,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,8 - 10,2,,11:19 AM
+32,2,6,34,0029800618,Wallace S.FOUL (P1.T2),,6:40,1,4,0,1,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:19 AM
+33,1,9,35,0029800618,WIZARDS Timeout: Regular (Full 1 Short 0),,6:40,1,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,11:19 AM
+34,11,3,37,0029800618,,,6:40,1,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,9 - 10,1,Long Free Throw 1 of 2 (5 PTS),11:21 AM
+35,12,3,38,0029800618,,,6:40,1,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,10 - 10,TIE,Long Free Throw 2 of 2 (6 PTS),11:22 AM
+36,1,1,39,0029800618,Richmond 18' Jump Shot (4 PTS) (Strickland 3 AST),,6:23,1,4,4,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,10 - 12,2,,11:22 AM
+37,2,6,40,0029800618,Wallace S.FOUL (P2.T3),,6:11,1,4,0,1,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:23 AM
+38,11,3,41,0029800618,,,6:11,1,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Mutombo Free Throw 1 of 2,11:23 AM
+39,2,4,42,0029800618,,,6:11,1,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Rebound,11:23 AM
+40,0,8,43,0029800618,SUB: White FOR Wallace,,6:11,1,4,4,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:23 AM
+41,12,3,44,0029800618,,,6:11,1,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Mutombo Free Throw 2 of 2,11:23 AM
+42,0,4,45,0029800618,Thorpe REBOUND (Off:0 Def:1),,6:09,1,4,0,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:23 AM
+43,3,1,46,0029800618,Thorpe 3' Hook Shot (2 PTS) (Richmond 2 AST),,5:56,1,4,4,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,10 - 14,4,,11:24 AM
+44,1,2,47,0029800618,,,5:39,1,5,0,0,1544,Chris Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Crawford 25' 3PT Jump Shot,11:24 AM
+45,0,4,48,0029800618,Thorpe REBOUND (Off:0 Def:2),,5:37,1,4,0,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:24 AM
+46,1,2,49,0029800618,MISS Strickland 26' 3PT Jump Shot,,5:29,1,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:24 AM
+47,0,4,50,0029800618,,,5:27,1,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Long REBOUND (Off:0 Def:1),11:24 AM
+48,1,2,52,0029800618,,,5:17,1,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 26' 3PT Jump Shot,11:24 AM
+49,0,4,53,0029800618,White REBOUND (Off:0 Def:1),,5:15,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:24 AM
+50,1,1,54,0029800618,Cheaney 18' Jump Shot (6 PTS),,5:01,1,4,0,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,10 - 16,6,,11:24 AM
+51,2,6,55,0029800618,White S.FOUL (P1.T4),,4:34,1,4,0,1,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:25 AM
+52,11,3,56,0029800618,,,4:34,1,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,11 - 16,5,Mutombo Free Throw 1 of 2 (1 PTS),11:25 AM
+53,12,3,57,0029800618,,,4:34,1,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,12 - 16,4,Mutombo Free Throw 2 of 2 (2 PTS),11:25 AM
+54,1,2,58,0029800618,MISS Richmond 18' Jump Shot,,4:14,1,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:26 AM
+55,0,4,59,0029800618,,,4:12,1,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:3),11:26 AM
+56,2,1,60,0029800618,,,3:59,1,5,5,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,14 - 16,2,Long 6' Running Jump Shot (8 PTS) (Blaylock 3 AST),11:26 AM
+57,1,1,61,0029800618,Thorpe 15' Jump Shot (4 PTS) (Richmond 3 AST),,3:39,1,4,4,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,14 - 18,4,,11:27 AM
+58,6,1,62,0029800618,,,3:29,1,5,5,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,16 - 18,2,Smith 2' Driving Layup (4 PTS) (Blaylock 4 AST),11:27 AM
+59,5,1,63,0029800618,White 2' Layup (2 PTS) (Thorpe 1 AST),,3:10,1,4,4,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,16 - 20,4,,11:27 AM
+60,2,6,64,0029800618,,,3:10,1,5,0,1,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo S.FOUL (P1.T1),11:27 AM
+61,10,3,65,0029800618,White Free Throw 1 of 1 (3 PTS),,3:10,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,16 - 21,5,,11:27 AM
+62,1,6,66,0029800618,Thorpe P.FOUL (P1.PN),,2:49,1,4,0,1,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:28 AM
+63,1,9,67,0029800618,,,2:49,1,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Timeout: Regular (Reg.1 Short 0),11:28 AM
+64,0,8,69,0029800618,,,2:49,1,5,5,0,1544,Chris Crawford,ATL,Atlanta,1610612737.0,Hawks,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Corbin FOR Crawford,11:28 AM
+65,0,8,70,0029800618,SUB: Murray FOR Cheaney,,2:49,1,4,4,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,145,Tracy Murray,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:30 AM
+66,11,3,71,0029800618,,,2:49,1,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,17 - 21,4,Blaylock Free Throw 1 of 2 (1 PTS),11:30 AM
+67,12,3,72,0029800618,,,2:49,1,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,18 - 21,3,Blaylock Free Throw 2 of 2 (2 PTS),11:30 AM
+68,1,5,73,0029800618,Murray Bad Pass Turnover (P1.T2),,2:30,1,4,5,0,145,Tracy Murray,WAS,Washington,1610612764.0,Wizards,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Blaylock STEAL (1 STL),11:31 AM
+69,6,1,74,0029800618,,,2:24,1,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,20 - 21,1,Blaylock 2' Driving Layup (4 PTS),11:31 AM
+70,1,2,75,0029800618,MISS Thorpe 4' Jump Shot,,2:13,1,4,0,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:31 AM
+71,0,4,76,0029800618,,,2:13,1,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Rebound,11:31 AM
+72,1,6,77,0029800618,White P.FOUL (P2.PN),,2:13,1,4,0,1,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:31 AM
+73,11,3,78,0029800618,,,2:13,1,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Mutombo Free Throw 1 of 2,11:31 AM
+74,2,4,79,0029800618,,,2:13,1,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Rebound,11:31 AM
+75,0,8,80,0029800618,SUB: Coker FOR White,,2:13,1,4,4,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:32 AM
+76,12,3,81,0029800618,,,2:13,1,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,21 - 21,TIE,Mutombo Free Throw 2 of 2 (3 PTS),11:32 AM
+77,1,2,82,0029800618,MISS Coker 18' Jump Shot,,1:58,1,4,0,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:32 AM
+78,0,4,83,0029800618,,,1:56,1,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Blaylock REBOUND (Off:1 Def:1),11:32 AM
+79,1,2,84,0029800618,,,1:39,1,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Blaylock 26' 3PT Jump Shot,11:32 AM
+80,0,4,85,0029800618,Strickland REBOUND (Off:1 Def:2),,1:37,1,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:32 AM
+81,1,2,86,0029800618,MISS Strickland 17' Jump Shot,,1:30,1,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:33 AM
+82,0,4,87,0029800618,,,1:28,1,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Long REBOUND (Off:0 Def:2),11:33 AM
+83,5,1,88,0029800618,,,1:24,1,5,5,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,23 - 21,-2,Blaylock 1' Layup (6 PTS) (Long 1 AST),11:33 AM
+84,1,2,89,0029800618,MISS Richmond 5' Jump Shot,,1:14,1,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:33 AM
+85,0,4,90,0029800618,,,1:12,1,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Long REBOUND (Off:0 Def:3),11:33 AM
+86,2,7,91,0029800618,WIZARDS Violation: Def. Goaltending Violation,,1:02,1,2,0,1,1610612764,,,,,,0,,,,,,0,,,,,,,,,11:33 AM
+87,0,8,92,0029800618,SUB: McInnis FOR Strickland,,1:02,1,4,4,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,976,Jeff McInnis,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:33 AM
+88,0,8,93,0029800618,,,1:02,1,5,5,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,1533,Anthony Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Johnson FOR Blaylock,11:33 AM
+89,5,1,94,0029800618,,,0:50,1,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,25 - 21,-4,Smith 1' Layup (6 PTS),11:34 AM
+90,2,6,95,0029800618,Thorpe S.FOUL (P2.PN),,0:50,1,4,0,1,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:34 AM
+91,10,3,96,0029800618,,,0:50,1,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,26 - 21,-5,Smith Free Throw 1 of 1 (7 PTS),11:34 AM
+92,1,2,97,0029800618,MISS Thorpe 5' Jump Shot,,0:38,1,4,0,5,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,,,Mutombo BLOCK (2 BLK),11:34 AM
+93,0,4,98,0029800618,,,0:36,1,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Corbin REBOUND (Off:0 Def:1),11:34 AM
+94,6,1,99,0029800618,,,0:33,1,5,5,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,1533,Anthony Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,28 - 21,-7,Long  Driving Layup (10 PTS) (Johnson 1 AST),11:34 AM
+95,2,1,100,0029800618,McInnis 5' Running Jump Shot (2 PTS),,0:18,1,4,0,0,976,Jeff McInnis,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,28 - 23,-5,,11:35 AM
+96,1,2,101,0029800618,,,0:01,1,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Long  3PT Jump Shot,11:35 AM
+97,0,4,102,0029800618,,,0:00,1,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:1 Def:1),11:35 AM
+98,0,13,104,0029800618,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,28 - 23,-5,,11:35 AM
+99,0,12,106,0029800618,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,28 - 23,-5,,11:37 AM
+100,3,1,107,0029800618,Coker 5' Hook Shot (2 PTS) (Murray 1 AST),,11:38,2,4,4,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,145,Tracy Murray,WAS,Washington,1610612764.0,Wizards,0,,,,,,28 - 25,-3,,11:38 AM
+101,1,1,108,0029800618,,,11:13,2,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,30 - 25,-5,Corbin 15' Jump Shot (2 PTS),11:38 AM
+102,1,2,109,0029800618,MISS Murray 24' 3PT Jump Shot,,10:51,2,4,0,5,145,Tracy Murray,WAS,Washington,1610612764.0,Wizards,0,,,,,,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,,,Long BLOCK (1 BLK),11:39 AM
+103,0,4,110,0029800618,,,10:48,2,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Corbin REBOUND (Off:0 Def:2),11:39 AM
+104,0,8,111,0029800618,SUB: Cheaney FOR Murray,,10:39,2,4,4,0,145,Tracy Murray,WAS,Washington,1610612764.0,Wizards,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:39 AM
+105,1,2,112,0029800618,,,10:30,2,5,0,0,1533,Anthony Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Johnson 5' Jump Shot,11:39 AM
+106,0,4,113,0029800618,,,10:29,2,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:3),11:39 AM
+107,1,2,114,0029800618,,,10:18,2,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 12' Jump Shot,11:40 AM
+108,0,4,115,0029800618,Cheaney REBOUND (Off:0 Def:1),,10:16,2,4,0,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:40 AM
+109,5,2,116,0029800618,MISS Legler 2' Layup,,10:01,2,4,0,0,100,Tim Legler,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:40 AM
+110,0,4,117,0029800618,Coker REBOUND (Off:1 Def:0),,9:59,2,4,0,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:40 AM
+111,5,1,118,0029800618,Coker 3' Layup (4 PTS),,9:57,2,4,0,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,30 - 27,-3,,11:40 AM
+112,1,2,119,0029800618,,,9:36,2,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Long 4' Jump Shot,11:40 AM
+113,0,4,120,0029800618,Wallace REBOUND (Off:0 Def:2),,9:34,2,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:40 AM
+114,1,2,121,0029800618,MISS McInnis 7' Jump Shot,,9:24,2,4,0,0,976,Jeff McInnis,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:40 AM
+115,0,4,122,0029800618,,,9:22,2,5,0,0,1533,Anthony Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:0 Def:1),11:40 AM
+116,5,1,123,0029800618,,,9:13,2,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,32 - 27,-5,Smith 1' Layup (9 PTS),11:41 AM
+117,2,6,124,0029800618,Legler S.FOUL (P1.T1),,9:13,2,4,0,1,100,Tim Legler,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:41 AM
+118,4,9,125,0029800618,,,9:13,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:41 AM
+119,10,3,126,0029800618,,,9:13,2,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,33 - 27,-6,Smith Free Throw 1 of 1 (10 PTS),11:43 AM
+120,1,2,128,0029800618,MISS Wallace 6' Jump Shot,,8:59,2,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:43 AM
+121,0,4,129,0029800618,Cheaney REBOUND (Off:1 Def:1),,8:57,2,4,0,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:43 AM
+122,1,2,130,0029800618,MISS Cheaney 10' Jump Shot,,8:56,2,4,0,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:43 AM
+123,0,4,131,0029800618,,,8:54,2,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Corbin REBOUND (Off:0 Def:3),11:43 AM
+124,3,5,132,0029800618,,,8:45,2,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith Out Of Bounds Turnover (P2.T3),11:43 AM
+125,1,1,133,0029800618,Legler 9' Jump Shot (2 PTS),,8:27,2,4,0,0,100,Tim Legler,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,33 - 29,-4,,11:44 AM
+126,1,2,134,0029800618,,,8:08,2,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 4' Jump Shot,11:44 AM
+127,0,4,135,0029800618,Coker REBOUND (Off:1 Def:1),,8:05,2,4,0,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:44 AM
+128,5,2,136,0029800618,MISS Legler 2' Layup,,8:01,2,4,0,0,100,Tim Legler,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:44 AM
+129,0,4,137,0029800618,McInnis REBOUND (Off:1 Def:0),,8:00,2,4,0,0,976,Jeff McInnis,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:44 AM
+130,1,2,138,0029800618,MISS Cheaney 5' Jump Shot,,7:54,2,4,0,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:44 AM
+131,0,4,139,0029800618,,,7:52,2,5,0,0,770,Mark West,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,West REBOUND (Off:0 Def:1),11:44 AM
+132,5,1,140,0029800618,,,7:48,2,5,5,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,35 - 29,-6,Corbin 1' Layup (4 PTS) (Smith 2 AST),11:45 AM
+133,1,9,142,0029800618,WIZARDS Timeout: Regular (Full 2 Short 0),,7:40,2,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,11:45 AM
+134,0,8,144,0029800618,,,7:40,2,5,5,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,1516,Ed Gray,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Gray FOR Smith,11:45 AM
+135,0,8,145,0029800618,SUB: Strickland FOR McInnis,,7:40,2,4,4,0,976,Jeff McInnis,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:46 AM
+136,5,1,146,0029800618,Coker 1' Layup (6 PTS) (Strickland 4 AST),,7:34,2,4,4,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,35 - 31,-4,,11:47 AM
+137,2,6,147,0029800618,,,7:34,2,5,0,1,770,Mark West,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,West S.FOUL (P1.T1),11:47 AM
+138,10,3,148,0029800618,MISS Coker Free Throw 1 of 1,,7:34,2,4,0,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:47 AM
+139,0,4,149,0029800618,,,7:34,2,5,0,0,1533,Anthony Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:0 Def:2),11:47 AM
+140,1,1,150,0029800618,,,7:17,2,5,5,0,1533,Anthony Johnson,ATL,Atlanta,1610612737.0,Hawks,770,Mark West,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,37 - 31,-6,Johnson 13' Jump Shot (2 PTS) (West 1 AST),11:47 AM
+141,1,2,151,0029800618,MISS Cheaney 17' Jump Shot,,6:52,2,4,0,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:48 AM
+142,0,4,152,0029800618,,,6:49,2,5,0,0,770,Mark West,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,West REBOUND (Off:0 Def:2),11:48 AM
+143,4,6,153,0029800618,,,6:35,2,5,0,1,1516,Ed Gray,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Gray OFF.Foul (P1),11:48 AM
+144,5,5,154,0029800618,,,6:35,2,5,0,0,1516,Ed Gray,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Gray Foul Turnover (P1.T4),11:48 AM
+145,0,8,155,0029800618,SUB: Richmond FOR Legler,,6:35,2,4,4,0,100,Tim Legler,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:48 AM
+146,1,2,157,0029800618,MISS Coker 5' Jump Shot,,6:22,2,4,0,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:49 AM
+147,0,4,158,0029800618,,,6:20,2,5,0,0,770,Mark West,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,West REBOUND (Off:0 Def:3),11:49 AM
+148,2,6,159,0029800618,Coker S.FOUL (P1.T2),,6:13,2,4,0,1,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:49 AM
+149,11,3,160,0029800618,,,6:13,2,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,38 - 31,-7,Long Free Throw 1 of 2 (11 PTS),11:49 AM
+150,0,8,161,0029800618,SUB: White FOR Coker,,6:13,2,4,4,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:49 AM
+151,12,3,162,0029800618,,,6:13,2,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Long Free Throw 2 of 2,11:49 AM
+152,0,4,163,0029800618,Wallace REBOUND (Off:0 Def:3),,6:11,2,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:50 AM
+153,1,2,164,0029800618,MISS Strickland 17' Jump Shot,,6:00,2,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:50 AM
+154,0,4,165,0029800618,WIZARDS Rebound,,5:59,2,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,11:50 AM
+155,3,6,166,0029800618,,,5:59,2,5,0,1,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Long L.B.FOUL (P1.T2),11:50 AM
+156,1,1,167,0029800618,Richmond 19' Jump Shot (6 PTS) (Strickland 5 AST),,5:54,2,4,4,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,38 - 33,-5,,11:50 AM
+157,2,6,168,0029800618,,,5:54,2,5,0,1,1533,Anthony Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Johnson S.FOUL (P1.T3),11:50 AM
+158,0,8,169,0029800618,,,5:54,2,5,5,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Mutombo FOR Long,11:50 AM
+159,1,9,170,0029800618,,,5:54,2,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Timeout: Regular (Reg.2 Short 0),11:51 AM
+160,10,3,172,0029800618,Richmond Free Throw 1 of 1 (7 PTS),,5:54,2,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,38 - 34,-4,,11:53 AM
+161,1,2,173,0029800618,,,5:43,2,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Corbin 16' Jump Shot,11:53 AM
+162,0,4,174,0029800618,Cheaney REBOUND (Off:1 Def:2),,5:41,2,4,0,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:53 AM
+163,1,2,175,0029800618,MISS Cheaney 7' Jump Shot,,5:22,2,4,0,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:53 AM
+164,0,4,176,0029800618,,,5:20,2,5,0,0,770,Mark West,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,West REBOUND (Off:0 Def:4),11:53 AM
+165,2,6,177,0029800618,Cheaney S.FOUL (P2.T3),,5:14,2,4,0,1,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:53 AM
+166,0,8,178,0029800618,,,5:14,2,5,5,0,770,Mark West,ATL,Atlanta,1610612737.0,Hawks,1544,Chris Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Crawford FOR West,11:54 AM
+167,11,3,179,0029800618,,,5:14,2,5,0,0,1533,Anthony Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Johnson Free Throw 1 of 2,11:54 AM
+168,2,4,180,0029800618,,,5:14,2,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Rebound,11:54 AM
+169,12,3,181,0029800618,,,5:14,2,5,0,0,1533,Anthony Johnson,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,39 - 34,-5,Johnson Free Throw 2 of 2 (3 PTS),11:54 AM
+170,2,6,182,0029800618,,,4:59,2,5,0,1,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo S.FOUL (P2.T4),11:55 AM
+171,0,8,183,0029800618,,,4:59,2,5,5,0,1533,Anthony Johnson,ATL,Atlanta,1610612737.0,Hawks,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Blaylock FOR Johnson,11:55 AM
+172,0,8,184,0029800618,SUB: Jackson FOR Cheaney,,4:59,2,4,4,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,1872,Randell Jackson,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:55 AM
+173,11,3,185,0029800618,White Free Throw 1 of 2 (4 PTS),,4:59,2,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,39 - 35,-4,,11:55 AM
+174,12,3,186,0029800618,MISS White Free Throw 2 of 2,,4:59,2,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:55 AM
+175,0,4,187,0029800618,,,4:58,2,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Blaylock REBOUND (Off:1 Def:2),11:56 AM
+176,1,2,188,0029800618,,,4:47,2,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Blaylock 4' Jump Shot,11:56 AM
+177,0,4,189,0029800618,,,4:45,2,5,0,0,1544,Chris Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Crawford REBOUND (Off:1 Def:0),11:56 AM
+178,5,1,190,0029800618,,,4:37,2,5,5,0,1544,Chris Crawford,ATL,Atlanta,1610612737.0,Hawks,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,41 - 35,-6,Crawford 2' Layup (4 PTS) (Mutombo 1 AST),11:56 AM
+179,1,2,192,0029800618,MISS Jackson 26' 3PT Jump Shot,,4:19,2,4,0,0,1872,Randell Jackson,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:56 AM
+180,0,4,193,0029800618,Wallace REBOUND (Off:1 Def:3),,4:18,2,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:56 AM
+181,2,5,194,0029800618,Wallace Lost Ball Turnover (P1.T3),,4:15,2,4,5,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Blaylock STEAL (2 STL),11:56 AM
+182,1,2,195,0029800618,White BLOCK (1 BLK),,4:00,2,5,0,4,1544,Chris Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,,,MISS Crawford 5' Jump Shot,11:57 AM
+183,0,4,196,0029800618,Strickland REBOUND (Off:1 Def:3),,3:58,2,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:57 AM
+184,5,2,197,0029800618,MISS Strickland 1' Layup,,3:53,2,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:57 AM
+185,0,4,198,0029800618,,,3:49,2,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Corbin REBOUND (Off:0 Def:4),11:57 AM
+186,5,2,199,0029800618,White BLOCK (2 BLK),,3:44,2,5,0,4,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,,,MISS Blaylock 2' Layup,11:57 AM
+187,0,4,200,0029800618,Wallace REBOUND (Off:1 Def:4),,3:42,2,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:57 AM
+188,1,1,201,0029800618,Strickland 16' Jump Shot (4 PTS),,3:37,2,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,41 - 37,-4,,11:57 AM
+189,1,2,203,0029800618,,,3:22,2,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Corbin 26' 3PT Jump Shot,11:57 AM
+190,0,4,204,0029800618,Richmond REBOUND (Off:0 Def:1),,3:20,2,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:57 AM
+191,0,8,205,0029800618,,,3:10,2,5,5,0,1516,Ed Gray,ATL,Atlanta,1610612737.0,Hawks,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Smith FOR Gray,11:58 AM
+192,1,2,206,0029800618,MISS Richmond 20' Jump Shot,,3:06,2,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:58 AM
+193,0,4,207,0029800618,Jackson REBOUND (Off:1 Def:0),,3:03,2,4,0,0,1872,Randell Jackson,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:58 AM
+194,5,2,208,0029800618,MISS Jackson 2' Layup,,3:00,2,4,0,5,1872,Randell Jackson,WAS,Washington,1610612764.0,Wizards,0,,,,,,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,,,Mutombo BLOCK (3 BLK),11:58 AM
+195,0,4,209,0029800618,,,2:58,2,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:1 Def:2),11:58 AM
+196,1,6,210,0029800618,White P.FOUL (P3.T4),,2:48,2,4,0,1,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:58 AM
+197,0,8,211,0029800618,SUB: Coker FOR White,,2:48,2,4,4,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:58 AM
+198,5,2,212,0029800618,Wallace BLOCK (1 BLK),,2:41,2,5,0,4,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,,,MISS Mutombo 2' Layup,11:59 AM
+199,0,4,213,0029800618,,,2:39,2,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Corbin REBOUND (Off:1 Def:4),11:59 AM
+200,1,1,214,0029800618,,,2:38,2,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,43 - 37,-6,Corbin 16' Jump Shot (6 PTS),11:59 AM
+201,1,2,215,0029800618,MISS Richmond 13' Jump Shot,,2:14,2,4,0,5,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,,,Smith BLOCK (1 BLK),11:59 AM
+202,0,4,216,0029800618,Coker REBOUND (Off:2 Def:1),,2:11,2,4,0,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:59 AM
+203,1,2,217,0029800618,MISS Coker 8' Jump Shot,,2:10,2,4,0,5,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,,,Mutombo BLOCK (4 BLK),11:59 AM
+204,0,4,218,0029800618,Wallace REBOUND (Off:2 Def:4),,2:10,2,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:59 AM
+205,11,5,219,0029800618,WIZARDS Turnover: Shot Clock (T#4),,2:10,2,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,11:59 AM
+206,0,8,220,0029800618,SUB: Legler FOR Jackson,,2:10,2,4,4,0,1872,Randell Jackson,WAS,Washington,1610612764.0,Wizards,100,Tim Legler,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:59 AM
+207,1,1,222,0029800618,,,1:52,2,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,46 - 37,-9,Blaylock  3PT Jump Shot (9 PTS),12:00 PM
+208,1,5,223,0029800618,Strickland Bad Pass Turnover (P1.T5),,1:37,2,4,5,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Corbin STEAL (1 STL),12:00 PM
+209,5,2,224,0029800618,,,1:22,2,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Blaylock 2' Layup,12:00 PM
+210,0,4,225,0029800618,,,1:21,2,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:2 Def:2),12:00 PM
+211,1,6,226,0029800618,Legler P.FOUL (P2.PN),,1:21,2,4,0,1,100,Tim Legler,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:00 PM
+212,11,3,227,0029800618,,,1:21,2,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Mutombo Free Throw 1 of 2,12:01 PM
+213,2,4,228,0029800618,,,1:21,2,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Rebound,12:01 PM
+214,12,3,229,0029800618,,,1:21,2,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,47 - 37,-10,Mutombo Free Throw 2 of 2 (4 PTS),12:01 PM
+215,1,2,230,0029800618,MISS Strickland 15' Jump Shot,,0:59,2,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:02 PM
+216,0,4,231,0029800618,,,0:57,2,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Corbin REBOUND (Off:1 Def:5),12:02 PM
+217,5,1,232,0029800618,,,0:50,2,5,5,0,1544,Chris Crawford,ATL,Atlanta,1610612737.0,Hawks,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,49 - 37,-12,Crawford 3' Layup (6 PTS) (Blaylock 5 AST),12:02 PM
+218,2,9,233,0029800618,WIZARDS Timeout: Short (Full 2 Short 1),,0:45,2,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:02 PM
+219,1,1,235,0029800618,Richmond 18' Jump Shot (9 PTS),,0:33,2,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,49 - 39,-10,,12:03 PM
+220,1,6,236,0029800618,Richmond P.FOUL (P1.PN),,0:22,2,4,0,1,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:03 PM
+221,11,3,237,0029800618,,,0:22,2,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,50 - 39,-11,Smith Free Throw 1 of 2 (11 PTS),12:03 PM
+222,12,3,238,0029800618,,,0:22,2,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,51 - 39,-12,Smith Free Throw 2 of 2 (12 PTS),12:04 PM
+223,5,1,239,0029800618,Coker 1' Layup (8 PTS) (Wallace 1 AST),,0:03,2,4,4,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,51 - 41,-10,,12:04 PM
+224,1,2,240,0029800618,,,0:00,2,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 28' 3PT Jump Shot,12:04 PM
+225,0,4,241,0029800618,,,0:00,2,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Rebound,12:04 PM
+226,0,13,242,0029800618,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 41,-10,,12:05 PM
+227,0,12,245,0029800618,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 41,-10,,12:20 PM
+228,1,1,246,0029800618,Thorpe 10' Jump Shot (6 PTS) (Strickland 6 AST),,11:45,3,4,4,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,51 - 43,-8,,12:20 PM
+229,1,2,247,0029800618,,,11:25,3,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Long 17' Jump Shot,12:21 PM
+230,0,4,248,0029800618,Richmond REBOUND (Off:0 Def:2),,11:23,3,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:21 PM
+231,1,5,249,0029800618,Richmond Bad Pass Turnover (P1.T6),,11:20,3,4,5,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Long STEAL (1 STL),12:21 PM
+232,2,5,250,0029800618,Cheaney STEAL (1 STL),,11:11,3,5,4,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Long Lost Ball Turnover (P1.T5),12:21 PM
+233,1,2,251,0029800618,MISS Thorpe 17' Jump Shot,,10:55,3,4,0,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:21 PM
+234,0,4,252,0029800618,,,10:53,3,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Long REBOUND (Off:0 Def:4),12:21 PM
+235,1,2,253,0029800618,,,10:49,3,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Blaylock 21' Jump Shot,12:21 PM
+236,0,4,254,0029800618,Wallace REBOUND (Off:2 Def:5),,10:47,3,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:21 PM
+237,1,1,255,0029800618,Richmond 18' Jump Shot (11 PTS),,10:32,3,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,51 - 45,-6,,12:22 PM
+238,2,6,256,0029800618,Thorpe S.FOUL (P3.T1),,10:12,3,4,0,1,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:22 PM
+239,11,3,257,0029800618,,,10:12,3,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Long Free Throw 1 of 2,12:22 PM
+240,2,4,258,0029800618,,,10:12,3,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Rebound,12:22 PM
+241,12,3,259,0029800618,,,10:12,3,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Long Free Throw 2 of 2,12:22 PM
+242,0,4,260,0029800618,Thorpe REBOUND (Off:0 Def:3),,10:10,3,4,0,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:23 PM
+243,5,2,261,0029800618,MISS Wallace 2' Layup,,9:51,3,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:23 PM
+244,0,4,262,0029800618,,,9:49,3,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:2 Def:3),12:23 PM
+245,1,1,263,0029800618,,,9:36,3,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,53 - 45,-8,Smith 15' Jump Shot (14 PTS),12:23 PM
+246,2,6,264,0029800618,,,9:18,3,5,0,1,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo S.FOUL (P3.T1),12:24 PM
+247,11,3,265,0029800618,Wallace Free Throw 1 of 2 (3 PTS),,9:18,3,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,53 - 46,-7,,12:24 PM
+248,12,3,266,0029800618,MISS Wallace Free Throw 2 of 2,,9:18,3,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:24 PM
+249,0,4,267,0029800618,,,9:17,3,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:2 Def:4),12:24 PM
+250,1,2,268,0029800618,,,9:00,3,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 24' 3PT Jump Shot,12:25 PM
+251,0,4,269,0029800618,,,8:57,3,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:3 Def:4),12:25 PM
+252,2,6,270,0029800618,Cheaney S.FOUL (P3.T2),,8:57,3,4,0,1,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:25 PM
+253,11,3,271,0029800618,,,8:57,3,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Mutombo Free Throw 1 of 2,12:25 PM
+254,2,4,272,0029800618,,,8:57,3,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Rebound,12:25 PM
+255,12,3,273,0029800618,,,8:57,3,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,54 - 46,-8,Mutombo Free Throw 2 of 2 (5 PTS),12:25 PM
+256,8,1,275,0029800618,Wallace 1' Slam Dunk (5 PTS) (Thorpe 2 AST),,8:41,3,4,4,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,54 - 48,-6,,12:26 PM
+257,1,2,276,0029800618,,,8:16,3,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 15' Jump Shot,12:26 PM
+258,0,4,277,0029800618,Thorpe REBOUND (Off:0 Def:4),,8:15,3,4,0,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:26 PM
+259,2,5,278,0029800618,Strickland Lost Ball Turnover (P2.T7),,8:10,3,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:26 PM
+260,3,2,279,0029800618,,,7:51,3,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Mutombo  Hook Shot,12:27 PM
+261,0,4,280,0029800618,Richmond REBOUND (Off:0 Def:3),,7:50,3,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:27 PM
+262,8,1,281,0029800618,Wallace 1' Slam Dunk (7 PTS) (Strickland 7 AST),,7:43,3,4,4,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,54 - 50,-4,,12:27 PM
+263,1,9,282,0029800618,,,7:40,3,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Timeout: Regular (Reg.3 Short 0),12:27 PM
+264,1,2,284,0029800618,,,7:18,3,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Blaylock 12' Jump Shot,12:29 PM
+265,0,4,285,0029800618,Richmond REBOUND (Off:0 Def:4),,7:17,3,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:29 PM
+266,2,6,286,0029800618,,,7:11,3,5,0,1,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Long S.FOUL (P2.T2),12:29 PM
+267,11,3,287,0029800618,MISS Wallace Free Throw 1 of 2,,7:11,3,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:30 PM
+268,2,4,288,0029800618,WIZARDS Rebound,,7:11,3,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:30 PM
+269,12,3,289,0029800618,Wallace Free Throw 2 of 2 (8 PTS),,7:11,3,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,54 - 51,-3,,12:30 PM
+270,6,1,290,0029800618,,,6:53,3,5,0,0,1544,Chris Crawford,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,56 - 51,-5,Crawford 1' Driving Layup (8 PTS),12:30 PM
+271,1,2,291,0029800618,MISS Strickland 14' Jump Shot,,6:41,3,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:31 PM
+272,0,4,292,0029800618,Wallace REBOUND (Off:3 Def:5),,6:38,3,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:31 PM
+273,1,5,293,0029800618,Wallace Bad Pass Turnover (P2.T8),,6:34,3,4,5,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Long STEAL (2 STL),12:31 PM
+274,0,8,294,0029800618,,,6:15,3,5,5,0,1544,Chris Crawford,ATL,Atlanta,1610612737.0,Hawks,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,SUB: Corbin FOR Crawford,12:31 PM
+275,3,1,295,0029800618,,,6:11,3,5,5,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,58 - 51,-7,Mutombo 5' Hook Shot (7 PTS) (Blaylock 6 AST),12:31 PM
+276,2,5,297,0029800618,Wallace Lost Ball Turnover (P3.T9),,5:50,3,4,5,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Blaylock STEAL (3 STL),12:32 PM
+277,1,1,298,0029800618,,,5:36,3,5,5,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,61 - 51,-10,Smith 25' 3PT Jump Shot (17 PTS) (Blaylock 7 AST),12:32 PM
+278,1,9,299,0029800618,WIZARDS Timeout: Regular (Full 3 Short 1),,5:24,3,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:32 PM
+279,2,5,301,0029800618,Richmond Lost Ball Turnover (P2.T10),,5:10,3,4,5,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Corbin STEAL (2 STL),12:34 PM
+280,5,2,302,0029800618,,,5:05,3,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Corbin 1' Layup,12:34 PM
+281,0,4,303,0029800618,Wallace REBOUND (Off:3 Def:6),,5:04,3,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:34 PM
+282,1,6,304,0029800618,,,4:55,3,5,0,1,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith P.FOUL (P1.T3),12:35 PM
+283,0,8,305,0029800618,SUB: White FOR Thorpe,,4:55,3,4,4,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:35 PM
+284,4,5,306,0029800618,Richmond Traveling Turnover (P3.T11),,4:50,3,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:35 PM
+285,1,2,307,0029800618,,,4:37,3,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Long 13' Jump Shot,12:35 PM
+286,0,4,308,0029800618,Wallace REBOUND (Off:3 Def:7),,4:34,3,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:35 PM
+287,2,1,309,0029800618,Cheaney 10' Running Jump Shot (8 PTS) (Strickland 8 AST),,4:18,3,4,4,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,61 - 53,-8,,12:36 PM
+288,2,5,310,0029800618,Strickland STEAL (1 STL),,3:56,3,5,4,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Mutombo Lost Ball Turnover (P1.T6),12:36 PM
+289,6,1,311,0029800618,Strickland 1' Driving Layup (6 PTS),,3:51,3,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,61 - 55,-6,,12:36 PM
+290,1,6,312,0029800618,White P.FOUL (P4.T3),,3:36,3,4,0,1,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:36 PM
+291,0,8,313,0029800618,SUB: Coker FOR White,,3:36,3,4,4,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:37 PM
+292,1,2,314,0029800618,,,3:22,3,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Blaylock 27' 3PT Jump Shot,12:37 PM
+293,0,4,315,0029800618,Coker REBOUND (Off:2 Def:2),,3:20,3,4,0,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:37 PM
+294,1,2,316,0029800618,MISS Cheaney 14' Jump Shot,,3:02,3,4,0,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:37 PM
+295,0,4,317,0029800618,Wallace REBOUND (Off:4 Def:7),,3:00,3,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:37 PM
+296,2,5,318,0029800618,Wallace Lost Ball Turnover (P4.T12),,2:52,3,4,5,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Blaylock STEAL (4 STL),12:38 PM
+297,5,1,319,0029800618,,,2:47,3,5,5,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,63 - 55,-8,Corbin 1' Layup (8 PTS) (Blaylock 8 AST),12:38 PM
+298,1,2,320,0029800618,MISS Coker 15' Jump Shot,,2:22,3,4,0,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:38 PM
+299,0,4,321,0029800618,,,2:21,3,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:3 Def:5),12:38 PM
+300,1,1,322,0029800618,,,2:16,3,5,5,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,65 - 55,-10,Blaylock 20' Jump Shot (11 PTS) (Long 2 AST),12:38 PM
+301,2,9,323,0029800618,WIZARDS Timeout: Short (Full 3 Short 2),,2:14,3,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:38 PM
+302,0,8,325,0029800618,SUB: McInnis FOR Strickland,,2:14,3,4,4,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,976,Jeff McInnis,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:38 PM
+303,1,1,326,0029800618,Richmond 17' Jump Shot (13 PTS) (Cheaney 2 AST),,1:58,3,4,4,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,65 - 57,-8,,12:39 PM
+304,1,1,327,0029800618,,,1:37,3,5,5,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,67 - 57,-10,Corbin 20' Jump Shot (10 PTS) (Smith 3 AST),12:40 PM
+305,2,6,328,0029800618,,,1:20,3,5,0,1,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Corbin S.FOUL (P1.T4),12:40 PM
+306,0,8,329,0029800618,SUB: Murray FOR Cheaney,,1:20,3,4,4,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,145,Tracy Murray,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:40 PM
+307,11,3,330,0029800618,Richmond Free Throw 1 of 2 (14 PTS),,1:20,3,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,67 - 58,-9,,12:40 PM
+308,0,8,331,0029800618,SUB: Thorpe FOR Wallace,,1:20,3,4,4,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:41 PM
+309,12,3,332,0029800618,Richmond Free Throw 2 of 2 (15 PTS),,1:20,3,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,67 - 59,-8,,12:41 PM
+310,1,1,333,0029800618,,,1:07,3,5,5,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,69 - 59,-10,Corbin 18' Jump Shot (12 PTS) (Blaylock 9 AST),12:41 PM
+311,1,2,334,0029800618,MISS Murray  3PT Jump Shot,,0:50,3,4,0,0,145,Tracy Murray,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:41 PM
+312,0,4,335,0029800618,,,0:48,3,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:4),12:41 PM
+313,1,2,336,0029800618,,,0:40,3,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Corbin 26' 3PT Jump Shot,12:42 PM
+314,0,4,337,0029800618,Richmond REBOUND (Off:0 Def:5),,0:38,3,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:42 PM
+315,1,6,338,0029800618,,,0:38,3,5,0,1,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Blaylock P.FOUL (P1.PN),12:42 PM
+316,11,3,339,0029800618,Richmond Free Throw 1 of 2 (16 PTS),,0:38,3,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,69 - 60,-9,,12:42 PM
+317,12,3,340,0029800618,Richmond Free Throw 2 of 2 (17 PTS),,0:38,3,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,69 - 61,-8,,12:42 PM
+318,2,6,341,0029800618,Coker S.FOUL (P2.T4),,0:19,3,4,0,1,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:43 PM
+319,11,3,342,0029800618,,,0:19,3,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,70 - 61,-9,Mutombo Free Throw 1 of 2 (8 PTS),12:43 PM
+320,12,3,343,0029800618,,,0:19,3,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,71 - 61,-10,Mutombo Free Throw 2 of 2 (9 PTS),12:43 PM
+321,1,2,344,0029800618,MISS Coker 17' Jump Shot,,0:06,3,4,0,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:44 PM
+322,0,4,345,0029800618,,,0:04,3,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Blaylock REBOUND (Off:1 Def:3),12:44 PM
+323,1,2,346,0029800618,,,0:00,3,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Blaylock 24' 3PT Jump Shot,12:44 PM
+324,0,4,347,0029800618,,,0:00,3,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Rebound,12:44 PM
+325,0,13,348,0029800618,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,71 - 61,-10,,12:44 PM
+326,0,12,350,0029800618,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,71 - 61,-10,,12:46 PM
+327,1,2,351,0029800618,,,11:46,4,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 13' Jump Shot,12:47 PM
+328,0,4,352,0029800618,WIZARDS Rebound,,11:44,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:47 PM
+329,1,6,353,0029800618,,,11:44,4,5,0,1,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo P.FOUL (P4.T1),12:47 PM
+330,1,2,354,0029800618,MISS McInnis 20' Jump Shot,,11:28,4,4,0,0,976,Jeff McInnis,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:47 PM
+331,0,4,355,0029800618,,,11:26,4,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Long REBOUND (Off:0 Def:5),12:47 PM
+332,5,1,356,0029800618,,,11:23,4,5,5,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,73 - 61,-12,Corbin 1' Layup (14 PTS) (Blaylock 10 AST),12:47 PM
+333,2,6,357,0029800618,Legler S.FOUL (P3.T1),,11:23,4,4,0,1,100,Tim Legler,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:47 PM
+334,10,3,358,0029800618,,,11:23,4,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,74 - 61,-13,Corbin Free Throw 1 of 1 (15 PTS),12:47 PM
+335,1,2,359,0029800618,MISS Legler 17' Jump Shot,,11:07,4,4,0,0,100,Tim Legler,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:48 PM
+336,0,4,360,0029800618,,,11:07,4,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Rebound,12:48 PM
+337,1,6,361,0029800618,White P.FOUL (P5.T2),,11:07,4,4,0,1,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:48 PM
+338,0,8,362,0029800618,SUB: Cheaney FOR Murray,,11:07,4,4,4,0,145,Tracy Murray,WAS,Washington,1610612764.0,Wizards,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:48 PM
+339,5,2,363,0029800618,,,10:54,4,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 3' Layup,12:48 PM
+340,0,4,364,0029800618,,,10:52,4,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith REBOUND (Off:2 Def:4),12:48 PM
+341,2,5,365,0029800618,McInnis STEAL (1 STL),,10:43,4,5,4,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,976,Jeff McInnis,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Smith Lost Ball Turnover (P3.T7),12:49 PM
+342,5,1,366,0029800618,White 2' Layup (6 PTS),,10:34,4,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,74 - 63,-11,,12:49 PM
+343,1,1,367,0029800618,,,10:08,4,5,5,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,76 - 63,-13,Long 8' Jump Shot (13 PTS) (Corbin 1 AST),12:49 PM
+344,1,2,368,0029800618,MISS McInnis 25' 3PT Jump Shot,,9:47,4,4,0,0,976,Jeff McInnis,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:50 PM
+345,0,4,369,0029800618,,,9:45,4,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:3 Def:6),12:50 PM
+346,1,1,370,0029800618,,,9:31,4,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,78 - 63,-15,Blaylock 19' Jump Shot (13 PTS),12:50 PM
+347,1,9,371,0029800618,WIZARDS Timeout: Regular (Full 4 Short 2),,9:29,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:50 PM
+348,0,8,373,0029800618,SUB: Wallace FOR Thorpe,,9:29,4,4,4,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:50 PM
+349,0,8,374,0029800618,SUB: Strickland FOR McInnis,,9:29,4,4,4,0,976,Jeff McInnis,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:50 PM
+350,0,8,376,0029800618,SUB: Richmond FOR Legler,,9:29,4,4,4,0,100,Tim Legler,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:52 PM
+351,1,2,377,0029800618,MISS Richmond 19' Jump Shot,,9:16,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:52 PM
+352,0,4,378,0029800618,WIZARDS Rebound,,9:13,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:52 PM
+353,5,1,379,0029800618,White 2' Layup (8 PTS) (Strickland 9 AST),,9:05,4,4,4,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,78 - 65,-13,,12:53 PM
+354,2,6,380,0029800618,,,9:05,4,5,0,1,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Long S.FOUL (P3.T2),12:53 PM
+355,10,3,381,0029800618,White Free Throw 1 of 1 (9 PTS),,9:05,4,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,78 - 66,-12,,12:53 PM
+356,5,2,382,0029800618,,,8:48,4,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 3' Layup,12:53 PM
+357,0,4,383,0029800618,White REBOUND (Off:0 Def:2),,8:47,4,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:53 PM
+358,1,2,384,0029800618,MISS Cheaney 18' Jump Shot,,8:35,4,4,0,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:54 PM
+359,0,4,385,0029800618,WIZARDS Rebound,,8:33,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:54 PM
+360,1,2,386,0029800618,MISS White 7' Jump Shot,,8:19,4,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:54 PM
+361,0,4,387,0029800618,,,8:17,4,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Long REBOUND (Off:0 Def:6),12:54 PM
+362,2,5,388,0029800618,Cheaney STEAL (2 STL),,8:03,4,5,4,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Blaylock Lost Ball Turnover (P1.T8),12:54 PM
+363,1,1,389,0029800618,Strickland 21' Jump Shot (8 PTS),,7:54,4,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,78 - 68,-10,,12:54 PM
+364,2,6,390,0029800618,Strickland S.FOUL (P1.T3),,7:38,4,4,0,1,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:55 PM
+365,11,3,391,0029800618,,,7:38,4,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,79 - 68,-11,Smith Free Throw 1 of 2 (18 PTS),12:55 PM
+366,12,3,392,0029800618,,,7:38,4,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,80 - 68,-12,Smith Free Throw 2 of 2 (19 PTS),12:55 PM
+367,1,2,393,0029800618,MISS Richmond 6' Jump Shot,,7:07,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:56 PM
+368,0,4,394,0029800618,Strickland REBOUND (Off:2 Def:3),,7:05,4,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:56 PM
+369,1,1,395,0029800618,Strickland 18' Jump Shot (10 PTS),,7:02,4,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,80 - 70,-10,,12:56 PM
+370,1,2,396,0029800618,,,6:40,4,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 13' Jump Shot,12:57 PM
+371,0,4,397,0029800618,,,6:39,4,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:4 Def:6),12:57 PM
+372,5,2,398,0029800618,,,6:39,4,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Mutombo 1' Layup,12:57 PM
+373,0,4,399,0029800618,,,6:39,4,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Rebound,12:57 PM
+374,3,6,400,0029800618,White L.B.FOUL (P6.T4),,6:39,4,4,0,1,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:57 PM
+375,4,9,401,0029800618,,,6:39,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:57 PM
+376,0,8,402,0029800618,SUB: Coker FOR White,,6:39,4,4,4,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,715,John Coker,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:58 PM
+377,1,2,404,0029800618,,,6:30,4,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 12' Jump Shot,12:59 PM
+378,0,4,405,0029800618,,,6:27,4,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Long REBOUND (Off:1 Def:6),12:59 PM
+379,2,5,406,0029800618,Strickland STEAL (2 STL),,6:16,4,5,4,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Blaylock Lost Ball Turnover (P2.T9),12:59 PM
+380,1,6,407,0029800618,,,6:06,4,5,0,1,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Corbin P.FOUL (P2.T3),1:00 PM
+381,2,5,408,0029800618,Wallace Lost Ball Turnover (P5.T13),,5:56,4,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:00 PM
+382,1,2,409,0029800618,,,5:36,4,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Blaylock 19' Jump Shot,1:01 PM
+383,0,4,410,0029800618,Cheaney REBOUND (Off:1 Def:3),,5:35,4,4,0,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:01 PM
+384,2,5,411,0029800618,Wallace Lost Ball Turnover (P6.T14),,5:15,4,4,5,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,,,Corbin STEAL (3 STL),1:01 PM
+385,5,2,412,0029800618,,,5:09,4,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Blaylock 3' Layup,1:01 PM
+386,0,4,413,0029800618,Wallace REBOUND (Off:4 Def:8),,5:08,4,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:01 PM
+387,5,2,414,0029800618,MISS Richmond 3' Layup,,5:03,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:01 PM
+388,0,4,415,0029800618,Strickland REBOUND (Off:3 Def:3),,5:02,4,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:01 PM
+389,5,2,416,0029800618,MISS Strickland 1' Layup,,5:00,4,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:01 PM
+390,0,4,417,0029800618,,,4:58,4,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Corbin REBOUND (Off:1 Def:6),1:01 PM
+391,1,1,418,0029800618,,,4:35,4,5,5,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,82 - 70,-12,Blaylock 16' Jump Shot (15 PTS) (Smith 4 AST),1:02 PM
+392,1,9,419,0029800618,WIZARDS Timeout: Regular (Full 5 Short 2),,4:32,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:02 PM
+393,4,6,421,0029800618,Cheaney OFF.Foul (P4),,4:19,4,4,0,1,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:04 PM
+394,5,5,422,0029800618,Cheaney Foul Turnover (P1.T15),,4:19,4,4,0,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:04 PM
+395,0,8,423,0029800618,SUB: Thorpe FOR Coker,,4:19,4,4,4,0,715,John Coker,WAS,Washington,1610612764.0,Wizards,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,1:05 PM
+396,1,2,424,0029800618,,,3:57,4,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith 18' Jump Shot,1:05 PM
+397,0,4,425,0029800618,Strickland REBOUND (Off:3 Def:4),,3:55,4,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:05 PM
+398,1,2,426,0029800618,MISS Richmond 25' 3PT Jump Shot,,3:44,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:05 PM
+399,0,4,427,0029800618,,,3:41,4,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:4 Def:7),1:05 PM
+400,5,2,428,0029800618,,,3:34,4,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Long 2' Layup,1:05 PM
+401,0,4,429,0029800618,Thorpe REBOUND (Off:0 Def:5),,3:32,4,4,0,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:05 PM
+402,1,6,430,0029800618,,,3:31,4,5,0,1,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith P.FOUL (P2.T4),1:05 PM
+403,8,1,431,0029800618,Wallace 1' Slam Dunk (10 PTS) (Cheaney 3 AST),,3:14,4,4,4,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,82 - 72,-10,,1:06 PM
+404,4,6,432,0029800618,,,3:05,4,5,0,1,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo OFF.Foul (P5),1:06 PM
+405,5,5,433,0029800618,,,3:05,4,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo Foul Turnover (P2.T10),1:06 PM
+406,5,1,434,0029800618,Wallace 1' Layup (12 PTS) (Cheaney 4 AST),,2:50,4,4,4,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,82 - 74,-8,,1:07 PM
+407,2,6,435,0029800618,,,2:50,4,5,0,1,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Long S.FOUL (P4.PN),1:07 PM
+408,10,3,436,0029800618,MISS Wallace Free Throw 1 of 1,,2:50,4,4,0,0,1112,Ben Wallace,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:07 PM
+409,0,4,437,0029800618,,,2:49,4,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:4 Def:8),1:07 PM
+410,1,2,439,0029800618,,,2:28,4,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Corbin 18' Jump Shot,1:07 PM
+411,0,4,440,0029800618,,,2:27,4,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Long REBOUND (Off:2 Def:6),1:07 PM
+412,1,2,441,0029800618,,,2:05,4,5,0,0,895,Tyrone Corbin,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Corbin 27' 3PT Jump Shot,1:08 PM
+413,0,4,442,0029800618,,,2:03,4,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:5 Def:8),1:08 PM
+414,8,1,443,0029800618,,,2:01,4,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,84 - 74,-10,Mutombo 1' Slam Dunk (11 PTS),1:08 PM
+415,1,1,444,0029800618,Richmond 20' Jump Shot (19 PTS) (Strickland 10 AST),,1:42,4,4,4,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,84 - 76,-8,,1:08 PM
+416,4,6,445,0029800618,,,1:27,4,5,0,1,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith OFF.Foul (P3),1:09 PM
+417,5,5,446,0029800618,,,1:27,4,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Smith Foul Turnover (P4.T11),1:09 PM
+418,1,2,448,0029800618,MISS Richmond 17' Jump Shot,,1:11,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:09 PM
+419,0,4,449,0029800618,Thorpe REBOUND (Off:1 Def:5),,1:10,4,4,0,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:09 PM
+420,1,1,450,0029800618,Cheaney 17' Jump Shot (10 PTS) (Strickland 11 AST),,1:07,4,4,4,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,84 - 78,-6,,1:09 PM
+421,1,6,451,0029800618,Cheaney P.FOUL (P5.PN),,0:53,4,4,0,1,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:10 PM
+422,11,3,452,0029800618,,,0:53,4,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,85 - 78,-7,Smith Free Throw 1 of 2 (20 PTS),1:10 PM
+423,12,3,453,0029800618,,,0:53,4,5,0,0,120,Steven Smith,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,MISS Smith Free Throw 2 of 2,1:10 PM
+424,0,4,454,0029800618,Thorpe REBOUND (Off:1 Def:6),,0:51,4,4,0,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:11 PM
+425,1,9,455,0029800618,WIZARDS Timeout: Regular (Full 6 Short 2),,0:51,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:11 PM
+426,1,2,457,0029800618,MISS Strickland 12' Jump Shot,,0:44,4,4,0,0,393,Rod Strickland,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:13 PM
+427,0,4,458,0029800618,,,0:44,4,3,0,0,1610612737,,,,,,0,,,,,,0,,,,,,,,Hawks Rebound,1:13 PM
+428,1,6,459,0029800618,Richmond P.FOUL (P2.PN),,0:39,4,4,0,1,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:13 PM
+429,11,3,460,0029800618,,,0:39,4,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,86 - 78,-8,Long Free Throw 1 of 2 (14 PTS),1:13 PM
+430,12,3,461,0029800618,,,0:39,4,5,0,0,3,Grant Long,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,87 - 78,-9,Long Free Throw 2 of 2 (15 PTS),1:13 PM
+431,1,9,462,0029800618,WIZARDS Timeout: Regular (Full 7 Short 2),,0:39,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:14 PM
+432,1,2,464,0029800618,MISS Thorpe 15' Jump Shot,,0:31,4,4,0,0,901,Otis Thorpe,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:16 PM
+433,0,4,465,0029800618,,,0:30,4,5,0,0,87,Dikembe Mutombo,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:5 Def:9),1:16 PM
+434,1,6,466,0029800618,Richmond P.FOUL (P3.PN),,0:29,4,4,0,1,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:16 PM
+435,11,3,467,0029800618,,,0:29,4,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,88 - 78,-10,Blaylock Free Throw 1 of 2 (16 PTS),1:16 PM
+436,12,3,468,0029800618,,,0:29,4,5,0,0,302,Mookie Blaylock,ATL,Atlanta,1610612737.0,Hawks,0,,,,,,0,,,,,,89 - 78,-11,Blaylock Free Throw 2 of 2 (17 PTS),1:16 PM
+437,2,5,469,0029800618,Cheaney Lost Ball Turnover (P2.T16),,0:16,4,4,0,0,384,Calbert Cheaney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:17 PM
+438,0,13,471,0029800618,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,89 - 78,-11,,1:17 PM

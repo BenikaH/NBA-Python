@@ -1,0 +1,494 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021300925,,,12:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:11 PM
+1,0,10,1,0021300925,Jump Ball Mozgov vs. Gasol: Tip to Marshall,,12:00,1,4.0,5,5,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,,,,9:11 PM
+2,1,1,2,0021300925,,,11:39,1,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,2 - 0,-2,Gasol 20' Jump Shot (2 PTS),9:11 PM
+3,1,6,3,0021300925,,,11:32,1,5.0,4,1,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Bazemore P.FOUL (P1.T1),9:11 PM
+4,4,5,4,0021300925,Faried Traveling Turnover (P1.T1),,11:26,1,4.0,0,1,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:12 PM
+5,1,2,5,0021300925,,,11:09,1,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Gasol 3' Jump Shot,9:12 PM
+6,0,4,6,0021300925,Faried REBOUND (Off:0 Def:1),,11:09,1,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:12 PM
+7,1,1,7,0021300925,Faried 10' Jump Shot (2 PTS),,11:00,1,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,2 - 2,TIE,,9:12 PM
+8,1,1,8,0021300925,,,10:50,1,5.0,5,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,4 - 2,-2,Gasol 10' Jump Shot (4 PTS) (Marshall 1 AST),9:13 PM
+9,2,6,9,0021300925,Chandler S.FOUL (P1.T1),,10:50,1,4.0,5,1,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,9:13 PM
+10,10,3,10,0021300925,,,10:50,1,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Gasol Free Throw 1 of 1,9:13 PM
+11,0,4,12,0021300925,Faried REBOUND (Off:0 Def:2),,10:48,1,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:13 PM
+12,1,2,13,0021300925,MISS Lawson 13' Jump Shot,,10:31,1,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:13 PM
+13,0,4,14,0021300925,,,10:30,1,5.0,0,0,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Bazemore REBOUND (Off:0 Def:1),9:13 PM
+14,1,1,15,0021300925,,,10:21,1,5.0,5,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,7 - 2,-5,Marshall 26' 3PT Jump Shot (3 PTS) (Bazemore 1 AST),9:14 PM
+15,1,2,16,0021300925,MISS Foye 19' Jump Shot,,10:06,1,4.0,0,0,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:14 PM
+16,0,4,17,0021300925,,,10:05,1,5.0,0,0,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,W. Johnson REBOUND (Off:0 Def:1),9:14 PM
+17,1,2,18,0021300925,,,9:57,1,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Gasol 12' Jump Shot,9:14 PM
+18,0,4,19,0021300925,Lawson REBOUND (Off:0 Def:1),,9:56,1,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:14 PM
+19,1,5,20,0021300925,Lawson Bad Pass Turnover (P1.T2),,9:50,1,4.0,5,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Gasol STEAL (1 STL),9:14 PM
+20,42,2,21,0021300925,,,9:44,1,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Meeks 1' Driving Layup,9:14 PM
+21,0,4,22,0021300925,Mozgov REBOUND (Off:0 Def:1),,9:43,1,4.0,0,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:14 PM
+22,1,1,24,0021300925,Chandler 26' 3PT Jump Shot (3 PTS) (Lawson 1 AST),,9:25,1,4.0,4,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,7 - 5,-2,,9:15 PM
+23,4,6,26,0021300925,,,9:11,1,5.0,4,1,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,W. Johnson OFF.Foul (P1),9:15 PM
+24,5,5,27,0021300925,,,9:11,1,5.0,0,1,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,W. Johnson Foul Turnover (P1.T1),9:15 PM
+25,1,1,28,0021300925,Chandler 18' Jump Shot (5 PTS),,8:51,1,4.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,7 - 7,TIE,,9:16 PM
+26,1,2,29,0021300925,Faried BLOCK (1 BLK),,8:43,1,5.0,0,4,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,,,MISS W. Johnson 4' Jump Shot,9:16 PM
+27,0,4,30,0021300925,Faried REBOUND (Off:0 Def:3),,8:42,1,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:16 PM
+28,42,1,31,0021300925,Mozgov  Driving Layup (2 PTS) (Faried 1 AST),,8:38,1,4.0,4,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,7 - 9,2,,9:16 PM
+29,1,2,32,0021300925,,,8:28,1,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Meeks 25' 3PT Jump Shot,9:16 PM
+30,0,4,33,0021300925,,,8:27,1,5.0,0,0,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,W. Johnson REBOUND (Off:1 Def:1),9:16 PM
+31,1,2,34,0021300925,,,8:21,1,5.0,0,0,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS W. Johnson 24' 3PT Jump Shot,9:16 PM
+32,0,4,35,0021300925,Mozgov REBOUND (Off:0 Def:2),,8:20,1,4.0,0,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:16 PM
+33,1,1,36,0021300925,Chandler 25' 3PT Jump Shot (8 PTS) (Lawson 2 AST),,8:14,1,4.0,4,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,7 - 12,5,,9:16 PM
+34,1,1,37,0021300925,,,7:58,1,5.0,5,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,9 - 12,3,Gasol 15' Jump Shot (6 PTS) (Marshall 2 AST),9:17 PM
+35,42,1,38,0021300925,Lawson 2' Driving Layup (2 PTS),,7:49,1,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,9 - 14,5,,9:17 PM
+36,49,1,39,0021300925,,,7:39,1,5.0,5,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,11 - 14,3,Gasol 1' Driving Dunk (8 PTS) (Marshall 3 AST),9:17 PM
+37,3,2,40,0021300925,MISS Mozgov 6' Hook Shot,,7:27,1,4.0,0,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:17 PM
+38,0,4,41,0021300925,,,7:26,1,5.0,0,0,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,W. Johnson REBOUND (Off:1 Def:2),9:17 PM
+39,44,2,42,0021300925,,,7:15,1,5.0,0,0,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS W. Johnson 2' Reverse Layup,9:17 PM
+40,0,4,43,0021300925,Mozgov REBOUND (Off:0 Def:3),,7:14,1,4.0,0,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:17 PM
+41,1,1,44,0021300925,Lawson 12' Jump Shot (4 PTS),,7:09,1,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,11 - 16,5,,9:17 PM
+42,1,9,45,0021300925,,,7:09,1,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Timeout: Regular (Reg.1 Short 0),9:18 PM
+43,1,1,49,0021300925,,,6:55,1,5.0,5,0,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,14 - 16,2,Bazemore 24' 3PT Jump Shot (3 PTS) (Marshall 4 AST),9:20 PM
+44,7,1,50,0021300925,Faried 2' Dunk (4 PTS) (Lawson 3 AST),,6:45,1,4.0,4,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,14 - 18,4,,9:20 PM
+45,2,6,51,0021300925,Mozgov S.FOUL (P1.T2),,6:25,1,4.0,5,1,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,9:21 PM
+46,11,3,52,0021300925,,,6:25,1,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,15 - 18,3,Gasol Free Throw 1 of 2 (9 PTS),9:21 PM
+47,12,3,54,0021300925,,,6:25,1,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Gasol Free Throw 2 of 2,9:21 PM
+48,0,4,56,0021300925,Chandler REBOUND (Off:0 Def:1),,6:23,1,4.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:21 PM
+49,7,1,57,0021300925,Mozgov 2' Dunk (4 PTS) (Chandler 1 AST),,6:18,1,4.0,4,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,15 - 20,5,,9:21 PM
+50,2,6,58,0021300925,,,6:18,1,5.0,4,1,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Gasol S.FOUL (P1.T2),9:21 PM
+51,10,3,59,0021300925,MISS Mozgov Free Throw 1 of 1,,6:18,1,4.0,0,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:22 PM
+52,0,4,61,0021300925,,,6:15,1,5.0,0,0,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,W. Johnson REBOUND (Off:1 Def:3),9:22 PM
+53,1,1,62,0021300925,,,5:58,1,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,17 - 20,3,Gasol 6' Jump Shot (11 PTS),9:22 PM
+54,5,7,63,0021300925,,,5:51,1,5.0,0,1,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,W. Johnson Violation:Kicked Ball,9:22 PM
+55,0,8,64,0021300925,,,5:51,1,5.0,5,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Henry FOR Meeks,9:23 PM
+56,52,1,65,0021300925,Faried 1' Alley Oop Dunk (6 PTS) (Foye 1 AST),,5:40,1,4.0,4,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,17 - 22,5,,9:23 PM
+57,1,2,66,0021300925,,,5:22,1,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Gasol 16' Jump Shot,9:23 PM
+58,0,4,67,0021300925,Faried REBOUND (Off:0 Def:4),,5:21,1,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:23 PM
+59,42,1,68,0021300925,Lawson 1' Driving Layup (6 PTS),,5:12,1,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,17 - 24,7,,9:23 PM
+60,2,6,69,0021300925,,,5:12,1,5.0,4,1,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Henry S.FOUL (P1.T3),9:23 PM
+61,0,8,70,0021300925,,,5:12,1,5.0,5,0,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Kelly FOR W. Johnson,9:24 PM
+62,10,3,71,0021300925,MISS Lawson Free Throw 1 of 1,,5:12,1,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:24 PM
+63,0,4,73,0021300925,,,5:10,1,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:0 Def:1),9:24 PM
+64,42,1,74,0021300925,,,5:02,1,5.0,5,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,19 - 24,5,Henry 2' Driving Layup (2 PTS) (Marshall 5 AST),9:24 PM
+65,1,5,75,0021300925,Lawson Bad Pass Turnover (P2.T3),,4:50,1,4.0,5,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Marshall STEAL (1 STL),9:24 PM
+66,42,1,76,0021300925,,,4:44,1,5.0,5,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,21 - 24,3,Henry 2' Driving Layup (4 PTS) (Marshall 6 AST),9:24 PM
+67,1,2,77,0021300925,MISS Mozgov 19' Jump Shot,,4:34,1,4.0,0,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:25 PM
+68,0,4,78,0021300925,,,4:33,1,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:0 Def:2),9:25 PM
+69,1,5,79,0021300925,Mozgov STEAL (1 STL),,4:24,1,5.0,4,0,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Bazemore Bad Pass Turnover (P1.T2),9:25 PM
+70,1,1,80,0021300925,Lawson 24' 3PT Jump Shot (9 PTS) (Mozgov 1 AST),,4:15,1,4.0,4,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,21 - 27,6,,9:25 PM
+71,1,5,81,0021300925,Chandler STEAL (1 STL),,4:02,1,5.0,4,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Marshall Bad Pass Turnover (P1.T3),9:25 PM
+72,1,1,82,0021300925,Lawson 25' 3PT Jump Shot (12 PTS) (Chandler 2 AST),,3:54,1,4.0,4,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,21 - 30,9,,9:25 PM
+73,2,9,83,0021300925,,,3:54,1,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Timeout: Short (Reg.1 Short 1),9:25 PM
+74,0,8,85,0021300925,,,3:54,1,5.0,5,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Farmar FOR Gasol,9:26 PM
+75,0,8,86,0021300925,,,3:54,1,5.0,5,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Sacre FOR Marshall,9:26 PM
+76,0,8,87,0021300925,SUB: Fournier FOR Foye,,3:54,1,4.0,4,0,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:26 PM
+77,42,1,88,0021300925,,,3:42,1,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,23 - 30,7,Henry 1' Driving Layup (6 PTS),9:26 PM
+78,65,1,89,0021300925,Faried 4' Jump Hook Shot (8 PTS) (Lawson 4 AST),,3:33,1,4.0,4,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,23 - 32,9,,9:27 PM
+79,1,2,90,0021300925,,,3:19,1,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Henry 13' Jump Shot,9:27 PM
+80,0,4,91,0021300925,,,3:19,1,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Sacre REBOUND (Off:1 Def:0),9:27 PM
+81,2,6,92,0021300925,Lawson S.FOUL (P1.T3),,3:19,1,4.0,5,1,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,9:27 PM
+82,11,3,93,0021300925,,,3:19,1,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Sacre Free Throw 1 of 2,9:27 PM
+83,1,4,94,0021300925,,,3:19,1,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Rebound,9:27 PM
+84,0,8,95,0021300925,,,3:19,1,5.0,5,0,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,202705,MarShon Brooks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Brooks FOR Bazemore,9:27 PM
+85,0,8,96,0021300925,SUB: Hickson FOR Mozgov,,3:19,1,4.0,4,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:27 PM
+86,12,3,97,0021300925,,,3:19,1,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,24 - 32,8,Sacre Free Throw 2 of 2 (1 PTS),9:27 PM
+87,1,1,99,0021300925,Fournier 16' Jump Shot (2 PTS),,3:03,1,4.0,0,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,24 - 34,10,,9:28 PM
+88,1,1,100,0021300925,,,2:47,1,5.0,5,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,26 - 34,8,Sacre 17' Jump Shot (3 PTS) (Farmar 1 AST),9:28 PM
+89,63,1,101,0021300925,Hickson 11' Fadeaway Jumper (2 PTS) (Lawson 5 AST),,2:37,1,4.0,4,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,26 - 36,10,,9:28 PM
+90,5,2,102,0021300925,Hickson BLOCK (1 BLK),,2:22,1,5.0,0,4,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,,,MISS Sacre 2' Layup,9:29 PM
+91,0,4,103,0021300925,Chandler REBOUND (Off:0 Def:2),,2:21,1,4.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:29 PM
+92,42,1,104,0021300925,Chandler 2' Driving Layup (10 PTS),,2:13,1,4.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,26 - 38,12,,9:29 PM
+93,1,1,105,0021300925,,,1:50,1,5.0,5,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,28 - 38,10,Sacre 11' Jump Shot (5 PTS) (Farmar 2 AST),9:29 PM
+94,1,2,106,0021300925,MISS Hickson 16' Jump Shot,,1:30,1,4.0,0,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:29 PM
+95,0,4,107,0021300925,,,1:29,1,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Kelly REBOUND (Off:0 Def:1),9:29 PM
+96,2,6,108,0021300925,Faried S.FOUL (P1.T4),,1:21,1,4.0,5,1,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,9:30 PM
+97,1,9,109,0021300925,NUGGETS Timeout: Regular (Full 1 Short 0),,1:21,1,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,9:30 PM
+98,0,8,112,0021300925,SUB: Arthur FOR Faried,,1:21,1,4.0,4,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:32 PM
+99,11,3,113,0021300925,,,1:21,1,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,29 - 38,9,Kelly Free Throw 1 of 2 (1 PTS),9:32 PM
+100,12,3,115,0021300925,,,1:21,1,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,30 - 38,8,Kelly Free Throw 2 of 2 (2 PTS),9:33 PM
+101,42,2,117,0021300925,MISS Lawson 2' Driving Layup,,1:04,1,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:33 PM
+102,0,4,118,0021300925,,,1:03,1,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Sacre REBOUND (Off:1 Def:1),9:33 PM
+103,1,1,119,0021300925,,,0:58,1,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,33 - 38,5,Farmar 26' 3PT Jump Shot (3 PTS),9:33 PM
+104,1,5,120,0021300925,Fournier Bad Pass Turnover (P1.T4),,0:45,1,4.0,5,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Farmar STEAL (1 STL),9:33 PM
+105,1,6,121,0021300925,Chandler P.FOUL (P2.PN),,0:45,1,4.0,5,1,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,9:34 PM
+106,11,3,122,0021300925,,,0:45,1,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,34 - 38,4,Farmar Free Throw 1 of 2 (4 PTS),9:34 PM
+107,0,8,124,0021300925,SUB: Foye FOR Lawson,,0:45,1,4.0,4,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:34 PM
+108,0,8,125,0021300925,SUB: Brooks FOR Chandler,,0:45,1,4.0,4,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:34 PM
+109,12,3,126,0021300925,,,0:45,1,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,35 - 38,3,Farmar Free Throw 2 of 2 (5 PTS),9:34 PM
+110,1,1,129,0021300925,Foye 25' 3PT Jump Shot (3 PTS) (Arthur 1 AST),,0:31,1,4.0,4,0,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,35 - 41,6,,9:35 PM
+111,4,5,130,0021300925,,,0:25,1,5.0,0,1,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Kelly Traveling Turnover (P1.T4),9:35 PM
+112,2,6,131,0021300925,,,0:03,1,5.0,4,1,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Sacre S.FOUL (P1.T4),9:36 PM
+113,11,3,132,0021300925,MISS Fournier Free Throw 1 of 2,,0:03,1,4.0,0,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:36 PM
+114,1,4,133,0021300925,NUGGETS Rebound,,0:03,1,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,9:36 PM
+115,12,3,134,0021300925,Fournier Free Throw 2 of 2 (3 PTS),,0:03,1,4.0,0,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,35 - 42,7,,9:36 PM
+116,0,13,138,0021300925,,,0:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,35 - 42,7,,9:37 PM
+117,0,12,140,0021300925,,,12:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,35 - 42,7,,9:39 PM
+118,1,2,141,0021300925,MISS Brooks 15' Jump Shot,,11:51,2,4.0,0,5,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,0,,,,,,202705,MarShon Brooks,LAL,Los Angeles,1610612747.0,Lakers,,,Brooks BLOCK (1 BLK),9:40 PM
+119,0,4,142,0021300925,NUGGETS Rebound,,11:50,2,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,9:40 PM
+120,1,2,144,0021300925,MISS Brooks 20' Jump Shot,,11:43,2,4.0,0,0,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:40 PM
+121,0,4,145,0021300925,,,11:42,2,5.0,0,0,202705,MarShon Brooks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Brooks REBOUND (Off:0 Def:1),9:40 PM
+122,1,2,146,0021300925,,,11:28,2,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Farmar 21' Jump Shot,9:40 PM
+123,0,4,147,0021300925,Hickson REBOUND (Off:0 Def:1),,11:28,2,4.0,0,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:40 PM
+124,2,5,148,0021300925,Brooks Lost Ball Turnover (P1.T5),,11:25,2,4.0,5,0,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Henry STEAL (1 STL),9:40 PM
+125,42,1,149,0021300925,,,11:20,2,5.0,5,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,37 - 42,5,Farmar 2' Driving Layup (7 PTS) (Henry 1 AST),9:40 PM
+126,1,2,150,0021300925,MISS Arthur 17' Jump Shot,,11:07,2,4.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:40 PM
+127,0,4,151,0021300925,,,11:06,2,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Kelly REBOUND (Off:0 Def:2),9:40 PM
+128,3,2,152,0021300925,,,10:48,2,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Sacre 7' Hook Shot,9:41 PM
+129,0,4,153,0021300925,Arthur REBOUND (Off:0 Def:1),,10:47,2,4.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:41 PM
+130,1,2,154,0021300925,MISS Fournier 24' 3PT Jump Shot,,10:41,2,4.0,0,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:41 PM
+131,0,4,155,0021300925,,,10:39,2,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Henry REBOUND (Off:0 Def:1),9:41 PM
+132,42,1,156,0021300925,,,10:34,2,5.0,5,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,39 - 42,3,Kelly 1' Driving Layup (4 PTS) (Henry 2 AST),9:41 PM
+133,7,2,157,0021300925,MISS Arthur 2' Dunk,,10:20,2,4.0,0,5,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,,,Sacre BLOCK (1 BLK),9:41 PM
+134,0,4,158,0021300925,Hickson REBOUND (Off:1 Def:1),,10:18,2,4.0,0,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:41 PM
+135,72,1,159,0021300925,Hickson 1' Putback Layup (4 PTS),,10:15,2,4.0,0,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,39 - 44,5,,9:41 PM
+136,66,2,160,0021300925,,,10:10,2,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Farmar 10' Jump Bank Shot,9:42 PM
+137,0,4,161,0021300925,NUGGETS Rebound,,10:10,2,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,9:42 PM
+138,1,2,163,0021300925,MISS Brooks 5' Jump Shot,,9:57,2,4.0,0,5,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,0,,,,,,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,,,Farmar BLOCK (1 BLK),9:42 PM
+139,0,4,164,0021300925,NUGGETS Rebound,,9:56,2,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,9:42 PM
+140,1,5,166,0021300925,Hickson Bad Pass Turnover (P1.T6),,9:51,2,4.0,5,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Farmar STEAL (2 STL),9:42 PM
+141,2,6,167,0021300925,Foye S.FOUL (P1.T1),,9:44,2,4.0,5,1,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,202705,MarShon Brooks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,9:42 PM
+142,11,3,168,0021300925,,,9:44,2,5.0,0,0,202705,MarShon Brooks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,40 - 44,4,Brooks Free Throw 1 of 2 (1 PTS),9:43 PM
+143,12,3,170,0021300925,,,9:44,2,5.0,0,0,202705,MarShon Brooks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,41 - 44,3,Brooks Free Throw 2 of 2 (2 PTS),9:43 PM
+144,4,6,172,0021300925,Arthur OFF.Foul (P1),,9:32,2,4.0,5,1,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,202705,MarShon Brooks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,9:43 PM
+145,5,5,173,0021300925,Arthur Foul Turnover (P1.T7),,9:32,2,4.0,0,1,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:43 PM
+146,1,2,174,0021300925,,,9:21,2,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Henry 16' Jump Shot,9:43 PM
+147,0,4,175,0021300925,,,9:20,2,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Sacre REBOUND (Off:2 Def:1),9:44 PM
+148,3,1,176,0021300925,,,9:16,2,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,43 - 44,1,Sacre 4' Hook Shot (7 PTS),9:44 PM
+149,1,9,177,0021300925,NUGGETS Timeout: Regular (Full 2 Short 0),,9:13,2,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,9:44 PM
+150,47,2,181,0021300925,MISS Hickson 9' Turnaround Jump Shot,,8:54,2,4.0,0,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:46 PM
+151,0,4,182,0021300925,,,8:54,2,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Farmar REBOUND (Off:0 Def:1),9:46 PM
+152,1,2,183,0021300925,,,8:46,2,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Kelly  3PT Jump Shot,9:47 PM
+153,0,4,184,0021300925,Fournier REBOUND (Off:0 Def:1),,8:45,2,4.0,0,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:47 PM
+154,1,1,185,0021300925,Foye 24' 3PT Jump Shot (6 PTS) (Fournier 1 AST),,8:40,2,4.0,4,0,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,43 - 47,4,,9:47 PM
+155,1,1,186,0021300925,,,8:23,2,5.0,5,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,46 - 47,1,Kelly 26' 3PT Jump Shot (7 PTS) (Farmar 3 AST),9:47 PM
+156,47,2,187,0021300925,MISS Arthur 12' Turnaround Jump Shot,,8:09,2,4.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:47 PM
+157,0,4,188,0021300925,,,8:08,2,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Sacre REBOUND (Off:2 Def:2),9:47 PM
+158,1,2,189,0021300925,,,7:45,2,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Farmar 19' Jump Shot,9:48 PM
+159,0,4,190,0021300925,Fournier REBOUND (Off:0 Def:2),,7:43,2,4.0,0,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:48 PM
+160,1,2,191,0021300925,MISS Brooks  3PT Jump Shot,,7:35,2,4.0,0,0,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:48 PM
+161,0,4,192,0021300925,,,7:33,2,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Kelly REBOUND (Off:0 Def:3),9:48 PM
+162,42,1,193,0021300925,,,7:30,2,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,48 - 47,-1,Farmar 1' Driving Layup (9 PTS),9:48 PM
+163,2,6,194,0021300925,Arthur S.FOUL (P2.T2),,7:30,2,4.0,5,1,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,9:48 PM
+164,0,8,195,0021300925,,,7:30,2,5.0,5,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Gasol FOR Sacre,9:48 PM
+165,0,8,196,0021300925,,,7:30,2,5.0,5,0,202705,MarShon Brooks,LAL,Los Angeles,1610612747.0,Lakers,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: W. Johnson FOR Brooks,9:48 PM
+166,0,8,197,0021300925,SUB: Lawson FOR Hickson,,7:30,2,4.0,4,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:48 PM
+167,0,8,198,0021300925,SUB: Mozgov FOR Arthur,,7:30,2,4.0,4,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:48 PM
+168,0,8,199,0021300925,SUB: Faried FOR Brooks,,7:30,2,4.0,4,0,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:48 PM
+169,10,3,200,0021300925,,,7:30,2,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,49 - 47,-2,Farmar Free Throw 1 of 1 (10 PTS),9:49 PM
+170,1,2,202,0021300925,MISS Foye 26' 3PT Jump Shot,,7:20,2,4.0,0,0,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:49 PM
+171,0,4,203,0021300925,Lawson REBOUND (Off:1 Def:1),,7:19,2,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:49 PM
+172,1,1,204,0021300925,Lawson 26' 3PT Jump Shot (15 PTS),,7:14,2,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,49 - 50,1,,9:49 PM
+173,40,5,205,0021300925,,,6:58,2,5.0,0,1,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Henry Out of Bounds Lost Ball Turnover (P1.T5),9:49 PM
+174,2,6,206,0021300925,,,6:47,2,5.0,4,1,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Henry S.FOUL (P2.T1),9:50 PM
+175,11,3,207,0021300925,Mozgov Free Throw 1 of 2 (5 PTS),,6:47,2,4.0,0,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,49 - 51,2,,9:50 PM
+176,0,8,209,0021300925,,,6:47,2,5.0,5,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Meeks FOR Henry,9:50 PM
+177,0,8,210,0021300925,SUB: Chandler FOR Fournier,,6:47,2,4.0,4,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,9:50 PM
+178,12,3,211,0021300925,Mozgov Free Throw 2 of 2 (6 PTS),,6:47,2,4.0,0,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,49 - 52,3,,9:50 PM
+179,1,1,214,0021300925,,,6:32,2,5.0,5,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,52 - 52,TIE,Kelly 24' 3PT Jump Shot (10 PTS) (Meeks 1 AST),9:51 PM
+180,1,1,215,0021300925,Foye 25' 3PT Jump Shot (9 PTS) (Lawson 6 AST),,6:16,2,4.0,4,0,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,52 - 55,3,,9:51 PM
+181,1,1,216,0021300925,,,6:02,2,5.0,5,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,55 - 55,TIE,Farmar 24' 3PT Jump Shot (13 PTS) (Meeks 2 AST),9:51 PM
+182,63,1,217,0021300925,Lawson 5' Fadeaway Jumper (17 PTS),,5:48,2,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,55 - 57,2,,9:52 PM
+183,1,5,218,0021300925,Foye STEAL (1 STL),,5:40,2,5.0,4,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Farmar Bad Pass Turnover (P1.T6),9:52 PM
+184,1,6,219,0021300925,,,5:29,2,5.0,4,1,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Gasol P.FOUL (P2.T2),9:52 PM
+185,4,9,220,0021300925,,,5:29,2,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:52 PM
+186,11,3,224,0021300925,MISS Mozgov Free Throw 1 of 2,,5:29,2,4.0,0,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:55 PM
+187,1,4,225,0021300925,NUGGETS Rebound,,5:29,2,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,9:55 PM
+188,12,3,226,0021300925,Mozgov Free Throw 2 of 2 (7 PTS),,5:29,2,4.0,0,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,55 - 58,3,,9:55 PM
+189,63,2,228,0021300925,,,5:06,2,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Kelly 8' Fadeaway Jumper,9:56 PM
+190,0,4,229,0021300925,Foye REBOUND (Off:0 Def:1),,5:05,2,4.0,0,0,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:56 PM
+191,66,1,230,0021300925,Faried 15' Jump Bank Shot (10 PTS) (Foye 2 AST),,4:58,2,4.0,4,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,55 - 60,5,,9:56 PM
+192,5,7,231,0021300925,Mozgov Violation:Kicked Ball,,4:51,2,4.0,0,1,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:56 PM
+193,1,6,232,0021300925,Foye P.FOUL (P2.T3),,4:48,2,4.0,5,1,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,9:56 PM
+194,1,2,233,0021300925,Foye BLOCK (1 BLK),,4:41,2,5.0,0,4,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,,,MISS Meeks 6' Jump Shot,9:57 PM
+195,0,4,234,0021300925,Mozgov REBOUND (Off:0 Def:4),,4:40,2,4.0,0,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:57 PM
+196,1,2,235,0021300925,MISS Foye 24' 3PT Jump Shot,,4:37,2,4.0,0,0,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:57 PM
+197,0,4,236,0021300925,,,4:36,2,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Rebound,9:57 PM
+198,56,2,238,0021300925,,,4:16,2,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Gasol 5' Running Hook Shot,9:57 PM
+199,0,4,239,0021300925,Mozgov REBOUND (Off:0 Def:5),,4:16,2,4.0,0,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:57 PM
+200,1,1,240,0021300925,Chandler 26' 3PT Jump Shot (13 PTS) (Foye 3 AST),,4:06,2,4.0,4,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,55 - 63,8,,9:57 PM
+201,1,2,241,0021300925,,,3:59,2,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Farmar 25' 3PT Jump Shot,9:58 PM
+202,0,4,242,0021300925,Faried REBOUND (Off:0 Def:5),,3:57,2,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,9:58 PM
+203,42,1,243,0021300925,Lawson 3' Driving Layup (19 PTS),,3:51,2,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,55 - 65,10,,9:58 PM
+204,1,9,244,0021300925,,,3:51,2,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Timeout: Regular (Reg.2 Short 1),9:58 PM
+205,0,8,246,0021300925,,,3:51,2,5.0,5,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Henry FOR Kelly,10:00 PM
+206,0,8,247,0021300925,,,3:51,2,5.0,5,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Marshall FOR Farmar,10:00 PM
+207,1,1,249,0021300925,,,3:39,2,5.0,5,0,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,57 - 65,8,W. Johnson 22' Jump Shot (2 PTS) (Marshall 7 AST),10:00 PM
+208,65,1,250,0021300925,Faried 5' Jump Hook Shot (12 PTS),,3:30,2,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,57 - 67,10,,10:00 PM
+209,5,2,251,0021300925,Mozgov BLOCK (1 BLK),,3:10,2,5.0,0,4,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,,,MISS Gasol 2' Layup,10:01 PM
+210,0,4,252,0021300925,Chandler REBOUND (Off:0 Def:3),,3:09,2,4.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:01 PM
+211,5,1,253,0021300925,Chandler 2' Layup (15 PTS),,2:56,2,4.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,57 - 69,12,,10:01 PM
+212,7,1,254,0021300925,,,2:40,2,5.0,5,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,59 - 69,10,Gasol 1' Dunk (13 PTS) (Meeks 3 AST),10:01 PM
+213,2,6,255,0021300925,,,2:31,2,5.0,4,1,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,W. Johnson S.FOUL (P2.T3),10:02 PM
+214,11,3,256,0021300925,Faried Free Throw 1 of 2 (13 PTS),,2:31,2,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,59 - 70,11,,10:02 PM
+215,12,3,258,0021300925,MISS Faried Free Throw 2 of 2,,2:31,2,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:02 PM
+216,0,4,260,0021300925,,,2:29,2,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:0 Def:3),10:02 PM
+217,1,5,261,0021300925,,,2:23,2,5.0,0,1,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Meeks Bad Pass Turnover (P1.T7),10:02 PM
+218,2,6,262,0021300925,,,2:11,2,5.0,4,1,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,W. Johnson S.FOUL (P3.T4),10:03 PM
+219,11,3,263,0021300925,MISS Lawson Free Throw 1 of 2,,2:11,2,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:03 PM
+220,1,4,264,0021300925,NUGGETS Rebound,,2:11,2,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,10:03 PM
+221,0,8,265,0021300925,,,2:11,2,5.0,5,0,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Kelly FOR W. Johnson,10:03 PM
+222,12,3,266,0021300925,Lawson Free Throw 2 of 2 (20 PTS),,2:11,2,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,59 - 71,12,,10:03 PM
+223,1,2,268,0021300925,,,1:55,2,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Gasol 8' Jump Shot,10:04 PM
+224,0,4,269,0021300925,Faried REBOUND (Off:0 Def:6),,1:54,2,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:04 PM
+225,5,2,270,0021300925,MISS Mozgov 2' Layup,,1:48,2,4.0,0,5,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,,,Kelly BLOCK (1 BLK),10:04 PM
+226,0,4,271,0021300925,,,1:46,2,5.0,0,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Marshall REBOUND (Off:0 Def:1),10:04 PM
+227,1,1,273,0021300925,,,1:24,2,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,61 - 71,10,Gasol 3' Jump Shot (15 PTS),10:05 PM
+228,1,5,275,0021300925,Lawson Bad Pass Turnover (P3.T8),,1:18,2,4.0,5,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Henry STEAL (2 STL),10:05 PM
+229,1,5,276,0021300925,Faried STEAL (1 STL),,1:15,2,5.0,4,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Henry Bad Pass Turnover (P2.T8),10:05 PM
+230,5,1,277,0021300925,Mozgov 3' Layup (9 PTS) (Foye 4 AST),,1:07,2,4.0,4,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,61 - 73,12,,10:05 PM
+231,2,6,278,0021300925,Mozgov S.FOUL (P2.T4),,0:58,2,4.0,5,1,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,10:05 PM
+232,11,3,279,0021300925,,,0:58,2,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,62 - 73,11,Meeks Free Throw 1 of 2 (1 PTS),10:05 PM
+233,12,3,281,0021300925,,,0:58,2,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,63 - 73,10,Meeks Free Throw 2 of 2 (2 PTS),10:06 PM
+234,5,1,283,0021300925,Mozgov 2' Layup (11 PTS) (Lawson 7 AST),,0:48,2,4.0,4,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,63 - 75,12,,10:06 PM
+235,1,2,284,0021300925,,,0:38,2,5.0,0,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Marshall 16' Jump Shot,10:06 PM
+236,0,4,285,0021300925,,,0:38,2,5.0,0,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Marshall REBOUND (Off:1 Def:1),10:06 PM
+237,1,2,286,0021300925,,,0:33,2,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Kelly 25' 3PT Jump Shot,10:06 PM
+238,0,4,287,0021300925,,,0:32,2,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Henry REBOUND (Off:1 Def:1),10:06 PM
+239,1,1,288,0021300925,,,0:13,2,5.0,0,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,66 - 75,9,Marshall 28' 3PT Jump Shot (6 PTS),10:07 PM
+240,44,1,289,0021300925,Faried 3' Reverse Layup (15 PTS) (Lawson 8 AST),,0:02,2,4.0,4,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,66 - 77,11,,10:07 PM
+241,0,13,290,0021300925,,,0:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,66 - 77,11,,10:07 PM
+242,0,12,292,0021300925,,,12:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,66 - 77,11,,10:23 PM
+243,1,2,293,0021300925,MISS Chandler 7' Jump Shot,,11:40,3,4.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:23 PM
+244,0,4,294,0021300925,,,11:40,3,5.0,0,0,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,W. Johnson REBOUND (Off:1 Def:4),10:23 PM
+245,1,1,295,0021300925,,,11:23,3,5.0,5,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,69 - 77,8,Meeks  3PT Jump Shot (5 PTS) (Bazemore 2 AST),10:24 PM
+246,3,2,296,0021300925,MISS Mozgov 4' Hook Shot,,11:12,3,4.0,0,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:24 PM
+247,0,4,297,0021300925,,,11:12,3,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Rebound,10:24 PM
+248,1,5,299,0021300925,,,10:56,3,5.0,0,1,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Bazemore Bad Pass Turnover (P2.T9),10:24 PM
+249,1,6,300,0021300925,,,10:45,3,5.0,4,1,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Marshall P.FOUL (P1.T1),10:25 PM
+250,1,1,301,0021300925,Lawson  3PT Jump Shot (23 PTS) (Mozgov 2 AST),,10:38,3,4.0,4,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,69 - 80,11,,10:25 PM
+251,49,1,302,0021300925,,,10:28,3,5.0,5,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,71 - 80,9,Gasol 2' Driving Dunk (17 PTS) (Bazemore 3 AST),10:25 PM
+252,1,5,303,0021300925,Lawson Bad Pass Turnover (P4.T9),,10:13,3,4.0,5,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,W. Johnson STEAL (1 STL),10:25 PM
+253,1,5,304,0021300925,Faried STEAL (2 STL),,10:10,3,5.0,4,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Meeks Bad Pass Turnover (P2.T10),10:26 PM
+254,1,1,305,0021300925,Foye 25' 3PT Jump Shot (12 PTS) (Lawson 9 AST),,10:01,3,4.0,4,0,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,71 - 83,12,,10:26 PM
+255,1,2,306,0021300925,,,9:51,3,5.0,0,0,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Bazemore 25' 3PT Jump Shot,10:26 PM
+256,0,4,308,0021300925,,,9:51,3,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Rebound,10:26 PM
+257,0,10,307,0021300925,Jump Ball Mozgov vs. Gasol: Tip to Bazemore,,9:51,3,4.0,5,5,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,,,,10:26 PM
+258,49,1,309,0021300925,,,9:36,3,5.0,5,0,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,73 - 83,10,W. Johnson 2' Driving Dunk (4 PTS) (Gasol 1 AST),10:27 PM
+259,1,1,310,0021300925,Lawson  3PT Jump Shot (26 PTS) (Foye 5 AST),,9:17,3,4.0,4,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,73 - 86,13,,10:27 PM
+260,5,2,311,0021300925,,,9:05,3,5.0,0,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Marshall 1' Layup,10:27 PM
+261,0,4,312,0021300925,Faried REBOUND (Off:0 Def:7),,9:04,3,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:27 PM
+262,1,2,313,0021300925,MISS Lawson 26' 3PT Jump Shot,,8:57,3,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:27 PM
+263,0,4,314,0021300925,,,8:56,3,5.0,0,0,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Bazemore REBOUND (Off:0 Def:2),10:27 PM
+264,1,2,315,0021300925,,,8:42,3,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Gasol 7' Jump Shot,10:28 PM
+265,0,4,316,0021300925,,,8:41,3,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Rebound,10:28 PM
+266,44,2,318,0021300925,,,8:36,3,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Meeks 2' Reverse Layup,10:28 PM
+267,0,4,319,0021300925,Faried REBOUND (Off:0 Def:8),,8:35,3,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:28 PM
+268,5,2,320,0021300925,MISS Chandler 3' Layup,,8:32,3,4.0,0,5,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,,,W. Johnson BLOCK (1 BLK),10:28 PM
+269,0,4,322,0021300925,,,8:31,3,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Rebound,10:28 PM
+270,0,10,321,0021300925,Jump Ball Chandler vs. W. Johnson: Tip to Meeks,,8:31,3,4.0,5,5,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,,,,10:28 PM
+271,1,6,323,0021300925,Foye P.FOUL (P3.T1),,8:23,3,4.0,5,1,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,10:29 PM
+272,1,2,324,0021300925,,,8:15,3,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Gasol 17' Jump Shot,10:29 PM
+273,0,4,325,0021300925,Chandler REBOUND (Off:0 Def:4),,8:14,3,4.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:29 PM
+274,52,1,326,0021300925,Mozgov 1' Alley Oop Dunk (13 PTS) (Faried 2 AST),,7:52,3,4.0,4,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,73 - 88,15,,10:29 PM
+275,78,1,327,0021300925,,,7:38,3,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,75 - 88,13,Meeks 11' Floating Jump Shot (7 PTS),10:30 PM
+276,42,1,328,0021300925,Lawson 3' Driving Layup (28 PTS),,7:28,3,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,75 - 90,15,,10:30 PM
+277,86,1,329,0021300925,,,7:11,3,5.0,5,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,77 - 90,13,Gasol 10' Turnaround Fadeaway (19 PTS) (Marshall 8 AST),10:30 PM
+278,1,2,330,0021300925,MISS Lawson 15' Jump Shot,,6:58,3,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:30 PM
+279,0,4,331,0021300925,Faried REBOUND (Off:1 Def:8),,6:57,3,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:30 PM
+280,65,2,332,0021300925,MISS Faried 6' Jump Hook Shot,,6:55,3,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:30 PM
+281,0,4,333,0021300925,,,6:54,3,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:0 Def:4),10:30 PM
+282,5,2,334,0021300925,,,6:51,3,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Meeks 1' Layup,10:31 PM
+283,0,4,335,0021300925,,,6:50,3,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Rebound,10:31 PM
+284,1,2,337,0021300925,,,6:43,3,5.0,0,0,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS W. Johnson  3PT Jump Shot,10:31 PM
+285,0,4,338,0021300925,Lawson REBOUND (Off:1 Def:2),,6:42,3,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:31 PM
+286,65,2,339,0021300925,MISS Faried 5' Jump Hook Shot,,6:37,3,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:31 PM
+287,0,4,340,0021300925,,,6:36,3,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Gasol REBOUND (Off:0 Def:5),10:31 PM
+288,1,1,341,0021300925,,,6:24,3,5.0,5,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,79 - 90,11,Gasol 18' Jump Shot (21 PTS) (Marshall 9 AST),10:31 PM
+289,1,6,343,0021300925,,,6:03,3,5.0,4,1,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Bazemore P.FOUL (P2.T2),10:32 PM
+290,49,1,344,0021300925,Chandler 1' Driving Dunk (17 PTS) (Lawson 10 AST),,5:54,3,4.0,4,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,79 - 92,13,,10:32 PM
+291,1,9,345,0021300925,,,5:54,3,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Timeout: Regular (Reg.3 Short 1),10:32 PM
+292,1,2,349,0021300925,,,5:39,3,5.0,0,0,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Bazemore 25' 3PT Jump Shot,10:35 PM
+293,0,4,350,0021300925,Mozgov REBOUND (Off:0 Def:6),,5:39,3,4.0,0,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:35 PM
+294,1,2,351,0021300925,MISS Foye 24' 3PT Jump Shot,,5:27,3,4.0,0,0,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:35 PM
+295,0,4,352,0021300925,,,5:26,3,5.0,0,0,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,W. Johnson REBOUND (Off:1 Def:5),10:35 PM
+296,1,2,353,0021300925,,,5:15,3,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Meeks 25' 3PT Jump Shot,10:35 PM
+297,0,4,354,0021300925,NUGGETS Rebound,,5:14,3,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,10:35 PM
+298,3,6,355,0021300925,,,5:14,3,5.0,4,1,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Meeks L.B.FOUL (P1.T3),10:35 PM
+299,0,8,356,0021300925,,,5:14,3,5.0,5,0,202325,Wesley Johnson,LAL,Los Angeles,1610612747.0,Lakers,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Kelly FOR W. Johnson,10:36 PM
+300,49,1,357,0021300925,Chandler 1' Driving Dunk (19 PTS) (Lawson 11 AST),,4:55,3,4.0,4,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,79 - 94,15,,10:36 PM
+301,2,6,358,0021300925,,,4:55,3,5.0,4,1,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Kelly S.FOUL (P1.T4),10:36 PM
+302,10,3,359,0021300925,MISS Chandler Free Throw 1 of 1,,4:55,3,4.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:36 PM
+303,0,4,361,0021300925,Faried REBOUND (Off:2 Def:8),,4:54,3,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:36 PM
+304,5,1,362,0021300925,Lawson 2' Layup (30 PTS),,4:45,3,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,79 - 96,17,,10:37 PM
+305,1,2,363,0021300925,,,4:36,3,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Gasol 10' Jump Shot,10:37 PM
+306,0,4,365,0021300925,,,4:36,3,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Kelly REBOUND (Off:1 Def:3),10:37 PM
+307,5,2,364,0021300925,,,4:36,3,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Kelly 2' Layup,10:37 PM
+308,0,4,366,0021300925,Chandler REBOUND (Off:0 Def:5),,4:33,3,4.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:37 PM
+309,8,5,367,0021300925,Faried 3 Second Violation Turnover (P2.T10),,4:25,3,4.0,0,1,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:37 PM
+310,0,8,368,0021300925,,,4:25,3,5.0,5,0,203145,Kent Bazemore,LAL,Los Angeles,1610612747.0,Lakers,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Henry FOR Bazemore,10:37 PM
+311,1,2,369,0021300925,,,4:13,3,5.0,0,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Marshall 25' 3PT Jump Shot,10:37 PM
+312,0,4,370,0021300925,Faried REBOUND (Off:2 Def:9),,4:12,3,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:38 PM
+313,42,1,371,0021300925,Faried 2' Driving Layup (17 PTS),,4:05,3,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,79 - 98,19,,10:38 PM
+314,2,6,372,0021300925,Mozgov S.FOUL (P3.T2),,4:01,3,4.0,5,1,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,10:38 PM
+315,11,3,373,0021300925,,,4:01,3,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,80 - 98,18,Henry Free Throw 1 of 2 (7 PTS),10:38 PM
+316,0,8,375,0021300925,,,4:01,3,5.0,5,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Farmar FOR Meeks,10:38 PM
+317,0,8,376,0021300925,,,4:01,3,5.0,5,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Sacre FOR Gasol,10:38 PM
+318,0,8,377,0021300925,,,4:01,3,5.0,5,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,202705,MarShon Brooks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Brooks FOR Marshall,10:38 PM
+319,12,3,378,0021300925,,,4:01,3,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,81 - 98,17,Henry Free Throw 2 of 2 (8 PTS),10:39 PM
+320,5,2,380,0021300925,MISS Mozgov 2' Layup,,3:49,3,4.0,0,5,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,0,,,,,,202705,MarShon Brooks,LAL,Los Angeles,1610612747.0,Lakers,,,Brooks BLOCK (2 BLK),10:39 PM
+321,0,4,381,0021300925,,,3:48,3,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Sacre REBOUND (Off:2 Def:3),10:39 PM
+322,1,2,383,0021300925,,,3:26,3,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Kelly  3PT Jump Shot,10:40 PM
+323,0,4,384,0021300925,NUGGETS Rebound,,3:25,3,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,10:40 PM
+324,1,1,386,0021300925,Faried 15' Jump Shot (19 PTS) (Lawson 12 AST),,3:14,3,4.0,4,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,81 - 100,19,,10:40 PM
+325,2,6,387,0021300925,Faried S.FOUL (P2.T3),,3:06,3,4.0,5,1,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,10:40 PM
+326,11,3,388,0021300925,,,3:06,3,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Sacre Free Throw 1 of 2,10:41 PM
+327,1,4,389,0021300925,,,3:06,3,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Rebound,10:41 PM
+328,12,3,390,0021300925,,,3:06,3,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,82 - 100,18,Sacre Free Throw 2 of 2 (8 PTS),10:41 PM
+329,63,2,392,0021300925,MISS Lawson 17' Fadeaway Jumper,,2:50,3,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:41 PM
+330,0,4,393,0021300925,,,2:49,3,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Kelly REBOUND (Off:1 Def:4),10:41 PM
+331,1,5,394,0021300925,Faried STEAL (3 STL),,2:43,3,5.0,4,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Farmar Bad Pass Turnover (P2.T11),10:41 PM
+332,1,2,395,0021300925,MISS Chandler 26' 3PT Jump Shot,,2:35,3,4.0,0,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:41 PM
+333,0,4,396,0021300925,,,2:34,3,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Farmar REBOUND (Off:0 Def:2),10:41 PM
+334,1,6,397,0021300925,Chandler P.FOUL (P3.T4),,2:24,3,4.0,5,1,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,10:42 PM
+335,1,9,398,0021300925,NUGGETS Timeout: Regular (Full 3 Short 0),,2:24,3,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,10:42 PM
+336,0,8,401,0021300925,SUB: Fournier FOR Chandler,,2:24,3,4.0,4,0,201163,Wilson Chandler,DEN,Denver,1610612743.0,Nuggets,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:44 PM
+337,0,8,402,0021300925,SUB: Hickson FOR Mozgov,,2:24,3,4.0,4,0,202389,Timofey Mozgov,DEN,Denver,1610612743.0,Nuggets,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:44 PM
+338,1,1,403,0021300925,,,2:16,3,5.0,5,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,85 - 100,15,Farmar 25' 3PT Jump Shot (16 PTS) (Sacre 1 AST),10:44 PM
+339,1,6,404,0021300925,,,2:01,3,5.0,4,1,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Farmar P.FOUL (P1.PN),10:45 PM
+340,11,3,405,0021300925,MISS Fournier Free Throw 1 of 2,,2:01,3,4.0,0,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:45 PM
+341,1,4,406,0021300925,NUGGETS Rebound,,2:01,3,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,10:45 PM
+342,0,8,407,0021300925,SUB: Brooks FOR Lawson,,2:01,3,4.0,4,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,10:45 PM
+343,12,3,408,0021300925,Fournier Free Throw 2 of 2 (4 PTS),,2:01,3,4.0,0,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,85 - 101,16,,10:45 PM
+344,5,2,410,0021300925,,,1:50,3,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Henry 2' Layup,10:46 PM
+345,0,4,411,0021300925,,,1:49,3,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Sacre REBOUND (Off:3 Def:3),10:46 PM
+346,65,2,412,0021300925,,,1:46,3,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Sacre 8' Jump Hook Shot,10:46 PM
+347,0,4,414,0021300925,,,1:45,3,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Kelly REBOUND (Off:2 Def:4),10:46 PM
+348,4,2,413,0021300925,,,1:45,3,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Kelly 2' Tip Shot,10:46 PM
+349,0,4,415,0021300925,Brooks REBOUND (Off:0 Def:1),,1:43,3,4.0,0,0,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:46 PM
+350,66,1,416,0021300925,Faried 10' Jump Bank Shot (21 PTS) (Brooks 1 AST),,1:39,3,4.0,4,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,0,,,,,,85 - 103,18,,10:46 PM
+351,2,6,417,0021300925,,,1:39,3,5.0,4,1,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Kelly S.FOUL (P2.PN),10:46 PM
+352,10,3,418,0021300925,Faried Free Throw 1 of 1 (22 PTS),,1:39,3,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,85 - 104,19,,10:46 PM
+353,1,5,420,0021300925,Foye STEAL (2 STL),,1:29,3,5.0,4,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Farmar Bad Pass Turnover (P3.T12),10:46 PM
+354,2,6,421,0021300925,,,1:28,3,5.0,4,1,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Henry S.FOUL (P3.PN),10:47 PM
+355,11,3,422,0021300925,Fournier Free Throw 1 of 2 (5 PTS),,1:28,3,4.0,0,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,85 - 105,20,,10:47 PM
+356,12,3,424,0021300925,Fournier Free Throw 2 of 2 (6 PTS),,1:28,3,4.0,0,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,85 - 106,21,,10:47 PM
+357,1,2,426,0021300925,,,1:17,3,5.0,0,0,202705,MarShon Brooks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Brooks 4' Jump Shot,10:47 PM
+358,0,4,428,0021300925,,,1:17,3,5.0,0,0,202705,MarShon Brooks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Brooks REBOUND (Off:1 Def:1),10:47 PM
+359,4,2,427,0021300925,,,1:17,3,5.0,0,0,202705,MarShon Brooks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Brooks 3' Tip Shot,10:47 PM
+360,0,4,429,0021300925,Foye REBOUND (Off:0 Def:2),,1:15,3,4.0,0,0,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:47 PM
+361,52,1,430,0021300925,Faried 2' Alley Oop Dunk (24 PTS) (Foye 6 AST),,1:13,3,4.0,4,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,200751,Randy Foye,DEN,Denver,1610612743.0,Nuggets,0,,,,,,85 - 108,23,,10:47 PM
+362,2,9,431,0021300925,,,1:13,3,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Timeout: Short (Reg.3 Short 2),10:48 PM
+363,0,8,433,0021300925,,,1:13,3,5.0,5,0,202705,MarShon Brooks,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Marshall FOR Brooks,10:49 PM
+364,17,6,435,0021300925,NUGGETS T.Foul (Def. 3 Sec Faried ),,1:03,3,4.0,0,1,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:49 PM
+365,16,3,436,0021300925,,,1:03,3,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,86 - 108,22,Farmar Free Throw Technical (17 PTS),10:49 PM
+366,0,8,438,0021300925,,,1:03,3,5.0,5,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Meeks FOR Marshall,10:49 PM
+367,1,1,439,0021300925,,,0:54,3,5.0,5,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,89 - 108,19,Farmar 26' 3PT Jump Shot (20 PTS) (Kelly 1 AST),10:49 PM
+368,63,1,440,0021300925,Brooks 14' Fadeaway Jumper (2 PTS) (Hickson 1 AST),,0:39,3,4.0,4,0,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,89 - 110,21,,10:50 PM
+369,66,1,441,0021300925,,,0:31,3,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,91 - 110,19,Farmar 9' Jump Bank Shot (22 PTS),10:50 PM
+370,1,2,442,0021300925,MISS Fournier 5' Jump Shot,,0:18,3,4.0,0,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:50 PM
+371,0,4,443,0021300925,,,0:17,3,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Kelly REBOUND (Off:2 Def:5),10:50 PM
+372,5,2,444,0021300925,,,0:00,3,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Farmar 3' Layup,10:50 PM
+373,0,4,445,0021300925,,,0:00,3,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Rebound,10:51 PM
+374,0,13,446,0021300925,,,0:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,91 - 110,19,,10:51 PM
+375,0,12,448,0021300925,,,12:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,91 - 110,19,,10:53 PM
+376,1,2,449,0021300925,,,11:44,4,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Henry 18' Jump Shot,10:54 PM
+377,0,4,450,0021300925,,,11:43,4,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Sacre REBOUND (Off:4 Def:3),10:54 PM
+378,1,2,451,0021300925,,,11:34,4,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Farmar 16' Jump Shot,10:54 PM
+379,0,4,452,0021300925,Arthur REBOUND (Off:0 Def:2),,11:33,4,4.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:54 PM
+380,1,2,453,0021300925,MISS Arthur 24' 3PT Jump Shot,,11:19,4,4.0,0,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:54 PM
+381,0,4,454,0021300925,,,11:18,4,5.0,0,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Sacre REBOUND (Off:4 Def:4),10:54 PM
+382,1,6,455,0021300925,Lawson P.FOUL (P2.T1),,11:10,4,4.0,5,1,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,10:54 PM
+383,1,2,456,0021300925,,,11:03,4,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Meeks 16' Jump Shot,10:55 PM
+384,0,4,457,0021300925,Hickson REBOUND (Off:1 Def:2),,11:02,4,4.0,0,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:55 PM
+385,1,2,458,0021300925,MISS Hickson 19' Jump Shot,,10:54,4,4.0,0,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:55 PM
+386,0,4,459,0021300925,,,10:54,4,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Kelly REBOUND (Off:2 Def:6),10:55 PM
+387,63,1,460,0021300925,,,10:33,4,5.0,0,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,93 - 110,17,Farmar 12' Fadeaway Jumper (24 PTS),10:55 PM
+388,1,1,461,0021300925,Brooks 24' 3PT Jump Shot (5 PTS) (Hickson 2 AST),,10:20,4,4.0,4,0,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,93 - 113,20,,10:55 PM
+389,2,6,462,0021300925,Hickson S.FOUL (P1.T2),,10:11,4,4.0,5,1,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,10:56 PM
+390,11,3,463,0021300925,,,10:11,4,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,94 - 113,19,Henry Free Throw 1 of 2 (9 PTS),10:56 PM
+391,0,8,465,0021300925,,,10:11,4,5.0,5,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Marshall FOR Farmar,10:56 PM
+392,12,3,466,0021300925,,,10:11,4,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,95 - 113,18,Henry Free Throw 2 of 2 (10 PTS),10:56 PM
+393,49,1,468,0021300925,Hickson 1' Driving Dunk (6 PTS) (Lawson 13 AST),,9:54,4,4.0,4,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,95 - 115,20,,10:57 PM
+394,1,1,469,0021300925,,,9:42,4,5.0,0,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,97 - 115,18,Marshall 4' Jump Shot (8 PTS),10:57 PM
+395,5,2,470,0021300925,MISS Lawson 3' Layup,,9:30,4,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,10:57 PM
+396,0,4,471,0021300925,,,9:29,4,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Rebound,10:57 PM
+397,1,1,473,0021300925,,,9:17,4,5.0,5,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,100 - 115,15,Kelly 26' 3PT Jump Shot (13 PTS) (Marshall 10 AST),10:57 PM
+398,2,5,474,0021300925,Brooks Lost Ball Turnover (P2.T11),,8:57,4,4.0,5,0,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Kelly STEAL (1 STL),10:58 PM
+399,49,1,475,0021300925,,,8:52,4,5.0,5,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,102 - 115,13,Meeks 2' Driving Dunk (9 PTS) (Henry 3 AST),10:58 PM
+400,1,9,476,0021300925,NUGGETS Timeout: Regular (Full 4 Short 0),,8:52,4,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,10:58 PM
+401,0,8,479,0021300925,SUB: Vesely FOR Arthur,,8:52,4,4.0,4,0,201589,Darrell Arthur,DEN,Denver,1610612743.0,Nuggets,202686,Jan Vesely,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:00 PM
+402,78,2,481,0021300925,MISS Vesely 16' Floating Jump Shot,,8:29,4,4.0,0,0,202686,Jan Vesely,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:01 PM
+403,0,4,482,0021300925,,,8:28,4,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Kelly REBOUND (Off:2 Def:7),11:01 PM
+404,1,2,483,0021300925,,,8:08,4,5.0,0,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Marshall 25' 3PT Jump Shot,11:01 PM
+405,0,4,484,0021300925,Hickson REBOUND (Off:1 Def:3),,8:07,4,4.0,0,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:01 PM
+406,5,2,485,0021300925,MISS Hickson 2' Layup,,7:50,4,4.0,0,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:02 PM
+407,0,4,487,0021300925,Hickson REBOUND (Off:2 Def:3),,7:50,4,4.0,0,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:02 PM
+408,87,1,486,0021300925,Hickson 2' Putback Dunk (8 PTS),,7:50,4,4.0,0,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,102 - 117,15,,11:02 PM
+409,42,1,488,0021300925,,,7:40,4,5.0,5,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,104 - 117,13,Kelly 2' Driving Layup (15 PTS) (Marshall 11 AST),11:02 PM
+410,1,6,489,0021300925,,,7:35,4,5.0,4,1,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Marshall P.FOUL (P2.T1),11:02 PM
+411,0,8,490,0021300925,SUB: Faried FOR Hickson,,7:35,4,4.0,4,0,201581,JJ Hickson,DEN,Denver,1610612743.0,Nuggets,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,,11:02 PM
+412,1,2,491,0021300925,MISS Faried 11' Jump Shot,,7:19,4,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:02 PM
+413,0,4,492,0021300925,,,7:18,4,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Henry REBOUND (Off:1 Def:2),11:02 PM
+414,1,6,493,0021300925,Lawson P.FOUL (P3.T3),,7:16,4,4.0,5,1,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,11:03 PM
+415,1,2,494,0021300925,,,7:06,4,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Kelly 24' 3PT Jump Shot,11:03 PM
+416,0,4,495,0021300925,,,7:05,4,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Kelly REBOUND (Off:3 Def:7),11:03 PM
+417,1,2,496,0021300925,,,7:01,4,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Meeks  3PT Jump Shot,11:03 PM
+418,0,4,497,0021300925,Faried REBOUND (Off:2 Def:10),,7:00,4,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:03 PM
+419,14,6,498,0021300925,,,6:54,4,5.0,4,1,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Kelly FLAGRANT.FOUL.TYPE1 (P3.T2),11:03 PM
+420,0,18,499,0021300925,,,6:54,4,,0,1,498,,,,,,0,,,,,,0,,,,,,,,,11:04 PM
+421,0,8,502,0021300925,,,6:54,4,5.0,5,0,203135,Robert Sacre,LAL,Los Angeles,1610612747.0,Lakers,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Gasol FOR Sacre,11:05 PM
+422,18,3,503,0021300925,Faried Free Throw Flagrant 1 of 2 (25 PTS),,6:54,4,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,104 - 118,14,,11:05 PM
+423,19,3,505,0021300925,Faried Free Throw Flagrant 2 of 2 (26 PTS),,6:54,4,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,104 - 119,15,,11:05 PM
+424,1,1,507,0021300925,Fournier 25' 3PT Jump Shot (9 PTS) (Lawson 14 AST),,6:45,4,4.0,4,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,104 - 122,18,,11:06 PM
+425,42,1,508,0021300925,,,6:26,4,5.0,5,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,106 - 122,16,Kelly 2' Driving Layup (17 PTS) (Marshall 12 AST),11:06 PM
+426,5,1,509,0021300925,Faried 2' Layup (28 PTS) (Lawson 15 AST),,6:20,4,4.0,4,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,106 - 124,18,,11:06 PM
+427,1,1,510,0021300925,,,6:07,4,5.0,5,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,109 - 124,15,Kelly  3PT Jump Shot (20 PTS) (Marshall 13 AST),11:06 PM
+428,4,9,512,0021300925,,,5:55,4,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:07 PM
+429,5,2,516,0021300925,MISS Vesely 3' Layup,,5:49,4,4.0,0,0,202686,Jan Vesely,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:09 PM
+430,0,4,517,0021300925,,,5:48,4,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Henry REBOUND (Off:1 Def:3),11:09 PM
+431,1,2,518,0021300925,,,5:42,4,5.0,0,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Marshall 18' Jump Shot,11:09 PM
+432,0,4,519,0021300925,Fournier REBOUND (Off:0 Def:3),,5:42,4,4.0,0,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:09 PM
+433,1,2,520,0021300925,MISS Faried 20' Jump Shot,,5:35,4,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:10 PM
+434,0,4,521,0021300925,,,5:35,4,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Rebound,11:10 PM
+435,1,6,522,0021300925,Vesely P.FOUL (P1.T4),,5:35,4,4.0,5,1,202686,Jan Vesely,DEN,Denver,1610612743.0,Nuggets,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,11:10 PM
+436,1,2,523,0021300925,,,5:21,4,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Meeks 3' Jump Shot,11:10 PM
+437,0,4,525,0021300925,,,5:20,4,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Meeks REBOUND (Off:1 Def:0),11:10 PM
+438,44,1,524,0021300925,,,5:20,4,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,111 - 124,13,Meeks 1' Reverse Layup (11 PTS),11:10 PM
+439,1,2,526,0021300925,MISS Lawson 5' Jump Shot,,5:06,4,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:10 PM
+440,0,4,527,0021300925,Lawson REBOUND (Off:2 Def:2),,5:06,4,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:10 PM
+441,5,1,529,0021300925,Faried 2' Layup (30 PTS) (Fournier 2 AST),,5:01,4,4.0,4,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,111 - 126,15,,11:11 PM
+442,2,6,530,0021300925,,,5:01,4,5.0,4,1,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Kelly S.FOUL (P4.T3),11:11 PM
+443,10,3,531,0021300925,MISS Faried Free Throw 1 of 1,,5:01,4,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:11 PM
+444,0,4,533,0021300925,,,4:59,4,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Henry REBOUND (Off:1 Def:4),11:11 PM
+445,26,6,534,0021300925,,,4:56,4,5.0,4,1,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Henry Offensive Charge Foul (P4.T4),11:11 PM
+446,5,5,535,0021300925,,,4:56,4,5.0,0,0,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Henry Foul Turnover (P3.T13),11:11 PM
+447,4,6,536,0021300925,Fournier OFF.Foul (P1),,4:52,4,4.0,5,1,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,202333,Xavier Henry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,11:12 PM
+448,5,5,537,0021300925,Fournier Foul Turnover (P2.T12),,4:52,4,4.0,0,1,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:12 PM
+449,2,6,538,0021300925,Brooks S.FOUL (P1.PN),,4:37,4,4.0,5,1,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,11:12 PM
+450,11,3,539,0021300925,,,4:37,4,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Meeks Free Throw 1 of 2,11:12 PM
+451,1,4,540,0021300925,,,4:37,4,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Rebound,11:12 PM
+452,12,3,541,0021300925,,,4:37,4,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,112 - 126,14,Meeks Free Throw 2 of 2 (12 PTS),11:13 PM
+453,5,1,543,0021300925,Fournier 2' Layup (11 PTS) (Lawson 16 AST),,4:25,4,4.0,4,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,112 - 128,16,,11:13 PM
+454,5,1,544,0021300925,,,4:15,4,5.0,5,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,114 - 128,14,Gasol 2' Layup (23 PTS) (Marshall 14 AST),11:13 PM
+455,2,6,545,0021300925,Vesely S.FOUL (P2.PN),,4:15,4,4.0,5,1,202686,Jan Vesely,DEN,Denver,1610612743.0,Nuggets,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,11:13 PM
+456,10,3,546,0021300925,,,4:15,4,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,115 - 128,13,Gasol Free Throw 1 of 1 (24 PTS),11:13 PM
+457,78,1,548,0021300925,Brooks 5' Floating Jump Shot (7 PTS) (Lawson 17 AST),,4:03,4,4.0,4,0,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,115 - 130,15,,11:14 PM
+458,1,2,549,0021300925,,,3:52,4,5.0,0,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Marshall 27' 3PT Jump Shot,11:14 PM
+459,0,4,550,0021300925,Brooks REBOUND (Off:0 Def:2),,3:51,4,4.0,0,0,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:14 PM
+460,1,2,551,0021300925,MISS Lawson 24' 3PT Jump Shot,,3:34,4,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:14 PM
+461,0,4,552,0021300925,,,3:33,4,5.0,0,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Marshall REBOUND (Off:1 Def:2),11:14 PM
+462,2,6,553,0021300925,Faried S.FOUL (P3.PN),,3:30,4,4.0,5,1,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,11:15 PM
+463,11,3,554,0021300925,,,3:30,4,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,116 - 130,14,Kelly Free Throw 1 of 2 (21 PTS),11:15 PM
+464,0,8,556,0021300925,,,3:30,4,5.0,5,0,203088,Kendall Marshall,LAL,Los Angeles,1610612747.0,Lakers,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,SUB: Farmar FOR Marshall,11:15 PM
+465,12,3,557,0021300925,,,3:30,4,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,117 - 130,13,Kelly Free Throw 2 of 2 (22 PTS),11:15 PM
+466,47,1,559,0021300925,Fournier 13' Turnaround Jump Shot (13 PTS),,3:05,4,4.0,0,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,117 - 132,15,,11:16 PM
+467,1,6,561,0021300925,Vesely P.FOUL (P3.PN),,2:53,4,4.0,5,1,202686,Jan Vesely,DEN,Denver,1610612743.0,Nuggets,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,11:16 PM
+468,1,9,562,0021300925,,,2:53,4,3.0,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,Lakers Timeout: Regular (Reg.4 Short 2),11:16 PM
+469,11,3,566,0021300925,,,2:53,4,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,118 - 132,14,Gasol Free Throw 1 of 2 (25 PTS),11:19 PM
+470,12,3,568,0021300925,,,2:53,4,5.0,0,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,MISS Gasol Free Throw 2 of 2,11:19 PM
+471,0,4,570,0021300925,Fournier REBOUND (Off:0 Def:4),,2:51,4,4.0,0,0,203095,Evan Fournier,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:19 PM
+472,1,2,571,0021300925,MISS Faried 16' Jump Shot,,2:29,4,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:19 PM
+473,0,4,572,0021300925,,,2:29,4,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Kelly REBOUND (Off:3 Def:8),11:19 PM
+474,80,1,573,0021300925,,,2:11,4,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,120 - 132,12,Meeks 19' Step Back Jump Shot (14 PTS),11:20 PM
+475,1,2,574,0021300925,MISS Lawson 17' Jump Shot,,1:56,4,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:20 PM
+476,0,4,575,0021300925,,,1:55,4,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Meeks REBOUND (Off:1 Def:1),11:20 PM
+477,42,1,576,0021300925,,,1:53,4,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,122 - 132,10,Meeks 2' Driving Layup (16 PTS),11:20 PM
+478,1,2,577,0021300925,MISS Faried 5' Jump Shot,,1:31,4,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:20 PM
+479,0,4,578,0021300925,,,1:30,4,5.0,0,0,201975,Jodie Meeks,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,Meeks REBOUND (Off:1 Def:2),11:20 PM
+480,27,6,579,0021300925,Faried Personal Block Foul (P4.PN),,1:23,4,4.0,5,1,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,11:21 PM
+481,11,3,580,0021300925,,,1:23,4,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,123 - 132,9,Kelly Free Throw 1 of 2 (23 PTS),11:21 PM
+482,12,3,582,0021300925,,,1:23,4,5.0,0,0,203527,Ryan Kelly,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,124 - 132,8,Kelly Free Throw 2 of 2 (24 PTS),11:21 PM
+483,1,2,584,0021300925,MISS Lawson 20' Jump Shot,,1:01,4,4.0,0,0,201951,Ty Lawson,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:22 PM
+484,0,4,585,0021300925,Faried REBOUND (Off:3 Def:10),,1:00,4,4.0,0,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:22 PM
+485,44,1,586,0021300925,Faried 1' Reverse Layup (32 PTS) (Brooks 2 AST),,0:40,4,4.0,4,0,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,0,,,,,,124 - 134,10,,11:22 PM
+486,1,5,587,0021300925,Vesely STEAL (1 STL),,0:32,4,5.0,4,0,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,202686,Jan Vesely,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Farmar Bad Pass Turnover (P4.T14),11:22 PM
+487,1,6,588,0021300925,,,0:31,4,5.0,4,1,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,202702,Kenneth Faried,DEN,Denver,1610612743.0,Nuggets,0,,,,,,,,Farmar P.FOUL (P2.PN),11:22 PM
+488,1,2,589,0021300925,MISS Brooks 29' 3PT Jump Shot,,0:08,4,4.0,0,0,201166,Aaron Brooks,DEN,Denver,1610612743.0,Nuggets,0,,,,,,0,,,,,,,,,11:23 PM
+489,0,4,590,0021300925,NUGGETS Rebound,,0:07,4,2.0,0,0,1610612743,,,,,,0,,,,,,0,,,,,,,,,11:23 PM
+490,11,5,591,0021300925,NUGGETS Turnover: Shot Clock (T#13),,0:07,4,2.0,0,1,1610612743,,,,,,0,,,,,,0,,,,,,,,,11:23 PM
+491,7,1,592,0021300925,,,0:03,4,5.0,5,0,2200,Pau Gasol,LAL,Los Angeles,1610612747.0,Lakers,200770,Jordan Farmar,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,126 - 134,8,Gasol 1' Dunk (27 PTS) (Farmar 4 AST),11:23 PM
+492,0,13,593,0021300925,,,0:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,126 - 134,8,,11:24 PM

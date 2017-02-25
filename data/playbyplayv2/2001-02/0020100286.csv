@@ -1,0 +1,408 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020100286,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,6:10 PM
+1,0,10,2,0020100286,Jump Ball Wallace vs. Willis: Tip to Thomas,,12:00,1,4,5,5,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,,,,6:12 PM
+2,1,5,3,0020100286,Wallace STEAL (1 STL),,11:43,1,5,4,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Norris Bad Pass Turnover (P1.T1),6:14 PM
+3,2,5,4,0020100286,Barry Lost Ball Turnover (P1.T1),,11:25,1,4,5,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Williams STEAL (1 STL),6:14 PM
+4,2,6,5,0020100286,Barry S.FOUL (P1.T1),,11:16,1,4,0,1,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:14 PM
+5,11,3,7,0020100286,,,11:16,1,5,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,1 - 0,-1,Williams Free Throw 1 of 2 (1 PTS),6:14 PM
+6,12,3,10,0020100286,,,11:16,1,5,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,2 - 0,-2,Williams Free Throw 2 of 2 (2 PTS),6:14 PM
+7,1,1,6,0020100286,Curry  Jump Shot (2 PTS) (Robinson 1 AST),,10:54,1,4,4,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,2 - 2,TIE,,6:14 PM
+8,46,1,8,0020100286,,,10:30,1,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,4 - 2,-2,Mobley 18' Running Jump Shot (2 PTS),6:15 PM
+9,1,1,9,0020100286,Robinson 12' Jump Shot (2 PTS) (Barros 1 AST),,10:12,1,4,4,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,4 - 4,TIE,,6:15 PM
+10,1,2,11,0020100286,,,9:48,1,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas 16' Jump Shot,6:16 PM
+11,0,4,12,0020100286,Barry REBOUND (Off:0 Def:1),,9:47,1,4,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:16 PM
+12,1,5,13,0020100286,Robinson Bad Pass Turnover (P1.T2),,9:32,1,4,0,1,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:16 PM
+13,1,1,14,0020100286,,,9:18,1,5,5,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,6 - 4,-2,Mobley 18' Jump Shot (4 PTS) (Williams 1 AST),6:16 PM
+14,2,5,15,0020100286,Robinson Lost Ball Turnover (P2.T3),,8:59,1,4,5,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Thomas STEAL (1 STL),6:17 PM
+15,1,1,16,0020100286,,,8:47,1,5,5,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,9 - 4,-5,Mobley 27' 3PT Jump Shot (7 PTS) (Thomas 1 AST),6:17 PM
+16,1,2,17,0020100286,MISS Barros 28' 3PT Jump Shot,,8:20,1,4,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:17 PM
+17,0,4,18,0020100286,Robinson REBOUND (Off:1 Def:0),,8:19,1,4,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:17 PM
+18,2,5,19,0020100286,Robinson Lost Ball Turnover (P3.T4),,8:14,1,4,5,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Mobley STEAL (1 STL),6:17 PM
+19,1,1,20,0020100286,,,8:00,1,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,11 - 4,-7,Mobley 16' Jump Shot (9 PTS),6:18 PM
+20,1,9,21,0020100286,PISTONS Timeout: Regular (Full 1 Short 0),,7:53,1,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,6:18 PM
+21,2,6,23,0020100286,,,7:43,1,5,0,1,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Williams S.FOUL (P1.T1),6:20 PM
+22,11,3,24,0020100286,Curry Free Throw 1 of 2 (3 PTS),,7:43,1,4,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,11 - 5,-6,,6:20 PM
+23,12,3,25,0020100286,Curry Free Throw 2 of 2 (4 PTS),,7:43,1,4,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,11 - 6,-5,,6:20 PM
+24,1,2,26,0020100286,,,7:32,1,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Mobley 18' Jump Shot,6:21 PM
+25,0,4,27,0020100286,Wallace REBOUND (Off:0 Def:1),,7:30,1,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:21 PM
+26,1,1,28,0020100286,Robinson 18' Jump Shot (4 PTS) (Barry 1 AST),,7:20,1,4,4,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,11 - 8,-3,,6:21 PM
+27,5,2,29,0020100286,,,7:02,1,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas  Layup,6:21 PM
+28,0,4,30,0020100286,Barros REBOUND (Off:0 Def:1),,7:00,1,4,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:21 PM
+29,1,2,31,0020100286,MISS Barry 24' 3PT Jump Shot,,6:53,1,4,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:21 PM
+30,0,4,32,0020100286,,,6:51,1,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:1),6:22 PM
+31,2,5,33,0020100286,Barros STEAL (1 STL),,6:42,1,5,4,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Mobley Lost Ball Turnover (P1.T2),6:22 PM
+32,5,2,34,0020100286,MISS Barros  Layup,,6:36,1,4,0,5,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,,,Thomas BLOCK (1 BLK),6:22 PM
+33,0,4,35,0020100286,Wallace REBOUND (Off:1 Def:1),,6:34,1,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:22 PM
+34,3,2,36,0020100286,MISS Wallace 4' Hook Shot,,6:32,1,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:22 PM
+35,0,4,37,0020100286,,,6:29,1,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:2),6:22 PM
+36,1,6,38,0020100286,Barry P.FOUL (P2.T2),,6:29,1,4,0,1,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:22 PM
+37,0,8,39,0020100286,SUB: Williamson FOR Barry,,6:29,1,4,4,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,6:22 PM
+38,1,1,40,0020100286,,,6:21,1,5,5,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,13 - 8,-5,Williams 18' Jump Shot (4 PTS) (Norris 1 AST),6:23 PM
+39,2,6,41,0020100286,Williamson S.FOUL (P1.T3),,6:21,1,4,0,1,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:23 PM
+40,10,3,42,0020100286,,,6:21,1,5,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,14 - 8,-6,Williams Free Throw 1 of 1 (5 PTS),6:23 PM
+41,1,1,43,0020100286,Barros 18' Jump Shot (2 PTS),,6:12,1,4,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,14 - 10,-4,,6:23 PM
+42,1,5,44,0020100286,Robinson STEAL (1 STL),,6:00,1,5,4,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Williams Bad Pass Turnover (P1.T3),6:23 PM
+43,1,1,45,0020100286,Williamson 17' Jump Shot (2 PTS) (Robinson 2 AST),,5:47,1,4,4,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,14 - 12,-2,,6:23 PM
+44,1,2,46,0020100286,,,5:29,1,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Mobley 13' Jump Shot,6:24 PM
+45,0,4,47,0020100286,Robinson REBOUND (Off:1 Def:1),,5:26,1,4,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:24 PM
+46,1,1,48,0020100286,Wallace 17' Jump Shot (2 PTS),,5:09,1,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,14 - 14,TIE,,6:24 PM
+47,3,2,49,0020100286,,,4:48,1,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Willis 11' Hook Shot,6:24 PM
+48,0,4,50,0020100286,Williamson REBOUND (Off:0 Def:1),,4:45,1,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:25 PM
+49,1,2,51,0020100286,MISS Wallace 16' Jump Shot,,4:27,1,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:25 PM
+50,0,4,52,0020100286,Williamson REBOUND (Off:1 Def:1),,4:26,1,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:25 PM
+51,1,2,53,0020100286,MISS Barros 28' 3PT Jump Shot,,4:23,1,4,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:25 PM
+52,0,4,54,0020100286,,,4:20,1,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,6:25 PM
+53,3,1,55,0020100286,,,3:59,1,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,16 - 14,-2,Thomas 11' Hook Shot (2 PTS),6:26 PM
+54,2,6,56,0020100286,,,3:47,1,5,0,1,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Williams S.FOUL (P2.T2),6:26 PM
+55,0,8,57,0020100286,,,3:47,1,5,5,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Brown FOR Norris,6:26 PM
+56,0,8,58,0020100286,,,3:47,1,5,5,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Morris FOR Williams,6:26 PM
+57,11,3,59,0020100286,Williamson Free Throw 1 of 2 (3 PTS),,3:47,1,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,16 - 15,-1,,6:26 PM
+58,12,3,60,0020100286,Williamson Free Throw 2 of 2 (4 PTS),,3:47,1,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,16 - 16,TIE,,6:27 PM
+59,1,2,61,0020100286,,,3:36,1,5,0,0,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brown 14' Jump Shot,6:27 PM
+60,0,4,62,0020100286,Williamson REBOUND (Off:1 Def:2),,3:34,1,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:27 PM
+61,1,2,63,0020100286,MISS Barros 26' 3PT Jump Shot,,3:26,1,4,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:27 PM
+62,0,4,64,0020100286,,,3:24,1,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Mobley REBOUND (Off:0 Def:1),6:27 PM
+63,2,5,65,0020100286,Wallace STEAL (2 STL),,3:13,1,5,4,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Thomas Lost Ball Turnover (P1.T4),6:27 PM
+64,42,1,66,0020100286,Barros  Driving Layup (4 PTS),,3:02,1,4,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,16 - 18,2,,6:28 PM
+65,1,9,67,0020100286,,,2:57,1,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.1 Short 0),6:28 PM
+66,0,8,69,0020100286,SUB: Atkins FOR Barros,,2:57,1,4,4,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,6:30 PM
+67,2,6,70,0020100286,Robinson S.FOUL (P1.T4),,2:44,1,4,0,1,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:30 PM
+68,11,3,71,0020100286,,,2:44,1,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,17 - 18,1,Willis Free Throw 1 of 2 (1 PTS),6:31 PM
+69,0,8,72,0020100286,SUB: Rebraca FOR Robinson,,2:44,1,4,4,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,6:31 PM
+70,12,3,73,0020100286,,,2:44,1,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,18 - 18,TIE,Willis Free Throw 2 of 2 (2 PTS),6:31 PM
+71,2,6,74,0020100286,,,2:36,1,5,0,1,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Morris S.FOUL (P1.T3),6:31 PM
+72,11,3,75,0020100286,MISS Williamson Free Throw 1 of 2,,2:36,1,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:32 PM
+73,1,4,76,0020100286,PISTONS Rebound,,2:36,1,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,6:32 PM
+74,12,3,77,0020100286,Williamson Free Throw 2 of 2 (5 PTS),,2:36,1,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,18 - 19,1,,6:32 PM
+75,1,1,78,0020100286,,,2:21,1,5,0,0,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,20 - 19,-1,Brown 14' Jump Shot (2 PTS),6:32 PM
+76,1,1,79,0020100286,Rebraca 9' Jump Shot (2 PTS) (Curry 1 AST),,2:08,1,4,4,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,20 - 21,1,,6:33 PM
+77,2,6,80,0020100286,Rebraca S.FOUL (P1.PN),,1:47,1,4,0,1,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:33 PM
+78,11,3,81,0020100286,,,1:47,1,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Mobley Free Throw 1 of 2,6:33 PM
+79,1,4,82,0020100286,,,1:47,1,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,6:33 PM
+80,12,3,83,0020100286,,,1:47,1,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,21 - 21,TIE,Mobley Free Throw 2 of 2 (10 PTS),6:33 PM
+81,1,5,84,0020100286,Williamson Bad Pass Turnover (P1.T5),,1:36,1,4,5,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Thomas STEAL (2 STL),6:34 PM
+82,5,1,85,0020100286,,,1:22,1,5,5,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,23 - 21,-2,Willis  Layup (4 PTS) (Brown 1 AST),6:34 PM
+83,1,1,86,0020100286,Curry 19' Jump Shot (6 PTS) (Atkins 1 AST),,1:02,1,4,4,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,23 - 23,TIE,,6:34 PM
+84,1,2,87,0020100286,,,0:42,1,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas 14' Jump Shot,6:35 PM
+85,0,4,88,0020100286,Wallace REBOUND (Off:1 Def:2),,0:40,1,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:35 PM
+86,7,1,89,0020100286,Rebraca  Dunk (4 PTS) (Atkins 2 AST),,0:33,1,4,4,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,23 - 25,2,,6:35 PM
+87,1,2,90,0020100286,,,0:10,1,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Mobley 20' Jump Shot,6:35 PM
+88,0,4,91,0020100286,Wallace REBOUND (Off:1 Def:3),,0:07,1,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:35 PM
+89,5,1,92,0020100286,Williamson  Layup (7 PTS) (Atkins 3 AST),,0:02,1,4,4,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,23 - 27,4,,6:35 PM
+90,2,6,93,0020100286,,,0:02,1,5,0,1,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brown S.FOUL (P1.T4),6:35 PM
+91,10,3,94,0020100286,Williamson Free Throw 1 of 1 (8 PTS),,0:02,1,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,23 - 28,5,,6:36 PM
+92,0,13,95,0020100286,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 28,5,,6:36 PM
+93,0,12,97,0020100286,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,23 - 28,5,,6:39 PM
+94,5,2,98,0020100286,MISS Williamson  Layup,,11:41,2,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:39 PM
+95,0,4,99,0020100286,Wallace REBOUND (Off:2 Def:3),,11:39,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:39 PM
+96,4,1,100,0020100286,Wallace  Tip Shot (4 PTS),,11:38,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,23 - 30,7,,6:39 PM
+97,11,5,101,0020100286,,,11:14,2,3,0,1,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Turnover: Shot Clock (T#5),6:40 PM
+98,4,6,102,0020100286,Rebraca OFF.Foul (P2),,11:08,2,4,0,1,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:40 PM
+99,5,5,103,0020100286,Rebraca Foul Turnover (P1.T6),,11:08,2,4,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:40 PM
+100,2,6,104,0020100286,Wallace S.FOUL (P1.T1),,10:58,2,4,0,1,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:40 PM
+101,11,3,105,0020100286,,,10:58,2,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,24 - 30,6,Torres Free Throw 1 of 2 (1 PTS),6:41 PM
+102,12,3,106,0020100286,,,10:58,2,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Torres Free Throw 2 of 2,6:41 PM
+103,0,4,107,0020100286,Wallace REBOUND (Off:2 Def:4),,10:57,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:41 PM
+104,1,2,108,0020100286,MISS Williamson  Jump Shot,,10:44,2,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:41 PM
+105,0,4,109,0020100286,Wallace REBOUND (Off:3 Def:4),,10:41,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:41 PM
+106,4,1,110,0020100286,Wallace  Tip Shot (6 PTS),,10:39,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,24 - 32,8,,6:41 PM
+107,1,2,111,0020100286,,,10:29,2,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Griffin 17' Jump Shot,6:42 PM
+108,0,4,112,0020100286,,,10:27,2,5,0,0,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Morris REBOUND (Off:1 Def:0),6:42 PM
+109,1,1,113,0020100286,,,10:22,2,5,5,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,26 - 32,6,Griffin 18' Jump Shot (2 PTS) (Morris 1 AST),6:42 PM
+110,5,2,114,0020100286,MISS Williamson  Layup,,10:04,2,4,0,5,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,,,Griffin BLOCK (1 BLK),6:42 PM
+111,0,4,115,0020100286,Rebraca REBOUND (Off:1 Def:0),,10:01,2,4,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:42 PM
+112,5,2,116,0020100286,MISS Rebraca  Layup,,9:59,2,4,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:42 PM
+113,0,4,117,0020100286,,,9:58,2,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Torres REBOUND (Off:0 Def:1),6:42 PM
+114,1,5,137,0020100286,,,9:55,2,5,0,1,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Torres Bad Pass Turnover (P1.T6),6:42 PM
+115,1,1,118,0020100286,Rebraca 10' Jump Shot (6 PTS),,9:45,2,4,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,26 - 34,8,,6:43 PM
+116,1,2,119,0020100286,,,9:32,2,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Torres 27' 3PT Jump Shot,6:43 PM
+117,0,4,120,0020100286,,,9:30,2,5,0,0,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Morris REBOUND (Off:2 Def:0),6:43 PM
+118,2,5,121,0020100286,Barry STEAL (1 STL),,9:28,2,5,4,0,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Morris Lost Ball Turnover (P1.T7),6:43 PM
+119,3,2,122,0020100286,MISS Wallace 8' Hook Shot,,9:16,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:43 PM
+120,0,4,123,0020100286,,,9:13,2,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:0 Def:1),6:43 PM
+121,5,2,124,0020100286,,,9:02,2,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Mobley  Layup,6:43 PM
+122,0,4,125,0020100286,,,8:59,2,5,0,0,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Morris REBOUND (Off:3 Def:0),6:43 PM
+123,3,2,126,0020100286,,,8:58,2,5,0,0,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Morris 5' Hook Shot,6:43 PM
+124,0,4,127,0020100286,Wallace REBOUND (Off:3 Def:5),,8:55,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:43 PM
+125,5,1,128,0020100286,Rebraca  Layup (8 PTS) (Barry 2 AST),,8:42,2,4,4,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,26 - 36,10,,6:44 PM
+126,5,2,129,0020100286,Wallace BLOCK (1 BLK),,8:26,2,5,0,4,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,,,MISS Morris  Layup,6:44 PM
+127,0,4,130,0020100286,Wallace REBOUND (Off:3 Def:6),,8:22,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:44 PM
+128,1,2,131,0020100286,MISS Atkins 25' 3PT Jump Shot,,8:08,2,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:44 PM
+129,0,4,132,0020100286,Wallace REBOUND (Off:4 Def:6),,8:06,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:44 PM
+130,1,2,133,0020100286,MISS Williamson  Jump Shot,,7:58,2,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:44 PM
+131,0,4,134,0020100286,,,7:56,2,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,6:44 PM
+132,3,6,135,0020100286,Williamson L.B.FOUL (P2.T2),,7:55,2,4,0,1,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:45 PM
+133,3,9,136,0020100286,,,7:55,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,6:45 PM
+134,0,8,139,0020100286,,,7:55,2,5,5,0,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Langhi FOR Morris,6:47 PM
+135,0,8,140,0020100286,SUB: Robinson FOR Wallace,,7:55,2,4,4,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,6:47 PM
+136,0,8,155,0020100286,,,7:55,2,5,5,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Thomas FOR Mobley,6:47 PM
+137,1,2,141,0020100286,,,7:42,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas 9' Jump Shot,6:47 PM
+138,0,4,142,0020100286,Williamson REBOUND (Off:1 Def:3),,7:39,2,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:47 PM
+139,1,2,143,0020100286,MISS Rebraca 7' Jump Shot,,7:36,2,4,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:47 PM
+140,0,4,144,0020100286,Rebraca REBOUND (Off:2 Def:0),,7:34,2,4,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:47 PM
+141,1,2,145,0020100286,MISS Rebraca  Jump Shot,,7:32,2,4,0,5,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,,,Langhi BLOCK (1 BLK),6:47 PM
+142,0,4,146,0020100286,,,7:30,2,5,0,0,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brown REBOUND (Off:0 Def:1),6:47 PM
+143,5,2,147,0020100286,Rebraca BLOCK (1 BLK),,7:25,2,5,0,4,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,,,MISS Langhi  Layup,6:47 PM
+144,0,4,148,0020100286,Williamson REBOUND (Off:1 Def:4),,7:22,2,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:47 PM
+145,1,2,149,0020100286,MISS Barry 27' 3PT Jump Shot,,7:19,2,4,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:47 PM
+146,0,4,150,0020100286,Barry REBOUND (Off:1 Def:1),,7:16,2,4,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:47 PM
+147,1,1,151,0020100286,Robinson 24' 3PT Jump Shot (7 PTS) (Rebraca 1 AST),,7:13,2,4,4,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,26 - 39,13,,6:47 PM
+148,2,5,152,0020100286,Barry STEAL (2 STL),,6:44,2,5,4,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Griffin Lost Ball Turnover (P1.T8),6:48 PM
+149,1,1,153,0020100286,Barry 24' 3PT Jump Shot (3 PTS) (Atkins 4 AST),,6:37,2,4,4,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,26 - 42,16,,6:48 PM
+150,1,9,154,0020100286,,,6:33,2,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.2 Short 0),6:48 PM
+151,0,8,157,0020100286,,,6:33,2,5,5,0,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Norris FOR Brown,6:50 PM
+152,1,2,159,0020100286,,,6:19,2,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Griffin 18' Jump Shot,6:50 PM
+153,0,4,160,0020100286,Williamson REBOUND (Off:1 Def:5),,6:18,2,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:50 PM
+154,42,1,161,0020100286,Williamson  Driving Layup (10 PTS),,6:06,2,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,26 - 44,18,,6:51 PM
+155,1,1,162,0020100286,,,5:43,2,5,5,0,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,28 - 44,16,Langhi 21' Jump Shot (2 PTS) (Torres 1 AST),6:51 PM
+156,1,5,163,0020100286,Atkins Bad Pass Turnover (P1.T7),,5:27,2,4,5,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Thomas STEAL (3 STL),6:51 PM
+157,42,1,164,0020100286,,,5:18,2,5,5,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,30 - 44,14,Torres  Driving Layup (3 PTS) (Norris 2 AST),6:51 PM
+158,1,2,165,0020100286,MISS Williamson 13' Jump Shot,,4:58,2,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:52 PM
+159,0,4,166,0020100286,,,4:57,2,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:0 Def:2),6:52 PM
+160,5,2,167,0020100286,,,4:42,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas  Layup,6:52 PM
+161,0,4,168,0020100286,,,4:40,2,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:1 Def:2),6:52 PM
+162,4,2,169,0020100286,,,4:38,2,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Griffin  Tip Shot,6:52 PM
+163,0,4,170,0020100286,Rebraca REBOUND (Off:2 Def:1),,4:36,2,4,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:52 PM
+164,1,2,171,0020100286,MISS Robinson 24' 3PT Jump Shot,,4:25,2,4,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:52 PM
+165,0,4,172,0020100286,,,4:24,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:3),6:52 PM
+166,1,2,173,0020100286,,,4:12,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas 22' Jump Shot,6:52 PM
+167,0,4,174,0020100286,PISTONS Rebound,,4:10,2,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,6:53 PM
+168,0,8,175,0020100286,SUB: Curry FOR Rebraca,,4:10,2,4,4,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,6:53 PM
+169,0,8,176,0020100286,,,4:10,2,5,5,0,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Williams FOR Langhi,6:53 PM
+170,1,2,177,0020100286,MISS Robinson 17' Jump Shot,,3:51,2,4,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:53 PM
+171,0,4,178,0020100286,Williamson REBOUND (Off:2 Def:5),,3:48,2,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:53 PM
+172,5,1,179,0020100286,Williamson  Layup (12 PTS),,3:47,2,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,30 - 46,16,,6:53 PM
+173,1,6,180,0020100286,Williamson P.FOUL (P3.T3),,3:39,2,4,0,1,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:53 PM
+174,0,8,181,0020100286,,,3:39,2,5,5,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Mobley FOR Torres,6:54 PM
+175,0,8,182,0020100286,SUB: Wallace FOR Williamson,,3:39,2,4,4,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,6:54 PM
+176,2,5,183,0020100286,Barry STEAL (3 STL),,3:27,2,5,4,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Thomas Lost Ball Turnover (P2.T9),6:54 PM
+177,5,1,184,0020100286,Atkins  Layup (2 PTS) (Barry 3 AST),,3:23,2,4,4,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,30 - 48,18,,6:54 PM
+178,1,2,185,0020100286,,,2:59,2,5,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Norris 17' Jump Shot,6:55 PM
+179,0,4,186,0020100286,Robinson REBOUND (Off:1 Def:2),,2:55,2,4,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:55 PM
+180,5,1,187,0020100286,Atkins  Layup (4 PTS) (Barry 4 AST),,2:53,2,4,4,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,30 - 50,20,,6:55 PM
+181,2,9,188,0020100286,,,2:51,2,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Short (Reg.2 Short 1),6:55 PM
+182,1,9,190,0020100286,PISTONS Timeout: Regular (Full 2 Short 0),,2:51,2,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,6:55 PM
+183,1,2,192,0020100286,,,2:39,2,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Mobley 14' Jump Shot,6:57 PM
+184,0,4,193,0020100286,,,2:37,2,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:2 Def:2),6:57 PM
+185,5,1,194,0020100286,,,2:36,2,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,32 - 50,18,Griffin  Layup (4 PTS),6:57 PM
+186,2,7,196,0020100286,,,2:18,2,5,0,1,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Williams Violation:Defensive Goaltending,6:58 PM
+187,5,1,195,0020100286,Curry  Layup (8 PTS) (Barry 5 AST),,2:18,2,4,4,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,32 - 52,20,,6:58 PM
+188,1,2,197,0020100286,,,2:06,2,5,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Williams 18' Jump Shot,6:58 PM
+189,0,4,198,0020100286,,,2:04,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:1 Def:3),6:58 PM
+190,2,6,199,0020100286,Wallace S.FOUL (P2.T4),,2:03,2,4,0,1,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:58 PM
+191,11,3,200,0020100286,,,2:03,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas Free Throw 1 of 2,6:58 PM
+192,0,4,202,0020100286,,,2:03,2,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,6:59 PM
+193,12,3,201,0020100286,,,2:03,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,33 - 52,19,Thomas Free Throw 2 of 2 (3 PTS),6:59 PM
+194,3,2,203,0020100286,MISS Robinson 8' Hook Shot,,1:49,2,4,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,6:59 PM
+195,0,4,204,0020100286,,,1:45,2,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:2 Def:3),6:59 PM
+196,5,2,205,0020100286,Wallace BLOCK (2 BLK),,1:38,2,5,0,4,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,,,MISS Norris  Layup,6:59 PM
+197,0,4,206,0020100286,PISTONS Rebound,,1:35,2,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,6:59 PM
+198,0,8,207,0020100286,SUB: Moore FOR Wallace,,1:35,2,4,4,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,7:00 PM
+199,1,2,208,0020100286,MISS Atkins 26' 3PT Jump Shot,,1:20,2,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:00 PM
+200,0,4,209,0020100286,Moore REBOUND (Off:1 Def:0),,1:18,2,4,0,0,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:00 PM
+201,1,1,210,0020100286,Barry 27' 3PT Jump Shot (6 PTS) (Robinson 3 AST),,1:02,2,4,4,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,33 - 55,22,,7:00 PM
+202,1,2,211,0020100286,,,0:38,2,5,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Norris 19' Jump Shot,7:01 PM
+203,0,4,212,0020100286,,,0:35,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:2 Def:3),7:01 PM
+204,1,6,213,0020100286,Moore P.FOUL (P1.PN),,0:35,2,4,0,1,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:01 PM
+205,11,3,214,0020100286,,,0:35,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas Free Throw 1 of 2,7:01 PM
+206,1,4,215,0020100286,,,0:35,2,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,7:01 PM
+207,12,3,216,0020100286,,,0:35,2,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,34 - 55,21,Thomas Free Throw 2 of 2 (4 PTS),7:01 PM
+208,1,7,217,0020100286,,,0:35,2,3,0,1,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Violation: Delay of game Violation,7:02 PM
+209,1,2,218,0020100286,MISS Robinson 17' Jump Shot,,0:14,2,4,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:02 PM
+210,0,4,219,0020100286,,,0:12,2,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:2 Def:4),7:02 PM
+211,1,1,220,0020100286,,,0:00,2,5,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,36 - 55,19,Norris 18' Jump Shot (2 PTS),7:02 PM
+212,0,13,221,0020100286,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,36 - 55,19,,7:02 PM
+213,0,12,223,0020100286,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,36 - 55,19,,7:19 PM
+214,1,1,224,0020100286,Barry 18' Jump Shot (8 PTS) (Curry 2 AST),,11:45,3,4,4,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,36 - 57,21,,7:19 PM
+215,1,5,225,0020100286,Robinson STEAL (2 STL),,11:22,3,5,4,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Mobley Bad Pass Turnover (P2.T10),7:20 PM
+216,5,2,226,0020100286,MISS Robinson  Layup,,11:18,3,4,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:20 PM
+217,0,4,227,0020100286,,,11:16,3,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Mobley REBOUND (Off:0 Def:2),7:20 PM
+218,1,5,228,0020100286,Robinson STEAL (3 STL),,11:01,3,5,4,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Mobley Bad Pass Turnover (P3.T11),7:20 PM
+219,7,1,229,0020100286,Curry  Dunk (10 PTS) (Barry 6 AST),,10:58,3,4,4,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,36 - 59,23,,7:20 PM
+220,1,5,230,0020100286,,,10:37,3,5,0,1,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis Bad Pass Turnover (P1.T12),7:20 PM
+221,1,2,231,0020100286,MISS Robinson 19' Jump Shot,,10:20,3,4,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:21 PM
+222,0,4,232,0020100286,,,10:17,3,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Mobley REBOUND (Off:0 Def:3),7:21 PM
+223,1,1,233,0020100286,,,10:11,3,5,5,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,38 - 59,21,Williams 17' Jump Shot (7 PTS) (Mobley 1 AST),7:21 PM
+224,1,5,234,0020100286,Barros Bad Pass Turnover (P1.T8),,9:48,3,4,5,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Mobley STEAL (2 STL),7:21 PM
+225,1,2,235,0020100286,,,9:42,3,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Mobley 18' Jump Shot,7:21 PM
+226,0,4,236,0020100286,Barros REBOUND (Off:0 Def:2),,9:40,3,4,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:21 PM
+227,2,6,237,0020100286,,,9:24,3,5,0,1,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Norris S.FOUL (P1.T1),7:22 PM
+228,11,3,238,0020100286,Barros Free Throw 1 of 2 (5 PTS),,9:24,3,4,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,38 - 60,22,,7:22 PM
+229,12,3,239,0020100286,Barros Free Throw 2 of 2 (6 PTS),,9:24,3,4,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,38 - 61,23,,7:22 PM
+230,1,2,240,0020100286,,,9:09,3,5,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Williams 16' Jump Shot,7:23 PM
+231,0,4,241,0020100286,Wallace REBOUND (Off:4 Def:7),,9:08,3,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:23 PM
+232,2,6,242,0020100286,,,8:55,3,5,0,1,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas S.FOUL (P1.T2),7:23 PM
+233,11,3,243,0020100286,Robinson Free Throw 1 of 2 (8 PTS),,8:55,3,4,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,38 - 62,24,,7:23 PM
+234,12,3,244,0020100286,Robinson Free Throw 2 of 2 (9 PTS),,8:55,3,4,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,38 - 63,25,,7:24 PM
+235,4,6,245,0020100286,,,8:43,3,5,0,1,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Williams OFF.Foul (P3),7:24 PM
+236,5,5,246,0020100286,,,8:43,3,5,0,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Williams Foul Turnover (P2.T13),7:24 PM
+237,2,6,247,0020100286,,,8:29,3,5,0,1,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Williams S.FOUL (P4.T3),7:24 PM
+238,11,3,248,0020100286,Curry Free Throw 1 of 2 (11 PTS),,8:29,3,4,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,38 - 64,26,,7:25 PM
+239,0,8,249,0020100286,,,8:29,3,5,5,0,1005,Walt Williams,HOU,Houston,1610612745.0,Rockets,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Langhi FOR Williams,7:25 PM
+240,12,3,250,0020100286,Curry Free Throw 2 of 2 (12 PTS),,8:29,3,4,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,38 - 65,27,,7:25 PM
+241,1,2,251,0020100286,,,8:18,3,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas 19' Jump Shot,7:25 PM
+242,0,4,252,0020100286,Wallace REBOUND (Off:4 Def:8),,8:16,3,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:25 PM
+243,7,2,253,0020100286,MISS Wallace  Dunk,,8:04,3,4,0,5,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,,,Willis BLOCK (1 BLK),7:26 PM
+244,0,4,254,0020100286,,,8:01,3,5,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Norris REBOUND (Off:0 Def:1),7:26 PM
+245,3,5,255,0020100286,,,7:51,3,5,0,1,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis Out Of Bounds Turnover (P2.T14),7:26 PM
+246,47,1,256,0020100286,Barros 9' Turnaround Jump Shot (8 PTS),,7:32,3,4,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,38 - 67,29,,7:26 PM
+247,2,6,257,0020100286,,,7:32,3,5,0,1,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Norris S.FOUL (P2.T4),7:26 PM
+248,10,3,258,0020100286,Barros Free Throw 1 of 1 (9 PTS),,7:32,3,4,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,38 - 68,30,,7:26 PM
+249,5,1,259,0020100286,,,7:21,3,5,5,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,40 - 68,28,Thomas  Layup (6 PTS) (Mobley 2 AST),7:27 PM
+250,1,1,260,0020100286,Robinson 12' Jump Shot (11 PTS) (Wallace 1 AST),,7:04,3,4,4,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,40 - 70,30,,7:27 PM
+251,1,1,261,0020100286,,,6:48,3,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,42 - 70,28,Mobley 19' Jump Shot (12 PTS),7:27 PM
+252,46,2,262,0020100286,MISS Robinson 11' Running Jump Shot,,6:24,3,4,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:28 PM
+253,0,4,263,0020100286,,,6:21,3,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Mobley REBOUND (Off:0 Def:4),7:28 PM
+254,1,1,264,0020100286,,,6:03,3,5,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,44 - 70,26,Norris 14' Jump Shot (4 PTS),7:28 PM
+255,2,5,265,0020100286,Barros Lost Ball Turnover (P2.T9),,6:00,3,4,0,1,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:28 PM
+256,1,2,266,0020100286,,,5:47,3,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Mobley 17' Jump Shot,7:29 PM
+257,0,4,267,0020100286,Robinson REBOUND (Off:1 Def:3),,5:45,3,4,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:29 PM
+258,1,9,268,0020100286,PISTONS Timeout: Regular (Full 3 Short 0),,5:40,3,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,7:29 PM
+259,7,2,270,0020100286,MISS Wallace  Dunk,,5:25,3,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:32 PM
+260,0,4,271,0020100286,,,5:23,3,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis REBOUND (Off:0 Def:1),7:32 PM
+261,4,6,272,0020100286,,,5:12,3,5,0,1,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Langhi OFF.Foul (P1),7:32 PM
+262,5,5,273,0020100286,,,5:12,3,5,0,0,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Langhi Foul Turnover (P1.T15),7:32 PM
+263,42,1,274,0020100286,Barry  Driving Layup (10 PTS),,4:53,3,4,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,44 - 72,28,,7:32 PM
+264,2,6,275,0020100286,,,4:53,3,5,0,1,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Langhi S.FOUL (P2.PN),7:32 PM
+265,10,3,276,0020100286,Barry Free Throw 1 of 1 (11 PTS),,4:53,3,4,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,44 - 73,29,,7:32 PM
+266,1,5,277,0020100286,,,4:40,3,5,0,1,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas Bad Pass Turnover (P3.T16),7:33 PM
+267,1,2,278,0020100286,MISS Barry 27' 3PT Jump Shot,,4:35,3,4,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:33 PM
+268,0,4,279,0020100286,,,4:32,3,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis REBOUND (Off:0 Def:2),7:33 PM
+269,1,5,280,0020100286,Robinson STEAL (4 STL),,4:27,3,5,4,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Mobley Bad Pass Turnover (P4.T17),7:33 PM
+270,1,5,281,0020100286,Robinson Bad Pass Turnover (P4.T10),,4:23,3,4,0,1,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:34 PM
+271,0,8,282,0020100286,SUB: Williamson FOR Barry,,4:23,3,4,4,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,7:34 PM
+272,1,1,283,0020100286,,,4:02,3,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,46 - 73,27,Mobley 20' Jump Shot (14 PTS),7:35 PM
+273,1,1,284,0020100286,Williamson 19' Jump Shot (14 PTS) (Barros 2 AST),,3:44,3,4,4,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,46 - 75,29,,7:35 PM
+274,1,1,285,0020100286,,,3:22,3,5,5,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,49 - 75,26,Norris 27' 3PT Jump Shot (7 PTS) (Mobley 3 AST),7:36 PM
+275,3,2,286,0020100286,MISS Williamson 8' Hook Shot,,3:09,3,4,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:36 PM
+276,0,4,287,0020100286,,,3:05,3,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis REBOUND (Off:0 Def:3),7:36 PM
+277,1,6,288,0020100286,Robinson P.FOUL (P2.T1),,2:58,3,4,0,1,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:36 PM
+278,1,9,289,0020100286,,,2:58,3,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.3 Short 1),7:36 PM
+279,0,8,291,0020100286,SUB: Atkins FOR Barros,,2:58,3,4,4,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,7:38 PM
+280,1,2,292,0020100286,,,2:48,3,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Willis 13' Jump Shot,7:39 PM
+281,0,4,293,0020100286,,,2:45,3,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:3 Def:3),7:39 PM
+282,5,2,294,0020100286,Wallace BLOCK (3 BLK),,2:34,3,5,0,4,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,,,MISS Thomas  Layup,7:39 PM
+283,0,4,295,0020100286,Robinson REBOUND (Off:1 Def:4),,2:31,3,4,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:39 PM
+284,1,5,296,0020100286,Robinson Bad Pass Turnover (P5.T11),,2:24,3,4,0,1,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:39 PM
+285,1,2,297,0020100286,,,2:11,3,5,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Norris 18' Jump Shot,7:39 PM
+286,0,4,298,0020100286,,,2:09,3,5,0,0,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Langhi REBOUND (Off:1 Def:0),7:40 PM
+287,1,2,299,0020100286,,,2:05,3,5,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Norris 27' 3PT Jump Shot,7:40 PM
+288,0,4,300,0020100286,,,2:04,3,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:4 Def:3),7:40 PM
+289,2,6,301,0020100286,Williamson S.FOUL (P4.T2),,2:02,3,4,0,1,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:40 PM
+290,11,3,302,0020100286,,,2:02,3,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,50 - 75,25,Thomas Free Throw 1 of 2 (7 PTS),7:40 PM
+291,0,8,303,0020100286,SUB: Barry FOR Williamson,,2:02,3,4,4,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,7:40 PM
+292,12,3,304,0020100286,,,2:02,3,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas Free Throw 2 of 2,7:40 PM
+293,0,4,305,0020100286,Wallace REBOUND (Off:4 Def:9),,2:00,3,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:41 PM
+294,3,2,306,0020100286,MISS Wallace 11' Hook Shot,,1:38,3,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:41 PM
+295,0,4,307,0020100286,,,1:35,3,5,0,0,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Langhi REBOUND (Off:1 Def:1),7:41 PM
+296,4,6,308,0020100286,,,1:26,3,5,0,1,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis OFF.Foul (P1),7:41 PM
+297,5,5,309,0020100286,,,1:26,3,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis Foul Turnover (P3.T18),7:41 PM
+298,0,8,310,0020100286,SUB: Rebraca FOR Robinson,,1:26,3,4,4,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,7:41 PM
+299,1,2,311,0020100286,MISS Rebraca 12' Jump Shot,,1:04,3,4,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:42 PM
+300,0,4,312,0020100286,,,1:01,3,5,0,0,983,Moochie Norris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Norris REBOUND (Off:0 Def:2),7:42 PM
+301,1,6,313,0020100286,Rebraca P.FOUL (P3.T3),,0:57,3,4,0,1,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:42 PM
+302,1,2,314,0020100286,,,0:37,3,5,0,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Mobley 27' 3PT Jump Shot,7:43 PM
+303,0,4,315,0020100286,Wallace REBOUND (Off:4 Def:10),,0:35,3,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:43 PM
+304,1,6,316,0020100286,,,0:22,3,5,0,1,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis P.FOUL (P2.PN),7:43 PM
+305,11,3,317,0020100286,Atkins Free Throw 1 of 2 (5 PTS),,0:22,3,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,50 - 76,26,,7:43 PM
+306,12,3,318,0020100286,MISS Atkins Free Throw 2 of 2,,0:22,3,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:43 PM
+307,0,4,319,0020100286,,,0:22,3,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Willis REBOUND (Off:0 Def:4),7:44 PM
+308,1,2,320,0020100286,,,0:01,3,5,0,0,788,Kevin Willis,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Willis 17' Jump Shot,7:44 PM
+309,0,4,321,0020100286,,,0:00,3,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:5 Def:3),7:44 PM
+310,0,13,322,0020100286,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,50 - 76,26,,7:44 PM
+311,0,12,324,0020100286,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,50 - 76,26,,7:47 PM
+312,5,7,325,0020100286,Barry Violation:Kicked Ball,,11:42,4,4,0,1,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:47 PM
+313,5,2,326,0020100286,Wallace BLOCK (4 BLK),,11:36,4,5,0,4,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,,,MISS Brown  Layup,7:47 PM
+314,0,4,327,0020100286,White REBOUND (Off:0 Def:1),,11:31,4,4,0,0,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:48 PM
+315,42,1,328,0020100286,Barry  Driving Layup (13 PTS) (White 1 AST),,11:28,4,4,4,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,0,,,,,,50 - 78,28,,7:48 PM
+316,1,1,329,0020100286,,,11:07,4,5,5,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,53 - 78,25,Mobley 27' 3PT Jump Shot (17 PTS) (Griffin 1 AST),7:48 PM
+317,1,1,330,0020100286,Rebraca 7' Jump Shot (10 PTS) (Barry 7 AST),,10:54,4,4,4,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,53 - 80,27,,7:48 PM
+318,1,2,331,0020100286,,,10:38,4,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas 18' Jump Shot,7:48 PM
+319,0,4,332,0020100286,Barry REBOUND (Off:1 Def:2),,10:36,4,4,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:48 PM
+320,45,1,333,0020100286,Rebraca 13' Jump Shot (12 PTS),,10:23,4,4,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,53 - 82,29,,7:49 PM
+321,1,6,334,0020100286,Barry P.FOUL (P3.T1),,10:06,4,4,0,1,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:49 PM
+322,2,5,335,0020100286,Wallace STEAL (3 STL),,9:52,4,5,4,0,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Brown Lost Ball Turnover (P1.T19),7:50 PM
+323,5,1,336,0020100286,Atkins  Layup (7 PTS) (Rebraca 2 AST),,9:47,4,4,4,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,53 - 84,31,,7:50 PM
+324,1,2,337,0020100286,,,9:32,4,5,0,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Thomas 11' Jump Shot,7:50 PM
+325,0,4,338,0020100286,Rebraca REBOUND (Off:2 Def:2),,9:30,4,4,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:50 PM
+326,5,1,339,0020100286,Wallace  Layup (8 PTS),,9:19,4,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,53 - 86,33,,7:50 PM
+327,2,6,340,0020100286,,,9:19,4,5,0,1,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Griffin S.FOUL (P1.T1),7:50 PM
+328,0,8,341,0020100286,,,9:19,4,5,5,0,1903,Kenny Thomas,HOU,Houston,1610612745.0,Rockets,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Morris FOR Thomas,7:51 PM
+329,0,8,342,0020100286,,,9:19,4,5,5,0,1749,Cuttino Mobley,HOU,Houston,1610612745.0,Rockets,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Torres FOR Mobley,7:51 PM
+330,10,3,343,0020100286,MISS Wallace Free Throw 1 of 1,,9:19,4,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:51 PM
+331,0,4,344,0020100286,,,9:19,4,5,0,0,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Morris REBOUND (Off:3 Def:1),7:51 PM
+332,1,2,345,0020100286,,,9:03,4,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Griffin 25' 3PT Jump Shot,7:51 PM
+333,0,4,346,0020100286,White REBOUND (Off:0 Def:2),,9:01,4,4,0,0,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:51 PM
+334,5,2,347,0020100286,MISS Atkins  Layup,,8:54,4,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:51 PM
+335,0,4,348,0020100286,Wallace REBOUND (Off:5 Def:10),,8:51,4,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:51 PM
+336,7,1,349,0020100286,Wallace  Dunk (10 PTS),,8:49,4,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,53 - 88,35,,7:51 PM
+337,1,1,350,0020100286,,,8:36,4,5,5,0,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,55 - 88,33,Morris 18' Jump Shot (2 PTS) (Brown 2 AST),7:52 PM
+338,1,5,351,0020100286,White Bad Pass Turnover (P1.T12),,8:13,4,4,5,0,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Morris STEAL (1 STL),7:52 PM
+339,1,5,352,0020100286,Atkins STEAL (1 STL),,8:00,4,5,4,0,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Brown Bad Pass Turnover (P2.T20),7:52 PM
+340,5,1,353,0020100286,Barry  Layup (15 PTS) (Atkins 5 AST),,7:58,4,4,4,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,55 - 90,35,,7:52 PM
+341,1,9,354,0020100286,,,7:58,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.4 Short 1),7:53 PM
+342,1,2,356,0020100286,Rebraca BLOCK (2 BLK),,7:42,4,5,0,4,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,,,MISS Griffin 15' Jump Shot,7:55 PM
+343,0,4,357,0020100286,,,7:39,4,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:3 Def:4),7:55 PM
+344,1,5,358,0020100286,Atkins STEAL (2 STL),,7:38,4,5,4,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Griffin Bad Pass Turnover (P2.T21),7:55 PM
+345,1,5,359,0020100286,Atkins Bad Pass Turnover (P2.T13),,7:34,4,4,5,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Brown STEAL (1 STL),7:55 PM
+346,5,2,360,0020100286,White BLOCK (1 BLK),,7:16,4,5,0,4,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,,,MISS Brown  Layup,7:55 PM
+347,0,4,361,0020100286,,,7:12,4,5,0,0,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Langhi REBOUND (Off:2 Def:1),7:55 PM
+348,4,1,362,0020100286,,,7:10,4,5,0,0,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,57 - 90,33,Langhi  Tip Shot (4 PTS),7:55 PM
+349,42,1,363,0020100286,Atkins  Driving Layup (9 PTS),,7:05,4,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,57 - 92,35,,7:55 PM
+350,2,6,364,0020100286,Rebraca S.FOUL (P4.T2),,6:50,4,4,0,1,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:56 PM
+351,0,8,365,0020100286,SUB: Moore FOR Rebraca,,6:50,4,4,4,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,7:56 PM
+352,0,8,366,0020100286,SUB: Jones FOR Barry,,6:50,4,4,4,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,1800,Damon Jones,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,7:56 PM
+353,11,3,367,0020100286,,,6:50,4,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,58 - 92,34,Torres Free Throw 1 of 2 (4 PTS),7:56 PM
+354,12,3,368,0020100286,,,6:50,4,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,59 - 92,33,Torres Free Throw 2 of 2 (5 PTS),7:56 PM
+355,1,1,369,0020100286,Moore 15' Jump Shot (2 PTS) (Wallace 2 AST),,6:34,4,4,4,0,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,59 - 94,35,,7:57 PM
+356,1,1,370,0020100286,,,6:19,4,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,61 - 94,33,Torres 13' Jump Shot (7 PTS),7:57 PM
+357,2,6,371,0020100286,Jones S.FOUL (P1.T3),,6:19,4,4,0,1,1800,Damon Jones,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:57 PM
+358,10,3,372,0020100286,,,6:19,4,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,62 - 94,32,Torres Free Throw 1 of 1 (8 PTS),7:57 PM
+359,2,5,373,0020100286,White Lost Ball Turnover (P2.T14),,6:03,4,4,5,0,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Langhi STEAL (1 STL),7:58 PM
+360,5,2,374,0020100286,,,5:57,4,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Griffin  Layup,7:58 PM
+361,0,4,375,0020100286,,,5:55,4,5,0,0,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Langhi REBOUND (Off:3 Def:1),7:58 PM
+362,4,2,376,0020100286,,,5:54,4,5,0,0,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Langhi  Tip Shot,7:58 PM
+363,0,4,377,0020100286,White REBOUND (Off:0 Def:3),,5:51,4,4,0,0,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,7:58 PM
+364,1,1,378,0020100286,Atkins 19' Jump Shot (11 PTS) (White 2 AST),,5:49,4,4,4,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,0,,,,,,62 - 96,34,,7:58 PM
+365,7,1,379,0020100286,,,5:33,4,5,5,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,0,,,,,,64 - 96,32,Torres  Dunk (10 PTS) (Morris 2 AST),7:58 PM
+366,1,9,380,0020100286,PISTONS Timeout: Regular (Full 4 Short 0),,5:24,4,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,7:58 PM
+367,3,1,382,0020100286,White 7' Hook Shot (2 PTS),,5:10,4,4,0,0,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,64 - 98,34,,8:01 PM
+368,1,6,383,0020100286,Jones P.FOUL (P2.T4),,4:52,4,4,0,1,1800,Damon Jones,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,8:01 PM
+369,11,3,384,0020100286,,,4:52,4,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Torres Free Throw 1 of 2,8:01 PM
+370,1,4,385,0020100286,,,4:52,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,8:01 PM
+371,12,3,386,0020100286,,,4:52,4,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,65 - 98,33,Torres Free Throw 2 of 2 (11 PTS),8:02 PM
+372,1,5,387,0020100286,Jones Bad Pass Turnover (P1.T15),,4:36,4,4,5,0,1800,Damon Jones,DET,Detroit,1610612765.0,Pistons,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Griffin STEAL (1 STL),8:02 PM
+373,1,2,388,0020100286,,,4:23,4,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Torres 16' Jump Shot,8:02 PM
+374,0,4,389,0020100286,Wallace REBOUND (Off:5 Def:11),,4:20,4,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,8:02 PM
+375,1,2,390,0020100286,MISS White 18' Jump Shot,,4:08,4,4,0,0,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,8:03 PM
+376,0,4,391,0020100286,,,4:06,4,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Torres REBOUND (Off:0 Def:2),8:03 PM
+377,1,2,392,0020100286,,,3:50,4,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Griffin 27' 3PT Jump Shot,8:03 PM
+378,0,4,393,0020100286,Wallace REBOUND (Off:5 Def:12),,3:49,4,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,8:03 PM
+379,1,2,394,0020100286,MISS White  3PT Jump Shot,,3:35,4,4,0,0,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,8:03 PM
+380,0,4,395,0020100286,Moore REBOUND (Off:2 Def:0),,3:33,4,4,0,0,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,8:03 PM
+381,1,5,396,0020100286,Moore Bad Pass Turnover (P1.T16),,3:24,4,4,5,0,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Torres STEAL (1 STL),8:03 PM
+382,1,1,397,0020100286,,,3:17,4,5,5,0,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,68 - 98,30,Morris 25' 3PT Jump Shot (5 PTS) (Brown 3 AST),8:03 PM
+383,1,5,398,0020100286,White Bad Pass Turnover (P3.T17),,2:59,4,4,5,0,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Griffin STEAL (2 STL),8:04 PM
+384,1,5,399,0020100286,White STEAL (1 STL),,2:48,4,5,4,0,2242,Terence Morris,HOU,Houston,1610612745.0,Rockets,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Morris Bad Pass Turnover (P2.T22),8:04 PM
+385,5,1,400,0020100286,White  Layup (4 PTS),,2:42,4,4,0,0,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,68 - 100,32,,8:04 PM
+386,1,1,401,0020100286,,,2:17,4,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,71 - 100,29,Torres 25' 3PT Jump Shot (14 PTS),8:04 PM
+387,1,1,402,0020100286,White 17' Jump Shot (6 PTS),,1:57,4,4,0,0,2206,Rodney White,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,71 - 102,31,,8:05 PM
+388,1,2,403,0020100286,,,1:41,4,5,0,0,2204,Eddie Griffin,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Griffin 18' Jump Shot,8:05 PM
+389,0,4,404,0020100286,,,1:39,4,5,0,0,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Langhi REBOUND (Off:4 Def:1),8:05 PM
+390,1,1,405,0020100286,,,1:27,4,5,0,0,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,73 - 102,29,Brown 16' Jump Shot (4 PTS),8:05 PM
+391,1,1,406,0020100286,Jones 25' 3PT Jump Shot (3 PTS) (Atkins 6 AST),,1:18,4,4,4,0,1800,Damon Jones,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,73 - 105,32,,8:05 PM
+392,1,2,407,0020100286,Moore BLOCK (1 BLK),,0:53,4,5,0,4,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,,,MISS Langhi 11' Jump Shot,8:06 PM
+393,0,4,408,0020100286,,,0:50,4,5,0,0,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brown REBOUND (Off:1 Def:1),8:06 PM
+394,1,2,409,0020100286,,,0:49,4,5,0,0,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brown 12' Jump Shot,8:06 PM
+395,0,4,410,0020100286,,,0:46,4,5,0,0,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Langhi REBOUND (Off:5 Def:1),8:06 PM
+396,1,2,411,0020100286,Moore BLOCK (2 BLK),,0:45,4,5,0,4,2061,Dan Langhi,HOU,Houston,1610612745.0,Rockets,0,,,,,,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,,,MISS Langhi 13' Jump Shot,8:06 PM
+397,0,4,412,0020100286,Wallace REBOUND (Off:5 Def:13),,0:43,4,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,8:06 PM
+398,1,2,413,0020100286,MISS Jones 26' 3PT Jump Shot,,0:40,4,4,0,0,1800,Damon Jones,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,8:06 PM
+399,0,4,414,0020100286,,,0:38,4,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Torres REBOUND (Off:0 Def:3),8:06 PM
+400,1,6,415,0020100286,Jones P.FOUL (P3.PN),,0:29,4,4,0,1,1800,Damon Jones,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,8:06 PM
+401,3,9,416,0020100286,,,0:29,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:07 PM
+402,11,3,418,0020100286,,,0:29,4,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,74 - 105,31,Torres Free Throw 1 of 2 (15 PTS),8:08 PM
+403,12,3,419,0020100286,,,0:29,4,5,0,0,2351,Oscar Torres,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,75 - 105,30,Torres Free Throw 2 of 2 (16 PTS),8:09 PM
+404,11,5,420,0020100286,PISTONS Turnover: Shot Clock (T#18),,0:05,4,2,0,1,1610612765,,,,,,0,,,,,,0,,,,,,,,,8:09 PM
+405,46,1,421,0020100286,,,0:00,4,5,0,0,2357,Tierre Brown,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,77 - 105,28,Brown 13' Running Jump Shot (6 PTS),8:10 PM
+406,0,13,422,0020100286,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,77 - 105,28,,8:10 PM

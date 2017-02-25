@@ -1,0 +1,489 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020000400,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:39 AM
+1,0,10,1,0020000400,Jump Ball Wallace vs. Battie: Tip to Smith,,12:00,1,4,5,4,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,,,,11:40 AM
+2,3,2,2,0020000400,MISS Smith 7' Hook Shot,,11:43,1,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:41 AM
+3,0,4,3,0020000400,Smith REBOUND (Off:1 Def:0),,11:41,1,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:41 AM
+4,5,1,4,0020000400,Smith  Layup (2 PTS),,11:38,1,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,0 - 2,2,,11:41 AM
+5,4,6,5,0020000400,,,11:24,1,5,0,1,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie OFF.Foul (P1),11:41 AM
+6,5,5,6,0020000400,,,11:24,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie Foul Turnover (P1.T1),11:41 AM
+7,1,5,7,0020000400,Atkins Bad Pass Turnover (P1.T1),,11:09,1,4,0,1,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:41 AM
+8,1,1,8,0020000400,,,11:00,1,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,2 - 2,TIE,Battie 19' Jump Shot (2 PTS) (Anderson 1 AST),11:42 AM
+9,2,6,9,0020000400,,,10:33,1,5,0,1,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker S.FOUL (P1.T1),11:42 AM
+10,11,3,10,0020000400,Wallace Free Throw 1 of 2 (1 PTS),,10:33,1,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,2 - 3,1,,11:42 AM
+11,12,3,12,0020000400,MISS Wallace Free Throw 2 of 2,,10:33,1,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:43 AM
+12,0,4,13,0020000400,,,10:32,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:1),11:43 AM
+13,1,2,14,0020000400,,,10:18,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Battie 13' Jump Shot,11:43 AM
+14,0,4,15,0020000400,,,10:16,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:1 Def:0),11:43 AM
+15,5,2,16,0020000400,,,10:12,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Battie  Layup,11:43 AM
+16,0,4,17,0020000400,,,10:10,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:2 Def:0),11:43 AM
+17,2,6,18,0020000400,Wallace S.FOUL (P1.T1),,10:08,1,4,0,1,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:44 AM
+18,11,3,19,0020000400,,,10:08,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,3 - 3,TIE,Battie Free Throw 1 of 2 (3 PTS),11:44 AM
+19,12,3,20,0020000400,,,10:08,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,4 - 3,-1,Battie Free Throw 2 of 2 (4 PTS),11:44 AM
+20,1,1,21,0020000400,Atkins 18' Jump Shot (2 PTS) (Stackhouse 1 AST),,9:53,1,4,4,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,4 - 5,1,,11:44 AM
+21,1,2,22,0020000400,,,9:47,1,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson 14' Jump Shot,11:44 AM
+22,0,4,23,0020000400,Smith REBOUND (Off:1 Def:1),,9:45,1,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:44 AM
+23,1,2,24,0020000400,MISS Stackhouse 18' Jump Shot,,9:37,1,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:45 AM
+24,0,4,25,0020000400,,,9:35,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:2 Def:1),11:45 AM
+25,1,1,26,0020000400,,,9:22,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,6 - 5,-1,Pierce 18' Jump Shot (2 PTS),11:45 AM
+26,1,6,27,0020000400,,,9:15,1,5,0,1,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce P.FOUL (P1.T2),11:45 AM
+27,1,2,28,0020000400,MISS Stackhouse 18' Jump Shot,,9:10,1,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:45 AM
+28,0,4,29,0020000400,,,9:08,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:2),11:45 AM
+29,1,2,30,0020000400,,,8:57,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 24' 3PT Jump Shot,11:45 AM
+30,0,4,31,0020000400,Wallace REBOUND (Off:0 Def:1),,8:55,1,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:45 AM
+31,5,1,32,0020000400,Curry  Layup (2 PTS) (Wallace 1 AST),,8:49,1,4,4,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,6 - 7,1,,11:46 AM
+32,1,6,33,0020000400,Atkins P.FOUL (P1.T2),,8:43,1,4,0,1,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:46 AM
+33,1,2,34,0020000400,,,8:30,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Battie 7' Jump Shot,11:46 AM
+34,0,4,35,0020000400,Wallace REBOUND (Off:0 Def:2),,8:28,1,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:46 AM
+35,1,2,36,0020000400,MISS Atkins 18' Jump Shot,,8:22,1,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:46 AM
+36,0,4,37,0020000400,,,8:20,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:0 Def:1),11:46 AM
+37,5,1,38,0020000400,,,8:12,1,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,8 - 7,-1,Battie  Layup (6 PTS) (Anderson 2 AST),11:46 AM
+38,3,5,39,0020000400,Atkins Out Of Bounds Turnover (P2.T2),,7:53,1,4,0,1,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:47 AM
+39,5,2,40,0020000400,Wallace BLOCK (1 BLK),,7:41,1,5,0,4,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,,,MISS Walker  Layup,11:47 AM
+40,0,4,41,0020000400,,,7:39,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,11:47 AM
+41,1,1,42,0020000400,,,7:35,1,5,5,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,10 - 7,-3,Stith 17' Jump Shot (2 PTS) (Pierce 1 AST),11:48 AM
+42,2,6,43,0020000400,,,7:26,1,5,0,1,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson S.FOUL (P1.T3),11:48 AM
+43,11,3,44,0020000400,Curry Free Throw 1 of 2 (3 PTS),,7:26,1,4,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,10 - 8,-2,,11:48 AM
+44,12,3,45,0020000400,Curry Free Throw 2 of 2 (4 PTS),,7:26,1,4,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,10 - 9,-1,,11:48 AM
+45,1,1,46,0020000400,,,7:05,1,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,13 - 9,-4,Walker 25' 3PT Jump Shot (3 PTS) (Anderson 3 AST),11:49 AM
+46,1,1,47,0020000400,Stackhouse 27' 3PT Jump Shot (3 PTS),,6:56,1,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,13 - 12,-1,,11:49 AM
+47,1,2,48,0020000400,,,6:42,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 9' Jump Shot,11:49 AM
+48,0,4,49,0020000400,,,6:41,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:3 Def:1),11:49 AM
+49,4,1,50,0020000400,,,6:40,1,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,15 - 12,-3,Battie  Tip Shot (8 PTS),11:49 AM
+50,2,5,51,0020000400,Stackhouse Lost Ball Turnover (P1.T3),,6:32,1,4,0,1,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:49 AM
+51,5,2,52,0020000400,,,6:19,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker  Layup,11:50 AM
+52,0,4,53,0020000400,Stackhouse REBOUND (Off:0 Def:1),,6:17,1,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:50 AM
+53,2,6,54,0020000400,,,6:13,1,5,0,1,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie S.FOUL (P2.T4),11:50 AM
+54,11,3,55,0020000400,Stackhouse Free Throw 1 of 2 (4 PTS),,6:13,1,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,15 - 13,-2,,11:50 AM
+55,0,8,56,0020000400,,,6:13,1,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Potapenko FOR Battie,11:50 AM
+56,12,3,57,0020000400,Stackhouse Free Throw 2 of 2 (5 PTS),,6:13,1,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,15 - 14,-1,,11:50 AM
+57,1,1,58,0020000400,,,6:00,1,5,5,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,17 - 14,-3,Stith 15' Jump Shot (4 PTS) (Walker 1 AST),11:51 AM
+58,1,1,59,0020000400,Atkins 18' Jump Shot (4 PTS) (Wallace 2 AST),,5:48,1,4,4,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,17 - 16,-1,,11:51 AM
+59,46,1,60,0020000400,,,5:36,1,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,19 - 16,-3,Anderson 9' Running Jump Shot (2 PTS),11:51 AM
+60,1,2,61,0020000400,MISS Stackhouse 26' 3PT Jump Shot,,5:24,1,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:51 AM
+61,0,4,62,0020000400,,,5:22,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,11:51 AM
+62,1,9,63,0020000400,PISTONS Timeout: Regular (Full 1 Short 0),,5:22,1,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,11:51 AM
+63,0,8,65,0020000400,,,5:22,1,5,5,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Palacio FOR Anderson,11:54 AM
+64,1,5,66,0020000400,Atkins STEAL (1 STL),,5:20,1,5,4,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Walker Bad Pass Turnover (P1.T2),11:54 AM
+65,2,5,67,0020000400,Stackhouse Lost Ball Turnover (P2.T4),,5:12,1,4,5,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Walker STEAL (1 STL),11:54 AM
+66,1,2,68,0020000400,,,5:05,1,5,0,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Stith 26' 3PT Jump Shot,11:54 AM
+67,0,4,69,0020000400,,,5:03,1,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko REBOUND (Off:1 Def:0),11:54 AM
+68,2,6,70,0020000400,Curry S.FOUL (P1.T3),,5:03,1,4,0,1,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:54 AM
+69,0,8,71,0020000400,SUB: Montross FOR Smith,,5:03,1,4,4,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,11:54 AM
+70,11,3,72,0020000400,,,5:03,1,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,20 - 16,-4,Potapenko Free Throw 1 of 2 (1 PTS),11:54 AM
+71,12,3,73,0020000400,,,5:03,1,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Potapenko Free Throw 2 of 2,11:54 AM
+72,0,4,74,0020000400,Wallace REBOUND (Off:0 Def:3),,5:02,1,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:55 AM
+73,42,1,75,0020000400,Curry  Driving Layup (6 PTS),,4:53,1,4,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,20 - 18,-2,,11:55 AM
+74,1,1,76,0020000400,,,4:31,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,22 - 18,-4,Walker 12' Jump Shot (5 PTS),11:55 AM
+75,1,2,77,0020000400,MISS Atkins 19' Jump Shot,,4:11,1,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:55 AM
+76,0,4,78,0020000400,,,4:09,1,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko REBOUND (Off:1 Def:1),11:55 AM
+77,1,1,79,0020000400,,,3:57,1,5,5,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,24 - 18,-6,Potapenko 10' Jump Shot (3 PTS) (Pierce 2 AST),11:56 AM
+78,1,6,80,0020000400,,,3:52,1,5,0,1,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Stith P.FOUL (P1.PN),11:56 AM
+79,0,8,81,0020000400,SUB: Cleaves FOR Atkins,,3:52,1,4,4,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,11:56 AM
+80,11,3,82,0020000400,MISS Stackhouse Free Throw 1 of 2,,3:52,1,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:56 AM
+81,1,4,83,0020000400,PISTONS Rebound,,3:52,1,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,11:56 AM
+82,12,3,84,0020000400,Stackhouse Free Throw 2 of 2 (6 PTS),,3:52,1,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,24 - 19,-5,,11:56 AM
+83,1,2,85,0020000400,,,3:34,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 16' Jump Shot,11:57 AM
+84,0,4,86,0020000400,,,3:32,1,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko REBOUND (Off:2 Def:1),11:57 AM
+85,1,2,87,0020000400,,,3:30,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 26' 3PT Jump Shot,11:57 AM
+86,0,4,88,0020000400,PISTONS Rebound,,3:29,1,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,11:57 AM
+87,1,6,89,0020000400,,,3:29,1,5,0,1,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko P.FOUL (P1.PN),11:57 AM
+88,11,3,90,0020000400,MISS Montross Free Throw 1 of 2,,3:29,1,4,0,0,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:57 AM
+89,1,4,91,0020000400,PISTONS Rebound,,3:29,1,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,11:57 AM
+90,12,3,92,0020000400,MISS Montross Free Throw 2 of 2,,3:29,1,4,0,0,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:57 AM
+91,0,4,93,0020000400,,,3:28,1,5,0,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Stith REBOUND (Off:0 Def:1),11:57 AM
+92,1,1,94,0020000400,,,3:09,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,26 - 19,-7,Pierce 16' Jump Shot (4 PTS),11:58 AM
+93,1,1,95,0020000400,Curry 17' Jump Shot (8 PTS) (Stackhouse 2 AST),,2:53,1,4,4,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,26 - 21,-5,,11:58 AM
+94,2,5,96,0020000400,Montross STEAL (1 STL),,2:38,1,5,4,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Potapenko Lost Ball Turnover (P1.T3),11:58 AM
+95,5,2,97,0020000400,MISS Stackhouse  Layup,,2:36,1,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:58 AM
+96,0,4,98,0020000400,,,2:34,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:0 Def:2),11:58 AM
+97,1,2,99,0020000400,,,2:26,1,5,0,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Stith  3PT Jump Shot,11:58 AM
+98,0,4,100,0020000400,Curry REBOUND (Off:0 Def:1),,2:24,1,4,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:58 AM
+99,7,1,101,0020000400,Wallace  Dunk (3 PTS) (Stackhouse 3 AST),,2:12,1,4,4,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,26 - 23,-3,,11:59 AM
+100,1,2,102,0020000400,,,1:55,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 17' Jump Shot,11:59 AM
+101,0,4,103,0020000400,Cleaves REBOUND (Off:0 Def:1),,1:53,1,4,0,0,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:59 AM
+102,5,2,104,0020000400,MISS Stackhouse  Layup,,1:49,1,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,11:59 AM
+103,0,4,105,0020000400,,,1:47,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:3),11:59 AM
+104,3,5,106,0020000400,,,1:44,1,5,0,1,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Palacio Out Of Bounds Turnover (P1.T4),11:59 AM
+105,1,9,107,0020000400,,,1:44,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.1 Short 0),12:00 PM
+106,0,8,108,0020000400,,,1:44,1,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Williams FOR Pierce,12:01 PM
+107,0,8,125,0020000400,,,1:44,1,5,5,0,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Anderson FOR Palacio,12:01 PM
+108,1,2,109,0020000400,MISS Cleaves 16' Jump Shot,,1:32,1,4,0,0,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:02 PM
+109,0,4,110,0020000400,Wallace REBOUND (Off:1 Def:3),,1:30,1,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:02 PM
+110,7,1,111,0020000400,Montross  Dunk (2 PTS) (Stackhouse 4 AST),,1:23,1,4,4,0,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,26 - 25,-1,,12:02 PM
+111,1,1,112,0020000400,,,1:01,1,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,28 - 25,-3,Walker 19' Jump Shot (7 PTS),12:04 PM
+112,1,2,113,0020000400,MISS Stackhouse 18' Jump Shot,,0:51,1,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:04 PM
+113,0,4,114,0020000400,,,0:49,1,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko REBOUND (Off:2 Def:2),12:04 PM
+114,1,1,115,0020000400,,,0:41,1,5,5,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,30 - 25,-5,Potapenko 13' Jump Shot (5 PTS) (Anderson 4 AST),12:04 PM
+115,5,2,116,0020000400,MISS Cleaves  Layup,,0:29,1,4,0,0,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:05 PM
+116,0,4,117,0020000400,,,0:27,1,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:1),12:05 PM
+117,1,2,118,0020000400,,,0:09,1,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson 16' Jump Shot,12:05 PM
+118,0,4,119,0020000400,Wallace REBOUND (Off:1 Def:4),,0:07,1,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:05 PM
+119,2,5,120,0020000400,Stackhouse Lost Ball Turnover (P3.T5),,0:04,1,4,5,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Stith STEAL (1 STL),12:05 PM
+120,1,2,121,0020000400,,,0:02,1,5,0,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Stith 27' 3PT Jump Shot,12:05 PM
+121,0,4,122,0020000400,Montross REBOUND (Off:0 Def:1),,0:01,1,4,0,0,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:05 PM
+122,0,13,123,0020000400,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,30 - 25,-5,,12:05 PM
+123,0,12,126,0020000400,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,30 - 25,-5,,12:08 PM
+124,1,2,127,0020000400,Montross BLOCK (1 BLK),,11:41,2,5,0,4,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,,,MISS Pierce 15' Jump Shot,12:08 PM
+125,0,4,128,0020000400,Cleaves REBOUND (Off:0 Def:2),,11:39,2,4,0,0,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:08 PM
+126,5,1,129,0020000400,Cleaves  Layup (2 PTS),,11:34,2,4,0,0,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,30 - 27,-3,,12:08 PM
+127,8,5,130,0020000400,,,11:16,2,5,0,1,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko 3 Second Violation Turnover (P2.T5),12:09 PM
+128,3,1,131,0020000400,Moore 4' Hook Shot (2 PTS) (Barros 1 AST),,11:03,2,4,4,0,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,30 - 29,-1,,12:09 PM
+129,0,8,132,0020000400,,,10:51,2,5,5,0,2040,Jerome Moiso,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Walker FOR Moiso,12:09 PM
+130,2,6,133,0020000400,Cleaves S.FOUL (P1.T1),,10:51,2,4,0,1,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:10 PM
+131,11,3,134,0020000400,,,10:51,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,31 - 29,-2,Pierce Free Throw 1 of 2 (5 PTS),12:10 PM
+132,12,3,135,0020000400,,,10:51,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,32 - 29,-3,Pierce Free Throw 2 of 2 (6 PTS),12:10 PM
+133,5,2,136,0020000400,MISS Cleaves  Layup,,10:32,2,4,0,0,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:10 PM
+134,0,4,137,0020000400,Wallace REBOUND (Off:1 Def:0),,10:31,2,4,0,0,961,John Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:10 PM
+135,4,2,138,0020000400,MISS Wallace  Tip Shot,,10:30,2,4,0,0,961,John Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:11 PM
+136,0,4,139,0020000400,,,10:28,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:2),12:11 PM
+137,1,2,140,0020000400,,,10:16,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 27' 3PT Jump Shot,12:11 PM
+138,0,4,141,0020000400,Montross REBOUND (Off:0 Def:2),,10:14,2,4,0,0,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:11 PM
+139,5,2,142,0020000400,MISS Cleaves  Layup,,10:01,2,4,0,0,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:11 PM
+140,0,4,143,0020000400,,,9:59,2,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko REBOUND (Off:2 Def:3),12:11 PM
+141,1,2,144,0020000400,,,9:50,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 24' 3PT Jump Shot,12:11 PM
+142,0,4,145,0020000400,Montross REBOUND (Off:0 Def:3),,9:48,2,4,0,0,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:11 PM
+143,4,6,146,0020000400,Cleaves OFF.Foul (P2),,9:39,2,4,0,1,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:12 PM
+144,5,5,147,0020000400,Cleaves Foul Turnover (P1.T6),,9:39,2,4,0,0,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:12 PM
+145,0,8,148,0020000400,,,9:39,2,5,5,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Palacio FOR Anderson,12:12 PM
+146,0,8,149,0020000400,,,9:39,2,5,5,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Battie FOR Potapenko,12:12 PM
+147,0,8,150,0020000400,SUB: Smith FOR Montross,,9:39,2,4,4,0,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,12:12 PM
+148,1,6,151,0020000400,Cleaves P.FOUL (P3.T2),,9:29,2,4,0,1,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:12 PM
+149,0,8,152,0020000400,SUB: Curry FOR Cleaves,,9:29,2,4,4,0,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,12:13 PM
+150,1,6,153,0020000400,Wallace P.FOUL (P1.T3),,9:23,2,4,0,1,961,John Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:13 PM
+151,5,1,154,0020000400,,,9:15,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,34 - 29,-5,Williams  Layup (2 PTS),12:13 PM
+152,1,1,155,0020000400,Wallace 9' Jump Shot (2 PTS) (Barros 2 AST),,8:56,2,4,4,0,961,John Wallace,DET,Detroit,1610612765.0,Pistons,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,34 - 31,-3,,12:14 PM
+153,1,2,156,0020000400,,,8:39,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 16' Jump Shot,12:14 PM
+154,0,4,157,0020000400,Smith REBOUND (Off:1 Def:2),,8:37,2,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:14 PM
+155,1,2,158,0020000400,MISS Wallace 11' Jump Shot,,8:24,2,4,0,0,961,John Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:14 PM
+156,0,4,159,0020000400,,,8:22,2,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:3 Def:2),12:14 PM
+157,1,6,160,0020000400,Wallace P.FOUL (P2.T4),,8:15,2,4,0,1,961,John Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:14 PM
+158,3,9,161,0020000400,,,8:15,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:15 PM
+159,3,1,162,0020000400,,,8:02,2,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,36 - 31,-5,Pierce 9' Hook Shot (8 PTS) (Walker 2 AST),12:17 PM
+160,1,2,163,0020000400,MISS Wallace 13' Jump Shot,,7:48,2,4,0,0,961,John Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:17 PM
+161,0,4,164,0020000400,,,7:46,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:4),12:17 PM
+162,1,5,165,0020000400,,,7:40,2,5,0,1,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker Bad Pass Turnover (P2.T6),12:18 PM
+163,2,7,166,0020000400,,,7:21,2,3,0,1,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Violation: Def. Goaltending Violation,12:18 PM
+164,1,2,167,0020000400,MISS Smith 16' Jump Shot,,7:08,2,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:18 PM
+165,0,4,168,0020000400,,,7:06,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:3),12:18 PM
+166,1,1,169,0020000400,,,6:57,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,38 - 31,-7,Walker 16' Jump Shot (9 PTS),12:19 PM
+167,5,1,170,0020000400,Smith  Layup (4 PTS),,6:41,2,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,38 - 33,-5,,12:19 PM
+168,1,2,171,0020000400,,,6:33,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Williams 14' Jump Shot,12:19 PM
+169,0,4,172,0020000400,,,6:32,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,12:19 PM
+170,1,6,173,0020000400,Moore P.FOUL (P1.PN),,6:32,2,4,0,1,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:19 PM
+171,11,3,174,0020000400,,,6:32,2,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,39 - 33,-6,Battie Free Throw 1 of 2 (9 PTS),12:19 PM
+172,0,8,175,0020000400,SUB: Wallace FOR Moore,,6:32,2,4,4,0,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,12:20 PM
+173,0,8,176,0020000400,SUB: Stackhouse FOR Curry,,6:32,2,4,4,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,12:20 PM
+174,0,8,177,0020000400,SUB: Atkins FOR Barros,,6:32,2,4,4,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,12:20 PM
+175,12,3,178,0020000400,,,6:32,2,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,40 - 33,-7,Battie Free Throw 2 of 2 (10 PTS),12:20 PM
+176,1,1,179,0020000400,Smith 17' Jump Shot (6 PTS) (Stackhouse 5 AST),,6:16,2,4,4,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,40 - 35,-5,,12:20 PM
+177,5,1,180,0020000400,,,5:53,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,42 - 35,-7,Pierce  Layup (10 PTS),12:21 PM
+178,2,6,181,0020000400,,,5:47,2,5,0,1,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams S.FOUL (P1.T1),12:21 PM
+179,1,9,182,0020000400,PISTONS Timeout: Regular (Full 2 Short 0),,5:47,2,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,12:21 PM
+180,11,3,183,0020000400,Stackhouse Free Throw 1 of 2 (7 PTS),,5:47,2,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,42 - 36,-6,,12:23 PM
+181,12,3,184,0020000400,Stackhouse Free Throw 2 of 2 (8 PTS),,5:47,2,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,42 - 37,-5,,12:23 PM
+182,1,1,185,0020000400,,,5:36,2,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,44 - 37,-7,Pierce 9' Jump Shot (12 PTS) (Walker 3 AST),12:24 PM
+183,1,2,186,0020000400,MISS Smith 17' Jump Shot,,5:12,2,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:24 PM
+184,0,4,187,0020000400,,,5:09,2,5,0,0,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Palacio REBOUND (Off:0 Def:1),12:24 PM
+185,1,2,188,0020000400,,,4:56,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 27' 3PT Jump Shot,12:25 PM
+186,0,4,189,0020000400,,,4:53,2,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:4 Def:2),12:25 PM
+187,4,2,190,0020000400,,,4:52,2,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Battie  Tip Shot,12:25 PM
+188,0,4,191,0020000400,Wallace REBOUND (Off:1 Def:5),,4:50,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:25 PM
+189,1,1,192,0020000400,Stackhouse 26' 3PT Jump Shot (11 PTS) (Atkins 1 AST),,4:47,2,4,4,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,44 - 40,-4,,12:25 PM
+190,1,6,193,0020000400,Wallace P.FOUL (P3.PN),,4:35,2,4,0,1,961,John Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:25 PM
+191,0,8,194,0020000400,,,4:35,2,5,5,0,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Anderson FOR Palacio,12:25 PM
+192,11,3,195,0020000400,,,4:35,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,45 - 40,-5,Williams Free Throw 1 of 2 (3 PTS),12:25 PM
+193,0,8,196,0020000400,SUB: Curry FOR Wallace,,4:35,2,4,4,0,961,John Wallace,DET,Detroit,1610612765.0,Pistons,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,12:25 PM
+194,12,3,197,0020000400,,,4:35,2,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Williams Free Throw 2 of 2,12:25 PM
+195,0,4,198,0020000400,Wallace REBOUND (Off:1 Def:6),,4:35,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:26 PM
+196,2,5,199,0020000400,Stackhouse Lost Ball Turnover (P4.T7),,4:13,2,4,5,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Williams STEAL (1 STL),12:26 PM
+197,5,2,200,0020000400,Wallace BLOCK (2 BLK),,4:06,2,5,0,4,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,,,MISS Williams  Layup,12:26 PM
+198,0,4,201,0020000400,Smith REBOUND (Off:1 Def:3),,4:03,2,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:26 PM
+199,2,5,202,0020000400,Atkins Lost Ball Turnover (P3.T8),,3:56,2,4,0,1,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:26 PM
+200,0,8,203,0020000400,,,3:56,2,5,5,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Stith FOR Williams,12:27 PM
+201,1,2,204,0020000400,,,3:34,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 26' 3PT Jump Shot,12:27 PM
+202,0,4,205,0020000400,Wallace REBOUND (Off:1 Def:7),,3:33,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:27 PM
+203,2,6,206,0020000400,,,3:26,2,5,0,1,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie S.FOUL (P3.T2),12:27 PM
+204,11,3,207,0020000400,Stackhouse Free Throw 1 of 2 (12 PTS),,3:26,2,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,45 - 41,-4,,12:27 PM
+205,0,8,208,0020000400,,,3:26,2,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Potapenko FOR Battie,12:28 PM
+206,12,3,209,0020000400,Stackhouse Free Throw 2 of 2 (13 PTS),,3:26,2,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,45 - 42,-3,,12:28 PM
+207,3,2,210,0020000400,,,3:18,2,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Potapenko 5' Hook Shot,12:28 PM
+208,0,4,211,0020000400,Wallace REBOUND (Off:1 Def:8),,3:16,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:28 PM
+209,1,6,212,0020000400,,,3:14,2,5,0,1,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Stith P.FOUL (P2.T3),12:28 PM
+210,0,8,213,0020000400,,,3:14,2,5,5,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,1559,Adrian Griffin,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Griffin FOR Stith,12:29 PM
+211,1,6,214,0020000400,,,3:08,2,5,0,1,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko P.FOUL (P2.T4),12:29 PM
+212,1,2,215,0020000400,MISS Curry 18' Jump Shot,,2:57,2,4,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:29 PM
+213,0,4,216,0020000400,Smith REBOUND (Off:2 Def:3),,2:56,2,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:30 PM
+214,4,2,217,0020000400,MISS Smith  Tip Shot,,2:55,2,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:30 PM
+215,0,4,218,0020000400,Wallace REBOUND (Off:2 Def:8),,2:54,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:30 PM
+216,7,1,219,0020000400,Wallace 5' Dunk (5 PTS),,2:53,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,45 - 44,-1,,12:30 PM
+217,2,6,220,0020000400,,,2:53,2,5,0,1,1559,Adrian Griffin,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Griffin S.FOUL (P1.PN),12:30 PM
+218,1,9,221,0020000400,,,2:53,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.2 Short 0),12:30 PM
+219,10,3,223,0020000400,MISS Wallace Free Throw 1 of 1,,2:53,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:32 PM
+220,0,4,224,0020000400,,,2:53,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,12:32 PM
+221,5,2,225,0020000400,,,2:33,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker  Layup,12:32 PM
+222,0,4,226,0020000400,Wallace REBOUND (Off:2 Def:9),,2:30,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:33 PM
+223,1,5,227,0020000400,Stackhouse Bad Pass Turnover (P5.T9),,2:27,2,4,0,1,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:33 PM
+224,42,1,228,0020000400,,,2:12,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,47 - 44,-3,Walker  Driving Layup (11 PTS),12:33 PM
+225,47,1,229,0020000400,Smith 12' Turnaround Jump Shot (8 PTS),,1:54,2,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,47 - 46,-1,,12:33 PM
+226,1,2,230,0020000400,,,1:33,2,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson 27' 3PT Jump Shot,12:34 PM
+227,0,4,231,0020000400,,,1:31,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,12:34 PM
+228,0,8,233,0020000400,,,1:30,2,5,5,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,2040,Jerome Moiso,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Moiso FOR Potapenko,12:34 PM
+229,5,2,234,0020000400,Smith BLOCK (1 BLK),,1:22,2,5,0,4,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,,,MISS Anderson  Layup,12:34 PM
+230,0,4,235,0020000400,,,1:21,2,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson REBOUND (Off:1 Def:0),12:34 PM
+231,2,9,236,0020000400,,,1:21,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Short (Reg.2 Short 1),12:34 PM
+232,2,6,237,0020000400,Curry S.FOUL (P2.PN),,1:13,2,4,0,1,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:35 PM
+233,11,3,238,0020000400,,,1:13,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,48 - 46,-2,Pierce Free Throw 1 of 2 (13 PTS),12:35 PM
+234,12,3,239,0020000400,,,1:13,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,49 - 46,-3,Pierce Free Throw 2 of 2 (14 PTS),12:36 PM
+235,1,6,240,0020000400,,,1:06,2,5,0,1,1559,Adrian Griffin,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Griffin P.FOUL (P2.PN),12:36 PM
+236,11,3,241,0020000400,MISS Stackhouse Free Throw 1 of 2,,1:06,2,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:36 PM
+237,1,4,242,0020000400,PISTONS Rebound,,1:06,2,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,12:36 PM
+238,12,3,243,0020000400,Stackhouse Free Throw 2 of 2 (14 PTS),,1:06,2,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,49 - 47,-2,,12:37 PM
+239,4,6,244,0020000400,,,0:54,2,5,0,1,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce OFF.Foul (P2),12:37 PM
+240,5,5,245,0020000400,,,0:54,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce Foul Turnover (P1.T7),12:37 PM
+241,2,6,246,0020000400,,,0:42,2,5,0,1,2040,Jerome Moiso,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Moiso S.FOUL (P1.PN),12:37 PM
+242,11,3,247,0020000400,Stackhouse Free Throw 1 of 2 (15 PTS),,0:42,2,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,49 - 48,-1,,12:37 PM
+243,12,3,248,0020000400,Stackhouse Free Throw 2 of 2 (16 PTS),,0:42,2,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,49 - 49,TIE,,12:38 PM
+244,1,2,249,0020000400,,,0:21,2,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 15' Jump Shot,12:38 PM
+245,0,4,250,0020000400,Wallace REBOUND (Off:2 Def:10),,0:19,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:38 PM
+246,2,6,251,0020000400,,,0:01,2,5,0,1,2040,Jerome Moiso,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Moiso S.FOUL (P2.PN),12:39 PM
+247,11,3,252,0020000400,MISS Wallace Free Throw 1 of 2,,0:01,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:39 PM
+248,1,4,253,0020000400,PISTONS Rebound,,0:01,2,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,12:39 PM
+249,12,3,254,0020000400,MISS Wallace Free Throw 2 of 2,,0:01,2,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:39 PM
+250,0,4,255,0020000400,,,0:01,2,5,0,0,1559,Adrian Griffin,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Griffin REBOUND (Off:0 Def:1),12:40 PM
+251,0,13,256,0020000400,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,49 - 49,TIE,,12:40 PM
+252,0,12,258,0020000400,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,49 - 49,TIE,,12:56 PM
+253,1,2,259,0020000400,,,11:43,3,5,0,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Stith 16' Jump Shot,12:56 PM
+254,0,4,260,0020000400,Wallace REBOUND (Off:2 Def:11),,11:41,3,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:56 PM
+255,1,1,261,0020000400,Smith 15' Jump Shot (10 PTS) (Atkins 2 AST),,11:20,3,4,4,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,49 - 51,2,,12:56 PM
+256,1,2,262,0020000400,,,11:05,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 15' Jump Shot,12:57 PM
+257,0,4,263,0020000400,Wallace REBOUND (Off:2 Def:12),,11:04,3,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:57 PM
+258,1,2,264,0020000400,MISS Atkins 28' 3PT Jump Shot,,10:51,3,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:57 PM
+259,0,4,265,0020000400,,,10:49,3,5,0,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Stith REBOUND (Off:0 Def:2),12:57 PM
+260,1,1,266,0020000400,,,10:36,3,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,51 - 51,TIE,Anderson 15' Jump Shot (4 PTS),12:57 PM
+261,1,5,267,0020000400,Wallace Bad Pass Turnover (P1.T10),,10:25,3,4,5,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Stith STEAL (2 STL),12:57 PM
+262,5,2,268,0020000400,Wallace BLOCK (3 BLK),,10:21,3,5,0,4,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,,,MISS Stith  Layup,12:57 PM
+263,0,4,269,0020000400,Stackhouse REBOUND (Off:0 Def:2),,10:18,3,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:57 PM
+264,1,2,270,0020000400,MISS Curry 18' Jump Shot,,10:13,3,4,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:58 PM
+265,0,4,271,0020000400,,,10:11,3,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:4 Def:3),12:58 PM
+266,1,6,272,0020000400,Atkins P.FOUL (P2.T1),,10:06,3,4,0,1,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:58 PM
+267,2,6,273,0020000400,Wallace S.FOUL (P2.T2),,9:56,3,4,0,1,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,12:58 PM
+268,11,3,274,0020000400,,,9:56,3,5,0,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,52 - 51,-1,Stith Free Throw 1 of 2 (5 PTS),12:58 PM
+269,12,3,275,0020000400,,,9:56,3,5,0,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,53 - 51,-2,Stith Free Throw 2 of 2 (6 PTS),12:59 PM
+270,1,2,276,0020000400,MISS Smith 9' Jump Shot,,9:39,3,4,0,5,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,,,Battie BLOCK (1 BLK),12:59 PM
+271,0,4,277,0020000400,PISTONS Rebound,,9:39,3,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,12:59 PM
+272,1,2,278,0020000400,MISS Atkins 26' 3PT Jump Shot,,9:33,3,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:00 PM
+273,0,4,279,0020000400,Atkins REBOUND (Off:1 Def:0),,9:32,3,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:00 PM
+274,1,2,280,0020000400,MISS Curry 17' Jump Shot,,9:19,3,4,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:00 PM
+275,0,4,281,0020000400,,,9:17,3,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:4 Def:4),1:00 PM
+276,4,6,282,0020000400,,,9:12,3,5,0,1,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson OFF.Foul (P2),1:00 PM
+277,5,5,283,0020000400,,,9:12,3,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson Foul Turnover (P1.T8),1:00 PM
+278,1,6,284,0020000400,,,8:59,3,5,0,1,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker P.FOUL (P2.T1),1:00 PM
+279,4,6,285,0020000400,Stackhouse OFF.Foul (P1),,8:53,3,4,0,1,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:01 PM
+280,5,5,286,0020000400,Stackhouse Foul Turnover (P6.T11),,8:53,3,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:01 PM
+281,2,7,287,0020000400,PISTONS Violation: Def. Goaltending Violation,,8:42,3,2,0,1,1610612765,,,,,,0,,,,,,0,,,,,,,,,1:01 PM
+282,1,2,288,0020000400,,,8:29,3,5,0,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Stith 16' Jump Shot,1:02 PM
+283,0,4,289,0020000400,Smith REBOUND (Off:2 Def:4),,8:28,3,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:02 PM
+284,3,6,290,0020000400,,,8:28,3,5,0,1,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie L.B.FOUL (P4.T2),1:02 PM
+285,0,8,291,0020000400,,,8:28,3,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Potapenko FOR Battie,1:02 PM
+286,1,1,292,0020000400,Smith 17' Jump Shot (12 PTS) (Atkins 3 AST),,8:18,3,4,4,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,53 - 53,TIE,,1:02 PM
+287,1,1,293,0020000400,,,7:53,3,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,56 - 53,-3,Walker 28' 3PT Jump Shot (14 PTS) (Anderson 5 AST),1:03 PM
+288,1,1,294,0020000400,Smith 16' Jump Shot (14 PTS),,7:36,3,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,56 - 55,-1,,1:03 PM
+289,1,1,295,0020000400,,,7:16,3,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,58 - 55,-3,Anderson 18' Jump Shot (6 PTS),1:03 PM
+290,8,1,296,0020000400,Wallace  Slam Dunk (7 PTS) (Stackhouse 6 AST),,7:02,3,4,4,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,58 - 57,-1,,1:03 PM
+291,1,6,297,0020000400,Wallace P.FOUL (P3.T3),,6:41,3,4,0,1,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:04 PM
+292,0,8,298,0020000400,,,6:41,3,5,5,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Palacio FOR Anderson,1:04 PM
+293,1,2,299,0020000400,,,6:29,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 25' 3PT Jump Shot,1:04 PM
+294,0,4,300,0020000400,,,6:27,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,1:04 PM
+295,4,5,301,0020000400,,,6:21,3,5,0,1,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce Traveling Turnover (P2.T9),1:05 PM
+296,1,9,302,0020000400,PISTONS Timeout: Regular (Full 3 Short 0),,6:04,3,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,1:05 PM
+297,1,5,303,0020000400,Wallace Bad Pass Turnover (P2.T12),,6:01,3,4,5,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Potapenko STEAL (1 STL),1:08 PM
+298,56,2,304,0020000400,,,5:47,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 5' Running Hook Shot,1:08 PM
+299,0,4,305,0020000400,Wallace REBOUND (Off:2 Def:13),,5:41,3,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:08 PM
+300,2,5,306,0020000400,Wallace Lost Ball Turnover (P3.T13),,5:39,3,4,5,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Potapenko STEAL (2 STL),1:08 PM
+301,5,2,307,0020000400,,,5:37,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker  Layup,1:08 PM
+302,0,4,308,0020000400,Smith REBOUND (Off:2 Def:5),,5:35,3,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:08 PM
+303,1,1,309,0020000400,Smith 17' Jump Shot (16 PTS) (Atkins 4 AST),,5:14,3,4,4,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,58 - 59,1,,1:08 PM
+304,1,5,310,0020000400,,,5:00,3,5,0,1,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko Bad Pass Turnover (P3.T10),1:09 PM
+305,0,8,311,0020000400,SUB: Montross FOR Smith,,5:00,3,4,4,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,1:09 PM
+306,1,9,312,0020000400,,,5:00,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.3 Short 1),1:09 PM
+307,7,1,313,0020000400,Wallace  Dunk (9 PTS) (Atkins 5 AST),,4:50,3,4,4,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,58 - 61,3,,1:11 PM
+308,1,2,314,0020000400,,,4:34,3,5,0,0,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Palacio 17' Jump Shot,1:11 PM
+309,0,4,315,0020000400,Montross REBOUND (Off:0 Def:4),,4:32,3,4,0,0,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:11 PM
+310,4,6,316,0020000400,Stackhouse OFF.Foul (P2),,4:29,3,4,0,1,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:12 PM
+311,5,5,317,0020000400,Stackhouse Foul Turnover (P7.T14),,4:29,3,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:12 PM
+312,1,1,318,0020000400,,,4:12,3,5,5,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,60 - 61,1,Potapenko 19' Jump Shot (7 PTS) (Walker 4 AST),1:12 PM
+313,1,5,319,0020000400,Wallace Bad Pass Turnover (P4.T15),,4:02,3,4,0,1,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:12 PM
+314,1,6,320,0020000400,Montross P.FOUL (P1.T4),,3:56,3,4,0,1,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:13 PM
+315,1,2,321,0020000400,,,3:40,3,5,0,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Stith 17' Jump Shot,1:13 PM
+316,0,4,322,0020000400,Wallace REBOUND (Off:2 Def:14),,3:38,3,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:13 PM
+317,1,1,323,0020000400,Stackhouse 25' 3PT Jump Shot (19 PTS) (Montross 1 AST),,3:30,3,4,4,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,60 - 64,4,,1:13 PM
+318,2,6,324,0020000400,Curry S.FOUL (P3.PN),,3:17,3,4,0,1,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:14 PM
+319,11,3,325,0020000400,,,3:17,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce Free Throw 1 of 2,1:14 PM
+320,1,4,326,0020000400,,,3:17,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,1:14 PM
+321,0,8,327,0020000400,,,3:17,3,5,5,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Williams FOR Stith,1:14 PM
+322,0,8,328,0020000400,SUB: Cleaves FOR Atkins,,3:17,3,4,4,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,1:14 PM
+323,12,3,329,0020000400,,,3:17,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,61 - 64,3,Pierce Free Throw 2 of 2 (15 PTS),1:14 PM
+324,4,5,330,0020000400,Montross Traveling Turnover (P1.T16),,3:01,3,4,0,1,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:15 PM
+325,2,6,332,0020000400,Montross S.FOUL (P2.PN),,2:46,3,4,0,1,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:15 PM
+326,11,3,333,0020000400,,,2:46,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,62 - 64,2,Walker Free Throw 1 of 2 (15 PTS),1:15 PM
+327,12,3,335,0020000400,,,2:46,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,63 - 64,1,Walker Free Throw 2 of 2 (16 PTS),1:16 PM
+328,14,6,337,0020000400,,,2:29,3,5,0,1,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko FLAGRANT.FOUL.TYPE1 (P3.T3),1:16 PM
+329,18,3,338,0020000400,MISS Curry Free Throw Flagrant 1 of 2,,2:29,3,4,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:17 PM
+330,1,4,339,0020000400,PISTONS Rebound,,2:29,3,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,1:17 PM
+331,0,8,340,0020000400,,,2:29,3,5,5,0,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Anderson FOR Palacio,1:17 PM
+332,19,3,341,0020000400,Curry Free Throw Flagrant 2 of 2 (9 PTS),,2:29,3,4,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,63 - 65,2,,1:17 PM
+333,2,6,342,0020000400,,,2:16,3,5,0,1,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams S.FOUL (P2.T4),1:18 PM
+334,13,3,343,0020000400,Stackhouse Free Throw 1 of 3 (20 PTS),,2:16,3,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,63 - 66,3,,1:18 PM
+335,14,3,344,0020000400,Stackhouse Free Throw 2 of 3 (21 PTS),,2:16,3,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,63 - 67,4,,1:18 PM
+336,15,3,345,0020000400,Stackhouse Free Throw 3 of 3 (22 PTS),,2:16,3,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,63 - 68,5,,1:18 PM
+337,2,6,346,0020000400,Montross S.FOUL (P3.PN),,2:05,3,4,0,1,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:19 PM
+338,11,3,347,0020000400,,,2:05,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,64 - 68,4,Pierce Free Throw 1 of 2 (16 PTS),1:19 PM
+339,12,3,348,0020000400,,,2:05,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,65 - 68,3,Pierce Free Throw 2 of 2 (17 PTS),1:19 PM
+340,1,2,349,0020000400,MISS Stackhouse 17' Jump Shot,,1:54,3,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:19 PM
+341,0,4,350,0020000400,Montross REBOUND (Off:1 Def:4),,1:52,3,4,0,0,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:19 PM
+342,1,1,351,0020000400,Curry 17' Jump Shot (11 PTS) (Cleaves 1 AST),,1:49,3,4,4,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,65 - 70,5,,1:20 PM
+343,1,2,352,0020000400,,,1:30,3,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson 11' Jump Shot,1:20 PM
+344,0,4,353,0020000400,Curry REBOUND (Off:0 Def:2),,1:28,3,4,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:20 PM
+345,4,6,354,0020000400,Wallace OFF.Foul (P4),,1:23,3,4,0,1,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:20 PM
+346,5,5,355,0020000400,Wallace Foul Turnover (P5.T17),,1:23,3,4,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:20 PM
+347,0,8,356,0020000400,SUB: Wallace FOR Wallace,,1:23,3,4,4,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,961,John Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,1:20 PM
+348,4,6,357,0020000400,,,1:09,3,5,0,1,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko OFF.Foul (P4),1:21 PM
+349,5,5,358,0020000400,,,1:09,3,5,0,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Potapenko Foul Turnover (P4.T11),1:21 PM
+350,0,8,359,0020000400,,,1:09,3,5,5,0,958,Vitaly Potapenko,BOS,Boston,1610612738.0,Celtics,2040,Jerome Moiso,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Moiso FOR Potapenko,1:21 PM
+351,2,5,360,0020000400,Cleaves Lost Ball Turnover (P2.T18),,1:02,3,4,5,0,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Anderson STEAL (1 STL),1:21 PM
+352,1,2,361,0020000400,,,0:54,3,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson 26' 3PT Jump Shot,1:21 PM
+353,0,4,362,0020000400,Montross REBOUND (Off:1 Def:5),,0:52,3,4,0,0,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:21 PM
+354,2,5,363,0020000400,Stackhouse Lost Ball Turnover (P8.T19),,0:47,3,4,5,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Anderson STEAL (2 STL),1:21 PM
+355,2,6,364,0020000400,Montross S.FOUL (P4.PN),,0:42,3,4,0,1,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:21 PM
+356,0,8,365,0020000400,SUB: Moore FOR Montross,,0:42,3,4,4,0,376,Eric Montross,DET,Detroit,1610612765.0,Pistons,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,1:22 PM
+357,11,3,366,0020000400,,,0:42,3,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,66 - 70,4,Anderson Free Throw 1 of 2 (7 PTS),1:22 PM
+358,0,8,367,0020000400,,,0:42,3,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,1559,Adrian Griffin,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Griffin FOR Pierce,1:22 PM
+359,0,8,368,0020000400,SUB: Smith FOR Curry,,0:42,3,4,4,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,1:22 PM
+360,12,3,369,0020000400,,,0:42,3,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,67 - 70,3,Anderson Free Throw 2 of 2 (8 PTS),1:22 PM
+361,1,2,370,0020000400,MISS Stackhouse 16' Jump Shot,,0:34,3,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:23 PM
+362,0,4,371,0020000400,,,0:32,3,5,0,0,2040,Jerome Moiso,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Moiso REBOUND (Off:0 Def:1),1:23 PM
+363,2,6,372,0020000400,Moore S.FOUL (P2.PN),,0:27,3,4,0,1,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:23 PM
+364,11,3,373,0020000400,,,0:27,3,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Williams Free Throw 1 of 2,1:23 PM
+365,1,4,374,0020000400,,,0:27,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,1:23 PM
+366,0,8,375,0020000400,,,0:27,3,5,5,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Palacio FOR Anderson,1:24 PM
+367,12,3,376,0020000400,,,0:27,3,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,68 - 70,2,Williams Free Throw 2 of 2 (4 PTS),1:24 PM
+368,42,1,377,0020000400,Cleaves  Driving Layup (4 PTS),,0:07,3,4,0,0,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,68 - 72,4,,1:24 PM
+369,1,2,378,0020000400,,,0:01,3,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 29' 3PT Jump Shot,1:24 PM
+370,0,4,379,0020000400,Moore REBOUND (Off:0 Def:1),,0:00,3,4,0,0,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:24 PM
+371,0,13,380,0020000400,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,68 - 72,4,,1:25 PM
+372,0,12,382,0020000400,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,68 - 72,4,,1:28 PM
+373,2,5,383,0020000400,Cleaves Lost Ball Turnover (P3.T20),,11:49,4,4,5,0,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Anderson STEAL (3 STL),1:28 PM
+374,7,1,384,0020000400,,,11:42,4,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,70 - 72,2,Walker  Dunk (18 PTS) (Anderson 6 AST),1:28 PM
+375,4,5,385,0020000400,Cleaves Traveling Turnover (P4.T21),,11:33,4,4,0,1,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:28 PM
+376,1,2,386,0020000400,,,11:13,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 18' Jump Shot,1:28 PM
+377,0,4,387,0020000400,PISTONS Rebound,,11:12,4,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,1:29 PM
+378,3,6,388,0020000400,,,11:12,4,5,0,1,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker L.B.FOUL (P3.T1),1:29 PM
+379,13,5,389,0020000400,Moore Backcourt Turnover (P1.T22),,11:00,4,4,0,1,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:29 PM
+380,1,2,390,0020000400,,,10:46,4,5,0,0,1559,Adrian Griffin,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Griffin 17' Jump Shot,1:29 PM
+381,0,4,391,0020000400,PISTONS Rebound,,10:45,4,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,1:30 PM
+382,17,6,392,0020000400,,,10:37,4,3,0,1,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Foul,1:30 PM
+383,16,3,394,0020000400,Stackhouse Free Throw Technical (23 PTS),,10:37,4,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,70 - 73,3,,1:31 PM
+384,45,2,397,0020000400,MISS Stackhouse 19' Jump Shot,,10:31,4,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:31 PM
+385,0,4,395,0020000400,Moore REBOUND (Off:1 Def:1),,10:29,4,4,0,0,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:31 PM
+386,4,1,396,0020000400,Moore  Tip Shot (4 PTS),,10:28,4,4,0,0,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,70 - 75,5,,1:31 PM
+387,1,1,398,0020000400,,,10:08,4,5,5,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,73 - 75,2,Williams 24' 3PT Jump Shot (7 PTS) (Anderson 7 AST),1:31 PM
+388,1,1,399,0020000400,Wallace 16' Jump Shot (4 PTS) (Cleaves 2 AST),,9:58,4,4,4,0,961,John Wallace,DET,Detroit,1610612765.0,Pistons,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,73 - 77,4,,1:31 PM
+389,1,1,400,0020000400,,,9:38,4,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,76 - 77,1,Walker 24' 3PT Jump Shot (21 PTS) (Anderson 8 AST),1:32 PM
+390,1,5,401,0020000400,Stackhouse Bad Pass Turnover (P9.T23),,9:33,4,4,5,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Williams STEAL (2 STL),1:32 PM
+391,1,2,402,0020000400,,,9:28,4,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Anderson 10' Jump Shot,1:32 PM
+392,0,4,403,0020000400,Smith REBOUND (Off:2 Def:6),,9:26,4,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:32 PM
+393,2,5,404,0020000400,Smith Lost Ball Turnover (P1.T24),,9:23,4,4,5,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Anderson STEAL (4 STL),1:32 PM
+394,1,2,405,0020000400,Moore BLOCK (1 BLK),,9:19,4,5,0,4,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,,,MISS Williams 17' Jump Shot,1:32 PM
+395,0,4,406,0020000400,Moore REBOUND (Off:1 Def:2),,9:17,4,4,0,0,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:32 PM
+396,46,1,407,0020000400,Wallace 11' Running Jump Shot (6 PTS),,9:09,4,4,0,0,961,John Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,76 - 79,3,,1:32 PM
+397,1,9,408,0020000400,,,9:06,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.4 Short 1),1:32 PM
+398,0,8,409,0020000400,,,9:06,4,5,5,0,2040,Jerome Moiso,BOS,Boston,1610612738.0,Celtics,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Battie FOR Moiso,1:34 PM
+399,4,6,410,0020000400,,,8:50,4,5,0,1,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson OFF.Foul (P3),1:35 PM
+400,5,5,411,0020000400,,,8:50,4,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson Foul Turnover (P2.T12),1:35 PM
+401,2,5,412,0020000400,Moore Lost Ball Turnover (P2.T25),,8:34,4,4,5,0,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Walker STEAL (2 STL),1:35 PM
+402,4,5,413,0020000400,,,8:32,4,5,0,1,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams Traveling Turnover (P1.T13),1:35 PM
+403,1,1,414,0020000400,Stackhouse  3PT Jump Shot (26 PTS) (Wallace 1 AST),,8:22,4,4,4,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,961,John Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,76 - 82,6,,1:35 PM
+404,43,1,415,0020000400,,,8:09,4,5,5,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,1559,Adrian Griffin,BOS,Boston,1610612738.0,Celtics,0,,,,,,78 - 82,4,Walker  Alley Oop Layup (23 PTS) (Griffin 1 AST),1:36 PM
+405,1,2,416,0020000400,MISS Cleaves 18' Jump Shot,,7:53,4,4,0,0,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:36 PM
+406,0,4,417,0020000400,,,7:53,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,1:36 PM
+407,3,6,418,0020000400,Moore L.B.FOUL (P3.T1),,7:53,4,4,0,1,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:36 PM
+408,0,8,419,0020000400,,,7:53,4,5,5,0,1559,Adrian Griffin,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Pierce FOR Griffin,1:36 PM
+409,0,8,420,0020000400,,,7:53,4,5,5,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Stith FOR Williams,1:36 PM
+410,0,8,421,0020000400,SUB: Curry FOR Wallace,,7:44,4,4,4,0,961,John Wallace,DET,Detroit,1610612765.0,Pistons,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,1:37 PM
+411,0,8,422,0020000400,SUB: Wallace FOR Moore,,7:44,4,4,4,0,1630,Mikki Moore,DET,Detroit,1610612765.0,Pistons,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,1:37 PM
+412,2,6,423,0020000400,Wallace S.FOUL (P5.T2),,7:33,4,4,0,1,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:37 PM
+413,11,3,424,0020000400,,,7:33,4,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,79 - 82,3,Anderson Free Throw 1 of 2 (9 PTS),1:37 PM
+414,0,8,425,0020000400,SUB: Wallace FOR Wallace,,7:33,4,4,4,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,961,John Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,1:38 PM
+415,12,3,426,0020000400,,,7:33,4,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,80 - 82,2,Anderson Free Throw 2 of 2 (10 PTS),1:38 PM
+416,47,1,427,0020000400,Smith 15' Turnaround Jump Shot (18 PTS),,7:08,4,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,80 - 84,4,,1:38 PM
+417,5,2,428,0020000400,Stackhouse BLOCK (1 BLK),,6:59,4,5,0,4,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,,,MISS Battie  Layup,1:39 PM
+418,0,4,429,0020000400,Wallace REBOUND (Off:1 Def:1),,6:57,4,4,0,0,961,John Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:39 PM
+419,5,1,430,0020000400,Curry  Layup (13 PTS) (Stackhouse 7 AST),,6:49,4,4,4,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,80 - 86,6,,1:39 PM
+420,1,9,431,0020000400,,,6:46,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.5 Short 1),1:39 PM
+421,1,6,433,0020000400,Smith P.FOUL (P1.T3),,6:34,4,4,0,1,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:41 PM
+422,2,6,434,0020000400,Smith S.FOUL (P2.T4),,6:24,4,4,0,1,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:42 PM
+423,11,3,435,0020000400,,,6:24,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker Free Throw 1 of 2,1:42 PM
+424,1,4,436,0020000400,,,6:24,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,1:42 PM
+425,12,3,437,0020000400,,,6:24,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,81 - 86,5,Walker Free Throw 2 of 2 (24 PTS),1:42 PM
+426,1,2,438,0020000400,MISS Stackhouse 25' 3PT Jump Shot,,6:13,4,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:43 PM
+427,0,4,439,0020000400,,,6:10,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:0 Def:3),1:43 PM
+428,7,1,440,0020000400,,,6:06,4,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,83 - 86,3,Battie  Dunk (12 PTS) (Pierce 3 AST),1:43 PM
+429,5,1,441,0020000400,Wallace  Layup (8 PTS) (Smith 1 AST),,5:50,4,4,4,0,961,John Wallace,DET,Detroit,1610612765.0,Pistons,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,83 - 88,5,,1:43 PM
+430,2,6,442,0020000400,Wallace S.FOUL (P4.PN),,5:31,4,4,0,1,961,John Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:43 PM
+431,11,3,443,0020000400,,,5:31,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,84 - 88,4,Walker Free Throw 1 of 2 (25 PTS),1:44 PM
+432,0,8,444,0020000400,SUB: Atkins FOR Cleaves,,5:31,4,4,4,0,2043,Mateen Cleaves,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,,1:44 PM
+433,12,3,445,0020000400,,,5:31,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,85 - 88,3,Walker Free Throw 2 of 2 (26 PTS),1:44 PM
+434,2,6,446,0020000400,,,5:14,4,5,0,1,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie S.FOUL (P5.T2),1:45 PM
+435,11,3,447,0020000400,Smith Free Throw 1 of 2 (19 PTS),,5:14,4,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,85 - 89,4,,1:45 PM
+436,12,3,448,0020000400,Smith Free Throw 2 of 2 (20 PTS),,5:14,4,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,85 - 90,5,,1:45 PM
+437,1,1,449,0020000400,,,5:00,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,87 - 90,3,Pierce 18' Jump Shot (19 PTS),1:46 PM
+438,1,6,450,0020000400,,,4:40,4,5,0,1,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker P.FOUL (P4.T3),1:46 PM
+439,1,1,451,0020000400,Wallace 18' Jump Shot (10 PTS),,4:33,4,4,0,0,961,John Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,87 - 92,5,,1:47 PM
+440,6,5,452,0020000400,,,4:21,4,5,0,1,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson Double Dribble Turnover (P3.T14),1:47 PM
+441,1,2,453,0020000400,MISS Smith 17' Jump Shot,,4:05,4,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:47 PM
+442,0,4,454,0020000400,,,4:03,4,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:4 Def:5),1:47 PM
+443,5,2,455,0020000400,Wallace BLOCK (1 BLK),,3:52,4,5,0,4,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,961,John Wallace,DET,Detroit,1610612765.0,Pistons,,,MISS Walker  Layup,1:48 PM
+444,0,4,456,0020000400,,,3:50,4,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:5 Def:5),1:48 PM
+445,5,1,457,0020000400,,,3:49,4,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,89 - 92,3,Battie  Layup (14 PTS),1:48 PM
+446,1,9,458,0020000400,PISTONS Timeout: Regular (Full 4 Short 0),,3:41,4,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,1:48 PM
+447,0,8,460,0020000400,,,3:41,4,5,5,0,179,Bryant Stith,BOS,Boston,1610612738.0,Celtics,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Williams FOR Stith,1:50 PM
+448,1,6,461,0020000400,,,3:28,4,5,0,1,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce P.FOUL (P3.T4),1:50 PM
+449,1,5,462,0020000400,Smith Bad Pass Turnover (P2.T26),,3:16,4,4,0,1,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:51 PM
+450,2,5,463,0020000400,Curry STEAL (1 STL),,3:02,4,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Pierce Lost Ball Turnover (P3.T15),1:51 PM
+451,2,5,464,0020000400,Atkins Lost Ball Turnover (P4.T27),,2:58,4,4,0,1,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:52 PM
+452,7,1,465,0020000400,,,2:39,4,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,91 - 92,1,Battie  Dunk (16 PTS) (Anderson 9 AST),1:52 PM
+453,1,1,466,0020000400,Atkins 16' Jump Shot (6 PTS),,2:17,4,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,91 - 94,3,,1:52 PM
+454,5,2,467,0020000400,,,2:10,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce  Layup,1:53 PM
+455,0,4,468,0020000400,Smith REBOUND (Off:2 Def:7),,2:07,4,4,0,0,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:53 PM
+456,4,6,469,0020000400,Atkins OFF.Foul (P3),,2:03,4,4,0,1,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:53 PM
+457,5,5,470,0020000400,Atkins Foul Turnover (P5.T28),,2:03,4,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:53 PM
+458,1,2,471,0020000400,,,1:45,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 28' 3PT Jump Shot,1:53 PM
+459,0,4,472,0020000400,,,1:43,4,5,0,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Battie REBOUND (Off:6 Def:5),1:53 PM
+460,4,6,473,0020000400,,,1:39,4,5,0,1,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson OFF.Foul (P4),1:54 PM
+461,5,5,474,0020000400,,,1:39,4,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson Foul Turnover (P4.T16),1:54 PM
+462,0,8,475,0020000400,,,1:39,4,5,5,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Palacio FOR Anderson,1:54 PM
+463,1,1,476,0020000400,Stackhouse 26' 3PT Jump Shot (29 PTS) (Curry 1 AST),,1:17,4,4,4,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,91 - 97,6,,1:54 PM
+464,1,2,477,0020000400,,,1:01,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Walker 30' 3PT Jump Shot,1:55 PM
+465,0,4,478,0020000400,Stackhouse REBOUND (Off:0 Def:3),,0:58,4,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:55 PM
+466,5,2,479,0020000400,MISS Atkins  Layup,,0:42,4,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:55 PM
+467,0,4,480,0020000400,,,0:39,4,5,0,0,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:5),1:55 PM
+468,1,1,481,0020000400,,,0:35,4,5,5,0,1499,Tony Battie,BOS,Boston,1610612738.0,Celtics,952,Antoine Walker,BOS,Boston,1610612738.0,Celtics,0,,,,,,93 - 97,4,Battie 18' Jump Shot (18 PTS) (Walker 5 AST),1:55 PM
+469,1,9,482,0020000400,PISTONS Timeout: Regular (Full 5 Short 0),,0:34,4,2,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,,1:55 PM
+470,4,6,484,0020000400,Atkins OFF.Foul (P4),,0:21,4,4,0,1,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:57 PM
+471,5,5,485,0020000400,Atkins Foul Turnover (P6.T29),,0:21,4,4,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:57 PM
+472,0,8,486,0020000400,,,0:21,4,5,5,0,1960,Milt Palacio,BOS,Boston,1610612738.0,Celtics,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Anderson FOR Palacio,1:57 PM
+473,1,2,487,0020000400,,,0:13,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 28' 3PT Jump Shot,1:58 PM
+474,0,4,488,0020000400,Stackhouse REBOUND (Off:0 Def:4),,0:12,4,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,1:58 PM
+475,3,6,489,0020000400,,,0:12,4,5,0,1,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams L.B.FOUL (P3.PN),1:58 PM
+476,11,3,490,0020000400,Stackhouse Free Throw 1 of 2 (30 PTS),,0:12,4,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,93 - 98,5,,1:58 PM
+477,12,3,491,0020000400,Stackhouse Free Throw 2 of 2 (31 PTS),,0:12,4,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,93 - 99,6,,1:58 PM
+478,2,9,492,0020000400,,,0:12,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Short (Reg.5 Short 2),1:58 PM
+479,1,2,494,0020000400,,,0:04,4,5,0,0,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Williams 25' 3PT Jump Shot,2:00 PM
+480,0,4,495,0020000400,,,0:03,4,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Anderson REBOUND (Off:2 Def:0),2:00 PM
+481,5,1,496,0020000400,,,0:02,4,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,95 - 99,4,Anderson  Layup (12 PTS),2:00 PM
+482,2,6,497,0020000400,Smith S.FOUL (P3.PN),,0:02,4,4,0,1,693,Joe Smith,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,,2:00 PM
+483,10,3,498,0020000400,,,0:02,4,5,0,0,72,Kenny Anderson,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,96 - 99,3,Anderson Free Throw 1 of 1 (13 PTS),2:00 PM
+484,1,6,499,0020000400,,,0:01,4,5,0,1,677,Eric Williams,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Williams P.FOUL (P4.PN),2:00 PM
+485,11,3,500,0020000400,Stackhouse Free Throw 1 of 2 (32 PTS),,0:01,4,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,96 - 100,4,,2:00 PM
+486,12,3,501,0020000400,Stackhouse Free Throw 2 of 2 (33 PTS),,0:01,4,4,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,96 - 101,5,,2:01 PM
+487,0,13,502,0020000400,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,96 - 101,5,,2:01 PM

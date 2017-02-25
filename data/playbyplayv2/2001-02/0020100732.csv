@@ -1,0 +1,458 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020100732,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:47 PM
+1,0,10,1,0020100732,Jump Ball Chandler vs. Mihm: Tip to Miller,,12:00,1,4,5,5,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,,,,8:47 PM
+2,1,6,2,0020100732,Ollie P.FOUL (P1.T1),,11:47,1,4,0,1,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:48 PM
+3,1,1,3,0020100732,,,11:39,1,5,5,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,2 - 0,-2,Miller 14' Jump Shot (2 PTS) (Person 1 AST),8:48 PM
+4,5,2,4,0020100732,MISS Miller  Layup,,11:16,1,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:48 PM
+5,0,4,6,0020100732,Chandler REBOUND (Off:1 Def:0),,11:14,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:48 PM
+6,64,1,5,0020100732,Chandler  Follow Up Dunk (2 PTS),,11:14,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,2 - 2,TIE,,8:48 PM
+7,5,2,7,0020100732,Miller BLOCK (1 BLK),,11:01,1,5,0,4,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,,,MISS Murray  Layup,8:49 PM
+8,0,4,8,0020100732,,,11:01,1,3,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Rebound,8:49 PM
+9,1,2,9,0020100732,,,10:59,1,5,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Person 16' Jump Shot,8:49 PM
+10,0,4,10,0020100732,Miller REBOUND (Off:0 Def:1),,10:57,1,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:49 PM
+11,1,2,11,0020100732,MISS Chandler 15' Jump Shot,,10:48,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:49 PM
+12,0,4,12,0020100732,,,10:45,1,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:1),8:49 PM
+13,1,6,13,0020100732,Chandler P.FOUL (P1.T2),,10:39,1,4,0,1,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:49 PM
+14,4,5,14,0020100732,,,10:31,1,5,0,1,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill Traveling Turnover (P1.T1),8:50 PM
+15,5,1,15,0020100732,Hoiberg  Layup (2 PTS) (Miller 1 AST),,10:10,1,4,4,0,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2 - 4,2,,8:50 PM
+16,1,1,16,0020100732,,,9:53,1,5,5,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,4 - 4,TIE,Murray 19' Jump Shot (2 PTS) (Person 2 AST),8:50 PM
+17,1,1,17,0020100732,Hassell 18' Jump Shot (2 PTS) (Miller 2 AST),,9:33,1,4,4,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,4 - 6,2,,8:51 PM
+18,1,1,18,0020100732,,,9:15,1,5,5,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,7 - 6,-1,Murray 27' 3PT Jump Shot (5 PTS) (Mihm 1 AST),8:51 PM
+19,1,2,19,0020100732,MISS Ollie 21' Jump Shot,,9:04,1,4,0,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:51 PM
+20,0,4,20,0020100732,,,9:02,1,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:2),8:51 PM
+21,1,2,21,0020100732,,,8:56,1,5,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Person 18' Jump Shot,8:51 PM
+22,0,4,22,0020100732,Miller REBOUND (Off:0 Def:2),,8:54,1,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:51 PM
+23,2,6,23,0020100732,,,8:50,1,5,0,1,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Mihm S.FOUL (P1.T1),8:51 PM
+24,11,3,24,0020100732,Chandler Free Throw 1 of 2 (3 PTS),,8:50,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,7 - 7,TIE,,8:52 PM
+25,12,3,25,0020100732,Chandler Free Throw 2 of 2 (4 PTS),,8:50,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,7 - 8,1,,8:52 PM
+26,1,2,26,0020100732,,,8:36,1,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Murray 20' Jump Shot,8:52 PM
+27,0,4,27,0020100732,,,8:34,1,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:1 Def:0),8:52 PM
+28,5,2,28,0020100732,,,8:33,1,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Hill  Layup,8:52 PM
+29,0,4,30,0020100732,,,8:31,1,5,0,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Mihm REBOUND (Off:1 Def:0),8:52 PM
+30,4,2,29,0020100732,,,8:31,1,5,0,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Mihm  Tip Shot,8:52 PM
+31,0,4,31,0020100732,Chandler REBOUND (Off:1 Def:1),,8:29,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:52 PM
+32,1,1,32,0020100732,Hassell  3PT Jump Shot (5 PTS) (Ollie 1 AST),,8:13,1,4,4,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,7 - 11,4,,8:53 PM
+33,1,2,33,0020100732,,,7:53,1,5,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Person 15' Jump Shot,8:53 PM
+34,0,4,34,0020100732,,,7:51,1,3,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Rebound,8:53 PM
+35,5,7,35,0020100732,Hassell Violation:Kicked Ball,,7:50,1,4,0,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:53 PM
+36,1,1,36,0020100732,,,7:42,1,5,5,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,9 - 11,2,Miller 20' Jump Shot (4 PTS) (Person 3 AST),8:54 PM
+37,5,2,37,0020100732,MISS Ollie  Layup,,7:25,1,4,0,5,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,,,Mihm BLOCK (1 BLK),8:54 PM
+38,0,4,38,0020100732,Miller REBOUND (Off:1 Def:2),,7:23,1,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:54 PM
+39,2,5,39,0020100732,Miller Lost Ball Turnover (P1.T1),,7:23,1,4,5,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Miller STEAL (1 STL),8:54 PM
+40,3,6,40,0020100732,Miller L.B.FOUL (P1.T3),,7:23,1,4,0,1,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:54 PM
+41,1,5,41,0020100732,Ollie STEAL (1 STL),,7:09,1,5,4,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Hill Bad Pass Turnover (P2.T2),8:55 PM
+42,1,1,42,0020100732,Hassell 18' Jump Shot (7 PTS) (Miller 3 AST),,6:50,1,4,4,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,9 - 13,4,,8:55 PM
+43,5,2,43,0020100732,,,6:24,1,5,0,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Mihm  Layup,8:55 PM
+44,0,4,44,0020100732,Miller REBOUND (Off:1 Def:3),,6:23,1,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:55 PM
+45,1,2,45,0020100732,MISS Hoiberg 18' Jump Shot,,6:16,1,4,0,0,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:55 PM
+46,0,4,46,0020100732,,,6:14,1,5,0,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Mihm REBOUND (Off:1 Def:1),8:55 PM
+47,1,1,47,0020100732,,,6:03,1,5,5,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,11 - 13,2,Mihm 22' Jump Shot (2 PTS) (Miller 1 AST),8:56 PM
+48,1,1,48,0020100732,Miller 16' Jump Shot (2 PTS) (Ollie 2 AST),,5:48,1,4,4,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,11 - 15,4,,8:56 PM
+49,1,2,49,0020100732,,,5:32,1,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Murray  3PT Jump Shot,8:56 PM
+50,0,4,50,0020100732,Miller REBOUND (Off:1 Def:4),,5:30,1,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:56 PM
+51,2,6,51,0020100732,,,5:18,1,5,0,1,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Mihm S.FOUL (P2.T2),8:56 PM
+52,1,9,52,0020100732,BULLS Timeout: Regular (Full 1 Short 0),,5:18,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:57 PM
+53,0,8,54,0020100732,,,5:18,1,5,5,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Doleac FOR Hill,8:58 PM
+54,11,3,56,0020100732,Miller Free Throw 1 of 2 (3 PTS),,5:18,1,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,11 - 16,5,,8:59 PM
+55,12,3,58,0020100732,Miller Free Throw 2 of 2 (4 PTS),,5:18,1,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,11 - 17,6,,8:59 PM
+56,1,1,59,0020100732,,,4:57,1,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,13 - 17,4,Murray 13' Jump Shot (7 PTS),9:00 PM
+57,1,2,60,0020100732,MISS Ollie 18' Jump Shot,,4:30,1,4,0,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:00 PM
+58,0,4,61,0020100732,,,4:28,1,5,0,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Mihm REBOUND (Off:1 Def:2),9:00 PM
+59,1,1,62,0020100732,,,4:07,1,5,5,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,16 - 17,1,Miller 27' 3PT Jump Shot (7 PTS) (Murray 1 AST),9:00 PM
+60,5,2,63,0020100732,MISS Miller  Layup,,3:47,1,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:01 PM
+61,0,4,65,0020100732,Miller REBOUND (Off:2 Def:4),,3:45,1,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:01 PM
+62,4,1,64,0020100732,Miller  Tip Shot (6 PTS),,3:45,1,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,16 - 19,3,,9:01 PM
+63,1,1,66,0020100732,,,3:32,1,5,5,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,18 - 19,1,Murray 18' Jump Shot (9 PTS) (Miller 2 AST),9:01 PM
+64,1,6,67,0020100732,,,3:20,1,5,0,1,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Doleac P.FOUL (P1.T3),9:01 PM
+65,0,8,68,0020100732,,,3:20,1,5,5,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Ilgauskas FOR Mihm,9:01 PM
+66,11,5,69,0020100732,BULLS Turnover: Shot Clock (T#2),,3:06,1,2,0,1,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:02 PM
+67,1,1,70,0020100732,,,2:56,1,5,5,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,20 - 19,-1,Doleac 20' Jump Shot (2 PTS) (Miller 3 AST),9:02 PM
+68,1,1,71,0020100732,Ollie 19' Jump Shot (2 PTS) (Hoiberg 1 AST),,2:29,1,4,4,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,20 - 21,1,,9:03 PM
+69,52,1,72,0020100732,,,2:17,1,5,5,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,22 - 21,-1,Murray  Alley Oop Dunk (11 PTS) (Miller 4 AST),9:03 PM
+70,2,6,73,0020100732,,,1:55,1,5,0,1,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Doleac S.FOUL (P2.T4),9:03 PM
+71,1,9,74,0020100732,,,1:55,1,3,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Timeout: Regular (Reg.1 Short 0),9:03 PM
+72,0,8,76,0020100732,,,1:55,1,5,5,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Davis FOR Person,9:05 PM
+73,0,8,77,0020100732,SUB: Fizer FOR Chandler,,1:55,1,4,4,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:05 PM
+74,0,8,78,0020100732,SUB: Guyton FOR Ollie,,1:55,1,4,4,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:05 PM
+75,11,3,79,0020100732,Miller Free Throw 1 of 2 (7 PTS),,1:55,1,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,22 - 22,TIE,,9:05 PM
+76,12,3,80,0020100732,Miller Free Throw 2 of 2 (8 PTS),,1:55,1,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,22 - 23,1,,9:06 PM
+77,1,6,81,0020100732,Miller P.FOUL (P2.T4),,1:43,1,4,0,1,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:06 PM
+78,0,8,82,0020100732,SUB: Curry FOR Miller,,1:43,1,4,4,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:06 PM
+79,17,6,83,0020100732,BULLS T.Foul (Def. 3 Sec Fizer ),,1:36,1,4,0,1,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:07 PM
+80,16,3,84,0020100732,,,1:36,1,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,23 - 23,TIE,Murray Free Throw Technical (12 PTS),9:07 PM
+81,2,7,86,0020100732,Curry Violation:Defensive Goaltending,,1:26,1,4,0,1,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:07 PM
+82,5,1,85,0020100732,,,1:26,1,5,5,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,25 - 23,-2,Davis  Layup (2 PTS) (Ilgauskas 1 AST),9:07 PM
+83,5,2,87,0020100732,MISS Curry  Layup,,1:10,1,4,0,5,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,,,Ilgauskas BLOCK (1 BLK),9:08 PM
+84,0,4,88,0020100732,,,1:08,1,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:3),9:08 PM
+85,5,2,89,0020100732,Hoiberg BLOCK (1 BLK),,1:03,1,5,0,4,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,,,MISS Murray  Layup,9:08 PM
+86,0,4,90,0020100732,,,1:03,1,3,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Rebound,9:08 PM
+87,0,8,91,0020100732,,,1:03,1,5,5,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,1892,Trajan Langdon,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Langdon FOR Miller,9:08 PM
+88,1,1,92,0020100732,,,0:58,1,5,5,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,1892,Trajan Langdon,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,28 - 23,-5,Murray 25' 3PT Jump Shot (15 PTS) (Langdon 1 AST),9:08 PM
+89,5,2,93,0020100732,MISS Fizer  Layup,,0:41,1,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:09 PM
+90,0,4,94,0020100732,,,0:40,1,5,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Doleac REBOUND (Off:0 Def:1),9:09 PM
+91,1,2,95,0020100732,,,0:26,1,5,0,0,1892,Trajan Langdon,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Langdon 25' 3PT Jump Shot,9:09 PM
+92,0,4,96,0020100732,BULLS Rebound,,0:26,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:09 PM
+93,3,6,97,0020100732,,,0:26,1,5,0,1,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Davis L.B.FOUL (P1.PN),9:09 PM
+94,11,3,98,0020100732,MISS Hassell Free Throw 1 of 2,,0:26,1,4,0,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:09 PM
+95,1,4,99,0020100732,BULLS Rebound,,0:26,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:09 PM
+96,12,3,100,0020100732,Hassell Free Throw 2 of 2 (8 PTS),,0:26,1,4,0,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,28 - 24,-4,,9:09 PM
+97,1,1,101,0020100732,,,0:00,1,5,5,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,1892,Trajan Langdon,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,30 - 24,-6,Murray 21' Jump Shot (17 PTS) (Langdon 2 AST),9:10 PM
+98,0,13,102,0020100732,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,30 - 24,-6,,9:10 PM
+99,0,12,104,0020100732,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,30 - 24,-6,,9:13 PM
+100,1,1,105,0020100732,Fizer 19' Jump Shot (2 PTS) (Curry 1 AST),,11:42,2,4,4,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,30 - 26,-4,,9:13 PM
+101,1,2,106,0020100732,,,11:21,2,5,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Davis 13' Jump Shot,9:13 PM
+102,0,4,107,0020100732,Curry REBOUND (Off:0 Def:1),,11:19,2,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:13 PM
+103,1,1,108,0020100732,Fizer 18' Jump Shot (4 PTS) (Guyton 1 AST),,11:02,2,4,4,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,30 - 28,-2,,9:14 PM
+104,1,2,109,0020100732,,,10:49,2,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Murray  3PT Jump Shot,9:14 PM
+105,0,4,110,0020100732,,,10:46,2,5,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Ilgauskas REBOUND (Off:1 Def:0),9:14 PM
+106,1,2,111,0020100732,,,10:43,2,5,0,0,1892,Trajan Langdon,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Langdon 25' 3PT Jump Shot,9:14 PM
+107,0,4,112,0020100732,Curry REBOUND (Off:0 Def:2),,10:40,2,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:14 PM
+108,2,6,113,0020100732,,,10:34,2,5,0,1,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Ilgauskas S.FOUL (P1.T1),9:14 PM
+109,11,3,114,0020100732,Hassell Free Throw 1 of 2 (9 PTS),,10:34,2,4,0,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,30 - 29,-1,,9:14 PM
+110,0,8,115,0020100732,,,10:34,2,5,5,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Hill FOR Doleac,9:15 PM
+111,12,3,116,0020100732,Hassell Free Throw 2 of 2 (10 PTS),,10:34,2,4,0,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,30 - 30,TIE,,9:15 PM
+112,5,1,117,0020100732,,,10:23,2,5,5,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,1892,Trajan Langdon,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,32 - 30,-2,Hill  Layup (2 PTS) (Langdon 3 AST),9:15 PM
+113,2,6,118,0020100732,Hassell S.FOUL (P1.T1),,10:23,2,4,0,1,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:15 PM
+114,0,8,119,0020100732,,,10:23,2,5,5,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Person FOR Murray,9:15 PM
+115,10,3,120,0020100732,,,10:23,2,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,33 - 30,-3,Hill Free Throw 1 of 1 (3 PTS),9:15 PM
+116,1,1,121,0020100732,Fizer 13' Jump Shot (6 PTS),,10:06,2,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,33 - 32,-1,,9:16 PM
+117,2,6,122,0020100732,,,10:06,2,5,0,1,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill S.FOUL (P1.T2),9:16 PM
+118,10,3,123,0020100732,Fizer Free Throw 1 of 1 (7 PTS),,10:06,2,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,33 - 33,TIE,,9:16 PM
+119,2,5,124,0020100732,Guyton STEAL (1 STL),,9:58,2,5,4,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Davis Lost Ball Turnover (P1.T3),9:16 PM
+120,5,1,125,0020100732,Ollie  Layup (4 PTS) (Guyton 2 AST),,9:54,2,4,4,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,33 - 35,2,,9:16 PM
+121,2,6,126,0020100732,,,9:54,2,5,0,1,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill S.FOUL (P2.T3),9:16 PM
+122,0,8,127,0020100732,,,9:54,2,5,5,0,1892,Trajan Langdon,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Miller FOR Langdon,9:17 PM
+123,10,3,128,0020100732,MISS Ollie Free Throw 1 of 1,,9:54,2,4,0,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:17 PM
+124,0,4,129,0020100732,,,9:52,2,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:1 Def:1),9:17 PM
+125,1,6,130,0020100732,Guyton P.FOUL (P1.T2),,9:38,2,4,0,1,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:17 PM
+126,1,1,131,0020100732,,,9:23,2,5,5,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,35 - 35,TIE,Person 18' Jump Shot (2 PTS) (Davis 1 AST),9:18 PM
+127,1,2,132,0020100732,MISS Hassell 27' 3PT Jump Shot,,8:56,2,4,0,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:19 PM
+128,0,4,133,0020100732,,,8:54,2,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:4),9:19 PM
+129,1,5,134,0020100732,,,8:48,2,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Miller Bad Pass Turnover (P1.T4),9:19 PM
+130,1,9,135,0020100732,,,8:48,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:19 PM
+131,0,8,137,0020100732,SUB: Hoiberg FOR Hassell,,8:48,2,4,4,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:21 PM
+132,1,2,138,0020100732,MISS Guyton 27' 3PT Jump Shot,,8:26,2,4,0,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:21 PM
+133,0,4,139,0020100732,,,8:24,2,3,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Rebound,9:21 PM
+134,7,1,140,0020100732,,,8:11,2,5,5,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,37 - 35,-2,Ilgauskas  Dunk (2 PTS) (Miller 5 AST),9:22 PM
+135,2,6,141,0020100732,,,7:48,2,5,0,1,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Ilgauskas S.FOUL (P2.T4),9:22 PM
+136,11,3,142,0020100732,Ollie Free Throw 1 of 2 (5 PTS),,7:48,2,4,0,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,37 - 36,-1,,9:23 PM
+137,0,8,143,0020100732,,,7:48,2,5,5,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Doleac FOR Ilgauskas,9:23 PM
+138,12,3,144,0020100732,Ollie Free Throw 2 of 2 (6 PTS),,7:48,2,4,0,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,37 - 37,TIE,,9:23 PM
+139,1,5,145,0020100732,Fizer STEAL (1 STL),,7:38,2,5,4,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Hill Bad Pass Turnover (P3.T5),9:23 PM
+140,1,2,146,0020100732,MISS Guyton 7' Jump Shot,,7:30,2,4,0,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:23 PM
+141,0,4,147,0020100732,,,7:29,2,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:1 Def:2),9:23 PM
+142,1,5,148,0020100732,Hoiberg STEAL (1 STL),,7:20,2,5,4,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Miller Bad Pass Turnover (P2.T6),9:23 PM
+143,1,2,149,0020100732,MISS Guyton 26' 3PT Jump Shot,,7:13,2,4,0,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:24 PM
+144,0,4,150,0020100732,,,7:12,2,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:1 Def:3),9:24 PM
+145,1,6,151,0020100732,Fizer P.FOUL (P1.T3),,7:12,2,4,0,1,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:24 PM
+146,0,8,152,0020100732,,,7:12,2,5,5,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,1892,Trajan Langdon,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Langdon FOR Miller,9:24 PM
+147,1,2,153,0020100732,,,6:59,2,5,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Doleac 19' Jump Shot,9:24 PM
+148,0,4,154,0020100732,Ollie REBOUND (Off:0 Def:1),,6:56,2,4,0,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:24 PM
+149,1,5,155,0020100732,Fizer Bad Pass Turnover (P1.T3),,6:42,2,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:24 PM
+150,1,1,156,0020100732,,,6:33,2,5,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,39 - 37,-2,Person 15' Jump Shot (4 PTS),9:25 PM
+151,1,1,157,0020100732,Guyton 26' 3PT Jump Shot (3 PTS),,6:17,2,4,0,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,39 - 40,1,,9:25 PM
+152,1,5,158,0020100732,,,5:58,2,5,0,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Davis Bad Pass Turnover (P2.T7),9:25 PM
+153,1,9,159,0020100732,BULLS Timeout: Regular (Full 2 Short 0),,5:58,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:25 PM
+154,0,8,161,0020100732,,,5:58,2,5,5,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Mihm FOR Hill,9:27 PM
+155,0,8,162,0020100732,,,5:58,2,5,5,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Murray FOR Davis,9:27 PM
+156,0,8,163,0020100732,SUB: Miller FOR Fizer,,5:58,2,4,4,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:28 PM
+157,0,8,164,0020100732,SUB: Chandler FOR Curry,,5:58,2,4,4,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:28 PM
+158,1,6,165,0020100732,,,5:49,2,5,0,1,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Doleac P.FOUL (P3.PN),9:28 PM
+159,11,3,166,0020100732,MISS Miller Free Throw 1 of 2,,5:49,2,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:28 PM
+160,1,4,167,0020100732,BULLS Rebound,,5:49,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:28 PM
+161,0,8,168,0020100732,,,5:49,2,5,5,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Hill FOR Doleac,9:28 PM
+162,12,3,169,0020100732,MISS Miller Free Throw 2 of 2,,5:49,2,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:28 PM
+163,0,4,170,0020100732,,,5:48,2,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:1 Def:4),9:28 PM
+164,5,2,171,0020100732,,,5:29,2,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Hill  Layup,9:29 PM
+165,0,4,172,0020100732,Miller REBOUND (Off:2 Def:5),,5:27,2,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:29 PM
+166,49,1,173,0020100732,Miller  Driving Dunk (10 PTS) (Hoiberg 2 AST),,5:08,2,4,4,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,39 - 42,3,,9:29 PM
+167,1,2,174,0020100732,,,4:52,2,5,0,0,1892,Trajan Langdon,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Langdon 21' Jump Shot,9:29 PM
+168,0,4,175,0020100732,Miller REBOUND (Off:2 Def:6),,4:50,2,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:29 PM
+169,2,6,176,0020100732,,,4:38,2,5,0,1,1892,Trajan Langdon,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Langdon S.FOUL (P1.PN),9:30 PM
+170,0,8,177,0020100732,,,4:38,2,5,5,0,1892,Trajan Langdon,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Miller FOR Langdon,9:30 PM
+171,11,3,178,0020100732,Chandler Free Throw 1 of 2 (5 PTS),,4:38,2,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,39 - 43,4,,9:30 PM
+172,12,3,179,0020100732,Chandler Free Throw 2 of 2 (6 PTS),,4:38,2,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,39 - 44,5,,9:30 PM
+173,1,2,180,0020100732,,,4:22,2,5,0,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Mihm 21' Jump Shot,9:30 PM
+174,0,4,181,0020100732,Ollie REBOUND (Off:0 Def:2),,4:21,2,4,0,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:30 PM
+175,1,2,182,0020100732,MISS Guyton 21' Jump Shot,,4:09,2,4,0,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:31 PM
+176,0,4,183,0020100732,,,4:05,2,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:1 Def:5),9:31 PM
+177,1,1,184,0020100732,,,3:49,2,5,5,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,42 - 44,2,Murray 26' 3PT Jump Shot (20 PTS) (Miller 6 AST),9:31 PM
+178,1,1,185,0020100732,Hoiberg 26' 3PT Jump Shot (5 PTS) (Miller 4 AST),,3:33,2,4,4,0,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,42 - 47,5,,9:31 PM
+179,0,8,186,0020100732,SUB: Hassell FOR Guyton,,3:13,2,4,4,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:32 PM
+180,1,2,187,0020100732,,,3:04,2,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Miller 12' Jump Shot,9:32 PM
+181,0,4,188,0020100732,,,3:02,2,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:1 Def:0),9:32 PM
+182,1,2,189,0020100732,,,2:56,2,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Hill 16' Jump Shot,9:32 PM
+183,0,4,190,0020100732,Ollie REBOUND (Off:0 Def:3),,2:54,2,4,0,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:32 PM
+184,1,2,191,0020100732,MISS Miller 15' Jump Shot,,2:32,2,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:33 PM
+185,0,4,192,0020100732,,,2:30,2,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:5),9:33 PM
+186,2,6,193,0020100732,Chandler S.FOUL (P2.T4),,2:21,2,4,0,1,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:33 PM
+187,1,9,194,0020100732,,,2:21,2,3,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Timeout: Regular (Reg.2 Short 0),9:33 PM
+188,11,3,196,0020100732,,,2:21,2,5,0,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,43 - 47,4,Mihm Free Throw 1 of 2 (3 PTS),9:35 PM
+189,12,3,197,0020100732,,,2:21,2,5,0,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,44 - 47,3,Mihm Free Throw 2 of 2 (4 PTS),9:36 PM
+190,5,2,198,0020100732,MISS Hoiberg  Layup,,2:08,2,4,0,0,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:36 PM
+191,0,4,199,0020100732,BULLS Rebound,,2:08,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:36 PM
+192,0,8,200,0020100732,SUB: Curry FOR Miller,,2:08,2,4,4,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:36 PM
+193,0,8,201,0020100732,SUB: Fizer FOR Chandler,,2:08,2,4,4,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:36 PM
+194,1,2,202,0020100732,MISS Hoiberg 15' Jump Shot,,2:07,2,4,0,5,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,,,Person BLOCK (1 BLK),9:37 PM
+195,0,4,203,0020100732,,,2:02,2,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:6),9:37 PM
+196,1,2,204,0020100732,,,1:58,2,5,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Person 27' 3PT Jump Shot,9:37 PM
+197,0,4,205,0020100732,BULLS Rebound,,1:58,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:37 PM
+198,1,2,206,0020100732,MISS Curry 8' Jump Shot,,1:43,2,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:37 PM
+199,0,4,207,0020100732,Fizer REBOUND (Off:1 Def:0),,1:40,2,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:37 PM
+200,3,1,208,0020100732,Fizer 8' Hook Shot (9 PTS),,1:34,2,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,44 - 49,5,,9:37 PM
+201,1,1,209,0020100732,,,1:19,2,5,5,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,46 - 49,3,Person 18' Jump Shot (6 PTS) (Miller 7 AST),9:38 PM
+202,1,2,210,0020100732,MISS Ollie 14' Jump Shot,,0:49,2,4,0,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:38 PM
+203,0,4,211,0020100732,BULLS Rebound,,0:49,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:38 PM
+204,11,5,212,0020100732,BULLS Turnover: Shot Clock (T#4),,0:49,2,2,0,1,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:38 PM
+205,5,2,213,0020100732,,,0:39,2,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Murray  Layup,9:39 PM
+206,0,4,215,0020100732,,,0:38,2,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:2 Def:0),9:39 PM
+207,5,1,214,0020100732,,,0:38,2,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,48 - 49,1,Murray  Layup (22 PTS),9:39 PM
+208,1,2,216,0020100732,MISS Curry 11' Jump Shot,,0:19,2,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:39 PM
+209,0,4,217,0020100732,,,0:17,2,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:1 Def:6),9:39 PM
+210,2,9,218,0020100732,,,0:13,2,3,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Timeout: Short (Reg.2 Short 1),9:39 PM
+211,0,8,220,0020100732,,,0:13,2,5,5,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Davis FOR Hill,9:40 PM
+212,0,8,221,0020100732,SUB: Guyton FOR Curry,,0:13,2,4,4,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:40 PM
+213,5,2,222,0020100732,,,0:01,2,5,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Person  Layup,9:41 PM
+214,0,4,224,0020100732,,,0:01,2,5,0,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Mihm REBOUND (Off:2 Def:2),9:41 PM
+215,4,1,223,0020100732,,,0:01,2,5,0,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,50 - 49,-1,Mihm  Tip Shot (6 PTS),9:41 PM
+216,2,9,225,0020100732,BULLS Timeout: Short (Full 2 Short 1),,0:01,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:41 PM
+217,1,2,226,0020100732,MISS Fizer 36' 3PT Jump Shot,,0:00,2,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:42 PM
+218,0,4,228,0020100732,BULLS Rebound,,0:00,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:42 PM
+219,0,13,227,0020100732,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,50 - 49,-1,,9:42 PM
+220,0,12,230,0020100732,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,50 - 49,-1,,9:57 PM
+221,1,2,231,0020100732,MISS Miller 18' Jump Shot,,11:40,3,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:58 PM
+222,0,4,232,0020100732,,,11:37,3,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:7),9:58 PM
+223,1,2,233,0020100732,,,11:31,3,5,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Person 11' Jump Shot,9:59 PM
+224,0,4,234,0020100732,,,11:28,3,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:2 Def:6),9:59 PM
+225,5,2,235,0020100732,,,11:27,3,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Hill  Layup,9:59 PM
+226,0,4,236,0020100732,Chandler REBOUND (Off:1 Def:2),,11:26,3,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:59 PM
+227,1,1,237,0020100732,Hassell 27' 3PT Jump Shot (13 PTS) (Ollie 3 AST),,11:21,3,4,4,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,50 - 52,2,,9:59 PM
+228,1,2,238,0020100732,,,10:58,3,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Murray 19' Jump Shot,9:59 PM
+229,0,4,239,0020100732,Miller REBOUND (Off:2 Def:7),,10:56,3,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:59 PM
+230,1,1,240,0020100732,Chandler 16' Jump Shot (8 PTS) (Ollie 4 AST),,10:43,3,4,4,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,50 - 54,4,,10:00 PM
+231,1,2,241,0020100732,,,10:23,3,5,0,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Mihm 16' Jump Shot,10:00 PM
+232,0,4,242,0020100732,Ollie REBOUND (Off:0 Def:4),,10:21,3,4,0,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:00 PM
+233,5,2,243,0020100732,MISS Chandler  Layup,,10:17,3,4,0,5,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,,,Mihm BLOCK (2 BLK),10:00 PM
+234,0,4,245,0020100732,Miller REBOUND (Off:3 Def:7),,10:14,3,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:00 PM
+235,64,1,244,0020100732,Miller  Follow Up Dunk (12 PTS),,10:14,3,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,50 - 56,6,,10:00 PM
+236,1,2,246,0020100732,Hassell BLOCK (1 BLK),,9:54,3,5,0,4,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,,,MISS Person 18' Jump Shot,10:00 PM
+237,0,4,247,0020100732,Miller REBOUND (Off:3 Def:8),,9:52,3,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:01 PM
+238,7,1,248,0020100732,Chandler  Dunk (10 PTS) (Ollie 5 AST),,9:47,3,4,4,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,50 - 58,8,,10:01 PM
+239,2,6,249,0020100732,,,9:47,3,5,0,1,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Mihm S.FOUL (P3.T1),10:01 PM
+240,10,3,250,0020100732,MISS Chandler Free Throw 1 of 1,,9:47,3,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:01 PM
+241,0,4,251,0020100732,,,9:47,3,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:2 Def:7),10:01 PM
+242,1,2,252,0020100732,,,9:30,3,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Miller 19' Jump Shot,10:01 PM
+243,0,4,254,0020100732,,,9:30,3,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:3 Def:7),10:01 PM
+244,4,2,253,0020100732,,,9:30,3,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Hill  Tip Shot,10:01 PM
+245,0,4,255,0020100732,,,9:30,3,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:4 Def:7),10:02 PM
+246,2,6,256,0020100732,Chandler S.FOUL (P3.T1),,9:30,3,4,0,1,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:02 PM
+247,11,3,257,0020100732,,,9:30,3,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,51 - 58,7,Hill Free Throw 1 of 2 (4 PTS),10:02 PM
+248,12,3,258,0020100732,,,9:30,3,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,52 - 58,6,Hill Free Throw 2 of 2 (5 PTS),10:02 PM
+249,1,6,259,0020100732,,,9:19,3,5,0,1,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill P.FOUL (P3.T2),10:02 PM
+250,1,1,260,0020100732,Hoiberg 22' Jump Shot (7 PTS) (Miller 5 AST),,9:10,3,4,4,0,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,52 - 60,8,,10:03 PM
+251,1,2,261,0020100732,Chandler BLOCK (1 BLK),,8:53,3,5,0,4,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,,,MISS Miller 15' Jump Shot,10:03 PM
+252,0,4,262,0020100732,Hoiberg REBOUND (Off:0 Def:1),,8:49,3,4,0,0,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:03 PM
+253,5,1,263,0020100732,Miller  Layup (14 PTS),,8:33,3,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,52 - 62,10,,10:03 PM
+254,1,9,264,0020100732,,,8:23,3,3,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Timeout: Regular (Reg.3 Short 1),10:04 PM
+255,1,2,266,0020100732,,,8:08,3,5,0,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Mihm 16' Jump Shot,10:06 PM
+256,0,4,267,0020100732,,,8:05,3,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:3 Def:0),10:06 PM
+257,1,2,268,0020100732,,,7:57,3,5,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Person 24' 3PT Jump Shot,10:06 PM
+258,0,4,269,0020100732,Chandler REBOUND (Off:1 Def:3),,7:54,3,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:06 PM
+259,17,6,270,0020100732,,,7:43,3,5,0,1,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Cavaliers T.Foul (Def. 3 Sec Mihm ),10:07 PM
+260,16,3,271,0020100732,Hoiberg Free Throw Technical (8 PTS),,7:43,3,4,0,0,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,52 - 63,11,,10:07 PM
+261,0,8,272,0020100732,,,7:43,3,5,5,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Davis FOR Person,10:07 PM
+262,1,1,273,0020100732,Miller 8' Jump Shot (16 PTS),,7:31,3,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,52 - 65,13,,10:07 PM
+263,2,6,274,0020100732,Miller S.FOUL (P3.T2),,7:19,3,4,0,1,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:08 PM
+264,11,3,275,0020100732,,,7:19,3,5,0,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Mihm Free Throw 1 of 2,10:08 PM
+265,1,4,276,0020100732,,,7:19,3,3,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Rebound,10:08 PM
+266,12,3,277,0020100732,,,7:19,3,5,0,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,53 - 65,12,Mihm Free Throw 2 of 2 (7 PTS),10:08 PM
+267,0,8,278,0020100732,,,7:02,3,5,5,0,2036,Chris Mihm,CLE,Cleveland,1610612739.0,Cavaliers,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Ilgauskas FOR Mihm,10:09 PM
+268,9,5,279,0020100732,BULLS Turnover: 5 Second Violation (T#5),,7:02,3,2,0,1,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:09 PM
+269,3,1,281,0020100732,,,6:42,3,5,5,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,55 - 65,10,Hill 7' Hook Shot (7 PTS) (Miller 8 AST),10:09 PM
+270,5,2,282,0020100732,MISS Chandler  Layup,,6:24,3,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:10 PM
+271,0,4,283,0020100732,,,6:22,3,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:3 Def:1),10:10 PM
+272,1,5,284,0020100732,Chandler STEAL (1 STL),,6:16,3,5,4,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Miller Bad Pass Turnover (P3.T8),10:10 PM
+273,7,1,285,0020100732,Chandler  Dunk (12 PTS) (Hassell 1 AST),,6:12,3,4,4,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,55 - 67,12,,10:10 PM
+274,2,6,286,0020100732,,,6:12,3,5,0,1,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Miller S.FOUL (P1.T3),10:10 PM
+275,10,3,287,0020100732,MISS Chandler Free Throw 1 of 1,,6:12,3,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:10 PM
+276,0,4,288,0020100732,,,6:11,3,5,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Ilgauskas REBOUND (Off:1 Def:1),10:10 PM
+277,5,2,289,0020100732,,,5:58,3,5,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Ilgauskas  Layup,10:11 PM
+278,0,4,290,0020100732,,,5:56,3,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:5 Def:7),10:11 PM
+279,2,6,291,0020100732,Chandler S.FOUL (P4.T3),,5:56,3,4,0,1,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:11 PM
+280,11,3,292,0020100732,,,5:56,3,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,56 - 67,11,Hill Free Throw 1 of 2 (8 PTS),10:11 PM
+281,0,8,293,0020100732,SUB: Fizer FOR Chandler,,5:56,3,4,4,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:11 PM
+282,12,3,294,0020100732,,,5:56,3,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,57 - 67,10,Hill Free Throw 2 of 2 (9 PTS),10:11 PM
+283,1,2,295,0020100732,MISS Ollie 22' Jump Shot,,5:33,3,4,0,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:12 PM
+284,0,4,296,0020100732,,,5:30,3,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:3 Def:2),10:12 PM
+285,5,1,297,0020100732,,,5:27,3,5,5,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,59 - 67,8,Hill  Layup (11 PTS) (Murray 2 AST),10:12 PM
+286,2,6,298,0020100732,Ollie S.FOUL (P2.T4),,5:27,3,4,0,1,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:12 PM
+287,0,8,299,0020100732,SUB: Curry FOR Miller,,5:27,3,4,4,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:12 PM
+288,10,3,300,0020100732,,,5:27,3,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,60 - 67,7,Hill Free Throw 1 of 1 (12 PTS),10:13 PM
+289,1,2,301,0020100732,MISS Hoiberg 16' Jump Shot,,5:13,3,4,0,0,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:13 PM
+290,0,4,302,0020100732,Fizer REBOUND (Off:2 Def:0),,5:11,3,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:13 PM
+291,2,6,303,0020100732,,,5:10,3,5,0,1,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill S.FOUL (P4.T4),10:13 PM
+292,11,3,304,0020100732,MISS Fizer Free Throw 1 of 2,,5:10,3,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:14 PM
+293,1,4,305,0020100732,BULLS Rebound,,5:10,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:14 PM
+294,12,3,306,0020100732,MISS Fizer Free Throw 2 of 2,,5:10,3,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:14 PM
+295,0,4,307,0020100732,,,5:08,3,5,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Ilgauskas REBOUND (Off:1 Def:2),10:14 PM
+296,17,6,308,0020100732,BULLS T.Foul (Def. 3 Sec Curry ),,4:59,3,4,0,1,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:14 PM
+297,0,8,309,0020100732,,,4:59,3,5,5,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Doleac FOR Hill,10:14 PM
+298,16,3,310,0020100732,,,4:59,3,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,61 - 67,6,Murray Free Throw Technical (23 PTS),10:14 PM
+299,1,1,311,0020100732,,,4:54,3,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,63 - 67,4,Miller 14' Jump Shot (9 PTS),10:15 PM
+300,1,5,312,0020100732,Ollie Bad Pass Turnover (P1.T6),,4:35,3,4,5,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Doleac STEAL (1 STL),10:15 PM
+301,1,6,313,0020100732,Fizer P.FOUL (P2.PN),,4:35,3,4,0,1,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:15 PM
+302,0,8,314,0020100732,,,4:35,3,5,5,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Person FOR Murray,10:15 PM
+303,11,3,315,0020100732,,,4:35,3,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,64 - 67,3,Miller Free Throw 1 of 2 (10 PTS),10:16 PM
+304,12,3,316,0020100732,,,4:35,3,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,65 - 67,2,Miller Free Throw 2 of 2 (11 PTS),10:16 PM
+305,1,9,317,0020100732,BULLS Timeout: Regular (Full 3 Short 1),,4:29,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:16 PM
+306,1,1,319,0020100732,Fizer 8' Jump Shot (11 PTS),,4:18,3,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,65 - 69,4,,10:19 PM
+307,2,6,320,0020100732,,,4:18,3,5,0,1,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Ilgauskas S.FOUL (P3.PN),10:19 PM
+308,10,3,321,0020100732,Fizer Free Throw 1 of 1 (12 PTS),,4:18,3,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,65 - 70,5,,10:19 PM
+309,2,5,322,0020100732,,,3:56,3,5,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Doleac Lost Ball Turnover (P1.T9),10:20 PM
+310,0,8,323,0020100732,SUB: Guyton FOR Ollie,,3:56,3,4,4,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:20 PM
+311,1,2,324,0020100732,MISS Fizer 12' Jump Shot,,3:36,3,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:20 PM
+312,0,4,325,0020100732,,,3:34,3,5,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Ilgauskas REBOUND (Off:1 Def:3),10:20 PM
+313,1,2,326,0020100732,,,3:21,3,5,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Ilgauskas 17' Jump Shot,10:20 PM
+314,0,4,327,0020100732,,,3:19,3,5,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Doleac REBOUND (Off:1 Def:1),10:20 PM
+315,1,1,328,0020100732,,,3:15,3,5,5,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,68 - 70,2,Person 27' 3PT Jump Shot (9 PTS) (Doleac 1 AST),10:20 PM
+316,1,2,329,0020100732,MISS Guyton  3PT Jump Shot,,2:53,3,4,0,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:21 PM
+317,0,4,330,0020100732,,,2:51,3,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:8),10:21 PM
+318,1,1,331,0020100732,,,2:41,3,5,5,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,70 - 70,TIE,Person 18' Jump Shot (11 PTS) (Miller 9 AST),10:21 PM
+319,1,2,332,0020100732,MISS Hassell 25' 3PT Jump Shot,,2:26,3,4,0,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:21 PM
+320,0,4,333,0020100732,Hoiberg REBOUND (Off:1 Def:1),,2:24,3,4,0,0,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:21 PM
+321,1,1,334,0020100732,Hassell 16' Jump Shot (15 PTS) (Hoiberg 3 AST),,2:22,3,4,4,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,70 - 72,2,,10:21 PM
+322,1,6,335,0020100732,Guyton P.FOUL (P2.PN),,2:03,3,4,0,1,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:22 PM
+323,11,3,342,0020100732,,,2:03,3,5,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Doleac Free Throw 1 of 2,10:22 PM
+324,1,4,338,0020100732,,,2:03,3,3,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Rebound,10:22 PM
+325,0,8,340,0020100732,,,2:03,3,5,5,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Murray FOR Miller,10:22 PM
+326,12,3,341,0020100732,,,2:03,3,5,0,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,71 - 72,1,Doleac Free Throw 2 of 2 (3 PTS),10:22 PM
+327,2,6,343,0020100732,,,1:45,3,5,0,1,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Ilgauskas S.FOUL (P4.PN),10:23 PM
+328,11,3,345,0020100732,Curry Free Throw 1 of 2 (1 PTS),,1:45,3,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,71 - 73,2,,10:23 PM
+329,12,3,346,0020100732,Curry Free Throw 2 of 2 (2 PTS),,1:45,3,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,71 - 74,3,,10:23 PM
+330,1,1,347,0020100732,,,1:25,3,5,5,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,73 - 74,1,Murray 11' Jump Shot (25 PTS) (Ilgauskas 2 AST),10:24 PM
+331,8,1,348,0020100732,Curry  Slam Dunk (4 PTS) (Guyton 3 AST),,1:05,3,4,4,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,73 - 76,3,,10:24 PM
+332,1,6,349,0020100732,Curry P.FOUL (P1.PN),,0:44,3,4,0,1,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:24 PM
+333,11,3,350,0020100732,,,0:44,3,5,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,74 - 76,2,Ilgauskas Free Throw 1 of 2 (3 PTS),10:25 PM
+334,12,3,351,0020100732,,,0:44,3,5,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,75 - 76,1,Ilgauskas Free Throw 2 of 2 (4 PTS),10:25 PM
+335,5,2,352,0020100732,MISS Curry  Layup,,0:29,3,4,0,0,2201,Eddy Curry,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:25 PM
+336,0,4,353,0020100732,,,0:28,3,5,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Ilgauskas REBOUND (Off:1 Def:4),10:25 PM
+337,5,1,354,0020100732,,,0:06,3,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,77 - 76,-1,Murray  Layup (27 PTS),10:26 PM
+338,0,13,355,0020100732,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,77 - 76,-1,,10:26 PM
+339,0,12,357,0020100732,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,77 - 76,-1,,10:29 PM
+340,1,1,358,0020100732,,,11:42,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,79 - 76,-3,Murray 12' Jump Shot (29 PTS),10:29 PM
+341,1,6,359,0020100732,,,11:33,4,5,0,1,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Davis P.FOUL (P2.T1),10:29 PM
+342,1,1,360,0020100732,Guyton 23' Jump Shot (5 PTS) (Miller 6 AST),,11:17,4,4,4,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,79 - 78,-1,,10:30 PM
+343,1,6,361,0020100732,Hassell P.FOUL (P2.T1),,11:08,4,4,0,1,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:30 PM
+344,1,2,362,0020100732,,,10:52,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Murray 22' Jump Shot,10:30 PM
+345,0,4,363,0020100732,Fizer REBOUND (Off:2 Def:1),,10:50,4,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:30 PM
+346,1,6,364,0020100732,,,10:36,4,5,0,1,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Doleac P.FOUL (P4.T2),10:31 PM
+347,0,8,365,0020100732,,,10:36,4,5,5,0,1729,Ricky Davis,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Miller FOR Davis,10:31 PM
+348,5,1,366,0020100732,Fizer  Layup (14 PTS),,10:25,4,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,79 - 80,1,,10:31 PM
+349,1,5,367,0020100732,Ollie STEAL (2 STL),,10:10,4,5,4,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Miller Bad Pass Turnover (P4.T10),10:32 PM
+350,5,2,368,0020100732,MISS Ollie  Layup,,10:05,4,4,0,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:32 PM
+351,0,4,369,0020100732,Miller REBOUND (Off:4 Def:8),,10:04,4,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:32 PM
+352,2,6,370,0020100732,,,10:03,4,5,0,1,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Doleac S.FOUL (P5.T3),10:32 PM
+353,11,3,371,0020100732,Miller Free Throw 1 of 2 (17 PTS),,10:03,4,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,79 - 81,2,,10:32 PM
+354,0,8,372,0020100732,,,10:03,4,5,5,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Hill FOR Doleac,10:32 PM
+355,12,3,373,0020100732,Miller Free Throw 2 of 2 (18 PTS),,10:03,4,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,79 - 82,3,,10:32 PM
+356,1,2,374,0020100732,Guyton BLOCK (1 BLK),,9:39,4,5,0,4,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,,,MISS Miller 13' Jump Shot,10:33 PM
+357,0,4,375,0020100732,,,9:39,4,3,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Rebound,10:33 PM
+358,11,5,376,0020100732,,,9:39,4,3,0,1,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Turnover: Shot Clock (T#11),10:33 PM
+359,1,1,377,0020100732,Fizer 18' Jump Shot (16 PTS) (Miller 7 AST),,9:18,4,4,4,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,79 - 84,5,,10:34 PM
+360,1,1,378,0020100732,,,9:03,4,5,5,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,82 - 84,2,Person 27' 3PT Jump Shot (14 PTS) (Miller 10 AST),10:34 PM
+361,1,2,379,0020100732,MISS Guyton 25' 3PT Jump Shot,,8:49,4,4,0,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:34 PM
+362,0,4,380,0020100732,Miller REBOUND (Off:5 Def:8),,8:47,4,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:34 PM
+363,1,2,381,0020100732,MISS Guyton 23' Jump Shot,,8:40,4,4,0,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:34 PM
+364,0,4,382,0020100732,,,8:39,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:3 Def:3),10:34 PM
+365,5,2,383,0020100732,,,8:25,4,5,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Ilgauskas  Layup,10:35 PM
+366,0,4,385,0020100732,,,8:23,4,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:6 Def:7),10:35 PM
+367,4,1,384,0020100732,,,8:23,4,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,84 - 84,TIE,Hill  Tip Shot (14 PTS),10:35 PM
+368,1,6,386,0020100732,,,8:01,4,5,0,1,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill P.FOUL (P5.T4),10:35 PM
+369,1,9,388,0020100732,,,8:01,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:35 PM
+370,1,6,389,0020100732,,,7:53,4,5,0,1,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Person P.FOUL (P1.PN),10:37 PM
+371,0,8,390,0020100732,SUB: Hoiberg FOR Hassell,,7:53,4,4,4,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:37 PM
+372,11,3,391,0020100732,Guyton Free Throw 1 of 2 (6 PTS),,7:53,4,4,0,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,84 - 85,1,,10:38 PM
+373,12,3,392,0020100732,Guyton Free Throw 2 of 2 (7 PTS),,7:53,4,4,0,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,84 - 86,2,,10:38 PM
+374,1,2,393,0020100732,,,7:37,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Murray 27' 3PT Jump Shot,10:38 PM
+375,0,4,394,0020100732,,,7:35,4,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:7 Def:7),10:38 PM
+376,5,2,395,0020100732,,,7:23,4,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Hill  Layup,10:38 PM
+377,0,4,397,0020100732,,,7:22,4,5,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Ilgauskas REBOUND (Off:2 Def:4),10:38 PM
+378,4,1,396,0020100732,,,7:22,4,5,0,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,86 - 86,TIE,Ilgauskas  Tip Shot (6 PTS),10:38 PM
+379,1,2,398,0020100732,MISS Fizer 13' Jump Shot,,7:04,4,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:39 PM
+380,0,4,399,0020100732,,,7:02,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:3 Def:4),10:39 PM
+381,1,1,400,0020100732,,,6:53,4,5,5,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,88 - 86,-2,Murray 7' Jump Shot (31 PTS) (Miller 11 AST),10:39 PM
+382,2,6,401,0020100732,,,6:29,4,5,0,1,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Ilgauskas S.FOUL (P5.PN),10:39 PM
+383,11,3,402,0020100732,MISS Fizer Free Throw 1 of 2,,6:29,4,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:40 PM
+384,1,4,403,0020100732,BULLS Rebound,,6:29,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:40 PM
+385,12,3,404,0020100732,Fizer Free Throw 2 of 2 (17 PTS),,6:29,4,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,88 - 87,-1,,10:40 PM
+386,1,2,405,0020100732,,,6:16,4,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Hill 10' Jump Shot,10:40 PM
+387,0,4,406,0020100732,,,6:13,4,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Hill REBOUND (Off:8 Def:7),10:40 PM
+388,5,1,407,0020100732,,,6:12,4,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,90 - 87,-3,Hill  Layup (16 PTS),10:40 PM
+389,2,6,408,0020100732,Miller S.FOUL (P4.T2),,6:12,4,4,0,1,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:40 PM
+390,0,8,409,0020100732,,,6:12,4,5,5,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Doleac FOR Ilgauskas,10:41 PM
+391,10,3,410,0020100732,,,6:12,4,5,0,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Hill Free Throw 1 of 1,10:41 PM
+392,0,4,411,0020100732,,,6:11,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:4 Def:4),10:41 PM
+393,1,1,412,0020100732,,,6:02,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,92 - 87,-5,Murray 9' Jump Shot (33 PTS),10:41 PM
+394,1,9,413,0020100732,BULLS Timeout: Regular (Full 4 Short 1),,5:49,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:41 PM
+395,0,8,415,0020100732,SUB: Hassell FOR Ollie,,5:49,4,4,4,0,1563,Kevin Ollie,CHI,Chicago,1610612741.0,Bulls,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:44 PM
+396,42,1,416,0020100732,Fizer  Driving Layup (19 PTS),,5:41,4,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,92 - 89,-3,,10:44 PM
+397,1,6,417,0020100732,Hassell P.FOUL (P3.T3),,5:32,4,4,0,1,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:44 PM
+398,1,6,418,0020100732,Fizer P.FOUL (P3.T4),,5:19,4,4,0,1,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:44 PM
+399,1,1,419,0020100732,,,5:08,4,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,94 - 89,-5,Miller 14' Jump Shot (13 PTS),10:45 PM
+400,1,5,420,0020100732,Hassell Bad Pass Turnover (P1.T7),,4:47,4,4,5,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,Miller STEAL (2 STL),10:45 PM
+401,1,1,421,0020100732,,,4:41,4,5,5,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,97 - 89,-8,Person 26' 3PT Jump Shot (17 PTS) (Miller 12 AST),10:45 PM
+402,2,6,422,0020100732,,,4:24,4,5,0,1,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Murray S.FOUL (P1.PN),10:46 PM
+403,11,3,423,0020100732,MISS Hoiberg Free Throw 1 of 2,,4:24,4,4,0,0,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:46 PM
+404,1,4,424,0020100732,BULLS Rebound,,4:24,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:46 PM
+405,12,3,425,0020100732,Hoiberg Free Throw 2 of 2 (9 PTS),,4:24,4,4,0,0,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,97 - 90,-7,,10:46 PM
+406,1,1,426,0020100732,,,4:07,4,5,5,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,99 - 90,-9,Doleac 19' Jump Shot (5 PTS) (Miller 13 AST),10:47 PM
+407,2,9,427,0020100732,BULLS Timeout: Short (Full 4 Short 2),,3:57,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:47 PM
+408,1,2,429,0020100732,MISS Fizer 10' Jump Shot,,3:44,4,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:49 PM
+409,0,4,430,0020100732,BULLS Rebound,,3:43,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:49 PM
+410,1,2,431,0020100732,MISS Guyton 24' 3PT Jump Shot,,3:38,4,4,0,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:49 PM
+411,0,4,432,0020100732,,,3:36,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:4 Def:5),10:49 PM
+412,11,5,433,0020100732,,,3:13,4,3,0,1,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Turnover: Shot Clock (T#12),10:49 PM
+413,1,2,434,0020100732,MISS Hoiberg 21' Jump Shot,,3:00,4,4,0,0,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:50 PM
+414,0,4,435,0020100732,,,2:57,4,5,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Person REBOUND (Off:0 Def:1),10:50 PM
+415,1,9,436,0020100732,,,2:52,4,3,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Timeout: Regular (Reg.4 Short 1),10:50 PM
+416,0,8,438,0020100732,,,2:52,4,5,5,0,238,Tyrone Hill,CLE,Cleveland,1610612739.0,Cavaliers,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,,,SUB: Ilgauskas FOR Hill,10:52 PM
+417,1,1,439,0020100732,,,2:41,4,5,5,0,1720,Michael Doleac,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,101 - 90,-11,Doleac 17' Jump Shot (7 PTS) (Miller 14 AST),10:52 PM
+418,1,2,440,0020100732,MISS Guyton 20' Jump Shot,,2:21,4,4,0,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:53 PM
+419,0,4,442,0020100732,Fizer REBOUND (Off:3 Def:1),,2:17,4,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:53 PM
+420,4,2,441,0020100732,MISS Fizer  Tip Shot,,2:17,4,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:53 PM
+421,0,4,443,0020100732,,,2:16,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:4 Def:6),10:53 PM
+422,5,2,444,0020100732,Miller BLOCK (2 BLK),,2:07,4,5,0,4,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,,,MISS Miller  Layup,10:53 PM
+423,0,4,445,0020100732,Miller REBOUND (Off:5 Def:9),,2:05,4,4,0,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:53 PM
+424,1,2,446,0020100732,MISS Hassell 25' 3PT Jump Shot,,1:57,4,4,0,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:53 PM
+425,0,4,448,0020100732,Fizer REBOUND (Off:4 Def:1),,1:57,4,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:53 PM
+426,5,1,447,0020100732,Fizer  Layup (21 PTS),,1:57,4,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,101 - 92,-9,,10:53 PM
+427,1,1,449,0020100732,,,1:40,4,5,5,0,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,103 - 92,-11,Ilgauskas 20' Jump Shot (8 PTS) (Miller 15 AST),10:53 PM
+428,1,1,450,0020100732,Hassell 25' 3PT Jump Shot (18 PTS) (Guyton 4 AST),,1:34,4,4,4,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,103 - 95,-8,,10:54 PM
+429,1,6,451,0020100732,Hassell P.FOUL (P4.PN),,1:28,4,4,0,1,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:54 PM
+430,11,3,452,0020100732,,,1:28,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,104 - 95,-9,Murray Free Throw 1 of 2 (34 PTS),10:54 PM
+431,12,3,453,0020100732,,,1:28,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,105 - 95,-10,Murray Free Throw 2 of 2 (35 PTS),10:54 PM
+432,1,1,454,0020100732,Miller 18' Jump Shot (20 PTS) (Guyton 5 AST),,1:20,4,4,4,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,105 - 97,-8,,10:55 PM
+433,1,1,455,0020100732,,,0:57,4,5,5,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,980,Zydrunas Ilgauskas,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,107 - 97,-10,Miller 16' Jump Shot (15 PTS) (Ilgauskas 3 AST),10:55 PM
+434,7,1,456,0020100732,Miller  Dunk (22 PTS) (Hassell 2 AST),,0:46,4,4,4,0,1802,Brad Miller,CHI,Chicago,1610612741.0,Bulls,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,107 - 99,-8,,10:55 PM
+435,1,6,457,0020100732,Guyton P.FOUL (P3.PN),,0:45,4,4,0,1,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:55 PM
+436,11,3,458,0020100732,,,0:45,4,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,MISS Miller Free Throw 1 of 2,10:56 PM
+437,1,4,459,0020100732,,,0:45,4,3,0,0,1610612739,,,,,,0,,,,,,0,,,,,,,,Cavaliers Rebound,10:56 PM
+438,12,3,460,0020100732,,,0:45,4,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,108 - 99,-9,Miller Free Throw 2 of 2 (16 PTS),10:56 PM
+439,1,9,461,0020100732,BULLS Timeout: Regular (Full 5 Short 2),,0:45,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:56 PM
+440,1,2,463,0020100732,MISS Guyton 20' Jump Shot,,0:35,4,4,0,0,2062,A.J. Guyton,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:59 PM
+441,0,4,464,0020100732,,,0:31,4,5,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Person REBOUND (Off:0 Def:2),10:59 PM
+442,1,6,465,0020100732,Hoiberg P.FOUL (P1.PN),,0:31,4,4,0,1,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:59 PM
+443,11,3,466,0020100732,,,0:31,4,5,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,109 - 99,-10,Person Free Throw 1 of 2 (18 PTS),10:59 PM
+444,12,3,467,0020100732,,,0:31,4,5,0,0,445,Wesley Person,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,110 - 99,-11,Person Free Throw 2 of 2 (19 PTS),10:59 PM
+445,1,2,468,0020100732,MISS Hassell 25' 3PT Jump Shot,,0:23,4,4,0,0,2239,Trenton Hassell,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:59 PM
+446,0,4,469,0020100732,,,0:21,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:4 Def:7),11:00 PM
+447,1,6,470,0020100732,Hoiberg P.FOUL (P2.PN),,0:21,4,4,0,1,697,Fred Hoiberg,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,11:00 PM
+448,11,3,471,0020100732,,,0:21,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,111 - 99,-12,Murray Free Throw 1 of 2 (36 PTS),11:00 PM
+449,12,3,472,0020100732,,,0:21,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,112 - 99,-13,Murray Free Throw 2 of 2 (37 PTS),11:00 PM
+450,1,1,473,0020100732,Fizer 9' Jump Shot (23 PTS),,0:12,4,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,112 - 101,-11,,11:00 PM
+451,1,6,474,0020100732,Fizer P.FOUL (P4.PN),,0:11,4,4,0,1,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,11:01 PM
+452,11,3,475,0020100732,,,0:11,4,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,113 - 101,-12,Miller Free Throw 1 of 2 (17 PTS),11:01 PM
+453,12,3,476,0020100732,,,0:11,4,5,0,0,1889,Andre Miller,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,114 - 101,-13,Miller Free Throw 2 of 2 (18 PTS),11:02 PM
+454,1,2,477,0020100732,MISS Fizer 25' 3PT Jump Shot,,0:04,4,4,0,0,2033,Marcus Fizer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,11:02 PM
+455,0,4,478,0020100732,,,0:01,4,5,0,0,441,Lamond Murray,CLE,Cleveland,1610612739.0,Cavaliers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:4 Def:8),11:02 PM
+456,0,13,480,0020100732,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,114 - 101,-13,,11:02 PM

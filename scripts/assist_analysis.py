@@ -1,7 +1,8 @@
-import data_getters as d
 import pandas as p
-import plotly.plotly as py
 import plotly.graph_objs as go
+import plotly.plotly as py
+
+from scripts import data_getters as d
 
 
 def calc_2_3_assists():
@@ -32,7 +33,7 @@ def calc_2_3_assists():
         (assist_df['total_ast'] < 20) & (assist_df['total_ast'] > 5) & (assist_df['games_played'] > 20)]
     assist_df = assist_df[
         ['player_name', 'games_played', 'total_ast', 'two_pt_ast', 'three_pt_ast', 'pct_three_pt_ast']].sort_values(
-        by='three_pt_ast', ascending=False).head(500)
+        by='total_ast', ascending=False).head(500)
     d.print_reddit_table(assist_df, assist_df.columns)
     three_pt_assist_df = assist_df[assist_df['three_pt_ast'] > assist_df['two_pt_ast']]
     d.print_reddit_table(three_pt_assist_df, three_pt_assist_df.columns)
@@ -83,4 +84,17 @@ def plot_assists_vs_tov():
     py.iplot(fig, filename='AST_VS_TOV')
 
 
+def plot_assists_vs_time_of_poss():
+    # Get advanced stats (pace, total mins), Tracking passing stats (potential assists)
+    passing_df = d.leaguedashpstats(pt_measure_type='Passing', overwrite=False)
+    possession_df = d.leaguedashpstats(pt_measure_type='Possessions', overwrite=False)
+
+    df = p.merge(possession_df, passing_df, on=['PLAYER_ID', 'TEAM_ID', 'PLAYER_NAME'], how='inner')
+    df['FOO'] = df['POTENTIAL_AST'] / (df['TIME_OF_POSS'].map(float) * df['GP_x'].map(float) / 60)
+    df = df.sort_values(by=['POTENTIAL_AST'], ascending=False).head(50)
+    df = df.sort_values(by=['FOO'], ascending=False)
+    d.print_reddit_table(df, ['PLAYER_NAME', 'FOO'])
+
+
+#plot_assists_vs_time_of_poss()
 calc_2_3_assists()

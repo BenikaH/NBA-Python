@@ -1,0 +1,477 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0029700701,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,4:00 AM
+1,0,10,1,0029700701,Jump Ball Campbell vs. Dampier: Tip to Fox,,12:00,1,4,5,4,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,,,,4:00 AM
+2,3,2,3,0029700701,MISS Campbell 6' Hook Shot,,11:44,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:01 AM
+3,0,4,4,0029700701,Horry REBOUND (Off:1 Def:0),,11:42,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:01 AM
+4,1,1,5,0029700701,Van Exel 26' 3PT Jump Shot (3 PTS) (Fox 1 AST),,11:27,1,4,4,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0 - 3,3,,4:01 AM
+5,1,1,6,0029700701,,,11:08,1,5,5,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,2 - 3,1,Smith 16' Jump Shot (2 PTS) (Ferrell 1 AST),4:01 AM
+6,4,6,7,0029700701,Horry OFF.Foul (P1),,10:57,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:02 AM
+7,5,5,8,0029700701,Horry Foul Turnover (P1.T1),,10:57,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:02 AM
+8,1,2,9,0029700701,,,10:42,1,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Marshall 21' Jump Shot,4:02 AM
+9,0,4,10,0029700701,LAKERS Rebound,,10:41,1,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:02 AM
+10,1,1,11,0029700701,Barry 20' Jump Shot (2 PTS) (Horry 1 AST),,10:26,1,4,4,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,2 - 5,3,,4:02 AM
+11,1,6,12,0029700701,Barry P.FOUL (P1.T1),,10:17,1,4,0,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:03 AM
+12,1,1,13,0029700701,,,10:08,1,5,5,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,4 - 5,1,Smith 15' Jump Shot (4 PTS) (Delk 1 AST),4:03 AM
+13,2,1,14,0029700701,Fox 8' Running Jump Shot (2 PTS),,9:54,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,4 - 7,3,,4:03 AM
+14,1,1,15,0029700701,,,9:33,1,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,6 - 7,1,Delk 8' Jump Shot (2 PTS),4:04 AM
+15,6,2,16,0029700701,MISS Fox  Driving Layup,,9:27,1,4,0,5,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,,,Marshall BLOCK (1 BLK),4:04 AM
+16,0,4,17,0029700701,,,9:24,1,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Marshall REBOUND (Off:0 Def:1),4:04 AM
+17,1,2,18,0029700701,,,9:19,1,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Dampier 14' Jump Shot,4:04 AM
+18,0,4,19,0029700701,Barry REBOUND (Off:0 Def:1),,9:17,1,4,0,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:04 AM
+19,2,6,20,0029700701,,,9:08,1,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Smith S.FOUL (P1.T1),4:04 AM
+20,11,3,21,0029700701,Campbell Free Throw 1 of 2 (1 PTS),,9:08,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,6 - 8,2,,4:04 AM
+21,12,3,22,0029700701,Campbell Free Throw 2 of 2 (2 PTS),,9:08,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,6 - 9,3,,4:04 AM
+22,1,2,23,0029700701,,,8:58,1,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Marshall 8' Jump Shot,4:05 AM
+23,0,4,24,0029700701,Barry REBOUND (Off:0 Def:2),,8:56,1,4,0,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:05 AM
+24,2,1,25,0029700701,Van Exel 20' Running Jump Shot (5 PTS),,8:51,1,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,6 - 11,5,,4:05 AM
+25,1,2,26,0029700701,,,8:30,1,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Smith 12' Jump Shot,4:05 AM
+26,0,4,27,0029700701,Campbell REBOUND (Off:0 Def:1),,8:28,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:05 AM
+27,1,1,28,0029700701,Campbell 9' Jump Shot (4 PTS) (Van Exel 1 AST),,8:09,1,4,4,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,6 - 13,7,,4:06 AM
+28,1,2,29,0029700701,,,7:45,1,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Smith 18' Jump Shot,4:06 AM
+29,0,4,30,0029700701,,,7:43,1,5,0,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Ferrell REBOUND (Off:1 Def:0),4:06 AM
+30,5,1,31,0029700701,,,7:42,1,5,0,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,8 - 13,5,Ferrell  Layup (2 PTS),4:06 AM
+31,3,1,32,0029700701,Campbell 8' Hook Shot (6 PTS),,7:24,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,8 - 15,7,,4:06 AM
+32,1,1,33,0029700701,,,7:14,1,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,11 - 15,4,Delk 26' 3PT Jump Shot (5 PTS),4:07 AM
+33,1,5,34,0029700701,Horry Bad Pass Turnover (P2.T2),,7:04,1,4,5,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Delk STEAL (1 STL),4:07 AM
+34,5,1,35,0029700701,,,7:00,1,5,5,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,13 - 15,2,Ferrell  Layup (4 PTS) (Delk 2 AST),4:07 AM
+35,1,2,36,0029700701,MISS Fox 26' 3PT Jump Shot,,6:40,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:07 AM
+36,0,4,37,0029700701,Horry REBOUND (Off:2 Def:0),,6:38,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:07 AM
+37,5,1,38,0029700701,Horry  Layup (2 PTS),,6:37,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,13 - 17,4,,4:07 AM
+38,1,5,39,0029700701,Barry STEAL (1 STL),,6:17,1,5,4,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Marshall Bad Pass Turnover (P1.T1),4:08 AM
+39,1,1,40,0029700701,Van Exel 24' 3PT Jump Shot (8 PTS) (Barry 1 AST),,6:11,1,4,4,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,13 - 20,7,,4:08 AM
+40,1,9,41,0029700701,,,6:06,1,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Timeout: Regular (Reg.1 Short 0),4:08 AM
+41,0,8,43,0029700701,,,6:06,1,5,5,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,54,Dickey Simpkins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Simpkins FOR Marshall,4:10 AM
+42,0,8,44,0029700701,,,6:06,1,5,5,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Spencer FOR Dampier,4:10 AM
+43,1,1,46,0029700701,,,5:45,1,5,5,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,54,Dickey Simpkins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,15 - 20,5,Smith 8' Jump Shot (6 PTS) (Simpkins 1 AST),4:11 AM
+44,1,6,47,0029700701,,,5:32,1,5,0,0,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Spencer P.FOUL (P1.T2),4:11 AM
+45,1,2,48,0029700701,MISS Horry 4' Jump Shot,,5:24,1,4,0,5,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,,,Smith BLOCK (1 BLK),4:11 AM
+46,0,4,49,0029700701,Horry REBOUND (Off:3 Def:0),,5:22,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:11 AM
+47,6,2,50,0029700701,MISS Barry  Driving Layup,,5:11,1,4,0,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:11 AM
+48,0,4,52,0029700701,Campbell REBOUND (Off:1 Def:1),,5:09,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:11 AM
+49,4,2,51,0029700701,MISS Campbell  Tip Shot,,5:09,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:11 AM
+50,0,4,53,0029700701,,,5:08,1,5,0,0,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Spencer REBOUND (Off:0 Def:1),4:11 AM
+51,1,2,54,0029700701,,,4:56,1,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Delk 18' Jump Shot,4:12 AM
+52,0,4,55,0029700701,Fox REBOUND (Off:0 Def:1),,4:54,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:12 AM
+53,1,6,56,0029700701,,,4:49,1,5,0,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Ferrell P.FOUL (P1.T3),4:12 AM
+54,0,8,57,0029700701,SUB: Blount FOR Horry,,4:49,1,4,4,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:12 AM
+55,2,5,58,0029700701,Campbell Lost Ball Turnover (P1.T3),,4:37,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:12 AM
+56,1,1,59,0029700701,,,4:20,1,5,0,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,17 - 20,3,Ferrell 6' Jump Shot (6 PTS),4:13 AM
+57,1,6,60,0029700701,,,4:08,1,5,0,0,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Spencer P.FOUL (P2.T4),4:13 AM
+58,0,8,61,0029700701,SUB: Bryant FOR Barry,,4:08,1,4,4,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:13 AM
+59,1,1,62,0029700701,Campbell 14' Jump Shot (8 PTS) (Van Exel 2 AST),,3:54,1,4,4,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,17 - 22,5,,4:14 AM
+60,1,1,63,0029700701,,,3:30,1,5,5,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,54,Dickey Simpkins,GSW,Golden State,1610612744.0,Warriors,0,,,,,,19 - 22,3,Smith 9' Jump Shot (8 PTS) (Simpkins 2 AST),4:14 AM
+61,2,6,64,0029700701,Fox S.FOUL (P1.T2),,3:30,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:14 AM
+62,0,8,65,0029700701,,,3:30,1,5,5,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Williams FOR Delk,4:15 AM
+63,10,3,66,0029700701,,,3:30,1,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,20 - 22,2,Smith Free Throw 1 of 1 (9 PTS),4:15 AM
+64,3,1,67,0029700701,Fox 8' Hook Shot (4 PTS) (Van Exel 3 AST),,3:16,1,4,4,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,20 - 24,4,,4:15 AM
+65,1,2,68,0029700701,,,3:01,1,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Smith 12' Jump Shot,4:15 AM
+66,0,4,69,0029700701,,,2:59,1,5,0,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Ferrell REBOUND (Off:2 Def:0),4:15 AM
+67,3,1,70,0029700701,,,2:43,1,5,5,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,22 - 24,2,Smith 6' Hook Shot (11 PTS) (Ferrell 2 AST),4:16 AM
+68,1,2,71,0029700701,MISS Bryant 10' Jump Shot,,2:27,1,4,0,5,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,,,Ferrell BLOCK (1 BLK),4:16 AM
+69,0,4,72,0029700701,Bryant REBOUND (Off:1 Def:0),,2:24,1,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:16 AM
+70,5,2,73,0029700701,MISS Campbell  Layup,,2:22,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:16 AM
+71,0,4,74,0029700701,Campbell REBOUND (Off:2 Def:1),,2:21,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:16 AM
+72,1,9,75,0029700701,LAKERS Timeout: Regular (Full 1 Short 0),,2:20,1,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:16 AM
+73,1,6,76,0029700701,,,2:20,1,5,0,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Ferrell P.FOUL (P2.PN),4:19 AM
+74,0,8,77,0029700701,SUB: Fisher FOR Van Exel,,2:20,1,4,4,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:19 AM
+75,0,8,78,0029700701,,,2:20,1,5,5,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Delk FOR Smith,4:19 AM
+76,11,3,79,0029700701,MISS Campbell Free Throw 1 of 2,,2:20,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:19 AM
+77,0,4,80,0029700701,LAKERS Rebound,,2:20,1,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:19 AM
+78,12,3,81,0029700701,Campbell Free Throw 2 of 2 (9 PTS),,2:20,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,22 - 25,3,,4:19 AM
+79,2,1,82,0029700701,,,2:06,1,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,24 - 25,1,Delk 9' Running Jump Shot (7 PTS),4:20 AM
+80,1,1,83,0029700701,Blount 15' Jump Shot (2 PTS) (Fisher 1 AST),,1:59,1,4,4,0,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,24 - 27,3,,4:20 AM
+81,1,1,85,0029700701,,,1:34,1,5,0,0,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,26 - 27,1,Spencer 10' Jump Shot (2 PTS),4:20 AM
+82,1,2,86,0029700701,MISS Fox 9' Jump Shot,,1:18,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:20 AM
+83,0,4,87,0029700701,LAKERS Rebound,,1:16,1,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:20 AM
+84,0,8,88,0029700701,,,1:15,1,5,5,0,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Dampier FOR Spencer,4:21 AM
+85,0,8,124,0029700701,,,1:15,1,5,5,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,1502,Adonal Foyle,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Foyle FOR Ferrell,4:21 AM
+86,0,8,89,0029700701,SUB: O'Neal FOR Campbell,,1:15,1,4,4,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:21 AM
+87,6,1,90,0029700701,Fox  Driving Layup (6 PTS),,1:10,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,26 - 29,3,,4:21 AM
+88,0,8,91,0029700701,,,0:53,1,5,5,0,54,Dickey Simpkins,GSW,Golden State,1610612744.0,Warriors,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Marshall FOR Simpkins,4:21 AM
+89,15,5,92,0029700701,,,0:40,1,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Dampier Offensive Goaltending Turnover (P1.T2),4:22 AM
+90,1,5,93,0029700701,Fisher Bad Pass Turnover (P1.T4),,0:40,1,4,5,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Delk STEAL (2 STL),4:22 AM
+91,1,2,94,0029700701,,,0:15,1,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Delk 26' 3PT Jump Shot,4:22 AM
+92,0,4,95,0029700701,Bryant REBOUND (Off:1 Def:1),,0:13,1,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:22 AM
+93,2,2,96,0029700701,MISS Bryant  Running Jump Shot,,0:03,1,4,0,5,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,,,Delk BLOCK (1 BLK),4:23 AM
+94,0,4,97,0029700701,,,0:00,1,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Rebound,4:23 AM
+95,1,2,98,0029700701,,,0:00,1,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Delk 41' 3PT Jump Shot,4:23 AM
+96,0,4,99,0029700701,,,0:00,1,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Rebound,4:23 AM
+97,0,13,100,0029700701,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,26 - 29,3,,4:23 AM
+98,0,12,103,0029700701,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,26 - 29,3,,4:26 AM
+99,1,1,104,0029700701,,,11:46,2,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,28 - 29,1,Williams 14' Jump Shot (2 PTS),4:26 AM
+100,1,5,105,0029700701,Bryant Bad Pass Turnover (P1.T5),,11:37,2,4,5,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Delk STEAL (3 STL),4:26 AM
+101,1,2,106,0029700701,O'Neal BLOCK (1 BLK),,11:30,2,5,0,4,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Williams 26' 3PT Jump Shot,4:26 AM
+102,0,4,107,0029700701,,,11:27,2,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Delk REBOUND (Off:1 Def:0),4:26 AM
+103,1,5,108,0029700701,Horry STEAL (1 STL),,11:25,2,5,4,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Marshall Bad Pass Turnover (P2.T3),4:26 AM
+104,1,6,109,0029700701,,,11:21,2,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Williams P.FOUL (P1.T1),4:26 AM
+105,11,3,110,0029700701,O'Neal Free Throw 1 of 2 (1 PTS),,11:21,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,28 - 30,2,,4:26 AM
+106,12,3,111,0029700701,O'Neal Free Throw 2 of 2 (2 PTS),,11:21,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,28 - 31,3,,4:27 AM
+107,1,2,112,0029700701,,,11:11,2,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Delk 18' Jump Shot,4:27 AM
+108,0,4,113,0029700701,LAKERS Rebound,,11:09,2,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:27 AM
+109,4,5,114,0029700701,O'Neal Traveling Turnover (P1.T6),,10:52,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:27 AM
+110,1,1,115,0029700701,,,10:38,2,5,5,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,31 - 31,TIE,Delk 26' 3PT Jump Shot (10 PTS) (Marshall 1 AST),4:28 AM
+111,1,9,116,0029700701,LAKERS Timeout: Regular (Full 2 Short 0),,10:31,2,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:28 AM
+112,1,5,119,0029700701,Fisher Bad Pass Turnover (P2.T7),,10:22,2,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:31 AM
+113,1,1,120,0029700701,,,10:10,2,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,33 - 31,-2,Delk 10' Jump Shot (12 PTS),4:31 AM
+114,2,6,121,0029700701,,,9:56,2,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Dampier S.FOUL (P1.T2),4:32 AM
+115,11,3,122,0029700701,O'Neal Free Throw 1 of 2 (3 PTS),,9:56,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,33 - 32,-1,,4:32 AM
+116,12,3,123,0029700701,O'Neal Free Throw 2 of 2 (4 PTS),,9:56,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,33 - 33,TIE,,4:32 AM
+117,1,1,125,0029700701,,,9:42,2,5,5,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,35 - 33,-2,Smith 21' Jump Shot (13 PTS) (Delk 3 AST),4:32 AM
+118,8,1,126,0029700701,Bryant  Slam Dunk (2 PTS) (O'Neal 1 AST),,9:31,2,4,4,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,35 - 35,TIE,,4:32 AM
+119,1,1,128,0029700701,,,9:08,2,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,37 - 35,-2,Williams 22' Jump Shot (4 PTS),4:33 AM
+120,3,2,129,0029700701,MISS O'Neal 9' Hook Shot,,8:52,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:33 AM
+121,0,4,130,0029700701,,,8:48,2,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Marshall REBOUND (Off:0 Def:2),4:33 AM
+122,1,2,131,0029700701,,,8:33,2,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Dampier 10' Jump Shot,4:33 AM
+123,0,4,132,0029700701,Bryant REBOUND (Off:1 Def:2),,8:31,2,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:33 AM
+124,2,6,133,0029700701,,,8:24,2,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Marshall S.FOUL (P1.T3),4:33 AM
+125,0,8,141,0029700701,SUB: Fox FOR Blount,,8:24,2,4,4,0,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:33 AM
+126,11,3,135,0029700701,MISS O'Neal Free Throw 1 of 2,,8:24,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:34 AM
+127,0,4,136,0029700701,LAKERS Rebound,,8:24,2,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:34 AM
+128,12,3,137,0029700701,MISS O'Neal Free Throw 2 of 2,,8:24,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:34 AM
+129,0,4,138,0029700701,,,8:24,2,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:1),4:34 AM
+130,1,2,139,0029700701,,,8:10,2,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Delk 25' 3PT Jump Shot,4:34 AM
+131,0,4,140,0029700701,Horry REBOUND (Off:3 Def:1),,8:08,2,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:34 AM
+132,6,2,142,0029700701,MISS Bryant  Driving Layup,,7:58,2,4,0,5,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,,,Dampier BLOCK (1 BLK),4:34 AM
+133,0,4,143,0029700701,,,7:54,2,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Dampier REBOUND (Off:0 Def:1),4:34 AM
+134,1,2,144,0029700701,,,7:43,2,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Williams 26' 3PT Jump Shot,4:35 AM
+135,0,4,145,0029700701,O'Neal REBOUND (Off:0 Def:1),,7:40,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:35 AM
+136,5,1,147,0029700701,O'Neal  Layup (6 PTS),,7:20,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,37 - 37,TIE,,4:35 AM
+137,1,1,148,0029700701,,,7:07,2,5,5,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,39 - 37,-2,Smith 17' Jump Shot (15 PTS) (Delk 4 AST),4:35 AM
+138,1,2,149,0029700701,MISS Bryant 17' Jump Shot,,6:55,2,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:35 AM
+139,0,4,150,0029700701,Horry REBOUND (Off:4 Def:1),,6:53,2,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:35 AM
+140,1,6,151,0029700701,,,6:45,2,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Dampier P.FOUL (P2.T4),4:36 AM
+141,0,8,152,0029700701,SUB: Barry FOR Bryant,,6:45,2,4,4,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:36 AM
+142,0,8,153,0029700701,,,6:45,2,5,5,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,957,Todd Fuller,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Fuller FOR Dampier,4:36 AM
+143,1,6,155,0029700701,,,6:39,2,5,0,0,957,Todd Fuller,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Fuller P.FOUL (P1.PN),4:37 AM
+144,0,8,156,0029700701,SUB: Van Exel FOR Fisher,,6:39,2,4,4,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:37 AM
+145,11,3,157,0029700701,O'Neal Free Throw 1 of 2 (7 PTS),,6:39,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,39 - 38,-1,,4:37 AM
+146,12,3,158,0029700701,O'Neal Free Throw 2 of 2 (8 PTS),,6:39,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,39 - 39,TIE,,4:37 AM
+147,1,2,159,0029700701,,,6:19,2,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Williams 8' Jump Shot,4:38 AM
+148,0,4,160,0029700701,Van Exel REBOUND (Off:0 Def:1),,6:17,2,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:38 AM
+149,3,2,161,0029700701,MISS O'Neal 9' Hook Shot,,6:06,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:38 AM
+150,0,4,162,0029700701,LAKERS Rebound,,6:04,2,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:38 AM
+151,8,1,163,0029700701,O'Neal  Slam Dunk (10 PTS) (Van Exel 4 AST),,5:52,2,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,39 - 41,2,,4:38 AM
+152,1,2,164,0029700701,,,5:37,2,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Smith 12' Jump Shot,4:39 AM
+153,0,4,166,0029700701,,,5:35,2,5,0,0,957,Todd Fuller,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Fuller REBOUND (Off:1 Def:0),4:39 AM
+154,3,1,165,0029700701,,,5:32,2,5,0,0,957,Todd Fuller,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,41 - 41,TIE,Fuller  Hook Shot (2 PTS),4:39 AM
+155,2,6,167,0029700701,,,5:23,2,5,0,0,957,Todd Fuller,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Fuller S.FOUL (P2.PN),4:39 AM
+156,0,8,168,0029700701,,,5:23,2,5,5,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,1502,Adonal Foyle,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Foyle FOR Smith,4:39 AM
+157,11,3,169,0029700701,Fox Free Throw 1 of 2 (7 PTS),,5:23,2,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,41 - 42,1,,4:39 AM
+158,12,3,170,0029700701,Fox Free Throw 2 of 2 (8 PTS),,5:23,2,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,41 - 43,2,,4:39 AM
+159,1,2,172,0029700701,,,5:10,2,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Delk 18' Jump Shot,4:40 AM
+160,0,4,173,0029700701,Horry REBOUND (Off:4 Def:2),,5:08,2,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:40 AM
+161,1,5,174,0029700701,Horry Bad Pass Turnover (P3.T8),,5:05,2,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:40 AM
+162,7,1,175,0029700701,,,4:51,2,5,5,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,43 - 43,TIE,Williams  Dunk (6 PTS) (Marshall 2 AST),4:40 AM
+163,8,1,176,0029700701,O'Neal  Slam Dunk (12 PTS) (Van Exel 5 AST),,4:39,2,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,43 - 45,2,,4:41 AM
+164,2,6,177,0029700701,,,4:39,2,5,0,0,957,Todd Fuller,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Fuller S.FOUL (P3.PN),4:41 AM
+165,0,8,178,0029700701,,,4:39,2,5,5,0,957,Todd Fuller,GSW,Golden State,1610612744.0,Warriors,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Spencer FOR Fuller,4:41 AM
+166,10,3,179,0029700701,MISS O'Neal Free Throw 1 of 1,,4:39,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:41 AM
+167,0,4,180,0029700701,,,4:39,2,5,0,0,1502,Adonal Foyle,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Foyle REBOUND (Off:0 Def:1),4:41 AM
+168,1,5,181,0029700701,Horry STEAL (2 STL),,4:18,2,5,4,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Marshall Bad Pass Turnover (P3.T4),4:42 AM
+169,5,1,182,0029700701,Horry  Layup (4 PTS) (Barry 2 AST),,4:13,2,4,4,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,43 - 47,4,,4:42 AM
+170,1,9,183,0029700701,,,4:04,2,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Timeout: Regular (Reg.2 Short 0),4:42 AM
+171,0,8,185,0029700701,,,4:04,2,5,5,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Smith FOR Williams,4:44 AM
+172,0,8,191,0029700701,,,4:04,2,5,5,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Ferrell FOR Marshall,4:44 AM
+173,5,2,187,0029700701,,,3:54,2,5,0,0,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Spencer  Layup,4:45 AM
+174,0,4,188,0029700701,,,3:53,2,5,0,0,1502,Adonal Foyle,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Foyle REBOUND (Off:1 Def:1),4:45 AM
+175,1,1,189,0029700701,,,3:34,2,5,5,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,45 - 47,2,Smith 13' Jump Shot (17 PTS) (Delk 5 AST),4:45 AM
+176,1,1,190,0029700701,Barry 27' 3PT Jump Shot (5 PTS) (Van Exel 6 AST),,3:27,2,4,4,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,45 - 50,5,,4:45 AM
+177,1,5,192,0029700701,Fox STEAL (1 STL),,3:16,2,5,4,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Smith Bad Pass Turnover (P1.T5),4:45 AM
+178,6,1,193,0029700701,Van Exel  Driving Layup (10 PTS) (Fox 2 AST),,3:12,2,4,4,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,45 - 52,7,,4:45 AM
+179,2,9,195,0029700701,,,3:02,2,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Timeout: Short (Reg.2 Short 1),4:46 AM
+180,0,8,196,0029700701,,,3:02,2,5,5,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Williams FOR Ferrell,4:46 AM
+181,3,2,197,0029700701,,,3:02,2,5,0,0,1502,Adonal Foyle,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Foyle 9' Hook Shot,4:47 AM
+182,0,4,199,0029700701,,,3:00,2,5,0,0,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Spencer REBOUND (Off:1 Def:1),4:47 AM
+183,5,1,198,0029700701,,,2:49,2,5,0,0,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,47 - 52,5,Spencer  Layup (4 PTS),4:47 AM
+184,5,2,200,0029700701,MISS O'Neal 2' Layup,,2:46,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:47 AM
+185,0,4,201,0029700701,,,2:43,2,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:2),4:47 AM
+186,5,2,202,0029700701,,,2:33,2,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Smith  Layup,4:47 AM
+187,0,4,203,0029700701,Barry REBOUND (Off:0 Def:3),,2:30,2,4,0,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:47 AM
+188,1,2,204,0029700701,MISS Barry 28' 3PT Jump Shot,,2:16,2,4,0,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:47 AM
+189,0,4,205,0029700701,Horry REBOUND (Off:5 Def:2),,2:15,2,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:47 AM
+190,1,1,206,0029700701,O'Neal 4' Jump Shot (14 PTS) (Barry 3 AST),,2:05,2,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,47 - 54,7,,4:48 AM
+191,2,6,207,0029700701,,,2:05,2,5,0,0,1502,Adonal Foyle,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Foyle S.FOUL (P1.PN),4:48 AM
+192,0,8,208,0029700701,,,2:05,2,5,5,0,1502,Adonal Foyle,GSW,Golden State,1610612744.0,Warriors,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Vaughn FOR Foyle,4:48 AM
+193,10,3,209,0029700701,MISS O'Neal Free Throw 1 of 1,,2:05,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:48 AM
+194,0,4,210,0029700701,,,2:05,2,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Delk REBOUND (Off:1 Def:1),4:48 AM
+195,4,6,211,0029700701,,,1:54,2,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn OFF.Foul (P1),4:48 AM
+196,5,5,212,0029700701,,,1:54,2,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn Foul Turnover (P1.T6),4:48 AM
+197,0,8,213,0029700701,SUB: Bennett FOR Horry,,1:54,2,4,4,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,712,Mario Bennett,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:48 AM
+198,5,1,214,0029700701,O'Neal  Layup (16 PTS) (Barry 4 AST),,1:42,2,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,47 - 56,9,,4:49 AM
+199,1,2,215,0029700701,,,1:17,2,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Vaughn 12' Jump Shot,4:49 AM
+200,0,4,216,0029700701,,,1:16,2,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Rebound,4:49 AM
+201,11,5,217,0029700701,,,1:16,2,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Turnover: Shot Clock (T#7),4:49 AM
+202,2,1,218,0029700701,Van Exel  Running Jump Shot (12 PTS),,1:05,2,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,47 - 58,11,,4:50 AM
+203,1,6,219,0029700701,Barry P.FOUL (P2.T1),,0:45,2,4,0,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:50 AM
+204,1,6,221,0029700701,Van Exel P.FOUL (P1.PN),,0:36,2,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:51 AM
+205,11,3,222,0029700701,,,0:36,2,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,48 - 58,10,Delk Free Throw 1 of 2 (13 PTS),4:51 AM
+206,12,3,223,0029700701,,,0:36,2,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,49 - 58,9,Delk Free Throw 2 of 2 (14 PTS),4:51 AM
+207,1,5,224,0029700701,Fox Bad Pass Turnover (P1.T9),,0:24,2,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:51 AM
+208,0,8,225,0029700701,,,0:24,2,5,5,0,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Dampier FOR Spencer,4:52 AM
+209,2,6,226,0029700701,Fox S.FOUL (P2.PN),,0:01,2,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:53 AM
+210,0,8,227,0029700701,,,0:01,2,5,5,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Spencer FOR Dampier,4:53 AM
+211,11,3,228,0029700701,,,0:01,2,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,50 - 58,8,Vaughn Free Throw 1 of 2 (1 PTS),4:53 AM
+212,12,3,229,0029700701,,,0:01,2,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,51 - 58,7,Vaughn Free Throw 2 of 2 (2 PTS),4:53 AM
+213,2,9,230,0029700701,LAKERS Timeout: Short (Full 2 Short 1),,0:01,2,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:53 AM
+214,0,13,232,0029700701,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 58,7,,4:55 AM
+215,0,12,234,0029700701,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,51 - 58,7,,5:11 AM
+216,1,2,235,0029700701,,,11:41,3,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Smith 11' Jump Shot,5:12 AM
+217,0,4,237,0029700701,,,11:38,3,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Dampier REBOUND (Off:1 Def:1),5:12 AM
+218,5,2,236,0029700701,,,11:38,3,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Dampier  Layup,5:12 AM
+219,0,4,238,0029700701,,,11:35,3,5,0,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Ferrell REBOUND (Off:3 Def:0),5:12 AM
+220,1,2,239,0029700701,,,11:32,3,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Smith 20' Jump Shot,5:12 AM
+221,0,4,240,0029700701,Barry REBOUND (Off:0 Def:4),,11:29,3,4,0,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:12 AM
+222,3,2,241,0029700701,MISS O'Neal 8' Hook Shot,,11:16,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:12 AM
+223,0,4,242,0029700701,,,11:13,3,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Marshall REBOUND (Off:0 Def:3),5:12 AM
+224,1,2,243,0029700701,,,11:03,3,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Smith 14' Jump Shot,5:12 AM
+225,0,4,244,0029700701,,,11:00,3,5,0,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Ferrell REBOUND (Off:4 Def:0),5:12 AM
+226,1,2,245,0029700701,,,10:58,3,5,0,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Ferrell 7' Jump Shot,5:12 AM
+227,0,4,246,0029700701,O'Neal REBOUND (Off:0 Def:2),,10:55,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:12 AM
+228,6,1,247,0029700701,Van Exel  Driving Layup (14 PTS),,10:42,3,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,51 - 60,9,,5:13 AM
+229,1,2,248,0029700701,,,10:19,3,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Delk 25' 3PT Jump Shot,5:13 AM
+230,0,4,249,0029700701,Fox REBOUND (Off:0 Def:2),,10:16,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:13 AM
+231,1,1,250,0029700701,O'Neal 9' Jump Shot (18 PTS) (Van Exel 7 AST),,10:10,3,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,51 - 62,11,,5:13 AM
+232,1,2,251,0029700701,,,9:52,3,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Smith 17' Jump Shot,5:14 AM
+233,0,4,252,0029700701,,,9:50,3,5,0,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Ferrell REBOUND (Off:5 Def:0),5:14 AM
+234,1,9,253,0029700701,,,9:36,3,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Timeout: Regular (Reg.3 Short 1),5:14 AM
+235,1,5,257,0029700701,Barry STEAL (2 STL),,9:34,3,5,4,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Dampier Bad Pass Turnover (P2.T8),5:16 AM
+236,3,2,258,0029700701,MISS O'Neal 8' Hook Shot,,9:21,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:16 AM
+237,0,4,260,0029700701,Fox REBOUND (Off:1 Def:2),,9:19,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:16 AM
+238,5,2,259,0029700701,MISS Fox  Layup,,9:19,3,4,0,5,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,,,Marshall BLOCK (2 BLK),5:16 AM
+239,0,4,261,0029700701,LAKERS Rebound,,9:19,3,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:16 AM
+240,1,1,262,0029700701,O'Neal 9' Jump Shot (20 PTS) (Van Exel 8 AST),,9:05,3,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,51 - 64,13,,5:17 AM
+241,2,6,263,0029700701,O'Neal S.FOUL (P1.T1),,8:48,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:17 AM
+242,11,3,264,0029700701,,,8:48,3,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,52 - 64,12,Dampier Free Throw 1 of 2 (1 PTS),5:17 AM
+243,12,3,265,0029700701,,,8:48,3,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,53 - 64,11,Dampier Free Throw 2 of 2 (2 PTS),5:18 AM
+244,2,6,267,0029700701,,,8:34,3,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Marshall S.FOUL (P2.T1),5:18 AM
+245,11,3,268,0029700701,Horry Free Throw 1 of 2 (5 PTS),,8:34,3,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,53 - 65,12,,5:19 AM
+246,12,3,269,0029700701,MISS Horry Free Throw 2 of 2,,8:34,3,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:19 AM
+247,0,4,270,0029700701,,,8:33,3,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Dampier REBOUND (Off:1 Def:2),5:19 AM
+248,1,2,271,0029700701,,,8:18,3,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Marshall 22' Jump Shot,5:19 AM
+249,0,4,272,0029700701,O'Neal REBOUND (Off:0 Def:3),,8:15,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:19 AM
+250,6,1,273,0029700701,Van Exel  Driving Layup (16 PTS),,8:11,3,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,53 - 67,14,,5:19 AM
+251,1,2,274,0029700701,,,7:53,3,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Smith 18' Jump Shot,5:20 AM
+252,0,4,275,0029700701,,,7:51,3,5,0,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Ferrell REBOUND (Off:6 Def:0),5:20 AM
+253,1,1,276,0029700701,,,7:48,3,5,5,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,56 - 67,11,Delk 25' 3PT Jump Shot (17 PTS) (Ferrell 3 AST),5:20 AM
+254,5,1,277,0029700701,Horry  Layup (7 PTS) (Van Exel 9 AST),,7:40,3,4,4,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,56 - 69,13,,5:20 AM
+255,1,2,278,0029700701,O'Neal BLOCK (2 BLK),,7:26,3,5,0,4,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Dampier 9' Jump Shot,5:20 AM
+256,0,4,279,0029700701,Barry REBOUND (Off:0 Def:5),,7:22,3,4,0,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:20 AM
+257,1,2,280,0029700701,MISS Fox 27' 3PT Jump Shot,,7:17,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:20 AM
+258,0,4,281,0029700701,,,7:14,3,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:3),5:20 AM
+259,2,6,282,0029700701,Barry S.FOUL (P3.T2),,7:04,3,4,0,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:20 AM
+260,0,8,283,0029700701,SUB: Blount FOR Horry,,7:04,3,4,4,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:21 AM
+261,11,3,284,0029700701,,,7:04,3,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,57 - 69,12,Marshall Free Throw 1 of 2 (1 PTS),5:21 AM
+262,0,8,285,0029700701,,,7:04,3,5,5,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Vaughn FOR Smith,5:21 AM
+263,12,3,286,0029700701,,,7:04,3,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,58 - 69,11,Marshall Free Throw 2 of 2 (2 PTS),5:21 AM
+264,3,2,287,0029700701,MISS O'Neal 10' Hook Shot,,6:44,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:22 AM
+265,0,4,289,0029700701,Fox REBOUND (Off:2 Def:2),,6:41,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:22 AM
+266,4,2,288,0029700701,MISS Fox  Tip Shot,,6:41,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:22 AM
+267,0,4,290,0029700701,,,6:37,3,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn REBOUND (Off:0 Def:1),5:22 AM
+268,1,5,291,0029700701,Blount STEAL (1 STL),,6:35,3,5,4,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Vaughn Bad Pass Turnover (P2.T9),5:22 AM
+269,1,1,292,0029700701,Van Exel 26' 3PT Jump Shot (19 PTS) (Barry 5 AST),,6:30,3,4,4,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,58 - 72,14,,5:22 AM
+270,1,1,293,0029700701,,,6:09,3,5,5,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,60 - 72,12,Marshall 14' Jump Shot (4 PTS) (Vaughn 1 AST),5:22 AM
+271,1,1,294,0029700701,O'Neal 16' Jump Shot (22 PTS) (Van Exel 10 AST),,5:58,3,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,60 - 74,14,,5:22 AM
+272,1,2,295,0029700701,Fox BLOCK (1 BLK),,5:51,3,5,0,4,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Marshall 6' Jump Shot,5:23 AM
+273,0,4,296,0029700701,O'Neal REBOUND (Off:0 Def:4),,5:46,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:23 AM
+274,1,2,297,0029700701,MISS Van Exel 27' 3PT Jump Shot,,5:42,3,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:23 AM
+275,0,4,298,0029700701,Blount REBOUND (Off:1 Def:0),,5:38,3,4,0,0,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:23 AM
+276,3,2,299,0029700701,MISS O'Neal 6' Hook Shot,,5:34,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:23 AM
+277,0,4,300,0029700701,,,5:30,3,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn REBOUND (Off:0 Def:2),5:23 AM
+278,1,2,301,0029700701,O'Neal BLOCK (3 BLK),,5:18,3,5,0,4,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Dampier 7' Jump Shot,5:23 AM
+279,0,4,302,0029700701,,,5:17,3,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Rebound,5:23 AM
+280,8,1,303,0029700701,,,5:15,3,5,5,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,62 - 74,12,Marshall  Slam Dunk (6 PTS) (Dampier 1 AST),5:23 AM
+281,2,6,304,0029700701,Van Exel S.FOUL (P2.T3),,5:15,3,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:23 AM
+282,0,8,305,0029700701,SUB: Bryant FOR Barry,,5:15,3,4,4,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:24 AM
+283,10,3,306,0029700701,,,5:15,3,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,63 - 74,11,Marshall Free Throw 1 of 1 (7 PTS),5:24 AM
+284,6,1,307,0029700701,Fox  Driving Layup (10 PTS),,5:09,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,63 - 76,13,,5:24 AM
+285,1,5,308,0029700701,,,4:53,3,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Delk Bad Pass Turnover (P1.T10),5:24 AM
+286,1,9,309,0029700701,,,4:53,3,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Timeout: Regular (Reg.4 Short 1),5:25 AM
+287,0,8,311,0029700701,,,4:53,3,5,5,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Spencer FOR Marshall,5:27 AM
+288,0,8,312,0029700701,,,4:53,3,5,5,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Williams FOR Dampier,5:27 AM
+289,0,8,313,0029700701,,,4:53,3,5,5,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Smith FOR Delk,5:27 AM
+290,8,1,315,0029700701,O'Neal  Slam Dunk (24 PTS),,4:38,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,63 - 78,15,,5:28 AM
+291,1,2,316,0029700701,,,4:20,3,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Williams 16' Jump Shot,5:28 AM
+292,0,4,317,0029700701,O'Neal REBOUND (Off:0 Def:5),,4:17,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:28 AM
+293,1,1,318,0029700701,Bryant 12' Jump Shot (4 PTS),,4:11,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,63 - 80,17,,5:28 AM
+294,2,1,319,0029700701,,,3:57,3,5,5,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,65 - 80,15,Smith 13' Running Jump Shot (19 PTS) (Ferrell 4 AST),5:28 AM
+295,1,6,320,0029700701,,,3:48,3,5,0,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Ferrell P.FOUL (P3.T2),5:29 AM
+296,6,7,321,0029700701,,,3:41,3,5,0,1,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Williams Violation:Double Lane,5:29 AM
+297,1,1,322,0029700701,Bryant 21' Jump Shot (6 PTS) (Van Exel 11 AST),,3:33,3,4,4,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,65 - 82,17,,5:29 AM
+298,1,2,323,0029700701,,,3:10,3,5,0,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Ferrell 20' Jump Shot,5:30 AM
+299,0,4,324,0029700701,Van Exel REBOUND (Off:0 Def:2),,3:08,3,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:30 AM
+300,2,6,325,0029700701,,,3:05,3,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Smith S.FOUL (P2.T3),5:30 AM
+301,0,8,326,0029700701,,,3:05,3,5,5,0,273,Duane Ferrell,GSW,Golden State,1610612744.0,Warriors,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Delk FOR Ferrell,5:30 AM
+302,11,3,327,0029700701,MISS Fox Free Throw 1 of 2,,3:05,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:30 AM
+303,0,4,328,0029700701,LAKERS Rebound,,3:05,3,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:30 AM
+304,12,3,329,0029700701,Fox Free Throw 2 of 2 (11 PTS),,3:05,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,65 - 83,18,,5:30 AM
+305,8,1,330,0029700701,,,2:52,3,5,5,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,0,,,,,,67 - 83,16,Vaughn  Slam Dunk (4 PTS) (Spencer 1 AST),5:31 AM
+306,4,5,331,0029700701,Bryant Traveling Turnover (P2.T10),,2:44,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:31 AM
+307,1,2,332,0029700701,,,2:34,3,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Smith 20' Jump Shot,5:31 AM
+308,0,4,333,0029700701,LAKERS Rebound,,2:32,3,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:31 AM
+309,1,5,334,0029700701,Van Exel Bad Pass Turnover (P1.T11),,2:22,3,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:32 AM
+310,1,2,335,0029700701,,,2:11,3,5,0,0,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Spencer 11' Jump Shot,5:32 AM
+311,0,4,336,0029700701,Fox REBOUND (Off:2 Def:3),,2:09,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:32 AM
+312,1,2,337,0029700701,MISS Fox 15' Jump Shot,,2:03,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:32 AM
+313,0,4,338,0029700701,,,2:00,3,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn REBOUND (Off:0 Def:3),5:32 AM
+314,1,2,339,0029700701,,,1:56,3,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Williams 13' Jump Shot,5:32 AM
+315,0,4,341,0029700701,,,1:53,3,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:3),5:32 AM
+316,5,1,340,0029700701,,,1:53,3,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,69 - 83,14,Smith  Layup (21 PTS),5:32 AM
+317,1,2,342,0029700701,MISS Bryant 16' Jump Shot,,1:37,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:32 AM
+318,0,4,343,0029700701,,,1:35,3,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn REBOUND (Off:0 Def:4),5:32 AM
+319,3,1,344,0029700701,,,1:24,3,5,5,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,71 - 83,12,Vaughn 7' Hook Shot (6 PTS) (Smith 1 AST),5:33 AM
+320,1,9,345,0029700701,LAKERS Timeout: Regular (Full 3 Short 1),,1:14,3,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:33 AM
+321,0,8,347,0029700701,SUB: Fisher FOR Van Exel,,1:14,3,4,4,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:35 AM
+322,0,8,348,0029700701,SUB: Campbell FOR O'Neal,,1:14,3,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:35 AM
+323,0,8,349,0029700701,,,1:14,3,5,5,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Dampier FOR Smith,5:35 AM
+324,0,8,350,0029700701,,,1:14,3,5,5,0,280,Felton Spencer,GSW,Golden State,1610612744.0,Warriors,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Marshall FOR Spencer,5:35 AM
+325,1,2,351,0029700701,MISS Bryant 13' Jump Shot,,0:59,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:36 AM
+326,0,4,352,0029700701,,,0:56,3,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Marshall REBOUND (Off:0 Def:4),5:36 AM
+327,1,6,353,0029700701,Campbell P.FOUL (P1.T4),,0:47,3,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:36 AM
+328,1,2,354,0029700701,,,0:43,3,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Marshall 17' Jump Shot,5:36 AM
+329,0,4,355,0029700701,Fisher REBOUND (Off:0 Def:1),,0:40,3,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:36 AM
+330,2,6,356,0029700701,,,0:39,3,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Williams S.FOUL (P2.T4),5:36 AM
+331,11,3,357,0029700701,Fox Free Throw 1 of 2 (12 PTS),,0:39,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,71 - 84,13,,5:36 AM
+332,12,3,358,0029700701,Fox Free Throw 2 of 2 (13 PTS),,0:39,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,71 - 85,14,,5:37 AM
+333,1,2,359,0029700701,Campbell BLOCK (1 BLK),,0:27,3,5,0,4,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Williams 7' Jump Shot,5:37 AM
+334,0,4,360,0029700701,Fisher REBOUND (Off:0 Def:2),,0:25,3,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:37 AM
+335,11,5,361,0029700701,LAKERS Turnover: Shot Clock (T#12),,0:02,3,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:37 AM
+336,1,1,362,0029700701,,,0:00,3,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,74 - 85,11,Delk 49' 3PT Jump Shot (20 PTS),5:38 AM
+337,0,13,363,0029700701,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,74 - 85,11,,5:38 AM
+338,0,12,365,0029700701,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,74 - 85,11,,5:41 AM
+339,1,6,366,0029700701,,,11:49,4,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Williams P.FOUL (P3.T1),5:41 AM
+340,1,2,367,0029700701,MISS Campbell 6' Jump Shot,,11:34,4,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:42 AM
+341,0,4,368,0029700701,,,11:32,4,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn REBOUND (Off:0 Def:5),5:42 AM
+342,1,1,369,0029700701,,,11:13,4,5,5,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,76 - 85,9,Marshall 21' Jump Shot (9 PTS) (Dampier 2 AST),5:42 AM
+343,1,5,370,0029700701,Bryant Bad Pass Turnover (P3.T13),,11:00,4,4,5,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Delk STEAL (4 STL),5:42 AM
+344,8,1,371,0029700701,,,10:54,4,5,5,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,78 - 85,7,Dampier  Slam Dunk (4 PTS) (Delk 6 AST),5:42 AM
+345,1,9,372,0029700701,LAKERS Timeout: Regular (Full 4 Short 1),,10:46,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:43 AM
+346,0,8,374,0029700701,SUB: Horry FOR Blount,,10:46,4,4,4,0,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:45 AM
+347,1,2,376,0029700701,MISS Campbell 14' Jump Shot,,10:36,4,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:45 AM
+348,0,4,377,0029700701,,,10:34,4,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn REBOUND (Off:0 Def:6),5:45 AM
+349,1,6,378,0029700701,Bryant P.FOUL (P1.T1),,10:29,4,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:45 AM
+350,1,2,379,0029700701,,,10:21,4,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Williams 12' Jump Shot,5:46 AM
+351,0,4,381,0029700701,,,10:19,4,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Dampier REBOUND (Off:2 Def:2),5:46 AM
+352,4,2,380,0029700701,,,10:19,4,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Dampier  Tip Shot,5:46 AM
+353,0,4,382,0029700701,,,10:16,4,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:1 Def:0),5:46 AM
+354,2,5,383,0029700701,,,10:16,4,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Williams Lost Ball Turnover (P1.T11),5:46 AM
+355,6,2,384,0029700701,MISS Fox  Driving Layup,,9:56,4,4,0,5,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,,,Marshall BLOCK (3 BLK),5:46 AM
+356,0,4,386,0029700701,Fox REBOUND (Off:3 Def:3),,9:53,4,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:46 AM
+357,1,1,385,0029700701,Fox 11' Jump Shot (15 PTS),,9:53,4,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,78 - 87,9,,5:46 AM
+358,1,1,387,0029700701,,,9:38,4,5,5,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,80 - 87,7,Vaughn 21' Jump Shot (8 PTS) (Delk 7 AST),5:47 AM
+359,1,6,388,0029700701,,,9:24,4,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Marshall P.FOUL (P3.T2),5:47 AM
+360,1,2,389,0029700701,MISS Horry 7' Jump Shot,,9:10,4,4,0,5,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,,,Dampier BLOCK (2 BLK),5:47 AM
+361,0,4,390,0029700701,,,9:06,4,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn REBOUND (Off:0 Def:7),5:47 AM
+362,3,5,391,0029700701,,,9:06,4,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn Out Of Bounds Turnover (P3.T12),5:48 AM
+363,0,8,392,0029700701,SUB: O'Neal FOR Campbell,,9:06,4,4,4,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:48 AM
+364,2,2,393,0029700701,MISS Fisher 6' Running Jump Shot,,8:58,4,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:48 AM
+365,0,4,394,0029700701,,,8:54,4,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn REBOUND (Off:0 Def:8),5:48 AM
+366,2,1,395,0029700701,,,8:51,4,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,82 - 87,5,Delk 14' Running Jump Shot (22 PTS),5:48 AM
+367,2,6,396,0029700701,,,8:28,4,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Dampier S.FOUL (P3.T3),5:49 AM
+368,0,8,397,0029700701,SUB: Van Exel FOR Fisher,,8:28,4,4,4,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:49 AM
+369,0,8,398,0029700701,SUB: Barry FOR Bryant,,8:28,4,4,4,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:49 AM
+370,11,3,399,0029700701,MISS O'Neal Free Throw 1 of 2,,8:28,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:49 AM
+371,0,4,400,0029700701,LAKERS Rebound,,8:28,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:49 AM
+372,12,3,401,0029700701,MISS O'Neal Free Throw 2 of 2,,8:28,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:49 AM
+373,0,4,402,0029700701,,,8:27,4,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn REBOUND (Off:0 Def:9),5:50 AM
+374,1,6,403,0029700701,Van Exel P.FOUL (P3.T2),,8:15,4,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:50 AM
+375,1,6,404,0029700701,Fox P.FOUL (P3.T3),,8:10,4,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:50 AM
+376,1,2,405,0029700701,,,8:00,4,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Marshall 16' Jump Shot,5:51 AM
+377,0,4,406,0029700701,Van Exel REBOUND (Off:0 Def:3),,7:57,4,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:51 AM
+378,2,1,407,0029700701,Barry 20' Running Jump Shot (7 PTS) (Van Exel 12 AST),,7:53,4,4,4,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,82 - 89,7,,5:51 AM
+379,1,2,408,0029700701,,,7:34,4,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Dampier 8' Jump Shot,5:51 AM
+380,0,4,410,0029700701,,,7:31,4,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn REBOUND (Off:1 Def:9),5:51 AM
+381,4,1,409,0029700701,,,7:31,4,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,84 - 89,5,Vaughn  Tip Shot (10 PTS),5:51 AM
+382,5,1,411,0029700701,O'Neal  Layup (26 PTS) (Van Exel 13 AST),,7:08,4,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,84 - 91,7,,5:51 AM
+383,5,2,412,0029700701,,,6:48,4,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Vaughn  Layup,5:52 AM
+384,0,4,413,0029700701,O'Neal REBOUND (Off:0 Def:6),,6:44,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:52 AM
+385,6,2,414,0029700701,MISS Van Exel  Driving Layup,,6:41,4,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:52 AM
+386,0,4,415,0029700701,,,6:38,4,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Marshall REBOUND (Off:0 Def:5),5:52 AM
+387,6,1,416,0029700701,,,6:34,4,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,86 - 91,5,Marshall  Driving Layup (11 PTS),5:52 AM
+388,3,2,417,0029700701,MISS O'Neal 7' Hook Shot,,6:18,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:52 AM
+389,0,4,418,0029700701,,,6:15,4,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn REBOUND (Off:1 Def:10),5:52 AM
+390,6,2,419,0029700701,,,6:04,4,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Delk  Driving Layup,5:53 AM
+391,0,4,421,0029700701,LAKERS Rebound,,6:01,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:53 AM
+392,0,8,420,0029700701,,,6:01,4,5,5,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Smith FOR Vaughn,5:53 AM
+393,1,9,422,0029700701,,,6:01,4,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Timeout: Regular (Reg.5 Short 1),5:53 AM
+394,0,10,427,0029700701,Jump Ball Horry vs. Marshall: Tip to Fox,,6:01,4,4,5,4,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,,,,5:56 AM
+395,3,2,429,0029700701,MISS O'Neal 6' Hook Shot,,5:44,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:56 AM
+396,0,4,430,0029700701,,,5:40,4,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Delk REBOUND (Off:1 Def:2),5:56 AM
+397,1,2,431,0029700701,,,5:36,4,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Smith 10' Jump Shot,5:56 AM
+398,0,4,432,0029700701,O'Neal REBOUND (Off:0 Def:7),,5:34,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:56 AM
+399,8,1,433,0029700701,O'Neal  Slam Dunk (28 PTS) (Barry 6 AST),,5:31,4,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,86 - 93,7,,5:56 AM
+400,3,2,434,0029700701,O'Neal BLOCK (4 BLK),,5:12,4,5,0,4,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Marshall 5' Hook Shot,5:56 AM
+401,0,4,435,0029700701,LAKERS Rebound,,5:11,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:56 AM
+402,1,2,436,0029700701,MISS Fox 24' 3PT Jump Shot,,4:56,4,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:57 AM
+403,0,4,437,0029700701,O'Neal REBOUND (Off:1 Def:7),,4:54,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:57 AM
+404,2,6,438,0029700701,,,4:54,4,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Dampier S.FOUL (P4.T4),5:57 AM
+405,11,3,439,0029700701,O'Neal Free Throw 1 of 2 (29 PTS),,4:54,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,86 - 94,8,,5:57 AM
+406,12,3,440,0029700701,MISS O'Neal Free Throw 2 of 2,,4:54,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:57 AM
+407,0,4,441,0029700701,,,4:51,4,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Dampier REBOUND (Off:2 Def:3),5:58 AM
+408,1,2,443,0029700701,,,4:39,4,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Dampier 15' Jump Shot,5:58 AM
+409,0,4,444,0029700701,O'Neal REBOUND (Off:1 Def:8),,4:36,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:58 AM
+410,3,2,446,0029700701,MISS O'Neal 5' Hook Shot,,4:21,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:58 AM
+411,0,4,447,0029700701,,,4:18,4,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:4),5:58 AM
+412,2,6,449,0029700701,O'Neal S.FOUL (P2.T4),,4:12,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:58 AM
+413,11,3,451,0029700701,,,4:12,4,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,87 - 94,7,Marshall Free Throw 1 of 2 (12 PTS),5:59 AM
+414,0,8,452,0029700701,SUB: Bryant FOR Fox,,4:12,4,4,4,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:59 AM
+415,12,3,453,0029700701,,,4:12,4,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,88 - 94,6,Marshall Free Throw 2 of 2 (13 PTS),5:59 AM
+416,5,1,454,0029700701,O'Neal  Layup (31 PTS) (Horry 2 AST),,4:00,4,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,88 - 96,8,,5:59 AM
+417,2,6,455,0029700701,,,4:00,4,5,0,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Dampier S.FOUL (P5.PN),5:59 AM
+418,10,3,456,0029700701,MISS O'Neal Free Throw 1 of 1,,4:00,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:00 AM
+419,0,4,457,0029700701,,,3:58,4,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Rebound,6:00 AM
+420,0,8,458,0029700701,,,3:58,4,5,5,0,956,Erick Dampier,GSW,Golden State,1610612744.0,Warriors,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,SUB: Vaughn FOR Dampier,6:00 AM
+421,6,2,459,0029700701,,,3:46,4,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Smith  Driving Layup,6:00 AM
+422,0,4,460,0029700701,Horry REBOUND (Off:5 Def:3),,3:44,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:00 AM
+423,1,6,461,0029700701,,,3:44,4,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Marshall P.FOUL (P4.PN),6:00 AM
+424,11,3,462,0029700701,MISS Horry Free Throw 1 of 2,,3:44,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:01 AM
+425,0,4,463,0029700701,LAKERS Rebound,,3:44,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,6:01 AM
+426,12,3,464,0029700701,MISS Horry Free Throw 2 of 2,,3:44,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:01 AM
+427,0,4,465,0029700701,Bryant REBOUND (Off:2 Def:2),,3:43,4,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:01 AM
+428,2,2,466,0029700701,MISS Van Exel 7' Running Jump Shot,,3:26,4,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:01 AM
+429,0,4,467,0029700701,,,3:21,4,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Delk REBOUND (Off:1 Def:3),6:02 AM
+430,6,2,468,0029700701,,,3:18,4,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Delk  Driving Layup,6:02 AM
+431,0,4,470,0029700701,,,3:16,4,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:2 Def:0),6:02 AM
+432,5,2,469,0029700701,,,3:16,4,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Williams  Layup,6:02 AM
+433,0,4,472,0029700701,,,3:14,4,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Williams REBOUND (Off:3 Def:0),6:02 AM
+434,4,2,471,0029700701,,,3:14,4,5,0,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Williams  Tip Shot,6:02 AM
+435,0,4,473,0029700701,O'Neal REBOUND (Off:1 Def:9),,3:11,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:02 AM
+436,8,1,474,0029700701,Bryant  Slam Dunk (8 PTS) (Barry 7 AST),,3:07,4,4,4,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,88 - 98,10,,6:02 AM
+437,1,9,475,0029700701,,,3:02,4,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Timeout: Regular (Reg.6 Short 1),6:02 AM
+438,1,2,478,0029700701,Horry BLOCK (1 BLK),,2:54,4,5,0,4,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Smith 5' Jump Shot,6:04 AM
+439,0,4,480,0029700701,,,2:51,4,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Smith REBOUND (Off:2 Def:4),6:04 AM
+440,1,1,479,0029700701,,,2:51,4,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,90 - 98,8,Smith 6' Jump Shot (23 PTS),6:04 AM
+441,2,6,481,0029700701,,,2:32,4,5,0,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Smith S.FOUL (P3.PN),6:05 AM
+442,11,3,482,0029700701,O'Neal Free Throw 1 of 2 (32 PTS),,2:32,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,90 - 99,9,,6:05 AM
+443,12,3,483,0029700701,O'Neal Free Throw 2 of 2 (33 PTS),,2:32,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,90 - 100,10,,6:05 AM
+444,1,1,484,0029700701,,,2:14,4,5,5,0,693,Joe Smith,GSW,Golden State,1610612744.0,Warriors,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,92 - 100,8,Smith 17' Jump Shot (25 PTS) (Vaughn 2 AST),6:06 AM
+445,1,5,485,0029700701,O'Neal Bad Pass Turnover (P2.T14),,1:55,4,4,5,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Vaughn STEAL (1 STL),6:06 AM
+446,6,1,486,0029700701,,,1:48,4,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,94 - 100,6,Marshall  Driving Layup (15 PTS),6:06 AM
+447,1,5,487,0029700701,Horry Bad Pass Turnover (P4.T15),,1:29,4,4,5,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Williams STEAL (1 STL),6:07 AM
+448,1,2,488,0029700701,,,1:14,4,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Marshall 25' 3PT Jump Shot,6:07 AM
+449,0,4,489,0029700701,,,1:11,4,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn REBOUND (Off:2 Def:10),6:07 AM
+450,1,2,490,0029700701,,,1:07,4,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Delk 27' 3PT Jump Shot,6:07 AM
+451,0,4,491,0029700701,Barry REBOUND (Off:0 Def:6),,1:04,4,4,0,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:07 AM
+452,8,1,492,0029700701,Bryant  Slam Dunk (10 PTS) (Van Exel 14 AST),,1:02,4,4,4,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,94 - 102,8,,6:07 AM
+453,6,2,493,0029700701,,,0:37,4,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Delk  Driving Layup,6:08 AM
+454,0,4,494,0029700701,,,0:35,4,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Marshall REBOUND (Off:1 Def:5),6:08 AM
+455,5,2,495,0029700701,O'Neal BLOCK (5 BLK),,0:35,4,5,0,4,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Delk  Layup,6:08 AM
+456,0,4,496,0029700701,,,0:35,4,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Rebound,6:08 AM
+457,1,2,497,0029700701,,,0:31,4,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Vaughn 16' Jump Shot,6:08 AM
+458,0,4,498,0029700701,,,0:29,4,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Rebound,6:08 AM
+459,2,9,499,0029700701,,,0:29,4,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Timeout: Short (Reg.6 Short 2),6:08 AM
+460,1,1,501,0029700701,,,0:27,4,5,5,0,1585,Brandon Williams,GSW,Golden State,1610612744.0,Warriors,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,97 - 102,5,Williams 24' 3PT Jump Shot (9 PTS) (Marshall 3 AST),6:09 AM
+461,1,6,502,0029700701,,,0:25,4,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Marshall P.FOUL (P5.PN),6:09 AM
+462,11,3,503,0029700701,MISS Bryant Free Throw 1 of 2,,0:25,4,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:09 AM
+463,0,4,504,0029700701,LAKERS Rebound,,0:25,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,6:09 AM
+464,12,3,505,0029700701,Bryant Free Throw 2 of 2 (11 PTS),,0:25,4,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,97 - 103,6,,6:10 AM
+465,1,9,506,0029700701,,,0:25,4,3,0,0,1610612744,,,,,,0,,,,,,0,,,,,,,,Warriors Timeout: Regular (Reg.7 Short 2),6:10 AM
+466,1,7,507,0029700701,LAKERS Violation: Delay of game Violation,,0:25,4,2,0,1,1610612747,,,,,,0,,,,,,0,,,,,,,,,6:13 AM
+467,1,5,508,0029700701,Barry STEAL (3 STL),,0:24,4,5,4,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Vaughn Bad Pass Turnover (P4.T13),6:13 AM
+468,1,6,509,0029700701,,,0:14,4,5,0,0,710,David Vaughn,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,Vaughn P.FOUL (P2.PN),6:13 AM
+469,11,3,510,0029700701,Barry Free Throw 1 of 2 (8 PTS),,0:14,4,4,0,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,97 - 104,7,,6:13 AM
+470,12,3,511,0029700701,Barry Free Throw 2 of 2 (9 PTS),,0:14,4,4,0,0,468,Jon Barry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,97 - 105,8,,6:14 AM
+471,1,2,512,0029700701,,,0:09,4,5,0,0,960,Tony Delk,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,,,MISS Delk 25' 3PT Jump Shot,6:14 AM
+472,0,4,513,0029700701,Bryant REBOUND (Off:2 Def:3),,0:05,4,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:14 AM
+473,1,5,514,0029700701,Bryant Bad Pass Turnover (P4.T16),,0:04,4,4,5,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,,,Marshall STEAL (1 STL),6:14 AM
+474,8,1,515,0029700701,,,0:04,4,5,0,0,923,Donyell Marshall,GSW,Golden State,1610612744.0,Warriors,0,,,,,,0,,,,,,99 - 105,6,Marshall  Slam Dunk (17 PTS),6:14 AM
+475,0,13,516,0029700701,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,99 - 105,6,,6:14 AM

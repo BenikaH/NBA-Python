@@ -1,0 +1,465 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020500777,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:42 PM
+1,0,10,1,0020500777,Jump Ball Chandler vs. Dalembert: Tip to Harrington,,12:00,1,4,5,4,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,,,,7:43 PM
+2,1,5,2,0020500777,Deng Bad Pass Turnover (P1.T1),,11:52,1,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:43 PM
+3,1,5,3,0020500777,Gordon STEAL (1 STL),,11:49,1,5,4,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Ollie Bad Pass Turnover (P1.T1),7:43 PM
+4,2,6,4,0020500777,,,11:49,1,5,4,1,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Iguodala S.FOUL (P1.T1),7:43 PM
+5,11,3,5,0020500777,Gordon Free Throw 1 of 2 (1 PTS),,11:49,1,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,0 - 1,1,,7:43 PM
+6,12,3,6,0020500777,Gordon Free Throw 2 of 2 (2 PTS),,11:49,1,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,0 - 2,2,,7:44 PM
+7,2,6,7,0020500777,Chandler S.FOUL (P1.T1),,11:29,1,4,5,1,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:44 PM
+8,11,3,8,0020500777,,,11:29,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,1 - 2,1,Dalembert Free Throw 1 of 2 (1 PTS),7:45 PM
+9,12,3,9,0020500777,,,11:29,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,2 - 2,TIE,Dalembert Free Throw 2 of 2 (2 PTS),7:45 PM
+10,1,1,10,0020500777,Hinrich 26' 3PT Jump Shot (3 PTS) (Harrington 1 AST),,11:06,1,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2 - 5,3,,7:45 PM
+11,2,6,11,0020500777,Harrington S.FOUL (P1.T2),,10:52,1,4,5,1,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:46 PM
+12,11,3,12,0020500777,,,10:52,1,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,3 - 5,2,Ollie Free Throw 1 of 2 (1 PTS),7:46 PM
+13,12,3,13,0020500777,,,10:52,1,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,4 - 5,1,Ollie Free Throw 2 of 2 (2 PTS),7:46 PM
+14,4,6,14,0020500777,Harrington OFF.Foul (P2),,10:43,1,4,5,1,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:47 PM
+15,5,5,15,0020500777,Harrington Foul Turnover (P1.T2),,10:43,1,4,0,1,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:47 PM
+16,0,8,16,0020500777,SUB: Songaila FOR Harrington,,10:43,1,4,4,0,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:47 PM
+17,1,2,17,0020500777,,,10:27,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Dalembert 7' Jump Shot,7:47 PM
+18,0,4,18,0020500777,Songaila REBOUND (Off:0 Def:1),,10:25,1,4,0,0,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:48 PM
+19,3,2,19,0020500777,MISS Chandler 8' Hook Shot,,10:18,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:48 PM
+20,0,4,20,0020500777,Chandler REBOUND (Off:1 Def:0),,10:17,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:48 PM
+21,2,6,21,0020500777,,,10:16,1,5,4,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Dalembert S.FOUL (P1.T2),7:48 PM
+22,11,3,22,0020500777,Chandler Free Throw 1 of 2 (1 PTS),,10:16,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,4 - 6,2,,7:48 PM
+23,12,3,23,0020500777,Chandler Free Throw 2 of 2 (2 PTS),,10:16,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,4 - 7,3,,7:48 PM
+24,1,2,24,0020500777,,,10:02,1,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Webber 16' Jump Shot,7:49 PM
+25,0,4,25,0020500777,Hinrich REBOUND (Off:0 Def:1),,10:01,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:49 PM
+26,1,1,26,0020500777,Songaila 23' Jump Shot (2 PTS) (Gordon 1 AST),,9:53,1,4,4,0,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,4 - 9,5,,7:49 PM
+27,1,2,27,0020500777,,,9:42,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iverson 17' Jump Shot,7:49 PM
+28,0,4,28,0020500777,Songaila REBOUND (Off:0 Def:2),,9:40,1,4,0,0,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:49 PM
+29,1,2,29,0020500777,MISS Hinrich 16' Jump Shot,,9:34,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:49 PM
+30,0,4,30,0020500777,Songaila REBOUND (Off:1 Def:2),,9:32,1,4,0,0,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:49 PM
+31,1,1,31,0020500777,Songaila 20' Jump Shot (4 PTS) (Hinrich 1 AST),,9:25,1,4,4,0,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,4 - 11,7,,7:49 PM
+32,1,2,32,0020500777,,,9:07,1,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Webber 15' Jump Shot,7:50 PM
+33,0,4,33,0020500777,Chandler REBOUND (Off:1 Def:1),,9:06,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:50 PM
+34,1,2,34,0020500777,MISS Hinrich 24' 3PT Jump Shot,,8:56,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:50 PM
+35,0,4,35,0020500777,,,8:55,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:0 Def:1),7:50 PM
+36,1,1,36,0020500777,,,8:47,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,6 - 11,5,Iverson 16' Jump Shot (2 PTS),7:50 PM
+37,2,6,37,0020500777,,,8:32,1,5,4,1,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Iverson S.FOUL (P1.T3),7:50 PM
+38,11,3,38,0020500777,Gordon Free Throw 1 of 2 (3 PTS),,8:32,1,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,6 - 12,6,,7:50 PM
+39,12,3,39,0020500777,Gordon Free Throw 2 of 2 (4 PTS),,8:32,1,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,6 - 13,7,,7:51 PM
+40,2,6,40,0020500777,Deng S.FOUL (P1.T3),,8:14,1,4,5,1,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:51 PM
+41,11,3,41,0020500777,,,8:14,1,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,7 - 13,6,Iguodala Free Throw 1 of 2 (1 PTS),7:52 PM
+42,12,3,42,0020500777,,,8:14,1,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,8 - 13,5,Iguodala Free Throw 2 of 2 (2 PTS),7:52 PM
+43,1,2,43,0020500777,MISS Gordon 15' Jump Shot,,8:04,1,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:52 PM
+44,0,4,44,0020500777,Chandler REBOUND (Off:2 Def:1),,8:01,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:52 PM
+45,1,2,45,0020500777,MISS Songaila 20' Jump Shot,,7:58,1,4,0,0,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:53 PM
+46,0,4,46,0020500777,,,7:57,1,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Ollie REBOUND (Off:0 Def:1),7:53 PM
+47,2,5,47,0020500777,Gordon STEAL (2 STL),,7:51,1,5,4,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Ollie Lost Ball Turnover (P2.T2),7:53 PM
+48,50,1,48,0020500777,Deng  Running Dunk (2 PTS) (Gordon 2 AST),,7:45,1,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,8 - 15,7,,7:53 PM
+49,1,1,49,0020500777,,,7:30,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,10 - 15,5,Iverson 19' Jump Shot (4 PTS),7:53 PM
+50,4,6,50,0020500777,Gordon OFF.Foul (P1),,7:21,1,4,5,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:53 PM
+51,5,5,51,0020500777,Gordon Foul Turnover (P1.T3),,7:21,1,4,0,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:53 PM
+52,1,6,52,0020500777,Hinrich P.FOUL (P1.T4),,7:10,1,4,5,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:54 PM
+53,1,2,53,0020500777,,,7:04,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iverson 18' Jump Shot,7:54 PM
+54,0,4,54,0020500777,BULLS Rebound,,7:03,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,7:54 PM
+55,41,1,55,0020500777,Gordon  Running Layup (6 PTS),,6:52,1,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,10 - 17,7,,7:54 PM
+56,2,6,56,0020500777,Songaila S.FOUL (P1.PN),,6:42,1,4,5,1,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,7:55 PM
+57,11,3,57,0020500777,,,6:42,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,11 - 17,6,Iverson Free Throw 1 of 2 (5 PTS),7:55 PM
+58,0,8,58,0020500777,SUB: Allen FOR Songaila,,6:42,1,4,4,0,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,7:55 PM
+59,12,3,59,0020500777,,,6:42,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,12 - 17,5,Iverson Free Throw 2 of 2 (6 PTS),7:55 PM
+60,1,6,60,0020500777,,,6:34,1,5,4,1,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Ollie P.FOUL (P1.T4),7:56 PM
+61,5,1,61,0020500777,Deng  Layup (4 PTS) (Gordon 3 AST),,6:22,1,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,12 - 19,7,,7:56 PM
+62,5,2,62,0020500777,Chandler BLOCK (1 BLK),,6:06,1,5,0,4,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,,,MISS Webber  Layup,7:56 PM
+63,0,4,63,0020500777,Chandler REBOUND (Off:2 Def:2),,6:04,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,7:56 PM
+64,5,2,64,0020500777,MISS Allen  Layup,,5:51,1,4,0,5,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,,,Dalembert BLOCK (1 BLK),7:57 PM
+65,0,4,65,0020500777,BULLS Rebound,,5:51,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,7:57 PM
+66,1,9,66,0020500777,BULLS Timeout: Regular (Full 1 Short 0),,5:51,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,7:57 PM
+67,5,2,68,0020500777,MISS Chandler  Layup,,5:42,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:00 PM
+68,0,4,70,0020500777,Chandler REBOUND (Off:3 Def:2),,5:41,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:00 PM
+69,4,1,69,0020500777,Chandler  Tip Shot (4 PTS),,5:41,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,12 - 21,9,,8:00 PM
+70,1,2,71,0020500777,,,5:27,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iverson 20' Jump Shot,8:00 PM
+71,0,4,72,0020500777,Chandler REBOUND (Off:3 Def:3),,5:26,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:00 PM
+72,5,2,73,0020500777,MISS Hinrich  Layup,,5:17,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:01 PM
+73,0,4,75,0020500777,Chandler REBOUND (Off:4 Def:3),,5:14,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:01 PM
+74,4,2,74,0020500777,MISS Chandler  Tip Shot,,5:14,1,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:01 PM
+75,0,4,76,0020500777,,,5:12,1,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Webber REBOUND (Off:0 Def:1),8:01 PM
+76,7,1,77,0020500777,,,5:09,1,5,5,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,14 - 21,7,Dalembert  Dunk (4 PTS) (Iguodala 1 AST),8:01 PM
+77,5,1,78,0020500777,Gordon  Layup (8 PTS) (Chandler 1 AST),,4:53,1,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,14 - 23,9,,8:01 PM
+78,1,2,79,0020500777,,,4:35,1,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Webber 12' Jump Shot,8:01 PM
+79,0,4,80,0020500777,Gordon REBOUND (Off:0 Def:1),,4:33,1,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:01 PM
+80,66,1,81,0020500777,Gordon 15' Jump Bank Shot (10 PTS),,4:26,1,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,14 - 25,11,,8:01 PM
+81,1,5,82,0020500777,,,4:10,1,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert Bad Pass Turnover (P1.T3),8:02 PM
+82,0,8,83,0020500777,SUB: Sweetney FOR Chandler,,4:10,1,4,4,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:02 PM
+83,0,8,84,0020500777,SUB: Duhon FOR Hinrich,,4:10,1,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:02 PM
+84,0,8,85,0020500777,,,4:10,1,5,5,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,2214,Michael Bradley,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Bradley FOR Webber,8:02 PM
+85,5,1,86,0020500777,Deng  Layup (6 PTS) (Gordon 4 AST),,3:55,1,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,14 - 27,13,,8:02 PM
+86,1,9,87,0020500777,,,3:47,1,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.1 Short 0),8:02 PM
+87,0,8,89,0020500777,,,3:47,1,5,5,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Korver FOR Ollie,8:05 PM
+88,1,5,90,0020500777,Sweetney STEAL (1 STL),,3:33,1,5,4,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Iguodala Bad Pass Turnover (P1.T4),8:06 PM
+89,1,1,91,0020500777,Gordon 14' Jump Shot (12 PTS) (Duhon 1 AST),,3:23,1,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,14 - 29,15,,8:06 PM
+90,5,1,92,0020500777,,,3:02,1,5,5,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,2214,Michael Bradley,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,16 - 29,13,Iguodala  Layup (4 PTS) (Bradley 1 AST),8:07 PM
+91,5,2,93,0020500777,MISS Sweetney  Layup,,2:47,1,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:07 PM
+92,0,4,94,0020500777,Deng REBOUND (Off:1 Def:0),,2:41,1,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:07 PM
+93,1,1,95,0020500777,Allen 16' Jump Shot (2 PTS) (Duhon 2 AST),,2:34,1,4,4,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,16 - 31,15,,8:07 PM
+94,1,1,96,0020500777,,,2:16,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,18 - 31,13,Iverson 15' Jump Shot (8 PTS),8:07 PM
+95,5,1,97,0020500777,Deng  Layup (8 PTS) (Gordon 5 AST),,1:59,1,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,18 - 33,15,,8:08 PM
+96,1,6,98,0020500777,Gordon P.FOUL (P2.PN),,1:46,1,4,5,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:08 PM
+97,0,8,99,0020500777,,,1:46,1,5,5,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Hunter FOR Dalembert,8:08 PM
+98,0,8,100,0020500777,SUB: Nocioni FOR Deng,,1:46,1,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:08 PM
+99,0,8,101,0020500777,SUB: Hinrich FOR Gordon,,1:46,1,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:08 PM
+100,11,3,102,0020500777,,,1:46,1,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,19 - 33,14,Iguodala Free Throw 1 of 2 (5 PTS),8:08 PM
+101,12,3,103,0020500777,,,1:46,1,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,20 - 33,13,Iguodala Free Throw 2 of 2 (6 PTS),8:08 PM
+102,4,5,104,0020500777,Hinrich Traveling Turnover (P1.T4),,1:32,1,4,0,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:09 PM
+103,1,7,105,0020500777,BULLS Violation: Delay of game Violation,,1:32,1,2,0,1,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:09 PM
+104,1,2,106,0020500777,,,1:16,1,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iguodala 14' Jump Shot,8:09 PM
+105,0,4,107,0020500777,Sweetney REBOUND (Off:0 Def:1),,1:15,1,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:09 PM
+106,3,2,108,0020500777,MISS Hinrich 8' Hook Shot,,0:56,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:10 PM
+107,0,4,109,0020500777,Sweetney REBOUND (Off:1 Def:1),,0:54,1,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:10 PM
+108,2,6,110,0020500777,,,0:54,1,5,4,1,2214,Michael Bradley,PHI,Philadelphia,1610612755.0,76ers,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Bradley S.FOUL (P1.PN),8:10 PM
+109,11,3,111,0020500777,Sweetney Free Throw 1 of 2 (1 PTS),,0:54,1,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,20 - 34,14,,8:10 PM
+110,0,8,112,0020500777,,,0:54,1,5,5,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Salmons FOR Iguodala,8:10 PM
+111,12,3,113,0020500777,Sweetney Free Throw 2 of 2 (2 PTS),,0:54,1,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,20 - 35,15,,8:10 PM
+112,1,6,114,0020500777,Allen P.FOUL (P1.PN),,0:42,1,4,5,1,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:11 PM
+113,11,3,115,0020500777,,,0:42,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,21 - 35,14,Iverson Free Throw 1 of 2 (9 PTS),8:11 PM
+114,12,3,116,0020500777,,,0:42,1,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,22 - 35,13,Iverson Free Throw 2 of 2 (10 PTS),8:11 PM
+115,1,6,117,0020500777,,,0:37,1,5,4,1,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Iverson P.FOUL (P2.PN),8:11 PM
+116,11,3,118,0020500777,MISS Duhon Free Throw 1 of 2,,0:37,1,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:12 PM
+117,1,4,119,0020500777,BULLS Rebound,,0:37,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:12 PM
+118,0,8,120,0020500777,,,0:37,1,5,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Ollie FOR Iverson,8:12 PM
+119,12,3,121,0020500777,Duhon Free Throw 2 of 2 (1 PTS),,0:37,1,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,22 - 36,14,,8:12 PM
+120,1,5,122,0020500777,Hinrich STEAL (1 STL),,0:21,1,5,4,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Salmons Bad Pass Turnover (P1.T5),8:12 PM
+121,1,1,123,0020500777,Allen 21' Jump Shot (4 PTS) (Duhon 3 AST),,0:02,1,4,4,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,22 - 38,16,,8:13 PM
+122,1,2,124,0020500777,,,0:00,1,5,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Salmons 40' 3PT Jump Shot,8:13 PM
+123,0,4,126,0020500777,,,0:00,1,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,8:13 PM
+124,0,13,125,0020500777,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,22 - 38,16,,8:13 PM
+125,0,12,128,0020500777,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,22 - 38,16,,8:16 PM
+126,1,2,130,0020500777,,,11:41,2,5,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Salmons 20' Jump Shot,8:17 PM
+127,0,4,131,0020500777,Hinrich REBOUND (Off:0 Def:2),,11:39,2,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:17 PM
+128,1,2,132,0020500777,MISS Sweetney 15' Jump Shot,,11:21,2,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:17 PM
+129,0,4,133,0020500777,,,11:20,2,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,8:17 PM
+130,5,2,134,0020500777,Sweetney BLOCK (1 BLK),,10:55,2,5,0,4,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,,,MISS Ollie  Layup,8:18 PM
+131,0,4,135,0020500777,Allen REBOUND (Off:0 Def:1),,10:52,2,4,0,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:18 PM
+132,1,1,136,0020500777,Nocioni 26' 3PT Jump Shot (3 PTS) (Duhon 4 AST),,10:46,2,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,22 - 41,19,,8:18 PM
+133,2,9,137,0020500777,,,10:38,2,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Short (Reg.1 Short 1),8:18 PM
+134,1,5,139,0020500777,Duhon STEAL (1 STL),,10:29,2,5,4,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Ollie Bad Pass Turnover (P3.T6),8:19 PM
+135,1,1,140,0020500777,Allen 18' Jump Shot (6 PTS) (Hinrich 2 AST),,10:12,2,4,4,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,22 - 43,21,,8:19 PM
+136,1,2,141,0020500777,,,9:55,2,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Korver 24' 3PT Jump Shot,8:20 PM
+137,0,4,142,0020500777,Sweetney REBOUND (Off:1 Def:2),,9:54,2,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:20 PM
+138,1,2,143,0020500777,MISS Allen 12' Jump Shot,,9:37,2,4,0,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:20 PM
+139,0,4,144,0020500777,Sweetney REBOUND (Off:2 Def:2),,9:35,2,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:20 PM
+140,40,5,145,0020500777,Sweetney Out of Bounds Lost Ball Turnover (P1.T5),,9:35,2,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:20 PM
+141,0,8,146,0020500777,,,9:35,2,5,5,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Barnes FOR Korver,8:20 PM
+142,0,8,147,0020500777,,,9:35,2,5,5,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Iverson FOR Ollie,8:20 PM
+143,1,1,148,0020500777,,,9:23,2,5,5,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,24 - 43,19,Salmons 23' Jump Shot (2 PTS) (Iverson 1 AST),8:21 PM
+144,1,2,149,0020500777,MISS Nocioni 24' 3PT Jump Shot,,8:58,2,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:21 PM
+145,0,4,150,0020500777,,,8:55,2,5,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Salmons REBOUND (Off:0 Def:1),8:21 PM
+146,1,2,151,0020500777,,,8:51,2,5,0,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Barnes 9' Jump Shot,8:21 PM
+147,0,4,152,0020500777,,,8:49,2,5,0,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Barnes REBOUND (Off:1 Def:0),8:21 PM
+148,1,2,153,0020500777,,,8:45,2,5,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Salmons 26' 3PT Jump Shot,8:21 PM
+149,0,4,154,0020500777,Sweetney REBOUND (Off:2 Def:3),,8:43,2,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:21 PM
+150,1,1,155,0020500777,Hinrich 21' Jump Shot (5 PTS) (Sweetney 1 AST),,8:31,2,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,24 - 45,21,,8:22 PM
+151,2,6,156,0020500777,,,8:31,2,5,4,1,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Salmons S.FOUL (P1.T1),8:22 PM
+152,1,9,158,0020500777,,,8:31,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:22 PM
+153,0,8,160,0020500777,SUB: Chandler FOR Allen,,8:31,2,4,4,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:24 PM
+154,0,8,161,0020500777,,,8:31,2,5,5,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Webber FOR Randolph,8:25 PM
+155,10,3,162,0020500777,Hinrich Free Throw 1 of 1 (6 PTS),,8:31,2,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,24 - 46,22,,8:25 PM
+156,1,1,163,0020500777,,,8:12,2,5,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,26 - 46,20,Salmons 7' Jump Shot (4 PTS),8:25 PM
+157,1,5,164,0020500777,Duhon Bad Pass Turnover (P1.T6),,8:04,2,4,5,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Barnes STEAL (1 STL),8:25 PM
+158,5,2,165,0020500777,,,8:00,2,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iverson  Layup,8:25 PM
+159,0,4,167,0020500777,,,7:58,2,5,0,0,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Hunter REBOUND (Off:1 Def:0),8:25 PM
+160,4,2,166,0020500777,,,7:58,2,5,0,0,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Hunter  Tip Shot,8:25 PM
+161,0,4,168,0020500777,Hinrich REBOUND (Off:0 Def:3),,7:57,2,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:26 PM
+162,5,2,169,0020500777,MISS Nocioni  Layup,,7:35,2,4,0,5,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,,,Hunter BLOCK (1 BLK),8:26 PM
+163,0,4,170,0020500777,,,7:32,2,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Webber REBOUND (Off:0 Def:2),8:26 PM
+164,5,2,171,0020500777,Sweetney BLOCK (2 BLK),,7:26,2,5,0,4,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,,,MISS Hunter  Layup,8:26 PM
+165,0,4,172,0020500777,Duhon REBOUND (Off:0 Def:1),,7:24,2,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:26 PM
+166,1,2,173,0020500777,MISS Duhon 13' Jump Shot,,7:20,2,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:26 PM
+167,0,4,174,0020500777,Chandler REBOUND (Off:5 Def:3),,7:19,2,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:26 PM
+168,5,1,175,0020500777,Chandler  Layup (6 PTS),,7:17,2,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,26 - 48,22,,8:26 PM
+169,5,1,176,0020500777,,,7:02,2,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,28 - 48,20,Webber  Layup (2 PTS),8:26 PM
+170,2,6,177,0020500777,Chandler S.FOUL (P2.T1),,7:02,2,4,5,1,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:26 PM
+171,0,8,178,0020500777,,,7:02,2,5,5,0,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Dalembert FOR Hunter,8:27 PM
+172,0,8,179,0020500777,,,7:02,2,5,5,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Iguodala FOR Barnes,8:27 PM
+173,0,8,180,0020500777,SUB: Songaila FOR Chandler,,7:02,2,4,4,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:27 PM
+174,10,3,181,0020500777,,,7:02,2,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,29 - 48,19,Webber Free Throw 1 of 1 (3 PTS),8:27 PM
+175,1,2,182,0020500777,MISS Hinrich 17' Jump Shot,,6:49,2,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:27 PM
+176,0,4,183,0020500777,,,6:48,2,5,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Salmons REBOUND (Off:0 Def:2),8:27 PM
+177,2,6,184,0020500777,Nocioni S.FOUL (P1.T2),,6:41,2,4,5,1,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:27 PM
+178,0,8,185,0020500777,SUB: Gordon FOR Duhon,,6:41,2,4,4,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:28 PM
+179,11,3,186,0020500777,,,6:41,2,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,30 - 48,18,Iverson Free Throw 1 of 2 (11 PTS),8:28 PM
+180,12,3,187,0020500777,,,6:41,2,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,31 - 48,17,Iverson Free Throw 2 of 2 (12 PTS),8:28 PM
+181,1,2,188,0020500777,MISS Gordon 24' 3PT Jump Shot,,6:20,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:28 PM
+182,0,4,189,0020500777,Sweetney REBOUND (Off:3 Def:3),,6:18,2,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:28 PM
+183,7,1,190,0020500777,Sweetney  Dunk (4 PTS),,6:17,2,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,31 - 50,19,,8:28 PM
+184,1,2,191,0020500777,,,6:06,2,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iverson 21' Jump Shot,8:29 PM
+185,0,4,192,0020500777,Nocioni REBOUND (Off:0 Def:1),,6:05,2,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:29 PM
+186,5,2,193,0020500777,MISS Songaila  Layup,,5:56,2,4,0,5,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,,,Dalembert BLOCK (2 BLK),8:29 PM
+187,0,4,194,0020500777,,,5:54,2,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:0 Def:2),8:29 PM
+188,4,5,195,0020500777,,,5:54,2,5,0,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert Traveling Turnover (P2.T7),8:29 PM
+189,1,9,196,0020500777,BULLS Timeout: Regular (Full 2 Short 0),,5:54,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:29 PM
+190,1,1,198,0020500777,Nocioni 24' 3PT Jump Shot (6 PTS) (Songaila 1 AST),,5:43,2,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,0,,,,,,31 - 53,22,,8:32 PM
+191,1,2,199,0020500777,,,5:25,2,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Webber 17' Jump Shot,8:33 PM
+192,0,4,200,0020500777,,,5:24,2,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,8:33 PM
+193,1,1,201,0020500777,,,5:15,2,5,5,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,33 - 53,20,Salmons 15' Jump Shot (6 PTS) (Iguodala 2 AST),8:33 PM
+194,1,5,202,0020500777,Hinrich Bad Pass Turnover (P2.T7),,4:51,2,4,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Iverson STEAL (1 STL),8:34 PM
+195,1,6,203,0020500777,Nocioni P.FOUL (P2.T3),,4:43,2,4,5,1,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:34 PM
+196,0,8,204,0020500777,,,4:43,2,5,5,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Barnes FOR Salmons,8:34 PM
+197,46,1,205,0020500777,,,4:36,2,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,35 - 53,18,Iverson 8' Running Jump Shot (14 PTS),8:34 PM
+198,5,2,206,0020500777,MISS Sweetney  Layup,,4:15,2,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:35 PM
+199,0,4,207,0020500777,,,4:13,2,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:0 Def:3),8:35 PM
+200,5,2,208,0020500777,,,4:04,2,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Dalembert  Layup,8:35 PM
+201,0,4,209,0020500777,BULLS Rebound,,4:03,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:35 PM
+202,3,6,210,0020500777,,,4:03,2,5,4,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Dalembert L.B.FOUL (P2.T2),8:35 PM
+203,1,2,211,0020500777,MISS Songaila 19' Jump Shot,,3:51,2,4,0,0,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:35 PM
+204,0,4,212,0020500777,,,3:50,2,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Iguodala REBOUND (Off:0 Def:1),8:35 PM
+205,1,2,213,0020500777,,,3:44,2,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iverson 27' 3PT Jump Shot,8:35 PM
+206,0,4,214,0020500777,Sweetney REBOUND (Off:3 Def:4),,3:42,2,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:35 PM
+207,42,1,215,0020500777,Nocioni  Driving Layup (8 PTS),,3:36,2,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,35 - 55,20,,8:35 PM
+208,7,1,216,0020500777,,,3:17,2,5,5,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,37 - 55,18,Barnes  Dunk (2 PTS) (Webber 1 AST),8:36 PM
+209,1,2,217,0020500777,MISS Nocioni 24' 3PT Jump Shot,,2:54,2,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:36 PM
+210,0,4,218,0020500777,,,2:52,2,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Webber REBOUND (Off:0 Def:3),8:36 PM
+211,1,2,219,0020500777,,,2:48,2,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Webber 12' Jump Shot,8:36 PM
+212,0,4,220,0020500777,Gordon REBOUND (Off:0 Def:2),,2:45,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:36 PM
+213,1,5,221,0020500777,Gordon Bad Pass Turnover (P2.T8),,2:41,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:36 PM
+214,1,9,222,0020500777,,,2:41,2,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.2 Short 1),8:36 PM
+215,0,8,224,0020500777,SUB: Deng FOR Nocioni,,2:41,2,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:39 PM
+216,2,6,225,0020500777,Sweetney S.FOUL (P1.T4),,2:28,2,4,5,1,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:40 PM
+217,11,3,226,0020500777,,,2:28,2,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,38 - 55,17,Iguodala Free Throw 1 of 2 (7 PTS),8:40 PM
+218,12,3,227,0020500777,,,2:28,2,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iguodala Free Throw 2 of 2,8:40 PM
+219,0,4,228,0020500777,Sweetney REBOUND (Off:3 Def:5),,2:25,2,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:41 PM
+220,1,2,229,0020500777,MISS Gordon 16' Jump Shot,,2:17,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:41 PM
+221,0,4,230,0020500777,,,2:15,2,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Webber REBOUND (Off:0 Def:4),8:41 PM
+222,1,2,231,0020500777,,,2:07,2,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Dalembert 20' Jump Shot,8:41 PM
+223,0,4,232,0020500777,Hinrich REBOUND (Off:0 Def:4),,2:06,2,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:41 PM
+224,7,5,233,0020500777,Hinrich Discontinue Dribble Turnover (P3.T9),,2:01,2,4,0,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:41 PM
+225,1,1,234,0020500777,,,1:52,2,5,5,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,40 - 55,15,Webber 16' Jump Shot (5 PTS) (Barnes 1 AST),8:41 PM
+226,1,2,235,0020500777,MISS Hinrich 24' 3PT Jump Shot,,1:31,2,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:42 PM
+227,0,4,236,0020500777,,,1:29,2,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:0 Def:4),8:42 PM
+228,2,6,237,0020500777,Sweetney S.FOUL (P2.PN),,1:16,2,4,5,1,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:42 PM
+229,11,3,238,0020500777,,,1:16,2,5,0,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Barnes Free Throw 1 of 2,8:42 PM
+230,1,4,239,0020500777,,,1:16,2,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,8:42 PM
+231,0,8,240,0020500777,SUB: Allen FOR Sweetney,,1:16,2,4,4,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:43 PM
+232,0,8,241,0020500777,,,1:16,2,5,5,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Hunter FOR Dalembert,8:43 PM
+233,0,8,242,0020500777,SUB: Duhon FOR Gordon,,1:16,2,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:43 PM
+234,12,3,243,0020500777,,,1:16,2,5,0,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,41 - 55,14,Barnes Free Throw 2 of 2 (3 PTS),8:43 PM
+235,5,2,244,0020500777,MISS Duhon  Layup,,0:56,2,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:44 PM
+236,0,4,245,0020500777,,,0:54,2,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Webber REBOUND (Off:0 Def:5),8:44 PM
+237,1,1,246,0020500777,,,0:47,2,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,43 - 55,12,Iverson 10' Jump Shot (16 PTS),8:44 PM
+238,0,8,247,0020500777,,,0:43,2,5,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Ollie FOR Iverson,8:44 PM
+239,2,5,248,0020500777,Songaila Lost Ball Turnover (P1.T10),,0:40,2,4,5,0,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Ollie STEAL (1 STL),8:44 PM
+240,2,6,249,0020500777,Songaila S.FOUL (P2.PN),,0:32,2,4,5,1,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,8:45 PM
+241,11,3,250,0020500777,,,0:32,2,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,44 - 55,11,Webber Free Throw 1 of 2 (6 PTS),8:45 PM
+242,12,3,251,0020500777,,,0:32,2,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,45 - 55,10,Webber Free Throw 2 of 2 (7 PTS),8:45 PM
+243,11,6,252,0020500777,BULLS Foul,,0:20,2,2,0,1,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:46 PM
+244,16,3,253,0020500777,,,0:20,2,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,46 - 55,9,Webber Free Throw Technical (8 PTS),8:47 PM
+245,5,1,254,0020500777,Allen  Layup (8 PTS),,0:07,2,4,0,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,46 - 57,11,,8:47 PM
+246,1,2,255,0020500777,,,0:00,2,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Webber 16' Jump Shot,8:47 PM
+247,0,4,257,0020500777,,,0:00,2,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,8:47 PM
+248,0,13,256,0020500777,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,46 - 57,11,,8:47 PM
+249,0,12,260,0020500777,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,46 - 57,11,,9:07 PM
+250,5,2,261,0020500777,Deng BLOCK (1 BLK),,11:42,3,5,0,4,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,,,MISS Iguodala  Layup,9:08 PM
+251,0,4,262,0020500777,,,11:41,3,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,9:08 PM
+252,1,1,263,0020500777,,,11:36,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,48 - 57,9,Iverson 16' Jump Shot (18 PTS),9:08 PM
+253,46,1,264,0020500777,Harrington 11' Running Jump Shot (2 PTS),,11:22,3,4,0,0,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,48 - 59,11,,9:09 PM
+254,1,2,265,0020500777,,,11:00,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iverson 18' Jump Shot,9:09 PM
+255,0,4,266,0020500777,,,10:59,3,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,9:09 PM
+256,1,1,267,0020500777,,,10:48,3,5,5,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,50 - 59,9,Webber 19' Jump Shot (10 PTS) (Iverson 2 AST),9:09 PM
+257,1,1,268,0020500777,Gordon 19' Jump Shot (14 PTS) (Harrington 2 AST),,10:31,3,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,0,,,,,,50 - 61,11,,9:10 PM
+258,1,2,269,0020500777,,,10:12,3,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iguodala 24' 3PT Jump Shot,9:10 PM
+259,0,4,270,0020500777,Harrington REBOUND (Off:0 Def:1),,10:10,3,4,0,0,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:10 PM
+260,5,2,271,0020500777,MISS Gordon  Layup,,10:02,3,4,0,5,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,,,Iguodala BLOCK (1 BLK),9:10 PM
+261,0,4,272,0020500777,Chandler REBOUND (Off:6 Def:3),,10:00,3,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:10 PM
+262,1,1,273,0020500777,Hinrich 25' 3PT Jump Shot (9 PTS) (Chandler 2 AST),,9:57,3,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,50 - 64,14,,9:10 PM
+263,5,2,274,0020500777,Gordon BLOCK (1 BLK),,9:38,3,5,0,4,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,,,MISS Ollie  Layup,9:11 PM
+264,0,4,275,0020500777,Gordon REBOUND (Off:0 Def:3),,9:36,3,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:11 PM
+265,41,1,276,0020500777,Gordon  Running Layup (16 PTS),,9:31,3,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,50 - 66,16,,9:11 PM
+266,1,2,277,0020500777,,,9:17,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iverson 16' Jump Shot,9:11 PM
+267,0,4,278,0020500777,Deng REBOUND (Off:1 Def:1),,9:14,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:11 PM
+268,47,1,279,0020500777,Harrington 12' Turnaround Jump Shot (4 PTS),,9:04,3,4,0,0,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,50 - 68,18,,9:11 PM
+269,1,9,280,0020500777,,,9:02,3,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.3 Short 1),9:11 PM
+270,1,2,282,0020500777,,,8:41,3,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Webber 17' Jump Shot,9:15 PM
+271,0,4,283,0020500777,Chandler REBOUND (Off:6 Def:4),,8:40,3,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:15 PM
+272,1,1,284,0020500777,Deng 8' Jump Shot (10 PTS) (Harrington 3 AST),,8:19,3,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,0,,,,,,50 - 70,20,,9:15 PM
+273,1,2,285,0020500777,,,8:02,3,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Ollie 19' Jump Shot,9:15 PM
+274,0,4,286,0020500777,Harrington REBOUND (Off:0 Def:2),,8:01,3,4,0,0,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:15 PM
+275,1,6,287,0020500777,,,7:47,3,5,4,1,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Ollie P.FOUL (P2.T1),9:15 PM
+276,5,2,288,0020500777,MISS Deng  Layup,,7:41,3,4,0,5,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,,,Dalembert BLOCK (3 BLK),9:16 PM
+277,0,10,289,0020500777,Jump Ball Deng vs. Dalembert: Tip to Chandler,,7:41,3,4,5,4,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,,,,9:16 PM
+278,0,4,290,0020500777,BULLS Rebound,,7:41,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:16 PM
+279,42,1,291,0020500777,Gordon  Driving Layup (18 PTS),,7:35,3,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,50 - 72,22,,9:16 PM
+280,2,6,292,0020500777,,,7:35,3,5,4,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Dalembert S.FOUL (P3.T2),9:16 PM
+281,10,3,293,0020500777,Gordon Free Throw 1 of 1 (19 PTS),,7:35,3,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,50 - 73,23,,9:17 PM
+282,1,2,294,0020500777,Harrington BLOCK (1 BLK),,7:23,3,5,0,4,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,,,MISS Iguodala 8' Jump Shot,9:17 PM
+283,0,4,295,0020500777,Hinrich REBOUND (Off:0 Def:5),,7:21,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:17 PM
+284,5,2,296,0020500777,MISS Hinrich  Layup,,7:05,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:17 PM
+285,0,4,297,0020500777,,,7:04,3,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Webber REBOUND (Off:0 Def:6),9:18 PM
+286,1,2,298,0020500777,,,6:57,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iverson 19' Jump Shot,9:18 PM
+287,0,4,299,0020500777,,,6:55,3,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Webber REBOUND (Off:1 Def:6),9:18 PM
+288,1,2,300,0020500777,,,6:46,3,5,0,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Ollie 19' Jump Shot,9:18 PM
+289,0,4,301,0020500777,Chandler REBOUND (Off:6 Def:5),,6:44,3,4,0,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:18 PM
+290,1,1,302,0020500777,Gordon 18' Jump Shot (21 PTS),,6:32,3,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,50 - 75,25,,9:18 PM
+291,1,9,303,0020500777,,,6:30,3,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.4 Short 1),9:18 PM
+292,5,1,305,0020500777,,,6:16,3,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,52 - 75,23,Webber  Layup (12 PTS),9:21 PM
+293,1,5,306,0020500777,Hinrich Bad Pass Turnover (P4.T11),,6:02,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:22 PM
+294,1,1,307,0020500777,,,5:45,3,5,5,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,54 - 75,21,Webber 20' Jump Shot (14 PTS) (Iverson 3 AST),9:22 PM
+295,1,1,308,0020500777,Hinrich 26' 3PT Jump Shot (12 PTS) (Gordon 6 AST),,5:24,3,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,54 - 78,24,,9:22 PM
+296,1,6,309,0020500777,Hinrich P.FOUL (P2.T1),,5:13,3,4,5,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:23 PM
+297,1,2,310,0020500777,,,4:59,3,5,0,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Webber 25' 3PT Jump Shot,9:23 PM
+298,0,4,311,0020500777,Gordon REBOUND (Off:0 Def:4),,4:57,3,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:23 PM
+299,41,1,312,0020500777,Deng  Running Layup (12 PTS),,4:44,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,54 - 80,26,,9:23 PM
+300,1,2,313,0020500777,,,4:29,3,5,0,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Iverson 17' Jump Shot,9:24 PM
+301,0,4,314,0020500777,,,4:28,3,5,0,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert REBOUND (Off:1 Def:4),9:24 PM
+302,1,5,315,0020500777,Deng STEAL (1 STL),,4:18,3,5,4,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Iverson Bad Pass Turnover (P1.T8),9:24 PM
+303,2,5,316,0020500777,Gordon Lost Ball Turnover (P3.T12),,4:12,3,4,5,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Iguodala STEAL (1 STL),9:24 PM
+304,4,6,317,0020500777,,,4:05,3,5,4,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Dalembert OFF.Foul (P4),9:24 PM
+305,5,5,318,0020500777,,,4:05,3,5,0,1,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Dalembert Foul Turnover (P3.T9),9:24 PM
+306,0,8,319,0020500777,,,4:05,3,5,5,0,185,Chris Webber,PHI,Philadelphia,1610612755.0,76ers,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Randolph FOR Webber,9:24 PM
+307,0,8,320,0020500777,,,4:05,3,5,5,0,1563,Kevin Ollie,PHI,Philadelphia,1610612755.0,76ers,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Korver FOR Ollie,9:24 PM
+308,0,8,321,0020500777,,,4:05,3,5,5,0,2223,Samuel Dalembert,PHI,Philadelphia,1610612755.0,76ers,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Hunter FOR Dalembert,9:25 PM
+309,0,8,322,0020500777,SUB: Allen FOR Harrington,,4:05,3,4,4,0,970,Othella Harrington,CHI,Chicago,1610612741.0,Bulls,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:25 PM
+310,5,2,323,0020500777,MISS Chandler  Layup,,3:53,3,4,0,5,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,,,Randolph BLOCK (1 BLK),9:25 PM
+311,0,4,324,0020500777,,,3:51,3,5,0,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Iguodala REBOUND (Off:0 Def:2),9:25 PM
+312,2,6,325,0020500777,Allen S.FOUL (P2.T2),,3:45,3,4,5,1,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:25 PM
+313,11,3,326,0020500777,,,3:45,3,5,0,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,55 - 80,25,Randolph Free Throw 1 of 2 (1 PTS),9:25 PM
+314,12,3,327,0020500777,,,3:45,3,5,0,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Randolph Free Throw 2 of 2,9:25 PM
+315,0,4,328,0020500777,Allen REBOUND (Off:0 Def:2),,3:45,3,4,0,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:26 PM
+316,2,6,329,0020500777,,,3:30,3,5,4,1,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Randolph S.FOUL (P1.T3),9:26 PM
+317,11,3,330,0020500777,Allen Free Throw 1 of 2 (9 PTS),,3:30,3,4,0,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,55 - 81,26,,9:26 PM
+318,0,8,331,0020500777,,,3:30,3,5,5,0,947,Allen Iverson,PHI,Philadelphia,1610612755.0,76ers,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Salmons FOR Iverson,9:26 PM
+319,0,8,333,0020500777,SUB: Nocioni FOR Deng,,3:30,3,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:26 PM
+320,12,3,334,0020500777,Allen Free Throw 2 of 2 (10 PTS),,3:30,3,4,0,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,55 - 82,27,,9:26 PM
+321,1,5,335,0020500777,Hinrich STEAL (2 STL),,3:21,3,5,4,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Salmons Bad Pass Turnover (P2.T10),9:27 PM
+322,1,6,336,0020500777,,,3:07,3,5,4,1,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Iguodala P.FOUL (P2.T4),9:27 PM
+323,2,6,337,0020500777,,,2:58,3,5,4,1,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Iguodala S.FOUL (P3.PN),9:28 PM
+324,11,3,338,0020500777,Hinrich Free Throw 1 of 2 (13 PTS),,2:58,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,55 - 83,28,,9:28 PM
+325,0,8,339,0020500777,,,2:58,3,5,5,0,2738,Andre Iguodala,PHI,Philadelphia,1610612755.0,76ers,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Barnes FOR Iguodala,9:28 PM
+326,12,3,340,0020500777,MISS Hinrich Free Throw 2 of 2,,2:58,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:28 PM
+327,0,4,341,0020500777,,,2:56,3,5,0,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Barnes REBOUND (Off:1 Def:1),9:28 PM
+328,2,6,342,0020500777,Gordon S.FOUL (P3.T3),,2:40,3,4,5,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:29 PM
+329,11,3,343,0020500777,,,2:40,3,5,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,56 - 83,27,Salmons Free Throw 1 of 2 (7 PTS),9:29 PM
+330,0,8,344,0020500777,SUB: Duhon FOR Hinrich,,2:40,3,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:29 PM
+331,12,3,345,0020500777,,,2:40,3,5,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Salmons Free Throw 2 of 2,9:29 PM
+332,0,4,346,0020500777,Nocioni REBOUND (Off:0 Def:2),,2:38,3,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:29 PM
+333,1,2,347,0020500777,MISS Gordon  3PT Jump Shot,,2:26,3,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:29 PM
+334,0,4,348,0020500777,,,2:24,3,5,0,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Barnes REBOUND (Off:1 Def:2),9:29 PM
+335,2,6,349,0020500777,Gordon S.FOUL (P4.T4),,2:18,3,4,5,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:30 PM
+336,0,8,351,0020500777,SUB: Sweetney FOR Chandler,,2:18,3,4,4,0,2199,Tyson Chandler,CHI,Chicago,1610612741.0,Bulls,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:30 PM
+337,0,8,352,0020500777,SUB: Hinrich FOR Gordon,,2:18,3,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:30 PM
+338,11,3,353,0020500777,,,2:18,3,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,57 - 83,26,Korver Free Throw 1 of 2 (1 PTS),9:30 PM
+339,12,3,354,0020500777,,,2:18,3,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,58 - 83,25,Korver Free Throw 2 of 2 (2 PTS),9:30 PM
+340,1,1,355,0020500777,Hinrich 12' Jump Shot (15 PTS),,2:02,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,58 - 85,27,,9:31 PM
+341,1,2,356,0020500777,,,1:50,3,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Korver 19' Jump Shot,9:31 PM
+342,0,4,357,0020500777,Nocioni REBOUND (Off:0 Def:3),,1:48,3,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:31 PM
+343,1,1,358,0020500777,Sweetney 18' Jump Shot (6 PTS) (Duhon 5 AST),,1:41,3,4,4,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,58 - 87,29,,9:31 PM
+344,5,2,359,0020500777,Sweetney BLOCK (3 BLK),,1:10,3,5,0,4,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,,,MISS Salmons  Layup,9:32 PM
+345,0,4,360,0020500777,,,1:10,3,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,9:32 PM
+346,11,5,361,0020500777,,,1:10,3,3,0,1,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Turnover: Shot Clock (T#11),9:32 PM
+347,1,2,362,0020500777,MISS Allen 20' Jump Shot,,0:57,3,4,0,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:32 PM
+348,0,4,363,0020500777,,,0:55,3,5,0,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Barnes REBOUND (Off:1 Def:3),9:32 PM
+349,2,6,364,0020500777,Allen S.FOUL (P3.PN),,0:39,3,4,5,1,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:33 PM
+350,11,3,365,0020500777,,,0:39,3,5,0,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,59 - 87,28,Randolph Free Throw 1 of 2 (2 PTS),9:33 PM
+351,12,3,366,0020500777,,,0:39,3,5,0,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,60 - 87,27,Randolph Free Throw 2 of 2 (3 PTS),9:33 PM
+352,1,1,367,0020500777,Hinrich 27' 3PT Jump Shot (18 PTS) (Duhon 6 AST),,0:25,3,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,60 - 90,30,,9:33 PM
+353,1,6,368,0020500777,Sweetney P.FOUL (P3.PN),,0:09,3,4,5,1,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:34 PM
+354,11,3,369,0020500777,,,0:09,3,5,0,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,61 - 90,29,Barnes Free Throw 1 of 2 (4 PTS),9:34 PM
+355,12,3,370,0020500777,,,0:09,3,5,0,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,62 - 90,28,Barnes Free Throw 2 of 2 (5 PTS),9:34 PM
+356,2,7,373,0020500777,,,0:01,3,5,0,1,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Hunter Violation:Defensive Goaltending,9:35 PM
+357,5,1,372,0020500777,Allen  Layup (12 PTS),,0:01,3,4,0,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,62 - 92,30,,9:35 PM
+358,13,6,374,0020500777,,,0:01,3,5,0,1,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Hunter HANGING.TECH.FOUL (P0.PN),9:35 PM
+359,16,3,375,0020500777,MISS Hinrich Free Throw Technical,,0:01,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:35 PM
+360,1,4,376,0020500777,,,0:01,3,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,9:35 PM
+361,0,13,378,0020500777,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,62 - 92,30,,9:36 PM
+362,0,12,380,0020500777,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,62 - 92,30,,9:38 PM
+363,1,6,381,0020500777,,,11:42,4,5,4,1,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Hunter P.FOUL (P1.T1),9:40 PM
+364,1,2,382,0020500777,MISS Sweetney 10' Jump Shot,,11:30,4,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:40 PM
+365,0,4,383,0020500777,,,11:28,4,5,0,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Barnes REBOUND (Off:1 Def:4),9:40 PM
+366,5,1,384,0020500777,,,11:22,4,5,5,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,64 - 92,28,Salmons  Layup (9 PTS) (Korver 1 AST),9:40 PM
+367,1,2,385,0020500777,MISS Duhon 10' Jump Shot,,10:55,4,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:40 PM
+368,0,4,386,0020500777,,,10:54,4,5,0,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Randolph REBOUND (Off:0 Def:1),9:40 PM
+369,1,1,387,0020500777,,,10:47,4,5,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,66 - 92,26,Salmons 12' Jump Shot (11 PTS),9:41 PM
+370,1,9,388,0020500777,BULLS Timeout: Regular (Full 3 Short 0),,10:46,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:41 PM
+371,2,6,389,0020500777,,,10:41,4,5,4,1,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Korver S.FOUL (P1.T2),9:44 PM
+372,11,3,390,0020500777,Nocioni Free Throw 1 of 2 (9 PTS),,10:41,4,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,66 - 93,27,,9:44 PM
+373,0,8,391,0020500777,,,10:41,4,5,5,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Williams FOR Barnes,9:44 PM
+374,12,3,392,0020500777,Nocioni Free Throw 2 of 2 (10 PTS),,10:41,4,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,66 - 94,28,,9:44 PM
+375,2,5,393,0020500777,Nocioni STEAL (1 STL),,10:30,4,5,4,0,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Williams Lost Ball Turnover (P1.T12),9:45 PM
+376,7,1,394,0020500777,Nocioni  Dunk (12 PTS),,10:27,4,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,66 - 96,30,,9:45 PM
+377,1,2,395,0020500777,,,10:13,4,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Korver 26' 3PT Jump Shot,9:45 PM
+378,0,4,396,0020500777,Allen REBOUND (Off:0 Def:3),,10:12,4,4,0,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:45 PM
+379,1,2,397,0020500777,MISS Duhon 26' 3PT Jump Shot,,10:00,4,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:45 PM
+380,0,4,398,0020500777,,,9:58,4,5,0,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Randolph REBOUND (Off:0 Def:2),9:45 PM
+381,1,1,399,0020500777,,,9:46,4,5,0,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,68 - 96,28,Salmons 11' Jump Shot (13 PTS),9:46 PM
+382,5,2,400,0020500777,MISS Sweetney  Layup,,9:33,4,4,0,5,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,,,Randolph BLOCK (2 BLK),9:46 PM
+383,0,4,401,0020500777,BULLS Rebound,,9:32,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:46 PM
+384,0,8,402,0020500777,,,9:32,4,5,5,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Barnes FOR Korver,9:46 PM
+385,0,8,403,0020500777,SUB: Pargo FOR Hinrich,,9:32,4,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2457,Jannero Pargo,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:46 PM
+386,1,2,404,0020500777,MISS Duhon 27' 3PT Jump Shot,,9:26,4,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:46 PM
+387,0,4,405,0020500777,Nocioni REBOUND (Off:1 Def:3),,9:24,4,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:46 PM
+388,4,6,406,0020500777,Nocioni OFF.Foul (P3),,9:19,4,4,5,1,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:46 PM
+389,5,5,407,0020500777,Nocioni Foul Turnover (P1.T13),,9:19,4,4,0,1,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:46 PM
+390,5,1,408,0020500777,,,9:08,4,5,0,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,70 - 96,26,Randolph  Layup (5 PTS),9:47 PM
+391,2,6,409,0020500777,Allen S.FOUL (P4.T1),,9:08,4,4,5,1,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:47 PM
+392,10,3,410,0020500777,,,9:08,4,5,0,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,71 - 96,25,Randolph Free Throw 1 of 1 (6 PTS),9:47 PM
+393,1,6,411,0020500777,,,8:57,4,5,4,1,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Randolph P.FOUL (P2.T3),9:48 PM
+394,1,1,412,0020500777,Allen 10' Jump Shot (14 PTS) (Nocioni 1 AST),,8:44,4,4,4,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,71 - 98,27,,9:48 PM
+395,1,1,413,0020500777,,,8:29,4,5,5,0,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,73 - 98,25,Williams 19' Jump Shot (2 PTS) (Salmons 1 AST),9:48 PM
+396,1,2,414,0020500777,MISS Pargo 22' Jump Shot,,8:12,4,4,0,0,2457,Jannero Pargo,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:49 PM
+397,0,4,415,0020500777,Allen REBOUND (Off:1 Def:3),,8:09,4,4,0,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:49 PM
+398,1,2,416,0020500777,MISS Allen 19' Jump Shot,,7:57,4,4,0,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:49 PM
+399,0,4,417,0020500777,,,7:55,4,5,0,0,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Hunter REBOUND (Off:1 Def:1),9:49 PM
+400,1,6,418,0020500777,Allen P.FOUL (P5.T2),,7:44,4,4,5,1,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:49 PM
+401,0,8,419,0020500777,SUB: Songaila FOR Sweetney,,7:44,4,4,4,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:49 PM
+402,0,8,420,0020500777,,,7:44,4,5,5,0,2212,Steven Hunter,PHI,Philadelphia,1610612755.0,76ers,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Korver FOR Hunter,9:50 PM
+403,0,8,421,0020500777,,,7:44,4,5,5,0,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,2214,Michael Bradley,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Bradley FOR Salmons,9:50 PM
+404,1,2,422,0020500777,,,7:35,4,5,0,0,2214,Michael Bradley,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Bradley 16' Jump Shot,9:50 PM
+405,0,4,423,0020500777,Allen REBOUND (Off:1 Def:4),,7:33,4,4,0,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:50 PM
+406,1,1,424,0020500777,Duhon 27' 3PT Jump Shot (4 PTS) (Songaila 2 AST),,7:25,4,4,4,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,0,,,,,,73 - 101,28,,9:50 PM
+407,1,9,425,0020500777,,,7:20,4,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.5 Short 1),9:50 PM
+408,2,6,427,0020500777,Duhon S.FOUL (P1.T3),,7:00,4,4,5,1,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:54 PM
+409,11,3,428,0020500777,,,7:00,4,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,74 - 101,27,Korver Free Throw 1 of 2 (3 PTS),9:54 PM
+410,12,3,429,0020500777,,,7:00,4,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,75 - 101,26,Korver Free Throw 2 of 2 (4 PTS),9:54 PM
+411,1,2,430,0020500777,MISS Allen 19' Jump Shot,,6:41,4,4,0,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:54 PM
+412,0,4,431,0020500777,,,6:39,4,5,0,0,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:1),9:54 PM
+413,1,2,432,0020500777,,,6:30,4,5,0,0,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Williams 25' 3PT Jump Shot,9:55 PM
+414,0,4,433,0020500777,Allen REBOUND (Off:1 Def:5),,6:28,4,4,0,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:55 PM
+415,1,1,434,0020500777,Nocioni 13' Jump Shot (14 PTS) (Duhon 7 AST),,6:12,4,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,75 - 103,28,,9:55 PM
+416,2,7,436,0020500777,Nocioni Violation:Defensive Goaltending,,5:59,4,4,0,1,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:55 PM
+417,5,1,435,0020500777,,,5:59,4,5,5,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,77 - 103,26,Korver  Layup (6 PTS) (Randolph 1 AST),9:55 PM
+418,5,1,437,0020500777,Allen  Layup (16 PTS) (Pargo 1 AST),,5:39,4,4,4,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,2457,Jannero Pargo,CHI,Chicago,1610612741.0,Bulls,0,,,,,,77 - 105,28,,9:56 PM
+419,1,2,438,0020500777,,,5:27,4,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Korver 23' Jump Shot,9:56 PM
+420,0,4,439,0020500777,,,5:21,4,5,0,0,2214,Michael Bradley,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Bradley REBOUND (Off:1 Def:0),9:56 PM
+421,5,2,440,0020500777,,,5:14,4,5,0,0,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Williams  Layup,9:56 PM
+422,0,4,441,0020500777,,,5:11,4,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Rebound,9:56 PM
+423,0,8,442,0020500777,SUB: Piatkowski FOR Allen,,5:11,4,4,4,0,2124,Malik Allen,CHI,Chicago,1610612741.0,Bulls,15,Eric Piatkowski,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:56 PM
+424,1,2,443,0020500777,,,5:07,4,5,0,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Barnes  3PT Jump Shot,9:57 PM
+425,0,4,444,0020500777,Nocioni REBOUND (Off:1 Def:4),,5:05,4,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:57 PM
+426,1,1,445,0020500777,Nocioni 20' Jump Shot (16 PTS) (Pargo 2 AST),,4:50,4,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2457,Jannero Pargo,CHI,Chicago,1610612741.0,Bulls,0,,,,,,77 - 107,30,,9:57 PM
+427,2,6,446,0020500777,Songaila S.FOUL (P3.T4),,4:33,4,4,5,1,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,,9:57 PM
+428,0,8,449,0020500777,,,4:33,4,5,5,0,2440,Matt Barnes,PHI,Philadelphia,1610612755.0,76ers,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,SUB: Salmons FOR Barnes,9:57 PM
+429,0,8,450,0020500777,SUB: Sweetney FOR Nocioni,,4:33,4,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:58 PM
+430,11,3,451,0020500777,,,4:33,4,5,0,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,78 - 107,29,Randolph Free Throw 1 of 2 (7 PTS),9:58 PM
+431,12,3,452,0020500777,,,4:33,4,5,0,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Randolph Free Throw 2 of 2,9:58 PM
+432,0,4,453,0020500777,Sweetney REBOUND (Off:3 Def:6),,4:25,4,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:58 PM
+433,1,5,454,0020500777,Pargo Bad Pass Turnover (P1.T14),,4:19,4,4,5,0,2457,Jannero Pargo,CHI,Chicago,1610612741.0,Bulls,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Williams STEAL (1 STL),9:58 PM
+434,5,1,455,0020500777,,,4:14,4,5,0,0,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,80 - 107,27,Williams  Layup (4 PTS),9:58 PM
+435,1,1,456,0020500777,Pargo 21' Jump Shot (2 PTS),,4:10,4,4,0,0,2457,Jannero Pargo,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,80 - 109,29,,9:58 PM
+436,1,2,457,0020500777,,,3:49,4,5,0,0,2214,Michael Bradley,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Bradley 20' Jump Shot,9:58 PM
+437,0,4,458,0020500777,BULLS Rebound,,3:49,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:58 PM
+438,1,2,459,0020500777,MISS Piatkowski 17' Jump Shot,,3:30,4,4,0,0,15,Eric Piatkowski,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:59 PM
+439,0,4,460,0020500777,,,3:29,4,5,0,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Randolph REBOUND (Off:0 Def:3),9:59 PM
+440,5,2,462,0020500777,Sweetney BLOCK (4 BLK),,3:16,4,5,0,4,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,,,MISS Williams  Layup,9:59 PM
+441,0,4,463,0020500777,Sweetney REBOUND (Off:3 Def:7),,3:14,4,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:59 PM
+442,5,1,464,0020500777,Songaila  Layup (6 PTS) (Sweetney 2 AST),,3:09,4,4,4,0,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,80 - 111,31,,9:59 PM
+443,1,9,466,0020500777,,,3:07,4,3,0,0,1610612755,,,,,,0,,,,,,0,,,,,,,,76ers Timeout: Regular (Reg.6 Short 1),10:00 PM
+444,1,2,468,0020500777,,,2:46,4,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Korver 16' Jump Shot,10:03 PM
+445,0,4,469,0020500777,Songaila REBOUND (Off:1 Def:3),,2:44,4,4,0,0,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:03 PM
+446,2,5,470,0020500777,Songaila Lost Ball Turnover (P2.T15),,2:42,4,4,5,0,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,,,Randolph STEAL (1 STL),10:03 PM
+447,2,5,471,0020500777,Songaila STEAL (1 STL),,2:35,4,5,4,0,2214,Michael Bradley,PHI,Philadelphia,1610612755.0,76ers,2443,Darius Songaila,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Bradley Lost Ball Turnover (P1.T13),10:03 PM
+448,1,2,472,0020500777,MISS Pargo 21' Jump Shot,,2:28,4,4,0,0,2457,Jannero Pargo,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:03 PM
+449,0,4,473,0020500777,Sweetney REBOUND (Off:4 Def:7),,2:28,4,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:03 PM
+450,2,6,474,0020500777,,,2:28,4,5,4,1,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Williams S.FOUL (P1.T4),10:03 PM
+451,11,3,475,0020500777,Sweetney Free Throw 1 of 2 (7 PTS),,2:28,4,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,80 - 112,32,,10:03 PM
+452,12,3,477,0020500777,Sweetney Free Throw 2 of 2 (8 PTS),,2:28,4,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,80 - 113,33,,10:03 PM
+453,1,2,478,0020500777,,,2:07,4,5,0,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Randolph 11' Jump Shot,10:04 PM
+454,0,4,479,0020500777,Sweetney REBOUND (Off:4 Def:8),,2:06,4,4,0,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:04 PM
+455,1,1,480,0020500777,Sweetney 17' Jump Shot (10 PTS) (Piatkowski 1 AST),,1:50,4,4,4,0,2552,Michael Sweetney,CHI,Chicago,1610612741.0,Bulls,15,Eric Piatkowski,CHI,Chicago,1610612741.0,Bulls,0,,,,,,80 - 115,35,,10:04 PM
+456,7,1,481,0020500777,,,1:28,4,5,5,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,101150,Lou Williams,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,82 - 115,33,Randolph  Dunk (9 PTS) (Williams 1 AST),10:05 PM
+457,1,2,482,0020500777,MISS Pargo 22' Jump Shot,,1:11,4,4,0,0,2457,Jannero Pargo,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:05 PM
+458,0,4,483,0020500777,,,1:09,4,5,0,0,101183,Shavlik Randolph,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,Randolph REBOUND (Off:0 Def:4),10:05 PM
+459,44,1,484,0020500777,,,0:54,4,5,5,0,2214,Michael Bradley,PHI,Philadelphia,1610612755.0,76ers,2422,John Salmons,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,84 - 115,31,Bradley  Reverse Layup (2 PTS) (Salmons 2 AST),10:05 PM
+460,1,1,485,0020500777,Pargo 16' Jump Shot (4 PTS),,0:40,4,4,0,0,2457,Jannero Pargo,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,84 - 117,33,,10:06 PM
+461,1,2,486,0020500777,,,0:18,4,5,0,0,2594,Kyle Korver,PHI,Philadelphia,1610612755.0,76ers,0,,,,,,0,,,,,,,,MISS Korver 12' Jump Shot,10:06 PM
+462,0,4,487,0020500777,Pargo REBOUND (Off:0 Def:1),,0:16,4,4,0,0,2457,Jannero Pargo,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:06 PM
+463,0,13,488,0020500777,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,84 - 117,33,,10:06 PM

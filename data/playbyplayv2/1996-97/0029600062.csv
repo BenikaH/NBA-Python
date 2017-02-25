@@ -1,0 +1,531 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,10,1,0029600062,Jump Ball Duckworth vs. Ewing: Tip to Ward,,12:00,1,4,5,5,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,,,,11:42 AM
+1,1,2,2,0029600062,,,11:45,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Ewing 3' Jump Shot,11:43 AM
+2,0,4,3,0029600062,Vaught REBOUND (Off:0 Def:1),,11:43,1,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:43 AM
+3,2,7,4,0029600062,,,11:27,1,3,0,1,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Violation: Def. Goaltending Violation,11:44 AM
+4,1,5,5,0029600062,Sealy Bad Pass Turnover (P1.T1),,11:22,1,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:44 AM
+5,5,2,6,0029600062,,,11:05,1,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Johnson  Layup,11:44 AM
+6,0,4,8,0029600062,,,11:04,1,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:1 Def:0),11:44 AM
+7,4,2,7,0029600062,,,11:04,1,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Johnson  Tip Shot,11:44 AM
+8,0,4,9,0029600062,Vaught REBOUND (Off:0 Def:2),,11:03,1,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:44 AM
+9,1,2,10,0029600062,MISS Vaught 16' Jump Shot,,10:57,1,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:45 AM
+10,0,4,11,0029600062,,,10:56,1,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:1 Def:1),11:45 AM
+11,1,1,12,0029600062,,,10:47,1,5,5,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,2 - 0,-2,Oakley 16' Jump Shot (2 PTS) (Ward 1 AST),11:45 AM
+12,1,2,13,0029600062,MISS Sealy 16' Jump Shot,,10:30,1,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:45 AM
+13,0,4,14,0029600062,,,10:27,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:1),11:45 AM
+14,1,5,15,0029600062,Vaught STEAL (1 STL),,10:23,1,5,4,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Ward Bad Pass Turnover (P1.T1),11:45 AM
+15,1,2,16,0029600062,MISS Richardson 14' Jump Shot,,10:17,1,4,0,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:45 AM
+16,0,4,17,0029600062,,,10:16,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:2),11:45 AM
+17,1,5,18,0029600062,Richardson STEAL (1 STL),,10:16,1,5,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Ewing Bad Pass Turnover (P1.T2),11:45 AM
+18,5,1,19,0029600062,Richardson  Layup (2 PTS),,10:12,1,4,0,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,2 - 2,TIE,,11:45 AM
+19,1,1,20,0029600062,,,9:59,1,5,5,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,4 - 2,-2,Ewing 11' Jump Shot (2 PTS) (Oakley 1 AST),11:46 AM
+20,3,7,22,0029600062,,,9:51,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing Violation:Lane,11:46 AM
+21,6,1,21,0029600062,Richardson  Driving Layup (4 PTS),,9:51,1,4,0,5,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,NYK,New York,1610612752.0,Knicks,4 - 4,TIE,,11:46 AM
+22,1,1,23,0029600062,,,9:39,1,5,5,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,6 - 4,-2,Houston 16' Jump Shot (2 PTS) (Ward 2 AST),11:46 AM
+23,1,2,24,0029600062,MISS Duckworth 10' Jump Shot,,9:19,1,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:46 AM
+24,0,4,25,0029600062,,,9:17,1,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Oakley REBOUND (Off:0 Def:1),11:46 AM
+25,1,1,26,0029600062,,,8:59,1,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,8 - 4,-4,Johnson 17' Jump Shot (2 PTS),11:47 AM
+26,1,2,27,0029600062,MISS Richardson 16' Jump Shot,,8:35,1,4,0,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:47 AM
+27,0,4,28,0029600062,,,8:34,1,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,11:47 AM
+28,3,6,29,0029600062,Vaught L.B.FOUL (P1.T1),,8:34,1,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:47 AM
+29,1,6,30,0029600062,Duckworth P.FOUL (P1.T2),,8:25,1,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:48 AM
+30,8,5,31,0029600062,,,8:17,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing 3 Second Violation Turnover (P2.T3),11:48 AM
+31,2,5,32,0029600062,Sealy Lost Ball Turnover (P2.T2),,7:56,1,4,5,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Houston STEAL (1 STL),11:49 AM
+32,6,1,33,0029600062,,,7:53,1,5,5,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,10 - 4,-6,Johnson  Driving Layup (4 PTS) (Houston 1 AST),11:49 AM
+33,1,9,34,0029600062,CLIPPERS Timeout: Regular (Full 1 Short 0),,7:44,1,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,11:49 AM
+34,1,2,35,0029600062,MISS Vaught 7' Jump Shot,,7:30,1,4,0,5,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,,,Ewing BLOCK (1 BLK),11:51 AM
+35,0,4,36,0029600062,,,7:28,1,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Houston REBOUND (Off:0 Def:1),11:51 AM
+36,4,5,37,0029600062,,,7:24,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing Traveling Turnover (P3.T4),11:51 AM
+37,17,6,38,0029600062,,,7:10,1,3,3,1,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Foul,11:52 AM
+38,16,3,39,0029600062,Sealy Free Throw Technical (1 PTS),,7:10,1,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,10 - 5,-5,,11:52 AM
+39,1,2,40,0029600062,MISS Rogers 6' Jump Shot,,6:55,1,4,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:53 AM
+40,0,4,41,0029600062,,,6:53,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:3),11:53 AM
+41,7,1,42,0029600062,,,6:49,1,5,5,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,12 - 5,-7,Johnson  Dunk (6 PTS) (Ward 3 AST),11:53 AM
+42,1,2,43,0029600062,MISS Sealy 19' Jump Shot,,6:26,1,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:53 AM
+43,0,4,44,0029600062,,,6:24,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:4),11:53 AM
+44,1,1,45,0029600062,,,6:17,1,5,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,14 - 5,-9,Ward 20' Jump Shot (2 PTS),11:53 AM
+45,2,9,46,0029600062,CLIPPERS Timeout: Short (Full 1 Short 1),,6:08,1,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,11:53 AM
+46,0,8,47,0029600062,SUB: Roberts FOR Duckworth,,6:08,1,4,4,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,11:54 AM
+47,4,6,48,0029600062,Vaught OFF.Foul (P2),,5:54,1,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:54 AM
+48,5,5,49,0029600062,Vaught Foul Turnover (P1.T3),,5:54,1,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:54 AM
+49,2,6,50,0029600062,Roberts S.FOUL (P1.T3),,5:42,1,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:55 AM
+50,11,3,51,0029600062,,,5:42,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,15 - 5,-10,Ewing Free Throw 1 of 2 (3 PTS),11:55 AM
+51,0,8,52,0029600062,SUB: Murray FOR Vaught,,5:42,1,4,4,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,11:55 AM
+52,12,3,53,0029600062,,,5:42,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,16 - 5,-11,Ewing Free Throw 2 of 2 (4 PTS),11:55 AM
+53,1,2,54,0029600062,MISS Sealy 18' Jump Shot,,5:29,1,4,0,5,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,275,Allan Houston,NYK,New York,1610612752.0,Knicks,,,Houston BLOCK (1 BLK),11:56 AM
+54,0,4,55,0029600062,,,5:26,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:5),11:56 AM
+55,4,6,56,0029600062,,,5:16,1,5,5,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Johnson OFF.Foul (P1),11:56 AM
+56,5,5,57,0029600062,,,5:16,1,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Johnson Foul Turnover (P1.T5),11:56 AM
+57,6,1,58,0029600062,Sealy  Driving Layup (3 PTS) (Richardson 1 AST),,5:02,1,4,4,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,16 - 7,-9,,11:56 AM
+58,1,5,59,0029600062,,,4:52,1,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Oakley Bad Pass Turnover (P1.T6),11:57 AM
+59,1,6,60,0029600062,,,4:42,1,5,5,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Houston P.FOUL (P1.T1),11:57 AM
+60,0,8,61,0029600062,,,4:42,1,5,5,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Starks FOR Ward,11:57 AM
+61,1,1,62,0029600062,Sealy 13' Jump Shot (5 PTS),,4:29,1,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,16 - 9,-7,,11:58 AM
+62,2,6,63,0029600062,Roberts S.FOUL (P2.T4),,4:18,1,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:58 AM
+63,11,3,64,0029600062,,,4:18,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,17 - 9,-8,Ewing Free Throw 1 of 2 (5 PTS),11:58 AM
+64,12,3,65,0029600062,,,4:18,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,18 - 9,-9,Ewing Free Throw 2 of 2 (6 PTS),11:58 AM
+65,1,6,66,0029600062,,,4:03,1,5,5,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Ewing P.FOUL (P1.T2),11:59 AM
+66,4,6,67,0029600062,Roberts OFF.Foul (P3),,3:49,1,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:59 AM
+67,5,5,68,0029600062,Roberts Foul Turnover (P1.T4),,3:49,1,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:59 AM
+68,0,8,69,0029600062,SUB: Duckworth FOR Roberts,,3:49,1,4,4,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,11:59 AM
+69,1,6,70,0029600062,Richardson P.FOUL (P1.PN),,3:29,1,4,0,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:00 PM
+70,11,3,71,0029600062,,,3:29,1,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,19 - 9,-10,Houston Free Throw 1 of 2 (3 PTS),12:00 PM
+71,12,3,72,0029600062,,,3:29,1,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,20 - 9,-11,Houston Free Throw 2 of 2 (4 PTS),12:00 PM
+72,17,6,73,0029600062,,,3:15,1,3,3,1,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Foul,12:01 PM
+73,16,3,74,0029600062,Sealy Free Throw Technical (6 PTS),,3:15,1,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,20 - 10,-10,,12:01 PM
+74,1,1,75,0029600062,Duckworth 9' Jump Shot (2 PTS),,2:58,1,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,20 - 12,-8,,12:02 PM
+75,1,6,76,0029600062,Rogers P.FOUL (P1.PN),,2:44,1,4,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:02 PM
+76,1,9,77,0029600062,,,2:44,1,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.1 Short 0),12:02 PM
+77,0,8,78,0029600062,,,2:44,1,5,5,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Wallace FOR Johnson,12:04 PM
+78,11,3,79,0029600062,,,2:44,1,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Oakley Free Throw 1 of 2,12:04 PM
+79,0,4,80,0029600062,,,2:44,1,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,12:04 PM
+80,12,3,81,0029600062,,,2:44,1,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,21 - 12,-9,Oakley Free Throw 2 of 2 (3 PTS),12:05 PM
+81,1,2,82,0029600062,MISS Murray 20' Jump Shot,,2:32,1,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:05 PM
+82,0,4,83,0029600062,,,2:31,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:6),12:05 PM
+83,1,5,84,0029600062,Murray STEAL (1 STL),,2:15,1,5,4,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Oakley Bad Pass Turnover (P2.T7),12:05 PM
+84,2,5,85,0029600062,Murray Lost Ball Turnover (P1.T5),,2:13,1,4,5,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Oakley STEAL (1 STL),12:05 PM
+85,1,1,86,0029600062,,,2:11,1,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,24 - 12,-12,Starks  3PT Jump Shot (3 PTS),12:06 PM
+86,1,2,87,0029600062,MISS Richardson 15' Jump Shot,,1:46,1,4,0,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:06 PM
+87,0,4,88,0029600062,,,1:43,1,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:7),12:06 PM
+88,1,2,89,0029600062,,,1:39,1,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Starks 16' Jump Shot,12:06 PM
+89,0,4,90,0029600062,,,1:37,1,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Oakley REBOUND (Off:1 Def:1),12:06 PM
+90,2,5,91,0029600062,Rogers STEAL (1 STL),,1:33,1,5,4,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Oakley Lost Ball Turnover (P3.T8),12:06 PM
+91,2,6,92,0029600062,,,1:24,1,5,5,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Ewing S.FOUL (P2.T3),12:06 PM
+92,11,3,93,0029600062,Sealy Free Throw 1 of 2 (7 PTS),,1:24,1,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,24 - 13,-11,,12:06 PM
+93,0,8,94,0029600062,,,1:24,1,5,5,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Williams FOR Ewing,12:07 PM
+94,12,3,95,0029600062,Sealy Free Throw 2 of 2 (8 PTS),,1:24,1,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,24 - 14,-10,,12:07 PM
+95,5,2,96,0029600062,,,1:13,1,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Houston  Layup,12:07 PM
+96,0,4,97,0029600062,,,1:12,1,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Houston REBOUND (Off:1 Def:1),12:07 PM
+97,1,1,98,0029600062,,,1:09,1,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,26 - 14,-12,Houston 15' Jump Shot (6 PTS),12:07 PM
+98,1,2,99,0029600062,MISS Murray 16' Jump Shot,,0:41,1,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:08 PM
+99,0,4,100,0029600062,,,0:39,1,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Starks REBOUND (Off:0 Def:1),12:08 PM
+100,1,2,101,0029600062,,,0:31,1,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Starks  3PT Jump Shot,12:08 PM
+101,0,4,102,0029600062,CLIPPERS Rebound,,0:30,1,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,12:08 PM
+102,3,6,103,0029600062,,,0:30,1,5,5,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Oakley L.B.FOUL (P1.PN),12:08 PM
+103,11,3,104,0029600062,Sealy Free Throw 1 of 2 (9 PTS),,0:30,1,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,26 - 15,-11,,12:09 PM
+104,12,3,105,0029600062,Sealy Free Throw 2 of 2 (10 PTS),,0:30,1,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,26 - 16,-10,,12:09 PM
+105,1,5,106,0029600062,Sealy STEAL (1 STL),,0:09,1,5,4,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Oakley Bad Pass Turnover (P4.T9),12:10 PM
+106,2,6,107,0029600062,,,0:02,1,5,5,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Williams S.FOUL (P1.PN),12:10 PM
+107,11,3,108,0029600062,Murray Free Throw 1 of 2 (1 PTS),,0:02,1,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,26 - 17,-9,,12:10 PM
+108,12,3,109,0029600062,Murray Free Throw 2 of 2 (2 PTS),,0:02,1,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,26 - 18,-8,,12:10 PM
+109,0,13,110,0029600062,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,26 - 18,-8,,12:10 PM
+110,0,12,111,0029600062,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,26 - 18,-8,,12:11 PM
+111,2,5,112,0029600062,Murray Lost Ball Turnover (P2.T6),,11:48,2,4,5,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Williams STEAL (1 STL),12:13 PM
+112,2,6,113,0029600062,Duckworth S.FOUL (P2.T1),,11:33,2,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:13 PM
+113,11,3,114,0029600062,,,11:33,2,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Wallace Free Throw 1 of 2,12:14 PM
+114,0,4,115,0029600062,,,11:33,2,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,12:14 PM
+115,12,3,116,0029600062,,,11:33,2,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Wallace Free Throw 2 of 2,12:14 PM
+116,0,4,117,0029600062,Duckworth REBOUND (Off:0 Def:1),,11:32,2,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:14 PM
+117,5,2,118,0029600062,MISS Dehere  Layup,,11:14,2,4,0,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:15 PM
+118,0,4,120,0029600062,Duckworth REBOUND (Off:1 Def:1),,11:13,2,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:15 PM
+119,7,1,119,0029600062,Duckworth  Dunk (4 PTS),,11:13,2,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,26 - 20,-6,,12:15 PM
+120,1,2,121,0029600062,,,10:56,2,5,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Ward  3PT Jump Shot,12:15 PM
+121,0,4,122,0029600062,Murray REBOUND (Off:0 Def:1),,10:52,2,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:15 PM
+122,1,1,123,0029600062,Rogers 19' Jump Shot (2 PTS) (Murray 1 AST),,10:46,2,4,4,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,26 - 22,-4,,12:15 PM
+123,1,2,124,0029600062,,,10:22,2,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Wallace 12' Jump Shot,12:16 PM
+124,0,4,126,0029600062,,,10:20,2,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Williams REBOUND (Off:1 Def:0),12:16 PM
+125,4,1,125,0029600062,,,10:20,2,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,28 - 22,-6,Williams  Tip Shot (2 PTS),12:16 PM
+126,1,1,127,0029600062,Rogers 18' Jump Shot (4 PTS),,10:02,2,4,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,28 - 24,-4,,12:16 PM
+127,2,1,128,0029600062,,,9:44,2,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,30 - 24,-6,Johnson 7' Running Jump Shot (8 PTS),12:16 PM
+128,1,2,129,0029600062,MISS Rogers 16' Jump Shot,,9:26,2,4,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:16 PM
+129,0,4,130,0029600062,,,9:24,2,5,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ward REBOUND (Off:0 Def:1),12:16 PM
+130,5,2,131,0029600062,,,9:19,2,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Williams  Layup,12:17 PM
+131,0,4,132,0029600062,,,9:17,2,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:2 Def:1),12:17 PM
+132,2,6,133,0029600062,Rogers S.FOUL (P2.T2),,9:04,2,4,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:17 PM
+133,0,8,134,0029600062,SUB: Vaught FOR Rogers,,9:04,2,4,4,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,12:17 PM
+134,11,3,135,0029600062,,,9:04,2,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,31 - 24,-7,Wallace Free Throw 1 of 2 (1 PTS),12:17 PM
+135,12,3,136,0029600062,,,9:04,2,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,32 - 24,-8,Wallace Free Throw 2 of 2 (2 PTS),12:17 PM
+136,5,2,137,0029600062,MISS Duckworth  Layup,,8:48,2,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:18 PM
+137,0,4,138,0029600062,,,8:43,2,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:2 Def:2),12:18 PM
+138,8,1,139,0029600062,,,8:38,2,5,5,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,34 - 24,-10,Wallace  Slam Dunk (4 PTS) (Starks 1 AST),12:18 PM
+139,1,6,140,0029600062,,,8:14,2,5,5,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Ward P.FOUL (P1.T1),12:18 PM
+140,0,8,141,0029600062,,,8:14,2,5,5,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,1006,Herb Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Williams FOR Wallace,12:19 PM
+141,13,5,142,0029600062,CLIPPERS Turnover: Backcourt (T#7),,7:58,2,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,12:19 PM
+142,2,7,143,0029600062,CLIPPERS Violation: Def. Goaltending Violation,,7:49,2,2,0,1,1610612746,,,,,,0,,,,,,0,,,,,,,,,12:20 PM
+143,0,8,144,0029600062,SUB: Piatkowski FOR Sealy,,7:49,2,4,4,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,12:20 PM
+144,1,5,145,0029600062,Piatkowski STEAL (1 STL),,7:39,2,5,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Johnson Bad Pass Turnover (P2.T10),12:20 PM
+145,1,1,146,0029600062,Duckworth 18' Jump Shot (6 PTS) (Dehere 1 AST),,7:28,2,4,4,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,34 - 26,-8,,12:20 PM
+146,1,2,147,0029600062,,,7:12,2,5,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Ward 20' Jump Shot,12:21 PM
+147,0,4,148,0029600062,Murray REBOUND (Off:0 Def:2),,7:10,2,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:21 PM
+148,1,2,149,0029600062,MISS Dehere 18' Jump Shot,,7:01,2,4,0,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:21 PM
+149,0,4,150,0029600062,,,6:59,2,5,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ward REBOUND (Off:0 Def:2),12:21 PM
+150,1,2,151,0029600062,,,6:54,2,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Starks 16' Jump Shot,12:21 PM
+151,0,4,153,0029600062,,,6:52,2,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Williams REBOUND (Off:2 Def:0),12:21 PM
+152,5,1,152,0029600062,,,6:51,2,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,36 - 26,-10,Williams  Layup (4 PTS),12:21 PM
+153,1,6,154,0029600062,,,6:45,2,5,5,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Ward P.FOUL (P2.T2),12:21 PM
+154,1,9,155,0029600062,CLIPPERS Timeout: Regular (Full 2 Short 1),,6:45,2,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,12:21 PM
+155,0,8,156,0029600062,SUB: Outlaw FOR Murray,,6:45,2,4,4,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,12:21 PM
+156,0,8,158,0029600062,SUB: Wright FOR Duckworth,,6:45,2,4,4,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,12:23 PM
+157,0,8,159,0029600062,,,6:45,2,5,5,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Houston FOR Ward,12:23 PM
+158,1,1,160,0029600062,Wright 11' Jump Shot (2 PTS),,6:31,2,4,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,36 - 28,-8,,12:24 PM
+159,1,5,161,0029600062,Outlaw STEAL (1 STL),,6:19,2,5,4,0,317,John Starks,NYK,New York,1610612752.0,Knicks,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Starks Bad Pass Turnover (P1.T11),12:24 PM
+160,2,6,162,0029600062,,,6:04,2,5,5,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Houston S.FOUL (P2.T3),12:24 PM
+161,11,3,163,0029600062,MISS Wright Free Throw 1 of 2,,6:04,2,4,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:24 PM
+162,0,4,165,0029600062,CLIPPERS Rebound,,6:04,2,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,12:25 PM
+163,0,8,164,0029600062,,,6:04,2,5,5,0,1006,Herb Williams,NYK,New York,1610612752.0,Knicks,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Ewing FOR Williams,12:25 PM
+164,12,3,166,0029600062,MISS Wright Free Throw 2 of 2,,6:04,2,4,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:25 PM
+165,0,4,167,0029600062,,,6:03,2,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:8),12:25 PM
+166,1,6,168,0029600062,Piatkowski P.FOUL (P1.T3),,5:54,2,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:25 PM
+167,1,5,169,0029600062,Outlaw STEAL (2 STL),,5:46,2,5,4,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Houston Bad Pass Turnover (P1.T12),12:26 PM
+168,5,2,170,0029600062,MISS Outlaw  Layup,,5:37,2,4,0,5,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,433,Buck Williams,NYK,New York,1610612752.0,Knicks,,,Williams BLOCK (1 BLK),12:26 PM
+169,0,4,171,0029600062,Dehere REBOUND (Off:1 Def:0),,5:36,2,4,0,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:26 PM
+170,1,2,172,0029600062,MISS Vaught 14' Jump Shot,,5:26,2,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:26 PM
+171,0,4,174,0029600062,Wright REBOUND (Off:1 Def:0),,5:25,2,4,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:26 PM
+172,4,1,173,0029600062,Wright  Tip Shot (4 PTS),,5:25,2,4,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,36 - 30,-6,,12:26 PM
+173,1,9,175,0029600062,,,5:19,2,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.2 Short 0),12:26 PM
+174,0,8,176,0029600062,,,5:19,2,5,5,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Oakley FOR Williams,12:28 PM
+175,1,6,177,0029600062,Wright P.FOUL (P1.T4),,5:10,2,4,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:29 PM
+176,1,2,178,0029600062,,,4:57,2,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Starks 24' 3PT Jump Shot,12:29 PM
+177,0,4,179,0029600062,Wright REBOUND (Off:1 Def:1),,4:56,2,4,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:29 PM
+178,1,6,180,0029600062,,,4:44,2,5,5,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Johnson P.FOUL (P2.T4),12:29 PM
+179,2,6,181,0029600062,,,4:23,2,5,5,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Starks S.FOUL (P1.PN),12:30 PM
+180,11,3,182,0029600062,Dehere Free Throw 1 of 2 (1 PTS),,4:23,2,4,0,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,36 - 31,-5,,12:30 PM
+181,12,3,183,0029600062,Dehere Free Throw 2 of 2 (2 PTS),,4:23,2,4,0,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,36 - 32,-4,,12:31 PM
+182,8,1,184,0029600062,,,4:08,2,5,5,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,38 - 32,-6,Ewing  Slam Dunk (8 PTS) (Johnson 1 AST),12:31 PM
+183,1,2,185,0029600062,MISS Piatkowski 24' 3PT Jump Shot,,3:45,2,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:31 PM
+184,0,4,186,0029600062,,,3:43,2,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:9),12:32 PM
+185,1,5,187,0029600062,Dehere STEAL (1 STL),,3:36,2,5,4,0,317,John Starks,NYK,New York,1610612752.0,Knicks,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Starks Bad Pass Turnover (P2.T13),12:32 PM
+186,1,2,188,0029600062,MISS Vaught 16' Jump Shot,,3:22,2,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:32 PM
+187,0,4,190,0029600062,Piatkowski REBOUND (Off:1 Def:0),,3:20,2,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:32 PM
+188,4,1,189,0029600062,Piatkowski  Tip Shot (2 PTS),,3:20,2,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,38 - 34,-4,,12:32 PM
+189,2,9,191,0029600062,,,3:13,2,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Short (Reg.2 Short 1),12:32 PM
+190,0,8,192,0029600062,,,3:13,2,5,5,0,317,John Starks,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Ward FOR Starks,12:33 PM
+191,5,2,193,0029600062,,,2:58,2,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Oakley  Layup,12:33 PM
+192,0,4,194,0029600062,Piatkowski REBOUND (Off:1 Def:1),,2:56,2,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:33 PM
+193,9,1,195,0029600062,Wright  Driving Dunk (6 PTS) (Dehere 2 AST),,2:52,2,4,4,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,38 - 36,-2,,12:33 PM
+194,4,6,196,0029600062,,,2:38,2,5,5,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Ewing OFF.Foul (P3),12:34 PM
+195,5,5,197,0029600062,,,2:38,2,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing Foul Turnover (P4.T14),12:34 PM
+196,11,6,198,0029600062,,,2:38,2,5,5,1,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Ewing T.FOUL (P3.PN),12:34 PM
+197,0,8,199,0029600062,,,2:38,2,5,5,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Williams FOR Ewing,12:34 PM
+198,16,3,200,0029600062,Piatkowski Free Throw Technical (3 PTS),,2:38,2,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,38 - 37,-1,,12:34 PM
+199,5,1,201,0029600062,Outlaw  Layup (2 PTS),,2:20,2,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,38 - 39,1,,12:35 PM
+200,1,2,202,0029600062,,,1:59,2,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Houston 21' Jump Shot,12:35 PM
+201,0,4,203,0029600062,,,1:58,2,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:3 Def:2),12:35 PM
+202,2,6,204,0029600062,Outlaw S.FOUL (P1.PN),,1:46,2,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:35 PM
+203,11,3,205,0029600062,,,1:46,2,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Oakley Free Throw 1 of 2,12:35 PM
+204,0,4,206,0029600062,,,1:46,2,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,12:35 PM
+205,12,3,207,0029600062,,,1:46,2,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,39 - 39,TIE,Oakley Free Throw 2 of 2 (4 PTS),12:36 PM
+206,1,2,208,0029600062,MISS Dehere 16' Jump Shot,,1:36,2,4,0,5,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,,,Ward BLOCK (1 BLK),12:37 PM
+207,0,4,209,0029600062,,,1:34,2,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Houston REBOUND (Off:1 Def:2),12:37 PM
+208,4,6,210,0029600062,,,1:31,2,5,5,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Williams OFF.Foul (P2),12:37 PM
+209,5,5,211,0029600062,,,1:31,2,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Williams Foul Turnover (P1.T15),12:37 PM
+210,0,8,212,0029600062,,,1:31,2,5,5,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Wallace FOR Johnson,12:37 PM
+211,1,5,213,0029600062,Outlaw Bad Pass Turnover (P1.T8),,1:22,2,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:37 PM
+212,1,5,214,0029600062,Piatkowski STEAL (2 STL),,1:08,2,5,4,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Houston Bad Pass Turnover (P2.T16),12:38 PM
+213,4,6,215,0029600062,Dehere OFF.Foul (P1),,1:08,2,4,0,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:38 PM
+214,5,5,216,0029600062,Dehere Foul Turnover (P1.T9),,1:08,2,4,0,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:38 PM
+215,2,1,217,0029600062,,,0:57,2,5,5,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,41 - 39,-2,Wallace 16' Running Jump Shot (6 PTS) (Ward 4 AST),12:38 PM
+216,2,5,218,0029600062,Vaught Lost Ball Turnover (P2.T10),,0:44,2,4,5,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Williams STEAL (2 STL),12:39 PM
+217,1,2,219,0029600062,,,0:38,2,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Houston  3PT Jump Shot,12:39 PM
+218,0,4,220,0029600062,,,0:33,2,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Oakley REBOUND (Off:2 Def:1),12:39 PM
+219,5,2,221,0029600062,Outlaw BLOCK (1 BLK),,0:31,2,5,0,4,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,,,MISS Williams  Layup,12:39 PM
+220,0,4,222,0029600062,,,0:28,2,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Williams REBOUND (Off:3 Def:0),12:39 PM
+221,1,1,223,0029600062,,,0:26,2,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,43 - 39,-4,Williams 19' Jump Shot (6 PTS),12:39 PM
+222,1,2,224,0029600062,MISS Wright 8' Jump Shot,,0:13,2,4,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:39 PM
+223,0,4,225,0029600062,,,0:11,2,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:0 Def:1),12:39 PM
+224,1,5,226,0029600062,Outlaw STEAL (3 STL),,0:08,2,5,4,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Ward Bad Pass Turnover (P2.T17),12:39 PM
+225,1,2,230,0029600062,MISS Dehere 24' 3PT Jump Shot,,0:02,2,4,0,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:40 PM
+226,0,4,231,0029600062,CLIPPERS Rebound,,0:01,2,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,12:40 PM
+227,3,6,232,0029600062,,,0:00,2,5,5,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Oakley L.B.FOUL (P2.PN),12:40 PM
+228,11,3,233,0029600062,MISS Outlaw Free Throw 1 of 2,,0:00,2,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:40 PM
+229,0,4,234,0029600062,CLIPPERS Rebound,,0:00,2,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,12:40 PM
+230,12,3,235,0029600062,Outlaw Free Throw 2 of 2 (3 PTS),,0:00,2,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,43 - 40,-3,,12:41 PM
+231,0,13,236,0029600062,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,43 - 40,-3,,12:41 PM
+232,0,12,237,0029600062,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,43 - 40,-3,,12:55 PM
+233,2,5,238,0029600062,Sealy Lost Ball Turnover (P3.T11),,11:46,3,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:58 PM
+234,6,1,239,0029600062,,,11:24,3,5,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,45 - 40,-5,Ward  Driving Layup (4 PTS),12:59 PM
+235,17,6,240,0029600062,,,11:03,3,3,3,1,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Foul,12:59 PM
+236,16,3,241,0029600062,Sealy Free Throw Technical (11 PTS),,11:03,3,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,45 - 41,-4,,12:59 PM
+237,1,2,242,0029600062,MISS Rogers 19' Jump Shot,,10:51,3,4,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:00 PM
+238,0,4,243,0029600062,,,10:50,3,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Houston REBOUND (Off:1 Def:3),1:00 PM
+239,14,6,244,0029600062,Duckworth FLAGRANT.FOUL.TYPE1 (P3.T1),,10:48,3,4,0,1,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:00 PM
+240,17,3,245,0029600062,,,10:48,3,5,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,46 - 41,-5,Ward Free Throw Clear Path (5 PTS),1:00 PM
+241,18,3,246,0029600062,,,10:48,3,5,0,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Ward Free Throw Flagrant 1 of 2,1:00 PM
+242,0,4,247,0029600062,,,10:48,3,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,1:00 PM
+243,1,1,248,0029600062,,,10:33,3,5,5,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,0,,,,,,49 - 41,-8,Houston  3PT Jump Shot (9 PTS) (Ward 5 AST),1:01 PM
+244,2,1,249,0029600062,Rogers 6' Running Jump Shot (6 PTS),,10:21,3,4,0,5,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,NYK,New York,1610612752.0,Knicks,49 - 43,-6,,1:02 PM
+245,2,6,250,0029600062,,,10:21,3,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Houston S.FOUL (P3.T1),1:02 PM
+246,0,8,252,0029600062,,,10:21,3,5,5,0,369,Charlie Ward,NYK,New York,1610612752.0,Knicks,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Brooks FOR Ward,1:02 PM
+247,10,3,253,0029600062,Rogers Free Throw 1 of 1 (7 PTS),,10:21,3,4,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,49 - 44,-5,,1:02 PM
+248,4,6,254,0029600062,,,10:12,3,5,5,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Johnson OFF.Foul (P3),1:02 PM
+249,5,5,255,0029600062,,,10:12,3,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Johnson Foul Turnover (P3.T18),1:02 PM
+250,1,1,256,0029600062,Sealy 17' Jump Shot (13 PTS) (Richardson 2 AST),,10:02,3,4,4,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,49 - 46,-3,,1:03 PM
+251,3,7,258,0029600062,Rogers Violation:Lane,,9:54,3,4,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:03 PM
+252,1,1,257,0029600062,,,9:54,3,5,5,4,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,LAC,Los Angeles,1610612746.0,Clippers,51 - 46,-5,Ewing 11' Jump Shot (10 PTS) (Houston 2 AST),1:03 PM
+253,2,5,259,0029600062,Richardson Lost Ball Turnover (P1.T12),,9:47,3,4,5,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Brooks STEAL (1 STL),1:03 PM
+254,5,2,260,0029600062,,,9:36,3,5,0,0,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Brooks  Layup,1:03 PM
+255,0,4,261,0029600062,Duckworth REBOUND (Off:1 Def:2),,9:35,3,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:03 PM
+256,1,1,262,0029600062,Duckworth 15' Jump Shot (8 PTS) (Richardson 3 AST),,9:28,3,4,4,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,51 - 48,-3,,1:04 PM
+257,2,5,263,0029600062,Richardson STEAL (2 STL),,9:16,3,5,4,0,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Brooks Lost Ball Turnover (P1.T19),1:04 PM
+258,1,6,264,0029600062,,,9:15,3,5,5,0,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Brooks P.FOUL (P1.T2),1:04 PM
+259,1,2,265,0029600062,MISS Vaught 14' Jump Shot,,9:03,3,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:04 PM
+260,0,4,266,0029600062,,,9:01,3,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:10),1:04 PM
+261,1,2,267,0029600062,,,8:52,3,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Houston 24' 3PT Jump Shot,1:05 PM
+262,0,4,268,0029600062,Sealy REBOUND (Off:0 Def:1),,8:50,3,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:05 PM
+263,1,2,269,0029600062,MISS Richardson 25' 3PT Jump Shot,,8:35,3,4,0,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:05 PM
+264,0,4,270,0029600062,,,8:33,3,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Houston REBOUND (Off:1 Def:4),1:05 PM
+265,17,6,271,0029600062,CLIPPERS Foul,,8:20,3,2,0,1,1610612746,,,,,,0,,,,,,0,,,,,,,,,1:05 PM
+266,16,3,272,0029600062,,,8:20,3,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,52 - 48,-4,Houston Free Throw Technical (10 PTS),1:05 PM
+267,1,2,273,0029600062,,,8:04,3,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Houston 17' Jump Shot,1:06 PM
+268,0,4,274,0029600062,,,8:02,3,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Oakley REBOUND (Off:3 Def:1),1:06 PM
+269,5,2,275,0029600062,,,7:58,3,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Houston  Layup,1:06 PM
+270,0,4,276,0029600062,Vaught REBOUND (Off:0 Def:3),,7:55,3,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:06 PM
+271,2,5,277,0029600062,Duckworth Lost Ball Turnover (P1.T13),,7:48,3,4,5,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Brooks STEAL (2 STL),1:06 PM
+272,6,2,278,0029600062,,,7:42,3,5,0,0,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Brooks  Driving Layup,1:06 PM
+273,0,4,279,0029600062,Sealy REBOUND (Off:0 Def:2),,7:41,3,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:06 PM
+274,2,6,280,0029600062,,,7:35,3,5,5,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Houston S.FOUL (P4.T3),1:06 PM
+275,11,3,281,0029600062,MISS Vaught Free Throw 1 of 2,,7:35,3,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:07 PM
+276,0,4,282,0029600062,CLIPPERS Rebound,,7:35,3,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,1:07 PM
+277,0,8,283,0029600062,,,7:35,3,5,5,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Starks FOR Houston,1:07 PM
+278,12,3,284,0029600062,Vaught Free Throw 2 of 2 (1 PTS),,7:35,3,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,52 - 49,-3,,1:07 PM
+279,6,1,285,0029600062,,,7:18,3,5,0,4,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,LAC,Los Angeles,1610612746.0,Clippers,54 - 49,-5,Ewing  Driving Layup (12 PTS),1:08 PM
+280,2,6,286,0029600062,Duckworth S.FOUL (P4.T2),,7:18,3,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:08 PM
+281,10,3,287,0029600062,,,7:18,3,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,55 - 49,-6,Ewing Free Throw 1 of 1 (13 PTS),1:08 PM
+282,1,2,288,0029600062,MISS Rogers  3PT Jump Shot,,6:55,3,4,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:08 PM
+283,0,4,289,0029600062,,,6:54,3,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:11),1:08 PM
+284,1,2,290,0029600062,,,6:48,3,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Starks  3PT Jump Shot,1:09 PM
+285,0,4,291,0029600062,Duckworth REBOUND (Off:1 Def:3),,6:47,3,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:09 PM
+286,1,2,292,0029600062,MISS Duckworth 15' Jump Shot,,6:34,3,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:09 PM
+287,0,4,293,0029600062,CLIPPERS Rebound,,6:30,3,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,1:09 PM
+288,1,9,294,0029600062,CLIPPERS Timeout: Regular (Full 3 Short 1),,6:30,3,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,1:09 PM
+289,4,6,295,0029600062,Vaught OFF.Foul (P3),,6:30,3,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:11 PM
+290,5,5,296,0029600062,Vaught Foul Turnover (P3.T14),,6:30,3,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:11 PM
+291,2,6,297,0029600062,Sealy S.FOUL (P1.T3),,6:11,3,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:12 PM
+292,11,3,298,0029600062,,,6:11,3,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,56 - 49,-7,Johnson Free Throw 1 of 2 (9 PTS),1:12 PM
+293,12,3,299,0029600062,,,6:11,3,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Johnson Free Throw 2 of 2,1:12 PM
+294,0,4,300,0029600062,Vaught REBOUND (Off:0 Def:4),,6:11,3,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:13 PM
+295,1,2,301,0029600062,MISS Rogers 16' Jump Shot,,5:50,3,4,0,5,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,,,Johnson BLOCK (1 BLK),1:13 PM
+296,0,4,302,0029600062,,,5:48,3,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:12),1:13 PM
+297,1,2,303,0029600062,,,5:38,3,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Ewing 17' Jump Shot,1:13 PM
+298,0,4,304,0029600062,Vaught REBOUND (Off:0 Def:5),,5:36,3,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:13 PM
+299,1,2,305,0029600062,MISS Sealy 13' Jump Shot,,5:17,3,4,0,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:13 PM
+300,0,4,306,0029600062,,,5:15,3,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Oakley REBOUND (Off:3 Def:2),1:13 PM
+301,4,5,307,0029600062,,,5:05,3,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing Traveling Turnover (P5.T20),1:14 PM
+302,2,9,308,0029600062,CLIPPERS Timeout: Short (Full 3 Short 2),,5:05,3,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,1:14 PM
+303,5,2,309,0029600062,MISS Sealy  Layup,,4:53,3,4,0,5,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,,,Ewing BLOCK (2 BLK),1:15 PM
+304,0,4,310,0029600062,,,4:52,3,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Oakley REBOUND (Off:3 Def:3),1:15 PM
+305,1,1,311,0029600062,,,4:47,3,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,58 - 49,-9,Starks 20' Jump Shot (5 PTS),1:15 PM
+306,5,2,312,0029600062,MISS Duckworth  Layup,,4:21,3,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:15 PM
+307,0,4,313,0029600062,Richardson REBOUND (Off:1 Def:0),,4:19,3,4,0,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:15 PM
+308,5,2,314,0029600062,MISS Duckworth  Layup,,4:12,3,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:15 PM
+309,0,4,315,0029600062,Vaught REBOUND (Off:1 Def:5),,4:11,3,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:15 PM
+310,2,6,316,0029600062,,,4:11,3,5,5,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Oakley S.FOUL (P3.T4),1:16 PM
+311,11,3,317,0029600062,Vaught Free Throw 1 of 2 (2 PTS),,4:11,3,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,58 - 50,-8,,1:16 PM
+312,0,8,318,0029600062,SUB: Piatkowski FOR Sealy,,4:11,3,4,4,0,907,Malik Sealy,LAC,Los Angeles,1610612746.0,Clippers,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,1:16 PM
+313,12,3,319,0029600062,Vaught Free Throw 2 of 2 (3 PTS),,4:11,3,4,0,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,58 - 51,-7,,1:16 PM
+314,1,5,320,0029600062,Richardson STEAL (3 STL),,3:49,3,5,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Ewing Bad Pass Turnover (P6.T21),1:17 PM
+315,3,1,321,0029600062,Duckworth 2' Hook Shot (10 PTS) (Rogers 1 AST),,3:34,3,4,4,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,58 - 53,-5,,1:17 PM
+316,2,5,322,0029600062,Rogers STEAL (2 STL),,3:14,3,5,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Johnson Lost Ball Turnover (P4.T22),1:17 PM
+317,1,2,323,0029600062,MISS Richardson 14' Jump Shot,,3:07,3,4,0,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:17 PM
+318,0,4,324,0029600062,,,3:06,3,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:13),1:17 PM
+319,5,1,325,0029600062,,,2:56,3,5,5,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,60 - 53,-7,Oakley  Layup (6 PTS) (Johnson 2 AST),1:17 PM
+320,1,2,326,0029600062,MISS Richardson 17' Jump Shot,,2:40,3,4,0,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:18 PM
+321,0,4,327,0029600062,,,2:38,3,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:14),1:18 PM
+322,6,1,328,0029600062,,,2:32,3,5,5,4,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,LAC,Los Angeles,1610612746.0,Clippers,62 - 53,-9,Oakley  Driving Layup (8 PTS) (Starks 2 AST),1:18 PM
+323,2,6,329,0029600062,Piatkowski S.FOUL (P2.T4),,2:32,3,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:18 PM
+324,1,9,330,0029600062,,,2:32,3,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.3 Short 1),1:18 PM
+325,0,8,331,0029600062,SUB: Dehere FOR Vaught,,2:32,3,4,4,0,919,Loy Vaught,LAC,Los Angeles,1610612746.0,Clippers,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,1:20 PM
+326,0,8,332,0029600062,SUB: Outlaw FOR Richardson,,2:32,3,4,4,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,1:20 PM
+327,0,8,334,0029600062,,,2:32,3,5,5,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Wallace FOR Johnson,1:20 PM
+328,10,3,333,0029600062,,,2:32,3,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,63 - 53,-10,Oakley Free Throw 1 of 1 (9 PTS),1:20 PM
+329,1,5,335,0029600062,Duckworth Bad Pass Turnover (P2.T15),,2:12,3,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:21 PM
+330,4,6,336,0029600062,,,2:03,3,5,5,0,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Brooks OFF.Foul (P2),1:22 PM
+331,5,5,337,0029600062,,,2:03,3,5,0,0,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Brooks Foul Turnover (P2.T23),1:22 PM
+332,7,2,338,0029600062,MISS Outlaw  Dunk,,1:53,3,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:22 PM
+333,0,4,339,0029600062,,,1:53,3,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,1:22 PM
+334,2,6,340,0029600062,Rogers S.FOUL (P3.PN),,1:38,3,4,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:22 PM
+335,11,3,341,0029600062,,,1:38,3,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,64 - 53,-11,Wallace Free Throw 1 of 2 (7 PTS),1:22 PM
+336,12,3,342,0029600062,,,1:38,3,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,65 - 53,-12,Wallace Free Throw 2 of 2 (8 PTS),1:23 PM
+337,1,1,343,0029600062,Duckworth 16' Jump Shot (12 PTS) (Dehere 3 AST),,1:25,3,4,4,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,65 - 55,-10,,1:23 PM
+338,5,2,344,0029600062,Outlaw BLOCK (2 BLK),,1:02,3,5,0,4,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,,,MISS Oakley  Layup,1:24 PM
+339,0,4,345,0029600062,,,1:01,3,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,1:24 PM
+340,1,2,346,0029600062,,,1:00,3,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Starks 25' 3PT Jump Shot,1:24 PM
+341,0,4,347,0029600062,CLIPPERS Rebound,,0:55,3,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,1:24 PM
+342,1,2,348,0029600062,MISS Piatkowski 14' Jump Shot,,0:34,3,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:25 PM
+343,0,4,349,0029600062,,,0:32,3,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:0 Def:2),1:25 PM
+344,1,5,350,0029600062,Piatkowski STEAL (3 STL),,0:22,3,5,4,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Oakley Bad Pass Turnover (P5.T24),1:25 PM
+345,1,2,351,0029600062,MISS Duckworth 14' Jump Shot,,0:13,3,4,0,0,404,Kevin Duckworth,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:25 PM
+346,0,4,352,0029600062,Outlaw REBOUND (Off:1 Def:0),,0:12,3,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:25 PM
+347,2,6,353,0029600062,,,0:00,3,5,5,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Ewing S.FOUL (P4.PN),1:25 PM
+348,11,3,354,0029600062,MISS Rogers Free Throw 1 of 2,,0:00,3,4,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:26 PM
+349,0,4,355,0029600062,CLIPPERS Rebound,,0:00,3,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,1:26 PM
+350,12,3,356,0029600062,MISS Rogers Free Throw 2 of 2,,0:00,3,4,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:26 PM
+351,0,4,357,0029600062,,,0:00,3,5,0,0,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Brooks REBOUND (Off:0 Def:1),1:26 PM
+352,0,13,358,0029600062,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,65 - 55,-10,,1:26 PM
+353,0,12,359,0029600062,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,65 - 55,-10,,1:27 PM
+354,1,2,360,0029600062,,,11:37,4,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Starks 25' 3PT Jump Shot,1:29 PM
+355,0,4,362,0029600062,,,11:35,4,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Oakley REBOUND (Off:4 Def:3),1:30 PM
+356,5,2,361,0029600062,,,11:35,4,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Oakley  Layup,1:30 PM
+357,0,4,363,0029600062,,,11:34,4,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,1:30 PM
+358,5,1,364,0029600062,,,11:32,4,5,5,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,67 - 55,-12,Wallace  Layup (10 PTS) (Oakley 2 AST),1:30 PM
+359,1,1,365,0029600062,Dehere  3PT Jump Shot (5 PTS) (Roberts 1 AST),,11:12,4,4,4,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,67 - 58,-9,,1:30 PM
+360,1,2,366,0029600062,,,10:55,4,5,0,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Houston  3PT Jump Shot,1:30 PM
+361,0,4,367,0029600062,Outlaw REBOUND (Off:1 Def:1),,10:53,4,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:31 PM
+362,1,2,368,0029600062,MISS Piatkowski 19' Jump Shot,,10:45,4,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:31 PM
+363,0,4,369,0029600062,Outlaw REBOUND (Off:2 Def:1),,10:44,4,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:31 PM
+364,5,1,370,0029600062,Outlaw  Layup (5 PTS),,10:43,4,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,67 - 60,-7,,1:31 PM
+365,1,2,371,0029600062,,,10:20,4,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Starks 24' 3PT Jump Shot,1:31 PM
+366,0,4,372,0029600062,Roberts REBOUND (Off:0 Def:1),,10:19,4,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:31 PM
+367,1,2,373,0029600062,MISS Roberts 6' Jump Shot,,9:56,4,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:32 PM
+368,0,4,374,0029600062,,,9:55,4,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,1:32 PM
+369,8,5,375,0029600062,,,9:35,4,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Williams 3 Second Violation Turnover (P2.T25),1:32 PM
+370,2,6,376,0029600062,,,9:22,4,5,5,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Williams S.FOUL (P3.T1),1:33 PM
+371,0,8,378,0029600062,,,9:22,4,5,5,0,317,John Starks,NYK,New York,1610612752.0,Knicks,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Brooks FOR Starks,1:33 PM
+372,11,3,379,0029600062,Murray Free Throw 1 of 2 (3 PTS),,9:22,4,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,67 - 61,-6,,1:33 PM
+373,0,8,381,0029600062,,,9:22,4,5,5,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Ewing FOR Oakley,1:33 PM
+374,12,3,382,0029600062,Murray Free Throw 2 of 2 (4 PTS),,9:22,4,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,67 - 62,-5,,1:33 PM
+375,5,2,383,0029600062,Outlaw BLOCK (3 BLK),,9:08,4,5,0,4,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,,,MISS Houston  Layup,1:34 PM
+376,0,4,384,0029600062,Piatkowski REBOUND (Off:1 Def:2),,9:07,4,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:34 PM
+377,1,2,385,0029600062,MISS Dehere 20' Jump Shot,,9:02,4,4,0,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:34 PM
+378,0,4,386,0029600062,,,9:01,4,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:15),1:34 PM
+379,1,2,387,0029600062,,,8:49,4,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Ewing 11' Jump Shot,1:34 PM
+380,0,4,388,0029600062,Dehere REBOUND (Off:1 Def:1),,8:48,4,4,0,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:34 PM
+381,2,6,389,0029600062,,,8:43,4,5,5,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Houston S.FOUL (P5.T2),1:34 PM
+382,11,3,390,0029600062,Murray Free Throw 1 of 2 (5 PTS),,8:43,4,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,67 - 63,-4,,1:35 PM
+383,0,8,391,0029600062,,,8:43,4,5,5,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Starks FOR Houston,1:35 PM
+384,12,3,392,0029600062,MISS Murray Free Throw 2 of 2,,8:43,4,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:35 PM
+385,0,4,393,0029600062,,,8:43,4,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:16),1:35 PM
+386,1,1,394,0029600062,,,8:27,4,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,69 - 63,-6,Wallace 14' Jump Shot (12 PTS),1:35 PM
+387,9,1,395,0029600062,Murray  Driving Dunk (7 PTS),,8:08,4,4,0,5,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,NYK,New York,1610612752.0,Knicks,69 - 65,-4,,1:36 PM
+388,2,6,396,0029600062,,,8:08,4,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Wallace S.FOUL (P1.T3),1:36 PM
+389,10,3,397,0029600062,Murray Free Throw 1 of 1 (8 PTS),,8:08,4,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,69 - 66,-3,,1:36 PM
+390,2,6,398,0029600062,Murray S.FOUL (P1.T1),,7:52,4,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:36 PM
+391,11,3,399,0029600062,,,7:52,4,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,70 - 66,-4,Wallace Free Throw 1 of 2 (13 PTS),1:36 PM
+392,12,3,400,0029600062,,,7:52,4,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,71 - 66,-5,Wallace Free Throw 2 of 2 (14 PTS),1:37 PM
+393,1,2,401,0029600062,MISS Roberts 10' Jump Shot,,7:38,4,4,0,5,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,,,Ewing BLOCK (3 BLK),1:37 PM
+394,0,4,402,0029600062,CLIPPERS Rebound,,7:37,4,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,1:37 PM
+395,1,9,403,0029600062,CLIPPERS Timeout: Regular (Full 4 Short 2),,7:36,4,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,1:38 PM
+396,1,2,404,0029600062,MISS Roberts 9' Jump Shot,,7:33,4,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:40 PM
+397,0,4,405,0029600062,,,7:30,4,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Starks REBOUND (Off:0 Def:2),1:40 PM
+398,1,5,406,0029600062,Piatkowski STEAL (4 STL),,7:15,4,5,4,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Ewing Bad Pass Turnover (P7.T26),1:40 PM
+399,1,6,407,0029600062,,,6:58,4,5,5,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Starks P.FOUL (P2.T4),1:41 PM
+400,2,5,408,0029600062,Dehere Lost Ball Turnover (P2.T16),,6:50,4,4,5,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Brooks STEAL (3 STL),1:41 PM
+401,1,2,409,0029600062,Murray BLOCK (1 BLK),,6:32,4,5,0,4,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,,,MISS Ewing 5' Jump Shot,1:41 PM
+402,0,4,410,0029600062,,,6:30,4,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Starks REBOUND (Off:1 Def:2),1:41 PM
+403,1,2,411,0029600062,,,6:27,4,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Starks  3PT Jump Shot,1:41 PM
+404,0,4,412,0029600062,,,6:24,4,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Williams REBOUND (Off:4 Def:0),1:42 PM
+405,2,6,413,0029600062,Roberts S.FOUL (P4.T2),,6:11,4,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:42 PM
+406,11,3,414,0029600062,,,6:11,4,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,72 - 66,-6,Ewing Free Throw 1 of 2 (14 PTS),1:42 PM
+407,4,7,416,0029600062,Piatkowski Violation:Jump Ball,,6:11,4,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:42 PM
+408,12,3,417,0029600062,,,6:11,4,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,73 - 66,-7,Ewing Free Throw 2 of 2 (15 PTS),1:43 PM
+409,4,5,418,0029600062,Roberts Traveling Turnover (P2.T17),,5:54,4,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:43 PM
+410,6,7,419,0029600062,Dehere Violation:Double Lane,,5:40,4,4,0,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:44 PM
+411,1,2,420,0029600062,,,5:28,4,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Wallace 6' Jump Shot,1:44 PM
+412,0,4,421,0029600062,Outlaw REBOUND (Off:2 Def:2),,5:25,4,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:44 PM
+413,2,6,422,0029600062,,,5:16,4,5,5,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Williams S.FOUL (P4.PN),1:44 PM
+414,11,3,423,0029600062,Piatkowski Free Throw 1 of 2 (4 PTS),,5:16,4,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,73 - 67,-6,,1:44 PM
+415,0,8,424,0029600062,SUB: Richardson FOR Dehere,,5:16,4,4,4,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,1:45 PM
+416,0,8,425,0029600062,,,5:16,4,5,5,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Johnson FOR Wallace,1:45 PM
+417,12,3,426,0029600062,Piatkowski Free Throw 2 of 2 (5 PTS),,5:16,4,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,73 - 68,-5,,1:45 PM
+418,6,1,427,0029600062,,,4:51,4,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,75 - 68,-7,Johnson  Driving Layup (11 PTS),1:46 PM
+419,2,5,428,0029600062,Richardson Lost Ball Turnover (P2.T18),,4:42,4,4,5,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Brooks STEAL (4 STL),1:46 PM
+420,1,1,429,0029600062,,,4:28,4,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,77 - 68,-9,Johnson 13' Jump Shot (13 PTS),1:46 PM
+421,1,9,430,0029600062,CLIPPERS Timeout: Regular (Full 5 Short 2),,4:25,4,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,1:46 PM
+422,2,6,431,0029600062,,,4:08,4,5,5,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Ewing S.FOUL (P5.PN),1:49 PM
+423,11,3,432,0029600062,Roberts Free Throw 1 of 2 (1 PTS),,4:08,4,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,77 - 69,-8,,1:49 PM
+424,12,3,433,0029600062,Roberts Free Throw 2 of 2 (2 PTS),,4:08,4,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,77 - 70,-7,,1:49 PM
+425,1,2,434,0029600062,Murray BLOCK (2 BLK),,3:47,4,5,0,4,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,,,MISS Starks  3PT Jump Shot,1:50 PM
+426,0,4,435,0029600062,Outlaw REBOUND (Off:2 Def:3),,3:45,4,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:50 PM
+427,5,2,436,0029600062,MISS Murray  Layup,,3:38,4,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:50 PM
+428,0,4,437,0029600062,,,3:37,4,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Williams REBOUND (Off:4 Def:1),1:50 PM
+429,5,2,438,0029600062,,,3:17,4,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Williams  Layup,1:51 PM
+430,0,4,439,0029600062,,,3:15,4,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Williams REBOUND (Off:5 Def:1),1:51 PM
+431,4,5,440,0029600062,,,3:15,4,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Williams Traveling Turnover (P3.T27),1:51 PM
+432,8,1,441,0029600062,Roberts  Slam Dunk (4 PTS),,3:01,4,4,0,5,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,NYK,New York,1610612752.0,Knicks,77 - 72,-5,,1:51 PM
+433,2,6,442,0029600062,,,3:01,4,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Williams S.FOUL (P5.PN),1:51 PM
+434,0,8,445,0029600062,,,3:01,4,5,5,0,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Houston FOR Brooks,1:52 PM
+435,10,3,446,0029600062,MISS Roberts Free Throw 1 of 1,,3:01,4,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:52 PM
+436,0,4,447,0029600062,,,3:00,4,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:17),1:52 PM
+437,1,9,448,0029600062,,,2:46,4,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.4 Short 1),1:52 PM
+438,5,2,449,0029600062,Roberts BLOCK (1 BLK),,2:38,4,5,0,4,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,,,,,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,,,MISS Houston  Layup,1:55 PM
+439,0,4,450,0029600062,,,2:38,4,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,1:55 PM
+440,1,2,451,0029600062,,,2:36,4,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Ewing 18' Jump Shot,1:55 PM
+441,0,4,452,0029600062,Richardson REBOUND (Off:1 Def:1),,2:34,4,4,0,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:55 PM
+442,1,2,453,0029600062,MISS Piatkowski 17' Jump Shot,,2:16,4,4,0,5,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,,,Ewing BLOCK (4 BLK),1:55 PM
+443,0,4,454,0029600062,Outlaw REBOUND (Off:3 Def:3),,2:15,4,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:55 PM
+444,2,6,455,0029600062,,,2:15,4,5,5,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Starks S.FOUL (P3.PN),1:55 PM
+445,11,3,456,0029600062,MISS Outlaw Free Throw 1 of 2,,2:15,4,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:56 PM
+446,0,4,457,0029600062,CLIPPERS Rebound,,2:15,4,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,1:56 PM
+447,12,3,458,0029600062,Outlaw Free Throw 2 of 2 (6 PTS),,2:15,4,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,77 - 73,-4,,1:56 PM
+448,1,2,459,0029600062,,,1:50,4,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Johnson 19' Jump Shot,1:57 PM
+449,0,4,460,0029600062,Roberts REBOUND (Off:0 Def:2),,1:47,4,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,1:57 PM
+450,5,1,461,0029600062,Roberts  Layup (6 PTS) (Outlaw 1 AST),,1:31,4,4,4,5,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,NYK,New York,1610612752.0,Knicks,77 - 75,-2,,1:57 PM
+451,2,6,462,0029600062,,,1:31,4,5,0,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Williams S.FOUL (P6.PN),1:57 PM
+452,0,8,464,0029600062,,,1:31,4,5,5,0,433,Buck Williams,NYK,New York,1610612752.0,Knicks,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Oakley FOR Williams,1:57 PM
+453,10,3,465,0029600062,Roberts Free Throw 1 of 1 (7 PTS),,1:31,4,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,77 - 76,-1,,1:57 PM
+454,1,9,466,0029600062,,,1:31,4,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.5 Short 1),1:58 PM
+455,5,2,467,0029600062,,,1:20,4,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Ewing  Layup,2:01 PM
+456,0,4,468,0029600062,,,1:18,4,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Oakley REBOUND (Off:5 Def:3),2:01 PM
+457,1,2,469,0029600062,,,1:12,4,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Starks 25' 3PT Jump Shot,2:01 PM
+458,0,4,470,0029600062,Roberts REBOUND (Off:0 Def:3),,1:10,4,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:01 PM
+459,1,9,471,0029600062,CLIPPERS Timeout: Regular (Full 6 Short 2),,1:06,4,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,2:01 PM
+460,2,5,472,0029600062,Roberts Lost Ball Turnover (P3.T19),,0:52,4,4,5,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Ewing STEAL (1 STL),2:04 PM
+461,1,2,473,0029600062,,,0:32,4,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Oakley 15' Jump Shot,2:04 PM
+462,0,4,474,0029600062,,,0:30,4,5,0,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:4 Def:2),2:04 PM
+463,2,5,475,0029600062,Piatkowski STEAL (5 STL),,0:27,4,5,4,0,913,Larry Johnson,NYK,New York,1610612752.0,Knicks,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Johnson Lost Ball Turnover (P5.T28),2:04 PM
+464,2,6,476,0029600062,,,0:24,4,5,5,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Houston S.FOUL (P6.PN),2:04 PM
+465,0,8,477,0029600062,,,0:24,4,5,5,0,275,Allan Houston,NYK,New York,1610612752.0,Knicks,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Brooks FOR Houston,2:04 PM
+466,11,3,478,0029600062,Outlaw Free Throw 1 of 2 (7 PTS),,0:24,4,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,77 - 77,TIE,,2:05 PM
+467,12,3,479,0029600062,MISS Outlaw Free Throw 2 of 2,,0:24,4,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:05 PM
+468,0,4,480,0029600062,,,0:24,4,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Oakley REBOUND (Off:5 Def:4),2:05 PM
+469,1,9,481,0029600062,,,0:23,4,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.6 Short 1),2:05 PM
+470,2,5,482,0029600062,Richardson STEAL (4 STL),,0:07,4,5,4,0,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Brooks Lost Ball Turnover (P3.T29),2:08 PM
+471,1,9,483,0029600062,CLIPPERS Timeout: Regular (Full 7 Short 2),,0:07,4,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,2:08 PM
+472,0,8,484,0029600062,SUB: Martin FOR Outlaw,,0:07,4,4,4,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,2:10 PM
+473,1,2,485,0029600062,MISS Richardson 15' Jump Shot,,0:02,4,4,0,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:11 PM
+474,0,4,486,0029600062,CLIPPERS Rebound,,0:00,4,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,2:11 PM
+475,0,13,487,0029600062,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,77 - 77,TIE,,2:11 PM
+476,0,12,488,0029600062,,,5:00,5,0,0,0,0,,,,,,0,,,,,,0,,,,,,77 - 77,TIE,,2:11 PM
+477,0,10,489,0029600062,Jump Ball Outlaw vs. Ewing: Tip to Starks,,5:00,5,4,5,5,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,317,John Starks,NYK,New York,1610612752.0,Knicks,,,,2:12 PM
+478,2,6,490,0029600062,Piatkowski S.FOUL (P3.T1),,4:47,5,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:14 PM
+479,11,3,491,0029600062,,,4:47,5,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,78 - 77,-1,Wallace Free Throw 1 of 2 (15 PTS),2:14 PM
+480,12,3,492,0029600062,,,4:47,5,5,0,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,79 - 77,-2,Wallace Free Throw 2 of 2 (16 PTS),2:14 PM
+481,2,5,493,0029600062,Roberts Lost Ball Turnover (P4.T20),,4:35,5,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:14 PM
+482,1,6,494,0029600062,Piatkowski P.FOUL (P4.T2),,4:20,5,4,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:15 PM
+483,1,1,495,0029600062,,,4:08,5,5,0,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,81 - 77,-4,Oakley 19' Jump Shot (11 PTS),2:16 PM
+484,1,2,496,0029600062,MISS Murray 24' 3PT Jump Shot,,3:43,5,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:16 PM
+485,0,4,497,0029600062,CLIPPERS Rebound,,3:41,5,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,2:16 PM
+486,3,6,498,0029600062,,,3:41,5,5,5,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Oakley L.B.FOUL (P4.T1),2:16 PM
+487,0,8,499,0029600062,SUB: Dehere FOR Piatkowski,,3:41,5,4,4,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,2:16 PM
+488,1,2,500,0029600062,MISS Roberts 15' Jump Shot,,3:22,5,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:17 PM
+489,0,4,501,0029600062,,,3:20,5,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:18),2:17 PM
+490,1,6,502,0029600062,Richardson P.FOUL (P2.T3),,3:09,5,4,0,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:17 PM
+491,2,9,503,0029600062,,,3:09,5,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Short (Reg.6 Short 2),2:17 PM
+492,1,5,504,0029600062,,,3:01,5,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing Bad Pass Turnover (P8.T30),2:18 PM
+493,2,6,505,0029600062,,,2:44,5,5,5,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Wallace S.FOUL (P2.T2),2:19 PM
+494,11,3,506,0029600062,MISS Murray Free Throw 1 of 2,,2:44,5,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:19 PM
+495,0,4,507,0029600062,CLIPPERS Rebound,,2:44,5,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,2:19 PM
+496,12,3,508,0029600062,Murray Free Throw 2 of 2 (9 PTS),,2:44,5,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,81 - 78,-3,,2:19 PM
+497,2,5,509,0029600062,Richardson STEAL (5 STL),,2:25,5,5,4,0,317,John Starks,NYK,New York,1610612752.0,Knicks,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Starks Lost Ball Turnover (P3.T31),2:20 PM
+498,9,1,510,0029600062,Outlaw  Driving Dunk (9 PTS) (Dehere 4 AST),,2:10,5,4,4,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,81 - 80,-1,,2:20 PM
+499,1,9,511,0029600062,,,2:07,5,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.7 Short 2),2:20 PM
+500,0,8,512,0029600062,,,2:07,5,5,5,0,961,John Wallace,NYK,New York,1610612752.0,Knicks,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Brooks FOR Wallace,2:22 PM
+501,1,1,513,0029600062,,,1:46,5,5,5,4,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,LAC,Los Angeles,1610612746.0,Clippers,83 - 80,-3,Ewing 13' Jump Shot (17 PTS) (Starks 3 AST),2:23 PM
+502,2,6,514,0029600062,Roberts S.FOUL (P5.PN),,1:46,5,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:23 PM
+503,10,3,515,0029600062,,,1:46,5,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,84 - 80,-4,Ewing Free Throw 1 of 1 (18 PTS),2:23 PM
+504,1,9,516,0029600062,CLIPPERS Timeout: Regular (Full 8 Short 2),,1:46,5,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,2:24 PM
+505,1,5,517,0029600062,Murray Bad Pass Turnover (P3.T21),,1:34,5,4,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:26 PM
+506,1,9,518,0029600062,,,1:20,5,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.8 Short 2),2:26 PM
+507,1,5,519,0029600062,Roberts STEAL (1 STL),,1:11,5,5,4,0,317,John Starks,NYK,New York,1610612752.0,Knicks,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Starks Bad Pass Turnover (P4.T32),2:29 PM
+508,1,6,520,0029600062,,,0:55,5,5,5,0,418,Scott Brooks,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Brooks P.FOUL (P3.T3),2:29 PM
+509,2,6,521,0029600062,,,0:43,5,5,5,0,891,Charles Oakley,NYK,New York,1610612752.0,Knicks,0,,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Oakley S.FOUL (P5.PN),2:30 PM
+510,11,3,522,0029600062,MISS Outlaw Free Throw 1 of 2,,0:43,5,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:30 PM
+511,0,4,523,0029600062,CLIPPERS Rebound,,0:43,5,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,2:30 PM
+512,12,3,524,0029600062,Outlaw Free Throw 2 of 2 (10 PTS),,0:43,5,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,84 - 81,-3,,2:30 PM
+513,5,2,525,0029600062,Roberts BLOCK (2 BLK),,0:27,5,5,0,4,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,,,MISS Ewing  Layup,2:31 PM
+514,0,4,526,0029600062,Roberts REBOUND (Off:0 Def:4),,0:25,5,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:31 PM
+515,5,2,527,0029600062,MISS Roberts 5' Layup,,0:12,5,4,0,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:31 PM
+516,0,4,529,0029600062,Outlaw REBOUND (Off:4 Def:3),,0:11,5,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:31 PM
+517,4,2,528,0029600062,MISS Outlaw  Tip Shot,,0:11,5,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:31 PM
+518,0,4,530,0029600062,,,0:10,5,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Ewing REBOUND (Off:0 Def:19),2:31 PM
+519,1,6,531,0029600062,Dehere P.FOUL (P2.PN),,0:09,5,4,0,0,143,Terry Dehere,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:31 PM
+520,11,3,532,0029600062,,,0:09,5,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,85 - 81,-4,Ewing Free Throw 1 of 2 (19 PTS),2:31 PM
+521,12,3,533,0029600062,,,0:09,5,5,0,0,121,Patrick Ewing,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,86 - 81,-5,Ewing Free Throw 2 of 2 (20 PTS),2:32 PM
+522,1,9,534,0029600062,CLIPPERS Timeout: Regular (Full 9 Short 2),,0:09,5,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,2:32 PM
+523,0,8,535,0029600062,SUB: Martin FOR Roberts,,0:09,5,4,4,0,914,Stanley Roberts,LAC,Los Angeles,1610612746.0,Clippers,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,2:34 PM
+524,1,2,536,0029600062,MISS Richardson 24' 3PT Jump Shot,,0:04,5,4,0,0,71,Pooh Richardson,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:34 PM
+525,0,4,537,0029600062,,,0:02,5,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Starks REBOUND (Off:1 Def:3),2:34 PM
+526,1,6,538,0029600062,Outlaw P.FOUL (P2.PN),,0:00,5,4,0,0,448,Bo Outlaw,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,2:35 PM
+527,11,3,539,0029600062,,,0:00,5,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,87 - 81,-6,Starks Free Throw 1 of 2 (6 PTS),2:35 PM
+528,12,3,540,0029600062,,,0:00,5,5,0,0,317,John Starks,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,88 - 81,-7,Starks Free Throw 2 of 2 (7 PTS),2:35 PM
+529,0,13,541,0029600062,,,0:00,5,0,0,0,0,,,,,,0,,,,,,0,,,,,,88 - 81,-7,,2:36 PM

@@ -1,0 +1,485 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020600422,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:42 PM
+1,0,10,1,0020600422,Jump Ball Wallace vs. Mourning: Tip to Wade,,12:00,1,4,5,5,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,2548,Dwyane Wade,MIA,Miami,1610612748.0,Heat,,,,8:43 PM
+2,1,2,2,0020600422,,,11:38,1,5,0,0,2548,Dwyane Wade,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Wade 19' Jump Shot,8:43 PM
+3,0,4,3,0020600422,Hinrich REBOUND (Off:0 Def:1),,11:35,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:43 PM
+4,1,6,4,0020600422,,,11:19,1,5,4,1,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Williams P.FOUL (P1.T1),8:44 PM
+5,1,2,5,0020600422,MISS Hinrich 19' Jump Shot,,11:07,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:44 PM
+6,0,4,6,0020600422,Wallace REBOUND (Off:1 Def:0),,11:05,1,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:44 PM
+7,5,1,7,0020600422,Duhon  Layup (2 PTS),,10:59,1,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,0 - 2,2,,8:45 PM
+8,1,2,8,0020600422,,,10:39,1,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Haslem 15' Jump Shot,8:45 PM
+9,0,4,9,0020600422,Duhon REBOUND (Off:0 Def:1),,10:37,1,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:45 PM
+10,1,2,10,0020600422,MISS Deng 18' Jump Shot,,10:28,1,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:45 PM
+11,0,4,12,0020600422,Wallace REBOUND (Off:2 Def:0),,10:26,1,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:45 PM
+12,4,2,11,0020600422,MISS Wallace  Tip Shot,,10:26,1,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:45 PM
+13,0,4,13,0020600422,,,10:24,1,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Haslem REBOUND (Off:0 Def:1),8:45 PM
+14,1,2,14,0020600422,,,10:04,1,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Wright 14' Jump Shot,8:46 PM
+15,0,4,15,0020600422,Nocioni REBOUND (Off:0 Def:1),,10:02,1,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:46 PM
+16,2,5,16,0020600422,Deng Lost Ball Turnover (P1.T1),,9:58,1,4,5,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2548,Dwyane Wade,MIA,Miami,1610612748.0,Heat,0,,,,,,,,Wade STEAL (1 STL),8:46 PM
+17,5,1,17,0020600422,,,9:51,1,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,2 - 2,TIE,Wright  Layup (2 PTS),8:46 PM
+18,1,2,18,0020600422,MISS Duhon 25' 3PT Jump Shot,,9:35,1,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:46 PM
+19,0,4,20,0020600422,Nocioni REBOUND (Off:1 Def:1),,9:32,1,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:46 PM
+20,4,1,19,0020600422,Nocioni  Tip Shot (2 PTS),,9:32,1,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,2 - 4,2,,8:46 PM
+21,1,1,21,0020600422,,,9:16,1,5,5,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,4 - 4,TIE,Wright 19' Jump Shot (4 PTS) (Williams 1 AST),8:47 PM
+22,5,1,22,0020600422,Hinrich  Layup (2 PTS) (Wallace 1 AST),,9:06,1,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,4 - 6,2,,8:47 PM
+23,1,2,23,0020600422,,,8:45,1,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Wright 16' Jump Shot,8:47 PM
+24,0,4,24,0020600422,Duhon REBOUND (Off:0 Def:2),,8:43,1,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:47 PM
+25,5,2,25,0020600422,MISS Nocioni  Layup,,8:31,1,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:47 PM
+26,0,4,26,0020600422,,,8:30,1,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright REBOUND (Off:0 Def:1),8:47 PM
+27,5,2,27,0020600422,Deng BLOCK (1 BLK),,8:25,1,5,0,4,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,,,MISS Williams  Layup,8:47 PM
+28,0,4,28,0020600422,Deng REBOUND (Off:0 Def:1),,8:21,1,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:48 PM
+29,1,2,29,0020600422,MISS Hinrich 20' Jump Shot,,8:15,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:48 PM
+30,0,4,30,0020600422,,,8:12,1,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright REBOUND (Off:0 Def:2),8:48 PM
+31,2,6,31,0020600422,Nocioni S.FOUL (P1.T1),,8:00,1,4,5,1,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,8:48 PM
+32,11,3,32,0020600422,,,8:00,1,5,0,0,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,5 - 6,1,Mourning Free Throw 1 of 2 (1 PTS),8:48 PM
+33,12,3,33,0020600422,,,8:00,1,5,0,0,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,6 - 6,TIE,Mourning Free Throw 2 of 2 (2 PTS),8:49 PM
+34,5,2,35,0020600422,MISS Wallace  Layup,,7:42,1,4,0,5,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,,,Mourning BLOCK (1 BLK),8:49 PM
+35,0,4,36,0020600422,,,7:42,1,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Rebound,8:49 PM
+36,1,5,37,0020600422,,,7:26,1,5,0,0,2548,Dwyane Wade,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wade Bad Pass Turnover (P1.T1),8:50 PM
+37,1,6,38,0020600422,,,7:19,1,5,4,1,2548,Dwyane Wade,MIA,Miami,1610612748.0,Heat,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Wade P.FOUL (P1.T2),8:50 PM
+38,5,2,39,0020600422,MISS Hinrich  Layup,,7:07,1,4,0,5,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,,,Haslem BLOCK (1 BLK),8:51 PM
+39,0,4,40,0020600422,Wallace REBOUND (Off:3 Def:0),,7:04,1,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:51 PM
+40,3,1,41,0020600422,Nocioni 12' Hook Shot (4 PTS) (Hinrich 1 AST),,6:59,1,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,6 - 8,2,,8:51 PM
+41,1,2,42,0020600422,,,6:44,1,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Haslem 15' Jump Shot,8:51 PM
+42,0,4,43,0020600422,,,6:38,1,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright REBOUND (Off:1 Def:2),8:51 PM
+43,1,2,44,0020600422,,,6:35,1,5,0,0,2548,Dwyane Wade,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Wade 25' 3PT Jump Shot,8:51 PM
+44,0,4,45,0020600422,,,6:32,1,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Haslem REBOUND (Off:1 Def:1),8:51 PM
+45,5,1,46,0020600422,,,6:30,1,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,8 - 8,TIE,Haslem  Layup (2 PTS),8:51 PM
+46,1,1,47,0020600422,Nocioni 17' Jump Shot (6 PTS) (Hinrich 2 AST),,6:19,1,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,8 - 10,2,,8:51 PM
+47,4,6,51,0020600422,,,5:53,1,5,4,1,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Mourning OFF.Foul (P1),8:52 PM
+48,37,5,48,0020600422,,,5:53,1,5,0,1,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Mourning Offensive Foul Turnover (P1.T2),8:52 PM
+49,1,9,50,0020600422,BULLS Timeout: Regular (Full 1 Short 0),,5:53,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:52 PM
+50,2,6,53,0020600422,,,5:40,1,5,4,1,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Mourning S.FOUL (P2.T3),8:55 PM
+51,11,3,54,0020600422,MISS Wallace Free Throw 1 of 2,,5:40,1,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:55 PM
+52,1,4,55,0020600422,BULLS Rebound,,5:40,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:55 PM
+53,0,8,63,0020600422,,,5:40,1,5,5,0,2548,Dwyane Wade,MIA,Miami,1610612748.0,Heat,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Kapono FOR Wade,8:55 PM
+54,0,8,56,0020600422,,,5:40,1,5,5,0,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Doleac FOR Mourning,8:55 PM
+55,12,3,58,0020600422,MISS Wallace Free Throw 2 of 2,,5:40,1,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:56 PM
+56,0,4,59,0020600422,,,5:35,1,5,0,0,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Doleac REBOUND (Off:0 Def:1),8:56 PM
+57,5,2,60,0020600422,,,5:26,1,5,0,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Kapono  Layup,8:56 PM
+58,0,4,61,0020600422,,,5:24,1,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Haslem REBOUND (Off:2 Def:1),8:56 PM
+59,5,1,62,0020600422,,,5:22,1,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,10 - 10,TIE,Haslem  Layup (4 PTS),8:56 PM
+60,1,6,64,0020600422,,,5:09,1,5,4,1,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Wright P.FOUL (P1.T4),8:56 PM
+61,1,2,66,0020600422,MISS Duhon 15' Jump Shot,,4:54,1,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:57 PM
+62,0,4,67,0020600422,BULLS Rebound,,4:54,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:57 PM
+63,11,5,68,0020600422,BULLS Turnover: Shot Clock (T#2),,4:54,1,2,0,1,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:57 PM
+64,2,6,69,0020600422,Nocioni S.FOUL (P2.T2),,4:40,1,4,5,1,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,8:57 PM
+65,11,3,70,0020600422,,,4:40,1,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,11 - 10,-1,Wright Free Throw 1 of 2 (5 PTS),8:57 PM
+66,0,8,71,0020600422,SUB: Gordon FOR Hinrich,,4:40,1,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:57 PM
+67,0,8,72,0020600422,SUB: Sefolosha FOR Nocioni,,4:40,1,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:57 PM
+68,12,3,73,0020600422,,,4:40,1,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,12 - 10,-2,Wright Free Throw 2 of 2 (6 PTS),8:58 PM
+69,5,1,74,0020600422,Deng  Layup (2 PTS) (Duhon 1 AST),,4:30,1,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,12 - 12,TIE,,8:58 PM
+70,2,6,75,0020600422,,,4:30,1,5,4,1,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Haslem S.FOUL (P1.PN),8:58 PM
+71,10,3,76,0020600422,Deng Free Throw 1 of 1 (3 PTS),,4:30,1,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,12 - 13,1,,8:58 PM
+72,2,6,77,0020600422,Deng S.FOUL (P1.T3),,4:18,1,4,5,1,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,8:59 PM
+73,11,3,78,0020600422,,,4:18,1,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,13 - 13,TIE,Wright Free Throw 1 of 2 (7 PTS),8:59 PM
+74,12,3,79,0020600422,,,4:18,1,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Wright Free Throw 2 of 2,8:59 PM
+75,0,4,80,0020600422,Wallace REBOUND (Off:3 Def:1),,4:16,1,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:59 PM
+76,1,1,81,0020600422,Sefolosha 19' Jump Shot (2 PTS) (Duhon 2 AST),,3:57,1,4,4,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,13 - 15,2,,8:59 PM
+77,52,1,82,0020600422,,,3:45,1,5,5,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,15 - 15,TIE,Wright  Alley Oop Dunk (9 PTS) (Williams 2 AST),9:00 PM
+78,1,2,83,0020600422,MISS Sefolosha 6' Jump Shot,,3:29,1,4,0,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:00 PM
+79,0,4,84,0020600422,,,3:28,1,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright REBOUND (Off:1 Def:3),9:00 PM
+80,1,1,85,0020600422,,,3:10,1,5,5,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,18 - 15,-3,Williams 25' 3PT Jump Shot (3 PTS) (Kapono 1 AST),9:00 PM
+81,1,9,86,0020600422,,,2:58,1,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Timeout: Regular (Reg.1 Short 0),9:01 PM
+82,0,8,88,0020600422,,,2:58,1,5,5,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,952,Antoine Walker,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Walker FOR Haslem,9:03 PM
+83,0,8,89,0020600422,,,2:58,1,5,5,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,56,Gary Payton,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Payton FOR Williams,9:03 PM
+84,0,8,91,0020600422,SUB: Hinrich FOR Duhon,,2:58,1,4,4,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:03 PM
+85,1,1,90,0020600422,Hinrich 20' Jump Shot (4 PTS),,2:53,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,18 - 17,-1,,9:03 PM
+86,1,2,93,0020600422,,,2:26,1,5,0,0,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Doleac 18' Jump Shot,9:04 PM
+87,0,4,94,0020600422,Deng REBOUND (Off:0 Def:2),,2:24,1,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:04 PM
+88,1,1,95,0020600422,Gordon 20' Jump Shot (2 PTS),,2:17,1,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,18 - 19,1,,9:04 PM
+89,1,1,96,0020600422,,,2:00,1,5,5,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,952,Antoine Walker,MIA,Miami,1610612748.0,Heat,0,,,,,,20 - 19,-1,Kapono 19' Jump Shot (2 PTS) (Walker 1 AST),9:04 PM
+90,1,2,97,0020600422,MISS Gordon 25' 3PT Jump Shot,,1:32,1,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:05 PM
+91,0,4,98,0020600422,Wallace REBOUND (Off:4 Def:1),,1:29,1,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:05 PM
+92,1,2,99,0020600422,MISS Hinrich 27' 3PT Jump Shot,,1:26,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:05 PM
+93,0,4,100,0020600422,,,1:24,1,5,0,0,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Doleac REBOUND (Off:0 Def:2),9:05 PM
+94,5,2,101,0020600422,Deng BLOCK (2 BLK),,1:14,1,5,0,4,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,,,MISS Kapono  Layup,9:05 PM
+95,0,4,102,0020600422,Hinrich REBOUND (Off:0 Def:2),,1:11,1,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:05 PM
+96,2,6,103,0020600422,,,1:10,1,5,4,1,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Doleac S.FOUL (P1.PN),9:05 PM
+97,11,3,104,0020600422,MISS Sefolosha Free Throw 1 of 2,,1:10,1,4,0,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:05 PM
+98,1,4,105,0020600422,BULLS Rebound,,1:10,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:05 PM
+99,12,3,106,0020600422,Sefolosha Free Throw 2 of 2 (3 PTS),,1:10,1,4,0,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,20 - 20,TIE,,9:06 PM
+100,1,5,107,0020600422,Deng STEAL (1 STL),,0:56,1,5,4,0,952,Antoine Walker,MIA,Miami,1610612748.0,Heat,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Walker Bad Pass Turnover (P1.T3),9:06 PM
+101,7,1,108,0020600422,Sefolosha  Dunk (5 PTS) (Gordon 1 AST),,0:53,1,4,4,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,20 - 22,2,,9:06 PM
+102,1,6,109,0020600422,Hinrich P.FOUL (P1.T4),,0:45,1,4,5,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,9:06 PM
+103,1,2,110,0020600422,,,0:37,1,5,0,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Kapono 19' Jump Shot,9:07 PM
+104,0,4,111,0020600422,Wallace REBOUND (Off:4 Def:2),,0:34,1,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:07 PM
+105,1,6,112,0020600422,,,0:29,1,5,4,1,952,Antoine Walker,MIA,Miami,1610612748.0,Heat,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Walker P.FOUL (P1.PN),9:07 PM
+106,11,3,115,0020600422,Gordon Free Throw 1 of 2 (3 PTS),,0:29,1,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,20 - 23,3,,9:07 PM
+107,0,8,116,0020600422,SUB: Thomas FOR Deng,,0:29,1,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:07 PM
+108,0,8,117,0020600422,,,0:29,1,5,5,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Posey FOR Wright,9:07 PM
+109,0,8,118,0020600422,,,0:29,1,5,5,0,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Williams FOR Doleac,9:08 PM
+110,12,3,119,0020600422,Gordon Free Throw 2 of 2 (4 PTS),,0:29,1,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,20 - 24,4,,9:08 PM
+111,1,6,121,0020600422,Wallace P.FOUL (P1.PN),,0:13,1,4,5,1,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,952,Antoine Walker,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,9:08 PM
+112,11,3,122,0020600422,,,0:13,1,5,0,0,952,Antoine Walker,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,21 - 24,3,Walker Free Throw 1 of 2 (1 PTS),9:09 PM
+113,12,3,123,0020600422,,,0:13,1,5,0,0,952,Antoine Walker,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Walker Free Throw 2 of 2,9:09 PM
+114,0,4,124,0020600422,Wallace REBOUND (Off:4 Def:3),,0:10,1,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:09 PM
+115,1,2,125,0020600422,MISS Wallace 7' Jump Shot,,0:02,1,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:09 PM
+116,0,4,127,0020600422,Sefolosha REBOUND (Off:1 Def:0),,0:00,1,4,0,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:09 PM
+117,5,2,126,0020600422,MISS Sefolosha  Layup,,0:00,1,4,0,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:09 PM
+118,0,4,128,0020600422,,,0:00,1,5,0,0,952,Antoine Walker,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:1),9:09 PM
+119,0,13,129,0020600422,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,21 - 24,3,,9:09 PM
+120,0,12,131,0020600422,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,21 - 24,3,,9:12 PM
+121,1,1,132,0020600422,Gordon 19' Jump Shot (6 PTS),,11:46,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,21 - 26,5,,9:12 PM
+122,1,5,133,0020600422,Thomas STEAL (1 STL),,11:33,2,5,4,0,56,Gary Payton,MIA,Miami,1610612748.0,Heat,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Payton Bad Pass Turnover (P1.T4),9:13 PM
+123,7,1,134,0020600422,Thomas  Dunk (2 PTS),,11:30,2,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,21 - 28,7,,9:13 PM
+124,1,2,135,0020600422,,,11:03,2,5,0,0,56,Gary Payton,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Payton 14' Jump Shot,9:13 PM
+125,0,4,136,0020600422,Brown REBOUND (Off:0 Def:1),,11:01,2,4,0,0,136,P.J. Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:13 PM
+126,1,2,137,0020600422,MISS Brown 15' Jump Shot,,10:49,2,4,0,0,136,P.J. Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:13 PM
+127,0,4,138,0020600422,,,10:47,2,5,0,0,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Posey REBOUND (Off:0 Def:1),9:13 PM
+128,1,5,139,0020600422,Hinrich STEAL (1 STL),,10:32,2,5,4,0,56,Gary Payton,MIA,Miami,1610612748.0,Heat,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Payton Bad Pass Turnover (P2.T5),9:14 PM
+129,42,1,141,0020600422,Gordon  Driving Layup (8 PTS),,10:15,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,21 - 30,9,,9:14 PM
+130,1,9,142,0020600422,,,10:06,2,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Timeout: Regular (Reg.2 Short 0),9:14 PM
+131,1,2,144,0020600422,,,9:51,2,5,0,0,952,Antoine Walker,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Walker 26' 3PT Jump Shot,9:17 PM
+132,0,4,145,0020600422,Gordon REBOUND (Off:0 Def:1),,9:47,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:17 PM
+133,52,1,146,0020600422,Thomas  Alley Oop Dunk (4 PTS) (Hinrich 3 AST),,9:38,2,4,4,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,21 - 32,11,,9:17 PM
+134,2,7,148,0020600422,Thomas Violation:Defensive Goaltending,,9:25,2,4,0,1,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:17 PM
+135,1,1,147,0020600422,,,9:25,2,5,0,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,23 - 32,9,Kapono 10' Jump Shot (4 PTS),9:17 PM
+136,1,2,149,0020600422,MISS Gordon 20' Jump Shot,,9:07,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:18 PM
+137,0,4,150,0020600422,,,9:05,2,5,0,0,952,Antoine Walker,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Walker REBOUND (Off:0 Def:2),9:18 PM
+138,1,2,151,0020600422,,,9:01,2,5,0,0,56,Gary Payton,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Payton 14' Jump Shot,9:18 PM
+139,0,4,152,0020600422,,,8:58,2,5,0,0,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Mourning REBOUND (Off:1 Def:0),9:18 PM
+140,1,2,153,0020600422,,,8:47,2,5,0,0,56,Gary Payton,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Payton 26' 3PT Jump Shot,9:18 PM
+141,0,4,154,0020600422,Brown REBOUND (Off:0 Def:2),,8:44,2,4,0,0,136,P.J. Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:18 PM
+142,7,1,155,0020600422,Thomas  Dunk (6 PTS),,8:32,2,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,23 - 34,11,,9:19 PM
+143,1,2,156,0020600422,,,8:15,2,5,0,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Kapono 12' Jump Shot,9:19 PM
+144,0,4,157,0020600422,Brown REBOUND (Off:0 Def:3),,8:13,2,4,0,0,136,P.J. Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:19 PM
+145,1,1,158,0020600422,Brown 18' Jump Shot (2 PTS) (Sefolosha 1 AST),,8:03,2,4,4,0,136,P.J. Brown,CHI,Chicago,1610612741.0,Bulls,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,23 - 36,13,,9:19 PM
+146,2,9,159,0020600422,,,7:56,2,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Timeout: Short (Reg.2 Short 1),9:19 PM
+147,0,8,161,0020600422,SUB: Deng FOR Sefolosha,,7:56,2,4,4,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:20 PM
+148,0,8,162,0020600422,,,7:56,2,5,5,0,952,Antoine Walker,MIA,Miami,1610612748.0,Heat,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Wright FOR Walker,9:20 PM
+149,0,8,163,0020600422,,,7:56,2,5,5,0,56,Gary Payton,MIA,Miami,1610612748.0,Heat,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Williams FOR Payton,9:20 PM
+150,1,2,164,0020600422,,,7:40,2,5,0,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Kapono 14' Jump Shot,9:21 PM
+151,0,4,165,0020600422,Gordon REBOUND (Off:0 Def:2),,7:37,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:21 PM
+152,5,2,166,0020600422,MISS Deng  Layup,,7:32,2,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:21 PM
+153,0,4,168,0020600422,Thomas REBOUND (Off:1 Def:0),,7:31,2,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:21 PM
+154,4,1,167,0020600422,Thomas  Tip Shot (8 PTS),,7:31,2,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,23 - 38,15,,9:21 PM
+155,4,6,169,0020600422,,,7:18,2,5,4,1,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Kapono OFF.Foul (P1),9:21 PM
+156,5,5,170,0020600422,,,7:18,2,5,0,1,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Kapono Foul Turnover (P1.T6),9:21 PM
+157,0,8,171,0020600422,,,7:18,2,5,5,0,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Haslem FOR Mourning,9:21 PM
+158,1,1,172,0020600422,Hinrich 28' 3PT Jump Shot (7 PTS) (Deng 1 AST),,7:10,2,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,23 - 41,18,,9:21 PM
+159,5,2,173,0020600422,,,6:53,2,5,0,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Williams  Layup,9:22 PM
+160,0,4,175,0020600422,,,6:52,2,5,0,0,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Posey REBOUND (Off:1 Def:1),9:22 PM
+161,4,1,174,0020600422,,,6:52,2,5,0,0,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,25 - 41,16,Posey  Tip Shot (2 PTS),9:22 PM
+162,1,1,176,0020600422,Gordon 26' 3PT Jump Shot (11 PTS),,6:43,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,25 - 44,19,,9:22 PM
+163,17,6,177,0020600422,BULLS T.Foul (Def. 3 Sec Thomas ),,6:31,2,4,0,1,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:22 PM
+164,16,3,178,0020600422,,,6:31,2,5,0,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,26 - 44,18,Williams Free Throw Technical (4 PTS),9:22 PM
+165,1,2,179,0020600422,,,6:21,2,5,0,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Williams 8' Jump Shot,9:23 PM
+166,0,4,180,0020600422,Brown REBOUND (Off:0 Def:4),,6:18,2,4,0,0,136,P.J. Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:23 PM
+167,5,2,181,0020600422,MISS Brown  Layup,,5:56,2,4,0,0,136,P.J. Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:23 PM
+168,0,4,183,0020600422,Deng REBOUND (Off:1 Def:2),,5:53,2,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:23 PM
+169,5,1,182,0020600422,Deng  Layup (5 PTS),,5:53,2,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,26 - 46,20,,9:23 PM
+170,1,2,184,0020600422,,,5:32,2,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Wright 21' Jump Shot,9:24 PM
+171,0,4,185,0020600422,,,5:28,2,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Haslem REBOUND (Off:3 Def:1),9:24 PM
+172,1,2,186,0020600422,,,5:24,2,5,0,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Kapono 25' 3PT Jump Shot,9:24 PM
+173,0,4,187,0020600422,Gordon REBOUND (Off:0 Def:3),,5:22,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:24 PM
+174,1,6,188,0020600422,,,5:21,2,5,4,1,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Kapono P.FOUL (P2.T1),9:24 PM
+175,1,9,191,0020600422,,,5:21,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:24 PM
+176,0,8,192,0020600422,SUB: Nocioni FOR Thomas,,5:21,2,4,4,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:26 PM
+177,0,8,193,0020600422,,,5:21,2,5,5,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Doleac FOR Kapono,9:26 PM
+178,1,2,194,0020600422,MISS Hinrich 25' 3PT Jump Shot,,5:07,2,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:27 PM
+179,0,4,195,0020600422,,,5:04,2,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright REBOUND (Off:1 Def:4),9:27 PM
+180,1,1,196,0020600422,,,4:52,2,5,5,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,29 - 46,17,Williams  3PT Jump Shot (7 PTS) (Posey 1 AST),9:27 PM
+181,1,2,197,0020600422,MISS Hinrich 19' Jump Shot,,4:33,2,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:27 PM
+182,0,4,198,0020600422,Hinrich REBOUND (Off:1 Def:2),,4:31,2,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:27 PM
+183,2,6,199,0020600422,,,4:31,2,5,4,1,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Haslem S.FOUL (P2.T2),9:27 PM
+184,11,3,200,0020600422,MISS Hinrich Free Throw 1 of 2,,4:31,2,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:28 PM
+185,1,4,201,0020600422,BULLS Rebound,,4:31,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:28 PM
+186,12,3,202,0020600422,MISS Hinrich Free Throw 2 of 2,,4:31,2,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:28 PM
+187,0,4,203,0020600422,,,4:28,2,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright REBOUND (Off:1 Def:5),9:28 PM
+188,1,1,204,0020600422,,,4:12,2,5,5,0,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,31 - 46,15,Doleac 15' Jump Shot (2 PTS) (Posey 2 AST),9:28 PM
+189,1,1,205,0020600422,Nocioni 27' 3PT Jump Shot (9 PTS) (Deng 2 AST),,3:58,2,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,31 - 49,18,,9:28 PM
+190,42,1,206,0020600422,,,3:39,2,5,0,0,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,33 - 49,16,Posey  Driving Layup (4 PTS),9:29 PM
+191,1,7,207,0020600422,,,3:38,2,3,0,1,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Violation: Delay of game Violation,9:29 PM
+192,1,2,208,0020600422,MISS Gordon 26' 3PT Jump Shot,,3:26,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:29 PM
+193,0,4,209,0020600422,Brown REBOUND (Off:1 Def:4),,3:26,2,4,0,0,136,P.J. Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:29 PM
+194,1,6,210,0020600422,,,3:26,2,5,4,1,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,136,P.J. Brown,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Doleac P.FOUL (P2.T3),9:29 PM
+195,0,8,211,0020600422,SUB: Duhon FOR Hinrich,,3:26,2,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:29 PM
+196,0,8,212,0020600422,SUB: Thomas FOR Deng,,3:26,2,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:30 PM
+197,1,5,213,0020600422,Gordon Bad Pass Turnover (P1.T3),,3:21,2,4,5,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,,,Wright STEAL (1 STL),9:30 PM
+198,5,1,214,0020600422,,,3:17,2,5,5,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,35 - 49,14,Williams  Layup (9 PTS) (Wright 1 AST),9:30 PM
+199,1,6,215,0020600422,,,3:00,2,5,4,1,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Haslem P.FOUL (P3.T4),9:30 PM
+200,0,8,216,0020600422,,,3:00,2,5,5,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,952,Antoine Walker,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Walker FOR Haslem,9:31 PM
+201,2,6,217,0020600422,,,2:49,2,5,4,1,952,Antoine Walker,MIA,Miami,1610612748.0,Heat,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Walker S.FOUL (P2.PN),9:31 PM
+202,1,9,218,0020600422,BULLS Timeout: Regular (Full 2 Short 0),,2:49,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:31 PM
+203,0,8,220,0020600422,SUB: Wallace FOR Brown,,2:49,2,4,4,0,136,P.J. Brown,CHI,Chicago,1610612741.0,Bulls,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:33 PM
+204,11,3,221,0020600422,Gordon Free Throw 1 of 2 (12 PTS),,2:49,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,35 - 50,15,,9:34 PM
+205,12,3,222,0020600422,Gordon Free Throw 2 of 2 (13 PTS),,2:49,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,35 - 51,16,,9:34 PM
+206,5,2,223,0020600422,Thomas BLOCK (1 BLK),,2:32,2,5,0,4,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,0,,,,,,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,,,MISS Doleac  Layup,9:34 PM
+207,0,4,224,0020600422,Thomas REBOUND (Off:1 Def:1),,2:27,2,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:35 PM
+208,1,1,225,0020600422,Gordon 20' Jump Shot (15 PTS),,2:23,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,35 - 53,18,,9:35 PM
+209,1,1,226,0020600422,,,2:05,2,5,5,0,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,37 - 53,16,Doleac 20' Jump Shot (4 PTS) (Posey 3 AST),9:35 PM
+210,1,2,227,0020600422,MISS Gordon 20' Jump Shot,,1:52,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:35 PM
+211,0,4,228,0020600422,,,1:49,2,5,0,0,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Posey REBOUND (Off:1 Def:2),9:35 PM
+212,1,1,229,0020600422,,,1:39,2,5,0,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,40 - 53,13,Williams 26' 3PT Jump Shot (12 PTS),9:35 PM
+213,2,6,230,0020600422,,,1:29,2,5,4,1,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Doleac S.FOUL (P3.PN),9:36 PM
+214,11,3,231,0020600422,Gordon Free Throw 1 of 2 (16 PTS),,1:29,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,40 - 54,14,,9:36 PM
+215,0,8,232,0020600422,,,1:29,2,5,5,0,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,2853,Earl Barron,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Barron FOR Doleac,9:36 PM
+216,12,3,233,0020600422,Gordon Free Throw 2 of 2 (17 PTS),,1:29,2,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,40 - 55,15,,9:36 PM
+217,1,6,234,0020600422,Wallace P.FOUL (P2.T1),,1:14,2,4,5,1,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,2853,Earl Barron,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,9:37 PM
+218,1,2,235,0020600422,,,1:06,2,5,0,0,952,Antoine Walker,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Walker 25' 3PT Jump Shot,9:38 PM
+219,0,4,236,0020600422,BULLS Rebound,,1:04,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:38 PM
+220,5,2,237,0020600422,MISS Wallace  Layup,,0:38,2,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:38 PM
+221,0,4,238,0020600422,,,0:36,2,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright REBOUND (Off:1 Def:6),9:38 PM
+222,1,1,239,0020600422,,,0:30,2,5,5,0,1899,James Posey,MIA,Miami,1610612748.0,Heat,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,43 - 55,12,Posey 26' 3PT Jump Shot (7 PTS) (Wright 2 AST),9:38 PM
+223,1,1,240,0020600422,Gordon 17' Jump Shot (19 PTS) (Nocioni 1 AST),,0:07,2,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,43 - 57,14,,9:39 PM
+224,1,1,241,0020600422,,,0:01,2,5,5,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,45 - 57,12,Wright 17' Jump Shot (11 PTS) (Williams 3 AST),9:39 PM
+225,1,5,242,0020600422,Thomas Bad Pass Turnover (P1.T4),,0:00,2,4,5,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2853,Earl Barron,MIA,Miami,1610612748.0,Heat,0,,,,,,,,Barron STEAL (1 STL),9:39 PM
+226,0,13,243,0020600422,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,45 - 57,12,,9:39 PM
+227,0,12,245,0020600422,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,45 - 57,12,,9:55 PM
+228,1,1,246,0020600422,Hinrich 19' Jump Shot (9 PTS) (Wallace 2 AST),,11:52,3,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,45 - 59,14,,9:55 PM
+229,5,2,247,0020600422,,,11:36,3,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Wright  Layup,9:55 PM
+230,0,4,248,0020600422,BULLS Rebound,,11:36,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:56 PM
+231,3,6,249,0020600422,,,11:36,3,5,4,1,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Mourning L.B.FOUL (P3.T1),9:56 PM
+232,1,2,250,0020600422,MISS Nocioni 16' Jump Shot,,11:16,3,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:56 PM
+233,0,4,251,0020600422,,,11:14,3,5,0,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:1),9:56 PM
+234,2,5,252,0020600422,Duhon STEAL (1 STL),,11:10,3,5,4,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Williams Lost Ball Turnover (P1.T7),9:56 PM
+235,1,2,253,0020600422,MISS Deng 18' Jump Shot,,10:56,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:56 PM
+236,0,4,254,0020600422,,,10:55,3,5,0,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Kapono REBOUND (Off:0 Def:1),9:56 PM
+237,1,1,255,0020600422,,,10:43,3,5,5,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,48 - 59,11,Williams 28' 3PT Jump Shot (15 PTS) (Kapono 2 AST),9:57 PM
+238,1,2,256,0020600422,MISS Hinrich 27' 3PT Jump Shot,,10:33,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:57 PM
+239,0,4,257,0020600422,,,10:31,3,5,0,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:2),9:57 PM
+240,1,2,258,0020600422,,,10:21,3,5,0,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Williams 27' 3PT Jump Shot,9:57 PM
+241,0,4,259,0020600422,Wallace REBOUND (Off:4 Def:4),,10:19,3,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:57 PM
+242,1,2,260,0020600422,MISS Nocioni 27' 3PT Jump Shot,,10:12,3,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:57 PM
+243,0,4,261,0020600422,Deng REBOUND (Off:2 Def:2),,10:09,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:57 PM
+244,2,5,262,0020600422,Hinrich Lost Ball Turnover (P1.T5),,9:56,3,4,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,,,Haslem STEAL (1 STL),9:57 PM
+245,5,1,263,0020600422,,,9:51,3,5,5,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,50 - 59,9,Williams  Layup (17 PTS) (Haslem 1 AST),9:57 PM
+246,2,6,264,0020600422,,,9:41,3,5,4,1,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Mourning S.FOUL (P4.T2),9:58 PM
+247,11,3,265,0020600422,Deng Free Throw 1 of 2 (6 PTS),,9:41,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,50 - 60,10,,9:58 PM
+248,12,3,266,0020600422,Deng Free Throw 2 of 2 (7 PTS),,9:41,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,50 - 61,11,,9:58 PM
+249,1,6,267,0020600422,Nocioni P.FOUL (P3.T1),,9:28,3,4,5,1,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,9:59 PM
+250,2,6,268,0020600422,Deng S.FOUL (P2.T2),,9:18,3,4,5,1,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,9:59 PM
+251,11,3,269,0020600422,,,9:18,3,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Wright Free Throw 1 of 2,9:59 PM
+252,1,4,270,0020600422,,,9:18,3,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Rebound,9:59 PM
+253,12,3,271,0020600422,,,9:18,3,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,51 - 61,10,Wright Free Throw 2 of 2 (12 PTS),9:59 PM
+254,1,1,272,0020600422,Nocioni 19' Jump Shot (11 PTS) (Hinrich 4 AST),,9:02,3,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,51 - 63,12,,10:00 PM
+255,1,2,273,0020600422,,,8:45,3,5,0,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Williams 26' 3PT Jump Shot,10:00 PM
+256,0,4,274,0020600422,Hinrich REBOUND (Off:1 Def:3),,8:43,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:00 PM
+257,5,2,275,0020600422,MISS Deng  Layup,,8:39,3,4,0,5,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,,,Haslem BLOCK (2 BLK),10:00 PM
+258,0,4,276,0020600422,BULLS Rebound,,8:39,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:00 PM
+259,0,8,277,0020600422,,,8:39,3,5,5,0,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Doleac FOR Mourning,10:00 PM
+260,0,8,278,0020600422,,,8:39,3,5,5,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Quinn FOR Williams,10:00 PM
+261,5,2,279,0020600422,MISS Deng  Layup,,8:28,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:01 PM
+262,0,4,280,0020600422,,,8:26,3,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Haslem REBOUND (Off:3 Def:2),10:01 PM
+263,0,10,281,0020600422,Jump Ball Wallace vs. Haslem: Tip to Duhon,,8:09,3,4,5,4,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,,,,10:01 PM
+264,2,5,282,0020600422,Wallace STEAL (1 STL),,8:09,3,5,4,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Haslem Lost Ball Turnover (P1.T8),10:01 PM
+265,2,6,283,0020600422,,,7:54,3,5,4,1,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Quinn S.FOUL (P1.T3),10:02 PM
+266,11,3,284,0020600422,MISS Duhon Free Throw 1 of 2,,7:54,3,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:02 PM
+267,1,4,285,0020600422,BULLS Rebound,,7:54,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:02 PM
+268,12,3,286,0020600422,Duhon Free Throw 2 of 2 (3 PTS),,7:54,3,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,51 - 64,13,,10:02 PM
+269,1,2,287,0020600422,,,7:42,3,5,0,0,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Doleac 19' Jump Shot,10:03 PM
+270,0,4,288,0020600422,,,7:39,3,5,0,0,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Doleac REBOUND (Off:1 Def:2),10:03 PM
+271,1,2,289,0020600422,,,7:37,3,5,0,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Kapono 24' 3PT Jump Shot,10:03 PM
+272,0,4,290,0020600422,,,7:32,3,5,0,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Kapono REBOUND (Off:1 Def:1),10:03 PM
+273,1,1,291,0020600422,,,7:30,3,5,0,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,53 - 64,11,Kapono 14' Jump Shot (6 PTS),10:03 PM
+274,1,2,292,0020600422,MISS Hinrich 26' 3PT Jump Shot,,7:11,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:03 PM
+275,0,4,294,0020600422,Deng REBOUND (Off:3 Def:2),,7:08,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:03 PM
+276,4,2,293,0020600422,MISS Deng  Tip Shot,,7:08,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:03 PM
+277,0,4,295,0020600422,,,7:07,3,5,0,0,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Doleac REBOUND (Off:1 Def:3),10:03 PM
+278,2,6,296,0020600422,Hinrich S.FOUL (P2.T3),,6:52,3,4,5,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,10:04 PM
+279,11,3,297,0020600422,,,6:52,3,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,54 - 64,10,Wright Free Throw 1 of 2 (13 PTS),10:04 PM
+280,0,8,298,0020600422,SUB: Gordon FOR Duhon,,6:52,3,4,4,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:04 PM
+281,12,3,299,0020600422,,,6:52,3,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Wright Free Throw 2 of 2,10:04 PM
+282,0,4,300,0020600422,Wallace REBOUND (Off:4 Def:5),,6:51,3,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:04 PM
+283,1,2,301,0020600422,MISS Hinrich 28' 3PT Jump Shot,,6:39,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:04 PM
+284,0,4,302,0020600422,,,6:37,3,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright REBOUND (Off:1 Def:7),10:04 PM
+285,5,2,303,0020600422,,,6:33,3,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Wright  Layup,10:04 PM
+286,0,4,304,0020600422,,,6:31,3,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Haslem REBOUND (Off:4 Def:2),10:04 PM
+287,5,1,305,0020600422,,,6:30,3,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,56 - 64,8,Haslem  Layup (6 PTS),10:04 PM
+288,1,1,306,0020600422,Nocioni 25' 3PT Jump Shot (14 PTS) (Gordon 2 AST),,6:10,3,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,56 - 67,11,,10:05 PM
+289,1,9,307,0020600422,,,6:01,3,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Timeout: Regular (Reg.3 Short 1),10:05 PM
+290,0,8,309,0020600422,SUB: Thomas FOR Deng,,6:01,3,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:07 PM
+291,5,2,310,0020600422,,,5:55,3,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Haslem  Layup,10:07 PM
+292,0,4,311,0020600422,Thomas REBOUND (Off:1 Def:2),,5:54,3,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:07 PM
+293,1,2,312,0020600422,MISS Gordon 18' Jump Shot,,5:48,3,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:08 PM
+294,0,4,313,0020600422,Nocioni REBOUND (Off:2 Def:1),,5:46,3,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:08 PM
+295,5,2,314,0020600422,MISS Nocioni  Layup,,5:44,3,4,0,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:08 PM
+296,0,4,316,0020600422,Wallace REBOUND (Off:5 Def:5),,5:43,3,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:08 PM
+297,4,2,315,0020600422,MISS Wallace  Tip Shot,,5:43,3,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:08 PM
+298,0,4,317,0020600422,,,5:41,3,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright REBOUND (Off:1 Def:8),10:08 PM
+299,1,1,318,0020600422,,,5:33,3,5,5,0,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,59 - 67,8,Quinn 26' 3PT Jump Shot (3 PTS) (Haslem 2 AST),10:08 PM
+300,1,1,319,0020600422,Hinrich 20' Jump Shot (11 PTS) (Wallace 3 AST),,5:13,3,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,59 - 69,10,,10:08 PM
+301,42,1,320,0020600422,,,4:50,3,5,5,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,0,,,,,,61 - 69,8,Wright  Driving Layup (15 PTS) (Doleac 1 AST),10:09 PM
+302,2,6,321,0020600422,,,4:43,3,5,4,1,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Kapono S.FOUL (P3.T4),10:09 PM
+303,11,3,322,0020600422,MISS Gordon Free Throw 1 of 2,,4:43,3,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:09 PM
+304,1,4,323,0020600422,BULLS Rebound,,4:43,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:09 PM
+305,12,3,324,0020600422,Gordon Free Throw 2 of 2 (20 PTS),,4:43,3,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,61 - 70,9,,10:09 PM
+306,5,2,325,0020600422,,,4:33,3,5,0,0,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Quinn  Layup,10:10 PM
+307,0,4,326,0020600422,,,4:30,3,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Haslem REBOUND (Off:5 Def:2),10:10 PM
+308,4,5,327,0020600422,,,4:28,3,5,0,1,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Kapono Traveling Turnover (P2.T9),10:10 PM
+309,1,5,328,0020600422,Gordon Bad Pass Turnover (P2.T6),,4:13,3,4,5,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,0,,,,,,,,Doleac STEAL (1 STL),10:10 PM
+310,7,5,329,0020600422,,,3:59,3,5,0,1,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Quinn Discontinue Dribble Turnover (P1.T10),10:10 PM
+311,1,5,330,0020600422,Hinrich Bad Pass Turnover (P2.T7),,3:44,3,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:11 PM
+312,1,1,331,0020600422,,,3:26,3,5,5,0,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,0,,,,,,63 - 70,7,Doleac 20' Jump Shot (6 PTS) (Quinn 1 AST),10:11 PM
+313,1,5,332,0020600422,Gordon Bad Pass Turnover (P3.T8),,3:11,3,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:12 PM
+314,0,8,333,0020600422,SUB: Sefolosha FOR Hinrich,,3:11,3,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:12 PM
+315,1,1,334,0020600422,,,2:53,3,5,5,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,0,,,,,,66 - 70,4,Kapono 27' 3PT Jump Shot (9 PTS) (Doleac 2 AST),10:12 PM
+316,1,6,335,0020600422,,,2:44,3,5,4,1,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Quinn P.FOUL (P2.PN),10:12 PM
+317,1,9,337,0020600422,BULLS Timeout: Regular (Full 3 Short 0),,2:44,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:13 PM
+318,0,8,339,0020600422,SUB: Deng FOR Thomas,,2:44,3,4,4,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:15 PM
+319,11,3,340,0020600422,Gordon Free Throw 1 of 2 (21 PTS),,2:44,3,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,66 - 71,5,,10:15 PM
+320,12,3,341,0020600422,Gordon Free Throw 2 of 2 (22 PTS),,2:44,3,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,66 - 72,6,,10:15 PM
+321,1,2,342,0020600422,,,2:22,3,5,0,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Kapono 18' Jump Shot,10:16 PM
+322,0,4,343,0020600422,Wallace REBOUND (Off:5 Def:6),,2:19,3,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:16 PM
+323,1,1,344,0020600422,Sefolosha 17' Jump Shot (7 PTS),,2:10,3,4,0,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,66 - 74,8,,10:16 PM
+324,1,1,345,0020600422,,,1:52,3,5,5,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,0,,,,,,69 - 74,5,Kapono 25' 3PT Jump Shot (12 PTS) (Quinn 2 AST),10:17 PM
+325,44,1,346,0020600422,Nocioni  Reverse Layup (16 PTS) (Gordon 3 AST),,1:39,3,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,69 - 76,7,,10:17 PM
+326,1,6,347,0020600422,Sefolosha P.FOUL (P1.T4),,1:27,3,4,5,1,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,10:17 PM
+327,0,8,348,0020600422,SUB: Duhon FOR Gordon,,1:27,3,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:17 PM
+328,0,8,349,0020600422,,,1:27,3,5,5,0,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Posey FOR Doleac,10:17 PM
+329,1,1,350,0020600422,,,1:19,3,5,5,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,0,,,,,,71 - 76,5,Kapono 20' Jump Shot (14 PTS) (Quinn 3 AST),10:17 PM
+330,4,5,351,0020600422,Sefolosha Traveling Turnover (P1.T9),,1:07,3,4,0,1,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:18 PM
+331,1,2,352,0020600422,,,0:56,3,5,0,0,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Quinn 20' Jump Shot,10:18 PM
+332,0,4,353,0020600422,Deng REBOUND (Off:3 Def:3),,0:54,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:18 PM
+333,4,6,354,0020600422,Wallace OFF.Foul (P3),,0:46,3,4,5,1,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,10:18 PM
+334,5,5,355,0020600422,Wallace Foul Turnover (P1.T10),,0:46,3,4,0,1,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:18 PM
+335,1,2,356,0020600422,,,0:34,3,5,0,0,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Posey 27' 3PT Jump Shot,10:19 PM
+336,0,4,357,0020600422,Deng REBOUND (Off:3 Def:4),,0:31,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:19 PM
+337,1,1,358,0020600422,Wallace 9' Jump Shot (2 PTS),,0:23,3,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,71 - 78,7,,10:19 PM
+338,2,6,359,0020600422,Deng S.FOUL (P3.PN),,0:06,3,4,5,1,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,10:19 PM
+339,11,3,360,0020600422,,,0:06,3,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Wright Free Throw 1 of 2,10:19 PM
+340,1,4,361,0020600422,,,0:06,3,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Rebound,10:19 PM
+341,12,3,362,0020600422,,,0:06,3,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Wright Free Throw 2 of 2,10:20 PM
+342,0,4,363,0020600422,Deng REBOUND (Off:3 Def:5),,0:04,3,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:20 PM
+343,1,2,364,0020600422,MISS Sefolosha 16' Jump Shot,,0:00,3,4,0,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:20 PM
+344,0,4,366,0020600422,BULLS Rebound,,0:00,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:20 PM
+345,0,13,365,0020600422,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,71 - 78,7,,10:20 PM
+346,0,12,368,0020600422,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,71 - 78,7,,10:22 PM
+347,5,1,369,0020600422,,,11:42,4,5,5,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,73 - 78,5,Haslem  Layup (8 PTS) (Posey 4 AST),10:23 PM
+348,1,6,370,0020600422,,,11:23,4,5,4,1,1899,James Posey,MIA,Miami,1610612748.0,Heat,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Posey P.FOUL (P1.T1),10:23 PM
+349,5,1,371,0020600422,Wallace  Layup (4 PTS) (Duhon 3 AST),,11:16,4,4,4,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,73 - 80,7,,10:23 PM
+350,1,1,372,0020600422,,,10:59,4,5,5,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,75 - 80,5,Wright 18' Jump Shot (17 PTS) (Kapono 3 AST),10:24 PM
+351,2,5,373,0020600422,Wallace Lost Ball Turnover (P2.T11),,10:43,4,4,5,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,,,Kapono STEAL (1 STL),10:24 PM
+352,1,2,374,0020600422,,,10:29,4,5,0,0,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Quinn 28' 3PT Jump Shot,10:24 PM
+353,0,4,375,0020600422,Deng REBOUND (Off:3 Def:6),,10:26,4,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:24 PM
+354,1,6,376,0020600422,,,10:22,4,5,4,1,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Quinn P.FOUL (P3.T2),10:24 PM
+355,0,8,377,0020600422,,,10:22,4,5,5,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Williams FOR Kapono,10:25 PM
+356,1,2,378,0020600422,MISS Duhon 25' 3PT Jump Shot,,10:17,4,4,0,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:25 PM
+357,0,4,379,0020600422,,,10:14,4,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright REBOUND (Off:1 Def:9),10:25 PM
+358,1,1,380,0020600422,,,9:54,4,5,5,0,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,78 - 80,2,Quinn 27' 3PT Jump Shot (6 PTS) (Posey 5 AST),10:25 PM
+359,1,6,381,0020600422,,,9:43,4,5,4,1,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Wright P.FOUL (P2.T3),10:25 PM
+360,0,8,382,0020600422,SUB: Hinrich FOR Duhon,,9:43,4,4,4,0,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:26 PM
+361,0,8,383,0020600422,SUB: Gordon FOR Sefolosha,,9:43,4,4,4,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:26 PM
+362,4,6,384,0020600422,Gordon OFF.Foul (P1),,9:43,4,4,5,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,10:26 PM
+363,5,5,385,0020600422,Gordon Foul Turnover (P4.T12),,9:43,4,4,0,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:26 PM
+364,1,1,386,0020600422,,,9:25,4,5,5,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,81 - 80,-1,Williams 24' 3PT Jump Shot (20 PTS) (Wright 3 AST),10:26 PM
+365,7,1,387,0020600422,Wallace  Dunk (6 PTS) (Deng 3 AST),,9:12,4,4,4,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,81 - 82,1,,10:27 PM
+366,1,1,388,0020600422,,,8:47,4,5,5,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,84 - 82,-2,Williams 28' 3PT Jump Shot (23 PTS) (Haslem 3 AST),10:27 PM
+367,1,1,389,0020600422,Hinrich 29' 3PT Jump Shot (14 PTS) (Gordon 4 AST),,8:30,4,4,4,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,84 - 85,1,,10:27 PM
+368,5,2,390,0020600422,,,8:14,4,5,0,0,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Posey  Layup,10:28 PM
+369,0,4,391,0020600422,,,8:12,4,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Haslem REBOUND (Off:6 Def:2),10:28 PM
+370,5,2,392,0020600422,Wallace BLOCK (1 BLK),,8:11,4,5,0,4,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,,,MISS Haslem  Layup,10:28 PM
+371,0,4,393,0020600422,,,8:08,4,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Haslem REBOUND (Off:7 Def:2),10:28 PM
+372,5,2,394,0020600422,Wallace BLOCK (2 BLK),,8:06,4,5,0,4,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,,,MISS Haslem  Layup,10:28 PM
+373,0,4,395,0020600422,Deng REBOUND (Off:3 Def:7),,8:04,4,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:28 PM
+374,5,2,396,0020600422,MISS Deng  Layup,,8:00,4,4,0,5,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,,,Wright BLOCK (1 BLK),10:28 PM
+375,0,4,397,0020600422,,,7:58,4,5,0,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:3),10:28 PM
+376,1,1,398,0020600422,,,7:54,4,5,0,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,87 - 85,-2,Williams 26' 3PT Jump Shot (26 PTS),10:28 PM
+377,1,1,399,0020600422,Gordon 19' Jump Shot (24 PTS),,7:41,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,87 - 87,TIE,,10:28 PM
+378,1,2,400,0020600422,,,7:24,4,5,0,0,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Quinn 16' Jump Shot,10:28 PM
+379,0,4,401,0020600422,Deng REBOUND (Off:3 Def:8),,7:22,4,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:28 PM
+380,15,6,402,0020600422,,,7:16,4,5,4,1,1899,James Posey,MIA,Miami,1610612748.0,Heat,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Posey FLAGRANT.FOUL.TYPE2 (P2.T4),10:29 PM
+381,3,11,403,0020600422,,,7:16,4,5,0,1,1899,James Posey,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Posey Ejection:First Flagrant Type 2,10:29 PM
+382,0,8,404,0020600422,,,7:16,4,5,5,0,1899,James Posey,MIA,Miami,1610612748.0,Heat,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Mourning FOR Posey,10:29 PM
+383,1,9,405,0020600422,,,7:16,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:29 PM
+384,16,6,406,0020600422,,,7:16,4,4,5,1,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,10:30 PM
+385,18,3,407,0020600422,MISS Deng Free Throw Flagrant 1 of 2,,7:16,4,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:32 PM
+386,1,4,408,0020600422,BULLS Rebound,,7:16,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:32 PM
+387,19,3,409,0020600422,Deng Free Throw Flagrant 2 of 2 (8 PTS),,7:16,4,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,87 - 88,1,,10:32 PM
+388,7,1,410,0020600422,Wallace  Dunk (8 PTS) (Gordon 5 AST),,7:07,4,4,4,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,87 - 90,3,,10:33 PM
+389,5,2,411,0020600422,Wallace BLOCK (3 BLK),,6:42,4,5,0,4,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,0,,,,,,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,,,MISS Quinn  Layup,10:33 PM
+390,0,4,412,0020600422,,,6:42,4,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Rebound,10:33 PM
+391,0,8,413,0020600422,,,6:42,4,5,5,0,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Kapono FOR Quinn,10:33 PM
+392,5,2,414,0020600422,Nocioni BLOCK (1 BLK),,6:35,4,5,0,4,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,,,MISS Kapono  Layup,10:34 PM
+393,0,4,415,0020600422,Hinrich REBOUND (Off:1 Def:4),,6:33,4,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:34 PM
+394,1,5,416,0020600422,Hinrich Bad Pass Turnover (P3.T13),,6:31,4,4,5,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,,,Kapono STEAL (2 STL),10:34 PM
+395,2,5,417,0020600422,Hinrich STEAL (2 STL),,6:22,4,5,4,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Wright Lost Ball Turnover (P1.T11),10:35 PM
+396,5,2,418,0020600422,MISS Hinrich  Layup,,6:18,4,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:35 PM
+397,0,4,419,0020600422,,,6:18,4,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Rebound,10:35 PM
+398,5,1,420,0020600422,,,5:57,4,5,5,0,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,89 - 90,1,Mourning  Layup (4 PTS) (Wright 4 AST),10:35 PM
+399,1,9,421,0020600422,BULLS Timeout: Regular (Full 4 Short 0),,5:56,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:35 PM
+400,1,6,423,0020600422,,,5:45,4,5,4,1,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Kapono P.FOUL (P4.PN),10:38 PM
+401,11,3,424,0020600422,Gordon Free Throw 1 of 2 (25 PTS),,5:45,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,89 - 91,2,,10:38 PM
+402,12,3,425,0020600422,Gordon Free Throw 2 of 2 (26 PTS),,5:45,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,89 - 92,3,,10:38 PM
+403,2,5,426,0020600422,Nocioni STEAL (1 STL),,5:32,4,5,4,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Williams Lost Ball Turnover (P2.T12),10:39 PM
+404,4,5,427,0020600422,Gordon Traveling Turnover (P5.T14),,5:25,4,4,0,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:39 PM
+405,1,2,428,0020600422,,,5:02,4,5,0,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Williams 26' 3PT Jump Shot,10:40 PM
+406,0,4,429,0020600422,,,5:01,4,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Rebound,10:40 PM
+407,5,1,430,0020600422,,,4:53,4,5,5,0,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,91 - 92,1,Mourning  Layup (6 PTS) (Williams 4 AST),10:40 PM
+408,1,2,431,0020600422,MISS Deng 20' Jump Shot,,4:41,4,4,0,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:40 PM
+409,0,4,432,0020600422,,,4:39,4,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright REBOUND (Off:1 Def:10),10:40 PM
+410,2,6,433,0020600422,Nocioni S.FOUL (P4.T1),,4:25,4,4,5,1,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,10:41 PM
+411,11,3,434,0020600422,,,4:25,4,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Haslem Free Throw 1 of 2,10:41 PM
+412,1,4,435,0020600422,,,4:25,4,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Rebound,10:41 PM
+413,12,3,436,0020600422,,,4:25,4,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,92 - 92,TIE,Haslem Free Throw 2 of 2 (9 PTS),10:41 PM
+414,1,1,437,0020600422,Gordon 21' Jump Shot (28 PTS),,4:10,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,92 - 94,2,,10:42 PM
+415,1,9,438,0020600422,,,4:01,4,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Timeout: Regular (Reg.4 Short 1),10:42 PM
+416,13,5,440,0020600422,,,4:01,4,5,0,1,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright Backcourt Turnover (P2.T13),10:45 PM
+417,1,1,441,0020600422,Gordon 12' Jump Shot (30 PTS) (Hinrich 5 AST),,3:51,4,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,92 - 96,4,,10:45 PM
+418,1,6,442,0020600422,Nocioni P.FOUL (P5.T2),,3:37,4,4,5,1,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,10:45 PM
+419,41,1,443,0020600422,,,3:27,4,5,5,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,94 - 96,2,Kapono  Running Layup (16 PTS) (Williams 5 AST),10:46 PM
+420,1,2,444,0020600422,MISS Hinrich 12' Jump Shot,,3:10,4,4,0,0,2550,Kirk Hinrich,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:46 PM
+421,0,4,445,0020600422,,,3:09,4,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright REBOUND (Off:1 Def:11),10:46 PM
+422,3,6,446,0020600422,Nocioni L.B.FOUL (P6.T3),,3:09,4,4,5,1,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,10:46 PM
+423,0,8,448,0020600422,SUB: Thomas FOR Nocioni,,3:09,4,4,4,0,2804,Andres Nocioni,CHI,Chicago,1610612741.0,Bulls,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:47 PM
+424,5,1,449,0020600422,,,2:49,4,5,5,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,96 - 96,TIE,Kapono  Layup (18 PTS) (Williams 6 AST),10:47 PM
+425,1,6,450,0020600422,,,2:49,4,5,4,1,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Williams P.FOUL (P2.PN),10:47 PM
+426,11,3,451,0020600422,MISS Wallace Free Throw 1 of 2,,2:49,4,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:47 PM
+427,1,4,452,0020600422,BULLS Rebound,,2:49,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:47 PM
+428,12,3,453,0020600422,Wallace Free Throw 2 of 2 (9 PTS),,2:49,4,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,96 - 97,1,,10:48 PM
+429,1,5,455,0020600422,,,2:36,4,5,0,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Kapono Bad Pass Turnover (P3.T14),10:48 PM
+430,1,6,456,0020600422,,,2:34,4,5,4,1,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Williams P.FOUL (P3.PN),10:48 PM
+431,11,3,457,0020600422,MISS Wallace Free Throw 1 of 2,,2:34,4,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:49 PM
+432,1,4,458,0020600422,BULLS Rebound,,2:34,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:49 PM
+433,12,3,459,0020600422,MISS Wallace Free Throw 2 of 2,,2:34,4,4,0,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:49 PM
+434,0,4,460,0020600422,,,2:34,4,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Rebound,10:49 PM
+435,1,5,461,0020600422,Wallace STEAL (2 STL),,2:23,4,5,4,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Williams Bad Pass Turnover (P3.T15),10:49 PM
+436,5,1,462,0020600422,Gordon  Layup (32 PTS) (Wallace 4 AST),,2:19,4,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,96 - 99,3,,10:49 PM
+437,1,9,463,0020600422,,,2:17,4,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Timeout: Regular (Reg.5 Short 1),10:49 PM
+438,5,2,465,0020600422,,,1:55,4,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Haslem  Layup,10:52 PM
+439,0,4,467,0020600422,,,1:54,4,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright REBOUND (Off:2 Def:11),10:52 PM
+440,4,2,466,0020600422,,,1:54,4,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Wright  Tip Shot,10:52 PM
+441,0,4,469,0020600422,,,1:54,4,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Haslem REBOUND (Off:8 Def:2),10:52 PM
+442,5,1,468,0020600422,,,1:54,4,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,98 - 99,1,Haslem  Layup (11 PTS),10:52 PM
+443,1,2,470,0020600422,MISS Gordon 19' Jump Shot,,1:40,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:53 PM
+444,0,4,471,0020600422,,,1:38,4,5,0,0,2748,Dorell Wright,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,Wright REBOUND (Off:2 Def:12),10:53 PM
+445,1,1,472,0020600422,,,1:26,4,5,0,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,100 - 99,-1,Williams 16' Jump Shot (28 PTS),10:53 PM
+446,2,9,473,0020600422,BULLS Timeout: Short (Full 4 Short 1),,1:26,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:53 PM
+447,5,1,474,0020600422,Gordon  Layup (34 PTS) (Wallace 5 AST),,1:10,4,4,4,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,0,,,,,,100 - 101,1,,10:54 PM
+448,2,6,475,0020600422,,,1:10,4,5,4,1,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Haslem S.FOUL (P4.PN),10:54 PM
+449,10,3,476,0020600422,Gordon Free Throw 1 of 1 (35 PTS),,1:10,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,100 - 102,2,,10:55 PM
+450,1,2,477,0020600422,,,0:48,4,5,0,0,2574,Jason Kapono,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Kapono 26' 3PT Jump Shot,10:55 PM
+451,0,4,478,0020600422,Thomas REBOUND (Off:1 Def:3),,0:45,4,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:55 PM
+452,2,6,479,0020600422,,,0:24,4,5,4,1,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Mourning S.FOUL (P5.PN),10:56 PM
+453,11,3,480,0020600422,Thomas Free Throw 1 of 2 (9 PTS),,0:24,4,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,100 - 103,3,,10:56 PM
+454,12,3,481,0020600422,Thomas Free Throw 2 of 2 (10 PTS),,0:24,4,4,0,0,200748,Tyrus Thomas,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,100 - 104,4,,10:56 PM
+455,1,9,482,0020600422,,,0:24,4,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Timeout: Regular (Reg.6 Short 1),10:57 PM
+456,0,8,483,0020600422,SUB: Sefolosha FOR Deng,,0:24,4,4,4,0,2736,Luol Deng,CHI,Chicago,1610612741.0,Bulls,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:59 PM
+457,0,8,484,0020600422,,,0:24,4,5,5,0,297,Alonzo Mourning,MIA,Miami,1610612748.0,Heat,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Quinn FOR Mourning,10:59 PM
+458,1,6,485,0020600422,Gordon P.FOUL (P2.T4),,0:22,4,4,5,1,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,10:59 PM
+459,1,6,486,0020600422,Sefolosha P.FOUL (P2.PN),,0:17,4,4,5,1,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,10:59 PM
+460,11,3,487,0020600422,,,0:17,4,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,101 - 104,3,Haslem Free Throw 1 of 2 (12 PTS),11:00 PM
+461,12,3,488,0020600422,,,0:17,4,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,102 - 104,2,Haslem Free Throw 2 of 2 (13 PTS),11:00 PM
+462,2,9,489,0020600422,BULLS Timeout: Short (Full 4 Short 2),,0:17,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,11:00 PM
+463,0,8,490,0020600422,SUB: Duhon FOR Sefolosha,,0:17,4,4,4,0,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,2768,Chris Duhon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,11:01 PM
+464,1,6,491,0020600422,,,0:14,4,5,4,1,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Quinn P.FOUL (P4.PN),11:01 PM
+465,11,3,492,0020600422,Gordon Free Throw 1 of 2 (36 PTS),,0:14,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,102 - 105,3,,11:02 PM
+466,12,3,493,0020600422,MISS Gordon Free Throw 2 of 2,,0:14,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,11:02 PM
+467,0,4,494,0020600422,BULLS Rebound,,0:12,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,11:02 PM
+468,1,6,495,0020600422,,,0:11,4,5,4,1,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Quinn P.FOUL (P5.PN),11:03 PM
+469,11,3,496,0020600422,Gordon Free Throw 1 of 2 (37 PTS),,0:11,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,102 - 106,4,,11:03 PM
+470,12,3,497,0020600422,Gordon Free Throw 2 of 2 (38 PTS),,0:11,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,102 - 107,5,,11:03 PM
+471,2,9,498,0020600422,,,0:11,4,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Timeout: Short (Reg.6 Short 2),11:03 PM
+472,1,6,500,0020600422,Wallace P.FOUL (P4.PN),,0:07,4,4,5,1,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,11:05 PM
+473,11,3,501,0020600422,,,0:07,4,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Haslem Free Throw 1 of 2,11:05 PM
+474,1,4,502,0020600422,,,0:07,4,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Rebound,11:05 PM
+475,12,3,503,0020600422,,,0:07,4,5,0,0,2617,Udonis Haslem,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,103 - 107,4,Haslem Free Throw 2 of 2 (14 PTS),11:05 PM
+476,1,6,504,0020600422,,,0:04,4,5,4,1,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Quinn P.FOUL (P6.PN),11:06 PM
+477,0,8,505,0020600422,,,0:04,4,5,5,0,200809,Chris Quinn,MIA,Miami,1610612748.0,Heat,1720,Michael Doleac,MIA,Miami,1610612748.0,Heat,0,,,,,,,,SUB: Doleac FOR Quinn,11:06 PM
+478,0,8,506,0020600422,SUB: Sefolosha FOR Wallace,,0:04,4,4,4,0,1112,Ben Wallace,CHI,Chicago,1610612741.0,Bulls,200757,Thabo Sefolosha,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,11:06 PM
+479,11,3,507,0020600422,Gordon Free Throw 1 of 2 (39 PTS),,0:04,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,103 - 108,5,,11:06 PM
+480,12,3,508,0020600422,Gordon Free Throw 2 of 2 (40 PTS),,0:04,4,4,0,0,2732,Ben Gordon,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,103 - 109,6,,11:06 PM
+481,5,2,509,0020600422,,,0:00,4,5,0,0,1715,Jason Williams,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,MISS Williams  Layup,11:07 PM
+482,0,4,511,0020600422,,,0:00,4,3,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,Heat Rebound,11:07 PM
+483,0,13,510,0020600422,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,103 - 109,6,,11:07 PM

@@ -1,0 +1,442 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020100369,,,12:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:11 PM
+1,0,10,1,0020100369,Jump Ball Davis vs. Wallace: Tip to Barros,,12:00,1,4.0,5,5,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,,,,10:13 PM
+2,2,6,2,0020100369,Stoudamire S.FOUL (P1.T1),,11:40,1,4.0,0,1,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:13 PM
+3,11,3,3,0020100369,,,11:40,1,5.0,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Barros Free Throw 1 of 2,10:13 PM
+4,1,4,4,0020100369,,,11:40,1,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,10:13 PM
+5,12,3,5,0020100369,,,11:40,1,5.0,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,1 - 0,-1,Barros Free Throw 2 of 2 (1 PTS),10:13 PM
+6,1,2,6,0020100369,MISS Wallace 19' Jump Shot,,11:24,1,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:14 PM
+7,0,4,7,0020100369,,,11:22,1,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:0 Def:1),10:14 PM
+8,42,1,8,0020100369,,,11:13,1,5.0,5,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,3 - 0,-3,Robinson  Driving Layup (2 PTS) (Stackhouse 1 AST),10:14 PM
+9,1,2,9,0020100369,MISS Stoudamire 17' Jump Shot,,10:49,1,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:15 PM
+10,0,4,10,0020100369,Davis REBOUND (Off:1 Def:0),,10:47,1,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:15 PM
+11,1,2,11,0020100369,MISS Anderson 24' 3PT Jump Shot,,10:41,1,4.0,0,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:15 PM
+12,0,4,12,0020100369,Davis REBOUND (Off:2 Def:0),,10:39,1,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:15 PM
+13,5,2,13,0020100369,MISS Davis  Layup,,10:37,1,4.0,0,5,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,,,Wallace BLOCK (1 BLK),10:15 PM
+14,0,4,14,0020100369,Patterson REBOUND (Off:1 Def:0),,10:34,1,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:15 PM
+15,1,1,15,0020100369,Wallace 6' Jump Shot (2 PTS) (Patterson 1 AST),,10:30,1,4.0,4,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,3 - 2,-1,,10:15 PM
+16,5,2,16,0020100369,,,10:11,1,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Wallace  Layup,10:15 PM
+17,0,4,17,0020100369,,,10:09,1,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:1 Def:0),10:15 PM
+18,46,2,18,0020100369,,,9:49,1,5.0,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Barros 12' Running Jump Shot,10:16 PM
+19,0,4,19,0020100369,Davis REBOUND (Off:2 Def:1),,9:47,1,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:16 PM
+20,1,1,20,0020100369,Davis 15' Jump Shot (2 PTS) (Patterson 2 AST),,9:31,1,4.0,4,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,3 - 4,1,,10:16 PM
+21,1,5,21,0020100369,Anderson STEAL (1 STL),,9:24,1,5.0,4,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,Barros Bad Pass Turnover (P1.T1),10:16 PM
+22,5,2,22,0020100369,MISS Anderson  Layup,,9:21,1,4.0,0,5,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,,,Robinson BLOCK (1 BLK),10:16 PM
+23,0,10,23,0020100369,Jump Ball Anderson vs. Robinson: Tip to Stackhouse,,9:20,1,4.0,5,5,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,,,,10:16 PM
+24,0,4,24,0020100369,,,9:20,1,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,10:16 PM
+25,1,1,25,0020100369,,,9:03,1,5.0,5,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,5 - 4,-1,Curry 20' Jump Shot (2 PTS) (Barros 1 AST),10:17 PM
+26,2,9,26,0020100369,TRAIL BLAZERS Timeout: Short (Full 0 Short 1),,9:01,1,2.0,0,0,1610612757,,,,,,0,,,,,,0,,,,,,,,,10:17 PM
+27,1,1,28,0020100369,Wallace 20' Jump Shot (4 PTS) (Patterson 3 AST),,8:39,1,4.0,4,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,5 - 6,1,,10:18 PM
+28,1,5,29,0020100369,,,8:24,1,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Stackhouse Bad Pass Turnover (P1.T2),10:18 PM
+29,5,2,30,0020100369,MISS Davis  Layup,,8:12,1,4.0,0,5,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,,,Robinson BLOCK (2 BLK),10:19 PM
+30,1,9,31,0020100369,TRAIL BLAZERS Timeout: Regular (Full 1 Short 1),,8:12,1,2.0,0,0,1610612757,,,,,,0,,,,,,0,,,,,,,,,10:19 PM
+31,0,10,34,0020100369,Jump Ball Davis vs. Robinson: Tip to Wallace,,8:12,1,4.0,5,5,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,,,,10:21 PM
+32,0,4,35,0020100369,,,8:12,1,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,10:21 PM
+33,5,2,36,0020100369,Davis BLOCK (1 BLK),,8:01,1,5.0,0,4,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,,,MISS Curry  Layup,10:22 PM
+34,0,4,37,0020100369,,,8:01,1,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,10:22 PM
+35,1,1,38,0020100369,,,7:52,1,5.0,5,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,7 - 6,-1,Stackhouse 20' Jump Shot (2 PTS) (Barros 2 AST),10:22 PM
+36,1,5,39,0020100369,Patterson Bad Pass Turnover (P1.T1),,7:33,1,4.0,5,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Wallace STEAL (1 STL),10:23 PM
+37,1,1,40,0020100369,,,7:24,1,5.0,5,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,9 - 6,-3,Stackhouse 15' Jump Shot (4 PTS) (Robinson 1 AST),10:23 PM
+38,5,1,41,0020100369,Patterson  Layup (2 PTS) (Anderson 1 AST),,7:10,1,4.0,4,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,9 - 8,-1,,10:23 PM
+39,2,6,42,0020100369,,,7:10,1,5.0,0,1,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Curry S.FOUL (P1.T1),10:23 PM
+40,10,3,43,0020100369,Patterson Free Throw 1 of 1 (3 PTS),,7:10,1,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,9 - 9,TIE,,10:23 PM
+41,1,2,44,0020100369,,,7:00,1,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Robinson 16' Jump Shot,10:24 PM
+42,0,4,45,0020100369,Davis REBOUND (Off:2 Def:2),,6:58,1,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:24 PM
+43,47,2,46,0020100369,MISS Wallace 15' Turnaround Jump Shot,,6:44,1,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:24 PM
+44,0,4,47,0020100369,,,6:42,1,5.0,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Curry REBOUND (Off:0 Def:1),10:24 PM
+45,1,2,48,0020100369,,,6:26,1,5.0,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Barros 25' 3PT Jump Shot,10:24 PM
+46,0,4,49,0020100369,Patterson REBOUND (Off:1 Def:1),,6:25,1,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:24 PM
+47,1,2,50,0020100369,MISS Patterson 19' Jump Shot,,6:15,1,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:24 PM
+48,0,4,51,0020100369,,,6:13,1,5.0,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Barros REBOUND (Off:0 Def:1),10:24 PM
+49,5,2,52,0020100369,,,6:05,1,5.0,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Curry  Layup,10:25 PM
+50,0,4,54,0020100369,,,6:04,1,5.0,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Curry REBOUND (Off:1 Def:1),10:25 PM
+51,5,2,53,0020100369,,,6:04,1,5.0,0,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Curry  Layup,10:25 PM
+52,0,4,55,0020100369,,,6:03,1,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,10:25 PM
+53,1,2,56,0020100369,,,5:57,1,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stackhouse 23' Jump Shot,10:25 PM
+54,0,4,57,0020100369,Davis REBOUND (Off:2 Def:3),,5:55,1,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:25 PM
+55,7,1,58,0020100369,Davis  Dunk (4 PTS) (Stoudamire 1 AST),,5:35,1,4.0,4,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,9 - 11,2,,10:25 PM
+56,4,5,59,0020100369,,,5:11,1,5.0,0,1,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Barros Traveling Turnover (P2.T3),10:26 PM
+57,1,5,60,0020100369,Patterson Bad Pass Turnover (P2.T2),,4:55,1,4.0,5,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Barros STEAL (1 STL),10:26 PM
+58,42,2,61,0020100369,Patterson BLOCK (1 BLK),,4:50,1,5.0,0,4,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,,,MISS Barros  Driving Layup,10:26 PM
+59,0,4,62,0020100369,Davis REBOUND (Off:2 Def:4),,4:48,1,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:26 PM
+60,2,6,63,0020100369,,,4:44,1,5.0,0,1,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Wallace S.FOUL (P1.T2),10:26 PM
+61,0,8,65,0020100369,,,4:44,1,5.0,5,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Atkins FOR Barros,10:27 PM
+62,0,8,66,0020100369,,,4:44,1,5.0,5,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Williamson FOR Curry,10:27 PM
+63,11,3,67,0020100369,MISS Patterson Free Throw 1 of 2,,4:44,1,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:27 PM
+64,1,4,68,0020100369,TRAIL BLAZERS Rebound,,4:44,1,2.0,0,0,1610612757,,,,,,0,,,,,,0,,,,,,,,,10:27 PM
+65,12,3,69,0020100369,Patterson Free Throw 2 of 2 (4 PTS),,4:44,1,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,9 - 12,3,,10:27 PM
+66,49,1,70,0020100369,,,4:31,1,5.0,5,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,11 - 12,1,Wallace  Driving Dunk (2 PTS) (Williamson 1 AST),10:28 PM
+67,1,5,71,0020100369,Patterson Bad Pass Turnover (P3.T3),,4:15,1,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:28 PM
+68,1,1,72,0020100369,,,4:01,1,5.0,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,13 - 12,-1,Williamson 3' Jump Shot (2 PTS),10:28 PM
+69,1,2,73,0020100369,MISS Stoudamire 19' Jump Shot,,3:46,1,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:28 PM
+70,0,4,74,0020100369,Wallace REBOUND (Off:1 Def:0),,3:42,1,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:29 PM
+71,1,2,75,0020100369,MISS Stoudamire 3' Jump Shot,,3:38,1,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:29 PM
+72,0,4,76,0020100369,Stoudamire REBOUND (Off:1 Def:0),,3:36,1,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:29 PM
+73,47,1,77,0020100369,Davis 9' Turnaround Jump Shot (6 PTS),,3:20,1,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,13 - 14,1,,10:29 PM
+74,1,9,78,0020100369,,,3:12,1,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Timeout: Regular (Reg.1 Short 0),10:29 PM
+75,1,1,80,0020100369,,,3:01,1,5.0,5,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,15 - 14,-1,Williamson 9' Jump Shot (4 PTS) (Stackhouse 2 AST),10:32 PM
+76,1,2,81,0020100369,MISS Wallace 20' Jump Shot,,2:40,1,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:32 PM
+77,0,4,82,0020100369,,,2:38,1,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:1 Def:1),10:32 PM
+78,5,2,83,0020100369,Davis BLOCK (2 BLK),,2:23,1,5.0,0,4,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,,,MISS Stackhouse  Layup,10:32 PM
+79,0,4,84,0020100369,,,2:19,1,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:2 Def:1),10:32 PM
+80,5,2,85,0020100369,Wallace BLOCK (1 BLK),,2:18,1,5.0,0,4,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,,,MISS Wallace  Layup,10:32 PM
+81,0,4,87,0020100369,,,2:15,1,5.0,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Williamson REBOUND (Off:1 Def:0),10:32 PM
+82,1,1,86,0020100369,,,2:15,1,5.0,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,17 - 14,-3,Williamson 11' Jump Shot (6 PTS),10:32 PM
+83,1,2,88,0020100369,MISS Anderson 22' Jump Shot,,2:09,1,4.0,0,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:32 PM
+84,0,4,89,0020100369,,,2:07,1,5.0,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Atkins REBOUND (Off:0 Def:1),10:32 PM
+85,1,2,90,0020100369,,,2:01,1,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stackhouse 23' Jump Shot,10:33 PM
+86,0,4,91,0020100369,TRAIL BLAZERS Rebound,,2:00,1,2.0,0,0,1610612757,,,,,,0,,,,,,0,,,,,,,,,10:33 PM
+87,1,2,92,0020100369,MISS Wallace 22' Jump Shot,,1:42,1,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:33 PM
+88,0,4,93,0020100369,,,1:40,1,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:0 Def:2),10:33 PM
+89,1,2,94,0020100369,,,1:25,1,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Robinson 24' 3PT Jump Shot,10:33 PM
+90,0,4,95,0020100369,Stoudamire REBOUND (Off:1 Def:1),,1:22,1,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:33 PM
+91,1,5,96,0020100369,Patterson Bad Pass Turnover (P4.T4),,1:11,1,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:34 PM
+92,0,8,97,0020100369,SUB: Brunson FOR Stoudamire,,1:11,1,4.0,4,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,1594,Rick Brunson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,10:34 PM
+93,0,8,98,0020100369,SUB: Boumtje-Boumtje FOR Davis,,1:11,1,4.0,4,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,10:34 PM
+94,1,6,99,0020100369,Anderson P.FOUL (P1.T2),,0:57,1,4.0,0,1,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:34 PM
+95,63,1,100,0020100369,,,0:50,1,5.0,5,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,19 - 14,-5,Stackhouse 10' Fadeaway Jumper (6 PTS) (Atkins 1 AST),10:35 PM
+96,2,6,101,0020100369,,,0:37,1,5.0,0,1,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Robinson S.FOUL (P1.T3),10:35 PM
+97,11,3,102,0020100369,Wallace Free Throw 1 of 2 (5 PTS),,0:37,1,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,19 - 15,-4,,10:35 PM
+98,12,3,103,0020100369,Wallace Free Throw 2 of 2 (6 PTS),,0:37,1,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,19 - 16,-3,,10:36 PM
+99,42,2,104,0020100369,,,0:20,1,5.0,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Williamson  Driving Layup,10:36 PM
+100,0,4,105,0020100369,Anderson REBOUND (Off:0 Def:1),,0:17,1,4.0,0,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:36 PM
+101,1,2,106,0020100369,MISS Wallace 24' 3PT Jump Shot,,0:01,1,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:37 PM
+102,0,4,107,0020100369,,,0:00,1,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,10:37 PM
+103,0,13,108,0020100369,,,0:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,19 - 16,-3,,10:37 PM
+104,0,12,110,0020100369,,,12:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,19 - 16,-3,,10:39 PM
+105,1,2,111,0020100369,MISS Wallace 11' Jump Shot,,11:45,2,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:40 PM
+106,0,4,112,0020100369,TRAIL BLAZERS Rebound,,11:44,2,2.0,0,0,1610612757,,,,,,0,,,,,,0,,,,,,,,,10:40 PM
+107,0,8,113,0020100369,SUB: Kerr FOR Anderson,,11:44,2,4.0,4,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,70,Steve Kerr,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,10:40 PM
+108,1,1,114,0020100369,Kerr 19' Jump Shot (2 PTS) (Brunson 1 AST),,11:30,2,4.0,4,0,70,Steve Kerr,POR,Portland,1610612757.0,Trail Blazers,1594,Rick Brunson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,19 - 18,-1,,10:41 PM
+109,1,2,115,0020100369,,,11:10,2,5.0,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Barry 20' Jump Shot,10:41 PM
+110,0,4,116,0020100369,,,11:08,2,5.0,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Rebraca REBOUND (Off:1 Def:0),10:41 PM
+111,2,5,117,0020100369,Patterson STEAL (1 STL),,10:58,2,5.0,4,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,Robinson Lost Ball Turnover (P1.T4),10:41 PM
+112,44,1,118,0020100369,Patterson  Reverse Layup (6 PTS) (Brunson 2 AST),,10:44,2,4.0,4,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,1594,Rick Brunson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,19 - 20,1,,10:42 PM
+113,5,2,119,0020100369,,,10:21,2,5.0,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Williamson  Layup,10:42 PM
+114,0,4,121,0020100369,,,10:20,2,5.0,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Williamson REBOUND (Off:2 Def:0),10:42 PM
+115,5,1,120,0020100369,,,10:20,2,5.0,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,21 - 20,-1,Williamson  Layup (8 PTS),10:42 PM
+116,5,1,122,0020100369,Brunson  Layup (2 PTS) (Boumtje-Boumtje 1 AST),,9:59,2,4.0,4,0,1594,Rick Brunson,POR,Portland,1610612757.0,Trail Blazers,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,21 - 22,1,,10:42 PM
+117,49,1,123,0020100369,,,9:47,2,5.0,5,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,23 - 22,-1,Robinson  Driving Dunk (4 PTS) (Atkins 2 AST),10:43 PM
+118,0,8,124,0020100369,SUB: Randolph FOR Wallace,,9:27,2,4.0,4,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,2216,Zach Randolph,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,10:43 PM
+119,0,8,125,0020100369,,,9:27,2,5.0,5,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Wallace FOR Robinson,10:43 PM
+120,1,2,126,0020100369,MISS Kerr 24' 3PT Jump Shot,,9:25,2,4.0,0,0,70,Steve Kerr,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:43 PM
+121,0,4,127,0020100369,,,9:23,2,5.0,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Williamson REBOUND (Off:2 Def:1),10:43 PM
+122,1,2,128,0020100369,Boumtje-Boumtje BLOCK (1 BLK),,9:14,2,5.0,0,4,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,,,MISS Rebraca 6' Jump Shot,10:44 PM
+123,0,4,129,0020100369,Boumtje-Boumtje REBOUND (Off:0 Def:1),,9:12,2,4.0,0,0,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:44 PM
+124,4,6,130,0020100369,Patterson OFF.Foul (P1),,9:04,2,4.0,0,1,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:44 PM
+125,5,5,131,0020100369,Patterson Foul Turnover (P5.T5),,9:04,2,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:44 PM
+126,0,8,132,0020100369,SUB: Butler FOR Patterson,,9:04,2,4.0,4,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,348,Mitchell Butler,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,10:44 PM
+127,1,6,133,0020100369,Boumtje-Boumtje P.FOUL (P1.T1),,8:55,2,4.0,0,1,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:44 PM
+128,4,9,134,0020100369,,,8:55,2,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:44 PM
+129,65,2,136,0020100369,,,8:45,2,5.0,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Williamson 7' Jump Hook Shot,10:47 PM
+130,0,4,138,0020100369,,,8:43,2,5.0,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Rebraca REBOUND (Off:2 Def:0),10:47 PM
+131,4,2,137,0020100369,,,8:43,2,5.0,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Rebraca  Tip Shot,10:47 PM
+132,0,4,139,0020100369,,,8:40,2,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:3 Def:1),10:47 PM
+133,1,2,140,0020100369,,,8:31,2,5.0,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Williamson 16' Jump Shot,10:47 PM
+134,0,4,141,0020100369,Randolph REBOUND (Off:0 Def:1),,8:29,2,4.0,0,0,2216,Zach Randolph,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:47 PM
+135,1,2,142,0020100369,MISS Kerr 10' Jump Shot,,8:08,2,4.0,0,0,70,Steve Kerr,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:47 PM
+136,0,4,143,0020100369,,,8:06,2,5.0,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Atkins REBOUND (Off:0 Def:2),10:47 PM
+137,1,2,144,0020100369,,,8:01,2,5.0,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Barry 25' 3PT Jump Shot,10:47 PM
+138,0,4,145,0020100369,Brunson REBOUND (Off:0 Def:1),,7:59,2,4.0,0,0,1594,Rick Brunson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:47 PM
+139,1,2,146,0020100369,MISS Randolph 16' Jump Shot,,7:49,2,4.0,0,0,2216,Zach Randolph,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:48 PM
+140,0,4,147,0020100369,,,7:47,2,5.0,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Rebraca REBOUND (Off:2 Def:1),10:48 PM
+141,1,1,148,0020100369,,,7:36,2,5.0,5,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,26 - 22,-4,Atkins 24' 3PT Jump Shot (3 PTS) (Barry 1 AST),10:48 PM
+142,1,1,149,0020100369,Kerr 20' Jump Shot (4 PTS) (Brunson 3 AST),,7:22,2,4.0,4,0,70,Steve Kerr,POR,Portland,1610612757.0,Trail Blazers,1594,Rick Brunson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,26 - 24,-2,,10:48 PM
+143,4,6,150,0020100369,,,7:03,2,5.0,0,1,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Rebraca OFF.Foul (P1),10:48 PM
+144,5,5,151,0020100369,,,7:03,2,5.0,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Rebraca Foul Turnover (P1.T5),10:48 PM
+145,0,8,152,0020100369,SUB: Wallace FOR Randolph,,7:03,2,4.0,4,0,2216,Zach Randolph,POR,Portland,1610612757.0,Trail Blazers,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,10:48 PM
+146,1,6,153,0020100369,,,6:47,2,5.0,0,1,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Atkins P.FOUL (P1.T1),10:49 PM
+147,1,2,154,0020100369,MISS Wallace 21' Jump Shot,,6:41,2,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:49 PM
+148,0,4,155,0020100369,,,6:39,2,5.0,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Rebraca REBOUND (Off:2 Def:2),10:49 PM
+149,1,1,156,0020100369,,,6:27,2,5.0,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,28 - 24,-4,Williamson 10' Jump Shot (10 PTS),10:50 PM
+150,1,2,157,0020100369,MISS Brunson 7' Jump Shot,,6:15,2,4.0,0,5,1594,Rick Brunson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,,,Rebraca BLOCK (1 BLK),10:50 PM
+151,0,4,158,0020100369,,,6:12,2,5.0,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Barry REBOUND (Off:0 Def:1),10:50 PM
+152,1,6,159,0020100369,Kerr P.FOUL (P1.T2),,6:09,2,4.0,0,1,70,Steve Kerr,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:50 PM
+153,0,8,160,0020100369,SUB: Patterson FOR Butler,,6:09,2,4.0,4,0,348,Mitchell Butler,POR,Portland,1610612757.0,Trail Blazers,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,10:50 PM
+154,0,8,161,0020100369,SUB: Stoudamire FOR Brunson,,6:09,2,4.0,4,0,1594,Rick Brunson,POR,Portland,1610612757.0,Trail Blazers,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,10:50 PM
+155,5,2,162,0020100369,Boumtje-Boumtje BLOCK (2 BLK),,5:59,2,5.0,0,4,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,,,MISS Williamson  Layup,10:50 PM
+156,0,4,163,0020100369,,,5:58,2,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,10:51 PM
+157,1,9,164,0020100369,TRAIL BLAZERS Timeout: Regular (Full 2 Short 1),,5:58,2,2.0,0,0,1610612757,,,,,,0,,,,,,0,,,,,,,,,10:51 PM
+158,65,2,166,0020100369,,,5:57,2,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Wallace 4' Jump Hook Shot,10:53 PM
+159,0,4,167,0020100369,TRAIL BLAZERS Rebound,,5:54,2,2.0,0,0,1610612757,,,,,,0,,,,,,0,,,,,,,,,10:53 PM
+160,42,2,168,0020100369,MISS Wallace  Driving Layup,,5:40,2,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:53 PM
+161,0,4,170,0020100369,Wallace REBOUND (Off:2 Def:0),,5:38,2,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:53 PM
+162,4,1,169,0020100369,Wallace  Tip Shot (8 PTS),,5:38,2,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,28 - 26,-2,,10:53 PM
+163,2,6,171,0020100369,Boumtje-Boumtje S.FOUL (P2.T3),,5:23,2,4.0,0,1,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:54 PM
+164,0,8,172,0020100369,,,5:23,2,5.0,5,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Stackhouse FOR Williamson,10:54 PM
+165,0,8,174,0020100369,SUB: Davis FOR Boumtje-Boumtje,,5:23,2,4.0,4,0,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,10:54 PM
+166,11,3,175,0020100369,,,5:23,2,5.0,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Rebraca Free Throw 1 of 2,10:54 PM
+167,1,4,176,0020100369,,,5:23,2,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,10:54 PM
+168,12,3,177,0020100369,,,5:23,2,5.0,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,29 - 26,-3,Rebraca Free Throw 2 of 2 (1 PTS),10:54 PM
+169,47,2,178,0020100369,MISS Wallace 14' Turnaround Jump Shot,,5:03,2,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:55 PM
+170,0,4,179,0020100369,,,5:00,2,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:3 Def:2),10:55 PM
+171,5,1,180,0020100369,,,4:46,2,5.0,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,31 - 26,-5,Rebraca  Layup (3 PTS),10:55 PM
+172,4,6,181,0020100369,Wallace OFF.Foul (P1),,4:23,2,4.0,0,1,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:56 PM
+173,5,5,182,0020100369,Wallace Foul Turnover (P1.T6),,4:23,2,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:56 PM
+174,0,8,183,0020100369,SUB: Anderson FOR Kerr,,4:23,2,4.0,4,0,70,Steve Kerr,POR,Portland,1610612757.0,Trail Blazers,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,10:56 PM
+175,1,6,184,0020100369,Davis P.FOUL (P1.T4),,4:09,2,4.0,0,1,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:56 PM
+176,1,2,185,0020100369,,,3:58,2,5.0,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Barry 24' 3PT Jump Shot,10:57 PM
+177,0,4,186,0020100369,,,3:56,2,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,10:57 PM
+178,1,1,187,0020100369,,,3:44,2,5.0,5,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,33 - 26,-7,Stackhouse 19' Jump Shot (8 PTS) (Wallace 1 AST),10:57 PM
+179,1,2,188,0020100369,MISS Wallace 24' 3PT Jump Shot,,3:27,2,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:57 PM
+180,0,4,190,0020100369,Davis REBOUND (Off:3 Def:4),,3:24,2,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:57 PM
+181,4,2,189,0020100369,MISS Davis  Tip Shot,,3:24,2,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:57 PM
+182,0,4,191,0020100369,Davis REBOUND (Off:4 Def:4),,3:24,2,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:57 PM
+183,1,6,192,0020100369,,,3:24,2,5.0,0,1,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Rebraca P.FOUL (P2.T2),10:58 PM
+184,11,3,193,0020100369,Davis Free Throw 1 of 2 (7 PTS),,3:24,2,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,33 - 27,-6,,10:58 PM
+185,12,3,194,0020100369,Davis Free Throw 2 of 2 (8 PTS),,3:24,2,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,33 - 28,-5,,10:58 PM
+186,1,2,195,0020100369,,,3:13,2,5.0,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Atkins 25' 3PT Jump Shot,10:58 PM
+187,0,4,196,0020100369,Wallace REBOUND (Off:2 Def:1),,3:11,2,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:59 PM
+188,1,2,197,0020100369,MISS Patterson 3' Jump Shot,,2:53,2,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:59 PM
+189,0,4,199,0020100369,Wallace REBOUND (Off:3 Def:1),,2:48,2,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:59 PM
+190,1,2,198,0020100369,MISS Wallace 7' Jump Shot,,2:48,2,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,10:59 PM
+191,0,4,200,0020100369,,,2:45,2,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,10:59 PM
+192,1,9,201,0020100369,,,2:45,2,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Timeout: Regular (Reg.2 Short 0),10:59 PM
+193,0,8,203,0020100369,,,2:45,2,5.0,5,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Robinson FOR Rebraca,11:01 PM
+194,1,2,206,0020100369,,,2:37,2,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stackhouse 25' 3PT Jump Shot,11:02 PM
+195,0,4,207,0020100369,,,2:37,2,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,11:02 PM
+196,1,6,234,0020100369,Wallace P.FOUL (P2.PN),,2:37,2,4.0,0,1,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:02 PM
+197,11,3,208,0020100369,,,2:37,2,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,34 - 28,-6,Robinson Free Throw 1 of 2 (5 PTS),11:02 PM
+198,12,3,209,0020100369,,,2:37,2,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,35 - 28,-7,Robinson Free Throw 2 of 2 (6 PTS),11:02 PM
+199,0,8,210,0020100369,,,2:26,2,5.0,5,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Curry FOR Barry,11:03 PM
+200,1,6,211,0020100369,,,2:26,2,5.0,0,1,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Robinson P.FOUL (P2.T3),11:03 PM
+201,1,1,212,0020100369,Wallace 14' Jump Shot (10 PTS) (Stoudamire 2 AST),,2:16,2,4.0,4,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,35 - 30,-5,,11:03 PM
+202,1,2,213,0020100369,,,2:00,2,5.0,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Atkins 10' Jump Shot,11:03 PM
+203,0,4,214,0020100369,Wallace REBOUND (Off:3 Def:2),,1:58,2,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:03 PM
+204,1,1,215,0020100369,Wallace 15' Jump Shot (12 PTS) (Stoudamire 3 AST),,1:45,2,4.0,4,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,35 - 32,-3,,11:04 PM
+205,1,1,216,0020100369,,,1:24,2,5.0,5,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,37 - 32,-5,Stackhouse 21' Jump Shot (10 PTS) (Atkins 3 AST),11:04 PM
+206,4,6,217,0020100369,Anderson OFF.Foul (P2),,1:14,2,4.0,0,1,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:04 PM
+207,5,5,218,0020100369,Anderson Foul Turnover (P1.T7),,1:14,2,4.0,0,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:04 PM
+208,1,1,219,0020100369,,,1:00,2,5.0,5,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,39 - 32,-7,Atkins 23' Jump Shot (5 PTS) (Stackhouse 3 AST),11:05 PM
+209,1,6,220,0020100369,,,0:53,2,5.0,0,1,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Curry P.FOUL (P2.T4),11:05 PM
+210,1,2,221,0020100369,MISS Patterson 22' Jump Shot,,0:41,2,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:05 PM
+211,0,4,222,0020100369,,,0:39,2,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:3 Def:3),11:05 PM
+212,1,2,223,0020100369,,,0:24,2,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stackhouse 25' 3PT Jump Shot,11:05 PM
+213,0,4,224,0020100369,Wallace REBOUND (Off:3 Def:3),,0:22,2,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:06 PM
+214,1,1,225,0020100369,Stoudamire 18' Jump Shot (2 PTS),,0:06,2,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,39 - 34,-5,,11:06 PM
+215,2,5,226,0020100369,Patterson STEAL (2 STL),,0:03,2,5.0,4,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,Atkins Lost Ball Turnover (P1.T6),11:06 PM
+216,1,2,227,0020100369,MISS Patterson 15' Jump Shot,,0:00,2,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:06 PM
+217,0,4,228,0020100369,Anderson REBOUND (Off:1 Def:1),,0:00,2,4.0,0,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:06 PM
+218,5,2,229,0020100369,MISS Anderson  Layup,,0:00,2,4.0,0,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:06 PM
+219,0,4,230,0020100369,TRAIL BLAZERS Rebound,,0:00,2,2.0,0,0,1610612757,,,,,,0,,,,,,0,,,,,,,,,11:06 PM
+220,0,13,231,0020100369,,,0:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,39 - 34,-5,,11:06 PM
+221,0,12,235,0020100369,,,12:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,39 - 34,-5,,11:22 PM
+222,1,6,236,0020100369,,,11:44,3,5.0,0,1,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Stackhouse P.FOUL (P1.T1),11:22 PM
+223,1,2,237,0020100369,MISS Stoudamire 23' Jump Shot,,11:34,3,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:23 PM
+224,0,4,238,0020100369,,,11:32,3,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Stackhouse REBOUND (Off:0 Def:1),11:23 PM
+225,1,2,239,0020100369,,,11:18,3,5.0,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Barros 19' Jump Shot,11:23 PM
+226,0,4,240,0020100369,Davis REBOUND (Off:4 Def:5),,11:17,3,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:23 PM
+227,5,1,241,0020100369,Stoudamire 6' Layup (4 PTS),,11:11,3,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,39 - 36,-3,,11:23 PM
+228,2,6,242,0020100369,,,11:11,3,5.0,0,1,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Wallace S.FOUL (P2.T2),11:23 PM
+229,10,3,243,0020100369,Stoudamire Free Throw 1 of 1 (5 PTS),,11:11,3,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,39 - 37,-2,,11:23 PM
+230,1,5,244,0020100369,Anderson STEAL (2 STL),,10:56,3,5.0,4,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,Stackhouse Bad Pass Turnover (P2.T7),11:24 PM
+231,2,5,245,0020100369,Anderson Lost Ball Turnover (P2.T8),,10:52,3,4.0,5,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Stackhouse STEAL (1 STL),11:24 PM
+232,42,1,246,0020100369,,,10:47,3,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,41 - 37,-4,Stackhouse  Driving Layup (12 PTS),11:24 PM
+233,1,6,247,0020100369,,,10:22,3,5.0,0,1,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Wallace P.FOUL (P3.T3),11:25 PM
+234,0,8,248,0020100369,SUB: Butler FOR Patterson,,10:22,3,4.0,4,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,348,Mitchell Butler,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,11:25 PM
+235,1,1,249,0020100369,Stoudamire 20' Jump Shot (7 PTS),,10:12,3,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,41 - 39,-2,,11:25 PM
+236,2,6,250,0020100369,,,10:12,3,5.0,0,1,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Barros S.FOUL (P1.T4),11:25 PM
+237,10,3,251,0020100369,Stoudamire Free Throw 1 of 1 (8 PTS),,10:12,3,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,41 - 40,-1,,11:25 PM
+238,1,1,252,0020100369,,,10:02,3,5.0,5,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,43 - 40,-3,Robinson 20' Jump Shot (8 PTS) (Barros 3 AST),11:26 PM
+239,1,2,253,0020100369,MISS Anderson 25' 3PT Jump Shot,,9:44,3,4.0,0,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:26 PM
+240,0,4,254,0020100369,,,9:42,3,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:0 Def:3),11:26 PM
+241,1,1,255,0020100369,,,9:26,3,5.0,5,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,46 - 40,-6,Robinson 25' 3PT Jump Shot (11 PTS) (Stackhouse 4 AST),11:26 PM
+242,63,1,256,0020100369,Wallace 11' Fadeaway Jumper (14 PTS) (Anderson 2 AST),,9:08,3,4.0,4,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,46 - 42,-4,,11:27 PM
+243,2,5,257,0020100369,Wallace STEAL (1 STL),,8:53,3,5.0,4,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,Robinson Lost Ball Turnover (P2.T8),11:27 PM
+244,42,2,258,0020100369,MISS Wallace  Driving Layup,,8:49,3,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:27 PM
+245,0,4,259,0020100369,Butler REBOUND (Off:1 Def:0),,8:46,3,4.0,0,0,348,Mitchell Butler,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:27 PM
+246,1,2,260,0020100369,MISS Butler 5' Jump Shot,,8:44,3,4.0,0,0,348,Mitchell Butler,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:27 PM
+247,0,4,261,0020100369,,,8:43,3,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:3 Def:4),11:27 PM
+248,1,6,262,0020100369,Butler P.FOUL (P1.T1),,8:43,3,4.0,0,1,348,Mitchell Butler,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:27 PM
+249,0,8,263,0020100369,SUB: Kerr FOR Anderson,,8:43,3,4.0,4,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,70,Steve Kerr,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,11:27 PM
+250,1,6,264,0020100369,Butler P.FOUL (P2.T2),,8:31,3,4.0,0,1,348,Mitchell Butler,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:28 PM
+251,0,8,265,0020100369,SUB: Patterson FOR Butler,,8:31,3,4.0,4,0,348,Mitchell Butler,POR,Portland,1610612757.0,Trail Blazers,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,11:28 PM
+252,46,1,266,0020100369,,,8:16,3,5.0,5,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,0,,,,,,48 - 42,-6,Barros 15' Running Jump Shot (3 PTS) (Curry 1 AST),11:28 PM
+253,42,2,267,0020100369,MISS Stoudamire  Driving Layup,,8:02,3,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:28 PM
+254,0,4,268,0020100369,,,8:00,3,5.0,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Barros REBOUND (Off:0 Def:2),11:28 PM
+255,47,2,269,0020100369,,,7:51,3,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stackhouse 14' Turnaround Jump Shot,11:29 PM
+256,0,4,270,0020100369,,,7:49,3,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:4 Def:4),11:29 PM
+257,1,2,271,0020100369,,,7:48,3,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Robinson 25' 3PT Jump Shot,11:29 PM
+258,0,4,272,0020100369,Patterson REBOUND (Off:1 Def:2),,7:46,3,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:29 PM
+259,1,1,273,0020100369,Wallace 24' 3PT Jump Shot (17 PTS) (Stoudamire 4 AST),,7:33,3,4.0,4,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,48 - 45,-3,,11:29 PM
+260,1,6,274,0020100369,Wallace P.FOUL (P3.T3),,7:09,3,4.0,0,1,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:29 PM
+261,1,1,275,0020100369,,,6:56,3,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,51 - 45,-6,Stackhouse 26' 3PT Jump Shot (15 PTS),11:30 PM
+262,1,6,276,0020100369,,,6:41,3,5.0,0,1,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Stackhouse P.FOUL (P2.PN),11:30 PM
+263,11,3,277,0020100369,Kerr Free Throw 1 of 2 (5 PTS),,6:41,3,4.0,0,0,70,Steve Kerr,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,51 - 46,-5,,11:30 PM
+264,12,3,278,0020100369,Kerr Free Throw 2 of 2 (6 PTS),,6:41,3,4.0,0,0,70,Steve Kerr,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,51 - 47,-4,,11:31 PM
+265,1,5,279,0020100369,Wallace STEAL (2 STL),,6:30,3,5.0,4,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,Robinson Bad Pass Turnover (P3.T9),11:31 PM
+266,43,2,280,0020100369,MISS Davis  Alley Oop Layup,,6:12,3,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:31 PM
+267,0,4,281,0020100369,,,6:10,3,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Stackhouse REBOUND (Off:0 Def:2),11:31 PM
+268,1,2,282,0020100369,,,5:52,3,5.0,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Barros 24' 3PT Jump Shot,11:32 PM
+269,0,4,283,0020100369,Davis REBOUND (Off:4 Def:6),,5:49,3,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:32 PM
+270,1,9,284,0020100369,TRAIL BLAZERS Timeout: Regular (Full 3 Short 1),,5:44,3,2.0,0,0,1610612757,,,,,,0,,,,,,0,,,,,,,,,11:32 PM
+271,0,8,286,0020100369,,,5:44,3,5.0,5,0,688,Michael Curry,DET,Detroit,1610612765.0,Pistons,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Williamson FOR Curry,11:34 PM
+272,47,2,287,0020100369,MISS Davis 10' Turnaround Jump Shot,,5:31,3,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:34 PM
+273,0,4,289,0020100369,Davis REBOUND (Off:5 Def:6),,5:29,3,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:34 PM
+274,5,1,288,0020100369,Davis  Layup (10 PTS),,5:29,3,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,51 - 49,-2,,11:34 PM
+275,5,1,290,0020100369,,,5:16,3,5.0,5,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,53 - 49,-4,Williamson  Layup (12 PTS) (Stackhouse 5 AST),11:35 PM
+276,1,1,291,0020100369,Kerr 24' Jump Shot (8 PTS),,4:55,3,4.0,0,0,70,Steve Kerr,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,53 - 51,-2,,11:35 PM
+277,1,2,292,0020100369,,,4:43,3,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Robinson 24' 3PT Jump Shot,11:35 PM
+278,0,4,293,0020100369,Davis REBOUND (Off:5 Def:7),,4:39,3,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:35 PM
+279,1,2,294,0020100369,MISS Wallace 26' 3PT Jump Shot,,4:22,3,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:35 PM
+280,0,4,295,0020100369,,,4:21,3,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,11:35 PM
+281,0,8,296,0020100369,SUB: Anderson FOR Kerr,,4:21,3,4.0,4,0,70,Steve Kerr,POR,Portland,1610612757.0,Trail Blazers,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,11:36 PM
+282,0,8,297,0020100369,,,4:21,3,5.0,5,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Atkins FOR Barros,11:36 PM
+283,2,9,298,0020100369,TRAIL BLAZERS Timeout: Short (Full 3 Short 2),,4:21,3,2.0,0,0,1610612757,,,,,,0,,,,,,0,,,,,,,,,11:36 PM
+284,2,6,300,0020100369,Anderson S.FOUL (P3.T4),,4:13,3,4.0,0,1,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:37 PM
+285,11,3,301,0020100369,,,4:13,3,5.0,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,54 - 51,-3,Williamson Free Throw 1 of 2 (13 PTS),11:37 PM
+286,12,3,302,0020100369,,,4:13,3,5.0,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,55 - 51,-4,Williamson Free Throw 2 of 2 (14 PTS),11:37 PM
+287,1,6,303,0020100369,,,3:56,3,5.0,0,1,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Williamson P.FOUL (P1.PN),11:38 PM
+288,11,3,304,0020100369,MISS Davis Free Throw 1 of 2,,3:56,3,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:38 PM
+289,1,4,305,0020100369,TRAIL BLAZERS Rebound,,3:56,3,2.0,0,0,1610612757,,,,,,0,,,,,,0,,,,,,,,,11:38 PM
+290,0,8,306,0020100369,SUB: Boumtje-Boumtje FOR Patterson,,3:56,3,4.0,4,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,11:38 PM
+291,12,3,307,0020100369,Davis Free Throw 2 of 2 (11 PTS),,3:56,3,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,55 - 52,-3,,11:38 PM
+292,1,5,308,0020100369,Wallace STEAL (3 STL),,3:44,3,5.0,4,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,Williamson Bad Pass Turnover (P1.T10),11:39 PM
+293,1,1,309,0020100369,Wallace 24' 3PT Jump Shot (20 PTS) (Anderson 3 AST),,3:37,3,4.0,4,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,55 - 55,TIE,,11:39 PM
+294,1,9,310,0020100369,,,3:33,3,,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:39 PM
+295,65,2,312,0020100369,,,3:18,3,5.0,0,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Williamson 5' Jump Hook Shot,11:42 PM
+296,0,4,313,0020100369,Stoudamire REBOUND (Off:1 Def:2),,3:15,3,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:42 PM
+297,1,1,314,0020100369,Stoudamire 23' Jump Shot (10 PTS),,2:56,3,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,55 - 57,2,,11:42 PM
+298,1,2,315,0020100369,,,2:40,3,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Robinson 5' Jump Shot,11:42 PM
+299,0,4,317,0020100369,,,2:37,3,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:1 Def:3),11:42 PM
+300,2,7,318,0020100369,Davis Violation:Defensive Goaltending,,2:37,3,4.0,0,1,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:42 PM
+301,65,1,316,0020100369,,,2:37,3,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,57 - 57,TIE,Robinson 4' Jump Hook Shot (13 PTS),11:42 PM
+302,1,2,319,0020100369,MISS Stoudamire 23' Jump Shot,,2:17,3,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:43 PM
+303,0,4,320,0020100369,Boumtje-Boumtje REBOUND (Off:1 Def:1),,2:14,3,4.0,0,0,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:43 PM
+304,1,6,321,0020100369,,,2:14,3,5.0,0,1,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Williamson P.FOUL (P2.PN),11:43 PM
+305,0,8,322,0020100369,,,2:14,3,5.0,5,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Rebraca FOR Robinson,11:43 PM
+306,11,3,323,0020100369,Boumtje-Boumtje Free Throw 1 of 2 (1 PTS),,2:14,3,4.0,0,0,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,57 - 58,1,,11:43 PM
+307,12,3,324,0020100369,MISS Boumtje-Boumtje Free Throw 2 of 2,,2:14,3,4.0,0,0,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:43 PM
+308,0,4,325,0020100369,,,2:13,3,5.0,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Rebraca REBOUND (Off:2 Def:3),11:44 PM
+309,1,2,326,0020100369,,,1:58,3,5.0,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Atkins 24' 3PT Jump Shot,11:44 PM
+310,0,4,327,0020100369,Wallace REBOUND (Off:3 Def:4),,1:56,3,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:44 PM
+311,4,6,328,0020100369,Boumtje-Boumtje OFF.Foul (P3),,1:50,3,4.0,0,1,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:44 PM
+312,5,5,329,0020100369,Boumtje-Boumtje Foul Turnover (P1.T9),,1:50,3,4.0,0,0,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:44 PM
+313,1,5,330,0020100369,Anderson STEAL (3 STL),,1:40,3,5.0,4,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,Stackhouse Bad Pass Turnover (P3.T11),11:44 PM
+314,1,1,331,0020100369,Davis 17' Jump Shot (13 PTS) (Wallace 1 AST),,1:25,3,4.0,4,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,57 - 60,3,,11:45 PM
+315,1,2,332,0020100369,,,1:08,3,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stackhouse  3PT Jump Shot,11:45 PM
+316,0,4,333,0020100369,Wallace REBOUND (Off:3 Def:5),,1:06,3,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:45 PM
+317,1,1,334,0020100369,Anderson 23' Jump Shot (2 PTS) (Stoudamire 5 AST),,0:59,3,4.0,4,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,57 - 62,5,,11:45 PM
+318,2,9,335,0020100369,,,0:59,3,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Timeout: Short (Reg.2 Short 1),11:45 PM
+319,0,8,337,0020100369,,,0:59,3,5.0,5,0,722,Corliss Williamson,DET,Detroit,1610612765.0,Pistons,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Barry FOR Williamson,11:46 PM
+320,1,2,338,0020100369,,,0:45,3,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stackhouse 20' Jump Shot,11:46 PM
+321,0,4,339,0020100369,Davis REBOUND (Off:5 Def:8),,0:43,3,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:46 PM
+322,2,6,340,0020100369,,,0:36,3,5.0,0,1,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Atkins S.FOUL (P2.PN),11:46 PM
+323,11,3,341,0020100369,Stoudamire Free Throw 1 of 2 (11 PTS),,0:36,3,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,57 - 63,6,,11:47 PM
+324,12,3,342,0020100369,Stoudamire Free Throw 2 of 2 (12 PTS),,0:36,3,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,57 - 64,7,,11:47 PM
+325,3,5,343,0020100369,,,0:28,3,5.0,0,1,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Stackhouse Out Of Bounds Turnover (P4.T12),11:47 PM
+326,3,2,344,0020100369,MISS Stoudamire 5' Hook Shot,,0:06,3,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:48 PM
+327,0,4,346,0020100369,Davis REBOUND (Off:6 Def:8),,0:04,3,4.0,0,0,905,Dale Davis,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:48 PM
+328,11,5,349,0020100369,TRAIL BLAZERS Turnover: Shot Clock (T#10),,0:04,3,2.0,0,1,1610612757,,,,,,0,,,,,,0,,,,,,,,,11:49 PM
+329,1,2,350,0020100369,,,0:00,3,5.0,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Barry 25' 3PT Jump Shot,11:49 PM
+330,0,4,351,0020100369,,,0:00,3,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,11:49 PM
+331,0,13,352,0020100369,,,0:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,57 - 64,7,,11:49 PM
+332,0,12,354,0020100369,,,12:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,57 - 64,7,,11:51 PM
+333,1,6,355,0020100369,Kemp P.FOUL (P1.T1),,11:52,4,4.0,0,1,431,Shawn Kemp,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:52 PM
+334,4,5,356,0020100369,,,11:46,4,5.0,0,1,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Rebraca Traveling Turnover (P2.T13),11:52 PM
+335,52,1,357,0020100369,Wallace  Alley Oop Dunk (22 PTS) (Anderson 4 AST),,11:38,4,4.0,4,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,57 - 66,9,,11:52 PM
+336,4,6,358,0020100369,,,11:22,4,5.0,0,1,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Rebraca OFF.Foul (P3),11:53 PM
+337,5,5,359,0020100369,,,11:22,4,5.0,0,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Rebraca Foul Turnover (P3.T14),11:53 PM
+338,0,8,360,0020100369,,,11:22,4,5.0,5,0,1442,Zeljko Rebraca,DET,Detroit,1610612765.0,Pistons,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Wallace FOR Rebraca,11:53 PM
+339,2,6,361,0020100369,,,11:08,4,5.0,0,1,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Wallace S.FOUL (P4.T1),11:53 PM
+340,11,3,362,0020100369,MISS Kemp Free Throw 1 of 2,,11:08,4,4.0,0,0,431,Shawn Kemp,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:53 PM
+341,1,4,363,0020100369,TRAIL BLAZERS Rebound,,11:08,4,2.0,0,0,1610612757,,,,,,0,,,,,,0,,,,,,,,,11:53 PM
+342,12,3,364,0020100369,Kemp Free Throw 2 of 2 (1 PTS),,11:08,4,4.0,0,0,431,Shawn Kemp,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,57 - 67,10,,11:54 PM
+343,2,6,365,0020100369,Wallace S.FOUL (P4.T2),,10:58,4,4.0,0,1,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:54 PM
+344,11,3,366,0020100369,,,10:58,4,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,58 - 67,9,Wallace Free Throw 1 of 2 (3 PTS),11:54 PM
+345,0,8,367,0020100369,SUB: Patterson FOR Wallace,,10:58,4,4.0,4,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,11:55 PM
+346,12,3,368,0020100369,,,10:58,4,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Wallace Free Throw 2 of 2,11:55 PM
+347,0,4,369,0020100369,Kemp REBOUND (Off:0 Def:1),,10:58,4,4.0,0,0,431,Shawn Kemp,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:55 PM
+348,1,1,370,0020100369,Stoudamire 25' 3PT Jump Shot (15 PTS),,10:37,4,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,58 - 70,12,,11:55 PM
+349,1,2,371,0020100369,,,10:21,4,5.0,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Atkins 24' 3PT Jump Shot,11:55 PM
+350,0,4,372,0020100369,,,10:19,4,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,11:56 PM
+351,3,6,373,0020100369,Boumtje-Boumtje L.B.FOUL (P4.T3),,10:19,4,4.0,0,1,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:56 PM
+352,1,2,374,0020100369,,,10:13,4,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Robinson 24' 3PT Jump Shot,11:56 PM
+353,0,4,375,0020100369,Boumtje-Boumtje REBOUND (Off:1 Def:2),,10:11,4,4.0,0,0,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:56 PM
+354,1,2,376,0020100369,MISS Kemp 20' Jump Shot,,9:53,4,4.0,0,0,431,Shawn Kemp,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:56 PM
+355,0,4,377,0020100369,Boumtje-Boumtje REBOUND (Off:2 Def:2),,9:51,4,4.0,0,0,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,11:56 PM
+356,1,6,378,0020100369,,,9:51,4,5.0,0,1,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Barry P.FOUL (P1.T2),11:56 PM
+357,7,1,379,0020100369,Boumtje-Boumtje  Dunk (3 PTS) (Anderson 5 AST),,9:46,4,4.0,4,0,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,58 - 72,14,,11:57 PM
+358,1,9,380,0020100369,,,9:41,4,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Timeout: Regular (Reg.3 Short 1),11:57 PM
+359,1,1,382,0020100369,,,9:27,4,5.0,5,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,60 - 72,12,Robinson 11' Jump Shot (15 PTS) (Barry 2 AST),11:59 PM
+360,5,1,383,0020100369,Kemp  Layup (3 PTS) (Stoudamire 6 AST),,9:05,4,4.0,4,0,431,Shawn Kemp,POR,Portland,1610612757.0,Trail Blazers,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,60 - 74,14,,12:00 PM
+361,1,1,384,0020100369,,,8:45,4,5.0,5,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,63 - 74,11,Stackhouse 25' 3PT Jump Shot (18 PTS) (Barry 3 AST),12:00 PM
+362,1,6,385,0020100369,,,8:25,4,5.0,0,1,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Atkins P.FOUL (P3.T3),12:00 PM
+363,1,2,386,0020100369,MISS Patterson 18' Jump Shot,,8:15,4,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:01 PM
+364,0,4,387,0020100369,,,8:13,4,5.0,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Barry REBOUND (Off:0 Def:2),12:01 PM
+365,1,2,388,0020100369,,,8:02,4,5.0,0,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Atkins  3PT Jump Shot,12:01 PM
+366,0,4,389,0020100369,Patterson REBOUND (Off:1 Def:3),,8:00,4,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:01 PM
+367,2,6,390,0020100369,,,7:47,4,5.0,0,1,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Stackhouse S.FOUL (P3.T4),12:01 PM
+368,11,3,391,0020100369,Patterson Free Throw 1 of 2 (7 PTS),,7:47,4,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,63 - 75,12,,12:02 PM
+369,0,8,393,0020100369,,,7:47,4,5.0,5,0,1088,Chucky Atkins,DET,Detroit,1610612765.0,Pistons,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,SUB: Barros FOR Atkins,12:02 PM
+370,12,3,394,0020100369,MISS Patterson Free Throw 2 of 2,,7:47,4,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:02 PM
+371,0,4,395,0020100369,,,7:46,4,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:4 Def:5),12:02 PM
+372,1,2,396,0020100369,,,7:28,4,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stackhouse 25' 3PT Jump Shot,12:02 PM
+373,0,4,397,0020100369,Kemp REBOUND (Off:0 Def:2),,7:26,4,4.0,0,0,431,Shawn Kemp,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:02 PM
+374,1,1,398,0020100369,Stoudamire 10' Jump Shot (17 PTS),,7:10,4,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,63 - 77,14,,12:03 PM
+375,2,6,399,0020100369,,,7:10,4,5.0,0,1,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Barros S.FOUL (P2.PN),12:03 PM
+376,10,3,400,0020100369,MISS Stoudamire Free Throw 1 of 1,,7:10,4,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:03 PM
+377,0,4,401,0020100369,,,7:09,4,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Wallace REBOUND (Off:4 Def:6),12:03 PM
+378,1,1,402,0020100369,,,7:01,4,5.0,5,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,66 - 77,11,Robinson 25' 3PT Jump Shot (18 PTS) (Stackhouse 6 AST),12:03 PM
+379,2,6,403,0020100369,,,6:46,4,5.0,0,1,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Robinson S.FOUL (P3.PN),12:04 PM
+380,11,3,404,0020100369,Anderson Free Throw 1 of 2 (3 PTS),,6:46,4,4.0,0,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,66 - 78,12,,12:04 PM
+381,12,3,405,0020100369,Anderson Free Throw 2 of 2 (4 PTS),,6:46,4,4.0,0,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,66 - 79,13,,12:04 PM
+382,1,6,406,0020100369,Patterson P.FOUL (P2.T4),,6:38,4,4.0,0,1,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:05 PM
+383,1,2,407,0020100369,,,6:27,4,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stackhouse  3PT Jump Shot,12:05 PM
+384,0,4,408,0020100369,Anderson REBOUND (Off:1 Def:2),,6:25,4,4.0,0,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:05 PM
+385,47,1,409,0020100369,Patterson 4' Turnaround Jump Shot (9 PTS),,6:05,4,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,66 - 81,15,,12:05 PM
+386,1,9,410,0020100369,,,5:58,4,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Timeout: Regular (Reg.4 Short 1),12:05 PM
+387,1,6,412,0020100369,Boumtje-Boumtje P.FOUL (P5.PN),,5:50,4,4.0,0,1,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:08 PM
+388,11,3,413,0020100369,,,5:50,4,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stackhouse Free Throw 1 of 2,12:08 PM
+389,1,4,414,0020100369,,,5:50,4,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,12:08 PM
+390,12,3,415,0020100369,,,5:50,4,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,67 - 81,14,Stackhouse Free Throw 2 of 2 (19 PTS),12:08 PM
+391,2,5,416,0020100369,Patterson Lost Ball Turnover (P6.T11),,5:36,4,4.0,5,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Stackhouse STEAL (2 STL),12:09 PM
+392,1,6,417,0020100369,Patterson P.FOUL (P3.PN),,5:35,4,4.0,0,1,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:09 PM
+393,11,3,418,0020100369,,,5:35,4,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,68 - 81,13,Stackhouse Free Throw 1 of 2 (20 PTS),12:09 PM
+394,12,3,419,0020100369,,,5:35,4,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,69 - 81,12,Stackhouse Free Throw 2 of 2 (21 PTS),12:09 PM
+395,1,2,420,0020100369,MISS Stoudamire 15' Jump Shot,,5:20,4,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:09 PM
+396,0,4,421,0020100369,,,5:19,4,5.0,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Barros REBOUND (Off:0 Def:3),12:10 PM
+397,1,2,422,0020100369,,,5:14,4,5.0,0,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Barry 24' 3PT Jump Shot,12:10 PM
+398,0,4,423,0020100369,Stoudamire REBOUND (Off:1 Def:3),,5:11,4,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:10 PM
+399,2,5,424,0020100369,Patterson Lost Ball Turnover (P7.T12),,4:54,4,4.0,5,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Wallace STEAL (2 STL),12:10 PM
+400,1,1,425,0020100369,,,4:42,4,5.0,5,0,468,Jon Barry,DET,Detroit,1610612765.0,Pistons,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,72 - 81,9,Barry 25' 3PT Jump Shot (3 PTS) (Robinson 2 AST),12:10 PM
+401,1,9,426,0020100369,TRAIL BLAZERS Timeout: Regular (Full 4 Short 2),,4:39,4,2.0,0,0,1610612757,,,,,,0,,,,,,0,,,,,,,,,12:10 PM
+402,0,8,428,0020100369,SUB: Wallace FOR Kemp,,4:39,4,4.0,4,0,431,Shawn Kemp,POR,Portland,1610612757.0,Trail Blazers,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,,12:11 PM
+403,1,2,429,0020100369,MISS Wallace 9' Jump Shot,,4:22,4,4.0,0,5,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,,,Robinson BLOCK (3 BLK),12:12 PM
+404,0,4,430,0020100369,TRAIL BLAZERS Rebound,,4:20,4,2.0,0,0,1610612757,,,,,,0,,,,,,0,,,,,,,,,12:13 PM
+405,1,2,431,0020100369,MISS Wallace  3PT Jump Shot,,4:17,4,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:13 PM
+406,0,4,432,0020100369,Patterson REBOUND (Off:2 Def:3),,4:15,4,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:13 PM
+407,1,2,433,0020100369,MISS Patterson 6' Jump Shot,,4:03,4,4.0,0,5,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,,,Wallace BLOCK (2 BLK),12:13 PM
+408,0,4,434,0020100369,Patterson REBOUND (Off:3 Def:3),,4:01,4,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:13 PM
+409,63,2,435,0020100369,MISS Anderson 17' Fadeaway Jumper,,3:55,4,4.0,0,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:13 PM
+410,0,4,436,0020100369,Patterson REBOUND (Off:4 Def:3),,3:51,4,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:13 PM
+411,8,5,437,0020100369,Boumtje-Boumtje 3 Second Violation Turnover (P2.T13),,3:34,4,4.0,0,1,2257,Ruben Boumtje-Boumtje,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:13 PM
+412,2,6,438,0020100369,Stoudamire S.FOUL (P2.PN),,3:28,4,4.0,0,1,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:14 PM
+413,11,3,439,0020100369,,,3:28,4,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,73 - 81,8,Stackhouse Free Throw 1 of 2 (22 PTS),12:14 PM
+414,12,3,440,0020100369,,,3:28,4,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,74 - 81,7,Stackhouse Free Throw 2 of 2 (23 PTS),12:14 PM
+415,1,2,441,0020100369,MISS Wallace  3PT Jump Shot,,3:01,4,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:15 PM
+416,0,4,442,0020100369,,,3:00,4,5.0,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Barros REBOUND (Off:0 Def:4),12:15 PM
+417,5,2,443,0020100369,,,2:56,4,5.0,0,0,1112,Ben Wallace,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Wallace  Layup,12:15 PM
+418,0,4,444,0020100369,Stoudamire REBOUND (Off:1 Def:4),,2:53,4,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:15 PM
+419,1,5,445,0020100369,Stoudamire Bad Pass Turnover (P1.T14),,2:49,4,4.0,5,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Robinson STEAL (1 STL),12:15 PM
+420,2,5,446,0020100369,Anderson STEAL (4 STL),,2:36,4,5.0,4,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,,,Stackhouse Lost Ball Turnover (P5.T15),12:15 PM
+421,1,6,447,0020100369,,,2:30,4,5.0,0,1,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Barros P.FOUL (P3.PN),12:15 PM
+422,11,3,448,0020100369,Anderson Free Throw 1 of 2 (5 PTS),,2:30,4,4.0,0,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,74 - 82,8,,12:15 PM
+423,12,3,449,0020100369,Anderson Free Throw 2 of 2 (6 PTS),,2:30,4,4.0,0,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,74 - 83,9,,12:16 PM
+424,42,1,450,0020100369,,,2:17,4,5.0,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,76 - 83,7,Barros  Driving Layup (5 PTS),12:16 PM
+425,47,2,451,0020100369,MISS Wallace 16' Turnaround Jump Shot,,1:54,4,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:17 PM
+426,0,4,453,0020100369,Patterson REBOUND (Off:5 Def:3),,1:48,4,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:17 PM
+427,42,2,452,0020100369,MISS Patterson  Driving Layup,,1:48,4,4.0,0,0,1739,Ruben Patterson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:17 PM
+428,0,4,454,0020100369,,,1:46,4,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Stackhouse REBOUND (Off:0 Def:3),12:17 PM
+429,1,1,455,0020100369,,,1:38,4,5.0,5,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,79 - 83,4,Barros 25' 3PT Jump Shot (8 PTS) (Stackhouse 7 AST),12:17 PM
+430,1,5,456,0020100369,Anderson Bad Pass Turnover (P3.T15),,1:20,4,4.0,0,0,1507,Derek Anderson,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:17 PM
+431,1,2,457,0020100369,,,1:01,4,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Robinson 25' 3PT Jump Shot,12:18 PM
+432,0,4,458,0020100369,Wallace REBOUND (Off:3 Def:6),,0:59,4,4.0,0,0,739,Rasheed Wallace,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:18 PM
+433,1,2,459,0020100369,MISS Stoudamire 10' Jump Shot,,0:37,4,4.0,0,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,0,,,,,,0,,,,,,,,,12:18 PM
+434,0,4,460,0020100369,,,0:34,4,5.0,0,0,361,Clifford Robinson,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:1 Def:4),12:18 PM
+435,1,1,461,0020100369,,,0:26,4,5.0,0,0,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,81 - 83,2,Barros 23' Jump Shot (10 PTS),12:18 PM
+436,1,5,462,0020100369,Stoudamire Bad Pass Turnover (P2.T16),,0:06,4,4.0,5,0,757,Damon Stoudamire,POR,Portland,1610612757.0,Trail Blazers,344,Dana Barros,DET,Detroit,1610612765.0,Pistons,0,,,,,,,,Barros STEAL (2 STL),12:19 PM
+437,1,9,463,0020100369,,,0:06,4,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Timeout: Regular (Reg.5 Short 1),12:19 PM
+438,1,2,464,0020100369,,,0:00,4,5.0,0,0,711,Jerry Stackhouse,DET,Detroit,1610612765.0,Pistons,0,,,,,,0,,,,,,,,MISS Stackhouse 25' 3PT Jump Shot,12:21 PM
+439,0,4,465,0020100369,,,0:00,4,3.0,0,0,1610612765,,,,,,0,,,,,,0,,,,,,,,Pistons Rebound,12:21 PM
+440,0,13,466,0020100369,,,0:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,81 - 83,2,,12:21 PM

@@ -1,0 +1,464 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020000226,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:40 AM
+1,0,10,1,0020000226,Jump Ball Grant vs. Polynice: Tip to Starks,,12:00,1,4,5,5,258,Brian Grant,MIA,Miami,1610612748.0,Heat,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,317,John Starks,UTA,Utah,1610612762.0,Jazz,,,,11:41 AM
+2,1,5,2,0020000226,,,11:48,1,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Malone Bad Pass Turnover (P1.T1),11:41 AM
+3,1,6,3,0020000226,,,11:36,1,5,0,1,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Malone P.FOUL (P1.T1),11:42 AM
+4,2,5,4,0020000226,Bowen Lost Ball Turnover (P1.T1),,11:26,1,4,5,0,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Russell STEAL (1 STL),11:42 AM
+5,5,2,5,0020000226,Bowen BLOCK (1 BLK),,11:22,1,5,0,4,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,,,MISS Russell  Layup,11:42 AM
+6,0,4,6,0020000226,Grant REBOUND (Off:0 Def:1),,11:19,1,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,11:42 AM
+7,1,5,7,0020000226,Grant Bad Pass Turnover (P1.T2),,11:16,1,4,5,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Russell STEAL (2 STL),11:42 AM
+8,5,2,8,0020000226,,,11:13,1,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Starks  Layup,11:42 AM
+9,0,4,9,0020000226,Grant REBOUND (Off:0 Def:2),,11:11,1,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,11:42 AM
+10,46,2,10,0020000226,MISS Mason 4' Running Jump Shot,,10:58,1,4,0,5,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,,,Polynice BLOCK (1 BLK),11:43 AM
+11,0,4,11,0020000226,,,10:53,1,5,0,0,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Polynice REBOUND (Off:0 Def:1),11:43 AM
+12,1,2,12,0020000226,,,10:38,1,5,0,0,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Polynice 13' Jump Shot,11:43 AM
+13,0,4,13,0020000226,,,10:36,1,5,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Stockton REBOUND (Off:1 Def:0),11:43 AM
+14,8,5,14,0020000226,,,10:19,1,5,0,1,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Polynice 3 Second Violation Turnover (P1.T2),11:43 AM
+15,6,7,16,0020000226,,,10:09,1,5,0,1,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell Violation:Double Lane,11:44 AM
+16,1,1,17,0020000226,Bowen  3PT Jump Shot (3 PTS) (Mason 1 AST),,9:58,1,4,4,0,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0 - 3,3,,11:44 AM
+17,1,5,18,0020000226,Jones STEAL (1 STL),,9:32,1,5,4,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,,,Malone Bad Pass Turnover (P2.T3),11:44 AM
+18,5,1,19,0020000226,Jones  Layup (2 PTS),,9:28,1,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,0 - 5,5,,11:45 AM
+19,1,5,20,0020000226,Jones STEAL (2 STL),,9:09,1,5,4,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,,,Malone Bad Pass Turnover (P3.T4),11:45 AM
+20,1,2,21,0020000226,MISS Jones 24' 3PT Jump Shot,,8:55,1,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,11:45 AM
+21,0,4,22,0020000226,,,8:53,1,5,0,0,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Polynice REBOUND (Off:0 Def:2),11:45 AM
+22,1,2,23,0020000226,,,8:41,1,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Malone 16' Jump Shot,11:45 AM
+23,0,4,24,0020000226,HEAT Rebound,,8:39,1,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,11:45 AM
+24,3,6,25,0020000226,,,8:39,1,5,0,1,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Polynice L.B.FOUL (P1.T2),11:45 AM
+25,5,1,26,0020000226,Mason  Layup (2 PTS) (Hardaway 1 AST),,8:27,1,4,4,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0 - 7,7,,11:46 AM
+26,1,1,27,0020000226,,,8:11,1,5,5,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,2 - 7,5,Malone 15' Jump Shot (2 PTS) (Stockton 1 AST),11:46 AM
+27,1,2,28,0020000226,MISS Bowen  3PT Jump Shot,,7:52,1,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,11:46 AM
+28,0,4,29,0020000226,,,7:50,1,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell REBOUND (Off:0 Def:1),11:46 AM
+29,1,1,30,0020000226,,,7:39,1,5,5,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,5 - 7,2,Stockton 25' 3PT Jump Shot (3 PTS) (Malone 1 AST),11:47 AM
+30,1,6,31,0020000226,,,7:28,1,5,0,1,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Starks P.FOUL (P1.T3),11:47 AM
+31,4,6,32,0020000226,Grant OFF.Foul (P1),,7:25,1,4,0,1,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,11:47 AM
+32,5,5,33,0020000226,Grant Foul Turnover (P2.T3),,7:25,1,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,11:47 AM
+33,5,2,34,0020000226,,,7:15,1,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Starks  Layup,11:48 AM
+34,0,4,35,0020000226,Grant REBOUND (Off:0 Def:3),,7:13,1,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,11:48 AM
+35,1,5,36,0020000226,Hardaway Bad Pass Turnover (P1.T4),,6:55,1,4,5,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Stockton STEAL (1 STL),11:48 AM
+36,7,1,37,0020000226,,,6:52,1,5,5,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,7 - 7,TIE,Malone  Dunk (4 PTS) (Stockton 2 AST),11:48 AM
+37,1,2,38,0020000226,MISS Jones 19' Jump Shot,,6:34,1,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,11:48 AM
+38,0,4,39,0020000226,,,6:31,1,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell REBOUND (Off:0 Def:2),11:48 AM
+39,1,1,40,0020000226,,,6:09,1,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,9 - 7,-2,Malone 18' Jump Shot (6 PTS),11:49 AM
+40,1,9,41,0020000226,HEAT Timeout: Regular (Full 1 Short 0),,6:02,1,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,11:49 AM
+41,2,5,43,0020000226,Mason Lost Ball Turnover (P1.T5),,5:49,1,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,11:51 AM
+42,1,1,44,0020000226,,,5:29,1,5,5,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,12 - 7,-5,Starks  3PT Jump Shot (3 PTS) (Russell 1 AST),11:52 AM
+43,1,1,45,0020000226,Hardaway 24' 3PT Jump Shot (3 PTS) (Jones 1 AST),,5:13,1,4,4,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,12 - 10,-2,,11:52 AM
+44,5,2,46,0020000226,,,4:54,1,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Russell  Layup,11:52 AM
+45,0,4,47,0020000226,HEAT Rebound,,4:54,1,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,11:52 AM
+46,3,6,48,0020000226,,,4:54,1,5,0,1,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Polynice L.B.FOUL (P2.T4),11:52 AM
+47,0,8,49,0020000226,,,4:54,1,5,5,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Vaughn FOR Stockton,11:53 AM
+48,0,8,50,0020000226,,,4:54,1,5,5,0,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Ostertag FOR Polynice,11:53 AM
+49,1,2,51,0020000226,MISS Hardaway 19' Jump Shot,,4:43,1,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,11:53 AM
+50,0,4,52,0020000226,,,4:40,1,5,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Ostertag REBOUND (Off:0 Def:1),11:53 AM
+51,1,1,53,0020000226,,,4:21,1,5,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,14 - 10,-4,Ostertag 9' Jump Shot (2 PTS),11:53 AM
+52,1,1,54,0020000226,Mason 14' Jump Shot (4 PTS) (Hardaway 2 AST),,3:57,1,4,4,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,14 - 12,-2,,11:54 AM
+53,1,2,55,0020000226,,,3:30,1,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Russell 25' 3PT Jump Shot,11:54 AM
+54,0,4,56,0020000226,Grant REBOUND (Off:0 Def:4),,3:28,1,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,11:54 AM
+55,5,2,57,0020000226,MISS Jones  Layup,,3:15,1,4,0,5,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,,,Ostertag BLOCK (1 BLK),11:54 AM
+56,0,4,58,0020000226,,,3:13,1,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell REBOUND (Off:0 Def:3),11:54 AM
+57,2,5,59,0020000226,Hardaway STEAL (1 STL),,3:10,1,5,4,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,,,Starks Lost Ball Turnover (P1.T5),11:55 AM
+58,2,6,60,0020000226,,,3:03,1,5,0,1,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Ostertag S.FOUL (P1.PN),11:55 AM
+59,11,3,61,0020000226,MISS Jones Free Throw 1 of 2,,3:03,1,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,11:55 AM
+60,1,4,62,0020000226,HEAT Rebound,,3:03,1,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,11:55 AM
+61,0,8,63,0020000226,SUB: Causwell FOR Grant,,3:03,1,4,4,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,190,Duane Causwell,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,11:55 AM
+62,12,3,64,0020000226,Jones Free Throw 2 of 2 (3 PTS),,3:03,1,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,14 - 13,-1,,11:55 AM
+63,41,1,65,0020000226,,,2:49,1,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,16 - 13,-3,Russell  Running Layup (2 PTS),11:56 AM
+64,42,1,66,0020000226,Mason  Driving Layup (6 PTS),,2:25,1,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,16 - 15,-1,,11:56 AM
+65,5,1,67,0020000226,,,2:04,1,5,5,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,18 - 15,-3,Russell  Layup (4 PTS) (Malone 2 AST),11:56 AM
+66,4,6,68,0020000226,Hardaway OFF.Foul (P1),,1:47,1,4,0,1,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,11:57 AM
+67,5,5,69,0020000226,Hardaway Foul Turnover (P2.T6),,1:47,1,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,11:57 AM
+68,1,9,70,0020000226,,,1:47,1,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Timeout: Regular (Reg.1 Short 0),11:57 AM
+69,0,8,72,0020000226,,,1:47,1,5,5,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Lewis FOR Starks,11:59 AM
+70,0,8,73,0020000226,SUB: Carter FOR Hardaway,,1:47,1,4,4,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,11:59 AM
+71,5,1,74,0020000226,,,1:33,1,5,5,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,20 - 15,-5,Ostertag  Layup (4 PTS) (Russell 2 AST),11:59 AM
+72,1,1,75,0020000226,Mason 9' Jump Shot (8 PTS),,1:09,1,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,20 - 17,-3,,12:00 PM
+73,1,2,76,0020000226,,,0:52,1,5,0,0,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Vaughn 17' Jump Shot,12:00 PM
+74,0,4,77,0020000226,Mason REBOUND (Off:0 Def:1),,0:50,1,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:00 PM
+75,1,1,78,0020000226,Mason 8' Jump Shot (10 PTS),,0:41,1,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,20 - 19,-1,,12:00 PM
+76,1,6,79,0020000226,Bowen P.FOUL (P1.T1),,0:24,1,4,0,1,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:00 PM
+77,1,2,80,0020000226,,,0:16,1,5,0,0,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Vaughn 24' 3PT Jump Shot,12:01 PM
+78,0,4,81,0020000226,Causwell REBOUND (Off:0 Def:1),,0:13,1,4,0,0,190,Duane Causwell,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:01 PM
+79,2,5,82,0020000226,Jones Lost Ball Turnover (P1.T7),,0:01,1,4,5,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Russell STEAL (3 STL),12:01 PM
+80,1,2,83,0020000226,,,0:00,1,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Russell 32' 3PT Jump Shot,12:01 PM
+81,0,4,85,0020000226,,,0:00,1,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,12:01 PM
+82,0,13,84,0020000226,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,20 - 19,-1,,12:01 PM
+83,0,12,87,0020000226,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,20 - 19,-1,,12:04 PM
+84,5,1,88,0020000226,Jones  Layup (5 PTS) (Mason 2 AST),,11:45,2,4,4,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,20 - 21,1,,12:04 PM
+85,1,1,89,0020000226,,,11:29,2,5,0,0,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,22 - 21,-1,Manning 16' Jump Shot (2 PTS),12:04 PM
+86,1,1,90,0020000226,Jones 18' Jump Shot (7 PTS),,11:10,2,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,22 - 23,1,,12:05 PM
+87,1,5,91,0020000226,Causwell STEAL (1 STL),,10:52,2,5,4,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,190,Duane Causwell,MIA,Miami,1610612748.0,Heat,0,,,,,,,,Ostertag Bad Pass Turnover (P1.T6),12:05 PM
+88,5,2,92,0020000226,MISS Jones  Layup,,10:48,2,4,0,5,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,,,Ostertag BLOCK (2 BLK),12:05 PM
+89,0,4,93,0020000226,,,10:47,2,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,12:05 PM
+90,3,6,94,0020000226,Causwell L.B.FOUL (P1.T1),,10:47,2,4,0,1,190,Duane Causwell,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:05 PM
+91,0,8,95,0020000226,SUB: Ceballos FOR Mason,,10:47,2,4,4,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,12:05 PM
+92,1,5,96,0020000226,Jones STEAL (3 STL),,10:29,2,5,4,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,,,Marshall Bad Pass Turnover (P1.T7),12:06 PM
+93,2,6,97,0020000226,,,10:23,2,5,0,1,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Manning S.FOUL (P1.T1),12:06 PM
+94,11,3,98,0020000226,Ceballos Free Throw 1 of 2 (1 PTS),,10:23,2,4,0,0,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,22 - 24,2,,12:06 PM
+95,12,3,99,0020000226,Ceballos Free Throw 2 of 2 (2 PTS),,10:23,2,4,0,0,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,22 - 25,3,,12:06 PM
+96,5,2,100,0020000226,Causwell BLOCK (1 BLK),,10:14,2,5,0,4,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,190,Duane Causwell,MIA,Miami,1610612748.0,Heat,,,MISS Marshall  Layup,12:07 PM
+97,0,4,101,0020000226,Carter REBOUND (Off:0 Def:1),,10:12,2,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:07 PM
+98,1,1,102,0020000226,Grant 18' Jump Shot (2 PTS) (Carter 1 AST),,9:59,2,4,4,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,0,,,,,,22 - 27,5,,12:07 PM
+99,4,6,103,0020000226,,,9:36,2,5,0,1,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Lewis OFF.Foul (P1),12:07 PM
+100,5,5,104,0020000226,,,9:36,2,5,0,0,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Lewis Foul Turnover (P1.T8),12:07 PM
+101,0,8,105,0020000226,,,9:36,2,5,5,0,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Stockton FOR Vaughn,12:07 PM
+102,0,8,106,0020000226,,,9:36,2,5,5,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,128,David Benoit,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Benoit FOR Ostertag,12:08 PM
+103,1,6,107,0020000226,,,9:19,2,5,0,1,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Manning P.FOUL (P2.T2),12:08 PM
+104,11,3,108,0020000226,Grant Free Throw 1 of 2 (3 PTS),,9:19,2,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,22 - 28,6,,12:08 PM
+105,12,3,109,0020000226,Grant Free Throw 2 of 2 (4 PTS),,9:19,2,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,22 - 29,7,,12:08 PM
+106,1,6,110,0020000226,Causwell P.FOUL (P2.T2),,9:11,2,4,0,1,190,Duane Causwell,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:09 PM
+107,1,2,111,0020000226,,,8:59,2,5,0,0,128,David Benoit,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Benoit 19' Jump Shot,12:09 PM
+108,0,4,112,0020000226,,,8:57,2,5,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Marshall REBOUND (Off:1 Def:0),12:09 PM
+109,4,6,113,0020000226,,,8:55,2,5,0,1,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Manning OFF.Foul (P3),12:09 PM
+110,5,5,114,0020000226,,,8:55,2,5,0,0,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Manning Foul Turnover (P1.T9),12:09 PM
+111,4,9,115,0020000226,,,8:55,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:10 PM
+112,0,8,117,0020000226,,,8:55,2,5,5,0,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Malone FOR Manning,12:11 PM
+113,2,5,118,0020000226,Jones Lost Ball Turnover (P2.T8),,8:38,2,4,5,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Lewis STEAL (1 STL),12:12 PM
+114,2,6,119,0020000226,Causwell S.FOUL (P3.T3),,8:21,2,4,0,1,190,Duane Causwell,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:12 PM
+115,11,3,120,0020000226,,,8:21,2,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,23 - 29,6,Malone Free Throw 1 of 2 (7 PTS),12:13 PM
+116,0,8,121,0020000226,SUB: Green FOR Causwell,,8:21,2,4,4,0,190,Duane Causwell,MIA,Miami,1610612748.0,Heat,920,A.C. Green,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,12:13 PM
+117,12,3,122,0020000226,,,8:21,2,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,24 - 29,5,Malone Free Throw 2 of 2 (8 PTS),12:13 PM
+118,2,6,123,0020000226,,,8:10,2,5,0,1,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Lewis S.FOUL (P2.T3),12:13 PM
+119,11,3,124,0020000226,Jones Free Throw 1 of 2 (8 PTS),,8:10,2,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,24 - 30,6,,12:14 PM
+120,0,8,125,0020000226,,,8:10,2,5,5,0,1900,Quincy Lewis,UTA,Utah,1610612762.0,Jazz,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Starks FOR Lewis,12:14 PM
+121,12,3,126,0020000226,Jones Free Throw 2 of 2 (9 PTS),,8:10,2,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,24 - 31,7,,12:14 PM
+122,1,1,127,0020000226,,,7:52,2,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,26 - 31,5,Malone 18' Jump Shot (10 PTS),12:14 PM
+123,2,5,128,0020000226,Carter Lost Ball Turnover (P1.T9),,7:44,2,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:14 PM
+124,4,6,130,0020000226,,,7:36,2,5,0,1,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Starks OFF.Foul (P2),12:15 PM
+125,5,5,131,0020000226,,,7:36,2,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Starks Foul Turnover (P2.T10),12:15 PM
+126,0,8,132,0020000226,SUB: Hardaway FOR Jones,,7:36,2,4,4,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,12:15 PM
+127,1,1,133,0020000226,Hardaway 24' 3PT Jump Shot (6 PTS) (Grant 1 AST),,7:22,2,4,4,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,26 - 34,8,,12:15 PM
+128,5,1,134,0020000226,,,6:56,2,5,5,0,128,David Benoit,UTA,Utah,1610612762.0,Jazz,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,28 - 34,6,Benoit  Layup (2 PTS) (Starks 1 AST),12:15 PM
+129,1,2,135,0020000226,MISS Carter 18' Jump Shot,,6:48,2,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:16 PM
+130,0,4,136,0020000226,,,6:46,2,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,12:16 PM
+131,1,2,137,0020000226,,,6:25,2,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Malone 17' Jump Shot,12:16 PM
+132,0,4,138,0020000226,Hardaway REBOUND (Off:0 Def:1),,6:22,2,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:16 PM
+133,2,6,139,0020000226,,,6:16,2,5,0,1,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Stockton S.FOUL (P1.T4),12:16 PM
+134,11,3,140,0020000226,MISS Hardaway Free Throw 1 of 2,,6:16,2,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:17 PM
+135,1,4,141,0020000226,HEAT Rebound,,6:16,2,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,12:17 PM
+136,12,3,142,0020000226,Hardaway Free Throw 2 of 2 (7 PTS),,6:16,2,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,28 - 35,7,,12:17 PM
+137,5,2,143,0020000226,Grant BLOCK (1 BLK),,6:04,2,5,0,4,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,258,Brian Grant,MIA,Miami,1610612748.0,Heat,,,MISS Starks  Layup,12:17 PM
+138,0,4,144,0020000226,,,6:03,2,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Starks REBOUND (Off:1 Def:0),12:17 PM
+139,1,6,145,0020000226,Green P.FOUL (P1.T4),,6:03,2,4,0,1,920,A.C. Green,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:17 PM
+140,1,2,146,0020000226,,,5:53,2,5,0,0,128,David Benoit,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Benoit 21' Jump Shot,12:18 PM
+141,0,4,147,0020000226,Grant REBOUND (Off:0 Def:5),,5:51,2,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:18 PM
+142,7,1,148,0020000226,Ceballos  Dunk (4 PTS) (Hardaway 3 AST),,5:44,2,4,4,0,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,28 - 37,9,,12:18 PM
+143,1,2,149,0020000226,,,5:23,2,5,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Marshall 3' Jump Shot,12:18 PM
+144,0,4,150,0020000226,,,5:22,2,5,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Marshall REBOUND (Off:2 Def:0),12:18 PM
+145,1,6,151,0020000226,Grant P.FOUL (P2.PN),,5:22,2,4,0,1,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:19 PM
+146,1,9,152,0020000226,HEAT Timeout: Regular (Full 2 Short 0),,5:22,2,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,12:19 PM
+147,0,8,154,0020000226,,,5:22,2,5,5,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Russell FOR Starks,12:20 PM
+148,11,3,155,0020000226,,,5:22,2,5,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,29 - 37,8,Marshall Free Throw 1 of 2 (1 PTS),12:21 PM
+149,12,3,156,0020000226,,,5:22,2,5,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,30 - 37,7,Marshall Free Throw 2 of 2 (2 PTS),12:21 PM
+150,1,1,157,0020000226,Ceballos 19' Jump Shot (6 PTS) (Green 1 AST),,5:01,2,4,4,0,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,920,A.C. Green,MIA,Miami,1610612748.0,Heat,0,,,,,,30 - 39,9,,12:22 PM
+151,5,1,158,0020000226,,,4:47,2,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,32 - 39,7,Russell  Layup (6 PTS),12:22 PM
+152,1,1,159,0020000226,Grant 8' Jump Shot (6 PTS),,4:26,2,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,32 - 41,9,,12:22 PM
+153,1,2,160,0020000226,,,4:07,2,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Russell 9' Jump Shot,12:23 PM
+154,0,4,161,0020000226,Grant REBOUND (Off:0 Def:6),,4:05,2,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:23 PM
+155,1,2,162,0020000226,MISS Hardaway 19' Jump Shot,,3:46,2,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:23 PM
+156,0,4,163,0020000226,,,3:44,2,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Malone REBOUND (Off:0 Def:1),12:23 PM
+157,2,7,164,0020000226,HEAT Violation: Def. Goaltending Violation,,3:27,2,2,0,1,1610612748,,,,,,0,,,,,,0,,,,,,,,,12:24 PM
+158,0,8,165,0020000226,SUB: Jones FOR Carter,,3:27,2,4,4,0,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,12:24 PM
+159,0,8,166,0020000226,SUB: Mason FOR Green,,3:27,2,4,4,0,920,A.C. Green,MIA,Miami,1610612748.0,Heat,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,12:24 PM
+160,1,2,167,0020000226,,,3:12,2,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Russell 18' Jump Shot,12:24 PM
+161,0,4,168,0020000226,Mason REBOUND (Off:0 Def:2),,3:10,2,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:24 PM
+162,1,5,169,0020000226,Mason Bad Pass Turnover (P2.T10),,3:04,2,4,5,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Malone STEAL (1 STL),12:24 PM
+163,7,1,170,0020000226,,,2:51,2,5,5,0,128,David Benoit,UTA,Utah,1610612762.0,Jazz,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,34 - 41,7,Benoit  Dunk (4 PTS) (Malone 3 AST),12:24 PM
+164,1,2,171,0020000226,MISS Ceballos 24' 3PT Jump Shot,,2:26,2,4,0,0,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:25 PM
+165,0,4,172,0020000226,Grant REBOUND (Off:1 Def:6),,2:24,2,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:25 PM
+166,1,2,173,0020000226,MISS Hardaway 24' 3PT Jump Shot,,2:13,2,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:25 PM
+167,0,4,174,0020000226,,,2:11,2,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell REBOUND (Off:0 Def:4),12:25 PM
+168,1,1,175,0020000226,,,1:53,2,5,5,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,36 - 41,5,Stockton 19' Jump Shot (5 PTS) (Malone 4 AST),12:25 PM
+169,2,9,176,0020000226,HEAT Timeout: Short (Full 2 Short 1),,1:43,2,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,12:26 PM
+170,1,9,178,0020000226,,,1:43,2,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Timeout: Regular (Reg.2 Short 0),12:26 PM
+171,0,8,179,0020000226,SUB: Bowen FOR Grant,,1:43,2,4,4,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,12:28 PM
+172,2,5,180,0020000226,Hardaway Lost Ball Turnover (P3.T11),,1:36,2,4,5,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Russell STEAL (4 STL),12:28 PM
+173,7,1,181,0020000226,,,1:32,2,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,38 - 41,3,Russell  Dunk (8 PTS),12:28 PM
+174,1,2,182,0020000226,MISS Bowen 25' 3PT Jump Shot,,1:06,2,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:29 PM
+175,0,4,183,0020000226,HEAT Rebound,,1:05,2,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,12:29 PM
+176,11,5,185,0020000226,HEAT Turnover: Shot Clock (T#12),,1:05,2,2,0,1,1610612748,,,,,,0,,,,,,0,,,,,,,,,12:29 PM
+177,1,5,186,0020000226,Hardaway STEAL (2 STL),,0:54,2,5,4,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,,,Stockton Bad Pass Turnover (P1.T11),12:29 PM
+178,1,5,187,0020000226,Hardaway Bad Pass Turnover (P4.T13),,0:52,2,4,5,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Russell STEAL (5 STL),12:29 PM
+179,1,2,188,0020000226,,,0:46,2,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Malone 15' Jump Shot,12:29 PM
+180,0,4,189,0020000226,HEAT Rebound,,0:45,2,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,12:30 PM
+181,1,6,190,0020000226,,,0:45,2,5,0,1,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Marshall P.FOUL (P1.PN),12:30 PM
+182,11,3,191,0020000226,Bowen Free Throw 1 of 2 (4 PTS),,0:45,2,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,38 - 42,4,,12:30 PM
+183,12,3,192,0020000226,Bowen Free Throw 2 of 2 (5 PTS),,0:45,2,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,38 - 43,5,,12:30 PM
+184,2,6,193,0020000226,Mason S.FOUL (P1.PN),,0:33,2,4,0,1,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:31 PM
+185,11,3,194,0020000226,,,0:33,2,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,39 - 43,4,Malone Free Throw 1 of 2 (11 PTS),12:31 PM
+186,12,3,195,0020000226,,,0:33,2,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,40 - 43,3,Malone Free Throw 2 of 2 (12 PTS),12:31 PM
+187,3,1,196,0020000226,Mason 5' Hook Shot (12 PTS),,0:13,2,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,40 - 45,5,,12:32 PM
+188,1,1,197,0020000226,,,0:00,2,5,5,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,128,David Benoit,UTA,Utah,1610612762.0,Jazz,0,,,,,,43 - 45,2,Marshall 24' 3PT Jump Shot (5 PTS) (Benoit 1 AST),12:32 PM
+189,0,13,198,0020000226,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,43 - 45,2,,12:32 PM
+190,0,12,200,0020000226,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,43 - 45,2,,12:48 PM
+191,5,1,201,0020000226,Grant  Layup (8 PTS) (Jones 2 AST),,11:49,3,4,4,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,43 - 47,4,,12:48 PM
+192,1,6,202,0020000226,Bowen P.FOUL (P2.T1),,11:36,3,4,0,1,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:49 PM
+193,1,2,203,0020000226,,,11:29,3,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Malone 17' Jump Shot,12:49 PM
+194,0,4,204,0020000226,,,11:27,3,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,12:49 PM
+195,1,2,205,0020000226,,,11:16,3,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Starks 21' Jump Shot,12:49 PM
+196,0,4,206,0020000226,,,11:13,3,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell REBOUND (Off:1 Def:4),12:49 PM
+197,2,9,207,0020000226,,,11:13,3,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Timeout: Short (Reg.2 Short 1),12:49 PM
+198,17,6,209,0020000226,HEAT Foul,,11:05,3,2,0,1,1610612748,,,,,,0,,,,,,0,,,,,,,,,12:51 PM
+199,16,3,210,0020000226,,,11:05,3,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,44 - 47,3,Starks Free Throw Technical (4 PTS),12:51 PM
+200,5,2,211,0020000226,,,10:57,3,5,0,0,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Polynice  Layup,12:51 PM
+201,0,4,212,0020000226,Hardaway REBOUND (Off:0 Def:2),,10:55,3,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:51 PM
+202,1,1,213,0020000226,Jones  3PT Jump Shot (12 PTS) (Hardaway 4 AST),,10:46,3,4,4,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,44 - 50,6,,12:51 PM
+203,1,6,214,0020000226,Hardaway P.FOUL (P2.T2),,10:32,3,4,0,1,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:52 PM
+204,3,1,215,0020000226,,,10:21,3,5,5,0,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,46 - 50,4,Polynice 9' Hook Shot (2 PTS) (Malone 5 AST),12:52 PM
+205,1,1,216,0020000226,Grant 18' Jump Shot (10 PTS),,10:05,3,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,46 - 52,6,,12:52 PM
+206,3,1,217,0020000226,,,9:42,3,5,0,0,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,48 - 52,4,Polynice 7' Hook Shot (4 PTS),12:53 PM
+207,1,6,218,0020000226,,,9:28,3,5,0,1,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Polynice P.FOUL (P3.T1),12:53 PM
+208,1,2,219,0020000226,MISS Jones 20' Jump Shot,,9:21,3,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:53 PM
+209,0,4,220,0020000226,Jones REBOUND (Off:1 Def:0),,9:18,3,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:53 PM
+210,1,2,221,0020000226,MISS Bowen 21' Jump Shot,,9:03,3,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:54 PM
+211,0,4,222,0020000226,Mason REBOUND (Off:1 Def:2),,9:01,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:54 PM
+212,44,1,223,0020000226,Mason  Reverse Layup (14 PTS),,8:51,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,48 - 54,6,,12:54 PM
+213,6,7,224,0020000226,Bowen Violation:Double Lane,,8:38,3,4,0,1,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:54 PM
+214,1,5,225,0020000226,,,8:29,3,5,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Stockton Bad Pass Turnover (P2.T12),12:54 PM
+215,1,1,226,0020000226,Jones 19' Jump Shot (14 PTS),,8:17,3,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,48 - 56,8,,12:55 PM
+216,1,1,227,0020000226,,,7:56,3,5,5,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,0,,,,,,51 - 56,5,Russell 25' 3PT Jump Shot (11 PTS) (Polynice 1 AST),12:55 PM
+217,1,6,228,0020000226,,,7:40,3,5,0,1,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Starks P.FOUL (P3.T2),12:55 PM
+218,1,2,229,0020000226,MISS Grant 19' Jump Shot,,7:29,3,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:56 PM
+219,0,4,230,0020000226,,,7:26,3,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Malone REBOUND (Off:0 Def:2),12:56 PM
+220,1,6,231,0020000226,Bowen P.FOUL (P3.T3),,7:16,3,4,0,1,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:56 PM
+221,1,1,232,0020000226,,,7:12,3,5,5,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,53 - 56,3,Malone 15' Jump Shot (14 PTS) (Stockton 3 AST),12:57 PM
+222,1,6,233,0020000226,,,7:00,3,5,0,1,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Polynice P.FOUL (P4.T3),12:57 PM
+223,0,8,235,0020000226,,,7:00,3,5,5,0,178,Olden Polynice,UTA,Utah,1610612762.0,Jazz,128,David Benoit,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Benoit FOR Polynice,12:57 PM
+224,3,7,237,0020000226,,,6:52,3,5,0,1,128,David Benoit,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Benoit Violation:Lane,12:57 PM
+225,1,1,236,0020000226,Grant 6' Jump Shot (12 PTS) (Hardaway 5 AST),,6:52,3,4,4,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,53 - 58,5,,12:57 PM
+226,1,2,238,0020000226,,,6:39,3,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Starks 18' Jump Shot,12:58 PM
+227,0,4,239,0020000226,Hardaway REBOUND (Off:0 Def:3),,6:38,3,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,12:58 PM
+228,1,6,240,0020000226,,,6:38,3,5,0,1,128,David Benoit,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Benoit P.FOUL (P1.T4),12:58 PM
+229,1,7,241,0020000226,,,6:38,3,3,0,1,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Violation: Delay of game Violation,12:58 PM
+230,1,9,242,0020000226,HEAT Timeout: Regular (Full 3 Short 1),,6:38,3,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,12:58 PM
+231,1,1,244,0020000226,Hardaway 25' 3PT Jump Shot (10 PTS) (Grant 2 AST),,6:16,3,4,4,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,53 - 61,8,,1:01 PM
+232,1,2,245,0020000226,,,5:55,3,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Malone 8' Jump Shot,1:01 PM
+233,0,4,246,0020000226,Hardaway REBOUND (Off:0 Def:4),,5:52,3,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:01 PM
+234,1,1,247,0020000226,Grant 7' Jump Shot (14 PTS),,5:38,3,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,53 - 63,10,,1:02 PM
+235,2,6,248,0020000226,,,5:38,3,5,0,1,128,David Benoit,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Benoit S.FOUL (P2.PN),1:02 PM
+236,0,8,249,0020000226,,,5:38,3,5,5,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Vaughn FOR Stockton,1:02 PM
+237,10,3,250,0020000226,Grant Free Throw 1 of 1 (15 PTS),,5:38,3,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,53 - 64,11,,1:02 PM
+238,2,6,251,0020000226,Mason S.FOUL (P2.T4),,5:24,3,4,0,1,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:02 PM
+239,11,3,252,0020000226,,,5:24,3,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,54 - 64,10,Malone Free Throw 1 of 2 (15 PTS),1:03 PM
+240,12,3,254,0020000226,,,5:24,3,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,55 - 64,9,Malone Free Throw 2 of 2 (16 PTS),1:04 PM
+241,46,1,255,0020000226,Jones 13' Running Jump Shot (16 PTS),,5:04,3,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,55 - 66,11,,1:04 PM
+242,1,6,256,0020000226,Mason P.FOUL (P3.PN),,4:53,3,4,0,1,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:04 PM
+243,11,3,257,0020000226,,,4:53,3,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,56 - 66,10,Starks Free Throw 1 of 2 (5 PTS),1:04 PM
+244,12,3,258,0020000226,,,4:53,3,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Starks Free Throw 2 of 2,1:04 PM
+245,0,4,259,0020000226,HEAT Rebound,,4:51,3,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,1:05 PM
+246,1,1,261,0020000226,Hardaway 24' 3PT Jump Shot (13 PTS) (Bowen 1 AST),,4:34,3,4,4,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,56 - 69,13,,1:05 PM
+247,1,6,262,0020000226,Bowen P.FOUL (P4.PN),,4:18,3,4,0,1,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:05 PM
+248,11,3,263,0020000226,,,4:18,3,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Russell Free Throw 1 of 2,1:06 PM
+249,1,4,264,0020000226,,,4:18,3,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,1:06 PM
+250,12,3,265,0020000226,,,4:18,3,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,57 - 69,12,Russell Free Throw 2 of 2 (12 PTS),1:06 PM
+251,1,6,266,0020000226,,,4:10,3,5,0,1,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell P.FOUL (P1.PN),1:06 PM
+252,0,8,283,0020000226,,,4:10,3,5,5,0,128,David Benoit,UTA,Utah,1610612762.0,Jazz,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Ostertag FOR Benoit,1:06 PM
+253,11,3,267,0020000226,Jones Free Throw 1 of 2 (17 PTS),,4:10,3,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,57 - 70,13,,1:06 PM
+254,12,3,269,0020000226,Jones Free Throw 2 of 2 (18 PTS),,4:10,3,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,57 - 71,14,,1:07 PM
+255,1,6,272,0020000226,Bowen P.FOUL (P5.PN),,4:02,3,4,0,1,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:07 PM
+256,11,3,274,0020000226,,,4:02,3,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,58 - 71,13,Starks Free Throw 1 of 2 (6 PTS),1:08 PM
+257,0,8,275,0020000226,SUB: Carter FOR Bowen,,4:02,3,4,4,0,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,1:08 PM
+258,12,3,276,0020000226,,,4:02,3,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Starks Free Throw 2 of 2,1:08 PM
+259,0,4,277,0020000226,Mason REBOUND (Off:1 Def:3),,4:01,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:08 PM
+260,2,6,278,0020000226,,,3:52,3,5,0,1,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Ostertag S.FOUL (P2.PN),1:08 PM
+261,11,3,279,0020000226,Grant Free Throw 1 of 2 (16 PTS),,3:52,3,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,58 - 72,14,,1:08 PM
+262,0,8,280,0020000226,,,3:52,3,5,5,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,2052,DeShawn Stevenson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Stevenson FOR Starks,1:09 PM
+263,12,3,281,0020000226,Grant Free Throw 2 of 2 (17 PTS),,3:52,3,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,58 - 73,15,,1:09 PM
+264,2,6,284,0020000226,Grant S.FOUL (P3.PN),,3:37,3,4,0,1,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:09 PM
+265,11,3,285,0020000226,,,3:37,3,5,0,0,2052,DeShawn Stevenson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Stevenson Free Throw 1 of 2,1:09 PM
+266,1,4,286,0020000226,,,3:37,3,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,1:09 PM
+267,0,8,288,0020000226,SUB: Causwell FOR Grant,,3:37,3,4,4,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,190,Duane Causwell,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,1:10 PM
+268,12,3,289,0020000226,,,3:37,3,5,0,0,2052,DeShawn Stevenson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,59 - 73,14,Stevenson Free Throw 2 of 2 (1 PTS),1:10 PM
+269,2,5,293,0020000226,Hardaway Lost Ball Turnover (P5.T14),,3:14,3,4,5,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,2052,DeShawn Stevenson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Stevenson STEAL (1 STL),1:10 PM
+270,1,6,294,0020000226,Jones P.FOUL (P1.PN),,3:14,3,4,0,1,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:10 PM
+271,11,3,296,0020000226,,,3:14,3,5,0,0,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Vaughn Free Throw 1 of 2,1:11 PM
+272,1,4,297,0020000226,,,3:14,3,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,1:11 PM
+273,12,3,298,0020000226,,,3:14,3,5,0,0,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,60 - 73,13,Vaughn Free Throw 2 of 2 (1 PTS),1:11 PM
+274,1,2,300,0020000226,MISS Jones 11' Jump Shot,,3:01,3,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:11 PM
+275,0,4,301,0020000226,,,2:59,3,5,0,0,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Vaughn REBOUND (Off:0 Def:1),1:11 PM
+276,1,2,302,0020000226,,,2:54,3,5,0,0,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Vaughn 18' Jump Shot,1:11 PM
+277,0,4,303,0020000226,,,2:54,3,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,1:12 PM
+278,1,6,304,0020000226,Causwell P.FOUL (P4.PN),,2:54,3,4,0,0,190,Duane Causwell,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:12 PM
+279,1,9,305,0020000226,,,2:54,3,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Timeout: Regular (Reg.3 Short 1),1:12 PM
+280,11,3,307,0020000226,,,2:54,3,5,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,61 - 73,12,Ostertag Free Throw 1 of 2 (5 PTS),1:14 PM
+281,12,3,308,0020000226,,,2:54,3,5,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,62 - 73,11,Ostertag Free Throw 2 of 2 (6 PTS),1:14 PM
+282,1,6,309,0020000226,,,2:42,3,5,0,1,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Malone P.FOUL (P2.PN),1:14 PM
+283,11,3,310,0020000226,Mason Free Throw 1 of 2 (15 PTS),,2:42,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,62 - 74,12,,1:15 PM
+284,12,3,311,0020000226,Mason Free Throw 2 of 2 (16 PTS),,2:42,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,62 - 75,13,,1:15 PM
+285,1,2,312,0020000226,,,2:29,3,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Malone 18' Jump Shot,1:15 PM
+286,0,4,313,0020000226,,,2:26,3,5,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Ostertag REBOUND (Off:1 Def:1),1:15 PM
+287,1,2,314,0020000226,,,2:14,3,5,0,0,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Vaughn 24' 3PT Jump Shot,1:16 PM
+288,0,4,315,0020000226,Mason REBOUND (Off:1 Def:4),,2:12,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:16 PM
+289,2,6,316,0020000226,,,2:06,3,5,0,1,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Ostertag S.FOUL (P3.PN),1:16 PM
+290,11,3,317,0020000226,Mason Free Throw 1 of 2 (17 PTS),,2:06,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,62 - 76,14,,1:16 PM
+291,12,3,318,0020000226,MISS Mason Free Throw 2 of 2,,2:06,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:16 PM
+292,0,4,319,0020000226,,,2:04,3,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Malone REBOUND (Off:0 Def:3),1:16 PM
+293,1,2,320,0020000226,,,1:54,3,5,0,0,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Vaughn 24' 3PT Jump Shot,1:16 PM
+294,0,4,321,0020000226,Hardaway REBOUND (Off:0 Def:5),,1:51,3,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:17 PM
+295,2,5,322,0020000226,Mason Lost Ball Turnover (P3.T15),,1:43,3,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:17 PM
+296,1,6,323,0020000226,Hardaway P.FOUL (P3.PN),,1:34,3,4,0,1,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:17 PM
+297,0,8,324,0020000226,SUB: Ceballos FOR Hardaway,,1:34,3,4,4,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,1:17 PM
+298,11,3,325,0020000226,,,1:34,3,5,0,0,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,63 - 76,13,Vaughn Free Throw 1 of 2 (2 PTS),1:17 PM
+299,0,8,326,0020000226,,,1:34,3,5,5,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Manning FOR Malone,1:17 PM
+300,12,3,327,0020000226,,,1:34,3,5,0,0,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,64 - 76,12,Vaughn Free Throw 2 of 2 (3 PTS),1:18 PM
+301,1,6,328,0020000226,,,1:25,3,5,0,1,2052,DeShawn Stevenson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Stevenson P.FOUL (P1.PN),1:18 PM
+302,11,3,329,0020000226,Jones Free Throw 1 of 2 (19 PTS),,1:25,3,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,64 - 77,13,,1:18 PM
+303,12,3,330,0020000226,Jones Free Throw 2 of 2 (20 PTS),,1:25,3,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,64 - 78,14,,1:18 PM
+304,1,2,331,0020000226,Causwell BLOCK (2 BLK),,1:11,3,5,0,4,2052,DeShawn Stevenson,UTA,Utah,1610612762.0,Jazz,0,,,,,,190,Duane Causwell,MIA,Miami,1610612748.0,Heat,,,MISS Stevenson 6' Jump Shot,1:19 PM
+305,0,4,332,0020000226,Causwell REBOUND (Off:0 Def:2),,1:09,3,4,0,0,190,Duane Causwell,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:19 PM
+306,7,2,333,0020000226,MISS Jones  Dunk,,0:57,3,4,0,5,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,,,Ostertag BLOCK (3 BLK),1:19 PM
+307,0,4,334,0020000226,,,0:55,3,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,1:19 PM
+308,1,2,335,0020000226,,,0:43,3,5,0,0,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Manning 19' Jump Shot,1:20 PM
+309,0,4,336,0020000226,,,0:37,3,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell REBOUND (Off:2 Def:4),1:20 PM
+310,1,2,337,0020000226,,,0:33,3,5,0,0,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Vaughn 24' 3PT Jump Shot,1:20 PM
+311,0,4,338,0020000226,,,0:32,3,5,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Ostertag REBOUND (Off:2 Def:1),1:20 PM
+312,2,6,339,0020000226,Mason S.FOUL (P4.PN),,0:32,3,4,0,1,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:20 PM
+313,11,3,340,0020000226,,,0:32,3,5,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,65 - 78,13,Ostertag Free Throw 1 of 2 (7 PTS),1:20 PM
+314,0,8,341,0020000226,SUB: Green FOR Mason,,0:32,3,4,4,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,920,A.C. Green,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,1:20 PM
+315,0,8,342,0020000226,,,0:32,3,5,5,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Marshall FOR Russell,1:21 PM
+316,12,3,343,0020000226,,,0:32,3,5,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,66 - 78,12,Ostertag Free Throw 2 of 2 (8 PTS),1:21 PM
+317,2,9,344,0020000226,HEAT Timeout: Short (Full 3 Short 2),,0:32,3,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,1:21 PM
+318,1,6,346,0020000226,,,0:20,3,5,0,1,1521,Jacque Vaughn,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Vaughn P.FOUL (P1.PN),1:22 PM
+319,11,3,347,0020000226,MISS Carter Free Throw 1 of 2,,0:20,3,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:22 PM
+320,1,4,348,0020000226,HEAT Rebound,,0:20,3,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,1:22 PM
+321,12,3,349,0020000226,MISS Carter Free Throw 2 of 2,,0:20,3,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:23 PM
+322,0,4,350,0020000226,,,0:19,3,5,0,0,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Manning REBOUND (Off:0 Def:1),1:23 PM
+323,1,2,351,0020000226,,,0:00,3,5,0,0,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Manning 13' Jump Shot,1:23 PM
+324,0,4,352,0020000226,,,0:00,3,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,1:23 PM
+325,0,13,353,0020000226,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,66 - 78,12,,1:23 PM
+326,11,6,356,0020000226,,,0:00,3,7,0,1,1345,,,,,,0,,,,,,0,,,,,,,,,1:23 PM
+327,0,12,355,0020000226,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,66 - 78,12,,1:26 PM
+328,16,3,357,0020000226,Jones Free Throw Technical (21 PTS),,12:00,4,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,66 - 79,13,,1:26 PM
+329,5,1,358,0020000226,,,11:49,4,5,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,68 - 79,11,Stockton  Layup (7 PTS),1:26 PM
+330,1,5,359,0020000226,Ceballos Bad Pass Turnover (P1.T16),,11:35,4,4,5,0,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Stockton STEAL (2 STL),1:26 PM
+331,5,1,360,0020000226,,,11:29,4,5,5,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,70 - 79,9,Marshall  Layup (7 PTS) (Stockton 4 AST),1:26 PM
+332,11,6,361,0020000226,,,11:27,4,7,0,1,1345,,,,,,0,,,,,,0,,,,,,,,,1:27 PM
+333,0,11,366,0020000226,,,11:27,4,7,0,1,1345,,,,,,0,,,,,,0,,,,,,,,,1:27 PM
+334,16,3,362,0020000226,Jones Free Throw Technical (22 PTS),,11:27,4,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,70 - 80,10,,1:27 PM
+335,2,5,363,0020000226,Ceballos Lost Ball Turnover (P2.T17),,11:11,4,4,5,0,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Russell STEAL (6 STL),1:28 PM
+336,1,1,364,0020000226,,,11:04,4,5,5,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,73 - 80,7,Russell 24' 3PT Jump Shot (15 PTS) (Stockton 5 AST),1:28 PM
+337,1,9,365,0020000226,HEAT Timeout: Regular (Full 4 Short 2),,10:52,4,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,1:28 PM
+338,0,8,367,0020000226,SUB: Grant FOR Causwell,,10:44,4,4,4,0,190,Duane Causwell,MIA,Miami,1610612748.0,Heat,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,1:30 PM
+339,1,2,370,0020000226,MISS Jones 19' Jump Shot,,10:37,4,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:31 PM
+340,0,4,371,0020000226,,,10:34,4,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell REBOUND (Off:2 Def:5),1:31 PM
+341,1,2,372,0020000226,,,10:29,4,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Russell 24' 3PT Jump Shot,1:31 PM
+342,0,4,373,0020000226,,,10:26,4,5,0,0,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Manning REBOUND (Off:1 Def:1),1:31 PM
+343,1,2,374,0020000226,,,10:09,4,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Russell 19' Jump Shot,1:31 PM
+344,0,4,375,0020000226,,,10:07,4,5,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Ostertag REBOUND (Off:3 Def:1),1:31 PM
+345,2,6,376,0020000226,Ceballos S.FOUL (P1.T1),,10:06,4,4,0,1,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:31 PM
+346,11,3,377,0020000226,,,10:06,4,5,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,74 - 80,6,Marshall Free Throw 1 of 2 (8 PTS),1:32 PM
+347,12,3,378,0020000226,,,10:06,4,5,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,75 - 80,5,Marshall Free Throw 2 of 2 (9 PTS),1:32 PM
+348,7,2,379,0020000226,MISS Grant  Dunk,,9:52,4,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:32 PM
+349,0,4,380,0020000226,Carter REBOUND (Off:1 Def:1),,9:50,4,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:32 PM
+350,1,2,381,0020000226,MISS Ceballos 24' 3PT Jump Shot,,9:47,4,4,0,0,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:32 PM
+351,0,4,382,0020000226,,,9:46,4,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,1:32 PM
+352,1,6,384,0020000226,Carter P.FOUL (P1.T2),,9:34,4,4,0,1,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:33 PM
+353,1,1,385,0020000226,,,9:23,4,5,0,0,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,77 - 80,3,Manning 6' Jump Shot (4 PTS),1:33 PM
+354,2,6,386,0020000226,Grant S.FOUL (P4.T3),,9:23,4,4,0,1,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:33 PM
+355,10,3,387,0020000226,,,9:23,4,5,0,0,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Manning Free Throw 1 of 1,1:34 PM
+356,0,4,389,0020000226,Carter REBOUND (Off:1 Def:2),,9:21,4,4,0,0,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:34 PM
+357,1,5,390,0020000226,Carter Bad Pass Turnover (P2.T18),,9:18,4,4,5,0,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Stockton STEAL (3 STL),1:34 PM
+358,14,6,391,0020000226,Carter FLAGRANT.FOUL.TYPE1 (P2.T4),,9:15,4,4,0,1,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:34 PM
+359,18,3,392,0020000226,,,9:15,4,5,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Stockton Free Throw Flagrant 1 of 2,1:34 PM
+360,1,4,394,0020000226,,,9:15,4,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,1:34 PM
+361,19,3,395,0020000226,,,9:15,4,5,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,78 - 80,2,Stockton Free Throw Flagrant 2 of 2 (8 PTS),1:34 PM
+362,0,8,396,0020000226,SUB: Hardaway FOR Carter,,9:15,4,4,4,0,1853,Anthony Carter,MIA,Miami,1610612748.0,Heat,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,1:35 PM
+363,0,8,397,0020000226,SUB: Mason FOR Green,,9:15,4,4,4,0,920,A.C. Green,MIA,Miami,1610612748.0,Heat,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,1:35 PM
+364,5,2,399,0020000226,,,9:05,4,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Russell  Layup,1:35 PM
+365,0,4,400,0020000226,Grant REBOUND (Off:1 Def:7),,9:03,4,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:35 PM
+366,1,2,401,0020000226,MISS Grant 18' Jump Shot,,8:57,4,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:35 PM
+367,0,4,402,0020000226,Jones REBOUND (Off:2 Def:0),,8:54,4,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:35 PM
+368,1,2,403,0020000226,MISS Jones 25' 3PT Jump Shot,,8:40,4,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:35 PM
+369,0,4,404,0020000226,,,8:38,4,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell REBOUND (Off:2 Def:6),1:35 PM
+370,5,2,405,0020000226,,,8:30,4,5,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Marshall  Layup,1:36 PM
+371,0,4,406,0020000226,Grant REBOUND (Off:1 Def:8),,8:29,4,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:36 PM
+372,4,6,407,0020000226,Ceballos OFF.Foul (P2),,8:29,4,4,0,1,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:36 PM
+373,5,5,408,0020000226,Ceballos Foul Turnover (P3.T19),,8:29,4,4,0,0,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:36 PM
+374,0,8,409,0020000226,SUB: Bowen FOR Jones,,8:29,4,4,4,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,1:36 PM
+375,0,8,411,0020000226,,,8:29,4,5,5,0,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Malone FOR Manning,1:36 PM
+376,1,2,412,0020000226,,,8:17,4,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Malone 20' Jump Shot,1:37 PM
+377,0,4,413,0020000226,Mason REBOUND (Off:1 Def:5),,8:14,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:37 PM
+378,1,2,414,0020000226,MISS Grant 17' Jump Shot,,7:59,4,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:37 PM
+379,0,4,415,0020000226,Mason REBOUND (Off:2 Def:5),,7:56,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:37 PM
+380,2,6,416,0020000226,,,7:53,4,5,0,1,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell S.FOUL (P2.T1),1:37 PM
+381,11,3,417,0020000226,Mason Free Throw 1 of 2 (18 PTS),,7:53,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,78 - 81,3,,1:37 PM
+382,12,3,418,0020000226,MISS Mason Free Throw 2 of 2,,7:53,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:38 PM
+383,0,4,419,0020000226,,,7:51,4,5,0,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Ostertag REBOUND (Off:3 Def:2),1:38 PM
+384,1,1,421,0020000226,,,7:39,4,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,80 - 81,1,Malone 17' Jump Shot (18 PTS),1:38 PM
+385,2,5,422,0020000226,Grant Lost Ball Turnover (P3.T20),,7:16,4,4,5,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Stockton STEAL (4 STL),1:38 PM
+386,1,6,423,0020000226,Grant P.FOUL (P5.PN),,7:16,4,4,0,1,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:38 PM
+387,11,3,424,0020000226,,,7:16,4,5,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,81 - 81,TIE,Stockton Free Throw 1 of 2 (9 PTS),1:39 PM
+388,12,3,425,0020000226,,,7:16,4,5,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,82 - 81,-1,Stockton Free Throw 2 of 2 (10 PTS),1:39 PM
+389,1,2,426,0020000226,MISS Hardaway 25' 3PT Jump Shot,,6:53,4,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:39 PM
+390,0,4,427,0020000226,,,6:51,4,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Malone REBOUND (Off:0 Def:4),1:39 PM
+391,1,2,428,0020000226,,,6:32,4,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Malone 16' Jump Shot,1:40 PM
+392,0,4,429,0020000226,Grant REBOUND (Off:1 Def:9),,6:30,4,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:40 PM
+393,2,6,430,0020000226,,,6:17,4,5,0,1,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Malone S.FOUL (P3.T2),1:40 PM
+394,11,3,431,0020000226,Mason Free Throw 1 of 2 (19 PTS),,6:17,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,82 - 82,TIE,,1:40 PM
+395,0,8,432,0020000226,SUB: Jones FOR Ceballos,,6:17,4,4,4,0,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,1:41 PM
+396,12,3,433,0020000226,Mason Free Throw 2 of 2 (20 PTS),,6:17,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,82 - 83,1,,1:41 PM
+397,5,2,434,0020000226,,,6:03,4,5,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Marshall  Layup,1:41 PM
+398,0,4,435,0020000226,Grant REBOUND (Off:1 Def:10),,6:01,4,4,0,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:41 PM
+399,1,6,436,0020000226,,,5:54,4,5,0,1,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Malone P.FOUL (P4.T3),1:41 PM
+400,1,9,437,0020000226,HEAT Timeout: Regular (Full 5 Short 2),,5:54,4,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,1:41 PM
+401,46,1,441,0020000226,Jones 8' Running Jump Shot (24 PTS),,5:39,4,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,82 - 85,3,,1:44 PM
+402,2,6,442,0020000226,Grant S.FOUL (P6.PN),,5:24,4,4,0,1,258,Brian Grant,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:44 PM
+403,0,8,444,0020000226,,,5:24,4,5,5,0,731,Greg Ostertag,UTA,Utah,1610612762.0,Jazz,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Manning FOR Ostertag,1:44 PM
+404,0,8,445,0020000226,SUB: Ceballos FOR Grant,,5:24,4,4,4,0,258,Brian Grant,MIA,Miami,1610612748.0,Heat,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,,,,1:45 PM
+405,11,3,446,0020000226,,,5:24,4,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,83 - 85,2,Malone Free Throw 1 of 2 (19 PTS),1:45 PM
+406,12,3,447,0020000226,,,5:24,4,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,84 - 85,1,Malone Free Throw 2 of 2 (20 PTS),1:45 PM
+407,5,2,449,0020000226,MISS Ceballos  Layup,,5:09,4,4,0,0,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:46 PM
+408,0,4,450,0020000226,,,5:08,4,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,1:46 PM
+409,4,6,451,0020000226,,,4:58,4,5,0,1,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell OFF.Foul (P3),1:46 PM
+410,5,5,452,0020000226,,,4:58,4,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell Foul Turnover (P1.T13),1:46 PM
+411,4,6,453,0020000226,Jones OFF.Foul (P2),,4:44,4,4,0,1,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:47 PM
+412,5,5,454,0020000226,Jones Foul Turnover (P3.T21),,4:44,4,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:47 PM
+413,5,2,456,0020000226,Jones BLOCK (1 BLK),,4:36,4,5,0,4,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,,,MISS Russell  Layup,1:47 PM
+414,0,4,457,0020000226,,,4:34,4,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell REBOUND (Off:3 Def:6),1:47 PM
+415,5,1,458,0020000226,,,4:31,4,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,86 - 85,-1,Russell  Layup (17 PTS),1:47 PM
+416,1,2,459,0020000226,MISS Bowen 15' Jump Shot,,4:14,4,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:47 PM
+417,0,4,460,0020000226,,,4:12,4,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Malone REBOUND (Off:0 Def:5),1:47 PM
+418,3,2,462,0020000226,,,3:49,4,5,0,0,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Stockton 5' Hook Shot,1:48 PM
+419,0,4,463,0020000226,Mason REBOUND (Off:2 Def:6),,3:47,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:48 PM
+420,1,6,464,0020000226,,,3:44,4,5,0,1,330,Danny Manning,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Manning P.FOUL (P4.T4),1:48 PM
+421,1,6,465,0020000226,,,3:31,4,5,0,1,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Stockton P.FOUL (P2.PN),1:48 PM
+422,11,3,466,0020000226,Hardaway Free Throw 1 of 2 (14 PTS),,3:31,4,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,86 - 86,TIE,,1:48 PM
+423,12,3,467,0020000226,Hardaway Free Throw 2 of 2 (15 PTS),,3:31,4,4,0,0,896,Tim Hardaway,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,86 - 87,1,,1:49 PM
+424,1,5,468,0020000226,Ceballos STEAL (1 STL),,3:18,4,5,4,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,,,Russell Bad Pass Turnover (P2.T14),1:49 PM
+425,1,6,469,0020000226,,,3:17,4,5,0,1,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Marshall P.FOUL (P2.PN),1:49 PM
+426,11,6,470,0020000226,,,3:17,4,5,0,1,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Marshall T.FOUL (P2.PN),1:49 PM
+427,16,3,471,0020000226,Jones Free Throw Technical (25 PTS),,3:17,4,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,86 - 88,2,,1:50 PM
+428,11,3,472,0020000226,Ceballos Free Throw 1 of 2 (7 PTS),,3:17,4,4,0,0,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,86 - 89,3,,1:50 PM
+429,12,3,473,0020000226,Ceballos Free Throw 2 of 2 (8 PTS),,3:17,4,4,0,0,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,86 - 90,4,,1:50 PM
+430,3,1,474,0020000226,,,3:02,4,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,88 - 90,2,Malone 5' Hook Shot (22 PTS),1:50 PM
+431,1,2,475,0020000226,MISS Bowen 25' 3PT Jump Shot,,2:43,4,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:51 PM
+432,0,4,476,0020000226,,,2:41,4,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Malone REBOUND (Off:0 Def:6),1:51 PM
+433,1,2,477,0020000226,,,2:26,4,5,0,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Marshall 25' 3PT Jump Shot,1:51 PM
+434,0,4,478,0020000226,Mason REBOUND (Off:2 Def:7),,2:24,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:51 PM
+435,2,6,479,0020000226,,,2:19,4,5,0,1,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Russell S.FOUL (P4.PN),1:51 PM
+436,1,9,480,0020000226,,,2:19,4,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Timeout: Regular (Reg.4 Short 1),1:51 PM
+437,0,8,482,0020000226,,,2:19,4,5,5,0,923,Donyell Marshall,UTA,Utah,1610612762.0,Jazz,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Starks FOR Marshall,1:54 PM
+438,11,3,484,0020000226,Mason Free Throw 1 of 2 (21 PTS),,2:19,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,88 - 91,3,,1:54 PM
+439,12,3,485,0020000226,Mason Free Throw 2 of 2 (22 PTS),,2:19,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,88 - 92,4,,1:54 PM
+440,1,2,486,0020000226,,,2:02,4,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Starks  3PT Jump Shot,1:54 PM
+441,0,4,487,0020000226,,,2:01,4,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Starks REBOUND (Off:2 Def:0),1:54 PM
+442,1,2,488,0020000226,,,1:55,4,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Starks 25' 3PT Jump Shot,1:55 PM
+443,0,4,489,0020000226,Jones REBOUND (Off:2 Def:1),,1:52,4,4,0,0,224,Eddie Jones,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:55 PM
+444,1,2,490,0020000226,MISS Mason 17' Jump Shot,,1:31,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:55 PM
+445,0,4,491,0020000226,,,1:28,4,5,0,0,317,John Starks,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Starks REBOUND (Off:2 Def:1),1:55 PM
+446,5,1,492,0020000226,,,1:14,4,5,5,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,90 - 92,2,Malone  Layup (24 PTS) (Stockton 6 AST),1:55 PM
+447,2,6,493,0020000226,Ceballos S.FOUL (P3.PN),,1:14,4,4,0,1,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:55 PM
+448,10,3,494,0020000226,,,1:14,4,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,91 - 92,1,Malone Free Throw 1 of 1 (25 PTS),1:56 PM
+449,2,5,496,0020000226,Mason Lost Ball Turnover (P4.T22),,0:53,4,4,0,0,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:56 PM
+450,1,6,497,0020000226,Ceballos P.FOUL (P4.PN),,0:42,4,4,0,1,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:57 PM
+451,11,3,498,0020000226,,,0:42,4,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Russell Free Throw 1 of 2,1:57 PM
+452,1,4,499,0020000226,,,0:42,4,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,1:57 PM
+453,12,3,500,0020000226,,,0:42,4,5,0,0,935,Bryon Russell,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,92 - 92,TIE,Russell Free Throw 2 of 2 (18 PTS),1:57 PM
+454,1,2,501,0020000226,MISS Ceballos 17' Jump Shot,,0:18,4,4,0,0,76,Cedric Ceballos,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,1:58 PM
+455,0,4,502,0020000226,,,0:16,4,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Malone REBOUND (Off:0 Def:7),1:58 PM
+456,5,2,503,0020000226,Mason BLOCK (1 BLK),,0:03,4,5,0,4,304,John Stockton,UTA,Utah,1610612762.0,Jazz,0,,,,,,193,Anthony Mason,MIA,Miami,1610612748.0,Heat,,,MISS Stockton  Layup,1:58 PM
+457,0,4,505,0020000226,,,0:02,4,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Malone REBOUND (Off:1 Def:7),1:58 PM
+458,4,1,504,0020000226,,,0:02,4,5,0,0,252,Karl Malone,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,94 - 92,-2,Malone  Tip Shot (27 PTS),1:58 PM
+459,1,9,506,0020000226,HEAT Timeout: Regular (Full 6 Short 2),,0:02,4,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,1:58 PM
+460,2,9,509,0020000226,HEAT Timeout: Short (Full 6 Short 3),,0:02,4,2,0,0,1610612748,,,,,,0,,,,,,0,,,,,,,,,2:00 PM
+461,1,5,511,0020000226,Bowen Bad Pass Turnover (P2.T23),,0:02,4,4,0,0,1477,Bruce Bowen,MIA,Miami,1610612748.0,Heat,0,,,,,,0,,,,,,,,,2:02 PM
+462,0,13,512,0020000226,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,94 - 92,-2,,2:03 PM

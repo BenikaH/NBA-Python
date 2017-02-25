@@ -1,0 +1,476 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020000763,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:10 AM
+1,0,10,1,0020000763,Jump Ball White vs. Reeves: Tip to Bibby,,12:00,1,4,5,5,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,,,,11:10 AM
+2,1,6,2,0020000763,Richmond P.FOUL (P1.T1),,11:46,1,4,0,1,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:11 AM
+3,1,2,3,0020000763,,,11:34,1,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Bibby 4' Jump Shot,11:11 AM
+4,0,4,4,0020000763,,,11:31,1,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long REBOUND (Off:1 Def:0),11:11 AM
+5,5,2,5,0020000763,,,11:18,1,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Abdur-Rahim 3' Layup,11:11 AM
+6,0,4,6,0020000763,,,11:17,1,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,11:12 AM
+7,5,2,7,0020000763,,,11:15,1,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Dickerson 1' Layup,11:12 AM
+8,0,4,8,0020000763,White REBOUND (Off:0 Def:1),,11:13,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:12 AM
+9,41,1,9,0020000763,Howard 1' Running Layup (2 PTS) (Richmond 1 AST),,10:52,1,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0 - 2,2,,11:12 AM
+10,1,5,10,0020000763,Hamilton STEAL (1 STL),,10:37,1,5,4,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Abdur-Rahim Bad Pass Turnover (P1.T1),11:12 AM
+11,41,1,11,0020000763,Whitney 2' Running Layup (2 PTS) (Hamilton 1 AST),,10:32,1,4,4,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0 - 4,4,,11:13 AM
+12,2,6,12,0020000763,White S.FOUL (P1.T2),,10:09,1,4,0,1,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:13 AM
+13,11,3,13,0020000763,,,10:09,1,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Abdur-Rahim Free Throw 1 of 2,11:13 AM
+14,1,4,14,0020000763,,,10:09,1,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,11:13 AM
+15,12,3,15,0020000763,,,10:09,1,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,1 - 4,3,Abdur-Rahim Free Throw 2 of 2 (1 PTS),11:13 AM
+16,1,2,16,0020000763,MISS Hamilton 12' Jump Shot,,9:52,1,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:14 AM
+17,0,4,17,0020000763,,,9:50,1,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long REBOUND (Off:1 Def:1),11:14 AM
+18,1,5,18,0020000763,,,9:41,1,5,0,1,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Bibby Bad Pass Turnover (P1.T2),11:14 AM
+19,5,1,19,0020000763,White 1' Layup (2 PTS) (Hamilton 2 AST),,9:41,1,4,4,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,1 - 6,5,,11:14 AM
+20,2,6,20,0020000763,,,9:41,1,5,0,1,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long S.FOUL (P1.T1),11:14 AM
+21,10,3,21,0020000763,White Free Throw 1 of 1 (3 PTS),,9:41,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,1 - 7,6,,11:14 AM
+22,2,9,22,0020000763,,,9:35,1,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Timeout: Short (Reg.0 Short 1),11:15 AM
+23,1,1,24,0020000763,,,9:20,1,5,5,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,3 - 7,4,Dickerson 21' Jump Shot (2 PTS) (Abdur-Rahim 1 AST),11:16 AM
+24,1,2,25,0020000763,MISS Richmond 19' Jump Shot,,9:02,1,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:16 AM
+25,0,4,26,0020000763,,,9:01,1,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Bibby REBOUND (Off:0 Def:1),11:16 AM
+26,1,2,27,0020000763,,,8:55,1,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Bibby 20' Jump Shot,11:16 AM
+27,0,4,28,0020000763,White REBOUND (Off:0 Def:2),,8:53,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:16 AM
+28,1,2,29,0020000763,MISS Richmond 26' 3PT Jump Shot,,8:47,1,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:16 AM
+29,0,4,30,0020000763,,,8:45,1,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long REBOUND (Off:1 Def:2),11:16 AM
+30,5,2,31,0020000763,White BLOCK (1 BLK),,8:38,1,5,0,4,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,,,MISS Abdur-Rahim 3' Layup,11:17 AM
+31,0,4,32,0020000763,Whitney REBOUND (Off:0 Def:1),,8:36,1,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:17 AM
+32,5,2,33,0020000763,MISS White 2' Layup,,8:30,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:17 AM
+33,0,4,34,0020000763,White REBOUND (Off:1 Def:2),,8:27,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:17 AM
+34,8,1,35,0020000763,White 1' Slam Dunk (5 PTS),,8:26,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,3 - 9,6,,11:17 AM
+35,46,1,36,0020000763,,,8:05,1,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,5 - 9,4,Long 6' Running Jump Shot (2 PTS),11:17 AM
+36,3,1,37,0020000763,Howard 4' Hook Shot (4 PTS) (Whitney 1 AST),,7:55,1,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,5 - 11,6,,11:17 AM
+37,1,2,38,0020000763,,,7:39,1,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Reeves 14' Jump Shot,11:18 AM
+38,0,4,39,0020000763,,,7:37,1,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long REBOUND (Off:2 Def:2),11:18 AM
+39,41,1,40,0020000763,,,7:33,1,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,7 - 11,4,Dickerson 1' Running Layup (4 PTS),11:18 AM
+40,56,1,41,0020000763,Howard 3' Running Hook Shot (6 PTS) (Richmond 2 AST),,7:23,1,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,7 - 13,6,,11:18 AM
+41,5,1,42,0020000763,,,7:05,1,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,9 - 13,4,Long 2' Layup (4 PTS),11:18 AM
+42,1,2,43,0020000763,MISS Richmond 5' Jump Shot,,6:44,1,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:18 AM
+43,0,4,44,0020000763,,,6:42,1,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long REBOUND (Off:2 Def:3),11:18 AM
+44,1,2,45,0020000763,,,6:31,1,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Abdur-Rahim 6' Jump Shot,11:19 AM
+45,0,4,46,0020000763,,,6:30,1,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Reeves REBOUND (Off:1 Def:0),11:19 AM
+46,5,1,47,0020000763,,,6:29,1,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,11 - 13,2,Reeves 1' Layup (2 PTS),11:19 AM
+47,1,2,48,0020000763,MISS Richmond 23' Jump Shot,,6:10,1,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:19 AM
+48,0,4,49,0020000763,,,6:08,1,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long REBOUND (Off:2 Def:4),11:19 AM
+49,1,1,50,0020000763,,,6:00,1,5,5,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,14 - 13,-1,Bibby 27' 3PT Jump Shot (3 PTS) (Dickerson 1 AST),11:19 AM
+50,1,9,51,0020000763,WIZARDS Timeout: Regular (Full 1 Short 0),,5:50,1,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,11:19 AM
+51,0,8,52,0020000763,SUB: Nesby FOR Richmond,,5:50,1,4,4,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:20 AM
+52,5,2,54,0020000763,MISS White 2' Layup,,5:31,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:21 AM
+53,0,4,55,0020000763,,,5:30,1,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long REBOUND (Off:2 Def:5),11:22 AM
+54,2,5,56,0020000763,,,5:27,1,5,0,1,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim Lost Ball Turnover (P2.T3),11:22 AM
+55,1,2,57,0020000763,MISS Nesby 20' Jump Shot,,5:06,1,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:22 AM
+56,0,4,58,0020000763,White REBOUND (Off:2 Def:2),,5:05,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:22 AM
+57,1,1,59,0020000763,Whitney 26' 3PT Jump Shot (5 PTS),,4:58,1,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,14 - 16,2,,11:22 AM
+58,1,5,60,0020000763,Whitney STEAL (1 STL),,4:44,1,5,4,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Dickerson Bad Pass Turnover (P1.T4),11:22 AM
+59,2,5,61,0020000763,Whitney Lost Ball Turnover (P1.T1),,4:40,1,4,5,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,Long STEAL (1 STL),11:22 AM
+60,1,5,62,0020000763,Howard STEAL (1 STL),,4:36,1,5,4,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Bibby Bad Pass Turnover (P2.T5),11:23 AM
+61,5,2,63,0020000763,MISS Hamilton 3' Layup,,4:30,1,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:23 AM
+62,0,4,64,0020000763,,,4:28,1,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim REBOUND (Off:0 Def:1),11:23 AM
+63,1,2,65,0020000763,,,4:05,1,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Bibby 21' Jump Shot,11:23 AM
+64,0,4,66,0020000763,Nesby REBOUND (Off:0 Def:1),,4:03,1,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:23 AM
+65,1,5,67,0020000763,Hamilton Bad Pass Turnover (P1.T2),,4:00,1,4,5,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,Long STEAL (2 STL),11:23 AM
+66,5,1,68,0020000763,,,3:52,1,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,16 - 16,TIE,Dickerson 2' Layup (6 PTS),11:23 AM
+67,1,2,69,0020000763,MISS Howard 7' Jump Shot,,3:27,1,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:24 AM
+68,0,4,70,0020000763,Nesby REBOUND (Off:1 Def:1),,3:25,1,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:24 AM
+69,1,2,71,0020000763,MISS Nesby 4' Jump Shot,,3:24,1,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:24 AM
+70,0,4,72,0020000763,,,3:22,1,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long REBOUND (Off:2 Def:6),11:24 AM
+71,41,1,73,0020000763,,,3:12,1,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,18 - 16,-2,Dickerson 2' Running Layup (8 PTS),11:24 AM
+72,1,2,74,0020000763,MISS White 4' Jump Shot,,2:55,1,4,0,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:24 AM
+73,0,4,75,0020000763,,,2:55,1,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,11:24 AM
+74,3,6,76,0020000763,White L.B.FOUL (P2.T3),,2:55,1,4,0,1,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:24 AM
+75,1,9,77,0020000763,,,2:55,1,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Timeout: Regular (Reg.1 Short 1),11:24 AM
+76,0,8,78,0020000763,SUB: Jones FOR White,,2:55,1,4,4,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:25 AM
+77,0,8,79,0020000763,,,2:55,1,5,5,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Strickland FOR Abdur-Rahim,11:25 AM
+78,0,8,81,0020000763,SUB: Smith FOR Howard,,2:55,1,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:26 AM
+79,1,2,82,0020000763,,,2:43,1,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Dickerson 9' Jump Shot,11:27 AM
+80,0,4,83,0020000763,Smith REBOUND (Off:0 Def:1),,2:42,1,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:27 AM
+81,1,6,84,0020000763,,,2:30,1,5,0,1,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Strickland P.FOUL (P1.T2),11:27 AM
+82,0,8,85,0020000763,SUB: Richmond FOR Whitney,,2:30,1,4,4,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:27 AM
+83,5,1,86,0020000763,Jones 1' Layup (2 PTS) (Hamilton 3 AST),,2:18,1,4,4,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,18 - 18,TIE,,11:28 AM
+84,1,6,87,0020000763,Hamilton P.FOUL (P1.T4),,2:11,1,4,0,1,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:28 AM
+85,0,8,88,0020000763,,,2:11,1,5,5,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Abdul-Rauf FOR Bibby,11:28 AM
+86,1,1,89,0020000763,,,1:53,1,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,20 - 18,-2,Long 16' Jump Shot (6 PTS),11:29 AM
+87,5,2,90,0020000763,MISS Hamilton  Layup,,1:47,1,4,0,5,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,,,Long BLOCK (1 BLK),11:29 AM
+88,0,4,91,0020000763,,,1:44,1,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Reeves REBOUND (Off:1 Def:1),11:29 AM
+89,1,1,92,0020000763,,,1:41,1,5,5,0,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,22 - 18,-4,Strickland 21' Jump Shot (2 PTS) (Reeves 1 AST),11:29 AM
+90,1,1,93,0020000763,Jones 18' Jump Shot (4 PTS) (Richmond 3 AST),,1:23,1,4,4,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,22 - 20,-2,,11:29 AM
+91,1,1,94,0020000763,,,1:08,1,5,5,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,24 - 20,-4,Reeves 14' Jump Shot (4 PTS) (Abdul-Rauf 1 AST),11:30 AM
+92,1,1,95,0020000763,Hamilton 13' Jump Shot (2 PTS) (Nesby 1 AST),,0:51,1,4,4,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,24 - 22,-2,,11:30 AM
+93,46,1,96,0020000763,,,0:36,1,5,0,0,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,26 - 22,-4,Strickland 17' Running Jump Shot (4 PTS),11:30 AM
+94,2,5,97,0020000763,Hamilton Lost Ball Turnover (P2.T3),,0:31,1,4,0,1,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:30 AM
+95,1,2,98,0020000763,,,0:10,1,5,0,0,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Strickland 10' Jump Shot,11:31 AM
+96,0,4,99,0020000763,Jones REBOUND (Off:0 Def:1),,0:08,1,4,0,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:31 AM
+97,2,6,100,0020000763,,,0:04,1,5,0,1,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long S.FOUL (P2.T3),11:31 AM
+98,11,3,101,0020000763,Richmond Free Throw 1 of 2 (1 PTS),,0:04,1,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,26 - 23,-3,,11:31 AM
+99,0,8,102,0020000763,,,0:04,1,5,5,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Bibby FOR Long,11:32 AM
+100,0,8,103,0020000763,SUB: Lopez FOR Jones,,0:04,1,4,4,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,1732,Felipe Lopez,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:32 AM
+101,12,3,104,0020000763,Richmond Free Throw 2 of 2 (2 PTS),,0:04,1,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,26 - 24,-2,,11:32 AM
+102,1,2,105,0020000763,,,0:01,1,5,0,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Abdul-Rauf 39' 3PT Jump Shot,11:32 AM
+103,0,4,106,0020000763,,,0:00,1,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,11:32 AM
+104,0,13,107,0020000763,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,26 - 24,-2,,11:32 AM
+105,0,12,109,0020000763,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,26 - 24,-2,,11:35 AM
+106,4,6,110,0020000763,Jones OFF.Foul (P1),,11:50,2,4,0,1,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:35 AM
+107,5,5,111,0020000763,Jones Foul Turnover (P1.T4),,11:50,2,4,0,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:35 AM
+108,1,2,112,0020000763,,,11:28,2,5,0,0,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Swift 11' Jump Shot,11:36 AM
+109,0,4,113,0020000763,,,11:27,2,5,0,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Massenburg REBOUND (Off:1 Def:0),11:36 AM
+110,5,1,114,0020000763,,,11:26,2,5,0,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,28 - 24,-4,Massenburg 2' Layup (2 PTS),11:36 AM
+111,1,1,115,0020000763,Whitney 24' 3PT Jump Shot (8 PTS),,11:12,2,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,28 - 27,-1,,11:36 AM
+112,1,1,116,0020000763,,,10:54,2,5,5,0,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,30 - 27,-3,Strickland 23' Jump Shot (6 PTS) (Abdul-Rauf 2 AST),11:36 AM
+113,1,6,117,0020000763,,,10:37,2,5,0,1,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Dickerson P.FOUL (P1.T1),11:37 AM
+114,0,8,118,0020000763,,,10:37,2,5,5,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Abdur-Rahim FOR Dickerson,11:37 AM
+115,2,6,119,0020000763,,,10:30,2,5,0,1,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Swift S.FOUL (P1.T2),11:37 AM
+116,11,3,120,0020000763,Richmond Free Throw 1 of 2 (3 PTS),,10:30,2,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,30 - 28,-2,,11:37 AM
+117,12,3,121,0020000763,Richmond Free Throw 2 of 2 (4 PTS),,10:30,2,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,30 - 29,-1,,11:38 AM
+118,1,1,122,0020000763,,,10:17,2,5,5,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,32 - 29,-3,Massenburg 23' Jump Shot (4 PTS) (Abdul-Rauf 3 AST),11:38 AM
+119,4,6,123,0020000763,Richmond OFF.Foul (P2),,10:04,2,4,0,1,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:38 AM
+120,5,5,124,0020000763,Richmond Foul Turnover (P1.T5),,10:04,2,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:38 AM
+121,1,1,125,0020000763,,,9:55,2,5,0,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,34 - 29,-5,Abdul-Rauf 22' Jump Shot (2 PTS),11:39 AM
+122,1,2,126,0020000763,MISS Whitney 20' Jump Shot,,9:43,2,4,0,5,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,,,Abdul-Rauf BLOCK (1 BLK),11:39 AM
+123,0,4,127,0020000763,,,9:40,2,5,0,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Massenburg REBOUND (Off:1 Def:1),11:39 AM
+124,2,5,128,0020000763,,,9:34,2,5,0,1,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdul-Rauf Lost Ball Turnover (P1.T6),11:39 AM
+125,1,2,129,0020000763,MISS Richmond 4' Jump Shot,,9:22,2,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:39 AM
+126,0,4,130,0020000763,,,9:20,2,5,0,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Massenburg REBOUND (Off:1 Def:2),11:39 AM
+127,1,2,131,0020000763,,,9:12,2,5,0,0,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Swift 16' Jump Shot,11:39 AM
+128,0,4,132,0020000763,Whitney REBOUND (Off:0 Def:2),,9:11,2,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:39 AM
+129,1,1,133,0020000763,Nesby 25' 3PT Jump Shot (3 PTS) (Whitney 2 AST),,9:00,2,4,4,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,34 - 32,-2,,11:40 AM
+130,1,6,134,0020000763,Whitney P.FOUL (P1.T1),,8:46,2,4,0,1,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:40 AM
+131,4,9,135,0020000763,,,8:46,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:40 AM
+132,0,8,137,0020000763,SUB: Howard FOR Jones,,8:46,2,4,4,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:42 AM
+133,1,2,138,0020000763,Nesby BLOCK (1 BLK),,8:37,2,5,0,4,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,,,MISS Abdur-Rahim 4' Jump Shot,11:42 AM
+134,0,4,139,0020000763,,,8:37,2,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,11:42 AM
+135,1,1,140,0020000763,,,8:32,2,5,5,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,36 - 32,-4,Abdul-Rauf 17' Jump Shot (4 PTS) (Abdur-Rahim 2 AST),11:43 AM
+136,1,2,141,0020000763,MISS Richmond 26' 3PT Jump Shot,,8:14,2,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:43 AM
+137,0,4,142,0020000763,,,8:12,2,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim REBOUND (Off:0 Def:2),11:43 AM
+138,1,1,143,0020000763,,,8:04,2,5,5,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,38 - 32,-6,Abdur-Rahim 20' Jump Shot (3 PTS) (Abdul-Rauf 4 AST),11:43 AM
+139,1,1,144,0020000763,Howard 6' Jump Shot (8 PTS) (Richmond 4 AST),,7:51,2,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,38 - 34,-4,,11:44 AM
+140,3,1,145,0020000763,,,7:29,2,5,0,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,40 - 34,-6,Massenburg 6' Hook Shot (6 PTS),11:44 AM
+141,1,2,146,0020000763,MISS Howard 5' Jump Shot,,7:12,2,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:44 AM
+142,0,4,147,0020000763,,,7:11,2,5,0,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Massenburg REBOUND (Off:1 Def:3),11:44 AM
+143,1,6,148,0020000763,Smith P.FOUL (P1.T2),,7:03,2,4,0,1,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:44 AM
+144,0,8,149,0020000763,SUB: Hamilton FOR Richmond,,7:03,2,4,4,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:45 AM
+145,0,8,150,0020000763,,,7:03,2,5,5,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Bibby FOR Abdul-Rauf,11:45 AM
+146,0,8,151,0020000763,SUB: White FOR Smith,,7:03,2,4,4,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:45 AM
+147,2,6,152,0020000763,Nesby S.FOUL (P1.T3),,6:52,2,4,0,1,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:45 AM
+148,0,8,153,0020000763,,,6:52,2,5,5,0,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Abdul-Rauf FOR Strickland,11:45 AM
+149,11,3,154,0020000763,,,6:52,2,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,41 - 34,-7,Abdur-Rahim Free Throw 1 of 2 (4 PTS),11:45 AM
+150,12,3,155,0020000763,,,6:52,2,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,42 - 34,-8,Abdur-Rahim Free Throw 2 of 2 (5 PTS),11:46 AM
+151,1,5,156,0020000763,Nesby Bad Pass Turnover (P1.T6),,6:38,2,4,5,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,Swift STEAL (1 STL),11:46 AM
+152,1,2,157,0020000763,,,6:28,2,5,0,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Massenburg 5' Jump Shot,11:46 AM
+153,0,4,158,0020000763,Nesby REBOUND (Off:1 Def:2),,6:27,2,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:47 AM
+154,1,1,159,0020000763,Hamilton 21' Jump Shot (4 PTS) (Nesby 2 AST),,6:13,2,4,4,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,42 - 36,-6,,11:47 AM
+155,2,6,160,0020000763,Whitney S.FOUL (P2.T4),,6:00,2,4,0,1,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:47 AM
+156,11,3,161,0020000763,,,6:00,2,5,0,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,43 - 36,-7,Abdul-Rauf Free Throw 1 of 2 (5 PTS),11:48 AM
+157,12,3,162,0020000763,,,6:00,2,5,0,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,44 - 36,-8,Abdul-Rauf Free Throw 2 of 2 (6 PTS),11:48 AM
+158,2,6,163,0020000763,,,5:42,2,5,0,1,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Massenburg S.FOUL (P1.T3),11:48 AM
+159,1,9,164,0020000763,WIZARDS Timeout: Regular (Full 2 Short 0),,5:42,2,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,11:48 AM
+160,0,8,166,0020000763,,,5:42,2,5,5,0,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Dickerson FOR Swift,11:50 AM
+161,11,3,167,0020000763,Howard Free Throw 1 of 2 (9 PTS),,5:42,2,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,44 - 37,-7,,11:50 AM
+162,12,3,168,0020000763,MISS Howard Free Throw 2 of 2,,5:42,2,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:51 AM
+163,0,4,169,0020000763,,,5:41,2,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Dickerson REBOUND (Off:0 Def:1),11:51 AM
+164,5,1,170,0020000763,,,5:28,2,5,5,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,46 - 37,-9,Massenburg 2' Layup (8 PTS) (Abdul-Rauf 5 AST),11:51 AM
+165,5,2,171,0020000763,MISS Howard 2' Layup,,5:12,2,4,0,5,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,,,Massenburg BLOCK (1 BLK),11:52 AM
+166,0,4,172,0020000763,Howard REBOUND (Off:1 Def:0),,5:09,2,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:52 AM
+167,5,1,173,0020000763,Howard 2' Layup (11 PTS),,5:08,2,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,46 - 39,-7,,11:52 AM
+168,0,8,174,0020000763,,,4:53,2,5,5,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Swift FOR Abdul-Rauf,11:52 AM
+169,0,8,175,0020000763,SUB: Lopez FOR Nesby,,4:53,2,4,4,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,1732,Felipe Lopez,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,11:52 AM
+170,1,1,176,0020000763,,,4:49,2,5,5,0,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,48 - 39,-9,Swift 3' Jump Shot (2 PTS) (Dickerson 2 AST),11:52 AM
+171,2,6,177,0020000763,Lopez S.FOUL (P1.PN),,4:49,2,4,0,1,1732,Felipe Lopez,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:52 AM
+172,10,3,178,0020000763,,,4:49,2,5,0,0,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Swift Free Throw 1 of 1,11:53 AM
+173,0,4,179,0020000763,Lopez REBOUND (Off:0 Def:1),,4:49,2,4,0,0,1732,Felipe Lopez,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:53 AM
+174,2,6,180,0020000763,,,4:32,2,5,0,1,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Massenburg S.FOUL (P2.T4),11:53 AM
+175,11,3,181,0020000763,Lopez Free Throw 1 of 2 (1 PTS),,4:32,2,4,0,0,1732,Felipe Lopez,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,48 - 40,-8,,11:53 AM
+176,0,8,183,0020000763,,,4:32,2,5,5,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Reeves FOR Massenburg,11:54 AM
+177,12,3,184,0020000763,Lopez Free Throw 2 of 2 (2 PTS),,4:32,2,4,0,0,1732,Felipe Lopez,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,48 - 41,-7,,11:54 AM
+178,2,5,185,0020000763,Lopez STEAL (1 STL),,4:16,2,5,4,0,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,1732,Felipe Lopez,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Swift Lost Ball Turnover (P1.T7),11:54 AM
+179,2,6,186,0020000763,,,4:13,2,5,0,1,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Dickerson S.FOUL (P2.PN),11:54 AM
+180,11,3,187,0020000763,Hamilton Free Throw 1 of 2 (5 PTS),,4:13,2,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,48 - 42,-6,,11:54 AM
+181,12,3,188,0020000763,Hamilton Free Throw 2 of 2 (6 PTS),,4:13,2,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,48 - 43,-5,,11:55 AM
+182,1,2,189,0020000763,,,3:56,2,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Dickerson 25' 3PT Jump Shot,11:55 AM
+183,0,4,190,0020000763,Whitney REBOUND (Off:0 Def:3),,3:54,2,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:55 AM
+184,1,6,191,0020000763,,,3:44,2,5,0,1,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Dickerson P.FOUL (P3.PN),11:56 AM
+185,11,3,192,0020000763,Hamilton Free Throw 1 of 2 (7 PTS),,3:44,2,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,48 - 44,-4,,11:56 AM
+186,0,8,193,0020000763,,,3:44,2,5,5,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Strickland FOR Dickerson,11:56 AM
+187,12,3,194,0020000763,Hamilton Free Throw 2 of 2 (8 PTS),,3:44,2,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,48 - 45,-3,,11:56 AM
+188,1,2,195,0020000763,,,3:33,2,5,0,0,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Strickland 17' Jump Shot,11:56 AM
+189,0,4,196,0020000763,,,3:31,2,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Reeves REBOUND (Off:2 Def:1),11:56 AM
+190,1,2,197,0020000763,,,3:20,2,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Abdur-Rahim 15' Jump Shot,11:57 AM
+191,0,4,198,0020000763,Howard REBOUND (Off:1 Def:1),,3:18,2,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:57 AM
+192,1,2,199,0020000763,MISS Lopez 21' Jump Shot,,2:55,2,4,0,0,1732,Felipe Lopez,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,11:57 AM
+193,0,4,200,0020000763,,,2:54,2,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Bibby REBOUND (Off:0 Def:2),11:57 AM
+194,1,1,201,0020000763,,,2:43,2,5,5,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,51 - 45,-6,Bibby 25' 3PT Jump Shot (6 PTS) (Abdur-Rahim 3 AST),11:57 AM
+195,1,5,202,0020000763,Hamilton Bad Pass Turnover (P3.T7),,2:26,2,4,5,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,Abdur-Rahim STEAL (1 STL),11:57 AM
+196,5,1,203,0020000763,,,2:20,2,5,5,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,53 - 45,-8,Abdur-Rahim  Layup (7 PTS) (Bibby 1 AST),11:58 AM
+197,2,9,204,0020000763,WIZARDS Timeout: Short (Full 2 Short 1),,2:09,2,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,11:58 AM
+198,1,9,205,0020000763,,,2:09,2,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Timeout: Regular (Reg.2 Short 1),11:58 AM
+199,0,8,207,0020000763,SUB: King FOR Hamilton,,2:09,2,4,4,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,1562,Gerard King,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:00 PM
+200,1,1,208,0020000763,Whitney  3PT Jump Shot (11 PTS) (Lopez 1 AST),,1:52,2,4,4,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,1732,Felipe Lopez,WAS,Washington,1610612764.0,Wizards,0,,,,,,53 - 48,-5,,12:01 PM
+201,3,1,209,0020000763,,,1:36,2,5,5,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,55 - 48,-7,Abdur-Rahim 4' Hook Shot (9 PTS) (Reeves 2 AST),12:01 PM
+202,1,2,210,0020000763,MISS Lopez 16' Jump Shot,,1:10,2,4,0,0,1732,Felipe Lopez,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:01 PM
+203,0,4,211,0020000763,,,1:08,2,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Bibby REBOUND (Off:0 Def:3),12:01 PM
+204,1,2,212,0020000763,,,1:00,2,5,0,0,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Strickland 25' 3PT Jump Shot,12:01 PM
+205,0,4,213,0020000763,,,0:57,2,5,0,0,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Swift REBOUND (Off:1 Def:0),12:02 PM
+206,5,1,214,0020000763,,,0:52,2,5,5,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,57 - 48,-9,Reeves 1' Layup (6 PTS) (Abdur-Rahim 4 AST),12:02 PM
+207,1,2,215,0020000763,MISS Whitney 25' 3PT Jump Shot,,0:33,2,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:02 PM
+208,0,4,216,0020000763,,,0:30,2,5,0,0,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Strickland REBOUND (Off:0 Def:1),12:02 PM
+209,5,1,217,0020000763,,,0:27,2,5,5,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,59 - 48,-11,Bibby 1' Layup (8 PTS) (Strickland 1 AST),12:02 PM
+210,2,6,218,0020000763,,,0:05,2,5,0,1,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim S.FOUL (P1.PN),12:03 PM
+211,0,8,219,0020000763,SUB: Smith FOR White,,0:05,2,4,4,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:03 PM
+212,11,3,220,0020000763,Lopez Free Throw 1 of 2 (3 PTS),,0:05,2,4,0,0,1732,Felipe Lopez,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,59 - 49,-10,,12:03 PM
+213,0,8,221,0020000763,,,0:05,2,5,5,0,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Abdul-Rauf FOR Swift,12:03 PM
+214,0,8,222,0020000763,SUB: Hamilton FOR Whitney,,0:05,2,4,4,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:03 PM
+215,12,3,223,0020000763,Lopez Free Throw 2 of 2 (4 PTS),,0:05,2,4,0,0,1732,Felipe Lopez,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,59 - 50,-9,,12:03 PM
+216,1,2,224,0020000763,,,0:02,2,5,0,0,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Strickland 6' Jump Shot,12:04 PM
+217,0,4,225,0020000763,Lopez REBOUND (Off:0 Def:2),,0:01,2,4,0,0,1732,Felipe Lopez,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:04 PM
+218,0,13,226,0020000763,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,59 - 50,-9,,12:04 PM
+219,0,12,228,0020000763,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,59 - 50,-9,,12:20 PM
+220,1,1,229,0020000763,Howard 11' Jump Shot (13 PTS) (Richmond 5 AST),,11:44,3,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,59 - 52,-7,,12:20 PM
+221,1,5,230,0020000763,Whitney STEAL (2 STL),,11:28,3,5,4,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Long Bad Pass Turnover (P1.T8),12:20 PM
+222,1,1,231,0020000763,Hamilton 6' Jump Shot (10 PTS) (Howard 1 AST),,11:15,3,4,4,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,59 - 54,-5,,12:20 PM
+223,1,2,232,0020000763,,,10:57,3,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Dickerson 21' Jump Shot,12:21 PM
+224,0,4,233,0020000763,Howard REBOUND (Off:1 Def:2),,10:55,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:21 PM
+225,5,2,234,0020000763,MISS Hamilton 1' Layup,,10:51,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:21 PM
+226,0,4,235,0020000763,,,10:48,3,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Reeves REBOUND (Off:2 Def:2),12:21 PM
+227,1,1,236,0020000763,,,10:38,3,5,5,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,62 - 54,-8,Dickerson 24' 3PT Jump Shot (11 PTS) (Bibby 2 AST),12:21 PM
+228,1,2,237,0020000763,MISS Richmond 26' 3PT Jump Shot,,10:19,3,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:21 PM
+229,0,4,238,0020000763,,,10:17,3,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,12:21 PM
+230,1,2,239,0020000763,,,10:06,3,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Bibby 8' Jump Shot,12:22 PM
+231,0,4,240,0020000763,,,10:05,3,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Reeves REBOUND (Off:3 Def:2),12:22 PM
+232,4,1,241,0020000763,,,10:03,3,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,64 - 54,-10,Reeves 2' Tip Shot (8 PTS),12:22 PM
+233,1,5,242,0020000763,Whitney Bad Pass Turnover (P2.T8),,9:46,3,4,5,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,Long STEAL (3 STL),12:22 PM
+234,5,1,243,0020000763,,,9:41,3,5,5,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,66 - 54,-12,Long 1' Layup (8 PTS) (Bibby 3 AST),12:22 PM
+235,1,9,244,0020000763,WIZARDS Timeout: Regular (Full 3 Short 1),,9:33,3,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:22 PM
+236,1,2,246,0020000763,MISS Howard 12' Jump Shot,,9:19,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:25 PM
+237,0,4,247,0020000763,,,9:16,3,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim REBOUND (Off:0 Def:3),12:25 PM
+238,1,2,248,0020000763,,,9:00,3,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Bibby 18' Jump Shot,12:25 PM
+239,0,4,249,0020000763,Richmond REBOUND (Off:0 Def:1),,8:59,3,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:25 PM
+240,1,2,250,0020000763,MISS Whitney 24' 3PT Jump Shot,,8:52,3,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:25 PM
+241,0,4,251,0020000763,,,8:50,3,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long REBOUND (Off:2 Def:7),12:25 PM
+242,5,2,252,0020000763,,,8:43,3,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Abdur-Rahim 1' Layup,12:25 PM
+243,0,4,253,0020000763,Hamilton REBOUND (Off:0 Def:1),,8:41,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:25 PM
+244,1,2,254,0020000763,MISS Richmond 26' 3PT Jump Shot,,8:29,3,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:25 PM
+245,0,4,255,0020000763,Howard REBOUND (Off:2 Def:2),,8:27,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:25 PM
+246,1,2,256,0020000763,MISS Howard 3' Jump Shot,,8:25,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:25 PM
+247,0,4,257,0020000763,,,8:23,3,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Bibby REBOUND (Off:0 Def:4),12:25 PM
+248,1,1,258,0020000763,,,8:18,3,5,5,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,69 - 54,-15,Dickerson  3PT Jump Shot (14 PTS) (Bibby 4 AST),12:26 PM
+249,2,5,259,0020000763,Howard Lost Ball Turnover (P1.T9),,7:58,3,4,5,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,Reeves STEAL (1 STL),12:26 PM
+250,5,1,260,0020000763,,,7:56,3,5,5,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,71 - 54,-17,Dickerson 2' Layup (16 PTS) (Bibby 5 AST),12:26 PM
+251,2,6,261,0020000763,Richmond S.FOUL (P3.T1),,7:56,3,4,0,1,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:26 PM
+252,0,8,262,0020000763,SUB: Jones FOR White,,7:56,3,4,4,0,1751,Jahidi White,WAS,Washington,1610612764.0,Wizards,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:26 PM
+253,10,3,263,0020000763,,,7:56,3,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,72 - 54,-18,Dickerson Free Throw 1 of 1 (17 PTS),12:26 PM
+254,41,1,264,0020000763,Whitney 2' Running Layup (13 PTS),,7:45,3,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,72 - 56,-16,,12:27 PM
+255,1,2,265,0020000763,,,7:29,3,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Abdur-Rahim 18' Jump Shot,12:27 PM
+256,0,4,266,0020000763,,,7:26,3,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long REBOUND (Off:3 Def:7),12:27 PM
+257,50,1,267,0020000763,,,7:23,3,5,5,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,74 - 56,-18,Abdur-Rahim 1' Running Dunk (11 PTS) (Bibby 6 AST),12:27 PM
+258,8,1,268,0020000763,Howard 1' Slam Dunk (15 PTS) (Jones 1 AST),,7:04,3,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,74 - 58,-16,,12:27 PM
+259,1,2,269,0020000763,,,6:47,3,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Abdur-Rahim 5' Jump Shot,12:28 PM
+260,0,4,270,0020000763,,,6:45,3,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Dickerson REBOUND (Off:1 Def:1),12:28 PM
+261,4,6,271,0020000763,,,6:34,3,5,0,1,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Dickerson OFF.Foul (P4),12:28 PM
+262,5,5,272,0020000763,,,6:34,3,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Dickerson Foul Turnover (P2.T9),12:28 PM
+263,0,8,273,0020000763,,,6:34,3,5,5,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Strickland FOR Dickerson,12:28 PM
+264,3,1,274,0020000763,Howard 4' Hook Shot (17 PTS) (Richmond 6 AST),,6:16,3,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,74 - 60,-14,,12:29 PM
+265,1,2,275,0020000763,,,5:51,3,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Reeves 3' Jump Shot,12:29 PM
+266,0,4,276,0020000763,,,5:50,3,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim REBOUND (Off:1 Def:3),12:29 PM
+267,2,6,277,0020000763,Jones S.FOUL (P2.T2),,5:48,3,4,0,1,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:29 PM
+268,11,3,278,0020000763,,,5:48,3,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,75 - 60,-15,Abdur-Rahim Free Throw 1 of 2 (12 PTS),12:29 PM
+269,12,3,279,0020000763,,,5:48,3,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,76 - 60,-16,Abdur-Rahim Free Throw 2 of 2 (13 PTS),12:29 PM
+270,1,2,280,0020000763,MISS Whitney 22' Jump Shot,,5:37,3,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:30 PM
+271,0,4,281,0020000763,,,5:35,3,5,0,0,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Strickland REBOUND (Off:0 Def:2),12:30 PM
+272,2,5,282,0020000763,Richmond STEAL (1 STL),,5:20,3,5,4,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Long Lost Ball Turnover (P2.T10),12:30 PM
+273,1,5,283,0020000763,Whitney Bad Pass Turnover (P3.T10),,5:15,3,4,5,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,Long STEAL (4 STL),12:30 PM
+274,50,1,284,0020000763,,,5:08,3,5,5,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,78 - 60,-18,Long 1' Running Dunk (10 PTS) (Bibby 7 AST),12:30 PM
+275,7,5,285,0020000763,Hamilton Discontinue Dribble Turnover (P4.T11),,4:55,3,4,0,1,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:31 PM
+276,1,2,286,0020000763,Jones BLOCK (1 BLK),,4:44,3,5,0,4,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,,,MISS Reeves 6' Jump Shot,12:31 PM
+277,0,4,287,0020000763,Howard REBOUND (Off:2 Def:3),,4:41,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:31 PM
+278,1,2,288,0020000763,MISS Richmond 20' Jump Shot,,4:32,3,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:31 PM
+279,0,4,289,0020000763,Hamilton REBOUND (Off:1 Def:1),,4:31,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:31 PM
+280,1,2,290,0020000763,MISS Jones 5' Jump Shot,,4:27,3,4,0,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:31 PM
+281,0,4,291,0020000763,,,4:25,3,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long REBOUND (Off:3 Def:8),12:31 PM
+282,1,2,292,0020000763,,,4:20,3,5,0,0,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Strickland 6' Jump Shot,12:31 PM
+283,0,4,293,0020000763,,,4:18,3,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim REBOUND (Off:2 Def:3),12:31 PM
+284,2,5,294,0020000763,Jones STEAL (1 STL),,4:16,3,5,4,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Abdur-Rahim Lost Ball Turnover (P3.T11),12:31 PM
+285,2,6,295,0020000763,,,4:10,3,5,0,1,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long S.FOUL (P3.T1),12:32 PM
+286,11,3,296,0020000763,Hamilton Free Throw 1 of 2 (11 PTS),,4:10,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,78 - 61,-17,,12:32 PM
+287,12,3,297,0020000763,Hamilton Free Throw 2 of 2 (12 PTS),,4:10,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,78 - 62,-16,,12:32 PM
+288,1,9,298,0020000763,,,4:04,3,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Timeout: Regular (Reg.3 Short 1),12:33 PM
+289,0,8,300,0020000763,SUB: Nesby FOR Richmond,,4:04,3,4,4,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:35 PM
+290,2,6,301,0020000763,Jones S.FOUL (P3.T3),,3:49,3,4,0,1,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:35 PM
+291,11,3,302,0020000763,,,3:49,3,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Abdur-Rahim Free Throw 1 of 2,12:35 PM
+292,1,4,303,0020000763,,,3:49,3,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,12:35 PM
+293,12,3,304,0020000763,,,3:49,3,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,79 - 62,-17,Abdur-Rahim Free Throw 2 of 2 (14 PTS),12:36 PM
+294,4,6,305,0020000763,Howard OFF.Foul (P1),,3:36,3,4,0,1,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:36 PM
+295,5,5,306,0020000763,Howard Foul Turnover (P2.T12),,3:36,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:36 PM
+296,1,5,307,0020000763,Hamilton STEAL (2 STL),,3:18,3,5,4,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Reeves Bad Pass Turnover (P1.T12),12:37 PM
+297,50,1,308,0020000763,Howard 1' Running Dunk (19 PTS) (Hamilton 4 AST),,3:13,3,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,79 - 64,-15,,12:37 PM
+298,1,2,309,0020000763,,,2:53,3,5,0,0,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Strickland 26' 3PT Jump Shot,12:37 PM
+299,0,4,310,0020000763,WIZARDS Rebound,,2:51,3,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:37 PM
+300,1,6,311,0020000763,,,2:40,3,5,0,1,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim P.FOUL (P2.T2),12:37 PM
+301,1,1,312,0020000763,Howard 5' Jump Shot (21 PTS) (Jones 2 AST),,2:36,3,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,79 - 66,-13,,12:38 PM
+302,1,1,313,0020000763,,,2:17,3,5,5,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,81 - 66,-15,Long 21' Jump Shot (12 PTS) (Abdur-Rahim 5 AST),12:38 PM
+303,1,2,314,0020000763,MISS Nesby 25' 3PT Jump Shot,,2:01,3,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:38 PM
+304,0,4,315,0020000763,,,1:58,3,5,0,0,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Strickland REBOUND (Off:0 Def:3),12:38 PM
+305,1,1,316,0020000763,,,1:53,3,5,5,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,83 - 66,-17,Bibby 22' Jump Shot (10 PTS) (Strickland 2 AST),12:38 PM
+306,1,2,317,0020000763,MISS Howard 12' Jump Shot,,1:30,3,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:39 PM
+307,0,4,318,0020000763,Jones REBOUND (Off:1 Def:1),,1:28,3,4,0,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:39 PM
+308,5,2,319,0020000763,MISS Jones 1' Layup,,1:26,3,4,0,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:39 PM
+309,0,4,320,0020000763,,,1:24,3,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Reeves REBOUND (Off:3 Def:3),12:39 PM
+310,1,2,321,0020000763,,,1:19,3,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Bibby 20' Jump Shot,12:39 PM
+311,0,4,322,0020000763,Nesby REBOUND (Off:1 Def:3),,1:17,3,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:39 PM
+312,1,5,323,0020000763,Nesby Bad Pass Turnover (P2.T13),,1:14,3,4,5,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,Abdur-Rahim STEAL (2 STL),12:39 PM
+313,1,5,324,0020000763,Whitney STEAL (3 STL),,1:11,3,5,4,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Abdur-Rahim Bad Pass Turnover (P4.T13),12:39 PM
+314,1,1,325,0020000763,Hamilton 16' Jump Shot (14 PTS) (Whitney 3 AST),,1:06,3,4,4,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,83 - 68,-15,,12:39 PM
+315,1,6,326,0020000763,Whitney P.FOUL (P3.T4),,0:48,3,4,0,1,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:40 PM
+316,0,8,327,0020000763,,,0:48,3,5,5,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Abdul-Rauf FOR Bibby,12:40 PM
+317,0,8,328,0020000763,,,0:48,3,5,5,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Massenburg FOR Reeves,12:40 PM
+318,2,5,329,0020000763,Jones STEAL (2 STL),,0:38,3,5,4,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Massenburg Lost Ball Turnover (P1.T14),12:40 PM
+319,5,1,330,0020000763,Howard 1' Layup (23 PTS) (Jones 3 AST),,0:29,3,4,4,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,83 - 70,-13,,12:40 PM
+320,1,2,331,0020000763,,,0:10,3,5,0,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Abdul-Rauf 19' Jump Shot,12:41 PM
+321,0,4,332,0020000763,Jones REBOUND (Off:1 Def:2),,0:08,3,4,0,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:41 PM
+322,1,2,333,0020000763,MISS Hamilton 10' Jump Shot,,0:02,3,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:41 PM
+323,0,4,334,0020000763,,,0:01,3,5,0,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Massenburg REBOUND (Off:1 Def:4),12:41 PM
+324,0,13,335,0020000763,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,83 - 70,-13,,12:41 PM
+325,0,12,337,0020000763,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,83 - 70,-13,,12:44 PM
+326,2,6,338,0020000763,Jones S.FOUL (P4.T1),,11:38,4,4,0,1,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:44 PM
+327,11,3,339,0020000763,,,11:38,4,5,0,0,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,84 - 70,-14,Swift Free Throw 1 of 2 (3 PTS),12:45 PM
+328,12,3,340,0020000763,,,11:38,4,5,0,0,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Swift Free Throw 2 of 2,12:45 PM
+329,0,4,341,0020000763,Jones REBOUND (Off:1 Def:3),,11:37,4,4,0,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:45 PM
+330,1,6,342,0020000763,,,11:27,4,5,0,1,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Strickland P.FOUL (P2.T1),12:45 PM
+331,2,5,343,0020000763,Hamilton Lost Ball Turnover (P5.T14),,11:20,4,4,5,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,Strickland STEAL (1 STL),12:46 PM
+332,2,6,344,0020000763,Richmond S.FOUL (P4.T2),,11:16,4,4,0,1,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:46 PM
+333,11,3,345,0020000763,,,11:16,4,5,0,0,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,85 - 70,-15,Swift Free Throw 1 of 2 (4 PTS),12:46 PM
+334,12,3,346,0020000763,,,11:16,4,5,0,0,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,86 - 70,-16,Swift Free Throw 2 of 2 (5 PTS),12:46 PM
+335,1,2,347,0020000763,MISS Nesby 26' 3PT Jump Shot,,10:52,4,4,0,5,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,,,Swift BLOCK (1 BLK),12:47 PM
+336,0,4,348,0020000763,WIZARDS Rebound,,10:52,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:47 PM
+337,11,5,349,0020000763,WIZARDS Turnover: Shot Clock (T#15),,10:52,4,2,0,1,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:47 PM
+338,1,1,350,0020000763,,,10:36,4,5,5,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,88 - 70,-18,Abdul-Rauf 20' Jump Shot (8 PTS) (Bibby 8 AST),12:47 PM
+339,2,6,351,0020000763,,,10:23,4,5,0,1,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Massenburg S.FOUL (P3.T2),12:48 PM
+340,11,3,352,0020000763,Richmond Free Throw 1 of 2 (5 PTS),,10:23,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,88 - 71,-17,,12:48 PM
+341,12,3,353,0020000763,Richmond Free Throw 2 of 2 (6 PTS),,10:23,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,88 - 72,-16,,12:48 PM
+342,1,2,354,0020000763,Smith BLOCK (1 BLK),,9:59,4,5,0,4,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,,,MISS Swift 8' Jump Shot,12:49 PM
+343,0,4,355,0020000763,Jones REBOUND (Off:1 Def:4),,9:57,4,4,0,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:49 PM
+344,1,2,356,0020000763,MISS Hamilton 18' Jump Shot,,9:53,4,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:49 PM
+345,0,4,357,0020000763,,,9:51,4,5,0,0,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Swift REBOUND (Off:1 Def:1),12:49 PM
+346,1,2,358,0020000763,,,9:43,4,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Bibby 20' Jump Shot,12:49 PM
+347,0,4,359,0020000763,Jones REBOUND (Off:1 Def:5),,9:41,4,4,0,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:49 PM
+348,5,1,360,0020000763,Jones 2' Layup (6 PTS) (Richmond 7 AST),,9:32,4,4,4,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,88 - 74,-14,,12:49 PM
+349,1,1,361,0020000763,,,9:13,4,5,5,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,90 - 74,-16,Massenburg 15' Jump Shot (10 PTS) (Bibby 9 AST),12:50 PM
+350,1,1,362,0020000763,Nesby 15' Jump Shot (5 PTS) (Hamilton 5 AST),,9:00,4,4,4,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,90 - 76,-14,,12:50 PM
+351,1,1,363,0020000763,,,8:45,4,5,0,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,92 - 76,-16,Abdul-Rauf 19' Jump Shot (10 PTS),12:50 PM
+352,2,6,364,0020000763,,,8:30,4,5,0,1,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Massenburg S.FOUL (P4.T3),12:50 PM
+353,4,9,365,0020000763,,,8:30,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:50 PM
+354,0,8,367,0020000763,,,8:30,4,5,5,0,1065,Erick Strickland,VAN,Vancouver,1610612763.0,Grizzlies,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Dickerson FOR Strickland,12:52 PM
+355,0,8,368,0020000763,SUB: Howard FOR Jones,,8:30,4,4,4,0,461,Popeye Jones,WAS,Washington,1610612764.0,Wizards,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:52 PM
+356,0,8,369,0020000763,SUB: Whitney FOR Hamilton,,8:30,4,4,4,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:52 PM
+357,11,3,370,0020000763,Richmond Free Throw 1 of 2 (7 PTS),,8:30,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,92 - 77,-15,,12:53 PM
+358,12,3,371,0020000763,Richmond Free Throw 2 of 2 (8 PTS),,8:30,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,92 - 78,-14,,12:53 PM
+359,1,1,372,0020000763,,,8:11,4,5,5,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,95 - 78,-17,Abdul-Rauf 27' 3PT Jump Shot (13 PTS) (Bibby 10 AST),12:54 PM
+360,1,6,373,0020000763,,,7:54,4,5,0,1,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Swift P.FOUL (P2.T4),12:54 PM
+361,1,6,374,0020000763,,,7:48,4,5,0,1,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Bibby P.FOUL (P1.PN),12:54 PM
+362,11,3,375,0020000763,Nesby Free Throw 1 of 2 (6 PTS),,7:48,4,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,95 - 79,-16,,12:55 PM
+363,12,3,376,0020000763,Nesby Free Throw 2 of 2 (7 PTS),,7:48,4,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,95 - 80,-15,,12:55 PM
+364,2,5,377,0020000763,Smith STEAL (1 STL),,7:33,4,5,4,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Massenburg Lost Ball Turnover (P2.T15),12:55 PM
+365,4,6,378,0020000763,Howard OFF.Foul (P2),,7:28,4,4,0,1,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:55 PM
+366,5,5,379,0020000763,Howard Foul Turnover (P3.T16),,7:28,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:55 PM
+367,0,8,380,0020000763,,,7:28,4,5,5,0,763,Tony Massenburg,VAN,Vancouver,1610612763.0,Grizzlies,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Abdur-Rahim FOR Massenburg,12:56 PM
+368,1,1,381,0020000763,,,7:17,4,5,5,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,97 - 80,-17,Abdul-Rauf 19' Jump Shot (15 PTS) (Bibby 11 AST),12:56 PM
+369,2,6,382,0020000763,,,7:11,4,5,0,1,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim S.FOUL (P3.PN),12:56 PM
+370,11,3,383,0020000763,Howard Free Throw 1 of 2 (24 PTS),,7:11,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,97 - 81,-16,,12:56 PM
+371,12,3,384,0020000763,Howard Free Throw 2 of 2 (25 PTS),,7:11,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,97 - 82,-15,,12:57 PM
+372,5,1,385,0020000763,,,6:58,4,5,5,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,99 - 82,-17,Dickerson 2' Layup (19 PTS) (Bibby 12 AST),12:57 PM
+373,2,6,386,0020000763,,,6:51,4,5,0,1,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Swift S.FOUL (P3.PN),12:57 PM
+374,11,3,387,0020000763,Howard Free Throw 1 of 2 (26 PTS),,6:51,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,99 - 83,-16,,12:57 PM
+375,12,3,388,0020000763,Howard Free Throw 2 of 2 (27 PTS),,6:51,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,99 - 84,-15,,12:58 PM
+376,1,2,389,0020000763,,,6:40,4,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Bibby 19' Jump Shot,12:58 PM
+377,0,4,390,0020000763,Nesby REBOUND (Off:1 Def:4),,6:39,4,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:58 PM
+378,1,2,391,0020000763,MISS Richmond 26' 3PT Jump Shot,,6:32,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:58 PM
+379,0,4,392,0020000763,Smith REBOUND (Off:1 Def:1),,6:30,4,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:58 PM
+380,1,1,393,0020000763,Nesby 25' 3PT Jump Shot (10 PTS) (Whitney 4 AST),,6:26,4,4,4,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,99 - 87,-12,,12:58 PM
+381,3,1,394,0020000763,,,6:07,4,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,101 - 87,-14,Abdur-Rahim 4' Hook Shot (16 PTS),12:59 PM
+382,3,1,395,0020000763,Smith 6' Hook Shot (2 PTS) (Nesby 3 AST),,5:52,4,4,4,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,101 - 89,-12,,12:59 PM
+383,1,6,396,0020000763,Howard P.FOUL (P3.T3),,5:39,4,4,0,1,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:59 PM
+384,1,9,397,0020000763,WIZARDS Timeout: Regular (Full 4 Short 1),,5:39,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:59 PM
+385,0,8,401,0020000763,,,5:39,4,5,5,0,2031,Stromile Swift,VAN,Vancouver,1610612763.0,Grizzlies,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Reeves FOR Swift,1:01 PM
+386,46,1,402,0020000763,,,5:35,4,5,0,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,103 - 89,-14,Abdul-Rauf 13' Running Jump Shot (17 PTS),1:02 PM
+387,1,2,403,0020000763,MISS Howard 4' Jump Shot,,5:17,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:02 PM
+388,0,4,404,0020000763,Smith REBOUND (Off:2 Def:1),,5:15,4,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:02 PM
+389,2,9,405,0020000763,WIZARDS Timeout: Short (Full 4 Short 2),,5:15,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:02 PM
+390,2,6,407,0020000763,,,5:02,4,5,0,1,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim S.FOUL (P4.PN),1:03 PM
+391,11,3,408,0020000763,Nesby Free Throw 1 of 2 (11 PTS),,5:02,4,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,103 - 90,-13,,1:03 PM
+392,12,3,409,0020000763,MISS Nesby Free Throw 2 of 2,,5:02,4,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:04 PM
+393,0,4,410,0020000763,,,5:01,4,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim REBOUND (Off:2 Def:4),1:04 PM
+394,1,6,411,0020000763,Smith P.FOUL (P2.T4),,4:50,4,4,0,1,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:04 PM
+395,1,2,412,0020000763,,,4:45,4,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Reeves 15' Jump Shot,1:05 PM
+396,0,4,413,0020000763,Richmond REBOUND (Off:0 Def:2),,4:43,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:05 PM
+397,1,2,414,0020000763,MISS Richmond 10' Jump Shot,,4:39,4,4,0,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:05 PM
+398,0,4,415,0020000763,,,4:38,4,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,1:05 PM
+399,1,6,418,0020000763,Smith P.FOUL (P3.PN),,4:38,4,4,0,1,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:06 PM
+400,11,3,419,0020000763,,,4:38,4,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Dickerson Free Throw 1 of 2,1:06 PM
+401,1,4,420,0020000763,,,4:38,4,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,1:06 PM
+402,12,3,421,0020000763,,,4:38,4,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Dickerson Free Throw 2 of 2,1:06 PM
+403,0,4,422,0020000763,Whitney REBOUND (Off:0 Def:4),,4:31,4,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:06 PM
+404,2,6,423,0020000763,,,4:25,4,5,0,1,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Bibby S.FOUL (P2.PN),1:06 PM
+405,11,3,424,0020000763,MISS Nesby Free Throw 1 of 2,,4:25,4,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:06 PM
+406,1,4,425,0020000763,WIZARDS Rebound,,4:25,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:06 PM
+407,0,8,426,0020000763,SUB: Hamilton FOR Richmond,,4:25,4,4,4,0,782,Mitch Richmond,WAS,Washington,1610612764.0,Wizards,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,1:07 PM
+408,12,3,427,0020000763,Nesby Free Throw 2 of 2 (12 PTS),,4:25,4,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,103 - 91,-12,,1:07 PM
+409,1,1,428,0020000763,,,4:08,4,5,5,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,106 - 91,-15,Dickerson  3PT Jump Shot (22 PTS) (Bibby 13 AST),1:07 PM
+410,1,1,429,0020000763,Whitney 27' 3PT Jump Shot (16 PTS),,3:59,4,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,106 - 94,-12,,1:07 PM
+411,2,5,430,0020000763,,,3:45,4,5,0,1,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Reeves Lost Ball Turnover (P2.T16),1:08 PM
+412,1,1,431,0020000763,Whitney 25' 3PT Jump Shot (19 PTS),,3:35,4,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,106 - 97,-9,,1:08 PM
+413,1,9,432,0020000763,,,3:31,4,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Timeout: Regular (Reg.4 Short 1),1:08 PM
+414,0,8,434,0020000763,,,3:31,4,5,5,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Long FOR Abdul-Rauf,1:10 PM
+415,1,6,435,0020000763,Nesby P.FOUL (P2.PN),,3:16,4,4,0,1,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:11 PM
+416,11,3,436,0020000763,,,3:16,4,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,107 - 97,-10,Abdur-Rahim Free Throw 1 of 2 (17 PTS),1:11 PM
+417,12,3,437,0020000763,,,3:16,4,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,108 - 97,-11,Abdur-Rahim Free Throw 2 of 2 (18 PTS),1:11 PM
+418,1,2,438,0020000763,MISS Hamilton 17' Jump Shot,,3:06,4,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:11 PM
+419,0,4,439,0020000763,Hamilton REBOUND (Off:2 Def:1),,3:04,4,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:11 PM
+420,1,2,440,0020000763,MISS Hamilton 11' Jump Shot,,2:59,4,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:12 PM
+421,0,4,441,0020000763,,,2:58,4,5,0,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Reeves REBOUND (Off:3 Def:4),1:12 PM
+422,1,6,442,0020000763,Whitney P.FOUL (P4.PN),,2:46,4,4,0,1,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:12 PM
+423,11,3,443,0020000763,,,2:46,4,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,109 - 97,-12,Long Free Throw 1 of 2 (13 PTS),1:12 PM
+424,12,3,444,0020000763,,,2:46,4,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Long Free Throw 2 of 2,1:12 PM
+425,0,4,445,0020000763,Smith REBOUND (Off:2 Def:2),,2:45,4,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:12 PM
+426,1,2,446,0020000763,MISS Whitney 26' 3PT Jump Shot,,2:37,4,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:13 PM
+427,0,4,447,0020000763,,,2:36,4,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim REBOUND (Off:2 Def:5),1:13 PM
+428,2,6,448,0020000763,Nesby S.FOUL (P3.PN),,2:17,4,4,0,1,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:13 PM
+429,11,3,449,0020000763,,,2:17,4,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Abdur-Rahim Free Throw 1 of 2,1:13 PM
+430,1,4,450,0020000763,,,2:17,4,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,1:13 PM
+431,12,3,451,0020000763,,,2:17,4,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,110 - 97,-13,Abdur-Rahim Free Throw 2 of 2 (19 PTS),1:13 PM
+432,1,2,452,0020000763,MISS Howard 4' Jump Shot,,2:01,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:14 PM
+433,0,4,453,0020000763,,,2:00,4,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Dickerson REBOUND (Off:1 Def:2),1:14 PM
+434,0,10,454,0020000763,Jump Ball Hamilton vs. Dickerson: Tip to Smith,,1:56,4,4,5,4,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,,,,1:14 PM
+435,2,5,455,0020000763,Hamilton STEAL (3 STL),,1:56,4,5,4,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Dickerson Lost Ball Turnover (P3.T17),1:14 PM
+436,1,1,456,0020000763,Whitney 22' Jump Shot (21 PTS) (Smith 1 AST),,1:53,4,4,4,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,110 - 99,-11,,1:15 PM
+437,4,6,457,0020000763,,,1:41,4,5,0,1,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Bibby OFF.Foul (P3),1:15 PM
+438,5,5,458,0020000763,,,1:41,4,5,0,0,1710,Mike Bibby,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Bibby Foul Turnover (P3.T18),1:15 PM
+439,4,6,459,0020000763,Hamilton OFF.Foul (P2),,1:36,4,4,0,1,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:15 PM
+440,5,5,460,0020000763,Hamilton Foul Turnover (P6.T17),,1:36,4,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:15 PM
+441,2,5,461,0020000763,,,1:22,4,5,0,1,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long Lost Ball Turnover (P3.T19),1:16 PM
+442,1,2,462,0020000763,MISS Nesby 26' 3PT Jump Shot,,1:10,4,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:16 PM
+443,0,4,463,0020000763,,,1:07,4,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim REBOUND (Off:2 Def:6),1:16 PM
+444,4,6,464,0020000763,,,1:06,4,5,0,1,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim OFF.Foul (P5),1:16 PM
+445,5,5,465,0020000763,,,1:06,4,5,0,0,949,Shareef Abdur-Rahim,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Abdur-Rahim Foul Turnover (P5.T20),1:16 PM
+446,0,8,466,0020000763,,,1:06,4,5,5,0,735,Bryant Reeves,VAN,Vancouver,1610612763.0,Grizzlies,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,,,SUB: Abdul-Rauf FOR Reeves,1:16 PM
+447,1,1,467,0020000763,Whitney  3PT Jump Shot (24 PTS) (Nesby 4 AST),,1:03,4,4,4,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,110 - 102,-8,,1:17 PM
+448,1,6,468,0020000763,Whitney P.FOUL (P5.PN),,0:57,4,4,0,1,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:17 PM
+449,11,3,469,0020000763,,,0:57,4,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,111 - 102,-9,Long Free Throw 1 of 2 (14 PTS),1:17 PM
+450,12,3,470,0020000763,,,0:57,4,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,112 - 102,-10,Long Free Throw 2 of 2 (15 PTS),1:18 PM
+451,1,9,471,0020000763,WIZARDS Timeout: Regular (Full 5 Short 2),,0:57,4,2,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:18 PM
+452,1,2,473,0020000763,MISS Howard 6' Jump Shot,,0:49,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:20 PM
+453,0,4,474,0020000763,,,0:47,4,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long REBOUND (Off:3 Def:9),1:21 PM
+454,1,6,475,0020000763,Howard P.FOUL (P4.PN),,0:47,4,4,0,1,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:21 PM
+455,11,3,476,0020000763,,,0:47,4,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Long Free Throw 1 of 2,1:21 PM
+456,1,4,477,0020000763,,,0:47,4,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,1:21 PM
+457,12,3,478,0020000763,,,0:47,4,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,113 - 102,-11,Long Free Throw 2 of 2 (16 PTS),1:21 PM
+458,1,2,479,0020000763,MISS Whitney 25' 3PT Jump Shot,,0:36,4,4,0,0,43,Chris Whitney,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:22 PM
+459,0,4,480,0020000763,,,0:34,4,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long REBOUND (Off:3 Def:10),1:22 PM
+460,1,6,481,0020000763,Hamilton P.FOUL (P3.PN),,0:31,4,4,0,1,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:22 PM
+461,11,3,482,0020000763,,,0:31,4,5,0,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,114 - 102,-12,Abdul-Rauf Free Throw 1 of 2 (18 PTS),1:22 PM
+462,12,3,483,0020000763,,,0:31,4,5,0,0,51,Mahmoud Abdul-Rauf,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,115 - 102,-13,Abdul-Rauf Free Throw 2 of 2 (19 PTS),1:22 PM
+463,1,2,484,0020000763,MISS Hamilton 10' Jump Shot,,0:22,4,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:22 PM
+464,0,4,485,0020000763,Smith REBOUND (Off:3 Def:2),,0:20,4,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:22 PM
+465,5,1,486,0020000763,Smith 1' Layup (4 PTS),,0:20,4,4,0,0,63,Michael Smith,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,115 - 104,-11,,1:22 PM
+466,1,6,487,0020000763,Nesby P.FOUL (P4.PN),,0:19,4,4,0,1,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:23 PM
+467,11,3,488,0020000763,,,0:19,4,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,MISS Dickerson Free Throw 1 of 2,1:23 PM
+468,1,4,489,0020000763,,,0:19,4,3,0,0,1610612763,,,,,,0,,,,,,0,,,,,,,,Grizzlies Rebound,1:23 PM
+469,12,3,490,0020000763,,,0:19,4,5,0,0,1722,Michael Dickerson,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,116 - 104,-12,Dickerson Free Throw 2 of 2 (23 PTS),1:23 PM
+470,1,2,491,0020000763,MISS Hamilton 27' 3PT Jump Shot,,0:13,4,4,0,0,1888,Richard Hamilton,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:23 PM
+471,0,4,492,0020000763,Howard REBOUND (Off:3 Def:3),,0:11,4,4,0,0,436,Juwan Howard,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:23 PM
+472,1,2,493,0020000763,MISS Nesby  3PT Jump Shot,,0:07,4,4,0,0,1838,Tyrone Nesby,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:23 PM
+473,0,4,494,0020000763,,,0:05,4,5,0,0,3,Grant Long,VAN,Vancouver,1610612763.0,Grizzlies,0,,,,,,0,,,,,,,,Long REBOUND (Off:3 Def:11),1:23 PM
+474,0,13,495,0020000763,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,116 - 104,-12,,1:24 PM

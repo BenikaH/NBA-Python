@@ -1,0 +1,436 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0029800336,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:12 AM
+1,0,10,1,0029800336,Jump Ball Thomas vs. Olowokandi: Tip to Douglas,,12:00,1,4,5,5,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,,,,11:12 AM
+2,2,2,3,0029800336,,,11:35,1,5,0,0,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Douglas 6' Running Jump Shot,11:13 AM
+3,0,4,4,0029800336,Williams REBOUND (Off:0 Def:1),,11:32,1,4,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:13 AM
+4,1,5,5,0029800336,Oakley Bad Pass Turnover (P1.T1),,11:18,1,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:13 AM
+5,2,5,6,0029800336,Oakley STEAL (1 STL),,11:05,1,5,4,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Taylor Lost Ball Turnover (P1.T1),11:14 AM
+6,2,6,7,0029800336,,,10:59,1,5,0,1,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Nesby S.FOUL (P1.T1),11:14 AM
+7,11,3,8,0029800336,Williams Free Throw 1 of 2 (1 PTS),,10:59,1,4,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,0 - 1,1,,11:14 AM
+8,12,3,9,0029800336,Williams Free Throw 2 of 2 (2 PTS),,10:59,1,4,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,0 - 2,2,,11:14 AM
+9,1,6,10,0029800336,Thomas P.FOUL (P1.T1),,10:49,1,4,0,1,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:15 AM
+10,5,2,11,0029800336,Thomas BLOCK (1 BLK),,10:30,1,5,0,4,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,,,MISS Olowokandi  Layup,11:15 AM
+11,0,4,12,0029800336,Thomas REBOUND (Off:0 Def:1),,10:27,1,4,0,0,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:16 AM
+12,6,1,13,0029800336,Williams  Driving Layup (4 PTS) (Thomas 1 AST),,10:23,1,4,4,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0 - 4,4,,11:16 AM
+13,2,6,14,0029800336,Oakley S.FOUL (P1.T2),,10:01,1,4,0,1,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:16 AM
+14,11,3,15,0029800336,,,10:01,1,5,0,0,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,1 - 4,3,Nesby Free Throw 1 of 2 (1 PTS),11:16 AM
+15,12,3,16,0029800336,,,10:01,1,5,0,0,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,2 - 4,2,Nesby Free Throw 2 of 2 (2 PTS),11:16 AM
+16,1,1,18,0029800336,Carter 16' Jump Shot (2 PTS) (Oakley 1 AST),,9:46,1,4,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,2 - 6,4,,11:17 AM
+17,1,1,19,0029800336,,,9:22,1,5,5,0,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,5 - 6,1,Nesby 24' 3PT Jump Shot (5 PTS) (Piatkowski 1 AST),11:17 AM
+18,1,1,20,0029800336,Christie 12' Jump Shot (2 PTS) (Carter 1 AST),,9:00,1,4,4,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,5 - 8,3,,11:18 AM
+19,1,1,21,0029800336,,,8:42,1,5,5,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,8 - 8,TIE,Piatkowski 25' 3PT Jump Shot (3 PTS) (Nesby 1 AST),11:18 AM
+20,2,1,22,0029800336,Carter 6' Running Jump Shot (4 PTS) (Williams 1 AST),,8:24,1,4,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,8 - 10,2,,11:18 AM
+21,1,2,23,0029800336,,,8:06,1,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Taylor 16' Jump Shot,11:19 AM
+22,0,4,24,0029800336,,,8:03,1,5,0,0,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Olowokandi REBOUND (Off:1 Def:0),11:19 AM
+23,4,2,25,0029800336,,,8:01,1,5,0,0,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Olowokandi  Tip Shot,11:19 AM
+24,0,4,26,0029800336,Oakley REBOUND (Off:0 Def:1),,7:59,1,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:19 AM
+25,3,1,27,0029800336,Christie 6' Hook Shot (4 PTS) (Oakley 2 AST),,7:53,1,4,4,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,8 - 12,4,,11:19 AM
+26,1,5,28,0029800336,Thomas STEAL (1 STL),,7:30,1,5,4,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Taylor Bad Pass Turnover (P2.T2),11:19 AM
+27,6,1,29,0029800336,Christie  Driving Layup (6 PTS) (Williams 2 AST),,7:25,1,4,4,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,8 - 14,6,,11:19 AM
+28,1,9,30,0029800336,,,7:23,1,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Timeout: Regular (Reg.1 Short 0),11:20 AM
+29,1,1,34,0029800336,,,7:01,1,5,5,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,10 - 14,4,Taylor 19' Jump Shot (2 PTS) (Piatkowski 2 AST),11:22 AM
+30,1,5,35,0029800336,Oakley Bad Pass Turnover (P2.T2),,6:45,1,4,5,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Douglas STEAL (1 STL),11:22 AM
+31,6,1,36,0029800336,,,6:41,1,5,5,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,12 - 14,2,Taylor  Driving Layup (4 PTS) (Douglas 1 AST),11:22 AM
+32,2,6,37,0029800336,Oakley S.FOUL (P2.T3),,6:41,1,4,0,1,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:22 AM
+33,0,8,38,0029800336,SUB: Willis FOR Oakley,,6:41,1,4,4,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,11:23 AM
+34,10,3,39,0029800336,,,6:41,1,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,13 - 14,1,Taylor Free Throw 1 of 1 (5 PTS),11:23 AM
+35,2,6,40,0029800336,,,6:26,1,5,0,1,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Nesby S.FOUL (P2.T2),11:23 AM
+36,11,3,41,0029800336,MISS Carter Free Throw 1 of 2,,6:26,1,4,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:24 AM
+37,2,4,42,0029800336,RAPTORS Rebound,,6:26,1,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,11:24 AM
+38,12,3,43,0029800336,Carter Free Throw 2 of 2 (5 PTS),,6:26,1,4,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,13 - 15,2,,11:24 AM
+39,6,2,44,0029800336,,,6:14,1,5,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Piatkowski  Driving Layup,11:24 AM
+40,0,4,45,0029800336,,,6:11,1,5,0,0,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Olowokandi REBOUND (Off:2 Def:0),11:24 AM
+41,4,5,46,0029800336,,,6:11,1,5,0,0,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Olowokandi Traveling Turnover (P1.T3),11:24 AM
+42,1,2,47,0029800336,MISS Williams 10' Jump Shot,,6:00,1,4,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:25 AM
+43,0,4,48,0029800336,,,5:59,1,5,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Piatkowski REBOUND (Off:0 Def:1),11:25 AM
+44,1,1,49,0029800336,,,5:48,1,5,5,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,15 - 15,TIE,Taylor 16' Jump Shot (7 PTS) (Nesby 2 AST),11:25 AM
+45,1,1,50,0029800336,Carter 25' 3PT Jump Shot (8 PTS) (Williams 3 AST),,5:28,1,4,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,15 - 18,3,,11:25 AM
+46,2,6,51,0029800336,Carter S.FOUL (P1.T4),,5:07,1,4,0,1,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:25 AM
+47,11,3,52,0029800336,,,5:07,1,5,0,0,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,16 - 18,2,Nesby Free Throw 1 of 2 (6 PTS),11:26 AM
+48,12,3,53,0029800336,,,5:07,1,5,0,0,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,17 - 18,1,Nesby Free Throw 2 of 2 (7 PTS),11:26 AM
+49,1,2,55,0029800336,MISS Christie 24' 3PT Jump Shot,,4:47,1,4,0,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:26 AM
+50,0,4,56,0029800336,RAPTORS Rebound,,4:47,1,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,11:26 AM
+51,3,6,57,0029800336,,,4:47,1,5,0,1,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Taylor L.B.FOUL (P1.T3),11:26 AM
+52,0,8,58,0029800336,SUB: McGrady FOR Carter,,4:47,1,4,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,11:27 AM
+53,0,8,59,0029800336,,,4:47,1,5,5,0,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Murray FOR Nesby,11:27 AM
+54,0,8,60,0029800336,SUB: Brown FOR Williams,,4:47,1,4,4,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,11:27 AM
+55,2,6,62,0029800336,,,4:37,1,5,0,1,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Taylor S.FOUL (P2.T4),11:27 AM
+56,11,3,63,0029800336,Christie Free Throw 1 of 2 (7 PTS),,4:37,1,4,0,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,17 - 19,2,,11:27 AM
+57,0,8,64,0029800336,,,4:37,1,5,5,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Wright FOR Taylor,11:28 AM
+58,12,3,65,0029800336,Christie Free Throw 2 of 2 (8 PTS),,4:37,1,4,0,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,17 - 20,3,,11:28 AM
+59,1,1,66,0029800336,,,4:26,1,5,5,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,19 - 20,1,Murray 21' Jump Shot (2 PTS) (Douglas 2 AST),11:28 AM
+60,4,6,67,0029800336,Willis OFF.Foul (P1),,4:17,1,4,0,1,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:28 AM
+61,5,5,68,0029800336,Willis Foul Turnover (P1.T3),,4:17,1,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:28 AM
+62,1,6,69,0029800336,Christie P.FOUL (P1.PN),,4:08,1,4,0,1,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:29 AM
+63,11,3,70,0029800336,,,4:08,1,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,20 - 20,TIE,Murray Free Throw 1 of 2 (3 PTS),11:29 AM
+64,12,3,71,0029800336,,,4:08,1,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,21 - 20,-1,Murray Free Throw 2 of 2 (4 PTS),11:29 AM
+65,3,2,73,0029800336,MISS Willis 9' Hook Shot,,3:51,1,4,0,5,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,,,Olowokandi BLOCK (1 BLK),11:29 AM
+66,0,4,74,0029800336,Thomas REBOUND (Off:1 Def:1),,3:48,1,4,0,0,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:29 AM
+67,6,1,75,0029800336,Thomas  Driving Layup (2 PTS) (Christie 1 AST),,3:45,1,4,4,0,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,21 - 22,1,,11:29 AM
+68,1,2,76,0029800336,Christie BLOCK (1 BLK),,3:20,1,5,0,4,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,,,MISS Murray 9' Jump Shot,11:30 AM
+69,0,4,77,0029800336,McGrady REBOUND (Off:0 Def:1),,3:17,1,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:30 AM
+70,6,1,78,0029800336,Willis  Driving Layup (2 PTS) (McGrady 1 AST),,3:13,1,4,4,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,21 - 24,3,,11:30 AM
+71,2,7,79,0029800336,RAPTORS Violation: Def. Goaltending Violation,,2:52,1,2,0,1,1610612761,,,,,,0,,,,,,0,,,,,,,,,11:30 AM
+72,3,9,80,0029800336,RAPTORS Timeout: Official TV (Full 0 Short 0),,2:52,1,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,11:30 AM
+73,3,5,84,0029800336,,,2:43,1,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Murray Out Of Bounds Turnover (P1.T4),11:33 AM
+74,6,2,85,0029800336,MISS Christie  Driving Layup,,2:29,1,4,0,5,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,,,Olowokandi BLOCK (2 BLK),11:33 AM
+75,0,4,86,0029800336,,,2:26,1,5,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Wright REBOUND (Off:0 Def:1),11:33 AM
+76,6,1,87,0029800336,,,2:23,1,5,5,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,23 - 24,1,Murray  Driving Layup (6 PTS) (Douglas 3 AST),11:33 AM
+77,2,6,88,0029800336,,,2:03,1,5,0,1,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Piatkowski S.FOUL (P1.PN),11:34 AM
+78,11,3,90,0029800336,Thomas Free Throw 1 of 2 (3 PTS),,2:03,1,4,0,0,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,23 - 25,2,,11:34 AM
+79,12,3,91,0029800336,Thomas Free Throw 2 of 2 (4 PTS),,2:03,1,4,0,0,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,23 - 26,3,,11:34 AM
+80,3,2,92,0029800336,,,1:48,1,5,0,0,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Olowokandi 10' Hook Shot,11:35 AM
+81,0,4,93,0029800336,Willis REBOUND (Off:0 Def:1),,1:45,1,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:35 AM
+82,6,2,94,0029800336,MISS Christie  Driving Layup,,1:35,1,4,0,5,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,,,Murray BLOCK (1 BLK),11:35 AM
+83,0,4,95,0029800336,Thomas REBOUND (Off:2 Def:1),,1:33,1,4,0,0,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:35 AM
+84,5,2,97,0029800336,MISS Thomas  Layup,,1:33,1,4,0,5,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,,,Olowokandi BLOCK (3 BLK),11:35 AM
+85,0,4,114,0029800336,Christie REBOUND (Off:1 Def:0),,1:25,1,4,0,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:35 AM
+86,7,1,96,0029800336,McGrady  Dunk (2 PTS) (Christie 2 AST),,1:21,1,4,4,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,23 - 28,5,,11:35 AM
+87,1,1,98,0029800336,,,0:59,1,5,5,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,26 - 28,2,Murray  3PT Jump Shot (9 PTS) (Douglas 4 AST),11:36 AM
+88,1,2,100,0029800336,MISS Brown 21' Jump Shot,,0:45,1,4,0,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:36 AM
+89,0,4,101,0029800336,,,0:43,1,5,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Piatkowski REBOUND (Off:0 Def:2),11:36 AM
+90,1,2,103,0029800336,,,0:32,1,5,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Piatkowski 21' Jump Shot,11:36 AM
+91,0,4,104,0029800336,Willis REBOUND (Off:0 Def:2),,0:30,1,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:36 AM
+92,1,5,105,0029800336,Brown Bad Pass Turnover (P1.T4),,0:18,1,4,5,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Douglas STEAL (2 STL),11:36 AM
+93,2,6,106,0029800336,Christie S.FOUL (P2.PN),,0:01,1,4,0,1,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:37 AM
+94,11,3,107,0029800336,,,0:01,1,5,0,0,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,27 - 28,1,Olowokandi Free Throw 1 of 2 (1 PTS),11:37 AM
+95,12,3,108,0029800336,,,0:01,1,5,0,0,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Olowokandi Free Throw 2 of 2,11:37 AM
+96,0,4,109,0029800336,,,0:00,1,5,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Wright REBOUND (Off:1 Def:1),11:37 AM
+97,4,2,110,0029800336,,,0:00,1,5,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Wright  Tip Shot,11:37 AM
+98,0,4,111,0029800336,Willis REBOUND (Off:0 Def:3),,0:00,1,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:37 AM
+99,0,13,112,0029800336,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,27 - 28,1,,11:37 AM
+100,0,12,118,0029800336,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,27 - 28,1,,11:40 AM
+101,1,1,120,0029800336,Carter 18' Jump Shot (10 PTS) (Brown 1 AST),,11:42,2,4,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,27 - 30,3,,11:41 AM
+102,6,2,122,0029800336,,,11:27,2,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Murray  Driving Layup,11:41 AM
+103,0,4,123,0029800336,Carter REBOUND (Off:0 Def:1),,11:25,2,4,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:41 AM
+104,1,1,124,0029800336,Wallace 9' Jump Shot (2 PTS) (Willis 1 AST),,11:16,2,4,4,0,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,27 - 32,5,,11:41 AM
+105,17,6,126,0029800336,RAPTORS Foul,,11:02,2,2,0,1,1610612761,,,,,,0,,,,,,0,,,,,,,,,11:41 AM
+106,16,3,128,0029800336,,,11:02,2,5,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,28 - 32,4,Piatkowski Free Throw Technical (4 PTS),11:41 AM
+107,0,8,130,0029800336,,,11:02,2,5,5,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Nesby FOR Piatkowski,11:42 AM
+108,1,1,132,0029800336,,,10:43,2,5,5,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,30 - 32,2,Wright 14' Jump Shot (2 PTS) (Nesby 3 AST),11:42 AM
+109,4,5,134,0029800336,Willis Traveling Turnover (P2.T5),,10:22,2,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:42 AM
+110,1,2,135,0029800336,Wallace BLOCK (1 BLK),,10:01,2,5,0,4,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,,,MISS Rogers 13' Jump Shot,11:43 AM
+111,0,4,137,0029800336,,,9:58,2,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Rogers REBOUND (Off:1 Def:0),11:43 AM
+112,1,1,138,0029800336,,,9:54,2,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,32 - 32,TIE,Rogers 16' Jump Shot (2 PTS),11:43 AM
+113,1,2,139,0029800336,MISS Wallace 10' Jump Shot,,9:34,2,4,0,0,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:43 AM
+114,0,4,140,0029800336,,,9:33,2,5,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Wright REBOUND (Off:1 Def:2),11:43 AM
+115,5,2,141,0029800336,Carter BLOCK (1 BLK),,9:26,2,5,0,4,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,,,MISS Rogers  Layup,11:44 AM
+116,0,4,142,0029800336,Willis REBOUND (Off:0 Def:4),,9:23,2,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:44 AM
+117,1,1,143,0029800336,Carter 5' Jump Shot (12 PTS) (Willis 2 AST),,9:18,2,4,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,32 - 34,2,,11:44 AM
+118,1,2,144,0029800336,Wallace BLOCK (2 BLK),,8:57,2,5,0,4,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,,,MISS Murray 9' Jump Shot,11:44 AM
+119,0,4,145,0029800336,,,8:56,2,5,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Wright REBOUND (Off:2 Def:2),11:44 AM
+120,1,1,146,0029800336,,,8:52,2,5,5,0,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,35 - 34,-1,Martin 24' 3PT Jump Shot (3 PTS) (Wright 1 AST),11:44 AM
+121,1,6,147,0029800336,,,8:29,2,5,0,1,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Rogers P.FOUL (P1.T1),11:45 AM
+122,3,9,148,0029800336,,,8:29,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:45 AM
+123,1,1,152,0029800336,Willis 7' Jump Shot (4 PTS) (Brown 2 AST),,8:15,2,4,4,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,35 - 36,1,,11:47 AM
+124,1,2,153,0029800336,Willis BLOCK (1 BLK),,7:54,2,5,0,4,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,,,MISS Rogers 14' Jump Shot,11:48 AM
+125,0,4,154,0029800336,McGrady REBOUND (Off:0 Def:2),,7:50,2,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:48 AM
+126,1,6,155,0029800336,,,7:50,2,5,0,1,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Nesby P.FOUL (P3.T2),11:48 AM
+127,0,8,156,0029800336,,,7:50,2,5,5,0,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Taylor FOR Nesby,11:48 AM
+128,0,8,157,0029800336,SUB: Oakley FOR Willis,,7:50,2,4,4,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,11:48 AM
+129,1,2,158,0029800336,MISS McGrady 20' Jump Shot,,7:41,2,4,0,5,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,,,Murray BLOCK (2 BLK),11:49 AM
+130,0,4,159,0029800336,,,7:38,2,5,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Wright REBOUND (Off:2 Def:3),11:49 AM
+131,1,1,160,0029800336,,,7:33,2,5,5,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,38 - 36,-2,Rogers  3PT Jump Shot (5 PTS) (Martin 1 AST),11:49 AM
+132,1,2,162,0029800336,MISS Brown  3PT Jump Shot,,7:20,2,4,0,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:49 AM
+133,0,4,163,0029800336,,,7:17,2,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Rogers REBOUND (Off:1 Def:1),11:49 AM
+134,1,5,164,0029800336,,,7:09,2,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Murray Bad Pass Turnover (P2.T5),11:49 AM
+135,1,1,165,0029800336,Wallace 17' Jump Shot (4 PTS) (Carter 2 AST),,6:57,2,4,4,0,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,38 - 38,TIE,,11:50 AM
+136,1,6,166,0029800336,McGrady P.FOUL (P1.T1),,6:42,2,4,0,1,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:50 AM
+137,3,9,167,0029800336,RAPTORS Timeout: Official TV (Full 0 Short 0),,6:42,2,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,11:50 AM
+138,1,2,171,0029800336,,,6:33,2,5,0,0,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Martin 23' Jump Shot,11:52 AM
+139,0,4,172,0029800336,,,6:30,2,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:1 Def:0),11:52 AM
+140,1,2,173,0029800336,,,6:24,2,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Rogers 21' Jump Shot,11:52 AM
+141,0,4,174,0029800336,McGrady REBOUND (Off:0 Def:3),,6:21,2,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:53 AM
+142,1,5,175,0029800336,McGrady Bad Pass Turnover (P1.T6),,6:16,2,4,5,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Martin STEAL (1 STL),11:53 AM
+143,1,1,176,0029800336,,,6:08,2,5,5,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,40 - 38,-2,Wright 6' Jump Shot (4 PTS) (Murray 1 AST),11:53 AM
+144,1,2,177,0029800336,MISS Carter 21' Jump Shot,,5:50,2,4,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:53 AM
+145,0,4,178,0029800336,McGrady REBOUND (Off:1 Def:3),,5:48,2,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:53 AM
+146,4,1,179,0029800336,McGrady  Tip Shot (4 PTS),,5:45,2,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,40 - 40,TIE,,11:53 AM
+147,1,2,180,0029800336,,,5:30,2,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Taylor 19' Jump Shot,11:53 AM
+148,0,4,181,0029800336,,,5:27,2,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Rogers REBOUND (Off:2 Def:1),11:54 AM
+149,1,6,182,0029800336,Carter P.FOUL (P2.T2),,5:26,2,4,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:54 AM
+150,0,8,183,0029800336,,,5:20,2,5,5,0,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Douglas FOR Martin,11:54 AM
+151,0,8,184,0029800336,SUB: Christie FOR McGrady,,5:18,2,4,4,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,11:54 AM
+152,1,2,185,0029800336,,,5:11,2,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Taylor 20' Jump Shot,11:54 AM
+153,0,4,186,0029800336,Wallace REBOUND (Off:0 Def:1),,5:08,2,4,0,0,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:54 AM
+154,1,2,187,0029800336,MISS Brown 25' 3PT Jump Shot,,5:02,2,4,0,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:54 AM
+155,0,4,188,0029800336,,,5:00,2,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Rogers REBOUND (Off:2 Def:2),11:54 AM
+156,2,6,189,0029800336,Carter S.FOUL (P3.T3),,4:55,2,4,0,1,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:54 AM
+157,11,3,190,0029800336,,,4:55,2,5,0,0,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,41 - 40,-1,Douglas Free Throw 1 of 2 (1 PTS),11:55 AM
+158,0,8,192,0029800336,SUB: McGrady FOR Carter,,4:55,2,4,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,11:55 AM
+159,12,3,193,0029800336,,,4:55,2,5,0,0,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,42 - 40,-2,Douglas Free Throw 2 of 2 (2 PTS),11:55 AM
+160,4,6,195,0029800336,Wallace OFF.Foul (P1),,4:41,2,4,0,1,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:56 AM
+161,5,5,196,0029800336,Wallace Foul Turnover (P1.T7),,4:41,2,4,0,0,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:56 AM
+162,2,5,197,0029800336,Oakley STEAL (2 STL),,4:26,2,5,4,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Taylor Lost Ball Turnover (P3.T6),11:56 AM
+163,8,1,198,0029800336,Wallace  Slam Dunk (6 PTS) (Brown 3 AST),,4:12,2,4,4,0,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,42 - 42,TIE,,11:56 AM
+164,2,6,199,0029800336,,,4:12,2,5,0,1,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Wright S.FOUL (P1.T3),11:56 AM
+165,10,3,200,0029800336,MISS Wallace Free Throw 1 of 1,,4:12,2,4,0,0,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:57 AM
+166,0,4,201,0029800336,Oakley REBOUND (Off:1 Def:1),,4:08,2,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:57 AM
+167,2,6,203,0029800336,,,4:04,2,5,0,1,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Douglas S.FOUL (P1.T4),11:57 AM
+168,11,3,204,0029800336,MISS Wallace Free Throw 1 of 2,,4:04,2,4,0,0,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:57 AM
+169,2,4,206,0029800336,RAPTORS Rebound,,4:04,2,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,11:57 AM
+170,0,8,207,0029800336,,,4:04,2,5,5,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Olowokandi FOR Wright,11:57 AM
+171,12,3,208,0029800336,Wallace Free Throw 2 of 2 (7 PTS),,4:04,2,4,0,0,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,42 - 43,1,,11:58 AM
+172,6,1,209,0029800336,,,3:51,2,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,44 - 43,-1,Rogers  Driving Layup (7 PTS),11:58 AM
+173,4,5,210,0029800336,Christie Traveling Turnover (P1.T8),,3:28,2,4,0,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:58 AM
+174,1,2,211,0029800336,,,3:08,2,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Murray 24' 3PT Jump Shot,11:59 AM
+175,0,4,212,0029800336,Oakley REBOUND (Off:1 Def:2),,3:06,2,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:59 AM
+176,2,2,213,0029800336,MISS McGrady 7' Running Jump Shot,,3:03,2,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,11:59 AM
+177,0,4,214,0029800336,,,2:59,2,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:1 Def:1),11:59 AM
+178,3,9,215,0029800336,,,2:51,2,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Timeout: Official TV (Reg.1 Short 0),11:59 AM
+179,0,8,217,0029800336,SUB: Willis FOR Wallace,,2:51,2,4,4,0,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:01 PM
+180,5,2,219,0029800336,,,2:42,2,5,0,0,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Olowokandi  Layup,12:02 PM
+181,0,4,220,0029800336,Brown REBOUND (Off:0 Def:1),,2:39,2,4,0,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:02 PM
+182,1,2,221,0029800336,MISS Brown 24' 3PT Jump Shot,,2:32,2,4,0,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:02 PM
+183,0,4,222,0029800336,,,2:30,2,5,0,0,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Olowokandi REBOUND (Off:2 Def:1),12:02 PM
+184,1,2,223,0029800336,,,2:15,2,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Taylor 16' Jump Shot,12:02 PM
+185,0,4,224,0029800336,Willis REBOUND (Off:0 Def:5),,2:13,2,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:02 PM
+186,1,2,225,0029800336,MISS Christie 21' Jump Shot,,2:07,2,4,0,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:03 PM
+187,0,4,226,0029800336,McGrady REBOUND (Off:2 Def:3),,2:05,2,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:03 PM
+188,5,1,227,0029800336,Christie  Layup (10 PTS) (McGrady 2 AST),,2:02,2,4,4,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,44 - 45,1,,12:03 PM
+189,1,1,228,0029800336,,,1:44,2,5,5,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,46 - 45,-1,Murray 19' Jump Shot (11 PTS) (Rogers 1 AST),12:03 PM
+190,1,5,229,0029800336,Oakley Bad Pass Turnover (P3.T9),,1:28,2,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:03 PM
+191,2,5,230,0029800336,,,1:13,2,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Taylor Lost Ball Turnover (P4.T7),12:04 PM
+192,2,6,232,0029800336,,,1:00,2,5,0,1,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Taylor S.FOUL (P3.PN),12:04 PM
+193,11,3,233,0029800336,McGrady Free Throw 1 of 2 (5 PTS),,1:00,2,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,46 - 46,TIE,,12:04 PM
+194,0,8,234,0029800336,,,1:00,2,5,5,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Piatkowski FOR Taylor,12:04 PM
+195,0,8,235,0029800336,SUB: Williams FOR Brown,,1:00,2,4,4,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:05 PM
+196,12,3,236,0029800336,McGrady Free Throw 2 of 2 (6 PTS),,1:00,2,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,46 - 47,1,,12:05 PM
+197,2,9,237,0029800336,,,1:00,2,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Timeout: Short (Reg.1 Short 1),12:05 PM
+198,1,2,241,0029800336,,,0:51,2,5,0,0,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Olowokandi 10' Jump Shot,12:06 PM
+199,0,4,242,0029800336,McGrady REBOUND (Off:2 Def:4),,0:49,2,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:06 PM
+200,1,1,243,0029800336,Williams 14' Jump Shot (6 PTS),,0:39,2,4,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,46 - 49,3,,12:06 PM
+201,1,2,244,0029800336,,,0:21,2,5,0,0,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Douglas 13' Jump Shot,12:07 PM
+202,0,4,245,0029800336,RAPTORS Rebound,,0:19,2,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,12:07 PM
+203,4,5,246,0029800336,Christie Traveling Turnover (P2.T10),,0:05,2,4,0,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:07 PM
+204,1,6,247,0029800336,McGrady P.FOUL (P2.T4),,0:01,2,4,0,1,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:07 PM
+205,1,2,248,0029800336,,,0:00,2,5,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Piatkowski 22' Jump Shot,12:08 PM
+206,0,4,249,0029800336,,,0:00,2,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Rebound,12:08 PM
+207,0,13,250,0029800336,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,46 - 49,3,,12:08 PM
+208,0,12,252,0029800336,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,46 - 49,3,,12:24 PM
+209,1,1,253,0029800336,Carter 9' Jump Shot (14 PTS) (Williams 4 AST),,11:46,3,4,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,46 - 51,5,,12:24 PM
+210,2,2,254,0029800336,,,11:29,3,5,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Piatkowski 8' Running Jump Shot,12:25 PM
+211,0,4,255,0029800336,Oakley REBOUND (Off:1 Def:3),,11:25,3,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:25 PM
+212,1,5,256,0029800336,Christie Bad Pass Turnover (P3.T11),,11:11,3,4,5,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Olowokandi STEAL (1 STL),12:25 PM
+213,2,2,257,0029800336,,,10:53,3,5,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Piatkowski 11' Running Jump Shot,12:25 PM
+214,0,4,258,0029800336,,,10:51,3,5,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Piatkowski REBOUND (Off:1 Def:2),12:25 PM
+215,2,5,259,0029800336,Christie STEAL (1 STL),,10:48,3,5,4,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Piatkowski Lost Ball Turnover (P1.T8),12:25 PM
+216,2,6,260,0029800336,,,10:30,3,5,0,1,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Murray S.FOUL (P1.T1),12:26 PM
+217,11,3,261,0029800336,Carter Free Throw 1 of 2 (15 PTS),,10:30,3,4,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,46 - 52,6,,12:26 PM
+218,12,3,262,0029800336,Carter Free Throw 2 of 2 (16 PTS),,10:30,3,4,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,46 - 53,7,,12:26 PM
+219,6,1,264,0029800336,,,10:20,3,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,48 - 53,5,Taylor  Driving Layup (9 PTS),12:27 PM
+220,2,6,265,0029800336,,,10:02,3,5,0,1,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Murray S.FOUL (P2.T2),12:27 PM
+221,1,9,266,0029800336,,,10:02,3,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Timeout: Regular (Reg.2 Short 1),12:27 PM
+222,11,3,270,0029800336,MISS Carter Free Throw 1 of 2,,10:02,3,4,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:29 PM
+223,2,4,271,0029800336,RAPTORS Rebound,,10:02,3,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,12:29 PM
+224,12,3,272,0029800336,Carter Free Throw 2 of 2 (17 PTS),,10:02,3,4,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,48 - 54,6,,12:29 PM
+225,1,2,273,0029800336,,,9:39,3,5,0,0,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Olowokandi 12' Jump Shot,12:30 PM
+226,0,4,274,0029800336,Oakley REBOUND (Off:1 Def:4),,9:37,3,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:30 PM
+227,1,1,275,0029800336,Christie 18' Jump Shot (12 PTS) (Williams 5 AST),,9:29,3,4,4,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,48 - 56,8,,12:30 PM
+228,1,1,276,0029800336,,,9:06,3,5,5,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,51 - 56,5,Piatkowski 24' 3PT Jump Shot (7 PTS) (Douglas 5 AST),12:30 PM
+229,5,2,277,0029800336,MISS Thomas  Layup,,8:45,3,4,0,0,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:31 PM
+230,0,4,278,0029800336,Oakley REBOUND (Off:2 Def:4),,8:43,3,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:31 PM
+231,4,2,279,0029800336,MISS Oakley  Tip Shot,,8:40,3,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:31 PM
+232,0,4,280,0029800336,Thomas REBOUND (Off:3 Def:1),,8:38,3,4,0,0,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:31 PM
+233,5,2,281,0029800336,MISS Oakley  Layup,,8:29,3,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:31 PM
+234,0,4,282,0029800336,Oakley REBOUND (Off:3 Def:4),,8:26,3,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:31 PM
+235,4,2,283,0029800336,MISS Oakley  Tip Shot,,8:25,3,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:31 PM
+236,0,4,284,0029800336,Oakley REBOUND (Off:4 Def:4),,8:23,3,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:31 PM
+237,1,2,285,0029800336,MISS Christie 25' 3PT Jump Shot,,8:17,3,4,0,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:31 PM
+238,0,4,286,0029800336,Carter REBOUND (Off:1 Def:1),,8:14,3,4,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:31 PM
+239,4,1,287,0029800336,Carter  Tip Shot (19 PTS),,8:12,3,4,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,51 - 58,7,,12:31 PM
+240,2,1,289,0029800336,,,7:58,3,5,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,53 - 58,5,Piatkowski 17' Running Jump Shot (9 PTS),12:31 PM
+241,2,5,290,0029800336,Carter Lost Ball Turnover (P1.T12),,7:36,3,4,5,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Murray STEAL (1 STL),12:32 PM
+242,1,5,291,0029800336,Christie STEAL (2 STL),,7:25,3,5,4,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Taylor Bad Pass Turnover (P5.T9),12:32 PM
+243,6,2,292,0029800336,MISS Williams  Driving Layup,,7:12,3,4,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:32 PM
+244,0,4,293,0029800336,,,7:09,3,5,0,0,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Douglas REBOUND (Off:0 Def:1),12:32 PM
+245,1,2,294,0029800336,,,6:57,3,5,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Piatkowski 18' Jump Shot,12:32 PM
+246,0,4,295,0029800336,Thomas REBOUND (Off:3 Def:2),,6:54,3,4,0,0,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:33 PM
+247,6,1,296,0029800336,Williams  Driving Layup (8 PTS),,6:48,3,4,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,53 - 60,7,,12:33 PM
+248,2,6,297,0029800336,Williams S.FOUL (P1.T1),,6:32,3,4,0,1,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:33 PM
+249,0,8,298,0029800336,,,6:32,3,5,5,0,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Wright FOR Olowokandi,12:33 PM
+250,0,8,299,0029800336,,,6:32,3,5,5,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Nesby FOR Murray,12:33 PM
+251,0,8,300,0029800336,SUB: McGrady FOR Thomas,,6:32,3,4,4,0,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:33 PM
+252,0,8,301,0029800336,SUB: Willis FOR Christie,,6:32,3,4,4,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:33 PM
+253,11,3,302,0029800336,,,6:32,3,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,54 - 60,6,Taylor Free Throw 1 of 2 (10 PTS),12:33 PM
+254,12,3,303,0029800336,,,6:32,3,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,55 - 60,5,Taylor Free Throw 2 of 2 (11 PTS),12:34 PM
+255,1,2,307,0029800336,MISS Willis 3' Jump Shot,,6:20,3,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:34 PM
+256,0,4,305,0029800336,,,6:18,3,5,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Wright REBOUND (Off:2 Def:4),12:34 PM
+257,2,5,306,0029800336,Williams STEAL (1 STL),,6:10,3,5,4,0,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Nesby Lost Ball Turnover (P1.T10),12:34 PM
+258,1,2,308,0029800336,MISS Williams 8' Jump Shot,,6:00,3,4,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:34 PM
+259,0,4,309,0029800336,,,5:58,3,5,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Wright REBOUND (Off:2 Def:5),12:34 PM
+260,2,5,310,0029800336,McGrady STEAL (1 STL),,5:55,3,5,4,0,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Douglas Lost Ball Turnover (P1.T11),12:35 PM
+261,9,1,311,0029800336,Carter  Driving Dunk (21 PTS) (McGrady 3 AST),,5:49,3,4,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,55 - 62,7,,12:35 PM
+262,2,6,312,0029800336,,,5:49,3,5,0,1,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Taylor S.FOUL (P4.T3),12:35 PM
+263,10,3,313,0029800336,Carter Free Throw 1 of 1 (22 PTS),,5:49,3,4,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,55 - 63,8,,12:35 PM
+264,11,5,315,0029800336,,,5:24,3,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Turnover: Shot Clock (T#12),12:35 PM
+265,0,8,316,0029800336,SUB: Stewart FOR Oakley,,5:24,3,4,4,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,1565,Michael Stewart,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:36 PM
+266,3,2,318,0029800336,MISS Willis 10' Hook Shot,,5:08,3,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:36 PM
+267,0,4,319,0029800336,McGrady REBOUND (Off:3 Def:4),,5:05,3,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:36 PM
+268,1,6,320,0029800336,,,4:53,3,5,0,1,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Nesby P.FOUL (P4.T4),12:36 PM
+269,0,8,321,0029800336,,,4:53,3,5,5,0,1838,Tyrone Nesby,LAC,Los Angeles,1610612746.0,Clippers,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Rogers FOR Nesby,12:37 PM
+270,0,8,322,0029800336,,,4:53,3,5,5,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,1520,Charles Smith,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Smith FOR Piatkowski,12:37 PM
+271,0,8,323,0029800336,SUB: Brown FOR Williams,,4:53,3,4,4,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:37 PM
+272,1,1,325,0029800336,Carter 21' Jump Shot (24 PTS) (Brown 4 AST),,4:42,3,4,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,55 - 65,10,,12:37 PM
+273,11,5,326,0029800336,,,4:16,3,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Turnover: Shot Clock (T#13),12:37 PM
+274,1,9,327,0029800336,,,4:16,3,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Timeout: Regular (Reg.3 Short 1),12:38 PM
+275,5,2,331,0029800336,MISS McGrady  Layup,,4:02,3,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:40 PM
+276,0,4,332,0029800336,Willis REBOUND (Off:1 Def:5),,4:00,3,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:40 PM
+277,4,1,333,0029800336,Willis  Tip Shot (6 PTS),,3:58,3,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,55 - 67,12,,12:40 PM
+278,2,5,334,0029800336,Brown STEAL (1 STL),,3:38,3,5,4,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Wright Lost Ball Turnover (P1.T14),12:41 PM
+279,2,5,335,0029800336,Stewart Lost Ball Turnover (P1.T13),,3:35,3,4,5,0,1565,Michael Stewart,TOR,Toronto,1610612761.0,Raptors,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Douglas STEAL (3 STL),12:41 PM
+280,1,6,336,0029800336,Stewart P.FOUL (P1.T2),,3:35,3,4,0,1,1565,Michael Stewart,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:41 PM
+281,1,1,338,0029800336,,,3:28,3,5,5,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,57 - 67,10,Rogers 20' Jump Shot (9 PTS) (Douglas 6 AST),12:41 PM
+282,1,1,339,0029800336,Willis 13' Jump Shot (8 PTS) (McGrady 4 AST),,3:10,3,4,4,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,57 - 69,12,,12:42 PM
+283,1,6,340,0029800336,Stewart P.FOUL (P2.T3),,2:52,3,4,0,1,1565,Michael Stewart,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:42 PM
+284,1,2,341,0029800336,,,2:43,3,5,0,0,1520,Charles Smith,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Smith 25' 3PT Jump Shot,12:42 PM
+285,0,4,342,0029800336,,,2:41,3,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Rogers REBOUND (Off:3 Def:2),12:42 PM
+286,5,2,343,0029800336,,,2:37,3,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Rogers  Layup,12:42 PM
+287,0,4,344,0029800336,,,2:36,3,5,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Wright REBOUND (Off:3 Def:5),12:42 PM
+288,4,2,345,0029800336,,,2:36,3,5,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Wright  Tip Shot,12:42 PM
+289,0,4,346,0029800336,,,2:36,3,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Rebound,12:42 PM
+290,2,6,347,0029800336,Carter S.FOUL (P4.T4),,2:36,3,4,0,1,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:43 PM
+291,11,3,348,0029800336,,,2:36,3,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,58 - 69,11,Taylor Free Throw 1 of 2 (12 PTS),12:43 PM
+292,0,8,349,0029800336,SUB: Oakley FOR Stewart,,2:36,3,4,4,0,1565,Michael Stewart,TOR,Toronto,1610612761.0,Raptors,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:43 PM
+293,12,3,350,0029800336,,,2:36,3,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Taylor Free Throw 2 of 2,12:43 PM
+294,0,4,351,0029800336,Oakley REBOUND (Off:4 Def:5),,2:35,3,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:43 PM
+295,1,1,353,0029800336,Carter 17' Jump Shot (26 PTS) (Oakley 3 AST),,2:17,3,4,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,58 - 71,13,,12:44 PM
+296,6,2,354,0029800336,,,2:00,3,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Taylor  Driving Layup,12:44 PM
+297,0,4,355,0029800336,Oakley REBOUND (Off:4 Def:6),,1:58,3,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:44 PM
+298,1,5,356,0029800336,Carter Bad Pass Turnover (P2.T14),,1:51,3,4,0,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:44 PM
+299,0,8,357,0029800336,SUB: Wallace FOR Carter,,1:51,3,4,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:44 PM
+300,1,6,358,0029800336,Wallace P.FOUL (P2.PN),,1:41,3,4,0,1,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:45 PM
+301,11,3,359,0029800336,,,1:41,3,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,59 - 71,12,Rogers Free Throw 1 of 2 (10 PTS),12:45 PM
+302,12,3,360,0029800336,,,1:41,3,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,60 - 71,11,Rogers Free Throw 2 of 2 (11 PTS),12:45 PM
+303,2,5,361,0029800336,McGrady Lost Ball Turnover (P2.T15),,1:27,3,4,5,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Rogers STEAL (1 STL),12:45 PM
+304,1,6,362,0029800336,Brown P.FOUL (P1.PN),,1:24,3,4,0,1,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:46 PM
+305,11,3,363,0029800336,,,1:24,3,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Rogers Free Throw 1 of 2,12:46 PM
+306,2,4,364,0029800336,,,1:24,3,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Rebound,12:46 PM
+307,0,8,365,0029800336,SUB: Williams FOR McGrady,,1:24,3,4,4,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:46 PM
+308,12,3,366,0029800336,,,1:24,3,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,61 - 71,10,Rogers Free Throw 2 of 2 (12 PTS),12:46 PM
+309,1,1,368,0029800336,Brown 24' 3PT Jump Shot (3 PTS) (Willis 3 AST),,1:03,3,4,4,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,61 - 74,13,,12:47 PM
+310,1,2,369,0029800336,,,0:46,3,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Taylor 19' Jump Shot,12:47 PM
+311,0,4,371,0029800336,Willis REBOUND (Off:1 Def:6),,0:43,3,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:47 PM
+312,1,2,372,0029800336,MISS Brown 24' 3PT Jump Shot,,0:38,3,4,0,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:47 PM
+313,0,4,373,0029800336,Willis REBOUND (Off:2 Def:6),,0:36,3,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:47 PM
+314,2,6,374,0029800336,,,0:36,3,5,0,1,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Rogers S.FOUL (P2.PN),12:47 PM
+315,11,3,375,0029800336,Willis Free Throw 1 of 2 (9 PTS),,0:36,3,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,61 - 75,14,,12:47 PM
+316,0,8,376,0029800336,,,0:36,3,5,5,0,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Murray FOR Douglas,12:47 PM
+317,0,8,377,0029800336,,,0:36,3,5,5,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Martin FOR Taylor,12:48 PM
+318,12,3,378,0029800336,Willis Free Throw 2 of 2 (10 PTS),,0:36,3,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,61 - 76,15,,12:48 PM
+319,1,1,379,0029800336,,,0:22,3,5,0,0,1520,Charles Smith,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,63 - 76,13,Smith 14' Jump Shot (2 PTS),12:48 PM
+320,1,9,380,0029800336,RAPTORS Timeout: Regular (Full 1 Short 0),,0:16,3,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,12:48 PM
+321,0,8,383,0029800336,SUB: Christie FOR Willis,,0:16,3,4,4,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:50 PM
+322,1,2,384,0029800336,MISS Brown 25' 3PT Jump Shot,,0:02,3,4,0,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:50 PM
+323,0,4,385,0029800336,,,0:00,3,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Rogers REBOUND (Off:3 Def:3),12:51 PM
+324,0,13,386,0029800336,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,63 - 76,13,,12:51 PM
+325,0,12,388,0029800336,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,63 - 76,13,,12:53 PM
+326,17,6,389,0029800336,RAPTORS Foul,,11:50,4,2,0,1,1610612761,,,,,,0,,,,,,0,,,,,,,,,12:54 PM
+327,16,3,390,0029800336,,,11:50,4,5,0,0,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Martin Free Throw Technical,12:54 PM
+328,2,4,391,0029800336,,,11:50,4,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Rebound,12:54 PM
+329,5,1,392,0029800336,,,11:37,4,5,5,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,1520,Charles Smith,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,65 - 76,11,Rogers  Layup (14 PTS) (Smith 1 AST),12:54 PM
+330,2,6,393,0029800336,Oakley S.FOUL (P3.T1),,11:37,4,4,0,1,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:54 PM
+331,10,3,394,0029800336,,,11:37,4,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,66 - 76,10,Rogers Free Throw 1 of 1 (15 PTS),12:54 PM
+332,1,6,395,0029800336,,,11:30,4,5,0,1,1520,Charles Smith,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Smith P.FOUL (P1.T1),12:55 PM
+333,2,5,396,0029800336,Wallace Lost Ball Turnover (P2.T16),,11:20,4,4,5,0,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Wright STEAL (1 STL),12:55 PM
+334,5,1,397,0029800336,,,11:09,4,5,5,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,1520,Charles Smith,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,68 - 76,8,Wright  Layup (6 PTS) (Smith 2 AST),12:55 PM
+335,1,9,398,0029800336,RAPTORS Timeout: Regular (Full 2 Short 0),,11:01,4,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,12:56 PM
+336,0,8,400,0029800336,SUB: Carter FOR Brown,,11:01,4,4,4,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:57 PM
+337,0,8,401,0029800336,SUB: Willis FOR Wallace,,11:01,4,4,4,0,961,John Wallace,TOR,Toronto,1610612761.0,Raptors,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:57 PM
+338,1,1,403,0029800336,Christie 22' Jump Shot (14 PTS) (Oakley 4 AST),,10:46,4,4,4,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,68 - 78,10,,12:58 PM
+339,2,6,404,0029800336,Carter S.FOUL (P5.T2),,10:33,4,4,0,1,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:58 PM
+340,11,3,405,0029800336,,,10:33,4,5,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Wright Free Throw 1 of 2,12:58 PM
+341,2,4,406,0029800336,,,10:33,4,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Rebound,12:58 PM
+342,0,8,407,0029800336,SUB: McGrady FOR Carter,,10:33,4,4,4,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,12:58 PM
+343,12,3,408,0029800336,,,10:33,4,5,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,69 - 78,9,Wright Free Throw 2 of 2 (7 PTS),12:59 PM
+344,1,2,410,0029800336,MISS Christie 20' Jump Shot,,10:19,4,4,0,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:59 PM
+345,0,4,411,0029800336,,,10:16,4,5,0,0,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Martin REBOUND (Off:0 Def:1),12:59 PM
+346,6,2,412,0029800336,,,10:00,4,5,0,0,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Martin  Driving Layup,12:59 PM
+347,0,4,413,0029800336,,,9:58,4,5,0,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Wright REBOUND (Off:4 Def:5),12:59 PM
+348,1,2,414,0029800336,,,9:52,4,5,0,0,1520,Charles Smith,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Smith 21' Jump Shot,12:59 PM
+349,0,4,415,0029800336,Williams REBOUND (Off:0 Def:2),,9:50,4,4,0,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,12:59 PM
+350,4,5,416,0029800336,Willis Traveling Turnover (P3.T17),,9:31,4,4,0,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:00 PM
+351,0,8,417,0029800336,SUB: Thomas FOR Willis,,9:31,4,4,4,0,788,Kevin Willis,TOR,Toronto,1610612761.0,Raptors,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,1:00 PM
+352,4,5,418,0029800336,,,9:19,4,5,0,0,1520,Charles Smith,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Smith Traveling Turnover (P1.T15),1:00 PM
+353,6,2,419,0029800336,MISS Christie  Driving Layup,,9:04,4,4,0,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:01 PM
+354,0,4,420,0029800336,,,9:02,4,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:1 Def:2),1:01 PM
+355,6,2,421,0029800336,McGrady BLOCK (1 BLK),,8:58,4,5,0,4,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,,,MISS Martin  Driving Layup,1:01 PM
+356,0,4,422,0029800336,RAPTORS Rebound,,8:57,4,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,1:01 PM
+357,1,2,423,0029800336,MISS Oakley 18' Jump Shot,,8:45,4,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:01 PM
+358,0,4,424,0029800336,McGrady REBOUND (Off:4 Def:4),,8:43,4,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:01 PM
+359,2,6,425,0029800336,,,8:42,4,5,0,1,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Wright S.FOUL (P2.T2),1:01 PM
+360,0,8,426,0029800336,SUB: Brown FOR Williams,,8:42,4,4,4,0,1541,Alvin Williams,TOR,Toronto,1610612761.0,Raptors,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,1:01 PM
+361,0,8,427,0029800336,,,8:42,4,5,5,0,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Douglas FOR Martin,1:01 PM
+362,11,3,428,0029800336,McGrady Free Throw 1 of 2 (7 PTS),,8:42,4,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,69 - 79,10,,1:02 PM
+363,12,3,429,0029800336,McGrady Free Throw 2 of 2 (8 PTS),,8:42,4,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,69 - 80,11,,1:02 PM
+364,1,5,431,0029800336,Christie STEAL (3 STL),,8:30,4,5,4,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Rogers Bad Pass Turnover (P1.T16),1:02 PM
+365,1,2,432,0029800336,MISS Brown 18' Jump Shot,,8:18,4,4,0,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:02 PM
+366,0,4,433,0029800336,,,8:16,4,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:1 Def:3),1:02 PM
+367,1,1,434,0029800336,,,7:57,4,5,0,0,1520,Charles Smith,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,71 - 80,9,Smith 17' Jump Shot (4 PTS),1:03 PM
+368,2,6,435,0029800336,,,7:38,4,5,0,1,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Wright S.FOUL (P3.T3),1:03 PM
+369,0,8,436,0029800336,,,7:38,4,5,5,0,953,Lorenzen Wright,LAC,Los Angeles,1610612746.0,Clippers,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Taylor FOR Wright,1:03 PM
+370,11,3,437,0029800336,Christie Free Throw 1 of 2 (15 PTS),,7:38,4,4,0,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,71 - 81,10,,1:03 PM
+371,12,3,438,0029800336,MISS Christie Free Throw 2 of 2,,7:38,4,4,0,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:04 PM
+372,0,4,439,0029800336,,,7:38,4,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Taylor REBOUND (Off:0 Def:1),1:04 PM
+373,2,2,441,0029800336,,,7:19,4,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Murray 7' Running Jump Shot,1:04 PM
+374,0,4,442,0029800336,McGrady REBOUND (Off:4 Def:5),,7:16,4,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:04 PM
+375,6,2,443,0029800336,MISS McGrady  Driving Layup,,6:56,4,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:04 PM
+376,0,4,444,0029800336,Thomas REBOUND (Off:4 Def:2),,6:53,4,4,0,0,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:04 PM
+377,4,1,445,0029800336,Thomas  Tip Shot (6 PTS),,6:51,4,4,0,0,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,71 - 83,12,,1:05 PM
+378,2,9,446,0029800336,,,6:48,4,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Timeout: Short (Reg.3 Short 2),1:05 PM
+379,3,9,447,0029800336,,,6:48,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,1:05 PM
+380,1,2,450,0029800336,,,6:40,4,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Murray 24' 3PT Jump Shot,1:07 PM
+381,0,4,451,0029800336,,,6:37,4,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Murray REBOUND (Off:2 Def:3),1:08 PM
+382,1,2,452,0029800336,,,6:30,4,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Murray 24' 3PT Jump Shot,1:08 PM
+383,0,4,453,0029800336,McGrady REBOUND (Off:4 Def:6),,6:24,4,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:08 PM
+384,5,2,454,0029800336,MISS Brown  Layup,,6:22,4,4,0,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:08 PM
+385,0,4,456,0029800336,,,6:20,4,5,0,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Rogers REBOUND (Off:3 Def:4),1:08 PM
+386,1,2,457,0029800336,,,5:56,4,5,0,0,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Douglas 24' 3PT Jump Shot,1:08 PM
+387,0,4,458,0029800336,,,5:55,4,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Taylor REBOUND (Off:1 Def:1),1:08 PM
+388,1,2,459,0029800336,,,5:46,4,5,0,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Murray 20' Jump Shot,1:08 PM
+389,0,4,460,0029800336,McGrady REBOUND (Off:4 Def:7),,5:44,4,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:08 PM
+390,5,2,462,0029800336,MISS McGrady  Layup,,5:21,4,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:09 PM
+391,0,4,463,0029800336,Oakley REBOUND (Off:5 Def:6),,5:19,4,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:09 PM
+392,1,6,464,0029800336,,,5:07,4,5,0,1,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Douglas P.FOUL (P2.T4),1:09 PM
+393,0,8,465,0029800336,,,5:07,4,5,5,0,441,Lamond Murray,LAC,Los Angeles,1610612746.0,Clippers,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Piatkowski FOR Murray,1:09 PM
+394,0,8,466,0029800336,,,5:07,4,5,5,0,915,Rodney Rogers,LAC,Los Angeles,1610612746.0,Clippers,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Olowokandi FOR Rogers,1:09 PM
+395,1,2,467,0029800336,MISS Brown 25' 3PT Jump Shot,,4:57,4,4,0,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:10 PM
+396,0,4,468,0029800336,McGrady REBOUND (Off:5 Def:7),,4:55,4,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:10 PM
+397,1,6,469,0029800336,,,4:54,4,5,0,0,1520,Charles Smith,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Smith P.FOUL (P2.PN),1:10 PM
+398,0,8,470,0029800336,SUB: Carter FOR Brown,,4:54,4,4,4,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,1:10 PM
+399,11,3,472,0029800336,McGrady Free Throw 1 of 2 (9 PTS),,4:54,4,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,71 - 84,13,,1:10 PM
+400,12,3,473,0029800336,McGrady Free Throw 2 of 2 (10 PTS),,4:54,4,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,71 - 85,14,,1:10 PM
+401,1,6,474,0029800336,Thomas P.FOUL (P2.T3),,4:33,4,4,0,1,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:11 PM
+402,1,6,475,0029800336,Thomas P.FOUL (P3.T4),,4:22,4,4,0,1,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:11 PM
+403,1,1,477,0029800336,,,4:10,4,5,0,0,1520,Charles Smith,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,74 - 85,11,Smith 25' 3PT Jump Shot (7 PTS),1:12 PM
+404,2,5,478,0029800336,Carter Lost Ball Turnover (P3.T18),,3:51,4,4,5,0,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Piatkowski STEAL (1 STL),1:12 PM
+405,5,2,479,0029800336,Thomas BLOCK (2 BLK),,3:45,4,5,0,4,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,,,MISS Piatkowski  Layup,1:12 PM
+406,0,4,480,0029800336,,,3:42,4,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Taylor REBOUND (Off:2 Def:1),1:12 PM
+407,11,6,481,0029800336,,,3:42,4,5,0,1,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Piatkowski T.FOUL (P1.PN),1:13 PM
+408,16,3,482,0029800336,MISS McGrady Free Throw Technical,,3:42,4,4,0,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:13 PM
+409,2,4,483,0029800336,,,3:42,4,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Rebound,1:13 PM
+410,17,6,485,0029800336,RAPTORS Foul,,3:32,4,2,0,1,1610612761,,,,,,0,,,,,,0,,,,,,,,,1:13 PM
+411,16,3,486,0029800336,,,3:32,4,5,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,75 - 85,10,Piatkowski Free Throw Technical (10 PTS),1:14 PM
+412,0,8,487,0029800336,SUB: Brown FOR McGrady,,3:32,4,4,4,0,1503,Tracy McGrady,TOR,Toronto,1610612761.0,Raptors,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,1:14 PM
+413,1,1,488,0029800336,,,3:22,4,5,5,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,1520,Charles Smith,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,78 - 85,7,Piatkowski 25' 3PT Jump Shot (13 PTS) (Smith 3 AST),1:14 PM
+414,1,1,489,0029800336,Oakley 16' Jump Shot (2 PTS) (Brown 5 AST),,2:58,4,4,4,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,78 - 87,9,,1:15 PM
+415,4,6,490,0029800336,,,2:35,4,5,0,1,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Taylor OFF.Foul (P5),1:15 PM
+416,5,5,491,0029800336,,,2:35,4,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Taylor Foul Turnover (P6.T17),1:15 PM
+417,3,9,492,0029800336,,,2:35,4,3,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,Clippers Timeout: Official TV (Reg.3 Short 2),1:15 PM
+418,1,1,496,0029800336,Brown 21' Jump Shot (5 PTS) (Christie 3 AST),,2:19,4,4,4,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,78 - 89,11,,1:18 PM
+419,1,2,497,0029800336,,,1:57,4,5,0,0,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,MISS Douglas 25' 3PT Jump Shot,1:18 PM
+420,0,4,498,0029800336,RAPTORS Rebound,,1:56,4,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,1:18 PM
+421,3,6,499,0029800336,,,1:56,4,5,0,1,1709,Michael Olowokandi,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Olowokandi L.B.FOUL (P1.PN),1:18 PM
+422,11,3,500,0029800336,Oakley Free Throw 1 of 2 (3 PTS),,1:56,4,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,78 - 90,12,,1:18 PM
+423,0,8,501,0029800336,,,1:56,4,5,5,0,428,Sherman Douglas,LAC,Los Angeles,1610612746.0,Clippers,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,SUB: Martin FOR Douglas,1:19 PM
+424,12,3,502,0029800336,Oakley Free Throw 2 of 2 (4 PTS),,1:56,4,4,0,0,891,Charles Oakley,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,78 - 91,13,,1:19 PM
+425,1,1,503,0029800336,,,1:41,4,5,0,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,80 - 91,11,Taylor 19' Jump Shot (14 PTS),1:19 PM
+426,1,1,504,0029800336,Brown 19' Jump Shot (7 PTS) (Carter 3 AST),,1:18,4,4,4,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,80 - 93,13,,1:20 PM
+427,1,5,505,0029800336,Carter STEAL (1 STL),,1:07,4,5,4,0,1508,Maurice Taylor,LAC,Los Angeles,1610612746.0,Clippers,1713,Vince Carter,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Taylor Bad Pass Turnover (P7.T18),1:20 PM
+428,1,2,506,0029800336,MISS Brown 22' Jump Shot,,0:48,4,4,0,0,244,Dee Brown,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:20 PM
+429,0,4,507,0029800336,,,0:47,4,5,0,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Piatkowski REBOUND (Off:1 Def:3),1:21 PM
+430,1,5,508,0029800336,Thomas STEAL (2 STL),,0:31,4,5,4,0,239,Darrick Martin,LAC,Los Angeles,1610612746.0,Clippers,1519,John Thomas,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Martin Bad Pass Turnover (P1.T19),1:21 PM
+431,1,2,510,0029800336,MISS Christie 24' 3PT Jump Shot,,0:08,4,4,0,0,57,Doug Christie,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,1:21 PM
+432,0,4,511,0029800336,,,0:06,4,5,0,0,1520,Charles Smith,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:1),1:21 PM
+433,5,1,512,0029800336,,,0:01,4,5,5,0,15,Eric Piatkowski,LAC,Los Angeles,1610612746.0,Clippers,1520,Charles Smith,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,82 - 93,11,Piatkowski  Layup (15 PTS) (Smith 4 AST),1:21 PM
+434,0,13,513,0029800336,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,82 - 93,11,,1:22 PM

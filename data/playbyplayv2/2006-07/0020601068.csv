@@ -1,0 +1,407 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020601068,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:03 PM
+1,0,10,1,0020601068,Jump Ball Kaman vs. Yao: Tip to Hayes,,12:00,1,4,5,5,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,,,,10:03 PM
+2,1,2,2,0020601068,Brand BLOCK (1 BLK),,11:45,1,5,0,4,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,,,MISS Yao 7' Jump Shot,10:04 PM
+3,0,4,3,0020601068,Kaman REBOUND (Off:0 Def:1),,11:43,1,4,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:04 PM
+4,2,5,4,0020601068,Brand Lost Ball Turnover (P1.T1),,11:26,1,4,5,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Hayes STEAL (1 STL),10:04 PM
+5,42,1,5,0020601068,,,11:21,1,5,5,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,2 - 0,-2,Hayes  Driving Layup (2 PTS) (Alston 1 AST),10:04 PM
+6,1,2,6,0020601068,MISS Maggette 16' Jump Shot,,11:04,1,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:05 PM
+7,0,4,7,0020601068,,,11:03,1,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes REBOUND (Off:0 Def:1),10:05 PM
+8,1,6,8,0020601068,Kaman P.FOUL (P1.T1),,10:56,1,4,5,1,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:05 PM
+9,1,2,9,0020601068,,,10:49,1,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady 17' Jump Shot,10:05 PM
+10,0,4,10,0020601068,CLIPPERS Rebound,,10:48,1,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,10:05 PM
+11,3,6,11,0020601068,,,10:48,1,5,4,1,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Yao L.B.FOUL (P1.T1),10:05 PM
+12,1,1,12,0020601068,Hart 19' Jump Shot (2 PTS) (Maggette 1 AST),,10:35,1,4,4,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,2 - 2,TIE,,10:06 PM
+13,4,5,13,0020601068,,,10:23,1,5,0,1,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes Traveling Turnover (P1.T1),10:06 PM
+14,1,2,14,0020601068,MISS Kaman 14' Jump Shot,,10:05,1,4,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:07 PM
+15,0,4,15,0020601068,,,10:04,1,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:0 Def:1),10:07 PM
+16,42,1,16,0020601068,,,9:49,1,5,5,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,4 - 2,-2,McGrady  Driving Layup (2 PTS) (Yao 1 AST),10:07 PM
+17,2,6,17,0020601068,,,9:34,1,5,4,1,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Hayes S.FOUL (P1.T2),10:07 PM
+18,11,3,18,0020601068,Maggette Free Throw 1 of 2 (1 PTS),,9:34,1,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,4 - 3,-1,,10:07 PM
+19,12,3,19,0020601068,Maggette Free Throw 2 of 2 (2 PTS),,9:34,1,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,4 - 4,TIE,,10:08 PM
+20,1,1,20,0020601068,,,9:13,1,5,5,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,6 - 4,-2,Yao 9' Jump Shot (2 PTS) (Alston 2 AST),10:08 PM
+21,1,2,21,0020601068,MISS Brand 8' Jump Shot,,8:56,1,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:09 PM
+22,0,4,22,0020601068,,,8:55,1,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:0 Def:1),10:09 PM
+23,59,1,23,0020601068,,,8:43,1,5,5,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,8 - 4,-4,McGrady  Finger Roll (4 PTS) (Alston 3 AST),10:09 PM
+24,1,2,24,0020601068,MISS Maggette 19' Jump Shot,,8:29,1,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:09 PM
+25,0,4,25,0020601068,Hart REBOUND (Off:1 Def:0),,8:27,1,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:09 PM
+26,1,1,26,0020601068,Hart 9' Jump Shot (4 PTS),,8:24,1,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,8 - 6,-2,,10:09 PM
+27,1,1,27,0020601068,,,8:13,1,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,11 - 6,-5,Alston 26' 3PT Jump Shot (3 PTS),10:09 PM
+28,1,1,28,0020601068,Maggette 20' Jump Shot (4 PTS) (Hart 1 AST),,7:59,1,4,4,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,11 - 8,-3,,10:10 PM
+29,49,1,29,0020601068,,,7:43,1,5,5,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,13 - 8,-5,McGrady  Driving Dunk (6 PTS) (Alston 4 AST),10:10 PM
+30,1,2,30,0020601068,MISS Maggette 20' Jump Shot,,7:16,1,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:11 PM
+31,0,4,31,0020601068,,,7:15,1,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:0 Def:2),10:11 PM
+32,41,2,32,0020601068,,,7:07,1,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady  Running Layup,10:11 PM
+33,0,4,33,0020601068,Hart REBOUND (Off:1 Def:1),,7:05,1,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:11 PM
+34,2,6,34,0020601068,,,7:00,1,5,4,1,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Hayes S.FOUL (P2.T3),10:11 PM
+35,11,3,35,0020601068,MISS Maggette Free Throw 1 of 2,,7:00,1,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:11 PM
+36,1,4,36,0020601068,CLIPPERS Rebound,,7:00,1,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,10:11 PM
+37,12,3,37,0020601068,Maggette Free Throw 2 of 2 (5 PTS),,7:00,1,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,13 - 9,-4,,10:11 PM
+38,1,2,38,0020601068,Kaman BLOCK (1 BLK),,6:47,1,5,0,4,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,,,MISS Yao 10' Jump Shot,10:12 PM
+39,0,4,39,0020601068,,,6:45,1,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:1 Def:2),10:12 PM
+40,1,2,40,0020601068,,,6:42,1,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady 26' 3PT Jump Shot,10:12 PM
+41,0,4,41,0020601068,Maggette REBOUND (Off:0 Def:1),,6:40,1,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:12 PM
+42,1,2,42,0020601068,MISS Maggette 19' Jump Shot,,6:23,1,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:12 PM
+43,0,4,43,0020601068,,,6:22,1,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:0 Def:1),10:12 PM
+44,60,1,44,0020601068,,,6:14,1,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,15 - 9,-6,McGrady  Running Finger Roll (8 PTS),10:12 PM
+45,1,2,45,0020601068,MISS Mobley 24' 3PT Jump Shot,,6:04,1,4,0,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:13 PM
+46,0,4,46,0020601068,,,5:59,1,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes REBOUND (Off:0 Def:2),10:13 PM
+47,1,1,47,0020601068,,,5:56,1,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,17 - 9,-8,Alston 21' Jump Shot (5 PTS),10:13 PM
+48,1,9,48,0020601068,CLIPPERS Timeout: Regular (Full 1 Short 0),,5:52,1,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,10:13 PM
+49,1,1,52,0020601068,Mobley 15' Jump Shot (2 PTS) (Maggette 2 AST),,5:41,1,4,4,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,17 - 11,-6,,10:16 PM
+50,1,2,53,0020601068,,,5:23,1,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Yao 18' Jump Shot,10:16 PM
+51,0,4,54,0020601068,Hart REBOUND (Off:1 Def:2),,5:22,1,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:16 PM
+52,63,1,55,0020601068,Brand 11' Fadeaway Jumper (2 PTS) (Maggette 3 AST),,5:02,1,4,4,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,17 - 13,-4,,10:17 PM
+53,4,5,56,0020601068,,,4:44,1,5,0,1,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao Traveling Turnover (P1.T2),10:17 PM
+54,2,6,58,0020601068,,,4:26,1,5,4,1,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Yao S.FOUL (P2.T4),10:17 PM
+55,11,3,59,0020601068,Kaman Free Throw 1 of 2 (1 PTS),,4:26,1,4,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,17 - 14,-3,,10:17 PM
+56,0,8,60,0020601068,,,4:26,1,5,5,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,87,Dikembe Mutombo,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Mutombo FOR Yao,10:18 PM
+57,12,3,61,0020601068,Kaman Free Throw 2 of 2 (2 PTS),,4:26,1,4,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,17 - 15,-2,,10:18 PM
+58,1,2,62,0020601068,,,4:07,1,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Alston 25' 3PT Jump Shot,10:19 PM
+59,0,4,63,0020601068,Brand REBOUND (Off:0 Def:1),,4:05,1,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:19 PM
+60,1,2,64,0020601068,MISS Brand 20' Jump Shot,,3:59,1,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:19 PM
+61,0,4,65,0020601068,,,3:57,1,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:0 Def:2),10:19 PM
+62,1,2,66,0020601068,,,3:49,1,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady 22' Jump Shot,10:19 PM
+63,0,4,67,0020601068,Brand REBOUND (Off:0 Def:2),,3:47,1,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:19 PM
+64,44,2,68,0020601068,MISS Mobley  Reverse Layup,,3:32,1,4,0,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:19 PM
+65,0,4,69,0020601068,Brand REBOUND (Off:1 Def:2),,3:29,1,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:19 PM
+66,2,5,70,0020601068,Brand Lost Ball Turnover (P2.T2),,3:28,1,4,5,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Alston STEAL (1 STL),10:19 PM
+67,46,1,71,0020601068,,,3:18,1,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,19 - 15,-4,McGrady 5' Running Jump Shot (10 PTS),10:20 PM
+68,2,6,72,0020601068,Mobley S.FOUL (P1.T2),,3:18,1,4,5,1,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:20 PM
+69,10,3,73,0020601068,,,3:18,1,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady Free Throw 1 of 1,10:20 PM
+70,0,4,74,0020601068,Maggette REBOUND (Off:0 Def:2),,3:15,1,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:20 PM
+71,1,5,75,0020601068,Mobley Bad Pass Turnover (P1.T3),,2:57,1,4,0,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:21 PM
+72,1,9,76,0020601068,,,2:57,1,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.1 Short 0),10:21 PM
+73,0,8,78,0020601068,,,2:57,1,5,5,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Howard FOR Hayes,10:23 PM
+74,0,8,79,0020601068,SUB: Thomas FOR Kaman,,2:57,1,4,4,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:23 PM
+75,1,1,80,0020601068,,,2:42,1,5,5,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,21 - 15,-6,Battier 7' Jump Shot (2 PTS) (McGrady 1 AST),10:24 PM
+76,1,1,81,0020601068,Thomas 25' 3PT Jump Shot (3 PTS) (Brand 1 AST),,2:15,1,4,4,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,21 - 18,-3,,10:24 PM
+77,1,2,82,0020601068,Maggette BLOCK (1 BLK),,1:59,1,5,0,4,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,,,MISS Battier 7' Jump Shot,10:24 PM
+78,0,4,83,0020601068,Thomas REBOUND (Off:0 Def:1),,1:53,1,4,0,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:24 PM
+79,1,2,84,0020601068,MISS Thomas 27' 3PT Jump Shot,,1:50,1,4,0,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:25 PM
+80,0,4,85,0020601068,,,1:48,1,5,0,0,87,Dikembe Mutombo,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:0 Def:1),10:25 PM
+81,1,2,86,0020601068,,,1:39,1,5,0,0,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Howard 16' Jump Shot,10:25 PM
+82,0,4,87,0020601068,,,1:37,1,5,0,0,87,Dikembe Mutombo,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:1 Def:1),10:25 PM
+83,5,2,88,0020601068,,,1:31,1,5,0,0,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Howard  Layup,10:25 PM
+84,0,4,89,0020601068,Thomas REBOUND (Off:0 Def:2),,1:30,1,4,0,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:25 PM
+85,47,1,90,0020601068,Brand 9' Turnaround Jump Shot (4 PTS) (Hart 2 AST),,1:15,1,4,4,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,21 - 20,-1,,10:25 PM
+86,44,2,91,0020601068,,,1:02,1,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady  Reverse Layup,10:25 PM
+87,0,4,92,0020601068,Mobley REBOUND (Off:0 Def:1),,1:01,1,4,0,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:25 PM
+88,1,1,93,0020601068,Mobley 27' 3PT Jump Shot (5 PTS) (Hart 3 AST),,0:57,1,4,4,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,21 - 23,2,,10:25 PM
+89,1,2,94,0020601068,,,0:35,1,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Battier 25' 3PT Jump Shot,10:26 PM
+90,0,4,95,0020601068,CLIPPERS Rebound,,0:35,1,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,10:26 PM
+91,0,8,96,0020601068,,,0:35,1,5,5,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,101129,Luther Head,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Head FOR Alston,10:26 PM
+92,42,1,97,0020601068,Brand  Driving Layup (6 PTS),,0:26,1,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,21 - 25,4,,10:26 PM
+93,2,6,98,0020601068,,,0:26,1,5,4,1,87,Dikembe Mutombo,HOU,Houston,1610612745.0,Rockets,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Mutombo S.FOUL (P1.PN),10:26 PM
+94,0,8,100,0020601068,,,0:26,1,5,5,0,87,Dikembe Mutombo,HOU,Houston,1610612745.0,Rockets,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Hayes FOR Mutombo,10:26 PM
+95,0,8,101,0020601068,SUB: Ross FOR Mobley,,0:26,1,4,4,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:27 PM
+96,10,3,102,0020601068,Brand Free Throw 1 of 1 (7 PTS),,0:26,1,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,21 - 26,5,,10:27 PM
+97,1,6,103,0020601068,Ross P.FOUL (P1.T3),,0:13,1,4,5,1,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:27 PM
+98,42,2,104,0020601068,,,0:05,1,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady  Driving Layup,10:28 PM
+99,0,4,105,0020601068,Ross REBOUND (Off:0 Def:1),,0:02,1,4,0,0,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:28 PM
+100,1,1,106,0020601068,Brand 27' 3PT Jump Shot (10 PTS) (Ross 1 AST),,0:01,1,4,4,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,21 - 29,8,,10:28 PM
+101,0,18,107,0020601068,,,0:00,1,0,0,1,0,,,,,,0,,,,,,0,,,,,,21 - 29,8,,10:28 PM
+102,0,13,108,0020601068,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,21 - 29,8,,10:28 PM
+103,0,12,110,0020601068,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,21 - 29,8,,10:31 PM
+104,5,2,111,0020601068,MISS Kaman  Layup,,11:45,2,4,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:32 PM
+105,0,4,112,0020601068,,,11:44,2,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:1 Def:3),10:32 PM
+106,11,5,113,0020601068,,,11:20,2,3,0,1,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Turnover: Shot Clock (T#3),10:33 PM
+107,2,6,114,0020601068,,,11:12,2,5,4,1,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Yao S.FOUL (P3.T1),10:33 PM
+108,11,3,115,0020601068,Maggette Free Throw 1 of 2 (6 PTS),,11:12,2,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,21 - 30,9,,10:33 PM
+109,0,8,116,0020601068,,,11:12,2,5,5,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Alston FOR McGrady,10:34 PM
+110,12,3,117,0020601068,Maggette Free Throw 2 of 2 (7 PTS),,11:12,2,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,21 - 31,10,,10:34 PM
+111,1,1,118,0020601068,,,11:03,2,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,23 - 31,8,Alston 17' Jump Shot (7 PTS),10:34 PM
+112,1,1,119,0020601068,Hart 20' Jump Shot (6 PTS) (Kaman 1 AST),,10:41,2,4,4,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,23 - 33,10,,10:34 PM
+113,3,1,120,0020601068,,,10:21,2,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,25 - 33,8,Yao 10' Hook Shot (4 PTS),10:35 PM
+114,5,2,121,0020601068,MISS Kaman  Layup,,10:01,2,4,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:35 PM
+115,0,4,122,0020601068,,,10:00,2,5,0,0,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:1),10:35 PM
+116,8,1,123,0020601068,,,9:53,2,5,5,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,2745,Kirk Snyder,HOU,Houston,1610612745.0,Rockets,0,,,,,,27 - 33,6,Yao  Slam Dunk (6 PTS) (Snyder 1 AST),10:35 PM
+117,4,6,124,0020601068,Kaman OFF.Foul (P2),,9:37,2,4,5,1,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:36 PM
+118,5,5,125,0020601068,Kaman Foul Turnover (P1.T4),,9:37,2,4,0,1,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:36 PM
+119,0,8,126,0020601068,SUB: Ewing FOR Hart,,9:37,2,4,4,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,101137,Daniel Ewing,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:36 PM
+120,0,8,127,0020601068,SUB: Mobley FOR Maggette,,9:37,2,4,4,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:36 PM
+121,1,1,128,0020601068,,,9:23,2,5,5,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,2745,Kirk Snyder,HOU,Houston,1610612745.0,Rockets,0,,,,,,29 - 33,4,Yao 13' Jump Shot (8 PTS) (Snyder 2 AST),10:36 PM
+122,5,2,129,0020601068,MISS Ewing  Layup,,9:06,2,4,0,0,101137,Daniel Ewing,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:36 PM
+123,0,4,130,0020601068,,,9:05,2,5,0,0,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:2),10:36 PM
+124,5,2,131,0020601068,,,8:52,2,5,0,0,2745,Kirk Snyder,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Snyder  Layup,10:37 PM
+125,0,4,132,0020601068,,,8:52,2,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:2 Def:3),10:37 PM
+126,2,6,133,0020601068,Thomas S.FOUL (P1.T1),,8:52,2,4,5,1,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:37 PM
+127,4,9,134,0020601068,,,8:52,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:37 PM
+128,0,8,136,0020601068,SUB: Brand FOR Ross,,8:52,2,4,4,0,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:39 PM
+129,11,3,137,0020601068,,,8:52,2,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,30 - 33,3,Yao Free Throw 1 of 2 (9 PTS),10:39 PM
+130,12,3,138,0020601068,,,8:52,2,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,31 - 33,2,Yao Free Throw 2 of 2 (10 PTS),10:40 PM
+131,44,1,139,0020601068,Thomas  Reverse Layup (5 PTS) (Brand 2 AST),,8:33,2,4,4,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,31 - 35,4,,10:40 PM
+132,1,2,140,0020601068,,,8:22,2,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Alston 26' 3PT Jump Shot,10:41 PM
+133,0,4,141,0020601068,,,8:22,2,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:41 PM
+134,1,6,142,0020601068,Kaman P.FOUL (P3.T2),,8:22,2,4,5,1,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:41 PM
+135,0,8,143,0020601068,SUB: Williams FOR Kaman,,8:22,2,4,4,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,1425,Aaron Williams,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:41 PM
+136,3,2,144,0020601068,,,8:12,2,5,0,0,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Howard 7' Hook Shot,10:41 PM
+137,0,4,145,0020601068,,,8:09,2,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:3 Def:3),10:41 PM
+138,4,2,146,0020601068,,,8:07,2,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Yao  Tip Shot,10:41 PM
+139,0,4,147,0020601068,Thomas REBOUND (Off:0 Def:3),,8:06,2,4,0,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:41 PM
+140,1,2,148,0020601068,MISS Brand 18' Jump Shot,,7:55,2,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:41 PM
+141,0,4,149,0020601068,,,7:53,2,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:3 Def:4),10:41 PM
+142,1,1,150,0020601068,,,7:37,2,5,5,0,2745,Kirk Snyder,HOU,Houston,1610612745.0,Rockets,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,34 - 35,1,Snyder 26' 3PT Jump Shot (3 PTS) (Yao 2 AST),10:42 PM
+143,1,1,151,0020601068,Thomas 26' 3PT Jump Shot (8 PTS) (Ewing 1 AST),,7:21,2,4,4,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,101137,Daniel Ewing,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,34 - 38,4,,10:42 PM
+144,42,1,152,0020601068,,,6:59,2,5,5,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,36 - 38,2,Alston  Driving Layup (9 PTS) (Yao 3 AST),10:42 PM
+145,2,6,153,0020601068,Ewing S.FOUL (P1.T3),,6:59,2,4,5,1,101137,Daniel Ewing,LAC,Los Angeles,1610612746.0,Clippers,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:42 PM
+146,10,3,154,0020601068,,,6:59,2,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,37 - 38,1,Alston Free Throw 1 of 1 (10 PTS),10:43 PM
+147,1,2,155,0020601068,MISS Thomas 26' 3PT Jump Shot,,6:40,2,4,0,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:43 PM
+148,0,4,156,0020601068,,,6:38,2,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:3 Def:5),10:43 PM
+149,1,2,157,0020601068,,,6:29,2,5,0,0,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Howard 16' Jump Shot,10:43 PM
+150,0,4,158,0020601068,Brand REBOUND (Off:1 Def:3),,6:27,2,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:43 PM
+151,1,1,159,0020601068,Mobley 27' 3PT Jump Shot (8 PTS) (Ewing 2 AST),,6:21,2,4,4,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,101137,Daniel Ewing,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,37 - 41,4,,10:43 PM
+152,1,9,160,0020601068,,,6:14,2,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.2 Short 0),10:44 PM
+153,1,2,164,0020601068,,,5:59,2,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Alston 24' 3PT Jump Shot,10:47 PM
+154,0,4,165,0020601068,Williams REBOUND (Off:0 Def:1),,5:57,2,4,0,0,1425,Aaron Williams,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:47 PM
+155,1,2,166,0020601068,MISS Brand 14' Jump Shot,,5:37,2,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:47 PM
+156,0,4,167,0020601068,,,5:36,2,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Alston REBOUND (Off:0 Def:1),10:47 PM
+157,1,2,168,0020601068,,,5:29,2,5,0,0,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Howard 19' Jump Shot,10:47 PM
+158,0,4,169,0020601068,Ewing REBOUND (Off:0 Def:1),,5:27,2,4,0,0,101137,Daniel Ewing,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:47 PM
+159,2,5,170,0020601068,Brand Lost Ball Turnover (P3.T5),,5:18,2,4,5,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Alston STEAL (2 STL),10:48 PM
+160,1,6,171,0020601068,Mobley P.FOUL (P2.T4),,5:04,2,4,5,1,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:48 PM
+161,0,8,172,0020601068,,,5:04,2,5,5,0,2745,Kirk Snyder,HOU,Houston,1610612745.0,Rockets,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: McGrady FOR Snyder,10:48 PM
+162,1,2,174,0020601068,,,4:54,2,5,0,0,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Howard 13' Jump Shot,10:49 PM
+163,0,4,175,0020601068,Mobley REBOUND (Off:0 Def:2),,4:53,2,4,0,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:49 PM
+164,66,2,176,0020601068,MISS Thomas 14' Jump Bank Shot,,4:41,2,4,0,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:49 PM
+165,0,4,177,0020601068,,,4:39,2,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:0 Def:3),10:49 PM
+166,5,2,178,0020601068,,,4:30,2,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Yao  Layup,10:49 PM
+167,0,4,179,0020601068,Thomas REBOUND (Off:0 Def:4),,4:28,2,4,0,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:49 PM
+168,1,2,180,0020601068,MISS Mobley 25' 3PT Jump Shot,,4:24,2,4,0,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:49 PM
+169,0,4,181,0020601068,,,4:24,2,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Alston REBOUND (Off:0 Def:2),10:49 PM
+170,1,6,182,0020601068,Williams P.FOUL (P1.PN),,4:24,2,4,5,1,1425,Aaron Williams,LAC,Los Angeles,1610612746.0,Clippers,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:49 PM
+171,0,8,184,0020601068,,,4:24,2,5,5,0,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Hayes FOR Howard,10:50 PM
+172,11,3,185,0020601068,,,4:24,2,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,38 - 41,3,Alston Free Throw 1 of 2 (11 PTS),10:50 PM
+173,0,8,186,0020601068,,,4:24,2,5,5,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,87,Dikembe Mutombo,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Mutombo FOR Yao,10:50 PM
+174,0,8,187,0020601068,SUB: Hart FOR Ewing,,4:24,2,4,4,0,101137,Daniel Ewing,LAC,Los Angeles,1610612746.0,Clippers,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:50 PM
+175,0,8,188,0020601068,SUB: Maggette FOR Williams,,4:24,2,4,4,0,1425,Aaron Williams,LAC,Los Angeles,1610612746.0,Clippers,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,10:50 PM
+176,12,3,191,0020601068,,,4:24,2,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,39 - 41,2,Alston Free Throw 2 of 2 (12 PTS),10:50 PM
+177,1,1,192,0020601068,Brand 15' Jump Shot (12 PTS),,4:05,2,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,39 - 43,4,,10:51 PM
+178,1,2,193,0020601068,,,3:53,2,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady 19' Jump Shot,10:51 PM
+179,0,4,194,0020601068,,,3:51,2,5,0,0,87,Dikembe Mutombo,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:2 Def:1),10:51 PM
+180,42,2,195,0020601068,,,3:38,2,5,0,0,101129,Luther Head,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Head  Driving Layup,10:51 PM
+181,0,4,196,0020601068,Maggette REBOUND (Off:0 Def:3),,3:36,2,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:51 PM
+182,1,2,197,0020601068,MISS Hart 19' Jump Shot,,3:28,2,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:51 PM
+183,0,4,198,0020601068,,,3:27,2,5,0,0,87,Dikembe Mutombo,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Mutombo REBOUND (Off:2 Def:2),10:51 PM
+184,5,7,199,0020601068,Maggette Violation:Kicked Ball,,3:22,2,4,0,1,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:52 PM
+185,0,8,200,0020601068,,,3:22,2,5,5,0,101129,Luther Head,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Battier FOR Head,10:52 PM
+186,2,6,201,0020601068,Brand S.FOUL (P1.PN),,3:14,2,4,5,1,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,10:52 PM
+187,11,3,202,0020601068,,,3:14,2,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady Free Throw 1 of 2,10:52 PM
+188,1,4,203,0020601068,,,3:14,2,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,10:52 PM
+189,12,3,204,0020601068,,,3:14,2,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,40 - 43,3,McGrady Free Throw 2 of 2 (11 PTS),10:52 PM
+190,1,1,205,0020601068,Hart 20' Jump Shot (8 PTS) (Maggette 4 AST),,2:50,2,4,4,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,40 - 45,5,,10:53 PM
+191,42,1,206,0020601068,,,2:33,2,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,42 - 45,3,McGrady  Driving Layup (13 PTS),10:54 PM
+192,1,2,207,0020601068,MISS Thomas 13' Jump Shot,,2:12,2,4,0,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:54 PM
+193,0,4,208,0020601068,Brand REBOUND (Off:2 Def:3),,2:11,2,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:54 PM
+194,1,5,209,0020601068,Mobley Bad Pass Turnover (P2.T6),,2:02,2,4,5,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Alston STEAL (3 STL),10:54 PM
+195,1,2,210,0020601068,,,1:42,2,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Alston 12' Jump Shot,10:54 PM
+196,0,4,211,0020601068,Hart REBOUND (Off:1 Def:3),,1:40,2,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:54 PM
+197,1,2,212,0020601068,MISS Maggette 17' Jump Shot,,1:20,2,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:55 PM
+198,0,4,213,0020601068,,,1:19,2,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes REBOUND (Off:0 Def:3),10:55 PM
+199,2,5,214,0020601068,Hart STEAL (1 STL),,1:08,2,5,4,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,McGrady Lost Ball Turnover (P1.T4),10:55 PM
+200,42,1,215,0020601068,Hart  Driving Layup (10 PTS),,1:03,2,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,42 - 47,5,,10:55 PM
+201,1,5,216,0020601068,Thomas STEAL (1 STL),,0:46,2,5,4,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,McGrady Bad Pass Turnover (P2.T5),10:55 PM
+202,1,9,218,0020601068,CLIPPERS Timeout: Regular (Full 2 Short 0),,0:45,2,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,10:55 PM
+203,0,8,220,0020601068,,,0:45,2,5,5,0,87,Dikembe Mutombo,HOU,Houston,1610612745.0,Rockets,101129,Luther Head,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Head FOR Mutombo,10:58 PM
+204,1,2,222,0020601068,MISS Maggette 21' Jump Shot,,0:31,2,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:58 PM
+205,0,4,223,0020601068,CLIPPERS Rebound,,0:30,2,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,10:59 PM
+206,1,1,224,0020601068,Hart 20' Jump Shot (12 PTS) (Maggette 5 AST),,0:12,2,4,4,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,42 - 49,7,,10:59 PM
+207,1,2,225,0020601068,,,0:00,2,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady 27' 3PT Jump Shot,10:59 PM
+208,0,4,226,0020601068,Thomas REBOUND (Off:0 Def:5),,0:00,2,4,0,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,10:59 PM
+209,0,13,228,0020601068,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,42 - 49,7,,11:00 PM
+210,0,12,230,0020601068,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,42 - 49,7,,11:18 PM
+211,2,5,231,0020601068,Brand Lost Ball Turnover (P4.T7),,11:38,3,4,5,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,McGrady STEAL (1 STL),11:19 PM
+212,47,1,232,0020601068,,,11:23,3,5,5,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,44 - 49,5,Yao 16' Turnaround Jump Shot (12 PTS) (McGrady 2 AST),11:19 PM
+213,1,2,233,0020601068,MISS Hart 25' 3PT Jump Shot,,10:58,3,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:20 PM
+214,0,4,234,0020601068,,,10:56,3,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes REBOUND (Off:0 Def:4),11:20 PM
+215,42,1,235,0020601068,,,10:50,3,5,5,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,46 - 49,3,Hayes  Driving Layup (4 PTS) (McGrady 3 AST),11:20 PM
+216,1,2,236,0020601068,MISS Mobley 17' Jump Shot,,10:32,3,4,0,5,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,,,McGrady BLOCK (1 BLK),11:20 PM
+217,0,4,237,0020601068,,,10:30,3,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:0 Def:4),11:20 PM
+218,5,2,238,0020601068,Brand BLOCK (2 BLK),,10:24,3,5,0,4,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,,,MISS McGrady  Layup,11:20 PM
+219,0,4,239,0020601068,,,10:23,3,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,11:21 PM
+220,1,1,241,0020601068,,,10:20,3,5,5,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,48 - 49,1,Battier 19' Jump Shot (4 PTS) (Alston 5 AST),11:21 PM
+221,1,2,242,0020601068,MISS Kaman 10' Jump Shot,,9:59,3,4,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:21 PM
+222,0,4,243,0020601068,,,9:58,3,5,0,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Battier REBOUND (Off:0 Def:2),11:21 PM
+223,42,1,244,0020601068,,,9:44,3,5,5,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,50 - 49,-1,Hayes  Driving Layup (6 PTS) (McGrady 4 AST),11:21 PM
+224,1,9,245,0020601068,CLIPPERS Timeout: Regular (Full 3 Short 0),,9:43,3,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,11:22 PM
+225,47,1,247,0020601068,Brand 10' Turnaround Jump Shot (14 PTS),,9:25,3,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,50 - 51,1,,11:25 PM
+226,1,1,248,0020601068,,,9:06,3,5,5,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,52 - 51,-1,McGrady 19' Jump Shot (15 PTS) (Alston 6 AST),11:26 PM
+227,1,1,249,0020601068,Maggette 18' Jump Shot (9 PTS),,8:47,3,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,52 - 53,1,,11:26 PM
+228,1,6,250,0020601068,Kaman P.FOUL (P4.T1),,8:36,3,4,5,1,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:26 PM
+229,8,5,251,0020601068,,,8:25,3,5,0,1,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao 3 Second Violation Turnover (P2.T6),11:27 PM
+230,3,1,252,0020601068,Kaman 5' Hook Shot (4 PTS) (Maggette 6 AST),,8:09,3,4,4,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,52 - 55,3,,11:27 PM
+231,1,2,253,0020601068,,,7:53,3,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Alston 25' 3PT Jump Shot,11:28 PM
+232,0,4,254,0020601068,Kaman REBOUND (Off:0 Def:2),,7:50,3,4,0,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:28 PM
+233,1,1,255,0020601068,Maggette 17' Jump Shot (11 PTS) (Brand 3 AST),,7:42,3,4,4,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,52 - 57,5,,11:28 PM
+234,1,2,256,0020601068,,,7:21,3,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Alston 26' 3PT Jump Shot,11:28 PM
+235,0,4,257,0020601068,CLIPPERS Rebound,,7:20,3,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,11:28 PM
+236,0,8,259,0020601068,SUB: Williams FOR Kaman,,7:20,3,4,4,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,1425,Aaron Williams,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,11:28 PM
+237,1,2,260,0020601068,MISS Maggette 9' Jump Shot,,7:06,3,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:29 PM
+238,0,4,261,0020601068,,,7:04,3,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:3 Def:6),11:29 PM
+239,1,6,262,0020601068,Brand P.FOUL (P2.T2),,6:55,3,4,5,1,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:29 PM
+240,2,5,263,0020601068,Williams STEAL (1 STL),,6:44,3,5,4,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,1425,Aaron Williams,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Yao Lost Ball Turnover (P3.T7),11:29 PM
+241,2,6,264,0020601068,,,6:42,3,5,4,1,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,McGrady S.FOUL (P1.T1),11:29 PM
+242,11,3,265,0020601068,Hart Free Throw 1 of 2 (13 PTS),,6:42,3,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,52 - 58,6,,11:29 PM
+243,12,3,266,0020601068,Hart Free Throw 2 of 2 (14 PTS),,6:42,3,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,52 - 59,7,,11:30 PM
+244,47,1,267,0020601068,,,6:25,3,5,5,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,54 - 59,5,Yao 11' Turnaround Jump Shot (14 PTS) (Battier 1 AST),11:30 PM
+245,1,6,268,0020601068,,,6:08,3,5,4,1,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Battier P.FOUL (P1.T2),11:31 PM
+246,5,2,270,0020601068,MISS Maggette  Layup,,5:58,3,4,0,5,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,,,Hayes BLOCK (1 BLK),11:31 PM
+247,0,4,271,0020601068,,,5:56,3,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:3 Def:7),11:31 PM
+248,1,2,272,0020601068,,,5:49,3,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Alston 26' 3PT Jump Shot,11:31 PM
+249,0,4,273,0020601068,Williams REBOUND (Off:0 Def:2),,5:46,3,4,0,0,1425,Aaron Williams,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:32 PM
+250,1,2,274,0020601068,MISS Hart 20' Jump Shot,,5:33,3,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:32 PM
+251,0,4,275,0020601068,,,5:29,3,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:3 Def:8),11:32 PM
+252,3,1,276,0020601068,,,5:23,3,5,5,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,56 - 59,3,Yao 8' Hook Shot (16 PTS) (McGrady 5 AST),11:32 PM
+253,5,2,277,0020601068,MISS Brand  Layup,,5:07,3,4,0,5,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,,,Battier BLOCK (1 BLK),11:32 PM
+254,0,4,278,0020601068,,,5:05,3,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes REBOUND (Off:0 Def:5),11:32 PM
+255,1,2,279,0020601068,,,4:52,3,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady 19' Jump Shot,11:32 PM
+256,0,4,280,0020601068,Williams REBOUND (Off:0 Def:3),,4:51,3,4,0,0,1425,Aaron Williams,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:32 PM
+257,4,5,281,0020601068,Williams Traveling Turnover (P1.T8),,4:38,3,4,0,1,1425,Aaron Williams,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:33 PM
+258,2,6,283,0020601068,Williams S.FOUL (P2.T3),,4:26,3,4,5,1,1425,Aaron Williams,LAC,Los Angeles,1610612746.0,Clippers,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,11:33 PM
+259,11,3,284,0020601068,,,4:26,3,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,57 - 59,2,Yao Free Throw 1 of 2 (17 PTS),11:33 PM
+260,12,3,285,0020601068,,,4:26,3,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,58 - 59,1,Yao Free Throw 2 of 2 (18 PTS),11:34 PM
+261,1,2,286,0020601068,MISS Maggette 19' Jump Shot,,4:08,3,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:34 PM
+262,0,4,287,0020601068,,,4:06,3,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes REBOUND (Off:0 Def:6),11:34 PM
+263,5,1,288,0020601068,,,3:58,3,5,5,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,60 - 59,-1,Hayes  Layup (8 PTS) (McGrady 6 AST),11:34 PM
+264,1,2,289,0020601068,MISS Maggette 9' Jump Shot,,3:32,3,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:35 PM
+265,0,4,290,0020601068,Brand REBOUND (Off:3 Def:3),,3:30,3,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:35 PM
+266,1,2,291,0020601068,MISS Mobley 26' 3PT Jump Shot,,3:16,3,4,0,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:35 PM
+267,0,4,292,0020601068,,,3:14,3,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Alston REBOUND (Off:0 Def:3),11:35 PM
+268,1,1,293,0020601068,,,3:04,3,5,5,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,62 - 59,-3,McGrady 16' Jump Shot (17 PTS) (Alston 7 AST),11:35 PM
+269,1,2,294,0020601068,MISS Maggette 25' 3PT Jump Shot,,2:42,3,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:36 PM
+270,0,4,295,0020601068,Williams REBOUND (Off:1 Def:3),,2:40,3,4,0,0,1425,Aaron Williams,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:36 PM
+271,1,5,296,0020601068,Maggette Bad Pass Turnover (P1.T9),,2:23,3,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:36 PM
+272,1,9,298,0020601068,,,2:23,3,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.3 Short 0),11:36 PM
+273,0,8,300,0020601068,,,2:23,3,5,5,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,87,Dikembe Mutombo,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Mutombo FOR Yao,11:39 PM
+274,0,8,301,0020601068,SUB: Thomas FOR Williams,,2:23,3,4,4,0,1425,Aaron Williams,LAC,Los Angeles,1610612746.0,Clippers,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,11:39 PM
+275,1,1,302,0020601068,,,2:03,3,5,5,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,64 - 59,-5,McGrady 17' Jump Shot (19 PTS) (Alston 8 AST),11:40 PM
+276,7,5,303,0020601068,Thomas Discontinue Dribble Turnover (P1.T10),,1:39,3,4,0,1,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:40 PM
+277,1,1,304,0020601068,,,1:24,3,5,5,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,66 - 59,-7,McGrady 20' Jump Shot (21 PTS) (Alston 9 AST),11:41 PM
+278,1,1,305,0020601068,Brand 14' Jump Shot (16 PTS) (Thomas 1 AST),,1:08,3,4,4,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,66 - 61,-5,,11:41 PM
+279,1,2,306,0020601068,,,0:54,3,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady 19' Jump Shot,11:41 PM
+280,0,4,307,0020601068,,,0:52,3,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes REBOUND (Off:1 Def:6),11:41 PM
+281,5,1,308,0020601068,,,0:51,3,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,68 - 61,-7,Hayes  Layup (10 PTS),11:41 PM
+282,1,2,309,0020601068,MISS Thomas 14' Jump Shot,,0:26,3,4,0,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:42 PM
+283,0,4,310,0020601068,,,0:24,3,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Alston REBOUND (Off:0 Def:4),11:42 PM
+284,42,1,311,0020601068,,,0:05,3,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,70 - 61,-9,McGrady  Driving Layup (23 PTS),11:42 PM
+285,1,2,312,0020601068,MISS Hart 29' 3PT Jump Shot,,0:01,3,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:42 PM
+286,0,4,313,0020601068,,,0:00,3,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes REBOUND (Off:1 Def:7),11:42 PM
+287,0,13,314,0020601068,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,70 - 61,-9,,11:42 PM
+288,0,12,316,0020601068,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,70 - 61,-9,,11:46 PM
+289,1,2,317,0020601068,,,11:44,4,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady 26' 3PT Jump Shot,11:46 PM
+290,0,4,318,0020601068,Thomas REBOUND (Off:0 Def:6),,11:41,4,4,0,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:46 PM
+291,1,1,319,0020601068,Thomas 19' Jump Shot (10 PTS) (Hart 4 AST),,11:31,4,4,4,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,70 - 63,-7,,11:46 PM
+292,1,2,320,0020601068,,,11:18,4,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady 21' Jump Shot,11:47 PM
+293,0,4,321,0020601068,Maggette REBOUND (Off:0 Def:4),,11:16,4,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:47 PM
+294,0,8,322,0020601068,,,11:10,4,5,5,0,87,Dikembe Mutombo,HOU,Houston,1610612745.0,Rockets,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Howard FOR Mutombo,11:47 PM
+295,0,10,323,0020601068,Jump Ball Brand vs. Hayes: Tip to Ross,,11:10,4,4,5,4,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,,,,11:47 PM
+296,1,5,324,0020601068,Maggette Bad Pass Turnover (P2.T11),,10:57,4,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:48 PM
+297,1,5,325,0020601068,,,10:43,4,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,McGrady Bad Pass Turnover (P3.T8),11:48 PM
+298,1,1,327,0020601068,Brand 8' Jump Shot (18 PTS) (Maggette 7 AST),,10:28,4,4,4,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,70 - 65,-5,,11:48 PM
+299,1,2,328,0020601068,,,9:58,4,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Alston 5' Jump Shot,11:49 PM
+300,0,4,329,0020601068,Hart REBOUND (Off:1 Def:4),,9:57,4,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:49 PM
+301,1,6,330,0020601068,,,9:44,4,5,4,1,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Hayes P.FOUL (P3.T1),11:49 PM
+302,0,8,332,0020601068,,,9:44,4,5,5,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Yao FOR Hayes,11:49 PM
+303,0,8,333,0020601068,,,9:44,4,5,5,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,101129,Luther Head,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Head FOR McGrady,11:49 PM
+304,1,2,334,0020601068,MISS Brand 18' Jump Shot,,9:36,4,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:50 PM
+305,0,4,335,0020601068,,,9:35,4,5,0,0,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:3),11:50 PM
+306,1,2,336,0020601068,,,9:20,4,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Alston 26' 3PT Jump Shot,11:50 PM
+307,0,4,337,0020601068,Hart REBOUND (Off:1 Def:5),,9:18,4,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:50 PM
+308,1,2,338,0020601068,MISS Hart 17' Jump Shot,,9:11,4,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:50 PM
+309,0,4,339,0020601068,,,9:10,4,5,0,0,2745,Kirk Snyder,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Snyder REBOUND (Off:0 Def:1),11:50 PM
+310,1,2,340,0020601068,Brand BLOCK (3 BLK),,8:56,4,5,0,4,2745,Kirk Snyder,HOU,Houston,1610612745.0,Rockets,0,,,,,,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,,,MISS Snyder 8' Jump Shot,11:50 PM
+311,0,4,341,0020601068,Maggette REBOUND (Off:0 Def:5),,8:53,4,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:50 PM
+312,2,6,342,0020601068,,,8:51,4,5,4,1,101129,Luther Head,HOU,Houston,1610612745.0,Rockets,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Head S.FOUL (P1.T2),11:51 PM
+313,4,9,343,0020601068,,,8:51,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,11:51 PM
+314,0,8,345,0020601068,,,8:51,4,5,5,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,101249,John Lucas III,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Lucas III FOR Alston,11:53 PM
+315,0,8,346,0020601068,,,8:51,4,5,5,0,2745,Kirk Snyder,HOU,Houston,1610612745.0,Rockets,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Battier FOR Snyder,11:53 PM
+316,0,8,347,0020601068,SUB: Mobley FOR Maggette,,8:51,4,4,4,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,11:53 PM
+317,11,3,348,0020601068,Ross Free Throw 1 of 2 (1 PTS),,8:51,4,4,0,0,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,70 - 66,-4,,11:54 PM
+318,12,3,349,0020601068,Ross Free Throw 2 of 2 (2 PTS),,8:51,4,4,0,0,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,70 - 67,-3,,11:54 PM
+319,46,1,350,0020601068,,,8:30,4,5,5,0,101249,John Lucas III,HOU,Houston,1610612745.0,Rockets,101129,Luther Head,HOU,Houston,1610612745.0,Rockets,0,,,,,,72 - 67,-5,Lucas III 5' Running Jump Shot (2 PTS) (Head 1 AST),11:55 PM
+320,1,1,351,0020601068,Brand 9' Jump Shot (20 PTS) (Thomas 2 AST),,8:05,4,4,4,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,72 - 69,-3,,11:55 PM
+321,1,2,352,0020601068,Brand BLOCK (4 BLK),,7:50,4,5,0,4,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,,,MISS Yao 10' Jump Shot,11:55 PM
+322,0,4,353,0020601068,Mobley REBOUND (Off:0 Def:3),,7:47,4,4,0,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,11:55 PM
+323,1,1,354,0020601068,Thomas 27' 3PT Jump Shot (13 PTS) (Mobley 1 AST),,7:42,4,4,4,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,72 - 72,TIE,,11:55 PM
+324,1,9,355,0020601068,,,7:40,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.4 Short 0),11:55 PM
+325,0,8,357,0020601068,,,7:40,4,5,5,0,101129,Luther Head,HOU,Houston,1610612745.0,Rockets,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: McGrady FOR Head,11:58 PM
+326,1,2,359,0020601068,,,7:14,4,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady 26' 3PT Jump Shot,11:59 PM
+327,0,4,360,0020601068,,,7:14,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,11:59 PM
+328,11,5,361,0020601068,,,7:14,4,3,0,1,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Turnover: Shot Clock (T#9),11:59 PM
+329,1,6,362,0020601068,,,7:00,4,5,4,1,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Yao P.FOUL (P4.T3),12:00 PM
+330,44,1,364,0020601068,Brand  Reverse Layup (22 PTS) (Hart 5 AST),,6:49,4,4,4,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,72 - 74,2,,12:00 PM
+331,1,1,365,0020601068,,,6:33,4,5,5,0,101249,John Lucas III,HOU,Houston,1610612745.0,Rockets,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,75 - 74,-1,Lucas III 26' 3PT Jump Shot (5 PTS) (McGrady 7 AST),12:01 PM
+332,1,2,366,0020601068,MISS Brand 14' Jump Shot,,6:12,4,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:01 PM
+333,0,4,367,0020601068,,,6:11,4,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:0 Def:5),12:01 PM
+334,5,2,368,0020601068,,,6:01,4,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady  Layup,12:01 PM
+335,0,4,370,0020601068,,,6:00,4,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:4 Def:8),12:01 PM
+336,64,1,369,0020601068,,,6:00,4,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,77 - 74,-3,Yao  Follow Up Dunk (20 PTS),12:01 PM
+337,1,6,371,0020601068,,,5:48,4,5,4,1,101249,John Lucas III,HOU,Houston,1610612745.0,Rockets,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Lucas III P.FOUL (P1.T4),12:01 PM
+338,0,8,372,0020601068,,,5:48,4,5,5,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Hayes FOR Yao,12:01 PM
+339,1,2,373,0020601068,MISS Ross 18' Jump Shot,,5:36,4,4,0,0,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:02 PM
+340,0,4,374,0020601068,,,5:34,4,5,0,0,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:4),12:02 PM
+341,8,5,375,0020601068,,,5:21,4,5,0,1,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes 3 Second Violation Turnover (P2.T10),12:02 PM
+342,1,9,376,0020601068,CLIPPERS Timeout: Regular (Full 4 Short 0),,5:21,4,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,12:02 PM
+343,2,6,378,0020601068,,,5:08,4,5,4,1,101249,John Lucas III,HOU,Houston,1610612745.0,Rockets,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Lucas III S.FOUL (P2.PN),12:06 PM
+344,11,3,379,0020601068,Mobley Free Throw 1 of 2 (9 PTS),,5:08,4,4,0,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,77 - 75,-2,,12:06 PM
+345,12,3,380,0020601068,Mobley Free Throw 2 of 2 (10 PTS),,5:08,4,4,0,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,77 - 76,-1,,12:06 PM
+346,1,1,381,0020601068,,,4:44,4,5,0,0,101249,John Lucas III,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,79 - 76,-3,Lucas III 11' Jump Shot (7 PTS),12:07 PM
+347,42,2,382,0020601068,MISS Mobley  Driving Layup,,4:22,4,4,0,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:07 PM
+348,0,4,383,0020601068,,,4:20,4,5,0,0,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:5),12:07 PM
+349,2,6,384,0020601068,Ross S.FOUL (P2.T1),,4:03,4,4,5,1,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:08 PM
+350,0,8,385,0020601068,,,4:03,4,5,5,0,436,Juwan Howard,HOU,Houston,1610612745.0,Rockets,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Yao FOR Howard,12:08 PM
+351,11,3,386,0020601068,,,4:03,4,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,80 - 76,-4,McGrady Free Throw 1 of 2 (24 PTS),12:08 PM
+352,12,3,387,0020601068,,,4:03,4,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,81 - 76,-5,McGrady Free Throw 2 of 2 (25 PTS),12:08 PM
+353,1,2,388,0020601068,MISS Brand 10' Jump Shot,,3:43,4,4,0,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:09 PM
+354,0,4,389,0020601068,,,3:41,4,5,0,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Hayes REBOUND (Off:1 Def:8),12:09 PM
+355,1,1,390,0020601068,,,3:29,4,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,83 - 76,-7,McGrady 20' Jump Shot (27 PTS),12:09 PM
+356,1,1,391,0020601068,Thomas 26' 3PT Jump Shot (16 PTS) (Brand 4 AST),,3:08,4,4,4,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,83 - 79,-4,,12:09 PM
+357,2,5,393,0020601068,Ross STEAL (1 STL),,2:45,4,5,4,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,McGrady Lost Ball Turnover (P4.T11),12:10 PM
+358,44,1,394,0020601068,Mobley  Reverse Layup (12 PTS) (Thomas 3 AST),,2:30,4,4,4,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,83 - 81,-2,,12:10 PM
+359,1,6,395,0020601068,Brand P.FOUL (P3.T2),,2:11,4,4,5,1,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:10 PM
+360,0,8,396,0020601068,SUB: Maggette FOR Mobley,,2:11,4,4,4,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,12:10 PM
+361,0,8,397,0020601068,,,2:11,4,5,5,0,101249,John Lucas III,HOU,Houston,1610612745.0,Rockets,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Alston FOR Lucas III,12:11 PM
+362,1,2,398,0020601068,,,2:00,4,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady 22' Jump Shot,12:11 PM
+363,0,4,399,0020601068,CLIPPERS Rebound,,1:59,4,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,12:11 PM
+364,0,8,401,0020601068,SUB: Mobley FOR Ross,,1:59,4,4,4,0,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,12:11 PM
+365,46,1,402,0020601068,Hart 13' Running Jump Shot (16 PTS),,1:45,4,4,0,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,83 - 83,TIE,,12:12 PM
+366,2,6,403,0020601068,Thomas S.FOUL (P2.T3),,1:30,4,4,5,1,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:12 PM
+367,11,3,404,0020601068,,,1:30,4,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,84 - 83,-1,Yao Free Throw 1 of 2 (21 PTS),12:12 PM
+368,12,3,405,0020601068,,,1:30,4,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,85 - 83,-2,Yao Free Throw 2 of 2 (22 PTS),12:13 PM
+369,2,9,406,0020601068,CLIPPERS Timeout: Short (Full 4 Short 1),,1:30,4,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,12:13 PM
+370,47,1,410,0020601068,Brand 10' Turnaround Jump Shot (24 PTS) (Thomas 4 AST),,1:25,4,4,4,0,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,85 - 85,TIE,,12:14 PM
+371,42,2,411,0020601068,Brand BLOCK (5 BLK),,1:10,4,5,0,4,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,1882,Elton Brand,LAC,Los Angeles,1610612746.0,Clippers,,,MISS McGrady  Driving Layup,12:15 PM
+372,0,4,412,0020601068,Mobley REBOUND (Off:0 Def:4),,1:08,4,4,0,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:15 PM
+373,2,6,413,0020601068,,,1:05,4,5,4,1,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Battier S.FOUL (P2.PN),12:15 PM
+374,11,3,414,0020601068,Maggette Free Throw 1 of 2 (12 PTS),,1:05,4,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,85 - 86,1,,12:15 PM
+375,0,8,415,0020601068,SUB: Ross FOR Mobley,,1:05,4,4,4,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,12:15 PM
+376,12,3,416,0020601068,Maggette Free Throw 2 of 2 (13 PTS),,1:05,4,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,85 - 87,2,,12:15 PM
+377,2,9,417,0020601068,,,1:05,4,3,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Short (Reg.4 Short 1),12:16 PM
+378,0,8,419,0020601068,,,1:05,4,5,5,0,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,101129,Luther Head,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Head FOR Hayes,12:17 PM
+379,1,1,420,0020601068,,,0:53,4,5,5,0,2203,Shane Battier,HOU,Houston,1610612745.0,Rockets,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,88 - 87,-1,Battier 25' 3PT Jump Shot (7 PTS) (McGrady 8 AST),12:17 PM
+380,1,9,421,0020601068,CLIPPERS Timeout: Regular (Full 5 Short 1),,0:53,4,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,12:17 PM
+381,0,8,423,0020601068,,,0:53,4,5,5,0,101129,Luther Head,HOU,Houston,1610612745.0,Rockets,101236,Chuck Hayes,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Hayes FOR Head,12:19 PM
+382,0,8,424,0020601068,SUB: Mobley FOR Ross,,0:53,4,4,4,0,2624,Quinton Ross,LAC,Los Angeles,1610612746.0,Clippers,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,12:19 PM
+383,42,2,426,0020601068,MISS Maggette  Driving Layup,,0:43,4,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:20 PM
+384,0,4,427,0020601068,,,0:40,4,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:4 Def:9),12:20 PM
+385,1,2,428,0020601068,,,0:25,4,5,0,0,1503,Tracy McGrady,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS McGrady 15' Jump Shot,12:20 PM
+386,0,4,429,0020601068,Maggette REBOUND (Off:0 Def:6),,0:23,4,4,0,0,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:20 PM
+387,1,2,430,0020601068,MISS Thomas 26' 3PT Jump Shot,,0:06,4,4,0,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:20 PM
+388,0,4,431,0020601068,,,0:04,4,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:4 Def:10),12:20 PM
+389,1,6,432,0020601068,Maggette P.FOUL (P1.PN),,0:04,4,4,5,1,1894,Corey Maggette,LAC,Los Angeles,1610612746.0,Clippers,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:20 PM
+390,11,3,434,0020601068,,,0:04,4,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,89 - 87,-2,Alston Free Throw 1 of 2 (13 PTS),12:21 PM
+391,0,8,436,0020601068,SUB: Kaman FOR Hart,,0:04,4,4,4,0,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,12:21 PM
+392,12,3,437,0020601068,,,0:04,4,5,0,0,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,90 - 87,-3,Alston Free Throw 2 of 2 (14 PTS),12:21 PM
+393,2,9,438,0020601068,CLIPPERS Timeout: Short (Full 5 Short 2),,0:04,4,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,12:21 PM
+394,0,8,440,0020601068,SUB: Hart FOR Kaman,,0:04,4,4,4,0,2549,Chris Kaman,LAC,Los Angeles,1610612746.0,Clippers,2078,Jason Hart,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,,12:22 PM
+395,2,6,443,0020601068,,,0:02,4,5,4,1,1747,Rafer Alston,HOU,Houston,1610612745.0,Rockets,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,,,Alston S.FOUL (P1.PN),12:23 PM
+396,11,3,444,0020601068,MISS Mobley Free Throw 1 of 2,,0:02,4,4,0,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:24 PM
+397,1,4,445,0020601068,CLIPPERS Rebound,,0:02,4,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,12:24 PM
+398,12,3,446,0020601068,MISS Mobley Free Throw 2 of 2,,0:02,4,4,0,0,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:24 PM
+399,0,4,447,0020601068,,,0:00,4,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Yao REBOUND (Off:4 Def:11),12:24 PM
+400,1,6,448,0020601068,Mobley P.FOUL (P3.PN),,0:00,4,4,5,1,1749,Cuttino Mobley,LAC,Los Angeles,1610612746.0,Clippers,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:24 PM
+401,11,3,449,0020601068,,,0:00,4,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,91 - 87,-4,Yao Free Throw 1 of 2 (23 PTS),12:24 PM
+402,12,3,452,0020601068,,,0:00,4,5,0,0,2397,Yao Ming,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,92 - 87,-5,Yao Free Throw 2 of 2 (24 PTS),12:25 PM
+403,1,2,454,0020601068,MISS Thomas 58' 3PT Jump Shot,,0:00,4,4,0,0,1501,Tim Thomas,LAC,Los Angeles,1610612746.0,Clippers,0,,,,,,0,,,,,,,,,12:25 PM
+404,0,4,455,0020601068,CLIPPERS Rebound,,0:00,4,2,0,0,1610612746,,,,,,0,,,,,,0,,,,,,,,,12:26 PM
+405,0,13,456,0020601068,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,92 - 87,-5,,12:26 PM

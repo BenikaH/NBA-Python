@@ -1,0 +1,506 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020000007,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:09 PM
+1,0,10,1,0020000007,Jump Ball Nowitzki vs. Johnson: Tip to Cassell,,12:00,1,4,5,5,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,,,,12:09 PM
+2,1,5,2,0020000007,,,11:52,1,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell Bad Pass Turnover (P1.T1),12:10 PM
+3,2,6,3,0020000007,,,11:35,1,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Robinson S.FOUL (P1.T1),12:10 PM
+4,11,3,4,0020000007,Nash Free Throw 1 of 2 (1 PTS),,11:35,1,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,0 - 1,1,,12:11 PM
+5,12,3,5,0020000007,Nash Free Throw 2 of 2 (2 PTS),,11:35,1,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,0 - 2,2,,12:11 PM
+6,1,1,6,0020000007,,,11:23,1,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,2 - 2,TIE,Allen 5' Jump Shot (2 PTS),12:11 PM
+7,42,1,7,0020000007,Finley  Driving Layup (2 PTS) (Nash 1 AST),,11:16,1,4,4,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,2 - 4,2,,12:11 PM
+8,1,6,8,0020000007,Nowitzki P.FOUL (P1.T1),,11:09,1,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:11 PM
+9,1,5,9,0020000007,Nowitzki STEAL (1 STL),,11:08,1,5,4,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Robinson Bad Pass Turnover (P1.T2),12:12 PM
+10,1,2,10,0020000007,MISS Nash 10' Jump Shot,,11:03,1,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:12 PM
+11,0,4,11,0020000007,,,11:01,1,5,0,0,679,Jason Caffey,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Caffey REBOUND (Off:0 Def:1),12:12 PM
+12,1,2,12,0020000007,,,10:56,1,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Robinson 10' Jump Shot,12:12 PM
+13,0,4,13,0020000007,Finley REBOUND (Off:0 Def:1),,10:55,1,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:12 PM
+14,1,1,14,0020000007,Najera 5' Jump Shot (2 PTS) (Finley 1 AST),,10:48,1,4,4,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,2 - 6,4,,12:12 PM
+15,1,1,15,0020000007,,,10:33,1,5,5,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,4 - 6,2,Allen 14' Jump Shot (4 PTS) (Cassell 1 AST),12:12 PM
+16,5,1,16,0020000007,Finley  Layup (4 PTS) (Nash 2 AST),,10:27,1,4,4,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,4 - 8,4,,12:12 PM
+17,2,5,17,0020000007,,,10:12,1,5,0,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Johnson Lost Ball Turnover (P1.T3),12:13 PM
+18,1,2,18,0020000007,MISS Laettner 13' Jump Shot,,9:57,1,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:13 PM
+19,0,4,19,0020000007,,,9:55,1,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Allen REBOUND (Off:0 Def:1),12:13 PM
+20,1,2,20,0020000007,,,9:50,1,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Cassell 15' Jump Shot,12:13 PM
+21,0,4,21,0020000007,,,9:49,1,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:1 Def:0),12:13 PM
+22,1,1,22,0020000007,,,9:47,1,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,6 - 8,2,Robinson 3' Jump Shot (2 PTS),12:13 PM
+23,1,1,23,0020000007,Finley 19' Jump Shot (6 PTS) (Laettner 1 AST),,9:33,1,4,4,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,6 - 10,4,,12:13 PM
+24,8,5,24,0020000007,,,9:19,1,3,0,1,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Turnover: 3 Second Violation (T#4),12:14 PM
+25,1,1,25,0020000007,Nash 17' Jump Shot (4 PTS),,9:09,1,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,6 - 12,6,,12:14 PM
+26,1,2,26,0020000007,,,8:47,1,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Allen 24' 3PT Jump Shot,12:14 PM
+27,0,4,27,0020000007,,,8:45,1,5,0,0,679,Jason Caffey,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Caffey REBOUND (Off:1 Def:1),12:14 PM
+28,1,1,28,0020000007,,,8:43,1,5,5,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,679,Jason Caffey,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,9 - 12,3,Allen  3PT Jump Shot (7 PTS) (Caffey 1 AST),12:14 PM
+29,5,1,29,0020000007,Laettner  Layup (2 PTS),,8:31,1,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,9 - 14,5,,12:15 PM
+30,5,2,30,0020000007,Laettner BLOCK (1 BLK),,8:18,1,5,0,4,679,Jason Caffey,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,,,MISS Caffey 3' Layup,12:15 PM
+31,0,4,31,0020000007,,,8:16,1,5,0,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:1 Def:0),12:15 PM
+32,1,2,32,0020000007,,,8:14,1,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Cassell 13' Jump Shot,12:15 PM
+33,0,4,33,0020000007,Nowitzki REBOUND (Off:0 Def:1),,8:13,1,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:15 PM
+34,5,2,34,0020000007,MISS Nowitzki  Layup,,8:08,1,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:15 PM
+35,0,4,36,0020000007,Nash REBOUND (Off:1 Def:0),,8:07,1,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:15 PM
+36,4,1,35,0020000007,Nash  Tip Shot (6 PTS),,8:07,1,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,9 - 16,7,,12:15 PM
+37,1,2,37,0020000007,,,7:50,1,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Allen 14' Jump Shot,12:15 PM
+38,0,4,38,0020000007,MAVERICKS Rebound,,7:48,1,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,12:15 PM
+39,1,2,39,0020000007,MISS Finley 13' Jump Shot,,7:33,1,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:16 PM
+40,0,4,40,0020000007,,,7:31,1,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell REBOUND (Off:0 Def:1),12:16 PM
+41,3,6,41,0020000007,Najera L.B.FOUL (P1.T2),,7:31,1,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:16 PM
+42,1,2,42,0020000007,,,7:16,1,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Robinson 17' Jump Shot,12:16 PM
+43,0,4,43,0020000007,Laettner REBOUND (Off:0 Def:1),,7:15,1,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:16 PM
+44,5,2,44,0020000007,MISS Laettner  Layup,,7:00,1,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:17 PM
+45,0,4,46,0020000007,Laettner REBOUND (Off:1 Def:1),,6:58,1,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:17 PM
+46,4,1,45,0020000007,Laettner  Tip Shot (4 PTS),,6:58,1,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,9 - 18,9,,12:17 PM
+47,21,5,47,0020000007,,,6:45,1,5,0,1,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell Palming Turnover (P2.T5),12:17 PM
+48,0,8,48,0020000007,,,6:45,1,5,5,0,679,Jason Caffey,MIL,Milwaukee,1610612749.0,Bucks,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Thomas FOR Caffey,12:17 PM
+49,1,2,49,0020000007,MISS Nowitzki 25' 3PT Jump Shot,,6:31,1,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:17 PM
+50,0,4,50,0020000007,Najera REBOUND (Off:1 Def:0),,6:29,1,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:17 PM
+51,2,6,51,0020000007,,,6:26,1,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Thomas S.FOUL (P1.T2),12:17 PM
+52,1,7,52,0020000007,,,6:26,1,3,0,1,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Violation: Delay of game Violation,12:18 PM
+53,11,3,53,0020000007,Finley Free Throw 1 of 2 (7 PTS),,6:26,1,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,9 - 19,10,,12:18 PM
+54,12,3,54,0020000007,Finley Free Throw 2 of 2 (8 PTS),,6:26,1,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,9 - 20,11,,12:18 PM
+55,1,5,55,0020000007,Nowitzki STEAL (2 STL),,6:22,1,5,4,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Cassell Bad Pass Turnover (P3.T6),12:18 PM
+56,1,2,56,0020000007,MISS Finley 25' 3PT Jump Shot,,6:16,1,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:18 PM
+57,0,4,57,0020000007,,,6:14,1,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:1 Def:1),12:18 PM
+58,1,6,58,0020000007,Najera P.FOUL (P2.T3),,6:03,1,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:19 PM
+59,5,1,59,0020000007,,,5:53,1,5,5,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,11 - 20,9,Johnson 3' Layup (2 PTS) (Robinson 1 AST),12:19 PM
+60,1,5,60,0020000007,Finley Bad Pass Turnover (P1.T1),,5:46,1,4,5,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,Thomas STEAL (1 STL),12:19 PM
+61,2,6,61,0020000007,Nowitzki S.FOUL (P2.T4),,5:39,1,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:19 PM
+62,1,9,62,0020000007,MAVERICKS Timeout: Regular (Full 1 Short 0),,5:39,1,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,12:19 PM
+63,0,8,63,0020000007,SUB: Eisley FOR Nowitzki,,5:39,1,4,4,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,12:21 PM
+64,11,3,65,0020000007,,,5:39,1,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,12 - 20,8,Cassell Free Throw 1 of 2 (1 PTS),12:22 PM
+65,12,3,66,0020000007,,,5:39,1,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,13 - 20,7,Cassell Free Throw 2 of 2 (2 PTS),12:22 PM
+66,1,2,67,0020000007,MISS Nash 22' Jump Shot,,5:19,1,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:22 PM
+67,0,4,68,0020000007,Finley REBOUND (Off:1 Def:1),,5:17,1,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:22 PM
+68,1,1,69,0020000007,Eisley 24' 3PT Jump Shot (3 PTS) (Finley 2 AST),,5:12,1,4,4,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,13 - 23,10,,12:22 PM
+69,1,1,70,0020000007,,,4:50,1,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,15 - 23,8,Robinson 11' Jump Shot (4 PTS),12:23 PM
+70,1,2,72,0020000007,MISS Nash 25' 3PT Jump Shot,,4:27,1,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:23 PM
+71,0,4,73,0020000007,Laettner REBOUND (Off:2 Def:1),,4:26,1,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:23 PM
+72,1,2,74,0020000007,MISS Laettner 4' Jump Shot,,4:24,1,4,0,5,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,,,Robinson BLOCK (1 BLK),12:23 PM
+73,0,4,75,0020000007,,,4:21,1,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell REBOUND (Off:0 Def:2),12:23 PM
+74,45,2,76,0020000007,Eisley BLOCK (1 BLK),,4:17,1,5,0,4,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,,,MISS Cassell 20' Jump Shot,12:23 PM
+75,0,4,77,0020000007,Eisley REBOUND (Off:0 Def:1),,4:15,1,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:23 PM
+76,42,1,78,0020000007,Nash  Driving Layup (8 PTS) (Eisley 1 AST),,4:13,1,4,4,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,15 - 25,10,,12:23 PM
+77,1,2,79,0020000007,,,3:55,1,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Thomas 9' Jump Shot,12:24 PM
+78,0,4,80,0020000007,Finley REBOUND (Off:1 Def:2),,3:54,1,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:24 PM
+79,1,2,81,0020000007,MISS Najera 2' Jump Shot,,3:47,1,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:24 PM
+80,0,4,82,0020000007,,,3:46,1,3,0,0,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Rebound,12:24 PM
+81,0,8,83,0020000007,,,3:46,1,5,5,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Williams FOR Johnson,12:24 PM
+82,0,8,84,0020000007,,,3:45,1,5,5,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Hunter FOR Allen,12:24 PM
+83,1,1,85,0020000007,,,3:33,1,5,5,0,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,17 - 25,8,Williams 10' Jump Shot (2 PTS) (Cassell 2 AST),12:25 PM
+84,1,5,86,0020000007,Nash Bad Pass Turnover (P1.T2),,3:10,1,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:25 PM
+85,0,8,87,0020000007,SUB: Buckner FOR Najera,,3:10,1,4,4,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,12:25 PM
+86,1,6,88,0020000007,Eisley P.FOUL (P1.PN),,2:49,1,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:26 PM
+87,1,9,89,0020000007,,,2:49,1,3,0,0,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Timeout: Regular (Reg.1 Short 0),12:26 PM
+88,0,8,91,0020000007,SUB: Davis FOR Laettner,,2:49,1,4,4,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,12:27 PM
+89,0,8,92,0020000007,SUB: Bradley FOR Nash,,2:49,1,4,4,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,12:27 PM
+90,11,3,93,0020000007,,,2:49,1,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,18 - 25,7,Robinson Free Throw 1 of 2 (5 PTS),12:28 PM
+91,12,3,94,0020000007,,,2:49,1,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,19 - 25,6,Robinson Free Throw 2 of 2 (6 PTS),12:28 PM
+92,1,2,95,0020000007,MISS Eisley 25' 3PT Jump Shot,,2:30,1,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:28 PM
+93,0,4,96,0020000007,,,2:28,1,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:1 Def:2),12:28 PM
+94,1,2,97,0020000007,,,2:24,1,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Cassell 10' Jump Shot,12:29 PM
+95,0,4,98,0020000007,Bradley REBOUND (Off:0 Def:1),,2:22,1,4,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:29 PM
+96,5,1,99,0020000007,Bradley  Layup (2 PTS) (Finley 3 AST),,2:11,1,4,4,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,19 - 27,8,,12:29 PM
+97,1,1,100,0020000007,,,1:55,1,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,21 - 27,6,Hunter 11' Jump Shot (2 PTS),12:29 PM
+98,1,6,101,0020000007,,,1:45,1,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Hunter P.FOUL (P1.T3),12:29 PM
+99,1,2,102,0020000007,MISS Finley 10' Jump Shot,,1:36,1,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:30 PM
+100,0,4,104,0020000007,Buckner REBOUND (Off:1 Def:0),,1:34,1,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:30 PM
+101,5,2,103,0020000007,MISS Buckner 3' Layup,,1:34,1,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:30 PM
+102,0,4,105,0020000007,Buckner REBOUND (Off:2 Def:0),,1:34,1,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:30 PM
+103,2,6,106,0020000007,,,1:34,1,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell S.FOUL (P1.PN),12:30 PM
+104,11,3,107,0020000007,MISS Buckner Free Throw 1 of 2,,1:34,1,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:30 PM
+105,1,4,108,0020000007,MAVERICKS Rebound,,1:34,1,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,12:30 PM
+106,12,3,109,0020000007,Buckner Free Throw 2 of 2 (1 PTS),,1:34,1,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,21 - 28,7,,12:30 PM
+107,5,2,110,0020000007,Bradley BLOCK (1 BLK),,1:19,1,5,0,4,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,,,MISS Thomas  Layup,12:30 PM
+108,0,4,111,0020000007,Eisley REBOUND (Off:0 Def:2),,1:16,1,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:31 PM
+109,1,2,112,0020000007,MISS Finley 25' 3PT Jump Shot,,1:12,1,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:31 PM
+110,0,4,113,0020000007,Davis REBOUND (Off:1 Def:0),,1:10,1,4,0,0,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:31 PM
+111,6,7,114,0020000007,,,1:00,1,5,0,1,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Hunter Violation:Double Lane,12:31 PM
+112,1,2,115,0020000007,MISS Davis 25' 3PT Jump Shot,,0:47,1,4,0,0,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:31 PM
+113,0,4,116,0020000007,,,0:45,1,5,0,0,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:1),12:31 PM
+114,1,2,117,0020000007,,,0:38,1,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Cassell 16' Jump Shot,12:31 PM
+115,0,4,118,0020000007,Buckner REBOUND (Off:2 Def:1),,0:36,1,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:31 PM
+116,46,1,119,0020000007,Finley 11' Running Jump Shot (10 PTS),,0:24,1,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,21 - 30,9,,12:32 PM
+117,1,2,120,0020000007,,,0:02,1,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Robinson 6' Jump Shot,12:32 PM
+118,0,4,121,0020000007,Finley REBOUND (Off:1 Def:3),,0:01,1,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:32 PM
+119,1,2,122,0020000007,MISS Finley 47' 3PT Jump Shot,,0:00,1,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:32 PM
+120,0,4,123,0020000007,MAVERICKS Rebound,,0:00,1,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,12:32 PM
+121,0,13,124,0020000007,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,21 - 30,9,,12:32 PM
+122,0,12,126,0020000007,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,21 - 30,9,,12:35 PM
+123,1,6,127,0020000007,,,11:40,2,5,0,0,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Williams P.FOUL (P1.T1),12:35 PM
+124,1,2,128,0020000007,MISS Eisley 24' 3PT Jump Shot,,11:27,2,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:36 PM
+125,0,4,129,0020000007,,,11:24,2,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham REBOUND (Off:0 Def:1),12:36 PM
+126,4,6,130,0020000007,,,11:20,2,5,0,1,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Thomas OFF.Foul (P2),12:36 PM
+127,5,5,131,0020000007,,,11:20,2,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Thomas Foul Turnover (P1.T7),12:36 PM
+128,1,2,132,0020000007,MISS Eisley 13' Jump Shot,,11:05,2,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:36 PM
+129,0,4,133,0020000007,,,11:03,2,5,0,0,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:2),12:36 PM
+130,5,2,134,0020000007,,,10:59,2,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Ham  Layup,12:36 PM
+131,0,4,135,0020000007,Davis REBOUND (Off:1 Def:1),,10:57,2,4,0,0,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:36 PM
+132,4,6,136,0020000007,Davis OFF.Foul (P1),,10:51,2,4,0,1,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:36 PM
+133,5,5,137,0020000007,Davis Foul Turnover (P1.T3),,10:51,2,4,0,0,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:36 PM
+134,1,5,140,0020000007,Buckner STEAL (1 STL),,10:44,2,5,4,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Cassell Bad Pass Turnover (P4.T8),12:37 PM
+135,3,6,141,0020000007,,,10:44,2,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell L.B.FOUL (P2.T2),12:37 PM
+136,0,8,142,0020000007,SUB: Nowitzki FOR Finley,,10:43,2,4,4,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,12:37 PM
+137,1,6,143,0020000007,,,10:28,2,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Thomas P.FOUL (P3.T3),12:37 PM
+138,0,8,144,0020000007,,,10:28,2,5,5,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Allen FOR Thomas,12:38 PM
+139,5,2,145,0020000007,MISS Bradley  Layup,,10:18,2,4,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:38 PM
+140,0,4,146,0020000007,,,10:15,2,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham REBOUND (Off:0 Def:2),12:38 PM
+141,1,1,147,0020000007,,,10:09,2,5,5,0,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,23 - 30,7,Williams 15' Jump Shot (4 PTS) (Ham 1 AST),12:38 PM
+142,5,1,148,0020000007,Bradley  Layup (4 PTS) (Nowitzki 1 AST),,9:52,2,4,4,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,23 - 32,9,,12:39 PM
+143,5,2,149,0020000007,Bradley BLOCK (2 BLK),,9:39,2,5,0,4,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,,,MISS Ham 3' Layup,12:39 PM
+144,0,4,150,0020000007,Bradley REBOUND (Off:0 Def:2),,9:35,2,4,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:39 PM
+145,5,2,151,0020000007,MISS Davis  Layup,,9:20,2,4,0,5,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,,,Williams BLOCK (1 BLK),12:39 PM
+146,0,4,152,0020000007,,,9:18,2,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Hunter REBOUND (Off:0 Def:1),12:39 PM
+147,2,6,153,0020000007,Buckner S.FOUL (P1.T1),,9:16,2,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:39 PM
+148,11,3,154,0020000007,,,9:16,2,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,24 - 32,8,Hunter Free Throw 1 of 2 (3 PTS),12:40 PM
+149,12,3,155,0020000007,,,9:16,2,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Hunter Free Throw 2 of 2,12:40 PM
+150,0,4,156,0020000007,Nowitzki REBOUND (Off:0 Def:2),,9:16,2,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:40 PM
+151,2,7,157,0020000007,,,9:02,2,3,0,1,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Violation: Def. Goaltending Violation,12:40 PM
+152,1,1,158,0020000007,Eisley 25' 3PT Jump Shot (6 PTS),,8:53,2,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,24 - 35,11,,12:41 PM
+153,1,1,159,0020000007,,,8:35,2,5,5,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,27 - 35,8,Hunter 24' 3PT Jump Shot (6 PTS) (Allen 1 AST),12:41 PM
+154,5,1,160,0020000007,Buckner  Layup (3 PTS) (Nowitzki 2 AST),,8:19,2,4,4,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,27 - 37,10,,12:41 PM
+155,8,1,161,0020000007,,,8:02,2,5,5,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,29 - 37,8,Ham  Slam Dunk (2 PTS) (Cassell 3 AST),12:42 PM
+156,2,6,162,0020000007,Bradley S.FOUL (P1.T2),,8:02,2,4,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:42 PM
+157,4,9,163,0020000007,,,8:02,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:42 PM
+158,0,8,165,0020000007,SUB: Nash FOR Buckner,,8:02,2,4,4,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,12:44 PM
+159,0,8,166,0020000007,SUB: Najera FOR Davis,,8:02,2,4,4,0,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,12:44 PM
+160,10,3,167,0020000007,,,8:02,2,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Ham Free Throw 1 of 1,12:44 PM
+161,0,4,168,0020000007,,,8:02,2,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham REBOUND (Off:1 Def:2),12:44 PM
+162,1,1,169,0020000007,,,7:55,2,5,5,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,32 - 37,5,Hunter 24' 3PT Jump Shot (9 PTS) (Cassell 4 AST),12:44 PM
+163,8,5,170,0020000007,MAVERICKS Turnover: 3 Second Violation (T#4),,7:36,2,2,0,1,1610612742,,,,,,0,,,,,,0,,,,,,,,,12:45 PM
+164,0,8,171,0020000007,,,7:36,2,5,5,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Robinson FOR Cassell,12:45 PM
+165,0,8,172,0020000007,SUB: Finley FOR Eisley,,7:36,2,4,4,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,12:45 PM
+166,1,1,173,0020000007,,,7:26,2,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,34 - 37,3,Allen 10' Jump Shot (9 PTS),12:45 PM
+167,1,1,174,0020000007,Nowitzki  3PT Jump Shot (3 PTS) (Finley 4 AST),,7:17,2,4,4,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,34 - 40,6,,12:45 PM
+168,7,2,175,0020000007,Bradley BLOCK (3 BLK),,7:00,2,5,0,4,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,,,MISS Ham  Dunk,12:46 PM
+169,0,4,176,0020000007,,,6:58,2,5,0,0,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Williams REBOUND (Off:1 Def:2),12:46 PM
+170,3,6,177,0020000007,Nowitzki L.B.FOUL (P3.T3),,6:58,2,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:46 PM
+171,1,1,178,0020000007,,,6:51,2,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,37 - 40,3,Allen 24' 3PT Jump Shot (12 PTS),12:46 PM
+172,1,5,179,0020000007,Nash Bad Pass Turnover (P2.T5),,6:31,2,4,0,1,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:47 PM
+173,1,7,180,0020000007,MAVERICKS Violation: Delay of game Violation,,6:31,2,2,0,1,1610612742,,,,,,0,,,,,,0,,,,,,,,,12:47 PM
+174,1,5,181,0020000007,Najera STEAL (1 STL),,6:14,2,5,4,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Ham Bad Pass Turnover (P1.T9),12:47 PM
+175,5,2,182,0020000007,MISS Bradley  Layup,,6:04,2,4,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:47 PM
+176,0,4,183,0020000007,,,6:02,2,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Hunter REBOUND (Off:0 Def:2),12:47 PM
+177,1,2,184,0020000007,,,5:42,2,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Hunter 25' 3PT Jump Shot,12:48 PM
+178,0,4,185,0020000007,Finley REBOUND (Off:1 Def:4),,5:40,2,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:48 PM
+179,1,1,186,0020000007,Nowitzki 19' Jump Shot (5 PTS) (Finley 5 AST),,5:37,2,4,4,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,37 - 42,5,,12:48 PM
+180,1,2,187,0020000007,,,5:22,2,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Robinson 19' Jump Shot,12:48 PM
+181,0,4,188,0020000007,Bradley REBOUND (Off:0 Def:3),,5:20,2,4,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:48 PM
+182,3,6,189,0020000007,,,5:20,2,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham L.B.FOUL (P1.T4),12:48 PM
+183,1,9,190,0020000007,MAVERICKS Timeout: Regular (Full 2 Short 0),,5:20,2,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,12:48 PM
+184,0,8,192,0020000007,,,5:20,2,5,5,0,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Johnson FOR Williams,12:50 PM
+185,44,1,193,0020000007,Najera  Reverse Layup (4 PTS) (Bradley 1 AST),,5:06,2,4,4,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,37 - 44,7,,12:50 PM
+186,1,2,194,0020000007,,,4:54,2,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Ham 13' Jump Shot,12:51 PM
+187,0,4,195,0020000007,Bradley REBOUND (Off:0 Def:4),,4:52,2,4,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:51 PM
+188,1,5,196,0020000007,Bradley Bad Pass Turnover (P1.T6),,4:50,2,4,5,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,Robinson STEAL (1 STL),12:51 PM
+189,1,1,197,0020000007,,,4:43,2,5,0,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,39 - 44,5,Johnson 6' Jump Shot (4 PTS),12:51 PM
+190,1,2,198,0020000007,MISS Bradley 17' Jump Shot,,4:27,2,4,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:51 PM
+191,0,4,199,0020000007,,,4:23,2,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham REBOUND (Off:1 Def:3),12:51 PM
+192,1,2,200,0020000007,,,4:17,2,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Allen 24' 3PT Jump Shot,12:51 PM
+193,0,4,201,0020000007,Bradley REBOUND (Off:0 Def:5),,4:13,2,4,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:51 PM
+194,2,6,202,0020000007,,,4:06,2,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham S.FOUL (P2.PN),12:51 PM
+195,0,8,203,0020000007,SUB: Laettner FOR Bradley,,4:06,2,4,4,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,12:52 PM
+196,11,3,204,0020000007,Nowitzki Free Throw 1 of 2 (6 PTS),,4:06,2,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,39 - 45,6,,12:52 PM
+197,0,8,205,0020000007,,,4:06,2,5,5,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Cassell FOR Ham,12:52 PM
+198,12,3,206,0020000007,Nowitzki Free Throw 2 of 2 (7 PTS),,4:06,2,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,39 - 46,7,,12:52 PM
+199,1,1,207,0020000007,,,3:56,2,5,5,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,41 - 46,5,Cassell 20' Jump Shot (4 PTS) (Hunter 1 AST),12:53 PM
+200,1,2,208,0020000007,MISS Najera 13' Jump Shot,,3:40,2,4,0,5,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,,,Johnson BLOCK (1 BLK),12:53 PM
+201,0,4,209,0020000007,,,3:37,2,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:1 Def:3),12:53 PM
+202,4,6,210,0020000007,,,3:31,2,5,0,1,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell OFF.Foul (P3),12:53 PM
+203,5,5,211,0020000007,,,3:31,2,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell Foul Turnover (P5.T10),12:53 PM
+204,0,8,212,0020000007,,,3:31,2,5,5,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Williams FOR Cassell,12:53 PM
+205,1,6,213,0020000007,,,3:21,2,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Hunter P.FOUL (P2.PN),12:54 PM
+206,11,3,214,0020000007,Finley Free Throw 1 of 2 (11 PTS),,3:21,2,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,41 - 47,6,,12:54 PM
+207,12,3,215,0020000007,Finley Free Throw 2 of 2 (12 PTS),,3:21,2,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,41 - 48,7,,12:54 PM
+208,44,2,216,0020000007,,,3:11,2,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Robinson  Reverse Layup,12:55 PM
+209,0,4,217,0020000007,,,3:08,2,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:2 Def:3),12:55 PM
+210,1,5,218,0020000007,Finley STEAL (1 STL),,3:06,2,5,4,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Robinson Bad Pass Turnover (P2.T11),12:55 PM
+211,1,2,219,0020000007,MISS Laettner 3' Jump Shot,,3:01,2,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:55 PM
+212,0,4,220,0020000007,,,3:00,2,5,0,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:1 Def:1),12:55 PM
+213,1,5,221,0020000007,Nash STEAL (1 STL),,2:57,2,5,4,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Johnson Bad Pass Turnover (P2.T12),12:55 PM
+214,1,5,222,0020000007,Laettner Bad Pass Turnover (P1.T7),,2:53,2,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:55 PM
+215,1,9,223,0020000007,,,2:53,2,3,0,0,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Timeout: Regular (Reg.2 Short 0),12:55 PM
+216,0,8,225,0020000007,SUB: Davis FOR Najera,,2:53,2,4,4,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,12:57 PM
+217,0,8,226,0020000007,SUB: Buckner FOR Nowitzki,,2:53,2,4,4,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,12:57 PM
+218,0,8,227,0020000007,SUB: Bradley FOR Laettner,,2:53,2,4,4,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,12:57 PM
+219,0,8,229,0020000007,,,2:53,2,5,5,0,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Ham FOR Williams,12:57 PM
+220,1,6,230,0020000007,Nash P.FOUL (P1.T4),,2:48,2,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:57 PM
+221,1,2,231,0020000007,,,2:42,2,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Allen 25' 3PT Jump Shot,12:58 PM
+222,0,4,232,0020000007,Davis REBOUND (Off:1 Def:2),,2:40,2,4,0,0,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:58 PM
+223,1,5,233,0020000007,Davis Bad Pass Turnover (P2.T8),,2:36,2,4,5,0,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,Robinson STEAL (2 STL),12:58 PM
+224,2,6,234,0020000007,Nash S.FOUL (P2.PN),,2:33,2,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:58 PM
+225,11,3,235,0020000007,,,2:33,2,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,42 - 48,6,Allen Free Throw 1 of 2 (13 PTS),12:58 PM
+226,0,8,236,0020000007,SUB: Laettner FOR Bradley,,2:33,2,4,4,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,12:58 PM
+227,12,3,237,0020000007,,,2:33,2,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,43 - 48,5,Allen Free Throw 2 of 2 (14 PTS),12:59 PM
+228,46,2,238,0020000007,MISS Nash 5' Running Jump Shot,,2:17,2,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,12:59 PM
+229,0,4,239,0020000007,,,2:14,2,5,0,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:1 Def:2),12:59 PM
+230,1,1,240,0020000007,,,1:56,2,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,46 - 48,2,Hunter 24' 3PT Jump Shot (12 PTS),12:59 PM
+231,0,8,241,0020000007,,,1:46,2,5,5,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Williams FOR Johnson,1:00 PM
+232,8,1,242,0020000007,Buckner  Slam Dunk (5 PTS) (Nash 3 AST),,1:38,2,4,4,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,46 - 50,4,,1:00 PM
+233,1,2,243,0020000007,,,1:18,2,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Hunter 22' Jump Shot,1:00 PM
+234,0,4,244,0020000007,Davis REBOUND (Off:1 Def:3),,1:16,2,4,0,0,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:00 PM
+235,1,2,245,0020000007,MISS Finley 17' Jump Shot,,1:08,2,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:00 PM
+236,0,4,246,0020000007,,,1:06,2,5,0,0,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Williams REBOUND (Off:1 Def:3),1:00 PM
+237,1,2,247,0020000007,,,0:51,2,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Hunter 24' 3PT Jump Shot,1:01 PM
+238,0,4,249,0020000007,,,0:49,2,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham REBOUND (Off:2 Def:3),1:01 PM
+239,5,2,248,0020000007,,,0:49,2,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Ham  Layup,1:01 PM
+240,0,4,250,0020000007,,,0:48,2,5,0,0,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Williams REBOUND (Off:2 Def:3),1:01 PM
+241,1,2,251,0020000007,,,0:46,2,5,0,0,281,Scott Williams,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Williams 13' Jump Shot,1:01 PM
+242,0,4,252,0020000007,Finley REBOUND (Off:1 Def:5),,0:45,2,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:01 PM
+243,1,1,253,0020000007,Nash  3PT Jump Shot (11 PTS) (Finley 6 AST),,0:33,2,4,4,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,46 - 53,7,,1:01 PM
+244,1,5,256,0020000007,Laettner STEAL (1 STL),,0:18,2,5,4,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Robinson Bad Pass Turnover (P3.T13),1:01 PM
+245,1,2,257,0020000007,MISS Laettner 19' Jump Shot,,0:06,2,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:02 PM
+246,0,4,258,0020000007,,,0:02,2,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham REBOUND (Off:2 Def:4),1:02 PM
+247,1,2,259,0020000007,,,0:00,2,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Hunter 25' 3PT Jump Shot,1:02 PM
+248,0,4,260,0020000007,,,0:00,2,3,0,0,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Rebound,1:02 PM
+249,0,13,261,0020000007,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,46 - 53,7,,1:02 PM
+250,0,12,263,0020000007,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,46 - 53,7,,1:18 PM
+251,1,6,264,0020000007,,,11:51,3,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Allen P.FOUL (P1.T1),1:19 PM
+252,1,6,265,0020000007,,,11:41,3,5,0,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Johnson P.FOUL (P1.T2),1:19 PM
+253,1,2,266,0020000007,MISS Nash 16' Jump Shot,,11:31,3,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:19 PM
+254,0,4,267,0020000007,Najera REBOUND (Off:2 Def:0),,11:29,3,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:19 PM
+255,4,1,268,0020000007,Najera  Tip Shot (6 PTS),,11:27,3,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,46 - 55,9,,1:19 PM
+256,0,10,270,0020000007,Jump Ball Najera vs. Caffey: Tip to Najera,,11:13,3,4,5,4,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,679,Jason Caffey,MIL,Milwaukee,1610612749.0,Bucks,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,,,,1:20 PM
+257,2,5,271,0020000007,Najera STEAL (2 STL),,11:13,3,5,4,0,679,Jason Caffey,MIL,Milwaukee,1610612749.0,Bucks,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Caffey Lost Ball Turnover (P1.T14),1:20 PM
+258,1,1,272,0020000007,Nash 24' 3PT Jump Shot (14 PTS) (Laettner 2 AST),,11:03,3,4,4,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,46 - 58,12,,1:20 PM
+259,1,1,273,0020000007,,,10:45,3,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,48 - 58,10,Cassell 17' Jump Shot (6 PTS),1:21 PM
+260,1,2,274,0020000007,MISS Nowitzki 25' 3PT Jump Shot,,10:32,3,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:21 PM
+261,0,4,275,0020000007,Finley REBOUND (Off:2 Def:5),,10:29,3,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:21 PM
+262,2,6,276,0020000007,,,10:24,3,5,0,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Johnson S.FOUL (P2.T3),1:21 PM
+263,0,8,277,0020000007,,,10:24,3,5,5,0,679,Jason Caffey,MIL,Milwaukee,1610612749.0,Bucks,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Thomas FOR Caffey,1:21 PM
+264,11,3,278,0020000007,Laettner Free Throw 1 of 2 (5 PTS),,10:24,3,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,48 - 59,11,,1:22 PM
+265,12,3,279,0020000007,MISS Laettner Free Throw 2 of 2,,10:24,3,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:22 PM
+266,0,4,280,0020000007,,,10:22,3,5,0,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:1 Def:3),1:22 PM
+267,2,9,281,0020000007,,,10:06,3,3,0,0,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Timeout: Short (Reg.2 Short 1),1:23 PM
+268,3,5,282,0020000007,,,10:03,3,5,0,1,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Johnson Out Of Bounds Turnover (P3.T15),1:24 PM
+269,4,6,283,0020000007,Laettner OFF.Foul (P1),,9:54,3,4,0,1,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:24 PM
+270,5,5,284,0020000007,Laettner Foul Turnover (P2.T9),,9:54,3,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:24 PM
+271,2,6,285,0020000007,Laettner S.FOUL (P2.T1),,9:40,3,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:24 PM
+272,11,3,286,0020000007,,,9:40,3,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,49 - 59,10,Thomas Free Throw 1 of 2 (1 PTS),1:24 PM
+273,0,8,287,0020000007,SUB: Bradley FOR Laettner,,9:40,3,4,4,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,1:25 PM
+274,12,3,288,0020000007,,,9:40,3,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,50 - 59,9,Thomas Free Throw 2 of 2 (2 PTS),1:25 PM
+275,1,1,289,0020000007,Nowitzki  3PT Jump Shot (10 PTS) (Finley 7 AST),,9:22,3,4,4,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,50 - 62,12,,1:25 PM
+276,1,1,290,0020000007,,,9:08,3,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,52 - 62,10,Cassell 19' Jump Shot (8 PTS),1:25 PM
+277,42,1,291,0020000007,Finley  Driving Layup (14 PTS),,8:59,3,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,52 - 64,12,,1:26 PM
+278,1,2,292,0020000007,,,8:48,3,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Thomas 24' 3PT Jump Shot,1:26 PM
+279,0,4,293,0020000007,Nash REBOUND (Off:1 Def:1),,8:45,3,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:26 PM
+280,2,6,294,0020000007,,,8:44,3,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Thomas S.FOUL (P4.T4),1:26 PM
+281,1,9,295,0020000007,,,8:44,3,3,0,0,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Timeout: Regular (Reg.3 Short 1),1:26 PM
+282,11,3,297,0020000007,Najera Free Throw 1 of 2 (7 PTS),,8:44,3,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,52 - 65,13,,1:29 PM
+283,12,3,298,0020000007,MISS Najera Free Throw 2 of 2,,8:44,3,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:29 PM
+284,0,4,299,0020000007,,,8:43,3,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:2 Def:4),1:29 PM
+285,2,6,300,0020000007,Bradley S.FOUL (P2.T2),,8:34,3,4,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:30 PM
+286,11,3,301,0020000007,,,8:34,3,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,53 - 65,12,Allen Free Throw 1 of 2 (15 PTS),1:30 PM
+287,12,3,302,0020000007,,,8:34,3,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,54 - 65,11,Allen Free Throw 2 of 2 (16 PTS),1:30 PM
+288,1,1,303,0020000007,Nash 18' Jump Shot (16 PTS) (Najera 1 AST),,8:13,3,4,4,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,54 - 67,13,,1:30 PM
+289,5,2,304,0020000007,,,7:56,3,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Thomas  Layup,1:31 PM
+290,0,4,306,0020000007,,,7:52,3,5,0,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:2 Def:3),1:31 PM
+291,40,1,305,0020000007,,,7:52,3,5,0,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,56 - 67,11,Johnson  Layup (6 PTS),1:31 PM
+292,1,2,307,0020000007,MISS Nowitzki  3PT Jump Shot,,7:43,3,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:31 PM
+293,0,4,308,0020000007,Najera REBOUND (Off:3 Def:0),,7:41,3,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:31 PM
+294,4,1,309,0020000007,Najera  Tip Shot (9 PTS),,7:39,3,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,56 - 69,13,,1:31 PM
+295,5,2,310,0020000007,Bradley BLOCK (4 BLK),,7:31,3,5,0,4,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,,,MISS Thomas  Layup,1:31 PM
+296,0,4,311,0020000007,Najera REBOUND (Off:3 Def:1),,7:29,3,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:31 PM
+297,1,6,312,0020000007,,,7:29,3,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Thomas P.FOUL (P5.PN),1:31 PM
+298,11,3,313,0020000007,MISS Najera Free Throw 1 of 2,,7:29,3,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:32 PM
+299,1,4,314,0020000007,MAVERICKS Rebound,,7:29,3,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,1:32 PM
+300,0,8,315,0020000007,,,7:29,3,5,5,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Hunter FOR Thomas,1:32 PM
+301,12,3,316,0020000007,Najera Free Throw 2 of 2 (10 PTS),,7:29,3,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,56 - 70,14,,1:32 PM
+302,8,5,317,0020000007,,,7:17,3,3,0,1,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Turnover: 3 Second Violation (T#16),1:32 PM
+303,4,5,318,0020000007,Nash Traveling Turnover (P3.T10),,7:02,3,4,0,1,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:33 PM
+304,7,1,320,0020000007,,,6:53,3,5,5,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,58 - 70,12,Robinson  Dunk (8 PTS) (Cassell 5 AST),1:33 PM
+305,42,1,321,0020000007,Finley  Driving Layup (16 PTS),,6:30,3,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,58 - 72,14,,1:34 PM
+306,1,2,322,0020000007,,,6:15,3,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Robinson 15' Jump Shot,1:34 PM
+307,0,4,323,0020000007,,,6:13,3,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Allen REBOUND (Off:1 Def:1),1:34 PM
+308,1,1,324,0020000007,,,6:07,3,5,5,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,60 - 72,12,Cassell 16' Jump Shot (10 PTS) (Hunter 2 AST),1:34 PM
+309,5,1,325,0020000007,Bradley  Layup (6 PTS) (Finley 8 AST),,5:42,3,4,4,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,60 - 74,14,,1:34 PM
+310,5,2,326,0020000007,Bradley BLOCK (5 BLK),,5:24,3,5,0,4,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,,,MISS Johnson  Layup,1:35 PM
+311,0,4,327,0020000007,Nash REBOUND (Off:1 Def:2),,5:20,3,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:35 PM
+312,4,6,328,0020000007,Nowitzki OFF.Foul (P4),,5:14,3,4,0,1,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:35 PM
+313,5,5,329,0020000007,Nowitzki Foul Turnover (P1.T11),,5:14,3,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:35 PM
+314,0,8,330,0020000007,SUB: Buckner FOR Najera,,5:14,3,4,4,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,1:35 PM
+315,0,8,331,0020000007,,,5:13,3,5,5,0,911,Ervin Johnson,MIL,Milwaukee,1610612749.0,Bucks,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Ham FOR Johnson,1:35 PM
+316,1,2,332,0020000007,,,5:04,3,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Allen 17' Jump Shot,1:35 PM
+317,0,4,333,0020000007,,,5:00,3,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Hunter REBOUND (Off:1 Def:2),1:35 PM
+318,1,2,334,0020000007,,,4:57,3,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Hunter 24' 3PT Jump Shot,1:36 PM
+319,0,4,335,0020000007,,,4:53,3,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Allen REBOUND (Off:2 Def:1),1:36 PM
+320,5,1,336,0020000007,,,4:51,3,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,62 - 74,12,Allen  Layup (18 PTS),1:36 PM
+321,4,6,337,0020000007,Bradley OFF.Foul (P3),,4:35,3,4,0,1,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:36 PM
+322,5,5,338,0020000007,Bradley Foul Turnover (P2.T12),,4:35,3,4,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:36 PM
+323,0,8,339,0020000007,SUB: Laettner FOR Bradley,,4:35,3,4,4,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,1:36 PM
+324,4,6,340,0020000007,,,4:20,3,5,0,1,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Robinson OFF.Foul (P2),1:37 PM
+325,5,5,341,0020000007,,,4:20,3,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Robinson Foul Turnover (P4.T17),1:37 PM
+326,1,2,342,0020000007,MISS Laettner 13' Jump Shot,,3:59,3,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:37 PM
+327,0,4,343,0020000007,Buckner REBOUND (Off:3 Def:1),,3:58,3,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:37 PM
+328,1,2,344,0020000007,MISS Finley 25' 3PT Jump Shot,,3:53,3,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:37 PM
+329,0,4,345,0020000007,Laettner REBOUND (Off:3 Def:1),,3:51,3,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:37 PM
+330,45,2,346,0020000007,MISS Laettner 6' Jump Shot,,3:49,3,4,0,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:37 PM
+331,0,4,348,0020000007,Buckner REBOUND (Off:4 Def:1),,3:48,3,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:37 PM
+332,45,2,347,0020000007,MISS Buckner 6' Jump Shot,,3:48,3,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:37 PM
+333,0,4,349,0020000007,Buckner REBOUND (Off:5 Def:1),,3:48,3,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:38 PM
+334,3,6,350,0020000007,,,3:48,3,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham L.B.FOUL (P3.PN),1:38 PM
+335,11,3,351,0020000007,Buckner Free Throw 1 of 2 (6 PTS),,3:48,3,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,62 - 75,13,,1:38 PM
+336,0,8,352,0020000007,SUB: Eisley FOR Nowitzki,,3:48,3,4,4,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,1:38 PM
+337,12,3,353,0020000007,Buckner Free Throw 2 of 2 (7 PTS),,3:48,3,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,62 - 76,14,,1:39 PM
+338,2,6,354,0020000007,Buckner S.FOUL (P2.T3),,3:38,3,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:39 PM
+339,11,3,355,0020000007,,,3:38,3,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Robinson Free Throw 1 of 2,1:39 PM
+340,1,4,356,0020000007,,,3:38,3,3,0,0,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Rebound,1:39 PM
+341,12,3,357,0020000007,,,3:38,3,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,63 - 76,13,Robinson Free Throw 2 of 2 (9 PTS),1:39 PM
+342,1,5,359,0020000007,Nash Bad Pass Turnover (P4.T13),,3:21,3,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:40 PM
+343,1,5,360,0020000007,Finley STEAL (2 STL),,3:11,3,5,4,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,Allen Bad Pass Turnover (P1.T18),1:40 PM
+344,1,2,361,0020000007,MISS Nash 24' 3PT Jump Shot,,2:59,3,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:40 PM
+345,0,4,362,0020000007,Buckner REBOUND (Off:6 Def:1),,2:57,3,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:40 PM
+346,1,2,363,0020000007,MISS Finley 25' 3PT Jump Shot,,2:54,3,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:40 PM
+347,0,4,364,0020000007,,,2:51,3,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham REBOUND (Off:2 Def:5),1:40 PM
+348,2,6,365,0020000007,Finley S.FOUL (P1.T4),,2:40,3,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:41 PM
+349,1,9,366,0020000007,MAVERICKS Timeout: Regular (Full 3 Short 0),,2:40,3,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,1:41 PM
+350,11,3,370,0020000007,,,2:40,3,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,64 - 76,12,Cassell Free Throw 1 of 2 (11 PTS),1:43 PM
+351,12,3,371,0020000007,,,2:40,3,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Cassell Free Throw 2 of 2,1:43 PM
+352,0,4,372,0020000007,,,2:40,3,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham REBOUND (Off:3 Def:5),1:44 PM
+353,3,6,373,0020000007,Buckner L.B.FOUL (P3.PN),,2:40,3,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:44 PM
+354,11,3,374,0020000007,,,2:40,3,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,65 - 76,11,Ham Free Throw 1 of 2 (3 PTS),1:44 PM
+355,12,3,375,0020000007,,,2:40,3,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Ham Free Throw 2 of 2,1:44 PM
+356,0,4,376,0020000007,Nash REBOUND (Off:1 Def:3),,2:38,3,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:44 PM
+357,1,2,377,0020000007,MISS Nash 24' 3PT Jump Shot,,2:19,3,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:44 PM
+358,0,4,378,0020000007,,,2:15,3,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:2 Def:5),1:45 PM
+359,1,2,379,0020000007,,,2:10,3,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Cassell 19' Jump Shot,1:45 PM
+360,0,4,380,0020000007,,,2:10,3,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham REBOUND (Off:4 Def:5),1:45 PM
+361,3,6,381,0020000007,Buckner L.B.FOUL (P4.PN),,2:10,3,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:45 PM
+362,11,3,382,0020000007,,,2:10,3,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,66 - 76,10,Ham Free Throw 1 of 2 (4 PTS),1:45 PM
+363,0,8,383,0020000007,SUB: Davis FOR Nash,,2:10,3,4,4,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,1:45 PM
+364,12,3,384,0020000007,,,2:10,3,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,67 - 76,9,Ham Free Throw 2 of 2 (5 PTS),1:45 PM
+365,1,5,386,0020000007,Laettner Bad Pass Turnover (P3.T14),,1:54,3,4,5,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,Hunter STEAL (1 STL),1:46 PM
+366,1,1,387,0020000007,,,1:45,3,5,5,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,69 - 76,7,Robinson 22' Jump Shot (11 PTS) (Allen 2 AST),1:46 PM
+367,1,6,388,0020000007,,,1:35,3,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Hunter P.FOUL (P3.PN),1:46 PM
+368,11,3,389,0020000007,MISS Eisley Free Throw 1 of 2,,1:35,3,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:46 PM
+369,1,4,390,0020000007,MAVERICKS Rebound,,1:35,3,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,1:46 PM
+370,12,3,391,0020000007,Eisley Free Throw 2 of 2 (7 PTS),,1:35,3,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,69 - 77,8,,1:47 PM
+371,1,2,392,0020000007,,,1:21,3,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Allen 8' Jump Shot,1:47 PM
+372,0,4,393,0020000007,Buckner REBOUND (Off:6 Def:2),,1:18,3,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:47 PM
+373,2,6,394,0020000007,,,1:01,3,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Robinson S.FOUL (P3.PN),1:47 PM
+374,0,8,395,0020000007,,,1:01,3,5,5,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Thomas FOR Allen,1:48 PM
+375,0,8,396,0020000007,SUB: Bradley FOR Laettner,,1:01,3,4,4,0,363,Christian Laettner,DAL,Dallas,1610612742.0,Mavericks,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,1:48 PM
+376,11,3,397,0020000007,MISS Finley Free Throw 1 of 2,,1:01,3,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:48 PM
+377,1,4,398,0020000007,MAVERICKS Rebound,,1:01,3,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,1:48 PM
+378,12,3,399,0020000007,MISS Finley Free Throw 2 of 2,,1:01,3,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:48 PM
+379,0,4,400,0020000007,,,1:01,3,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:0 Def:1),1:48 PM
+380,1,1,401,0020000007,,,0:45,3,5,5,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,71 - 77,6,Thomas 18' Jump Shot (4 PTS) (Robinson 2 AST),1:49 PM
+381,5,1,402,0020000007,Finley 3' Layup (18 PTS),,0:29,3,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,71 - 79,8,,1:49 PM
+382,1,1,403,0020000007,,,0:13,3,5,5,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,73 - 79,6,Ham 12' Jump Shot (7 PTS) (Cassell 6 AST),1:50 PM
+383,1,2,404,0020000007,MISS Bradley 17' Jump Shot,,0:02,3,4,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:50 PM
+384,0,4,405,0020000007,Finley REBOUND (Off:3 Def:5),,0:01,3,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:50 PM
+385,4,1,406,0020000007,Finley  Tip Shot (20 PTS),,0:01,3,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,73 - 81,8,,1:50 PM
+386,1,2,407,0020000007,,,0:00,3,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Ham 46' 3PT Jump Shot,1:50 PM
+387,0,4,408,0020000007,,,0:00,3,3,0,0,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Rebound,1:50 PM
+388,0,13,409,0020000007,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,73 - 81,8,,1:50 PM
+389,0,12,411,0020000007,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,73 - 81,8,,1:52 PM
+390,42,1,412,0020000007,,,11:42,4,5,5,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,75 - 81,6,Thomas  Driving Layup (6 PTS) (Cassell 7 AST),1:53 PM
+391,5,2,413,0020000007,MISS Eisley  Layup,,11:19,4,4,0,5,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,,,Ham BLOCK (1 BLK),1:53 PM
+392,0,4,415,0020000007,Buckner REBOUND (Off:7 Def:2),,11:14,4,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:53 PM
+393,45,2,414,0020000007,MISS Buckner 5' Jump Shot,,11:14,4,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:53 PM
+394,0,4,417,0020000007,Buckner REBOUND (Off:8 Def:2),,11:11,4,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:53 PM
+395,45,2,416,0020000007,MISS Buckner 5' Jump Shot,,11:11,4,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:53 PM
+396,0,4,418,0020000007,,,11:10,4,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell REBOUND (Off:0 Def:3),1:53 PM
+397,45,2,419,0020000007,,,11:08,4,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Cassell 12' Jump Shot,1:53 PM
+398,0,4,420,0020000007,Buckner REBOUND (Off:8 Def:3),,11:06,4,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:53 PM
+399,5,2,421,0020000007,MISS Bradley  Layup,,10:49,4,4,0,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:54 PM
+400,0,4,422,0020000007,,,10:45,4,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:2 Def:6),1:54 PM
+401,1,1,423,0020000007,,,10:32,4,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,77 - 81,4,Thomas 22' Jump Shot (8 PTS),1:54 PM
+402,6,7,424,0020000007,,,10:11,4,5,0,1,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham Violation:Double Lane,1:54 PM
+403,0,8,425,0020000007,,,10:11,4,5,5,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Allen FOR Cassell,1:55 PM
+404,1,5,426,0020000007,Davis Bad Pass Turnover (P3.T15),,10:03,4,4,5,0,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,Thomas STEAL (2 STL),1:55 PM
+405,9,6,427,0020000007,Davis C.P.FOUL (P2.T1),,10:03,4,4,0,1,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:55 PM
+406,17,3,428,0020000007,,,10:03,4,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,78 - 81,3,Thomas Free Throw Clear Path (9 PTS),1:55 PM
+407,0,8,429,0020000007,SUB: Nash FOR Davis,,10:03,4,4,4,0,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,1:55 PM
+408,5,2,430,0020000007,Bradley BLOCK (6 BLK),,9:46,4,5,0,4,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,,,MISS Ham  Layup,1:56 PM
+409,0,4,431,0020000007,Nowitzki REBOUND (Off:0 Def:3),,9:43,4,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:56 PM
+410,1,2,432,0020000007,MISS Nash 15' Jump Shot,,9:28,4,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:56 PM
+411,0,4,433,0020000007,,,9:26,4,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Hunter REBOUND (Off:1 Def:3),1:56 PM
+412,3,6,434,0020000007,Eisley L.B.FOUL (P2.T2),,9:26,4,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:56 PM
+413,4,5,435,0020000007,,,9:16,4,5,0,1,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham Traveling Turnover (P2.T19),1:57 PM
+414,0,8,436,0020000007,SUB: Finley FOR Bradley,,9:16,4,4,4,0,762,Shawn Bradley,DAL,Dallas,1610612742.0,Mavericks,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,1:57 PM
+415,1,2,437,0020000007,MISS Nowitzki 17' Jump Shot,,8:57,4,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,1:57 PM
+416,0,4,438,0020000007,,,8:55,4,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Allen REBOUND (Off:2 Def:2),1:57 PM
+417,42,1,439,0020000007,,,8:48,4,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,80 - 81,1,Allen  Driving Layup (20 PTS),1:58 PM
+418,1,9,440,0020000007,MAVERICKS Timeout: Regular (Full 4 Short 0),,8:46,4,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,1:58 PM
+419,1,1,444,0020000007,Finley 14' Jump Shot (22 PTS) (Nash 4 AST),,8:27,4,4,4,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,80 - 83,3,,2:00 PM
+420,2,5,445,0020000007,,,8:06,4,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Hunter Lost Ball Turnover (P1.T20),2:00 PM
+421,5,2,446,0020000007,MISS Buckner  Layup,,7:49,4,4,0,5,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,,,Robinson BLOCK (2 BLK),2:01 PM
+422,0,4,447,0020000007,Nowitzki REBOUND (Off:1 Def:3),,7:45,4,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:01 PM
+423,1,2,448,0020000007,MISS Nowitzki 25' 3PT Jump Shot,,7:45,4,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:01 PM
+424,0,4,449,0020000007,MAVERICKS Rebound,,7:45,4,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,2:01 PM
+425,0,8,450,0020000007,,,7:45,4,5,5,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Cassell FOR Robinson,2:01 PM
+426,1,6,451,0020000007,,,7:38,4,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Hunter P.FOUL (P4.T1),2:02 PM
+427,1,6,452,0020000007,,,7:32,4,5,0,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Hunter P.FOUL (P5.T2),2:02 PM
+428,0,8,453,0020000007,,,7:32,4,5,5,0,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Robinson FOR Hunter,2:03 PM
+429,5,2,454,0020000007,MISS Finley  Layup,,7:23,4,4,0,5,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,,,Robinson BLOCK (3 BLK),2:03 PM
+430,0,4,455,0020000007,,,7:19,4,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham REBOUND (Off:4 Def:6),2:03 PM
+431,1,2,456,0020000007,,,7:10,4,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Robinson 11' Jump Shot,2:03 PM
+432,0,4,457,0020000007,Eisley REBOUND (Off:0 Def:3),,7:07,4,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:03 PM
+433,1,1,458,0020000007,Nash 24' 3PT Jump Shot (19 PTS) (Eisley 2 AST),,6:59,4,4,4,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,80 - 86,6,,2:04 PM
+434,1,1,459,0020000007,,,6:44,4,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,82 - 86,4,Cassell 17' Jump Shot (13 PTS),2:04 PM
+435,1,1,460,0020000007,Finley 13' Jump Shot (24 PTS),,6:22,4,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,82 - 88,6,,2:04 PM
+436,1,2,461,0020000007,,,6:10,4,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Cassell 11' Jump Shot,2:04 PM
+437,0,4,462,0020000007,Nowitzki REBOUND (Off:1 Def:4),,6:08,4,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:04 PM
+438,1,6,463,0020000007,,,6:07,4,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell P.FOUL (P4.T3),2:04 PM
+439,1,1,464,0020000007,Nowitzki 25' 3PT Jump Shot (13 PTS) (Eisley 3 AST),,5:50,4,4,4,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,82 - 91,9,,2:05 PM
+440,1,9,465,0020000007,,,5:48,4,3,0,0,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Timeout: Regular (Reg.4 Short 1),2:05 PM
+441,5,2,469,0020000007,,,5:35,4,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Thomas  Layup,2:07 PM
+442,0,4,470,0020000007,Nowitzki REBOUND (Off:1 Def:5),,5:31,4,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:07 PM
+443,5,2,471,0020000007,MISS Finley  Layup,,5:12,4,4,0,5,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,,,Ham BLOCK (2 BLK),2:08 PM
+444,0,4,472,0020000007,,,5:09,4,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham REBOUND (Off:4 Def:7),2:08 PM
+445,1,6,473,0020000007,Nash P.FOUL (P3.T3),,5:04,4,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:08 PM
+446,42,1,474,0020000007,,,4:53,4,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,84 - 91,7,Cassell  Driving Layup (15 PTS),2:09 PM
+447,1,2,475,0020000007,MISS Nowitzki 13' Jump Shot,,4:40,4,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:09 PM
+448,0,4,476,0020000007,,,4:38,4,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell REBOUND (Off:0 Def:4),2:09 PM
+449,1,6,477,0020000007,Eisley P.FOUL (P3.T4),,4:32,4,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:09 PM
+450,1,2,478,0020000007,,,4:20,4,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Robinson 25' 3PT Jump Shot,2:10 PM
+451,0,4,479,0020000007,MAVERICKS Rebound,,4:18,4,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,2:10 PM
+452,1,2,480,0020000007,MISS Eisley 25' 3PT Jump Shot,,3:56,4,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:10 PM
+453,0,4,481,0020000007,,,3:54,4,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Robinson REBOUND (Off:2 Def:7),2:10 PM
+454,45,2,482,0020000007,Nash BLOCK (1 BLK),,3:44,4,5,0,4,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,,,MISS Allen  Jump Shot,2:10 PM
+455,0,4,483,0020000007,MAVERICKS Rebound,,3:44,4,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,2:11 PM
+456,11,6,484,0020000007,,,3:44,4,5,0,1,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell T.FOUL (P4.T3),2:11 PM
+457,16,3,485,0020000007,Nash Free Throw Technical (20 PTS),,3:44,4,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,84 - 92,8,,2:11 PM
+458,0,8,486,0020000007,SUB: Najera FOR Eisley,,3:44,4,4,4,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,2:11 PM
+459,1,9,488,0020000007,MAVERICKS Timeout: Regular (Full 5 Short 0),,3:28,4,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,2:12 PM
+460,1,6,491,0020000007,,,3:24,4,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell P.FOUL (P5.T4),2:15 PM
+461,0,8,492,0020000007,,,3:24,4,5,5,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Hunter FOR Thomas,2:15 PM
+462,1,5,493,0020000007,Nash Bad Pass Turnover (P5.T16),,3:19,4,4,0,0,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:16 PM
+463,55,1,494,0020000007,,,3:00,4,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,86 - 92,6,Allen  Hook Shot (22 PTS),2:16 PM
+464,5,2,496,0020000007,MISS Najera  Layup,,2:41,4,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:16 PM
+465,0,4,497,0020000007,,,2:39,4,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham REBOUND (Off:4 Def:8),2:16 PM
+466,1,9,498,0020000007,,,2:34,4,3,0,0,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Timeout: Regular (Reg.5 Short 1),2:16 PM
+467,1,2,501,0020000007,,,2:18,4,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Allen 15' Jump Shot,2:19 PM
+468,0,4,502,0020000007,,,2:14,4,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell REBOUND (Off:1 Def:4),2:19 PM
+469,1,2,503,0020000007,,,2:11,4,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Robinson 26' 3PT Jump Shot,2:19 PM
+470,0,4,504,0020000007,Finley REBOUND (Off:3 Def:6),,2:10,4,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:19 PM
+471,3,6,505,0020000007,,,2:10,4,5,0,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Cassell L.B.FOUL (P6.PN),2:19 PM
+472,0,8,506,0020000007,,,2:10,4,5,5,0,208,Sam Cassell,MIL,Milwaukee,1610612749.0,Bucks,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Thomas FOR Cassell,2:20 PM
+473,11,3,507,0020000007,Finley Free Throw 1 of 2 (25 PTS),,2:10,4,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,86 - 93,7,,2:20 PM
+474,12,3,508,0020000007,Finley Free Throw 2 of 2 (26 PTS),,2:10,4,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,86 - 94,8,,2:20 PM
+475,2,6,510,0020000007,Najera S.FOUL (P3.PN),,1:58,4,4,0,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:20 PM
+476,11,3,511,0020000007,,,1:58,4,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,87 - 94,7,Allen Free Throw 1 of 2 (23 PTS),2:21 PM
+477,0,8,512,0020000007,SUB: Eisley FOR Najera,,1:58,4,4,4,0,2059,Eduardo Najera,DAL,Dallas,1610612742.0,Mavericks,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,2:21 PM
+478,12,3,513,0020000007,,,1:58,4,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,88 - 94,6,Allen Free Throw 2 of 2 (24 PTS),2:21 PM
+479,1,1,514,0020000007,Nowitzki  3PT Jump Shot (16 PTS) (Nash 5 AST),,1:37,4,4,4,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,959,Steve Nash,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,88 - 97,9,,2:21 PM
+480,1,9,515,0020000007,,,1:37,4,3,0,0,1610612749,,,,,,0,,,,,,0,,,,,,,,Bucks Timeout: Regular (Reg.6 Short 1),2:22 PM
+481,45,2,519,0020000007,,,1:29,4,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Thomas  Jump Shot,2:24 PM
+482,0,4,521,0020000007,,,1:27,4,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:1 Def:1),2:24 PM
+483,45,2,520,0020000007,,,1:27,4,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Thomas 3' Jump Shot,2:24 PM
+484,0,4,522,0020000007,Nowitzki REBOUND (Off:1 Def:6),,1:25,4,4,0,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:24 PM
+485,1,5,523,0020000007,Finley Bad Pass Turnover (P2.T17),,1:07,4,4,5,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,283,Lindsey Hunter,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,Hunter STEAL (2 STL),2:24 PM
+486,1,6,524,0020000007,Finley P.FOUL (P2.PN),,0:57,4,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:24 PM
+487,11,3,525,0020000007,,,0:57,4,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,89 - 97,8,Allen Free Throw 1 of 2 (25 PTS),2:25 PM
+488,12,3,526,0020000007,,,0:57,4,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,90 - 97,7,Allen Free Throw 2 of 2 (26 PTS),2:25 PM
+489,1,2,527,0020000007,MISS Finley 15' Jump Shot,,0:37,4,4,0,0,714,Michael Finley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:25 PM
+490,0,4,528,0020000007,,,0:34,4,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Thomas REBOUND (Off:1 Def:2),2:25 PM
+491,1,1,529,0020000007,,,0:26,4,5,5,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,93 - 97,4,Thomas 24' 3PT Jump Shot (12 PTS) (Robinson 3 AST),2:26 PM
+492,1,6,530,0020000007,,,0:20,4,5,0,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Thomas P.FOUL (P6.PN),2:26 PM
+493,0,8,531,0020000007,,,0:20,4,5,5,0,1501,Tim Thomas,MIL,Milwaukee,1610612749.0,Bucks,1747,Rafer Alston,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,,,SUB: Alston FOR Thomas,2:26 PM
+494,11,3,532,0020000007,MISS Buckner Free Throw 1 of 2,,0:20,4,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:26 PM
+495,1,4,533,0020000007,MAVERICKS Rebound,,0:20,4,2,0,0,1610612742,,,,,,0,,,,,,0,,,,,,,,,2:26 PM
+496,0,8,534,0020000007,SUB: Davis FOR Nowitzki,,0:20,4,4,4,0,1717,Dirk Nowitzki,DAL,Dallas,1610612742.0,Mavericks,93,Hubert Davis,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,,,,2:26 PM
+497,12,3,535,0020000007,MISS Buckner Free Throw 2 of 2,,0:20,4,4,0,0,1761,Greg Buckner,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:27 PM
+498,0,4,536,0020000007,,,0:19,4,5,0,0,1032,Darvin Ham,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Ham REBOUND (Off:4 Def:9),2:27 PM
+499,1,2,537,0020000007,,,0:11,4,5,0,0,299,Glenn Robinson,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Robinson 25' 3PT Jump Shot,2:27 PM
+500,0,4,538,0020000007,Eisley REBOUND (Off:0 Def:4),,0:09,4,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:27 PM
+501,2,5,539,0020000007,Eisley Lost Ball Turnover (P1.T18),,0:07,4,4,0,0,458,Howard Eisley,DAL,Dallas,1610612742.0,Mavericks,0,,,,,,0,,,,,,,,,2:27 PM
+502,1,2,541,0020000007,,,0:04,4,5,0,0,951,Ray Allen,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,MISS Allen 25' 3PT Jump Shot,2:27 PM
+503,0,4,542,0020000007,,,0:00,4,5,0,0,1747,Rafer Alston,MIL,Milwaukee,1610612749.0,Bucks,0,,,,,,0,,,,,,,,Alston REBOUND (Off:1 Def:0),2:27 PM
+504,0,13,543,0020000007,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,93 - 97,4,,2:27 PM

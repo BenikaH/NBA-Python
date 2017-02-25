@@ -1,0 +1,505 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0029700715,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,4:00 AM
+1,0,10,1,0029700715,Jump Ball O'Neal vs. Baker: Tip to Payton,,12:00,1,4,5,5,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,,,,4:00 AM
+2,1,2,3,0029700715,,,11:38,1,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker 18' Jump Shot,4:01 AM
+3,0,4,4,0029700715,Van Exel REBOUND (Off:0 Def:1),,11:35,1,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:01 AM
+4,1,5,5,0029700715,Van Exel Bad Pass Turnover (P1.T1),,11:33,1,4,5,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Payton STEAL (1 STL),4:01 AM
+5,1,2,6,0029700715,,,11:30,1,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Payton 26' 3PT Jump Shot,4:01 AM
+6,0,4,7,0029700715,Jones REBOUND (Off:0 Def:1),,11:27,1,4,0,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:01 AM
+7,1,2,8,0029700715,MISS Horry 13' Jump Shot,,11:08,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:01 AM
+8,0,4,9,0029700715,,,11:05,1,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker REBOUND (Off:0 Def:1),4:01 AM
+9,1,2,10,0029700715,,,10:52,1,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Schrempf 12' Jump Shot,4:02 AM
+10,0,4,11,0029700715,Horry REBOUND (Off:0 Def:1),,10:49,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:02 AM
+11,1,2,12,0029700715,MISS Van Exel 26' 3PT Jump Shot,,10:43,1,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:02 AM
+12,0,4,13,0029700715,,,10:41,1,5,0,0,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,McIlvaine REBOUND (Off:0 Def:1),4:02 AM
+13,2,6,14,0029700715,O'Neal S.FOUL (P1.T1),,10:32,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:02 AM
+14,11,3,15,0029700715,,,10:32,1,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker Free Throw 1 of 2,4:02 AM
+15,0,4,16,0029700715,,,10:32,1,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,4:02 AM
+16,12,3,17,0029700715,,,10:32,1,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker Free Throw 2 of 2,4:02 AM
+17,0,4,18,0029700715,O'Neal REBOUND (Off:0 Def:1),,10:31,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:03 AM
+18,1,5,19,0029700715,O'Neal Bad Pass Turnover (P1.T2),,10:17,1,4,5,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Baker STEAL (1 STL),4:03 AM
+19,2,6,20,0029700715,Van Exel S.FOUL (P1.T2),,10:14,1,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:03 AM
+20,11,3,21,0029700715,,,10:14,1,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Schrempf Free Throw 1 of 2,4:03 AM
+21,0,4,22,0029700715,,,10:14,1,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,4:03 AM
+22,12,3,23,0029700715,,,10:14,1,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,1 - 0,-1,Schrempf Free Throw 2 of 2 (1 PTS),4:03 AM
+23,5,2,24,0029700715,MISS O'Neal  Layup,,9:58,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:04 AM
+24,0,4,25,0029700715,O'Neal REBOUND (Off:1 Def:1),,9:56,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:04 AM
+25,1,6,26,0029700715,,,9:56,1,5,0,0,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,McIlvaine P.FOUL (P1.T1),4:04 AM
+26,2,1,27,0029700715,Horry  Running Jump Shot (2 PTS) (Van Exel 1 AST),,9:42,1,4,4,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,1 - 2,1,,4:04 AM
+27,1,5,28,0029700715,Van Exel STEAL (1 STL),,9:36,1,5,4,0,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,McIlvaine Bad Pass Turnover (P1.T1),4:04 AM
+28,6,2,29,0029700715,MISS Van Exel  Driving Layup,,9:32,1,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:05 AM
+29,0,4,30,0029700715,,,9:29,1,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Schrempf REBOUND (Off:0 Def:1),4:05 AM
+30,6,1,31,0029700715,,,9:20,1,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,3 - 2,-1,Baker  Driving Layup (2 PTS) (Payton 1 AST),4:05 AM
+31,1,5,32,0029700715,Fox Bad Pass Turnover (P1.T3),,8:58,1,4,5,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,McIlvaine STEAL (1 STL),4:05 AM
+32,5,1,33,0029700715,,,8:52,1,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,5 - 2,-3,Baker  Layup (4 PTS) (Schrempf 1 AST),4:05 AM
+33,2,9,34,0029700715,LAKERS Timeout: Short (Full 0 Short 1),,8:43,1,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:05 AM
+34,1,2,35,0029700715,MISS O'Neal 13' Jump Shot,,8:33,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:07 AM
+35,0,4,36,0029700715,Horry REBOUND (Off:1 Def:1),,8:30,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:07 AM
+36,1,2,37,0029700715,MISS Jones 26' 3PT Jump Shot,,8:23,1,4,0,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:07 AM
+37,0,4,38,0029700715,Horry REBOUND (Off:2 Def:1),,8:20,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:07 AM
+38,5,2,39,0029700715,MISS Horry  Layup,,8:19,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:07 AM
+39,0,4,40,0029700715,,,8:16,1,5,0,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Hawkins REBOUND (Off:0 Def:1),4:07 AM
+40,5,1,41,0029700715,,,8:14,1,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,7 - 2,-5,Baker  Layup (6 PTS) (Payton 2 AST),4:07 AM
+41,4,6,42,0029700715,O'Neal OFF.Foul (P2),,8:07,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:07 AM
+42,5,5,43,0029700715,O'Neal Foul Turnover (P2.T4),,8:07,1,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:07 AM
+43,0,8,44,0029700715,SUB: Campbell FOR O'Neal,,8:07,1,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:07 AM
+44,6,1,45,0029700715,,,7:47,1,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,9 - 2,-7,Payton  Driving Layup (2 PTS),4:08 AM
+45,6,2,46,0029700715,MISS Jones  Driving Layup,,7:41,1,4,0,5,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,,,McIlvaine BLOCK (1 BLK),4:08 AM
+46,0,4,47,0029700715,LAKERS Rebound,,7:41,1,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:08 AM
+47,1,5,48,0029700715,Jones Bad Pass Turnover (P1.T5),,7:31,1,4,5,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Schrempf STEAL (1 STL),4:08 AM
+48,1,1,49,0029700715,,,7:25,1,5,5,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,11 - 2,-9,Hawkins 19' Jump Shot (2 PTS) (Baker 1 AST),4:08 AM
+49,1,9,50,0029700715,LAKERS Timeout: Regular (Full 1 Short 1),,7:18,1,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:09 AM
+50,6,1,51,0029700715,Fox  Driving Layup (2 PTS) (Horry 1 AST),,7:05,1,4,4,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,11 - 4,-7,,4:11 AM
+51,1,2,52,0029700715,Fox BLOCK (1 BLK),,6:43,1,5,0,4,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Baker 14' Jump Shot,4:12 AM
+52,0,4,53,0029700715,Fox REBOUND (Off:0 Def:1),,6:39,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:12 AM
+53,6,2,54,0029700715,MISS Fox  Driving Layup,,6:30,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:12 AM
+54,0,4,55,0029700715,Horry REBOUND (Off:3 Def:1),,6:28,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:12 AM
+55,3,6,56,0029700715,,,6:28,1,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton L.B.FOUL (P1.T2),4:12 AM
+56,1,2,57,0029700715,MISS Fox 26' 3PT Jump Shot,,6:12,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:12 AM
+57,0,4,58,0029700715,,,6:09,1,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker REBOUND (Off:0 Def:2),4:12 AM
+58,1,2,59,0029700715,,,6:03,1,5,0,0,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS McIlvaine 20' Jump Shot,4:12 AM
+59,0,4,60,0029700715,Van Exel REBOUND (Off:0 Def:2),,6:00,1,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:12 AM
+60,6,2,61,0029700715,MISS Jones  Driving Layup,,5:56,1,4,0,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:13 AM
+61,0,4,62,0029700715,Horry REBOUND (Off:4 Def:1),,5:53,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:13 AM
+62,1,1,63,0029700715,Horry 7' Jump Shot (4 PTS),,5:51,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,11 - 6,-5,,4:13 AM
+63,2,6,64,0029700715,,,5:51,1,5,0,0,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,McIlvaine S.FOUL (P2.T3),4:13 AM
+64,0,8,65,0029700715,SUB: Bryant FOR Jones,,5:51,1,4,4,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:13 AM
+65,10,3,66,0029700715,Horry Free Throw 1 of 1 (5 PTS),,5:51,1,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,11 - 7,-4,,4:13 AM
+66,5,1,68,0029700715,,,5:29,1,5,5,0,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,13 - 7,-6,McIlvaine  Layup (2 PTS) (Payton 3 AST),4:14 AM
+67,1,1,70,0029700715,Campbell 9' Jump Shot (2 PTS) (Van Exel 2 AST),,5:09,1,4,4,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,13 - 9,-4,,4:14 AM
+68,1,2,72,0029700715,Campbell BLOCK (1 BLK),,4:52,1,5,0,4,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Schrempf 7' Jump Shot,4:14 AM
+69,0,4,73,0029700715,Bryant REBOUND (Off:0 Def:1),,4:48,1,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:14 AM
+70,1,2,74,0029700715,MISS Van Exel  3PT Jump Shot,,4:44,1,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:14 AM
+71,0,4,75,0029700715,,,4:41,1,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,4:14 AM
+72,0,8,76,0029700715,,,4:41,1,5,5,0,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Perkins FOR McIlvaine,4:15 AM
+73,0,8,77,0029700715,SUB: Blount FOR Horry,,4:41,1,4,4,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:15 AM
+74,2,1,78,0029700715,,,4:25,1,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,15 - 9,-6,Baker 14' Running Jump Shot (8 PTS),4:15 AM
+75,2,6,79,0029700715,Blount S.FOUL (P1.T3),,4:25,1,4,0,0,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:15 AM
+76,10,3,80,0029700715,,,4:25,1,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker Free Throw 1 of 1,4:15 AM
+77,0,4,81,0029700715,Van Exel REBOUND (Off:0 Def:3),,4:23,1,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:15 AM
+78,1,2,82,0029700715,MISS Van Exel 7' Jump Shot,,4:06,1,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:16 AM
+79,0,4,83,0029700715,,,4:04,1,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Schrempf REBOUND (Off:0 Def:2),4:16 AM
+80,2,6,84,0029700715,Fox S.FOUL (P1.T4),,3:58,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:16 AM
+81,11,3,86,0029700715,,,3:58,1,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,16 - 9,-7,Payton Free Throw 1 of 2 (3 PTS),4:16 AM
+82,0,8,87,0029700715,SUB: Fisher FOR Van Exel,,3:58,1,4,4,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:16 AM
+83,0,8,88,0029700715,,,3:58,1,5,5,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Ellis FOR Schrempf,4:16 AM
+84,12,3,89,0029700715,,,3:58,1,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,17 - 9,-8,Payton Free Throw 2 of 2 (4 PTS),4:16 AM
+85,2,6,90,0029700715,,,3:40,1,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Perkins S.FOUL (P1.T4),4:17 AM
+86,11,3,91,0029700715,Fox Free Throw 1 of 2 (3 PTS),,3:40,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,17 - 10,-7,,4:17 AM
+87,12,3,92,0029700715,Fox Free Throw 2 of 2 (4 PTS),,3:40,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,17 - 11,-6,,4:17 AM
+88,1,2,93,0029700715,,,3:26,1,5,0,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Ellis 15' Jump Shot,4:18 AM
+89,0,4,94,0029700715,Fox REBOUND (Off:0 Def:2),,3:23,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:18 AM
+90,6,2,95,0029700715,MISS Fox  Driving Layup,,3:20,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:18 AM
+91,0,4,96,0029700715,LAKERS Rebound,,3:18,1,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:18 AM
+92,2,1,97,0029700715,Bryant 19' Running Jump Shot (2 PTS),,3:10,1,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,17 - 13,-4,,4:18 AM
+93,1,5,98,0029700715,Blount STEAL (1 STL),,2:45,1,5,4,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Perkins Bad Pass Turnover (P1.T2),4:19 AM
+94,1,5,99,0029700715,Fisher Bad Pass Turnover (P1.T6),,2:37,1,4,5,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Hawkins STEAL (1 STL),4:19 AM
+95,6,2,100,0029700715,Bryant BLOCK (1 BLK),,2:31,1,5,0,4,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Ellis  Driving Layup,4:19 AM
+96,0,4,101,0029700715,,,2:31,1,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,4:19 AM
+97,1,9,102,0029700715,,,2:31,1,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Timeout: Regular (Reg.1 Short 0),4:19 AM
+98,0,8,103,0029700715,,,2:31,1,5,5,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,766,David Wingate,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Wingate FOR Hawkins,4:21 AM
+99,1,2,105,0029700715,,,2:26,1,5,0,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Ellis  3PT Jump Shot,4:22 AM
+100,0,4,106,0029700715,,,2:22,1,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:1 Def:0),4:22 AM
+101,1,1,107,0029700715,,,2:20,1,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,19 - 13,-6,Perkins 17' Jump Shot (2 PTS),4:22 AM
+102,1,2,108,0029700715,MISS Fisher 25' 3PT Jump Shot,,1:54,1,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:22 AM
+103,0,4,109,0029700715,Bryant REBOUND (Off:1 Def:1),,1:51,1,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:22 AM
+104,6,2,110,0029700715,MISS Fisher  Driving Layup,,1:45,1,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:22 AM
+105,0,4,111,0029700715,,,1:42,1,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:1 Def:1),4:23 AM
+106,1,1,112,0029700715,,,1:38,1,5,5,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,22 - 13,-9,Ellis 25' 3PT Jump Shot (3 PTS) (Payton 4 AST),4:23 AM
+107,1,2,113,0029700715,MISS Campbell 14' Jump Shot,,1:28,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:23 AM
+108,0,4,114,0029700715,,,1:26,1,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,4:23 AM
+109,3,6,115,0029700715,Campbell L.B.FOUL (P1.PN),,1:26,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:23 AM
+110,11,3,116,0029700715,,,1:26,1,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,23 - 13,-10,Payton Free Throw 1 of 2 (5 PTS),4:23 AM
+111,12,3,117,0029700715,,,1:26,1,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,24 - 13,-11,Payton Free Throw 2 of 2 (6 PTS),4:23 AM
+112,1,2,118,0029700715,MISS Blount 15' Jump Shot,,1:06,1,4,0,0,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:24 AM
+113,0,4,119,0029700715,,,1:04,1,5,0,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Ellis REBOUND (Off:0 Def:1),4:24 AM
+114,1,2,120,0029700715,,,0:53,1,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker 10' Jump Shot,4:24 AM
+115,0,4,121,0029700715,Fox REBOUND (Off:0 Def:3),,0:51,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:24 AM
+116,5,1,122,0029700715,Campbell  Layup (4 PTS) (Bryant 1 AST),,0:34,1,4,4,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,24 - 15,-9,,4:24 AM
+117,2,6,123,0029700715,,,0:34,1,5,0,0,766,David Wingate,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Wingate S.FOUL (P1.PN),4:24 AM
+118,0,8,124,0029700715,,,0:34,1,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,1425,Aaron Williams,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Williams FOR Baker,4:25 AM
+119,10,3,125,0029700715,MISS Campbell Free Throw 1 of 1,,0:34,1,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:25 AM
+120,0,4,126,0029700715,,,0:32,1,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:1 Def:2),4:25 AM
+121,6,1,127,0029700715,,,0:15,1,5,5,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,26 - 15,-11,Perkins  Driving Layup (4 PTS) (Ellis 1 AST),4:25 AM
+122,4,6,128,0029700715,Fox OFF.Foul (P2),,0:01,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:25 AM
+123,5,5,129,0029700715,Fox Foul Turnover (P2.T7),,0:01,1,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:25 AM
+124,2,9,130,0029700715,,,0:01,1,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Timeout: Short (Reg.1 Short 1),4:26 AM
+125,0,13,134,0029700715,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,26 - 15,-11,,4:27 AM
+126,0,12,136,0029700715,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,26 - 15,-11,,4:30 AM
+127,6,2,137,0029700715,MISS Jones  Driving Layup,,11:46,2,4,0,5,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,,,Perkins BLOCK (1 BLK),4:30 AM
+128,0,4,138,0029700715,,,11:43,2,5,0,0,1425,Aaron Williams,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Williams REBOUND (Off:0 Def:1),4:30 AM
+129,1,5,139,0029700715,O'Neal STEAL (1 STL),,11:30,2,5,4,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Ellis Bad Pass Turnover (P1.T3),4:30 AM
+130,2,6,140,0029700715,,,11:16,2,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Perkins S.FOUL (P2.T1),4:31 AM
+131,11,3,141,0029700715,MISS O'Neal Free Throw 1 of 2,,11:16,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:31 AM
+132,0,4,142,0029700715,LAKERS Rebound,,11:16,2,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:31 AM
+133,12,3,143,0029700715,O'Neal Free Throw 2 of 2 (1 PTS),,11:16,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,26 - 16,-10,,4:31 AM
+134,1,2,144,0029700715,,,11:07,2,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Perkins 16' Jump Shot,4:31 AM
+135,0,4,145,0029700715,Jones REBOUND (Off:0 Def:2),,11:05,2,4,0,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:31 AM
+136,1,6,146,0029700715,,,10:52,2,5,0,0,1425,Aaron Williams,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Williams P.FOUL (P1.T2),4:32 AM
+137,3,1,147,0029700715,O'Neal 7' Hook Shot (3 PTS) (Jones 1 AST),,10:41,2,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,26 - 18,-8,,4:32 AM
+138,2,6,148,0029700715,,,10:41,2,5,0,0,1425,Aaron Williams,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Williams S.FOUL (P2.T3),4:32 AM
+139,10,3,149,0029700715,O'Neal Free Throw 1 of 1 (4 PTS),,10:41,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,26 - 19,-7,,4:32 AM
+140,1,2,150,0029700715,,,10:25,2,5,0,0,1425,Aaron Williams,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Williams 9' Jump Shot,4:33 AM
+141,0,4,151,0029700715,O'Neal REBOUND (Off:1 Def:2),,10:23,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:33 AM
+142,6,1,152,0029700715,Bryant  Driving Layup (4 PTS) (O'Neal 1 AST),,10:10,2,4,4,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,26 - 21,-5,,4:33 AM
+143,2,1,153,0029700715,,,9:55,2,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,28 - 21,-7,Payton 12' Running Jump Shot (8 PTS),4:33 AM
+144,5,1,154,0029700715,O'Neal  Layup (6 PTS) (Jones 2 AST),,9:35,2,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,28 - 23,-5,,4:34 AM
+145,2,7,155,0029700715,LAKERS Violation: Def. Goaltending Violation,,9:21,2,2,0,1,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:34 AM
+146,0,8,156,0029700715,,,9:21,2,5,5,0,1425,Aaron Williams,SEA,Seattle,1610612760.0,SuperSonics,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Schrempf FOR Williams,4:34 AM
+147,1,2,157,0029700715,,,9:09,2,5,0,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Ellis 8' Jump Shot,4:34 AM
+148,0,4,158,0029700715,Fisher REBOUND (Off:0 Def:1),,9:07,2,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:34 AM
+149,6,1,159,0029700715,Fisher  Driving Layup (2 PTS),,9:04,2,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,28 - 25,-3,,4:34 AM
+150,1,2,160,0029700715,,,8:46,2,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Perkins 26' 3PT Jump Shot,4:35 AM
+151,0,4,161,0029700715,Jones REBOUND (Off:0 Def:3),,8:43,2,4,0,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:35 AM
+152,1,5,162,0029700715,Jones Bad Pass Turnover (P2.T8),,8:37,2,4,5,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Payton STEAL (2 STL),4:35 AM
+153,5,1,163,0029700715,,,8:33,2,5,5,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,30 - 25,-5,Ellis  Layup (5 PTS) (Payton 5 AST),4:35 AM
+154,1,1,164,0029700715,Bryant 16' Jump Shot (6 PTS),,8:15,2,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,30 - 27,-3,,4:35 AM
+155,5,2,165,0029700715,O'Neal BLOCK (1 BLK),,8:01,2,5,0,4,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Schrempf  Layup,4:36 AM
+156,0,4,166,0029700715,Jones REBOUND (Off:0 Def:4),,7:59,2,4,0,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:36 AM
+157,1,6,167,0029700715,,,7:57,2,5,0,0,766,David Wingate,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Wingate P.FOUL (P2.T4),4:36 AM
+158,0,8,168,0029700715,,,7:57,2,5,5,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,21,Greg Anthony,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Anthony FOR Payton,4:36 AM
+159,0,8,169,0029700715,,,7:57,2,5,5,0,766,David Wingate,SEA,Seattle,1610612760.0,SuperSonics,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Baker FOR Wingate,4:36 AM
+160,0,8,170,0029700715,SUB: Fox FOR Jones,,7:57,2,4,4,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:36 AM
+161,0,8,171,0029700715,SUB: Van Exel FOR Fisher,,7:57,2,4,4,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:36 AM
+162,0,8,172,0029700715,SUB: Campbell FOR O'Neal,,7:57,2,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:36 AM
+163,1,2,173,0029700715,MISS Bryant 26' 3PT Jump Shot,,7:43,2,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:36 AM
+164,0,4,174,0029700715,,,7:39,2,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:1 Def:3),4:36 AM
+165,2,6,175,0029700715,Campbell S.FOUL (P2.T1),,7:18,2,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:37 AM
+166,11,3,176,0029700715,,,7:18,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker Free Throw 1 of 2,4:37 AM
+167,0,4,177,0029700715,,,7:18,2,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,4:37 AM
+168,12,3,178,0029700715,,,7:18,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,31 - 27,-4,Baker Free Throw 2 of 2 (9 PTS),4:38 AM
+169,6,7,179,0029700715,,,7:10,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker Violation:Double Lane,4:38 AM
+170,0,8,181,0029700715,SUB: O'Neal FOR Campbell,,7:00,2,4,4,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:39 AM
+171,1,2,182,0029700715,MISS Fox 25' 3PT Jump Shot,,6:50,2,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:39 AM
+172,0,4,183,0029700715,,,6:48,2,5,0,0,21,Greg Anthony,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:0 Def:1),4:39 AM
+173,4,5,184,0029700715,,,6:46,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker Traveling Turnover (P1.T4),4:39 AM
+174,1,9,185,0029700715,LAKERS Timeout: Regular (Full 2 Short 1),,6:46,2,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:39 AM
+175,7,1,189,0029700715,Horry  Dunk (7 PTS) (O'Neal 2 AST),,6:35,2,4,4,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,31 - 29,-2,,4:42 AM
+176,1,1,190,0029700715,,,6:10,2,5,5,0,21,Greg Anthony,SEA,Seattle,1610612760.0,SuperSonics,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,34 - 29,-5,Anthony 25' 3PT Jump Shot (3 PTS) (Baker 2 AST),4:42 AM
+177,7,1,191,0029700715,O'Neal  Dunk (8 PTS) (Fox 1 AST),,5:52,2,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,34 - 31,-3,,4:43 AM
+178,5,1,192,0029700715,,,5:35,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,36 - 31,-5,Baker  Layup (11 PTS),4:43 AM
+179,2,6,193,0029700715,,,5:24,2,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Schrempf S.FOUL (P1.PN),4:43 AM
+180,0,8,194,0029700715,,,5:24,2,5,5,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Hawkins FOR Perkins,4:43 AM
+181,0,8,195,0029700715,SUB: Campbell FOR Horry,,5:24,2,4,4,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:43 AM
+182,11,3,196,0029700715,O'Neal Free Throw 1 of 2 (9 PTS),,5:24,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,36 - 32,-4,,4:43 AM
+183,12,3,197,0029700715,MISS O'Neal Free Throw 2 of 2,,5:24,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:44 AM
+184,0,4,198,0029700715,,,5:24,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker REBOUND (Off:0 Def:3),4:44 AM
+185,1,2,199,0029700715,,,5:13,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker 11' Jump Shot,4:44 AM
+186,0,4,200,0029700715,Fox REBOUND (Off:0 Def:4),,5:10,2,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:44 AM
+187,1,2,201,0029700715,MISS Van Exel 25' 3PT Jump Shot,,4:58,2,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:44 AM
+188,0,4,202,0029700715,,,4:55,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker REBOUND (Off:0 Def:4),4:44 AM
+189,5,1,203,0029700715,,,4:51,2,5,5,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,38 - 32,-6,Ellis  Layup (7 PTS) (Baker 3 AST),4:44 AM
+190,1,5,205,0029700715,Van Exel Bad Pass Turnover (P2.T9),,4:32,2,4,5,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Baker STEAL (2 STL),4:45 AM
+191,6,1,206,0029700715,,,4:29,2,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,21,Greg Anthony,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,40 - 32,-8,Baker  Driving Layup (13 PTS) (Anthony 1 AST),4:45 AM
+192,1,6,207,0029700715,,,4:12,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker P.FOUL (P1.PN),4:45 AM
+193,0,8,208,0029700715,SUB: Blount FOR Campbell,,4:12,2,4,4,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:45 AM
+194,0,8,209,0029700715,,,4:12,2,5,5,0,21,Greg Anthony,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Payton FOR Anthony,4:45 AM
+195,11,3,210,0029700715,O'Neal Free Throw 1 of 2 (10 PTS),,4:12,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,40 - 33,-7,,4:45 AM
+196,12,3,211,0029700715,O'Neal Free Throw 2 of 2 (11 PTS),,4:12,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,40 - 34,-6,,4:45 AM
+197,1,2,212,0029700715,,,3:53,2,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Schrempf 26' 3PT Jump Shot,4:46 AM
+198,0,4,213,0029700715,O'Neal REBOUND (Off:1 Def:3),,3:51,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:46 AM
+199,3,2,214,0029700715,MISS O'Neal 6' Hook Shot,,3:40,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:46 AM
+200,0,4,215,0029700715,,,3:38,2,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker REBOUND (Off:0 Def:5),4:46 AM
+201,1,6,216,0029700715,Blount P.FOUL (P2.T2),,3:22,2,4,0,0,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:47 AM
+202,0,8,217,0029700715,,,3:22,2,5,5,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: McIlvaine FOR Schrempf,4:47 AM
+203,1,6,218,0029700715,Van Exel P.FOUL (P2.T3),,3:16,2,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:47 AM
+204,0,8,220,0029700715,,,3:16,2,5,5,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Schrempf FOR Ellis,4:47 AM
+205,2,6,221,0029700715,Fox S.FOUL (P3.T4),,3:09,2,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:47 AM
+206,11,3,222,0029700715,,,3:09,2,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,41 - 34,-7,Schrempf Free Throw 1 of 2 (2 PTS),4:48 AM
+207,0,8,223,0029700715,SUB: Horry FOR Fox,,3:09,2,4,4,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:48 AM
+208,12,3,224,0029700715,,,3:09,2,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Schrempf Free Throw 2 of 2,4:48 AM
+209,0,4,225,0029700715,Blount REBOUND (Off:0 Def:1),,3:07,2,4,0,0,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:48 AM
+210,6,2,226,0029700715,MISS Bryant  Driving Layup,,2:49,2,4,0,5,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,,,Hawkins BLOCK (1 BLK),4:48 AM
+211,0,4,227,0029700715,Horry REBOUND (Off:5 Def:1),,2:46,2,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:49 AM
+212,11,5,228,0029700715,LAKERS Turnover: Shot Clock (T#10),,2:45,2,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:49 AM
+213,1,9,229,0029700715,,,2:45,2,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Timeout: Regular (Reg.2 Short 1),4:49 AM
+214,1,5,233,0029700715,Van Exel STEAL (2 STL),,2:30,2,5,4,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Schrempf Bad Pass Turnover (P1.T5),4:51 AM
+215,5,1,234,0029700715,Blount  Layup (2 PTS) (Van Exel 3 AST),,2:27,2,4,4,0,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,41 - 36,-5,,4:51 AM
+216,1,9,235,0029700715,,,2:10,2,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Timeout: Regular (Reg.3 Short 1),4:52 AM
+217,4,6,262,0029700715,,,2:10,2,5,0,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Hawkins OFF.Foul (P1),4:52 AM
+218,5,5,242,0029700715,,,2:03,2,5,0,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Hawkins Foul Turnover (P1.T6),4:52 AM
+219,5,2,248,0029700715,MISS O'Neal  Layup,,1:37,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:52 AM
+220,0,4,249,0029700715,Horry REBOUND (Off:6 Def:1),,1:37,2,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:52 AM
+221,5,2,250,0029700715,MISS Horry  Layup,,1:37,2,4,0,5,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,,,McIlvaine BLOCK (2 BLK),4:52 AM
+222,0,4,251,0029700715,O'Neal REBOUND (Off:2 Def:3),,1:37,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:52 AM
+223,1,1,252,0029700715,O'Neal 3' Jump Shot (13 PTS),,1:37,2,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,41 - 38,-3,,4:52 AM
+224,2,6,253,0029700715,Van Exel S.FOUL (P3.PN),,1:26,2,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:52 AM
+225,11,3,254,0029700715,,,1:26,2,5,0,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,42 - 38,-4,Hawkins Free Throw 1 of 2 (3 PTS),4:52 AM
+226,0,8,255,0029700715,SUB: Fisher FOR Van Exel,,1:26,2,4,4,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:52 AM
+227,0,8,256,0029700715,SUB: Campbell FOR O'Neal,,1:26,2,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,4:52 AM
+228,12,3,257,0029700715,,,1:26,2,5,0,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Hawkins Free Throw 2 of 2,4:52 AM
+229,0,4,258,0029700715,Campbell REBOUND (Off:0 Def:1),,1:26,2,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:52 AM
+230,1,5,259,0029700715,Fisher Bad Pass Turnover (P2.T11),,1:08,2,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:52 AM
+231,3,1,260,0029700715,,,0:51,2,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,44 - 38,-6,Payton  Hook Shot (10 PTS),4:52 AM
+232,1,6,237,0029700715,,,0:29,2,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Schrempf P.FOUL (P2.PN),4:57 AM
+233,11,3,239,0029700715,Horry Free Throw 1 of 2 (8 PTS),,0:29,2,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,44 - 39,-5,,4:58 AM
+234,0,8,240,0029700715,,,0:29,2,5,5,0,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Ellis FOR McIlvaine,4:58 AM
+235,12,3,241,0029700715,Horry Free Throw 2 of 2 (9 PTS),,0:29,2,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,44 - 40,-4,,4:58 AM
+236,1,5,244,0029700715,Horry STEAL (1 STL),,0:04,2,5,4,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Baker Bad Pass Turnover (P2.T7),4:58 AM
+237,1,2,245,0029700715,MISS Fisher 37' 3PT Jump Shot,,0:00,2,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,4:59 AM
+238,0,4,246,0029700715,LAKERS Rebound,,0:00,2,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,4:59 AM
+239,0,13,247,0029700715,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,44 - 40,-4,,4:59 AM
+240,0,12,263,0029700715,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,44 - 40,-4,,5:15 AM
+241,1,5,264,0029700715,O'Neal Bad Pass Turnover (P3.T12),,11:47,3,4,5,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Payton STEAL (3 STL),5:16 AM
+242,3,2,265,0029700715,,,11:32,3,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Schrempf 8' Hook Shot,5:16 AM
+243,0,4,266,0029700715,,,11:28,3,5,0,0,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,McIlvaine REBOUND (Off:1 Def:1),5:16 AM
+244,1,5,267,0029700715,Van Exel STEAL (3 STL),,11:26,3,5,4,0,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,McIlvaine Bad Pass Turnover (P2.T8),5:16 AM
+245,2,1,268,0029700715,Van Exel 8' Running Jump Shot (2 PTS),,11:09,3,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,44 - 42,-2,,5:16 AM
+246,7,2,269,0029700715,,,11:03,3,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Schrempf  Dunk,5:16 AM
+247,0,4,270,0029700715,Jones REBOUND (Off:0 Def:5),,10:59,3,4,0,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:16 AM
+248,1,2,271,0029700715,MISS Van Exel 25' 3PT Jump Shot,,10:56,3,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:17 AM
+249,0,4,272,0029700715,Van Exel REBOUND (Off:1 Def:3),,10:53,3,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:17 AM
+250,1,2,273,0029700715,MISS Fox 10' Jump Shot,,10:48,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:17 AM
+251,0,4,274,0029700715,,,10:46,3,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker REBOUND (Off:0 Def:6),5:17 AM
+252,1,1,275,0029700715,,,10:37,3,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,47 - 42,-5,Payton 24' 3PT Jump Shot (13 PTS),5:17 AM
+253,7,2,276,0029700715,MISS O'Neal  Dunk,,10:22,3,4,0,5,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,,,McIlvaine BLOCK (3 BLK),5:17 AM
+254,0,10,277,0029700715,Jump Ball O'Neal vs. McIlvaine: Tip to Horry,,10:21,3,4,5,4,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,,,,5:18 AM
+255,0,4,278,0029700715,LAKERS Rebound,,10:21,3,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:18 AM
+256,1,6,279,0029700715,,,10:12,3,5,0,0,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,McIlvaine P.FOUL (P3.T1),5:18 AM
+257,1,5,280,0029700715,O'Neal Bad Pass Turnover (P4.T13),,10:00,3,4,5,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Hawkins STEAL (2 STL),5:18 AM
+258,1,2,281,0029700715,,,9:47,3,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Schrempf 14' Jump Shot,5:19 AM
+259,0,4,282,0029700715,Jones REBOUND (Off:0 Def:6),,9:45,3,4,0,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:19 AM
+260,3,1,283,0029700715,O'Neal 5' Hook Shot (15 PTS) (Jones 3 AST),,9:35,3,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,47 - 44,-3,,5:19 AM
+261,2,6,284,0029700715,,,9:35,3,5,0,0,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,McIlvaine S.FOUL (P4.T2),5:19 AM
+262,10,3,285,0029700715,MISS O'Neal Free Throw 1 of 1,,9:35,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:19 AM
+263,0,4,286,0029700715,,,9:34,3,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker REBOUND (Off:0 Def:7),5:19 AM
+264,1,1,287,0029700715,,,9:19,3,5,5,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,50 - 44,-6,Payton 26' 3PT Jump Shot (16 PTS) (Schrempf 2 AST),5:20 AM
+265,8,1,288,0029700715,O'Neal  Slam Dunk (17 PTS) (Van Exel 4 AST),,8:54,3,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,50 - 46,-4,,5:20 AM
+266,2,6,289,0029700715,,,8:54,3,5,0,0,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,McIlvaine S.FOUL (P5.T3),5:20 AM
+267,0,8,291,0029700715,,,8:54,3,5,5,0,29,Jim McIlvaine,SEA,Seattle,1610612760.0,SuperSonics,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Perkins FOR McIlvaine,5:20 AM
+268,10,3,292,0029700715,O'Neal Free Throw 1 of 1 (18 PTS),,8:54,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,50 - 47,-3,,5:20 AM
+269,1,2,294,0029700715,,,8:44,3,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Perkins 25' 3PT Jump Shot,5:21 AM
+270,0,4,295,0029700715,Fox REBOUND (Off:0 Def:5),,8:41,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:21 AM
+271,6,1,296,0029700715,O'Neal  Driving Layup (20 PTS) (Fox 2 AST),,8:38,3,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,50 - 49,-1,,5:21 AM
+272,5,1,297,0029700715,,,8:17,3,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,52 - 49,-3,Baker  Layup (15 PTS) (Hawkins 1 AST),5:21 AM
+273,2,6,298,0029700715,Horry S.FOUL (P1.T1),,8:17,3,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:21 AM
+274,10,3,299,0029700715,,,8:17,3,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,53 - 49,-4,Baker Free Throw 1 of 1 (16 PTS),5:21 AM
+275,4,5,300,0029700715,Fox Traveling Turnover (P3.T14),,8:01,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:22 AM
+276,1,2,301,0029700715,O'Neal BLOCK (2 BLK),,7:51,3,5,0,4,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Baker 10' Jump Shot,5:22 AM
+277,0,4,302,0029700715,Horry REBOUND (Off:6 Def:2),,7:48,3,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:22 AM
+278,1,2,303,0029700715,MISS Horry 24' 3PT Jump Shot,,7:42,3,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:22 AM
+279,0,4,304,0029700715,Fox REBOUND (Off:1 Def:5),,7:40,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:22 AM
+280,1,1,305,0029700715,O'Neal 9' Jump Shot (22 PTS) (Jones 4 AST),,7:35,3,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,53 - 51,-2,,5:23 AM
+281,11,6,306,0029700715,LAKERS Foul,,7:14,3,2,0,1,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:23 AM
+282,16,3,307,0029700715,,,7:14,3,5,0,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,54 - 51,-3,Hawkins Free Throw Technical (4 PTS),5:23 AM
+283,1,1,308,0029700715,,,7:11,3,5,5,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,56 - 51,-5,Schrempf 13' Jump Shot (4 PTS) (Payton 6 AST),5:24 AM
+284,1,1,309,0029700715,O'Neal 6' Jump Shot (24 PTS) (Jones 5 AST),,6:53,3,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,56 - 53,-3,,5:24 AM
+285,1,2,310,0029700715,,,6:29,3,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Schrempf 25' 3PT Jump Shot,5:24 AM
+286,0,4,311,0029700715,Fox REBOUND (Off:1 Def:6),,6:27,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:24 AM
+287,1,2,312,0029700715,MISS Jones 21' Jump Shot,,6:13,3,4,0,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:24 AM
+288,0,4,313,0029700715,,,6:11,3,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton REBOUND (Off:0 Def:1),5:25 AM
+289,1,2,314,0029700715,,,6:06,3,5,0,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Hawkins 27' 3PT Jump Shot,5:25 AM
+290,0,4,315,0029700715,,,6:03,3,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker REBOUND (Off:1 Def:7),5:25 AM
+291,5,1,316,0029700715,,,6:01,3,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,58 - 53,-5,Baker  Layup (18 PTS),5:25 AM
+292,1,9,317,0029700715,LAKERS Timeout: Regular (Full 3 Short 1),,5:54,3,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:25 AM
+293,0,8,319,0029700715,SUB: Bryant FOR Jones,,5:54,3,4,4,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:27 AM
+294,6,2,321,0029700715,MISS Bryant  Driving Layup,,5:40,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:28 AM
+295,0,4,323,0029700715,O'Neal REBOUND (Off:3 Def:3),,5:38,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:28 AM
+296,8,1,322,0029700715,O'Neal  Slam Dunk (26 PTS),,5:38,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,58 - 55,-3,,5:28 AM
+297,1,1,324,0029700715,,,5:15,3,5,5,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,61 - 55,-6,Payton 25' 3PT Jump Shot (19 PTS) (Perkins 1 AST),5:28 AM
+298,1,2,325,0029700715,MISS Van Exel 26' 3PT Jump Shot,,5:00,3,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:28 AM
+299,0,4,326,0029700715,O'Neal REBOUND (Off:4 Def:3),,4:58,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:28 AM
+300,8,1,327,0029700715,O'Neal  Slam Dunk (28 PTS),,4:58,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,61 - 57,-4,,5:28 AM
+301,2,6,328,0029700715,,,4:58,3,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Schrempf S.FOUL (P3.T4),5:28 AM
+302,10,3,329,0029700715,MISS O'Neal Free Throw 1 of 1,,4:58,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:29 AM
+303,0,4,330,0029700715,,,4:57,3,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton REBOUND (Off:0 Def:2),5:29 AM
+304,6,7,331,0029700715,Fox Violation:Double Lane,,4:48,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:29 AM
+305,0,8,332,0029700715,SUB: Fisher FOR Van Exel,,4:48,3,4,4,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:29 AM
+306,1,1,334,0029700715,,,4:39,3,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,63 - 57,-6,Baker 18' Jump Shot (20 PTS) (Schrempf 3 AST),5:29 AM
+307,1,6,335,0029700715,,,4:20,3,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Schrempf P.FOUL (P4.PN),5:30 AM
+308,11,3,336,0029700715,Fox Free Throw 1 of 2 (5 PTS),,4:20,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,63 - 58,-5,,5:30 AM
+309,0,8,337,0029700715,,,4:20,3,5,5,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Ellis FOR Schrempf,5:30 AM
+310,12,3,338,0029700715,MISS Fox Free Throw 2 of 2,,4:20,3,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:30 AM
+311,0,4,339,0029700715,,,4:18,3,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton REBOUND (Off:0 Def:3),5:30 AM
+312,1,5,340,0029700715,O'Neal STEAL (2 STL),,4:01,3,5,4,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Baker Bad Pass Turnover (P3.T9),5:31 AM
+313,1,5,341,0029700715,Bryant Bad Pass Turnover (P1.T15),,3:53,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:31 AM
+314,5,1,342,0029700715,,,3:39,3,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,65 - 58,-7,Payton  Layup (21 PTS),5:31 AM
+315,1,5,343,0029700715,O'Neal Bad Pass Turnover (P5.T16),,3:21,3,4,5,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Hawkins STEAL (3 STL),5:31 AM
+316,1,6,344,0029700715,O'Neal P.FOUL (P3.T2),,3:20,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:32 AM
+317,6,2,345,0029700715,,,3:08,3,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Payton  Driving Layup,5:32 AM
+318,0,4,346,0029700715,Fisher REBOUND (Off:0 Def:2),,3:06,3,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:32 AM
+319,7,1,347,0029700715,Horry  Dunk (11 PTS) (Bryant 2 AST),,3:00,3,4,4,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,65 - 60,-5,,5:32 AM
+320,1,1,348,0029700715,,,2:34,3,5,5,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,68 - 60,-8,Payton  3PT Jump Shot (24 PTS) (Hawkins 2 AST),5:33 AM
+321,1,1,349,0029700715,Fox 25' 3PT Jump Shot (8 PTS) (Bryant 3 AST),,2:15,3,4,4,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,68 - 63,-5,,5:33 AM
+322,1,2,350,0029700715,,,1:56,3,5,0,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Ellis 18' Jump Shot,5:33 AM
+323,0,4,351,0029700715,O'Neal REBOUND (Off:4 Def:4),,1:53,3,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:33 AM
+324,1,1,352,0029700715,Fox  3PT Jump Shot (11 PTS) (Fisher 1 AST),,1:46,3,4,4,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,68 - 66,-2,,5:33 AM
+325,1,9,353,0029700715,,,1:42,3,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Timeout: Regular (Reg.4 Short 1),5:33 AM
+326,0,8,356,0029700715,SUB: Campbell FOR O'Neal,,1:42,3,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:36 AM
+327,1,1,357,0029700715,,,1:19,3,5,5,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,71 - 66,-5,Hawkins 26' 3PT Jump Shot (7 PTS) (Ellis 2 AST),5:36 AM
+328,1,2,358,0029700715,MISS Bryant 17' Jump Shot,,1:06,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:37 AM
+329,0,4,360,0029700715,Campbell REBOUND (Off:1 Def:1),,1:04,3,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:37 AM
+330,5,1,359,0029700715,Campbell  Layup (6 PTS),,1:04,3,4,0,0,922,Elden Campbell,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,71 - 68,-3,,5:37 AM
+331,1,2,361,0029700715,,,0:41,3,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Payton  3PT Jump Shot,5:37 AM
+332,0,4,362,0029700715,Horry REBOUND (Off:6 Def:3),,0:39,3,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:37 AM
+333,1,2,363,0029700715,MISS Bryant 17' Jump Shot,,0:19,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:37 AM
+334,0,4,364,0029700715,,,0:16,3,5,0,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Hawkins REBOUND (Off:0 Def:2),5:37 AM
+335,1,1,365,0029700715,,,0:05,3,5,5,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,74 - 68,-6,Perkins 25' 3PT Jump Shot (7 PTS) (Payton 7 AST),5:38 AM
+336,2,6,366,0029700715,,,0:00,3,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton S.FOUL (P2.PN),5:38 AM
+337,13,3,367,0029700715,Bryant Free Throw 1 of 3 (7 PTS),,0:00,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,74 - 69,-5,,5:38 AM
+338,14,3,368,0029700715,Bryant Free Throw 2 of 3 (8 PTS),,0:00,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,74 - 70,-4,,5:38 AM
+339,15,3,369,0029700715,Bryant Free Throw 3 of 3 (9 PTS),,0:00,3,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,74 - 71,-3,,5:39 AM
+340,1,1,370,0029700715,,,0:00,3,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,77 - 71,-6,Baker 55' 3PT Jump Shot (23 PTS) (Perkins 2 AST),5:39 AM
+341,0,13,371,0029700715,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,77 - 71,-6,,5:39 AM
+342,0,12,373,0029700715,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,77 - 71,-6,,5:42 AM
+343,2,6,374,0029700715,O'Neal S.FOUL (P4.T1),,11:37,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:43 AM
+344,11,3,375,0029700715,,,11:37,4,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,78 - 71,-7,Baker Free Throw 1 of 2 (24 PTS),5:43 AM
+345,12,3,376,0029700715,,,11:37,4,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,79 - 71,-8,Baker Free Throw 2 of 2 (25 PTS),5:43 AM
+346,1,5,377,0029700715,Fox Bad Pass Turnover (P4.T17),,11:26,4,4,5,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Perkins STEAL (1 STL),5:43 AM
+347,1,2,378,0029700715,,,11:12,4,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker 8' Jump Shot,5:44 AM
+348,0,4,379,0029700715,O'Neal REBOUND (Off:4 Def:5),,11:10,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:44 AM
+349,8,1,380,0029700715,O'Neal  Slam Dunk (30 PTS) (Fisher 2 AST),,10:59,4,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,79 - 73,-6,,5:44 AM
+350,1,2,381,0029700715,,,10:35,4,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Perkins 28' 3PT Jump Shot,5:44 AM
+351,0,4,383,0029700715,,,10:33,4,5,0,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Ellis REBOUND (Off:1 Def:1),5:44 AM
+352,5,1,382,0029700715,,,10:33,4,5,0,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,81 - 73,-8,Ellis  Layup (9 PTS),5:44 AM
+353,1,2,384,0029700715,MISS Fox 11' Jump Shot,,10:16,4,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:45 AM
+354,0,4,385,0029700715,O'Neal REBOUND (Off:5 Def:5),,10:15,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:45 AM
+355,1,6,386,0029700715,,,10:15,4,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker P.FOUL (P2.T1),5:45 AM
+356,0,8,387,0029700715,,,10:15,4,5,5,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Schrempf FOR Hawkins,5:45 AM
+357,0,8,388,0029700715,SUB: Jones FOR Fox,,10:15,4,4,4,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:45 AM
+358,0,8,389,0029700715,,,10:15,4,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,21,Greg Anthony,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Anthony FOR Baker,5:45 AM
+359,3,1,390,0029700715,O'Neal 5' Hook Shot (32 PTS) (Jones 6 AST),,9:56,4,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,81 - 75,-6,,5:45 AM
+360,1,2,391,0029700715,,,9:52,4,5,0,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Ellis 25' 3PT Jump Shot,5:45 AM
+361,0,4,392,0029700715,Jones REBOUND (Off:0 Def:7),,9:47,4,4,0,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:45 AM
+362,1,2,393,0029700715,MISS O'Neal 8' Jump Shot,,9:42,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:46 AM
+363,0,4,394,0029700715,,,9:40,4,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:1 Def:4),5:46 AM
+364,1,1,395,0029700715,,,9:32,4,5,5,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,83 - 75,-8,Schrempf 15' Jump Shot (6 PTS) (Ellis 3 AST),5:46 AM
+365,1,2,396,0029700715,MISS Jones  3PT Jump Shot,,9:14,4,4,0,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:46 AM
+366,0,4,397,0029700715,Horry REBOUND (Off:7 Def:3),,9:11,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:46 AM
+367,1,2,398,0029700715,MISS Fisher 25' 3PT Jump Shot,,9:08,4,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:46 AM
+368,0,4,399,0029700715,Horry REBOUND (Off:8 Def:3),,9:03,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:46 AM
+369,8,1,400,0029700715,O'Neal  Slam Dunk (34 PTS) (Jones 7 AST),,9:00,4,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,83 - 77,-6,,5:46 AM
+370,1,2,401,0029700715,,,8:41,4,5,0,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Ellis 18' Jump Shot,5:47 AM
+371,0,4,402,0029700715,Bryant REBOUND (Off:1 Def:2),,8:39,4,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:47 AM
+372,6,2,403,0029700715,MISS Fisher  Driving Layup,,8:34,4,4,0,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:47 AM
+373,0,4,405,0029700715,Horry REBOUND (Off:9 Def:3),,8:32,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:47 AM
+374,8,1,404,0029700715,Horry  Slam Dunk (13 PTS),,8:32,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,83 - 79,-4,,5:47 AM
+375,0,8,406,0029700715,SUB: Blount FOR Horry,,8:10,4,4,4,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:47 AM
+376,1,6,407,0029700715,Bryant P.FOUL (P1.T2),,8:06,4,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:47 AM
+377,11,6,408,0029700715,LAKERS Foul,,8:06,4,2,0,1,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:47 AM
+378,16,3,409,0029700715,,,8:06,4,5,0,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,84 - 79,-5,Ellis Free Throw Technical (10 PTS),5:48 AM
+379,1,2,411,0029700715,,,7:49,4,5,0,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Ellis 10' Jump Shot,5:48 AM
+380,0,4,412,0029700715,,,7:49,4,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,5:48 AM
+381,1,1,413,0029700715,,,7:35,4,5,5,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,21,Greg Anthony,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,87 - 79,-8,Perkins 26' 3PT Jump Shot (10 PTS) (Anthony 2 AST),5:49 AM
+382,1,9,414,0029700715,LAKERS Timeout: Regular (Full 4 Short 1),,7:24,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:49 AM
+383,2,6,418,0029700715,,,7:11,4,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton S.FOUL (P3.T2),5:52 AM
+384,11,3,419,0029700715,Bryant Free Throw 1 of 2 (10 PTS),,7:11,4,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,87 - 80,-7,,5:52 AM
+385,0,8,421,0029700715,SUB: Van Exel FOR Fisher,,7:11,4,4,4,0,965,Derek Fisher,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,5:52 AM
+386,12,3,422,0029700715,Bryant Free Throw 2 of 2 (11 PTS),,7:11,4,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,87 - 81,-6,,5:53 AM
+387,6,1,424,0029700715,,,6:51,4,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,89 - 81,-8,Payton  Driving Layup (26 PTS),5:53 AM
+388,2,7,425,0029700715,,,6:37,4,3,0,1,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Violation: Def. Goaltending Violation,5:53 AM
+389,0,8,426,0029700715,,,6:37,4,5,5,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Baker FOR Perkins,5:54 AM
+390,1,6,428,0029700715,,,6:29,4,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker P.FOUL (P3.T3),5:54 AM
+391,8,1,429,0029700715,Jones  Slam Dunk (2 PTS) (Bryant 4 AST),,6:19,4,4,4,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,89 - 83,-6,,5:54 AM
+392,1,2,430,0029700715,O'Neal BLOCK (3 BLK),,5:52,4,5,0,4,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,,,MISS Baker 6' Jump Shot,5:55 AM
+393,0,4,431,0029700715,,,5:51,4,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker REBOUND (Off:2 Def:7),5:55 AM
+394,11,5,432,0029700715,,,5:51,4,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Turnover: Shot Clock (T#10),5:55 AM
+395,0,8,433,0029700715,,,5:51,4,5,5,0,21,Greg Anthony,SEA,Seattle,1610612760.0,SuperSonics,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Hawkins FOR Anthony,5:55 AM
+396,6,2,434,0029700715,MISS Van Exel  Driving Layup,,5:42,4,4,0,5,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,,,Baker BLOCK (1 BLK),5:55 AM
+397,0,4,435,0029700715,,,5:38,4,5,0,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Hawkins REBOUND (Off:0 Def:3),5:56 AM
+398,1,1,436,0029700715,,,5:36,4,5,5,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,91 - 83,-8,Ellis 13' Jump Shot (12 PTS) (Payton 8 AST),5:56 AM
+399,1,1,437,0029700715,Van Exel 26' 3PT Jump Shot (5 PTS) (Bryant 5 AST),,5:09,4,4,4,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,91 - 86,-5,,5:56 AM
+400,2,1,438,0029700715,,,4:40,4,5,0,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,93 - 86,-7,Ellis 13' Running Jump Shot (14 PTS),5:57 AM
+401,1,2,439,0029700715,MISS Van Exel  3PT Jump Shot,,4:17,4,4,0,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:57 AM
+402,0,4,440,0029700715,,,4:16,4,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,5:57 AM
+403,1,1,441,0029700715,,,4:03,4,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,96 - 86,-10,Payton 26' 3PT Jump Shot (29 PTS),5:57 AM
+404,1,2,442,0029700715,MISS Bryant 27' 3PT Jump Shot,,3:44,4,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:58 AM
+405,0,4,443,0029700715,,,3:41,4,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Schrempf REBOUND (Off:0 Def:3),5:58 AM
+406,1,2,444,0029700715,,,3:34,4,5,0,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Hawkins 10' Jump Shot,5:58 AM
+407,0,4,445,0029700715,Blount REBOUND (Off:0 Def:2),,3:32,4,4,0,0,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:58 AM
+408,1,2,446,0029700715,MISS Jones  3PT Jump Shot,,3:26,4,4,0,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:58 AM
+409,0,4,447,0029700715,Blount REBOUND (Off:1 Def:2),,3:23,4,4,0,0,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,5:58 AM
+410,5,1,448,0029700715,O'Neal  Layup (36 PTS) (Blount 1 AST),,3:21,4,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,96 - 88,-8,,5:58 AM
+411,1,2,449,0029700715,,,2:54,4,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker 8' Jump Shot,5:58 AM
+412,0,4,450,0029700715,LAKERS Rebound,,2:53,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,5:58 AM
+413,1,9,451,0029700715,,,2:53,4,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Timeout: Regular (Reg.5 Short 1),5:59 AM
+414,0,8,452,0029700715,SUB: Horry FOR Jones,,2:53,4,4,4,0,224,Eddie Jones,LAL,Los Angeles,1610612747.0,Lakers,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,6:01 AM
+415,0,8,453,0029700715,SUB: Fox FOR Blount,,2:53,4,4,4,0,916,Corie Blount,LAL,Los Angeles,1610612747.0,Lakers,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,,6:01 AM
+416,1,1,455,0029700715,Fox  3PT Jump Shot (14 PTS) (Bryant 6 AST),,2:33,4,4,4,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,96 - 91,-5,,6:02 AM
+417,1,5,456,0029700715,O'Neal STEAL (3 STL),,2:11,4,5,4,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Baker Bad Pass Turnover (P4.T11),6:02 AM
+418,1,6,457,0029700715,,,1:53,4,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton P.FOUL (P4.T4),6:02 AM
+419,1,2,458,0029700715,MISS Horry 26' 3PT Jump Shot,,1:35,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:03 AM
+420,0,4,459,0029700715,,,1:33,4,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker REBOUND (Off:2 Def:8),6:03 AM
+421,1,2,460,0029700715,,,1:14,4,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Payton 25' 3PT Jump Shot,6:03 AM
+422,0,4,461,0029700715,Fox REBOUND (Off:1 Def:7),,1:11,4,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:03 AM
+423,8,1,462,0029700715,O'Neal  Slam Dunk (38 PTS),,1:02,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,96 - 93,-3,,6:03 AM
+424,2,6,463,0029700715,,,1:02,4,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker S.FOUL (P4.PN),6:03 AM
+425,10,3,464,0029700715,MISS O'Neal Free Throw 1 of 1,,1:02,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:04 AM
+426,0,4,465,0029700715,LAKERS Rebound,,1:00,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,6:04 AM
+427,2,9,466,0029700715,LAKERS Timeout: Short (Full 4 Short 2),,1:00,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,6:04 AM
+428,5,2,469,0029700715,MISS Horry  Layup,,0:48,4,4,0,5,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,,,Baker BLOCK (2 BLK),6:05 AM
+429,0,4,470,0029700715,Horry REBOUND (Off:10 Def:3),,0:47,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:06 AM
+430,3,6,471,0029700715,,,0:47,4,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Schrempf L.B.FOUL (P5.PN),6:06 AM
+431,11,3,472,0029700715,Horry Free Throw 1 of 2 (14 PTS),,0:47,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,96 - 94,-2,,6:06 AM
+432,12,3,473,0029700715,Horry Free Throw 2 of 2 (15 PTS),,0:47,4,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,96 - 95,-1,,6:06 AM
+433,2,6,474,0029700715,O'Neal S.FOUL (P5.T3),,0:31,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:07 AM
+434,11,3,475,0029700715,,,0:31,4,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,97 - 95,-2,Baker Free Throw 1 of 2 (26 PTS),6:07 AM
+435,0,8,476,0029700715,,,0:31,4,5,5,0,107,Dale Ellis,SEA,Seattle,1610612760.0,SuperSonics,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Perkins FOR Ellis,6:07 AM
+436,12,3,477,0029700715,,,0:31,4,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker Free Throw 2 of 2,6:07 AM
+437,0,4,478,0029700715,O'Neal REBOUND (Off:5 Def:6),,0:30,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:08 AM
+438,1,9,479,0029700715,LAKERS Timeout: Regular (Full 5 Short 2),,0:30,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,6:08 AM
+439,1,2,483,0029700715,MISS O'Neal 9' Jump Shot,,0:22,4,4,0,5,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,,,Perkins BLOCK (2 BLK),6:11 AM
+440,0,4,484,0029700715,LAKERS Rebound,,0:22,4,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,6:11 AM
+441,1,1,485,0029700715,O'Neal 11' Jump Shot (40 PTS) (Fox 3 AST),,0:17,4,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,97 - 97,TIE,,6:11 AM
+442,2,6,486,0029700715,,,0:17,4,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Perkins S.FOUL (P3.PN),6:11 AM
+443,10,3,487,0029700715,MISS O'Neal Free Throw 1 of 1,,0:17,4,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:11 AM
+444,0,4,488,0029700715,,,0:16,4,5,0,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Hawkins REBOUND (Off:0 Def:4),6:11 AM
+445,1,9,490,0029700715,,,0:15,4,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Timeout: Regular (Reg.6 Short 1),6:14 AM
+446,2,9,491,0029700715,,,0:15,4,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Timeout: Short (Reg.6 Short 2),6:14 AM
+447,1,7,492,0029700715,LAKERS Violation: Delay of game Violation,,0:15,4,2,0,1,1610612747,,,,,,0,,,,,,0,,,,,,,,,6:15 AM
+448,1,2,493,0029700715,,,0:00,4,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker 20' Jump Shot,6:15 AM
+449,0,4,494,0029700715,,,0:00,4,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,6:15 AM
+450,0,13,495,0029700715,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,97 - 97,TIE,,6:15 AM
+451,0,12,497,0029700715,,,5:00,5,0,0,0,0,,,,,,0,,,,,,0,,,,,,97 - 97,TIE,,6:18 AM
+452,0,10,498,0029700715,Jump Ball O'Neal vs. Baker: Tip to Perkins,,5:00,5,4,5,5,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,,,,6:18 AM
+453,1,1,499,0029700715,,,4:46,5,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,99 - 97,-2,Baker 6' Jump Shot (28 PTS),6:18 AM
+454,1,2,500,0029700715,MISS O'Neal 11' Jump Shot,,4:31,5,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:18 AM
+455,0,4,501,0029700715,,,4:30,5,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Payton REBOUND (Off:0 Def:4),6:18 AM
+456,1,6,502,0029700715,Horry P.FOUL (P2.T1),,4:30,5,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:18 AM
+457,1,5,503,0029700715,Fox STEAL (1 STL),,4:13,5,5,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,,,Payton Bad Pass Turnover (P1.T12),6:19 AM
+458,1,1,504,0029700715,Van Exel 25' 3PT Jump Shot (8 PTS) (Fox 4 AST),,4:02,5,4,4,0,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,99 - 100,1,,6:19 AM
+459,2,6,505,0029700715,Horry S.FOUL (P3.T2),,3:41,5,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:19 AM
+460,11,3,506,0029700715,,,3:41,5,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker Free Throw 1 of 2,6:20 AM
+461,0,4,507,0029700715,,,3:41,5,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,6:20 AM
+462,12,3,508,0029700715,,,3:41,5,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,100 - 100,TIE,Baker Free Throw 2 of 2 (29 PTS),6:20 AM
+463,1,1,509,0029700715,O'Neal 8' Jump Shot (42 PTS) (Van Exel 5 AST),,3:22,5,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,89,Nick Van Exel,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,100 - 102,2,,6:20 AM
+464,1,1,510,0029700715,,,2:57,5,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,103 - 102,-1,Perkins 24' 3PT Jump Shot (13 PTS),6:21 AM
+465,1,6,511,0029700715,,,2:46,5,5,0,0,64,Sam Perkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Perkins P.FOUL (P4.T1),6:21 AM
+466,1,2,512,0029700715,MISS Bryant 12' Jump Shot,,2:32,5,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:21 AM
+467,0,4,513,0029700715,,,2:29,5,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Schrempf REBOUND (Off:0 Def:4),6:21 AM
+468,1,1,514,0029700715,,,2:14,5,5,5,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,105 - 102,-3,Schrempf 12' Jump Shot (8 PTS) (Payton 9 AST),6:22 AM
+469,1,9,515,0029700715,LAKERS Timeout: Regular (Full 6 Short 2),,2:05,5,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,6:22 AM
+470,1,6,520,0029700715,,,2:02,5,5,0,0,765,Hersey Hawkins,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Hawkins P.FOUL (P2.T2),6:24 AM
+471,1,1,521,0029700715,O'Neal 5' Jump Shot (44 PTS) (Fox 5 AST),,1:48,5,4,4,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,105 - 104,-1,,6:25 AM
+472,1,1,522,0029700715,,,1:28,5,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,107 - 104,-3,Baker 6' Jump Shot (31 PTS),6:25 AM
+473,2,6,523,0029700715,Fox S.FOUL (P4.T3),,1:28,5,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:25 AM
+474,10,3,524,0029700715,,,1:28,5,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Baker Free Throw 1 of 1,6:26 AM
+475,0,4,525,0029700715,O'Neal REBOUND (Off:5 Def:7),,1:26,5,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:26 AM
+476,1,2,526,0029700715,MISS O'Neal 6' Jump Shot,,1:08,5,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:26 AM
+477,0,4,527,0029700715,Fox REBOUND (Off:2 Def:7),,1:06,5,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:26 AM
+478,5,2,528,0029700715,MISS O'Neal 4' Layup,,1:04,5,4,0,0,406,Shaquille O'Neal,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:26 AM
+479,0,4,529,0029700715,,,1:02,5,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Schrempf REBOUND (Off:0 Def:5),6:26 AM
+480,1,1,530,0029700715,,,0:48,5,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,109 - 104,-5,Baker 14' Jump Shot (33 PTS) (Schrempf 4 AST),6:26 AM
+481,1,9,531,0029700715,LAKERS Timeout: Regular (Full 7 Short 2),,0:47,5,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,6:27 AM
+482,2,6,534,0029700715,,,0:41,5,5,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Baker S.FOUL (P5.T3),6:29 AM
+483,11,3,535,0029700715,Bryant Free Throw 1 of 2 (12 PTS),,0:41,5,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,109 - 105,-4,,6:29 AM
+484,12,3,536,0029700715,Bryant Free Throw 2 of 2 (13 PTS),,0:41,5,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,109 - 106,-3,,6:29 AM
+485,1,6,537,0029700715,Horry P.FOUL (P4.PN),,0:23,5,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:30 AM
+486,11,3,538,0029700715,,,0:23,5,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Payton Free Throw 1 of 2,6:30 AM
+487,0,4,539,0029700715,,,0:23,5,3,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,SuperSonics Rebound,6:30 AM
+488,12,3,540,0029700715,,,0:23,5,5,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,110 - 106,-4,Payton Free Throw 2 of 2 (30 PTS),6:30 AM
+489,1,9,541,0029700715,LAKERS Timeout: Regular (Full 8 Short 2),,0:23,5,2,0,0,1610612747,,,,,,0,,,,,,0,,,,,,,,,6:31 AM
+490,2,1,545,0029700715,Bryant 7' Running Jump Shot (15 PTS) (Fox 6 AST),,0:16,5,4,4,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,110 - 108,-2,,6:33 AM
+491,1,6,546,0029700715,Horry P.FOUL (P5.PN),,0:15,5,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:33 AM
+492,11,3,547,0029700715,,,0:15,5,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,111 - 108,-3,Schrempf Free Throw 1 of 2 (9 PTS),6:34 AM
+493,0,8,548,0029700715,,,0:15,5,5,5,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,766,David Wingate,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,SUB: Wingate FOR Baker,6:34 AM
+494,12,3,549,0029700715,,,0:15,5,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,MISS Schrempf Free Throw 2 of 2,6:34 AM
+495,0,4,550,0029700715,Horry REBOUND (Off:10 Def:4),,0:14,5,4,0,0,109,Robert Horry,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:34 AM
+496,1,2,551,0029700715,MISS Bryant 27' 3PT Jump Shot,,0:06,5,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:34 AM
+497,0,4,552,0029700715,,,0:05,5,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Schrempf REBOUND (Off:0 Def:6),6:34 AM
+498,1,6,553,0029700715,Fox P.FOUL (P5.PN),,0:05,5,4,0,0,296,Rick Fox,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:35 AM
+499,11,3,554,0029700715,,,0:05,5,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,112 - 108,-4,Schrempf Free Throw 1 of 2 (10 PTS),6:35 AM
+500,12,3,555,0029700715,,,0:05,5,5,0,0,96,Detlef Schrempf,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,113 - 108,-5,Schrempf Free Throw 2 of 2 (11 PTS),6:35 AM
+501,1,2,556,0029700715,MISS Bryant 33' 3PT Jump Shot,,0:01,5,4,0,0,977,Kobe Bryant,LAL,Los Angeles,1610612747.0,Lakers,0,,,,,,0,,,,,,,,,6:35 AM
+502,0,4,557,0029700715,,,0:00,5,5,0,0,766,David Wingate,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,Wingate REBOUND (Off:0 Def:1),6:35 AM
+503,0,13,558,0029700715,,,0:00,5,0,0,0,0,,,,,,0,,,,,,0,,,,,,113 - 108,-5,,6:35 AM

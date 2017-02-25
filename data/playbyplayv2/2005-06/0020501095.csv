@@ -1,0 +1,499 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,1,0020501095,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:16 PM
+1,0,10,2,0020501095,Jump Ball Sow vs. Perkins: Tip to Villanueva,,12:00,1,4,5,4,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,,,,7:16 PM
+2,42,2,3,0020501095,MISS James 4' Driving Layup,,11:44,1,4,0,5,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,,,Perkins BLOCK (1 BLK),7:17 PM
+3,0,4,4,0020501095,RAPTORS Rebound,,11:44,1,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,7:17 PM
+4,1,2,5,0020501095,MISS Williams  3PT Jump Shot,,11:37,1,4,0,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:17 PM
+5,0,4,6,0020501095,,,11:36,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,7:17 PM
+6,3,6,7,0020501095,Sow L.B.FOUL (P1.T1),,11:36,1,4,5,1,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,7:17 PM
+7,1,2,8,0020501095,,,11:19,1,5,0,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Szczerbiak  3PT Jump Shot,7:18 PM
+8,0,4,9,0020501095,Peterson REBOUND (Off:0 Def:1),,11:17,1,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:18 PM
+9,1,1,10,0020501095,Villanueva 19' Jump Shot (2 PTS) (Peterson 1 AST),,11:11,1,4,4,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0 - 2,2,,7:18 PM
+10,46,2,11,0020501095,,,10:57,1,5,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS West 8' Running Jump Shot,7:18 PM
+11,0,4,12,0020501095,,,10:55,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:1 Def:0),7:18 PM
+12,2,6,13,0020501095,Williams S.FOUL (P1.T2),,10:55,1,4,5,1,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,7:18 PM
+13,11,3,14,0020501095,,,10:55,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce Free Throw 1 of 2,7:18 PM
+14,1,4,15,0020501095,,,10:55,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,7:18 PM
+15,12,3,16,0020501095,,,10:55,1,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,1 - 2,1,Pierce Free Throw 2 of 2 (1 PTS),7:19 PM
+16,1,1,17,0020501095,Peterson 17' Jump Shot (2 PTS) (Williams 1 AST),,10:44,1,4,4,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,1 - 4,3,,7:19 PM
+17,2,6,19,0020501095,Williams S.FOUL (P2.T3),,10:21,1,4,5,1,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,7:19 PM
+18,11,3,20,0020501095,,,10:21,1,5,0,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,2 - 4,2,Szczerbiak Free Throw 1 of 2 (1 PTS),7:20 PM
+19,12,3,21,0020501095,,,10:21,1,5,0,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,3 - 4,1,Szczerbiak Free Throw 2 of 2 (2 PTS),7:20 PM
+20,1,1,22,0020501095,Peterson 20' Jump Shot (4 PTS) (Williams 2 AST),,10:09,1,4,4,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,3 - 6,3,,7:21 PM
+21,2,6,23,0020501095,,,10:09,1,5,4,1,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Pierce S.FOUL (P1.T1),7:21 PM
+22,10,3,24,0020501095,Peterson Free Throw 1 of 1 (5 PTS),,10:09,1,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,3 - 7,4,,7:21 PM
+23,2,5,25,0020501095,Peterson STEAL (1 STL),,9:55,1,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Pierce Lost Ball Turnover (P1.T1),7:21 PM
+24,44,1,26,0020501095,Villanueva  Reverse Layup (4 PTS) (Williams 3 AST),,9:48,1,4,4,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,3 - 9,6,,7:21 PM
+25,58,1,27,0020501095,,,9:29,1,5,5,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,5 - 9,4,Perkins 7' Turnaround Hook Shot (2 PTS) (West 1 AST),7:22 PM
+26,1,2,28,0020501095,MISS Villanueva  3PT Jump Shot,,9:16,1,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:22 PM
+27,0,4,29,0020501095,,,9:14,1,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:0 Def:1),7:22 PM
+28,0,10,30,0020501095,Jump Ball James vs. Pierce: Tip to Peterson,,9:02,1,4,5,4,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,,,,7:22 PM
+29,2,5,31,0020501095,James STEAL (1 STL),,9:02,1,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Pierce Lost Ball Turnover (P2.T2),7:22 PM
+30,2,6,32,0020501095,,,8:56,1,5,4,1,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Pierce S.FOUL (P2.T2),7:23 PM
+31,1,9,33,0020501095,RAPTORS Timeout: Regular (Full 1 Short 0),,8:56,1,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,7:23 PM
+32,0,8,34,0020501095,,,8:56,1,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Allen FOR Pierce,7:25 PM
+33,11,3,36,0020501095,Peterson Free Throw 1 of 2 (6 PTS),,8:56,1,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,5 - 10,5,,7:26 PM
+34,12,3,37,0020501095,Peterson Free Throw 2 of 2 (7 PTS),,8:56,1,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,5 - 11,6,,7:26 PM
+35,1,2,39,0020501095,,,8:36,1,5,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS West 26' 3PT Jump Shot,7:27 PM
+36,0,4,40,0020501095,,,8:35,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,7:27 PM
+37,11,5,41,0020501095,,,8:35,1,3,0,1,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Turnover: Shot Clock (T#3),7:27 PM
+38,1,2,42,0020501095,MISS James 19' Jump Shot,,8:23,1,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:27 PM
+39,0,4,43,0020501095,Villanueva REBOUND (Off:1 Def:0),,8:22,1,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:27 PM
+40,2,6,44,0020501095,,,8:09,1,5,4,1,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Gomes S.FOUL (P1.T3),7:28 PM
+41,11,3,45,0020501095,Villanueva Free Throw 1 of 2 (5 PTS),,8:09,1,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,5 - 12,7,,7:28 PM
+42,12,3,46,0020501095,Villanueva Free Throw 2 of 2 (6 PTS),,8:09,1,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,5 - 13,8,,7:28 PM
+43,1,6,47,0020501095,Villanueva P.FOUL (P1.T4),,8:00,1,4,5,1,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,7:29 PM
+44,1,1,48,0020501095,,,7:52,1,5,5,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,8 - 13,5,Szczerbiak  3PT Jump Shot (5 PTS) (Gomes 1 AST),7:29 PM
+45,1,1,49,0020501095,Sow 18' Jump Shot (2 PTS) (Peterson 2 AST),,7:37,1,4,4,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,8 - 15,7,,7:29 PM
+46,4,5,50,0020501095,,,7:23,1,5,0,1,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins Traveling Turnover (P1.T4),7:29 PM
+47,47,2,51,0020501095,MISS Villanueva 9' Turnaround Jump Shot,,7:09,1,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:30 PM
+48,0,4,52,0020501095,,,7:07,1,5,0,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Szczerbiak REBOUND (Off:0 Def:1),7:30 PM
+49,1,1,53,0020501095,,,7:01,1,5,0,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,10 - 15,5,Szczerbiak 15' Jump Shot (7 PTS),7:30 PM
+50,47,2,54,0020501095,MISS Peterson 13' Turnaround Jump Shot,,6:41,1,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:30 PM
+51,0,4,55,0020501095,Villanueva REBOUND (Off:2 Def:0),,6:39,1,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:30 PM
+52,47,1,56,0020501095,Villanueva 8' Turnaround Jump Shot (8 PTS),,6:36,1,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,10 - 17,7,,7:30 PM
+53,4,6,57,0020501095,,,6:27,1,5,4,1,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Perkins OFF.Foul (P1),7:31 PM
+54,5,5,58,0020501095,,,6:27,1,5,0,1,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins Foul Turnover (P2.T5),7:31 PM
+55,0,8,59,0020501095,,,6:27,1,5,5,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: LaFrentz FOR Perkins,7:31 PM
+56,2,6,60,0020501095,,,6:17,1,5,4,1,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,LaFrentz S.FOUL (P1.T4),7:31 PM
+57,11,3,61,0020501095,Peterson Free Throw 1 of 2 (8 PTS),,6:17,1,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,10 - 18,8,,7:31 PM
+58,12,3,62,0020501095,Peterson Free Throw 2 of 2 (9 PTS),,6:17,1,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,10 - 19,9,,7:32 PM
+59,1,1,63,0020501095,,,6:04,1,5,0,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,12 - 19,7,Szczerbiak 7' Jump Shot (9 PTS),7:32 PM
+60,46,2,64,0020501095,MISS Villanueva 11' Running Jump Shot,,5:50,1,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:32 PM
+61,0,4,65,0020501095,,,5:48,1,5,0,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,LaFrentz REBOUND (Off:0 Def:1),7:32 PM
+62,1,2,66,0020501095,,,5:42,1,5,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS West 25' 3PT Jump Shot,7:32 PM
+63,0,4,67,0020501095,Peterson REBOUND (Off:0 Def:2),,5:40,1,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:33 PM
+64,47,2,68,0020501095,MISS Sow 9' Turnaround Jump Shot,,5:30,1,4,0,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:33 PM
+65,0,4,69,0020501095,,,5:28,1,5,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,West REBOUND (Off:0 Def:1),7:33 PM
+66,1,5,70,0020501095,Sow STEAL (1 STL),,5:22,1,5,4,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Szczerbiak Bad Pass Turnover (P1.T6),7:33 PM
+67,43,1,71,0020501095,Peterson  Alley Oop Layup (11 PTS) (James 1 AST),,5:16,1,4,4,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,12 - 21,9,,7:33 PM
+68,1,1,72,0020501095,,,4:54,1,5,5,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,14 - 21,7,Gomes 17' Jump Shot (2 PTS) (West 2 AST),7:33 PM
+69,42,2,73,0020501095,MISS Peterson  Driving Layup,,4:35,1,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:34 PM
+70,0,4,74,0020501095,Sow REBOUND (Off:1 Def:0),,4:33,1,4,0,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:34 PM
+71,4,2,75,0020501095,MISS Sow  Tip Shot,,4:31,1,4,0,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:34 PM
+72,0,4,76,0020501095,,,4:30,1,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Allen REBOUND (Off:0 Def:1),7:34 PM
+73,1,1,77,0020501095,,,4:25,1,5,5,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,17 - 21,4,LaFrentz 25' 3PT Jump Shot (3 PTS) (Allen 1 AST),7:34 PM
+74,46,2,78,0020501095,MISS James 5' Running Jump Shot,,4:08,1,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:34 PM
+75,0,4,79,0020501095,,,4:06,1,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Gomes REBOUND (Off:0 Def:1),7:34 PM
+76,44,1,80,0020501095,,,4:01,1,5,5,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,19 - 21,2,Allen  Reverse Layup (2 PTS) (West 3 AST),7:34 PM
+77,1,1,81,0020501095,Williams 21' Jump Shot (2 PTS) (Peterson 3 AST),,3:45,1,4,4,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,19 - 23,4,,7:34 PM
+78,1,1,82,0020501095,,,3:31,1,5,5,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,21 - 23,2,Gomes 17' Jump Shot (4 PTS) (Szczerbiak 1 AST),7:35 PM
+79,1,2,83,0020501095,MISS Williams  3PT Jump Shot,,3:17,1,4,0,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:35 PM
+80,0,4,84,0020501095,,,3:15,1,5,0,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,LaFrentz REBOUND (Off:0 Def:2),7:35 PM
+81,42,1,85,0020501095,,,3:06,1,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,23 - 23,TIE,Allen  Driving Layup (4 PTS),7:35 PM
+82,1,7,86,0020501095,,,3:01,1,3,0,1,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Violation: Delay of game Violation,7:35 PM
+83,55,1,87,0020501095,Sow 5' Hook Shot (4 PTS),,2:45,1,4,0,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,23 - 25,2,,7:36 PM
+84,1,2,88,0020501095,,,2:36,1,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Gomes 13' Jump Shot,7:36 PM
+85,0,4,89,0020501095,Sow REBOUND (Off:1 Def:1),,2:34,1,4,0,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:36 PM
+86,5,1,90,0020501095,Williams  Layup (4 PTS) (James 2 AST),,2:24,1,4,4,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,23 - 27,4,,7:36 PM
+87,1,6,91,0020501095,Villanueva P.FOUL (P2.PN),,2:08,1,4,5,1,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,7:36 PM
+88,4,9,92,0020501095,,,2:08,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Official (Reg.0 Short 0),7:37 PM
+89,0,8,95,0020501095,SUB: Bonner FOR Villanueva,,2:08,1,4,4,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,7:39 PM
+90,0,8,96,0020501095,SUB: Graham FOR Williams,,2:08,1,4,4,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,7:39 PM
+91,0,8,97,0020501095,SUB: Araujo FOR Sow,,2:08,1,4,4,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,2737,Rafael Araujo,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,7:39 PM
+92,11,3,98,0020501095,,,2:08,1,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Gomes Free Throw 1 of 2,7:39 PM
+93,1,4,99,0020501095,,,2:08,1,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,7:39 PM
+94,12,3,100,0020501095,,,2:08,1,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Gomes Free Throw 2 of 2,7:39 PM
+95,0,4,101,0020501095,James REBOUND (Off:0 Def:1),,2:08,1,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:40 PM
+96,0,10,102,0020501095,Jump Ball James vs. West: Tip to Bonner,,2:06,1,4,5,4,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,,,,7:40 PM
+97,65,2,103,0020501095,MISS Araujo 9' Jump Hook Shot,,1:49,1,4,0,0,2737,Rafael Araujo,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:40 PM
+98,0,4,104,0020501095,,,1:48,1,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Gomes REBOUND (Off:0 Def:2),7:40 PM
+99,1,1,105,0020501095,,,1:38,1,5,5,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,26 - 27,1,LaFrentz 25' 3PT Jump Shot (6 PTS) (Szczerbiak 2 AST),7:40 PM
+100,1,2,106,0020501095,MISS James 25' 3PT Jump Shot,,1:22,1,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:41 PM
+101,0,4,107,0020501095,,,1:20,1,5,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,West REBOUND (Off:0 Def:2),7:41 PM
+102,1,2,108,0020501095,,,1:13,1,5,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS West 19' Jump Shot,7:41 PM
+103,0,4,109,0020501095,,,1:12,1,5,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,West REBOUND (Off:1 Def:2),7:41 PM
+104,1,1,110,0020501095,,,1:09,1,5,5,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,29 - 27,-2,LaFrentz 24' 3PT Jump Shot (9 PTS) (West 4 AST),7:41 PM
+105,58,2,111,0020501095,MISS Araujo 6' Turnaround Hook Shot,,0:55,1,4,0,0,2737,Rafael Araujo,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:41 PM
+106,0,4,112,0020501095,,,0:53,1,5,0,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,LaFrentz REBOUND (Off:0 Def:3),7:41 PM
+107,1,5,113,0020501095,Graham STEAL (1 STL),,0:45,1,5,4,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,West Bad Pass Turnover (P1.T7),7:41 PM
+108,1,1,114,0020501095,Graham 15' Jump Shot (2 PTS),,0:36,1,4,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,29 - 29,TIE,,7:41 PM
+109,1,2,115,0020501095,,,0:18,1,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Gomes 13' Jump Shot,7:42 PM
+110,0,4,116,0020501095,,,0:16,1,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Allen REBOUND (Off:1 Def:1),7:42 PM
+111,1,6,117,0020501095,Araujo P.FOUL (P1.PN),,0:15,1,4,5,1,2737,Rafael Araujo,TOR,Toronto,1610612761.0,Raptors,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,7:42 PM
+112,0,8,118,0020501095,,,0:15,1,5,5,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Green FOR West,7:42 PM
+113,0,8,119,0020501095,,,0:15,1,5,5,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Greene FOR Szczerbiak,7:42 PM
+114,11,3,120,0020501095,,,0:15,1,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,30 - 29,-1,Allen Free Throw 1 of 2 (5 PTS),7:42 PM
+115,0,8,122,0020501095,,,0:15,1,5,5,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Scalabrine FOR Gomes,7:43 PM
+116,12,3,123,0020501095,,,0:15,1,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,31 - 29,-2,Allen Free Throw 2 of 2 (6 PTS),7:43 PM
+117,49,1,125,0020501095,Peterson  Driving Dunk (13 PTS),,0:09,1,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,31 - 31,TIE,,7:43 PM
+118,2,5,126,0020501095,Araujo STEAL (1 STL),,0:01,1,5,4,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,2737,Rafael Araujo,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Green Lost Ball Turnover (P1.T8),7:43 PM
+119,0,13,127,0020501095,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,31 - 31,TIE,,7:43 PM
+120,0,12,129,0020501095,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,31 - 31,TIE,,7:46 PM
+121,1,2,130,0020501095,,,11:45,2,5,0,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS LaFrentz 25' 3PT Jump Shot,7:47 PM
+122,0,4,131,0020501095,Bonner REBOUND (Off:0 Def:1),,11:43,2,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:47 PM
+123,46,1,132,0020501095,Peterson 16' Running Jump Shot (15 PTS) (Barrett 1 AST),,11:28,2,4,4,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,0,,,,,,31 - 33,2,,7:47 PM
+124,1,1,133,0020501095,,,11:02,2,5,5,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,0,,,,,,33 - 33,TIE,Green 8' Jump Shot (2 PTS) (Scalabrine 1 AST),7:47 PM
+125,46,2,134,0020501095,MISS Graham 7' Running Jump Shot,,10:45,2,4,0,5,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,,,Green BLOCK (1 BLK),7:48 PM
+126,0,4,135,0020501095,Bonner REBOUND (Off:1 Def:1),,10:43,2,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:48 PM
+127,40,1,136,0020501095,Araujo  Layup (2 PTS) (Barrett 2 AST),,10:38,2,4,4,0,2737,Rafael Araujo,TOR,Toronto,1610612761.0,Raptors,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,0,,,,,,33 - 35,2,,7:48 PM
+128,2,6,137,0020501095,,,10:38,2,5,4,1,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,2737,Rafael Araujo,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Greene S.FOUL (P1.T1),7:48 PM
+129,10,3,138,0020501095,Araujo Free Throw 1 of 1 (3 PTS),,10:38,2,4,0,0,2737,Rafael Araujo,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,33 - 36,3,,7:48 PM
+130,1,2,139,0020501095,,,10:23,2,5,0,0,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Scalabrine 21' Jump Shot,7:48 PM
+131,0,4,140,0020501095,Bonner REBOUND (Off:1 Def:2),,10:21,2,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:48 PM
+132,42,2,141,0020501095,MISS Barrett  Driving Layup,,10:07,2,4,0,5,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,0,,,,,,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,,,Greene BLOCK (1 BLK),7:49 PM
+133,0,4,142,0020501095,,,10:05,2,5,0,0,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Scalabrine REBOUND (Off:0 Def:1),7:49 PM
+134,2,5,143,0020501095,Graham STEAL (2 STL),,10:01,2,5,4,0,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Greene Lost Ball Turnover (P1.T9),7:49 PM
+135,49,1,144,0020501095,Peterson  Driving Dunk (17 PTS) (Barrett 3 AST),,9:56,2,4,4,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,0,,,,,,33 - 38,5,,7:49 PM
+136,0,8,145,0020501095,,,9:42,2,5,5,0,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Pierce FOR Scalabrine,7:49 PM
+137,5,1,146,0020501095,,,9:38,2,5,5,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,0,,,,,,35 - 38,3,LaFrentz  Layup (11 PTS) (Greene 1 AST),7:50 PM
+138,2,6,147,0020501095,Bonner S.FOUL (P1.T1),,9:38,2,4,5,1,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,7:50 PM
+139,10,3,148,0020501095,,,9:38,2,5,0,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS LaFrentz Free Throw 1 of 1,7:50 PM
+140,0,4,149,0020501095,Bonner REBOUND (Off:1 Def:3),,9:38,2,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:50 PM
+141,2,5,150,0020501095,Graham Lost Ball Turnover (P1.T1),,9:21,2,4,5,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Allen STEAL (1 STL),7:51 PM
+142,5,1,151,0020501095,,,9:16,2,5,5,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,37 - 38,1,LaFrentz  Layup (13 PTS) (Allen 2 AST),7:51 PM
+143,42,2,152,0020501095,MISS Barrett  Driving Layup,,8:58,2,4,0,0,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:51 PM
+144,0,4,153,0020501095,,,8:56,2,5,0,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,LaFrentz REBOUND (Off:0 Def:4),7:51 PM
+145,2,6,154,0020501095,Barrett S.FOUL (P1.T2),,8:43,2,4,5,1,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,7:51 PM
+146,4,9,155,0020501095,,,8:43,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:51 PM
+147,0,8,157,0020501095,SUB: Sow FOR Araujo,,8:43,2,4,4,0,2737,Rafael Araujo,TOR,Toronto,1610612761.0,Raptors,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,7:54 PM
+148,11,3,158,0020501095,,,8:43,2,5,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,38 - 38,TIE,Green Free Throw 1 of 2 (3 PTS),7:54 PM
+149,12,3,159,0020501095,,,8:43,2,5,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,39 - 38,-1,Green Free Throw 2 of 2 (4 PTS),7:54 PM
+150,2,5,160,0020501095,Bonner Lost Ball Turnover (P1.T2),,8:28,2,4,5,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Green STEAL (1 STL),7:55 PM
+151,7,1,161,0020501095,,,8:23,2,5,5,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,41 - 38,-3,Allen  Dunk (8 PTS) (Green 1 AST),7:55 PM
+152,18,6,162,0020501095,,,8:20,2,3,0,1,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Foul,7:55 PM
+153,16,3,163,0020501095,Peterson Free Throw Technical (18 PTS),,8:20,2,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,41 - 39,-2,,7:55 PM
+154,1,2,165,0020501095,MISS Peterson 20' Jump Shot,,7:59,2,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:56 PM
+155,0,4,166,0020501095,Bonner REBOUND (Off:2 Def:3),,7:57,2,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:56 PM
+156,1,1,167,0020501095,Bonner 17' Jump Shot (2 PTS) (Barrett 4 AST),,7:46,2,4,4,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,0,,,,,,41 - 41,TIE,,7:56 PM
+157,1,1,168,0020501095,,,7:29,2,5,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,43 - 41,-2,Green 20' Jump Shot (6 PTS),7:56 PM
+158,1,1,169,0020501095,Peterson 22' Jump Shot (20 PTS) (Barrett 5 AST),,7:14,2,4,4,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,0,,,,,,43 - 43,TIE,,7:56 PM
+159,1,2,170,0020501095,,,7:01,2,5,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Green 22' Jump Shot,7:57 PM
+160,0,4,171,0020501095,Peterson REBOUND (Off:0 Def:3),,6:59,2,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:57 PM
+161,1,1,172,0020501095,Graham 12' Jump Shot (4 PTS) (Peterson 4 AST),,6:54,2,4,4,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,43 - 45,2,,7:57 PM
+162,2,6,173,0020501095,Graham S.FOUL (P1.T3),,6:39,2,4,5,1,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,7:57 PM
+163,11,3,174,0020501095,,,6:39,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce Free Throw 1 of 2,7:57 PM
+164,1,4,175,0020501095,,,6:39,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,7:57 PM
+165,12,3,176,0020501095,,,6:39,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,44 - 45,1,Pierce Free Throw 2 of 2 (2 PTS),7:57 PM
+166,1,2,177,0020501095,MISS Peterson 20' Jump Shot,,6:20,2,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:58 PM
+167,0,4,178,0020501095,,,6:19,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:1 Def:1),7:58 PM
+168,2,5,179,0020501095,Barrett STEAL (1 STL),,6:15,2,5,4,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Green Lost Ball Turnover (P2.T10),7:58 PM
+169,1,2,180,0020501095,MISS Bonner 10' Jump Shot,,6:06,2,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:58 PM
+170,0,4,181,0020501095,Sow REBOUND (Off:2 Def:1),,6:05,2,4,0,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:58 PM
+171,5,2,182,0020501095,MISS Sow  Layup,,6:03,2,4,0,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:58 PM
+172,0,4,183,0020501095,Sow REBOUND (Off:3 Def:1),,6:03,2,4,0,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:58 PM
+173,4,2,184,0020501095,MISS Sow  Tip Shot,,6:03,2,4,0,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:58 PM
+174,0,4,185,0020501095,Bonner REBOUND (Off:3 Def:3),,6:03,2,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:58 PM
+175,5,1,186,0020501095,Bonner  Layup (4 PTS),,6:03,2,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,44 - 47,3,,7:58 PM
+176,2,6,187,0020501095,,,6:03,2,5,4,1,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,LaFrentz S.FOUL (P2.T2),7:58 PM
+177,0,8,188,0020501095,,,6:03,2,5,5,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Gomes FOR Green,7:59 PM
+178,10,3,189,0020501095,Bonner Free Throw 1 of 1 (5 PTS),,6:03,2,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,44 - 48,4,,7:59 PM
+179,17,6,190,0020501095,RAPTORS T.Foul (Def. 3 Sec Sow ),,5:48,2,4,0,1,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,7:59 PM
+180,4,9,191,0020501095,RAPTORS Timeout: Official (Full 1 Short 0),,5:48,2,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,7:59 PM
+181,0,8,192,0020501095,,,5:48,2,5,5,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Szczerbiak FOR Allen,8:02 PM
+182,0,8,193,0020501095,SUB: James FOR Barrett,,5:48,2,4,4,0,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,8:02 PM
+183,16,3,194,0020501095,,,5:48,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,45 - 48,3,Pierce Free Throw Technical (3 PTS),8:02 PM
+184,1,2,195,0020501095,,,5:39,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 21' Jump Shot,8:02 PM
+185,0,4,196,0020501095,Sow REBOUND (Off:3 Def:2),,5:37,2,4,0,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:02 PM
+186,1,1,197,0020501095,Bonner 25' 3PT Jump Shot (8 PTS) (Peterson 5 AST),,5:23,2,4,4,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,45 - 51,6,,8:03 PM
+187,44,1,198,0020501095,,,5:10,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,47 - 51,4,Pierce  Reverse Layup (5 PTS),8:03 PM
+188,2,6,199,0020501095,Bonner S.FOUL (P2.T4),,5:10,2,4,5,1,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:03 PM
+189,10,3,201,0020501095,,,5:10,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce Free Throw 1 of 1,8:03 PM
+190,0,8,206,0020501095,,,5:10,2,5,5,0,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: West FOR Greene,8:03 PM
+191,0,4,202,0020501095,Bonner REBOUND (Off:3 Def:4),,5:09,2,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:03 PM
+192,4,5,204,0020501095,Bonner Traveling Turnover (P2.T3),,4:57,2,4,0,1,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:03 PM
+193,1,6,205,0020501095,Peterson P.FOUL (P1.PN),,4:50,2,4,5,1,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:04 PM
+194,11,3,207,0020501095,,,4:50,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce Free Throw 1 of 2,8:04 PM
+195,1,4,208,0020501095,,,4:50,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,8:04 PM
+196,12,3,209,0020501095,,,4:50,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,48 - 51,3,Pierce Free Throw 2 of 2 (6 PTS),8:05 PM
+197,1,2,211,0020501095,MISS Peterson 21' Jump Shot,,4:33,2,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:05 PM
+198,0,4,212,0020501095,Bonner REBOUND (Off:4 Def:4),,4:32,2,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:05 PM
+199,46,2,213,0020501095,MISS James 10' Running Jump Shot,,4:17,2,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:05 PM
+200,0,4,214,0020501095,,,4:15,2,5,0,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,LaFrentz REBOUND (Off:0 Def:5),8:05 PM
+201,1,1,215,0020501095,,,4:08,2,5,5,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,51 - 51,TIE,West  3PT Jump Shot (3 PTS) (Szczerbiak 3 AST),8:05 PM
+202,1,2,216,0020501095,MISS Bonner 25' 3PT Jump Shot,,3:43,2,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:06 PM
+203,0,4,217,0020501095,,,3:41,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:1 Def:2),8:06 PM
+204,1,2,218,0020501095,,,3:34,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 8' Jump Shot,8:06 PM
+205,0,4,219,0020501095,,,3:32,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:2 Def:2),8:06 PM
+206,1,1,220,0020501095,,,3:29,2,5,5,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,54 - 51,-3,LaFrentz  3PT Jump Shot (16 PTS) (Pierce 1 AST),8:06 PM
+207,1,1,221,0020501095,Bonner 25' 3PT Jump Shot (11 PTS) (James 3 AST),,3:13,2,4,4,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,54 - 54,TIE,,8:06 PM
+208,2,6,222,0020501095,Graham S.FOUL (P2.PN),,2:54,2,4,5,1,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:07 PM
+209,4,9,223,0020501095,,,2:54,2,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Official (Reg.0 Short 0),8:07 PM
+210,0,8,224,0020501095,,,2:54,2,5,5,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Perkins FOR LaFrentz,8:09 PM
+211,11,3,226,0020501095,,,2:54,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,55 - 54,-1,Pierce Free Throw 1 of 2 (7 PTS),8:10 PM
+212,12,3,227,0020501095,,,2:54,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,56 - 54,-2,Pierce Free Throw 2 of 2 (8 PTS),8:10 PM
+213,1,2,228,0020501095,MISS Graham 16' Jump Shot,,2:39,2,4,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:10 PM
+214,0,4,229,0020501095,,,2:38,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:2 Def:3),8:10 PM
+215,1,2,231,0020501095,,,2:21,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 25' 3PT Jump Shot,8:10 PM
+216,0,4,232,0020501095,Sow REBOUND (Off:3 Def:3),,2:19,2,4,0,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:11 PM
+217,42,2,233,0020501095,MISS Peterson  Driving Layup,,2:11,2,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:11 PM
+218,0,4,234,0020501095,,,2:09,2,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Gomes REBOUND (Off:0 Def:3),8:11 PM
+219,42,2,235,0020501095,,,2:05,2,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce  Driving Layup,8:11 PM
+220,0,4,236,0020501095,,,2:02,2,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Gomes REBOUND (Off:1 Def:3),8:11 PM
+221,5,1,237,0020501095,,,2:01,2,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,58 - 54,-4,Gomes  Layup (6 PTS),8:11 PM
+222,1,1,238,0020501095,James 19' Jump Shot (2 PTS),,1:44,2,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,58 - 56,-2,,8:11 PM
+223,1,1,239,0020501095,,,1:24,2,5,5,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,61 - 56,-5,Szczerbiak 25' 3PT Jump Shot (12 PTS) (West 5 AST),8:11 PM
+224,17,6,240,0020501095,,,1:11,2,5,0,1,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Celtics T.Foul (Def. 3 Sec Perkins ),8:12 PM
+225,0,8,241,0020501095,,,1:11,2,5,5,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Allen FOR Pierce,8:12 PM
+226,0,8,242,0020501095,SUB: Araujo FOR Sow,,1:11,2,4,4,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,2737,Rafael Araujo,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,8:12 PM
+227,16,3,243,0020501095,James Free Throw Technical (3 PTS),,1:11,2,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,61 - 57,-4,,8:12 PM
+228,2,6,244,0020501095,,,1:00,2,5,4,1,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Perkins S.FOUL (P2.T3),8:13 PM
+229,11,3,245,0020501095,Graham Free Throw 1 of 2 (5 PTS),,1:00,2,4,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,61 - 58,-3,,8:13 PM
+230,12,3,246,0020501095,Graham Free Throw 2 of 2 (6 PTS),,1:00,2,4,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,61 - 59,-2,,8:13 PM
+231,1,6,247,0020501095,Araujo P.FOUL (P2.PN),,0:47,2,4,5,1,2737,Rafael Araujo,TOR,Toronto,1610612761.0,Raptors,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:13 PM
+232,11,3,248,0020501095,,,0:47,2,5,0,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,62 - 59,-3,Szczerbiak Free Throw 1 of 2 (13 PTS),8:14 PM
+233,12,3,249,0020501095,,,0:47,2,5,0,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,63 - 59,-4,Szczerbiak Free Throw 2 of 2 (14 PTS),8:14 PM
+234,1,6,250,0020501095,,,0:33,2,5,4,1,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Gomes P.FOUL (P2.PN),8:15 PM
+235,11,3,251,0020501095,James Free Throw 1 of 2 (4 PTS),,0:33,2,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,63 - 60,-3,,8:15 PM
+236,0,8,253,0020501095,,,0:33,2,5,5,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Green FOR Gomes,8:15 PM
+237,12,3,254,0020501095,James Free Throw 2 of 2 (5 PTS),,0:33,2,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,63 - 61,-2,,8:15 PM
+238,1,2,255,0020501095,,,0:21,2,5,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Green 24' 3PT Jump Shot,8:15 PM
+239,0,4,256,0020501095,Peterson REBOUND (Off:0 Def:4),,0:20,2,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:16 PM
+240,1,2,257,0020501095,MISS Bonner 24' 3PT Jump Shot,,0:00,2,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:16 PM
+241,0,4,258,0020501095,RAPTORS Rebound,,0:00,2,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,8:16 PM
+242,0,13,259,0020501095,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,63 - 61,-2,,8:16 PM
+243,0,12,261,0020501095,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,63 - 61,-2,,8:32 PM
+244,4,5,262,0020501095,,,11:47,3,5,0,1,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins Traveling Turnover (P3.T11),8:33 PM
+245,2,6,263,0020501095,,,11:35,3,5,4,1,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Perkins S.FOUL (P3.T1),8:33 PM
+246,11,3,264,0020501095,Williams Free Throw 1 of 2 (5 PTS),,11:35,3,4,0,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,63 - 62,-1,,8:33 PM
+247,12,3,265,0020501095,Williams Free Throw 2 of 2 (6 PTS),,11:35,3,4,0,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,63 - 63,TIE,,8:33 PM
+248,4,5,266,0020501095,,,11:21,3,5,0,1,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce Traveling Turnover (P3.T12),8:34 PM
+249,4,5,267,0020501095,Villanueva Traveling Turnover (P1.T4),,11:08,3,4,0,1,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:34 PM
+250,2,6,268,0020501095,Sow S.FOUL (P2.T1),,10:57,3,4,5,1,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:35 PM
+251,11,3,269,0020501095,,,10:57,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,64 - 63,-1,Pierce Free Throw 1 of 2 (9 PTS),8:35 PM
+252,12,3,270,0020501095,,,10:57,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,65 - 63,-2,Pierce Free Throw 2 of 2 (10 PTS),8:35 PM
+253,1,1,271,0020501095,Villanueva 22' Jump Shot (10 PTS) (Williams 4 AST),,10:45,3,4,4,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,65 - 65,TIE,,8:35 PM
+254,5,1,272,0020501095,,,10:25,3,5,5,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,67 - 65,-2,Gomes  Layup (8 PTS) (West 6 AST),8:36 PM
+255,47,2,273,0020501095,MISS Sow 8' Turnaround Jump Shot,,10:04,3,4,0,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:36 PM
+256,0,4,274,0020501095,Villanueva REBOUND (Off:3 Def:0),,10:02,3,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:36 PM
+257,5,2,275,0020501095,MISS Villanueva  Layup,,10:01,3,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:36 PM
+258,0,4,276,0020501095,Villanueva REBOUND (Off:4 Def:0),,9:59,3,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:36 PM
+259,5,1,277,0020501095,Villanueva  Layup (12 PTS),,9:57,3,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,67 - 67,TIE,,8:36 PM
+260,1,2,278,0020501095,,,9:42,3,5,0,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS West 24' 3PT Jump Shot,8:37 PM
+261,0,4,279,0020501095,Villanueva REBOUND (Off:4 Def:1),,9:41,3,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:37 PM
+262,1,2,280,0020501095,MISS Villanueva 20' Jump Shot,,9:31,3,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:37 PM
+263,0,4,281,0020501095,,,9:30,3,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Gomes REBOUND (Off:1 Def:4),8:37 PM
+264,1,1,282,0020501095,,,9:23,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,69 - 67,-2,Pierce 17' Jump Shot (12 PTS),8:37 PM
+265,42,1,283,0020501095,Williams  Driving Layup (8 PTS),,8:58,3,4,0,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,69 - 69,TIE,,8:37 PM
+266,1,2,284,0020501095,,,8:39,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 19' Jump Shot,8:38 PM
+267,0,4,285,0020501095,Williams REBOUND (Off:0 Def:1),,8:37,3,4,0,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:38 PM
+268,1,5,286,0020501095,James Bad Pass Turnover (P1.T5),,8:32,3,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:38 PM
+269,1,9,287,0020501095,,,8:32,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.1 Short 0),8:38 PM
+270,5,1,290,0020501095,,,8:12,3,5,5,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,71 - 69,-2,Gomes  Layup (10 PTS) (Perkins 1 AST),8:41 PM
+271,2,5,291,0020501095,Villanueva Lost Ball Turnover (P2.T6),,7:53,3,4,5,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Szczerbiak STEAL (1 STL),8:41 PM
+272,42,2,292,0020501095,Peterson BLOCK (1 BLK),,7:47,3,5,0,4,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,,,MISS Szczerbiak  Driving Layup,8:41 PM
+273,0,4,293,0020501095,,,7:45,3,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:1 Def:1),8:41 PM
+274,5,1,294,0020501095,,,7:41,3,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,73 - 69,-4,Perkins  Layup (4 PTS),8:41 PM
+275,46,2,295,0020501095,MISS Peterson 8' Running Jump Shot,,7:29,3,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:41 PM
+276,0,4,296,0020501095,Peterson REBOUND (Off:1 Def:4),,7:28,3,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:41 PM
+277,4,6,297,0020501095,Peterson OFF.Foul (P2),,7:28,3,4,5,1,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:41 PM
+278,5,5,298,0020501095,Peterson Foul Turnover (P1.T7),,7:28,3,4,0,1,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:41 PM
+279,1,6,299,0020501095,Williams P.FOUL (P3.T2),,7:13,3,4,5,1,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:42 PM
+280,2,6,300,0020501095,Williams S.FOUL (P4.T3),,7:01,3,4,5,1,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:43 PM
+281,11,3,301,0020501095,,,7:01,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,74 - 69,-5,Pierce Free Throw 1 of 2 (13 PTS),8:43 PM
+282,0,8,302,0020501095,SUB: Bonner FOR Williams,,7:01,3,4,4,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,8:43 PM
+283,12,3,303,0020501095,,,7:01,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,75 - 69,-6,Pierce Free Throw 2 of 2 (14 PTS),8:43 PM
+284,47,1,304,0020501095,Peterson 11' Turnaround Jump Shot (22 PTS),,6:45,3,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,75 - 71,-4,,8:44 PM
+285,1,1,305,0020501095,,,6:31,3,5,5,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,78 - 71,-7,West 24' 3PT Jump Shot (6 PTS) (Gomes 2 AST),8:44 PM
+286,1,2,306,0020501095,MISS Villanueva  3PT Jump Shot,,6:13,3,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:44 PM
+287,0,4,307,0020501095,,,6:11,3,5,0,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Perkins REBOUND (Off:1 Def:2),8:44 PM
+288,42,2,309,0020501095,,,6:07,3,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Gomes  Driving Layup,8:45 PM
+289,0,4,310,0020501095,RAPTORS Rebound,,6:06,3,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,8:45 PM
+290,4,5,311,0020501095,Bonner Traveling Turnover (P3.T8),,5:56,3,4,0,1,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:45 PM
+291,1,1,312,0020501095,,,5:41,3,5,5,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,81 - 71,-10,Szczerbiak 24' 3PT Jump Shot (17 PTS) (Pierce 2 AST),8:45 PM
+292,1,9,313,0020501095,RAPTORS Timeout: Regular (Full 2 Short 0),,5:38,3,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,8:46 PM
+293,0,8,316,0020501095,SUB: Graham FOR Villanueva,,5:38,3,4,4,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,8:48 PM
+294,1,2,317,0020501095,MISS James 20' Jump Shot,,5:21,3,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:48 PM
+295,0,4,318,0020501095,,,5:20,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:2 Def:4),8:48 PM
+296,2,6,319,0020501095,James S.FOUL (P1.T4),,5:06,3,4,5,1,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:49 PM
+297,11,3,320,0020501095,,,5:06,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,82 - 71,-11,Pierce Free Throw 1 of 2 (15 PTS),8:49 PM
+298,12,3,321,0020501095,,,5:06,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,83 - 71,-12,Pierce Free Throw 2 of 2 (16 PTS),8:49 PM
+299,2,6,322,0020501095,,,4:55,3,5,4,1,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Perkins S.FOUL (P4.T2),8:50 PM
+300,11,3,323,0020501095,James Free Throw 1 of 2 (6 PTS),,4:55,3,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,83 - 72,-11,,8:50 PM
+301,0,8,324,0020501095,,,4:55,3,5,5,0,2570,Kendrick Perkins,BOS,Boston,1610612738.0,Celtics,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: LaFrentz FOR Perkins,8:50 PM
+302,12,3,325,0020501095,James Free Throw 2 of 2 (7 PTS),,4:55,3,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,83 - 73,-10,,8:50 PM
+303,1,2,326,0020501095,,,4:40,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 25' 3PT Jump Shot,8:51 PM
+304,0,4,327,0020501095,Peterson REBOUND (Off:1 Def:5),,4:38,3,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:51 PM
+305,42,1,328,0020501095,Graham  Driving Layup (8 PTS) (Peterson 6 AST),,4:34,3,4,4,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,83 - 75,-8,,8:51 PM
+306,42,2,329,0020501095,Sow BLOCK (1 BLK),,4:10,3,5,0,4,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,,,MISS West  Driving Layup,8:51 PM
+307,0,4,330,0020501095,Bonner REBOUND (Off:4 Def:5),,4:08,3,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:51 PM
+308,1,1,331,0020501095,Peterson 25' 3PT Jump Shot (25 PTS) (James 4 AST),,4:03,3,4,4,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,83 - 78,-5,,8:51 PM
+309,11,5,332,0020501095,,,3:36,3,3,0,1,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Turnover: Shot Clock (T#13),8:52 PM
+310,46,1,333,0020501095,James 9' Running Jump Shot (9 PTS),,3:26,3,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,83 - 80,-3,,8:52 PM
+311,1,2,335,0020501095,,,3:09,3,5,0,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Szczerbiak  3PT Jump Shot,8:53 PM
+312,0,4,336,0020501095,Bonner REBOUND (Off:4 Def:6),,3:07,3,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:53 PM
+313,1,2,337,0020501095,MISS Peterson 25' 3PT Jump Shot,,3:01,3,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:53 PM
+314,0,4,338,0020501095,,,3:00,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,8:53 PM
+315,3,6,339,0020501095,Sow L.B.FOUL (P3.PN),,3:00,3,4,5,1,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,8:53 PM
+316,0,8,340,0020501095,,,3:00,3,5,5,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Allen FOR Szczerbiak,8:53 PM
+317,0,8,341,0020501095,,,3:00,3,5,5,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Greene FOR West,8:53 PM
+318,11,3,342,0020501095,,,3:00,3,5,0,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS LaFrentz Free Throw 1 of 2,8:53 PM
+319,1,4,343,0020501095,,,3:00,3,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,8:53 PM
+320,12,3,344,0020501095,,,3:00,3,5,0,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,84 - 80,-4,LaFrentz Free Throw 2 of 2 (17 PTS),8:54 PM
+321,1,1,345,0020501095,Graham 15' Jump Shot (10 PTS) (Bonner 1 AST),,2:46,3,4,4,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,84 - 82,-2,,8:54 PM
+322,1,5,346,0020501095,Sow STEAL (2 STL),,2:24,3,5,4,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Allen Bad Pass Turnover (P1.T14),8:55 PM
+323,1,6,347,0020501095,,,2:18,3,5,4,1,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Allen P.FOUL (P1.T3),8:55 PM
+324,0,8,348,0020501095,,,2:18,3,5,5,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Scalabrine FOR Gomes,8:55 PM
+325,1,2,349,0020501095,MISS Peterson 25' 3PT Jump Shot,,2:10,3,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:55 PM
+326,0,4,350,0020501095,Bonner REBOUND (Off:5 Def:6),,2:09,3,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:55 PM
+327,1,1,351,0020501095,Bonner 7' Jump Shot (13 PTS),,2:06,3,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,84 - 84,TIE,,8:55 PM
+328,1,1,353,0020501095,,,1:45,3,5,5,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,87 - 84,-3,LaFrentz 24' 3PT Jump Shot (20 PTS) (Allen 3 AST),8:55 PM
+329,1,6,354,0020501095,,,1:35,3,5,4,1,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Greene P.FOUL (P2.T4),8:56 PM
+330,2,6,355,0020501095,,,1:29,3,5,4,1,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Allen S.FOUL (P2.PN),8:56 PM
+331,11,3,356,0020501095,James Free Throw 1 of 2 (10 PTS),,1:29,3,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,87 - 85,-2,,8:56 PM
+332,12,3,357,0020501095,James Free Throw 2 of 2 (11 PTS),,1:29,3,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,87 - 86,-1,,8:57 PM
+333,1,5,358,0020501095,James STEAL (2 STL),,1:19,3,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Pierce Bad Pass Turnover (P4.T15),8:57 PM
+334,49,1,359,0020501095,James  Driving Dunk (13 PTS),,1:16,3,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,87 - 88,1,,8:57 PM
+335,1,2,360,0020501095,,,0:52,3,5,0,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS LaFrentz  3PT Jump Shot,8:57 PM
+336,0,4,361,0020501095,Sow REBOUND (Off:3 Def:4),,0:50,3,4,0,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:57 PM
+337,1,2,362,0020501095,MISS Bonner 24' 3PT Jump Shot,,0:40,3,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:58 PM
+338,0,4,363,0020501095,,,0:38,3,5,0,0,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Scalabrine REBOUND (Off:0 Def:2),8:58 PM
+339,1,2,364,0020501095,,,0:32,3,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 25' 3PT Jump Shot,8:58 PM
+340,0,4,365,0020501095,Graham REBOUND (Off:0 Def:1),,0:30,3,4,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,8:58 PM
+341,2,6,366,0020501095,,,0:17,3,5,4,1,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Scalabrine S.FOUL (P1.PN),8:58 PM
+342,11,3,367,0020501095,James Free Throw 1 of 2 (14 PTS),,0:17,3,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,87 - 89,2,,8:58 PM
+343,0,8,368,0020501095,,,0:17,3,5,5,0,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Green FOR Scalabrine,8:59 PM
+344,12,3,369,0020501095,James Free Throw 2 of 2 (15 PTS),,0:17,3,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,87 - 90,3,,8:59 PM
+345,61,1,370,0020501095,,,0:01,3,5,0,0,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,89 - 90,1,Greene  Driving Finger Roll (2 PTS),8:59 PM
+346,0,18,373,0020501095,,,0:00,3,0,0,1,0,,,,,,0,,,,,,0,,,,,,89 - 90,1,,9:01 PM
+347,0,13,374,0020501095,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,89 - 90,1,,9:01 PM
+348,0,12,376,0020501095,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,89 - 90,1,,9:04 PM
+349,1,2,377,0020501095,MISS Barrett 21' Jump Shot,,11:37,4,4,0,0,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:04 PM
+350,0,4,378,0020501095,,,11:36,4,5,0,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,LaFrentz REBOUND (Off:0 Def:6),9:04 PM
+351,1,1,379,0020501095,,,11:20,4,5,5,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,91 - 90,-1,Green 19' Jump Shot (8 PTS) (Allen 4 AST),9:04 PM
+352,2,6,380,0020501095,,,10:59,4,5,4,1,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Allen S.FOUL (P3.T1),9:05 PM
+353,11,3,381,0020501095,Peterson Free Throw 1 of 2 (26 PTS),,10:59,4,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,91 - 91,TIE,,9:05 PM
+354,12,3,382,0020501095,Peterson Free Throw 2 of 2 (27 PTS),,10:59,4,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,91 - 92,1,,9:05 PM
+355,42,2,383,0020501095,Sow BLOCK (2 BLK),,10:48,4,5,0,4,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,,,MISS Allen  Driving Layup,9:06 PM
+356,0,4,384,0020501095,Bonner REBOUND (Off:5 Def:7),,10:47,4,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:06 PM
+357,1,1,385,0020501095,Graham 19' Jump Shot (12 PTS),,10:34,4,4,0,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,91 - 94,3,,9:06 PM
+358,1,1,386,0020501095,,,10:11,4,5,5,0,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,94 - 94,TIE,Greene 25' 3PT Jump Shot (5 PTS) (Allen 5 AST),9:06 PM
+359,1,2,387,0020501095,MISS Bonner 22' Jump Shot,,9:49,4,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:07 PM
+360,0,4,388,0020501095,RAPTORS Rebound,,9:48,4,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,9:07 PM
+361,3,6,389,0020501095,,,9:48,4,5,4,1,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,LaFrentz L.B.FOUL (P3.T2),9:07 PM
+362,42,1,390,0020501095,Sow  Driving Layup (6 PTS) (Barrett 6 AST),,9:42,4,4,4,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,0,,,,,,94 - 96,2,,9:07 PM
+363,5,2,391,0020501095,,,9:36,4,5,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Green  Layup,9:07 PM
+364,0,4,392,0020501095,,,9:34,4,5,0,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,LaFrentz REBOUND (Off:1 Def:6),9:07 PM
+365,5,2,393,0020501095,,,9:32,4,5,0,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS LaFrentz  Layup,9:07 PM
+366,0,4,394,0020501095,Peterson REBOUND (Off:1 Def:6),,9:31,4,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:07 PM
+367,61,2,395,0020501095,MISS Peterson  Driving Finger Roll,,9:27,4,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:07 PM
+368,0,4,396,0020501095,Barrett REBOUND (Off:1 Def:0),,9:25,4,4,0,0,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:07 PM
+369,54,1,397,0020501095,Barrett  Running Tip Shot (2 PTS),,9:22,4,4,0,0,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,94 - 98,4,,9:08 PM
+370,1,1,398,0020501095,,,9:08,4,5,5,0,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,97 - 98,1,Scalabrine 25' 3PT Jump Shot (3 PTS) (LaFrentz 1 AST),9:08 PM
+371,5,2,399,0020501095,MISS Sow  Layup,,8:39,4,4,0,5,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,,,LaFrentz BLOCK (1 BLK),9:08 PM
+372,0,4,400,0020501095,,,8:38,4,5,0,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,LaFrentz REBOUND (Off:1 Def:7),9:08 PM
+373,2,6,401,0020501095,Peterson S.FOUL (P3.T1),,8:34,4,4,5,1,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:09 PM
+374,11,6,402,0020501095,Peterson T.FOUL (P3.T1),,8:34,4,4,0,1,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:09 PM
+375,4,9,403,0020501095,,,8:34,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:09 PM
+376,0,8,404,0020501095,SUB: James FOR Sow,,8:34,4,4,4,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,9:11 PM
+377,0,8,405,0020501095,SUB: Villanueva FOR Barrett,,8:34,4,4,4,0,2857,Andre Barrett,TOR,Toronto,1610612761.0,Raptors,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,9:11 PM
+378,16,3,408,0020501095,,,8:34,4,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,98 - 98,TIE,Allen Free Throw Technical (9 PTS),9:11 PM
+379,11,3,409,0020501095,,,8:34,4,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,99 - 98,-1,Allen Free Throw 1 of 2 (10 PTS),9:11 PM
+380,12,3,410,0020501095,,,8:34,4,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,100 - 98,-2,Allen Free Throw 2 of 2 (11 PTS),9:11 PM
+381,1,2,411,0020501095,MISS Bonner 25' 3PT Jump Shot,,8:18,4,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:12 PM
+382,0,4,412,0020501095,,,8:16,4,5,0,0,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Scalabrine REBOUND (Off:0 Def:3),9:12 PM
+383,1,2,413,0020501095,,,7:50,4,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Allen  3PT Jump Shot,9:12 PM
+384,0,4,414,0020501095,,,7:49,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,9:12 PM
+385,11,5,415,0020501095,,,7:49,4,3,0,1,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Turnover: Shot Clock (T#16),9:12 PM
+386,63,2,417,0020501095,MISS Peterson 17' Fadeaway Jumper,,7:30,4,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:13 PM
+387,0,4,418,0020501095,,,7:29,4,5,0,0,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Scalabrine REBOUND (Off:0 Def:4),9:13 PM
+388,2,6,419,0020501095,Graham S.FOUL (P3.T2),,7:22,4,4,5,1,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:13 PM
+389,11,3,420,0020501095,,,7:22,4,5,0,0,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Greene Free Throw 1 of 2,9:13 PM
+390,1,4,421,0020501095,,,7:22,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,9:13 PM
+391,0,8,422,0020501095,,,7:22,4,5,5,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Szczerbiak FOR Green,9:14 PM
+392,0,8,423,0020501095,,,7:22,4,5,5,0,2243,Brian Scalabrine,BOS,Boston,1610612738.0,Celtics,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Pierce FOR Scalabrine,9:14 PM
+393,0,8,424,0020501095,SUB: Williams FOR Bonner,,7:22,4,4,4,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,9:14 PM
+394,12,3,425,0020501095,,,7:22,4,5,0,0,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,101 - 98,-3,Greene Free Throw 2 of 2 (6 PTS),9:14 PM
+395,7,2,426,0020501095,MISS Villanueva  Dunk,,6:58,4,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:14 PM
+396,0,4,427,0020501095,Peterson REBOUND (Off:2 Def:6),,6:56,4,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:14 PM
+397,46,2,428,0020501095,MISS Peterson 6' Running Jump Shot,,6:55,4,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:14 PM
+398,0,4,429,0020501095,Villanueva REBOUND (Off:5 Def:1),,6:54,4,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:14 PM
+399,4,1,430,0020501095,Villanueva  Tip Shot (14 PTS),,6:51,4,4,0,0,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,101 - 100,-1,,9:15 PM
+400,11,5,431,0020501095,,,6:28,4,3,0,1,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Turnover: Shot Clock (T#17),9:15 PM
+401,0,8,432,0020501095,,,6:28,4,5,5,0,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: West FOR Greene,9:15 PM
+402,1,1,433,0020501095,Graham 14' Jump Shot (14 PTS) (Villanueva 1 AST),,6:09,4,4,4,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,0,,,,,,101 - 102,1,,9:16 PM
+403,1,9,434,0020501095,,,6:01,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.2 Short 0),9:16 PM
+404,0,8,436,0020501095,,,6:01,4,5,5,0,1711,Raef LaFrentz,BOS,Boston,1610612738.0,Celtics,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Gomes FOR LaFrentz,9:18 PM
+405,1,6,438,0020501095,Graham P.FOUL (P4.T3),,5:54,4,4,5,1,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:19 PM
+406,2,6,439,0020501095,Graham S.FOUL (P5.T4),,5:49,4,4,5,1,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:19 PM
+407,11,3,440,0020501095,,,5:49,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce Free Throw 1 of 2,9:19 PM
+408,1,4,441,0020501095,,,5:49,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,9:19 PM
+409,12,3,442,0020501095,,,5:49,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,102 - 102,TIE,Pierce Free Throw 2 of 2 (17 PTS),9:19 PM
+410,1,1,443,0020501095,James 16' Jump Shot (17 PTS) (Williams 5 AST),,5:37,4,4,4,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,102 - 104,2,,9:20 PM
+411,47,2,444,0020501095,,,5:19,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce 15' Turnaround Jump Shot,9:20 PM
+412,0,4,445,0020501095,Williams REBOUND (Off:0 Def:2),,5:17,4,4,0,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:20 PM
+413,1,2,446,0020501095,MISS Williams 26' 3PT Jump Shot,,5:05,4,4,0,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:20 PM
+414,0,4,447,0020501095,,,5:04,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,9:20 PM
+415,1,2,448,0020501095,,,4:43,4,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Gomes 14' Jump Shot,9:21 PM
+416,0,4,449,0020501095,Williams REBOUND (Off:0 Def:3),,4:41,4,4,0,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:21 PM
+417,1,1,450,0020501095,Peterson 25' 3PT Jump Shot (30 PTS) (James 5 AST),,4:26,4,4,4,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,102 - 107,5,,9:21 PM
+418,2,5,451,0020501095,Peterson STEAL (2 STL),,4:09,4,5,4,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Pierce Lost Ball Turnover (P5.T18),9:22 PM
+419,2,6,452,0020501095,,,3:59,4,5,4,1,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Gomes S.FOUL (P3.T3),9:22 PM
+420,11,3,453,0020501095,James Free Throw 1 of 2 (18 PTS),,3:59,4,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,102 - 108,6,,9:22 PM
+421,0,8,454,0020501095,,,3:59,4,5,5,0,2753,Delonte West,BOS,Boston,1610612738.0,Celtics,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Greene FOR West,9:23 PM
+422,12,3,455,0020501095,James Free Throw 2 of 2 (19 PTS),,3:59,4,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,102 - 109,7,,9:23 PM
+423,1,5,456,0020501095,,,3:43,4,5,0,0,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Greene Bad Pass Turnover (P2.T19),9:23 PM
+424,1,2,457,0020501095,MISS Peterson  3PT Jump Shot,,3:25,4,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:24 PM
+425,0,4,458,0020501095,,,3:24,4,5,0,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Allen REBOUND (Off:1 Def:2),9:24 PM
+426,66,1,459,0020501095,,,3:15,4,5,5,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,104 - 109,5,Szczerbiak 20' Jump Bank Shot (19 PTS) (Allen 6 AST),9:24 PM
+427,2,6,460,0020501095,Graham S.FOUL (P6.PN),,3:15,4,4,5,1,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:24 PM
+428,0,8,461,0020501095,,,3:15,4,5,5,0,101158,Orien Greene,BOS,Boston,1610612738.0,Celtics,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,SUB: Green FOR Greene,9:24 PM
+429,0,8,462,0020501095,SUB: Sow FOR Graham,,3:15,4,4,4,0,101121,Joey Graham,TOR,Toronto,1610612761.0,Raptors,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,9:24 PM
+430,10,3,463,0020501095,,,3:15,4,5,0,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,105 - 109,4,Szczerbiak Free Throw 1 of 1 (20 PTS),9:24 PM
+431,1,5,464,0020501095,James Bad Pass Turnover (P2.T9),,3:00,4,4,5,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Pierce STEAL (1 STL),9:25 PM
+432,2,6,465,0020501095,James S.FOUL (P2.PN),,2:57,4,4,5,1,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:25 PM
+433,4,9,466,0020501095,RAPTORS Timeout: Official (Full 2 Short 0),,2:57,4,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,9:25 PM
+434,11,3,469,0020501095,,,2:57,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,106 - 109,3,Pierce Free Throw 1 of 2 (18 PTS),9:28 PM
+435,12,3,470,0020501095,,,2:57,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,107 - 109,2,Pierce Free Throw 2 of 2 (19 PTS),9:28 PM
+436,2,5,471,0020501095,Williams Lost Ball Turnover (P1.T10),,2:43,4,4,5,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Allen STEAL (2 STL),9:28 PM
+437,1,5,472,0020501095,Peterson STEAL (3 STL),,2:38,4,5,4,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Allen Bad Pass Turnover (P2.T20),9:28 PM
+438,1,6,473,0020501095,,,2:38,4,5,4,1,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Allen P.FOUL (P4.T4),9:28 PM
+439,1,2,474,0020501095,MISS Peterson 17' Jump Shot,,2:15,4,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:29 PM
+440,0,4,475,0020501095,,,2:13,4,5,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Green REBOUND (Off:0 Def:1),9:29 PM
+441,2,6,476,0020501095,Sow S.FOUL (P4.PN),,2:06,4,4,5,1,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:29 PM
+442,1,9,477,0020501095,RAPTORS Timeout: Regular (Full 3 Short 0),,2:06,4,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,9:29 PM
+443,11,3,480,0020501095,,,2:06,4,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,108 - 109,1,Gomes Free Throw 1 of 2 (11 PTS),9:31 PM
+444,12,3,481,0020501095,,,2:06,4,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,109 - 109,TIE,Gomes Free Throw 2 of 2 (12 PTS),9:32 PM
+445,1,2,482,0020501095,MISS Williams 8' Jump Shot,,1:48,4,4,0,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:32 PM
+446,0,4,483,0020501095,,,1:47,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:2 Def:5),9:32 PM
+447,1,6,484,0020501095,Sow P.FOUL (P5.PN),,1:43,4,4,5,1,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:32 PM
+448,11,3,485,0020501095,,,1:43,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,110 - 109,-1,Pierce Free Throw 1 of 2 (20 PTS),9:33 PM
+449,0,8,486,0020501095,SUB: Bonner FOR Sow,,1:43,4,4,4,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,9:33 PM
+450,12,3,487,0020501095,,,1:43,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,111 - 109,-2,Pierce Free Throw 2 of 2 (21 PTS),9:33 PM
+451,1,2,488,0020501095,MISS Peterson 24' 3PT Jump Shot,,1:26,4,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:33 PM
+452,0,4,489,0020501095,Williams REBOUND (Off:1 Def:3),,1:24,4,4,0,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:33 PM
+453,46,1,490,0020501095,James 7' Running Jump Shot (21 PTS),,1:18,4,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,111 - 111,TIE,,9:33 PM
+454,1,9,491,0020501095,,,1:18,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Timeout: Regular (Reg.3 Short 0),9:34 PM
+455,0,8,493,0020501095,SUB: Sow FOR Bonner,,1:18,4,4,4,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,9:35 PM
+456,5,2,494,0020501095,Villanueva BLOCK (1 BLK),,1:12,4,5,0,4,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,101111,Charlie Villanueva,TOR,Toronto,1610612761.0,Raptors,,,MISS Gomes  Layup,9:36 PM
+457,0,4,495,0020501095,,,1:11,4,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Gomes REBOUND (Off:2 Def:4),9:36 PM
+458,5,1,496,0020501095,,,1:11,4,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,113 - 111,-2,Gomes  Layup (14 PTS),9:36 PM
+459,1,9,497,0020501095,RAPTORS Timeout: Regular (Full 4 Short 0),,1:07,4,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,9:36 PM
+460,0,8,499,0020501095,SUB: Bonner FOR Sow,,1:07,4,4,4,0,2776,Pape Sow,TOR,Toronto,1610612761.0,Raptors,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,,9:38 PM
+461,2,5,500,0020501095,Peterson Lost Ball Turnover (P2.T11),,1:03,4,4,5,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,Allen STEAL (3 STL),9:39 PM
+462,49,1,501,0020501095,,,1:00,4,5,5,0,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,115 - 111,-4,Allen  Driving Dunk (13 PTS) (Green 2 AST),9:39 PM
+463,1,2,502,0020501095,MISS James 24' 3PT Jump Shot,,0:50,4,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:39 PM
+464,0,4,503,0020501095,,,0:49,4,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Gomes REBOUND (Off:2 Def:5),9:39 PM
+465,1,6,504,0020501095,Bonner P.FOUL (P3.PN),,0:49,4,4,5,1,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:39 PM
+466,11,3,505,0020501095,,,0:49,4,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,116 - 111,-5,Gomes Free Throw 1 of 2 (15 PTS),9:39 PM
+467,12,3,506,0020501095,,,0:49,4,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,117 - 111,-6,Gomes Free Throw 2 of 2 (16 PTS),9:40 PM
+468,2,9,507,0020501095,RAPTORS Timeout: Short (Full 4 Short 1),,0:49,4,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,9:40 PM
+469,42,1,510,0020501095,Bonner  Driving Layup (15 PTS),,0:47,4,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,117 - 113,-4,,9:41 PM
+470,2,6,511,0020501095,,,0:47,4,5,4,1,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,,,Allen S.FOUL (P5.PN),9:41 PM
+471,10,3,512,0020501095,Bonner Free Throw 1 of 1 (16 PTS),,0:47,4,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,117 - 114,-3,,9:41 PM
+472,1,6,513,0020501095,Williams P.FOUL (P5.PN),,0:39,4,4,5,1,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:42 PM
+473,11,3,514,0020501095,,,0:39,4,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Gomes Free Throw 1 of 2,9:42 PM
+474,1,4,515,0020501095,,,0:39,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,9:42 PM
+475,12,3,516,0020501095,,,0:39,4,5,0,0,101155,Ryan Gomes,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,118 - 114,-4,Gomes Free Throw 2 of 2 (17 PTS),9:42 PM
+476,42,1,517,0020501095,James  Driving Layup (23 PTS),,0:31,4,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,118 - 116,-2,,9:43 PM
+477,1,6,518,0020501095,Peterson P.FOUL (P4.PN),,0:26,4,4,5,1,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:43 PM
+478,11,3,519,0020501095,,,0:26,4,5,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,119 - 116,-3,Green Free Throw 1 of 2 (9 PTS),9:43 PM
+479,12,3,520,0020501095,,,0:26,4,5,0,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Green Free Throw 2 of 2,9:44 PM
+480,0,4,521,0020501095,Bonner REBOUND (Off:5 Def:8),,0:25,4,4,0,0,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:44 PM
+481,42,2,522,0020501095,MISS Peterson  Driving Layup,,0:19,4,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:44 PM
+482,0,4,523,0020501095,Williams REBOUND (Off:2 Def:3),,0:17,4,4,0,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:44 PM
+483,4,2,524,0020501095,MISS Williams  Tip Shot,,0:17,4,4,0,0,677,Eric Williams,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:44 PM
+484,0,4,525,0020501095,,,0:17,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,Pierce REBOUND (Off:2 Def:6),9:44 PM
+485,1,6,526,0020501095,Bonner P.FOUL (P4.PN),,0:17,4,4,5,1,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:44 PM
+486,11,3,527,0020501095,,,0:17,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,,,MISS Pierce Free Throw 1 of 2,9:44 PM
+487,1,4,528,0020501095,,,0:17,4,3,0,0,1610612738,,,,,,0,,,,,,0,,,,,,,,Celtics Rebound,9:44 PM
+488,12,3,529,0020501095,,,0:17,4,5,0,0,1718,Paul Pierce,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,120 - 116,-4,Pierce Free Throw 2 of 2 (22 PTS),9:45 PM
+489,42,1,530,0020501095,Peterson  Driving Layup (32 PTS),,0:12,4,4,0,0,2050,Morris Peterson,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,120 - 118,-2,,9:45 PM
+490,1,6,531,0020501095,Bonner P.FOUL (P5.PN),,0:11,4,4,5,1,2588,Matt Bonner,TOR,Toronto,1610612761.0,Raptors,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,,,,9:45 PM
+491,11,3,532,0020501095,,,0:11,4,5,0,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,121 - 118,-3,Szczerbiak Free Throw 1 of 2 (21 PTS),9:45 PM
+492,12,3,533,0020501095,,,0:11,4,5,0,0,1887,Wally Szczerbiak,BOS,Boston,1610612738.0,Celtics,0,,,,,,0,,,,,,122 - 118,-4,Szczerbiak Free Throw 2 of 2 (22 PTS),9:46 PM
+493,1,1,534,0020501095,James 22' Jump Shot (25 PTS),,0:06,4,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,122 - 120,-2,,9:46 PM
+494,49,1,535,0020501095,,,0:02,4,5,5,0,101123,Gerald Green,BOS,Boston,1610612738.0,Celtics,2754,Tony Allen,BOS,Boston,1610612738.0,Celtics,0,,,,,,124 - 120,-4,Green  Driving Dunk (11 PTS) (Allen 7 AST),9:46 PM
+495,1,2,536,0020501095,MISS James 27' 3PT Jump Shot,,0:00,4,4,0,0,2229,Mike James,TOR,Toronto,1610612761.0,Raptors,0,,,,,,0,,,,,,,,,9:46 PM
+496,0,4,537,0020501095,RAPTORS Rebound,,0:00,4,2,0,0,1610612761,,,,,,0,,,,,,0,,,,,,,,,9:46 PM
+497,0,13,538,0020501095,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,124 - 120,-4,,9:46 PM

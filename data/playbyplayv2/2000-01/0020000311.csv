@@ -1,0 +1,464 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0020000311,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,1:22 PM
+1,0,10,1,0020000311,Jump Ball Ewing vs. Outlaw: Tip to Payton,,12:00,1,4,5,4,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,,,,2:14 PM
+2,1,2,2,0020000311,MISS Ewing 5' Jump Shot,,11:45,1,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:14 PM
+3,0,4,3,0020000311,,,11:42,1,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:0 Def:1),2:14 PM
+4,1,2,4,0020000311,,,11:37,1,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Doleac 11' Jump Shot,2:14 PM
+5,0,4,5,0020000311,Lewis REBOUND (Off:0 Def:1),,11:35,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:14 PM
+6,4,6,6,0020000311,McCoy OFF.Foul (P1),,11:25,1,4,0,1,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:14 PM
+7,5,5,7,0020000311,McCoy Foul Turnover (P1.T1),,11:25,1,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:14 PM
+8,1,2,8,0020000311,,,11:13,1,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Doleac 20' Jump Shot,2:15 PM
+9,0,4,9,0020000311,Lewis REBOUND (Off:0 Def:2),,11:11,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:15 PM
+10,1,1,10,0020000311,Payton 14' Jump Shot (2 PTS),,11:06,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,0 - 2,2,,2:15 PM
+11,1,1,11,0020000311,,,10:52,1,5,5,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,2 - 2,TIE,Hill 12' Jump Shot (2 PTS) (McGrady 1 AST),2:15 PM
+12,3,1,12,0020000311,McCoy 7' Hook Shot (2 PTS) (Davis 1 AST),,10:32,1,4,4,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,2 - 4,2,,2:15 PM
+13,1,1,13,0020000311,,,10:07,1,5,5,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,5 - 4,-1,Armstrong 25' 3PT Jump Shot (3 PTS) (Hill 1 AST),2:16 PM
+14,1,2,15,0020000311,MISS Ewing 12' Jump Shot,,9:43,1,4,0,5,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,,,McGrady BLOCK (1 BLK),2:16 PM
+15,0,4,16,0020000311,,,9:39,1,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Doleac REBOUND (Off:0 Def:1),2:16 PM
+16,1,2,18,0020000311,,,9:31,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 16' Jump Shot,2:17 PM
+17,0,4,19,0020000311,Payton REBOUND (Off:0 Def:1),,9:28,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:17 PM
+18,1,2,20,0020000311,MISS Payton 10' Jump Shot,,9:22,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:17 PM
+19,0,4,21,0020000311,,,9:20,1,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:0 Def:2),2:17 PM
+20,1,2,22,0020000311,,,9:16,1,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 3' Jump Shot,2:17 PM
+21,0,4,23,0020000311,Lewis REBOUND (Off:0 Def:3),,9:14,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:17 PM
+22,40,1,24,0020000311,Ewing  Layup (2 PTS) (Payton 1 AST),,9:08,1,4,4,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,5 - 6,1,,2:17 PM
+23,1,2,25,0020000311,,,8:50,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 13' Jump Shot,2:17 PM
+24,0,4,26,0020000311,Lewis REBOUND (Off:0 Def:4),,8:47,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:17 PM
+25,1,2,27,0020000311,MISS Davis  3PT Jump Shot,,8:41,1,4,0,0,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:17 PM
+26,0,4,28,0020000311,McCoy REBOUND (Off:1 Def:0),,8:39,1,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:17 PM
+27,1,1,29,0020000311,Lewis 27' 3PT Jump Shot (3 PTS) (McCoy 1 AST),,8:35,1,4,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,5 - 9,4,,2:18 PM
+28,1,2,30,0020000311,,,8:15,1,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Doleac 17' Jump Shot,2:18 PM
+29,0,4,31,0020000311,McCoy REBOUND (Off:1 Def:1),,8:12,1,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:18 PM
+30,3,5,32,0020000311,Ewing Out Of Bounds Turnover (P1.T2),,8:00,1,4,0,1,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:18 PM
+31,1,1,33,0020000311,,,7:47,1,5,5,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,7 - 9,2,Doleac 20' Jump Shot (2 PTS) (Armstrong 1 AST),2:18 PM
+32,1,2,35,0020000311,MISS Ewing 5' Jump Shot,,7:31,1,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:19 PM
+33,0,4,36,0020000311,McCoy REBOUND (Off:2 Def:1),,7:29,1,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:19 PM
+34,8,1,37,0020000311,McCoy  Slam Dunk (4 PTS),,7:28,1,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,7 - 11,4,,2:19 PM
+35,1,1,39,0020000311,,,7:21,1,5,5,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,9 - 11,2,Doleac 19' Jump Shot (4 PTS) (McGrady 2 AST),2:19 PM
+36,1,1,40,0020000311,Payton 18' Jump Shot (4 PTS) (Davis 2 AST),,7:09,1,4,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,9 - 13,4,,2:19 PM
+37,1,5,41,0020000311,Davis STEAL (1 STL),,7:01,1,5,4,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Armstrong Bad Pass Turnover (P1.T1),2:19 PM
+38,2,6,42,0020000311,,,6:58,1,5,0,1,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Doleac S.FOUL (P1.T1),2:20 PM
+39,11,3,43,0020000311,Lewis Free Throw 1 of 2 (4 PTS),,6:58,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,9 - 14,5,,2:20 PM
+40,12,3,44,0020000311,Lewis Free Throw 2 of 2 (5 PTS),,6:58,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,9 - 15,6,,2:20 PM
+41,2,5,45,0020000311,Davis STEAL (2 STL),,6:45,1,5,4,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,McGrady Lost Ball Turnover (P1.T2),2:20 PM
+42,1,5,46,0020000311,Davis Bad Pass Turnover (P1.T3),,6:41,1,4,5,0,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Hill STEAL (1 STL),2:20 PM
+43,1,2,47,0020000311,,,6:35,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 20' Jump Shot,2:21 PM
+44,0,4,48,0020000311,SUPERSONICS Rebound,,6:32,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,2:21 PM
+45,1,6,49,0020000311,,,6:19,1,5,0,1,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Armstrong P.FOUL (P1.T2),2:21 PM
+46,1,2,51,0020000311,MISS Davis 5' Jump Shot,,6:11,1,4,0,5,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,,,McGrady BLOCK (2 BLK),2:21 PM
+47,0,4,52,0020000311,McCoy REBOUND (Off:3 Def:1),,6:08,1,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:21 PM
+48,1,1,53,0020000311,Payton 17' Jump Shot (6 PTS) (McCoy 2 AST),,6:05,1,4,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,9 - 17,8,,2:21 PM
+49,2,5,54,0020000311,Ewing STEAL (1 STL),,5:47,1,5,4,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Hill Lost Ball Turnover (P1.T3),2:22 PM
+50,1,2,55,0020000311,MISS Lewis 5' Jump Shot,,5:41,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:22 PM
+51,0,4,56,0020000311,McCoy REBOUND (Off:4 Def:1),,5:37,1,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:22 PM
+52,5,2,57,0020000311,MISS McCoy 2' Layup,,5:36,1,4,0,5,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,,,Doleac BLOCK (1 BLK),2:22 PM
+53,0,4,58,0020000311,Lewis REBOUND (Off:1 Def:4),,5:33,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:22 PM
+54,5,1,59,0020000311,Lewis  Layup (7 PTS),,5:32,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,9 - 19,10,,2:22 PM
+55,2,6,60,0020000311,Payton S.FOUL (P1.T1),,5:19,1,4,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:22 PM
+56,1,9,62,0020000311,SUPERSONICS Timeout: Regular (Full 1 Short 0),,5:19,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,2:22 PM
+57,11,3,63,0020000311,,,5:19,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,10 - 19,9,McGrady Free Throw 1 of 2 (1 PTS),2:25 PM
+58,12,3,64,0020000311,,,5:19,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,11 - 19,8,McGrady Free Throw 2 of 2 (2 PTS),2:25 PM
+59,1,1,67,0020000311,Ewing 11' Jump Shot (4 PTS),,5:05,1,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,11 - 21,10,,2:30 PM
+60,5,2,69,0020000311,,,4:53,1,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Hill 3' Layup,2:30 PM
+61,0,4,70,0020000311,,,4:50,1,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Hill REBOUND (Off:1 Def:0),2:30 PM
+62,5,1,71,0020000311,,,4:49,1,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,13 - 21,8,Hill  Layup (4 PTS),2:30 PM
+63,4,5,72,0020000311,Lewis Traveling Turnover (P1.T4),,4:35,1,4,0,1,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:31 PM
+64,8,1,73,0020000311,,,4:33,1,5,5,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,15 - 21,6,Doleac  Slam Dunk (6 PTS) (Hill 2 AST),2:31 PM
+65,5,2,74,0020000311,MISS Davis 2' Layup,,4:13,1,4,0,5,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,,,Doleac BLOCK (2 BLK),2:31 PM
+66,0,4,75,0020000311,SUPERSONICS Rebound,,4:13,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,2:31 PM
+67,1,2,76,0020000311,MISS Ewing 15' Jump Shot,,4:06,1,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:32 PM
+68,0,4,77,0020000311,,,4:05,1,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Armstrong REBOUND (Off:0 Def:1),2:32 PM
+69,1,2,78,0020000311,,,3:56,1,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Hill 16' Jump Shot,2:32 PM
+70,0,4,79,0020000311,,,3:52,1,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:1 Def:2),2:32 PM
+71,1,2,80,0020000311,,,3:44,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 25' 3PT Jump Shot,2:32 PM
+72,0,4,81,0020000311,,,3:42,1,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:2 Def:2),2:32 PM
+73,1,1,82,0020000311,,,3:30,1,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,17 - 21,4,Armstrong 15' Jump Shot (5 PTS),2:32 PM
+74,3,2,83,0020000311,MISS McCoy 9' Hook Shot,,3:11,1,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:33 PM
+75,0,4,84,0020000311,,,3:06,1,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:2 Def:3),2:33 PM
+76,1,5,85,0020000311,,,3:04,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady Bad Pass Turnover (P2.T4),2:33 PM
+77,0,8,86,0020000311,SUB: Baker FOR Ewing,,3:04,1,4,4,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,2:33 PM
+78,1,6,87,0020000311,,,2:49,1,5,0,1,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady P.FOUL (P1.T3),2:34 PM
+79,1,9,89,0020000311,,,2:49,1,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.1 Short 0),2:34 PM
+80,0,8,90,0020000311,SUB: Barry FOR McCoy,,2:49,1,4,4,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,2:36 PM
+81,0,8,91,0020000311,SUB: Patterson FOR Davis,,2:49,1,4,4,0,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,2:36 PM
+82,1,2,92,0020000311,MISS Payton 5' Jump Shot,,2:36,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:36 PM
+83,0,4,93,0020000311,,,2:34,1,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Doleac REBOUND (Off:0 Def:2),2:36 PM
+84,2,5,94,0020000311,Payton STEAL (1 STL),,2:32,1,5,4,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Doleac Lost Ball Turnover (P1.T5),2:37 PM
+85,1,2,95,0020000311,MISS Payton 12' Jump Shot,,2:27,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:37 PM
+86,0,4,96,0020000311,Lewis REBOUND (Off:2 Def:4),,2:25,1,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:37 PM
+87,5,2,97,0020000311,MISS Baker 3' Layup,,2:19,1,4,0,5,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,,,Outlaw BLOCK (1 BLK),2:37 PM
+88,0,4,98,0020000311,,,2:15,1,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Armstrong REBOUND (Off:0 Def:2),2:37 PM
+89,1,1,99,0020000311,,,2:13,1,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,19 - 21,2,Armstrong 15' Jump Shot (7 PTS),2:37 PM
+90,0,8,100,0020000311,,,1:58,1,5,5,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Miller FOR Hill,2:37 PM
+91,1,2,101,0020000311,MISS Payton 19' Jump Shot,,1:51,1,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:38 PM
+92,0,4,102,0020000311,,,1:49,1,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,2:38 PM
+93,1,2,103,0020000311,,,1:31,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 4' Jump Shot,2:38 PM
+94,0,4,104,0020000311,Baker REBOUND (Off:0 Def:1),,1:29,1,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:38 PM
+95,8,5,105,0020000311,Patterson 3 Second Violation Turnover (P1.T5),,1:22,1,4,0,1,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:38 PM
+96,1,2,106,0020000311,,,1:11,1,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Doleac 15' Jump Shot,2:39 PM
+97,0,4,107,0020000311,Patterson REBOUND (Off:0 Def:1),,1:08,1,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:39 PM
+98,0,8,108,0020000311,,,1:02,1,5,5,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Amaechi FOR Doleac,2:39 PM
+99,1,2,109,0020000311,MISS Patterson 11' Jump Shot,,0:58,1,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:39 PM
+100,0,4,110,0020000311,,,0:57,1,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,2:39 PM
+101,3,6,111,0020000311,Baker L.B.FOUL (P1.T2),,0:57,1,4,0,1,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:39 PM
+102,44,1,112,0020000311,,,0:41,1,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,21 - 21,TIE,Outlaw  Reverse Layup (2 PTS),2:40 PM
+103,1,2,113,0020000311,MISS Baker 4' Jump Shot,,0:28,1,4,0,5,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,,,Outlaw BLOCK (2 BLK),2:40 PM
+104,0,4,114,0020000311,,,0:25,1,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:0 Def:1),2:40 PM
+105,17,6,115,0020000311,SUPERSONICS Foul,,0:10,1,2,0,1,1610612760,,,,,,0,,,,,,0,,,,,,,,,2:41 PM
+106,16,3,116,0020000311,,,0:10,1,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,22 - 21,-1,Armstrong Free Throw Technical (8 PTS),2:41 PM
+107,1,1,119,0020000311,,,0:00,1,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,24 - 21,-3,Armstrong 12' Jump Shot (10 PTS),2:41 PM
+108,1,2,120,0020000311,MISS Barry 26' 3PT Jump Shot,,0:00,1,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:42 PM
+109,0,4,121,0020000311,SUPERSONICS Rebound,,0:00,1,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,2:42 PM
+110,0,13,122,0020000311,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,24 - 21,-3,,2:42 PM
+111,0,12,124,0020000311,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,24 - 21,-3,,2:44 PM
+112,1,1,125,0020000311,,,11:40,2,5,5,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,27 - 21,-6,Miller 25' 3PT Jump Shot (3 PTS) (Garrity 1 AST),2:45 PM
+113,46,1,126,0020000311,Payton 4' Running Jump Shot (8 PTS),,11:23,2,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,27 - 23,-4,,2:45 PM
+114,1,2,127,0020000311,,,11:04,2,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 6' Jump Shot,2:45 PM
+115,0,4,128,0020000311,Mason REBOUND (Off:0 Def:1),,11:02,2,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:45 PM
+116,42,1,129,0020000311,Barry  Driving Layup (2 PTS),,10:56,2,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,27 - 25,-2,,2:46 PM
+117,1,5,130,0020000311,Patterson STEAL (1 STL),,10:40,2,5,4,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Miller Bad Pass Turnover (P1.T6),2:46 PM
+118,1,5,131,0020000311,Patterson Bad Pass Turnover (P2.T6),,10:35,2,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:46 PM
+119,0,8,132,0020000311,SUB: Williams FOR Payton,,10:35,2,4,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,1742,Shammond Williams,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,2:46 PM
+120,1,2,134,0020000311,,,10:18,2,5,0,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Garrity 8' Jump Shot,2:46 PM
+121,0,4,135,0020000311,Baker REBOUND (Off:0 Def:2),,10:16,2,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:46 PM
+122,1,1,136,0020000311,Mason 17' Jump Shot (2 PTS) (Barry 1 AST),,10:06,2,4,4,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,27 - 27,TIE,,2:47 PM
+123,56,1,137,0020000311,,,9:53,2,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,29 - 27,-2,Amaechi 5' Running Hook Shot (2 PTS),2:47 PM
+124,1,2,138,0020000311,MISS Mason 14' Jump Shot,,9:45,2,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:47 PM
+125,0,4,139,0020000311,,,9:43,2,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:2 Def:4),2:47 PM
+126,1,1,140,0020000311,,,9:31,2,5,5,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,31 - 27,-4,McGrady 15' Jump Shot (4 PTS) (Garrity 2 AST),2:47 PM
+127,2,6,141,0020000311,,,9:10,2,5,0,1,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Miller S.FOUL (P1.T1),2:48 PM
+128,0,8,142,0020000311,,,9:10,2,5,5,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Hill FOR McGrady,2:48 PM
+129,11,3,143,0020000311,MISS Patterson Free Throw 1 of 2,,9:10,2,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:48 PM
+130,1,4,144,0020000311,SUPERSONICS Rebound,,9:10,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,2:48 PM
+131,12,3,145,0020000311,Patterson Free Throw 2 of 2 (1 PTS),,9:10,2,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,31 - 28,-3,,2:48 PM
+132,1,1,147,0020000311,,,9:00,2,5,5,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,34 - 28,-6,Garrity 26' 3PT Jump Shot (3 PTS) (Amaechi 1 AST),2:49 PM
+133,1,5,148,0020000311,Mason Bad Pass Turnover (P1.T7),,8:43,2,4,5,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Hill STEAL (2 STL),2:49 PM
+134,1,2,149,0020000311,,,8:36,2,5,0,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Miller 19' Jump Shot,2:49 PM
+135,0,4,150,0020000311,Baker REBOUND (Off:0 Def:3),,8:34,2,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:49 PM
+136,2,6,151,0020000311,,,8:25,2,5,0,1,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Garrity S.FOUL (P1.T2),2:49 PM
+137,4,9,152,0020000311,,,8:25,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,2:49 PM
+138,11,3,154,0020000311,Patterson Free Throw 1 of 2 (2 PTS),,8:25,2,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,34 - 29,-5,,2:52 PM
+139,12,3,155,0020000311,Patterson Free Throw 2 of 2 (3 PTS),,8:25,2,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,34 - 30,-4,,2:52 PM
+140,1,6,156,0020000311,Baker P.FOUL (P2.T1),,8:08,2,4,0,1,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:52 PM
+141,2,6,157,0020000311,Mason S.FOUL (P1.T2),,8:01,2,4,0,1,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:53 PM
+142,11,3,158,0020000311,,,8:01,2,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,35 - 30,-5,Hill Free Throw 1 of 2 (5 PTS),2:53 PM
+143,12,3,159,0020000311,,,8:01,2,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,36 - 30,-6,Hill Free Throw 2 of 2 (6 PTS),2:53 PM
+144,1,2,161,0020000311,MISS Mason 14' Jump Shot,,7:39,2,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:54 PM
+145,0,4,162,0020000311,Baker REBOUND (Off:1 Def:3),,7:38,2,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:54 PM
+146,1,6,163,0020000311,,,7:38,2,5,0,1,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Miller P.FOUL (P2.T3),2:54 PM
+147,1,2,164,0020000311,MISS Williams 17' Jump Shot,,7:27,2,4,0,0,1742,Shammond Williams,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:55 PM
+148,0,4,165,0020000311,Mason REBOUND (Off:1 Def:1),,7:25,2,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:55 PM
+149,5,1,166,0020000311,Mason  Layup (4 PTS) (Patterson 1 AST),,7:17,2,4,4,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,36 - 32,-4,,2:55 PM
+150,5,1,167,0020000311,,,7:09,2,5,5,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,38 - 32,-6,Amaechi 3' Layup (4 PTS) (Hill 3 AST),2:55 PM
+151,1,2,168,0020000311,MISS Mason 17' Jump Shot,,6:51,2,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:55 PM
+152,0,4,169,0020000311,,,6:49,2,5,0,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Miller REBOUND (Off:0 Def:1),2:55 PM
+153,44,1,170,0020000311,,,6:40,2,5,5,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,40 - 32,-8,Outlaw  Reverse Layup (4 PTS) (Amaechi 2 AST),2:56 PM
+154,2,6,171,0020000311,Barry S.FOUL (P1.T3),,6:40,2,4,0,1,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:56 PM
+155,0,8,172,0020000311,,,6:40,2,5,5,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: McGrady FOR Miller,2:56 PM
+156,10,3,173,0020000311,,,6:40,2,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,41 - 32,-9,Outlaw Free Throw 1 of 1 (5 PTS),2:56 PM
+157,44,1,174,0020000311,Patterson  Reverse Layup (5 PTS) (Barry 2 AST),,6:24,2,4,4,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,41 - 34,-7,,2:57 PM
+158,1,2,175,0020000311,,,6:13,2,5,0,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Garrity 24' 3PT Jump Shot,2:57 PM
+159,0,4,176,0020000311,Barry REBOUND (Off:0 Def:1),,6:11,2,4,0,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:57 PM
+160,42,1,177,0020000311,Patterson  Driving Layup (7 PTS) (Barry 3 AST),,6:09,2,4,4,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,41 - 36,-5,,2:57 PM
+161,2,6,178,0020000311,,,6:09,2,5,0,1,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Garrity S.FOUL (P2.T4),2:57 PM
+162,0,8,179,0020000311,SUB: Payton FOR Barry,,6:09,2,4,4,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,2:57 PM
+163,0,8,191,0020000311,,,6:09,2,5,5,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Armstrong FOR Garrity,2:57 PM
+164,10,3,180,0020000311,Patterson Free Throw 1 of 1 (8 PTS),,6:09,2,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,41 - 37,-4,,2:57 PM
+165,1,2,181,0020000311,,,5:55,2,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 5' Jump Shot,2:58 PM
+166,0,4,182,0020000311,Payton REBOUND (Off:0 Def:2),,5:53,2,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:58 PM
+167,42,2,183,0020000311,MISS Mason 2' Driving Layup,,5:49,2,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:58 PM
+168,0,4,184,0020000311,,,5:46,2,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Amaechi REBOUND (Off:0 Def:1),2:58 PM
+169,1,6,185,0020000311,Payton P.FOUL (P2.T4),,5:32,2,4,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:58 PM
+170,1,9,187,0020000311,SUPERSONICS Timeout: Regular (Full 2 Short 0),,5:32,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,2:58 PM
+171,11,6,189,0020000311,Payton T.FOUL (P2.T4),,5:32,2,4,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,2:58 PM
+172,16,3,231,0020000311,,,5:32,2,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,42 - 37,-5,Armstrong Free Throw Technical (11 PTS),2:58 PM
+173,0,8,193,0020000311,SUB: Ewing FOR Patterson,,5:32,2,4,4,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,3:01 PM
+174,0,8,194,0020000311,SUB: Davis FOR Mason,,5:32,2,4,4,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,3:01 PM
+175,1,1,196,0020000311,,,5:18,2,5,5,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,44 - 37,-7,Armstrong 6' Jump Shot (13 PTS) (Amaechi 3 AST),3:03 PM
+176,1,6,198,0020000311,,,5:08,2,5,0,1,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw P.FOUL (P1.PN),3:03 PM
+177,11,3,200,0020000311,Baker Free Throw 1 of 2 (1 PTS),,5:08,2,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,44 - 38,-6,,3:03 PM
+178,12,3,201,0020000311,Baker Free Throw 2 of 2 (2 PTS),,5:08,2,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,44 - 39,-5,,3:03 PM
+179,1,2,203,0020000311,,,5:01,2,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 25' 3PT Jump Shot,3:04 PM
+180,0,4,204,0020000311,Davis REBOUND (Off:0 Def:1),,4:59,2,4,0,0,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:04 PM
+181,5,1,205,0020000311,Payton  Layup (10 PTS),,4:52,2,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,44 - 41,-3,,3:04 PM
+182,42,1,206,0020000311,,,4:45,2,5,5,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,46 - 41,-5,Outlaw  Driving Layup (7 PTS) (Armstrong 2 AST),3:04 PM
+183,1,5,207,0020000311,Payton Bad Pass Turnover (P1.T8),,4:41,2,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:04 PM
+184,0,8,208,0020000311,SUB: Lewis FOR Williams,,4:41,2,4,4,0,1742,Shammond Williams,SEA,Seattle,1610612760.0,SuperSonics,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,3:04 PM
+185,5,1,209,0020000311,,,4:27,2,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,48 - 41,-7,Amaechi  Layup (6 PTS),3:05 PM
+186,42,1,211,0020000311,Ewing  Driving Layup (6 PTS),,4:05,2,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,48 - 43,-5,,3:05 PM
+187,2,6,212,0020000311,Baker S.FOUL (P3.PN),,3:58,2,4,0,1,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:05 PM
+188,11,3,213,0020000311,,,3:58,2,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady Free Throw 1 of 2,3:05 PM
+189,1,4,214,0020000311,,,3:58,2,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,3:05 PM
+190,0,8,215,0020000311,SUB: McCoy FOR Baker,,3:58,2,4,4,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,3:06 PM
+191,12,3,216,0020000311,,,3:58,2,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,49 - 43,-6,McGrady Free Throw 2 of 2 (5 PTS),3:06 PM
+192,1,1,218,0020000311,Davis  3PT Jump Shot (3 PTS) (Payton 2 AST),,3:45,2,4,4,0,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,49 - 46,-3,,3:06 PM
+193,42,1,220,0020000311,,,3:27,2,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,51 - 46,-5,Amaechi  Driving Layup (8 PTS),3:07 PM
+194,1,1,221,0020000311,Payton 18' Jump Shot (12 PTS) (Lewis 1 AST),,3:05,2,4,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,51 - 48,-3,,3:07 PM
+195,1,1,223,0020000311,,,2:43,2,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,53 - 48,-5,McGrady 14' Jump Shot (7 PTS),3:08 PM
+196,46,1,224,0020000311,Lewis 3' Running Jump Shot (9 PTS) (Payton 3 AST),,2:33,2,4,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,53 - 50,-3,,3:08 PM
+197,1,2,225,0020000311,,,2:14,2,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 9' Jump Shot,3:08 PM
+198,0,4,226,0020000311,,,2:12,2,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:1 Def:1),3:08 PM
+199,2,6,227,0020000311,Lewis S.FOUL (P1.PN),,2:12,2,4,0,1,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:08 PM
+200,11,3,233,0020000311,,,2:12,2,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady Free Throw 1 of 2,3:11 PM
+201,1,4,234,0020000311,,,2:12,2,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,3:11 PM
+202,12,3,235,0020000311,,,2:12,2,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,54 - 50,-4,McGrady Free Throw 2 of 2 (8 PTS),3:11 PM
+203,2,5,237,0020000311,Payton Lost Ball Turnover (P2.T9),,2:00,2,4,5,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Armstrong STEAL (1 STL),3:11 PM
+204,1,1,238,0020000311,,,1:54,2,5,5,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,56 - 50,-6,Armstrong 16' Jump Shot (15 PTS) (Hill 4 AST),3:12 PM
+205,4,6,240,0020000311,McCoy OFF.Foul (P2),,1:35,2,4,0,1,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:12 PM
+206,5,5,241,0020000311,McCoy Foul Turnover (P2.T10),,1:35,2,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:12 PM
+207,1,5,242,0020000311,Lewis STEAL (1 STL),,1:23,2,5,4,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Hill Bad Pass Turnover (P2.T7),3:12 PM
+208,5,2,243,0020000311,MISS Lewis  Layup,,1:17,2,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:12 PM
+209,0,4,244,0020000311,McCoy REBOUND (Off:5 Def:1),,1:16,2,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:12 PM
+210,5,2,245,0020000311,MISS McCoy 1' Layup,,1:14,2,4,0,5,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,,,Outlaw BLOCK (3 BLK),3:12 PM
+211,0,4,247,0020000311,SUPERSONICS Rebound,,1:14,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,3:12 PM
+212,46,1,249,0020000311,Ewing 3' Running Jump Shot (8 PTS) (Payton 4 AST),,1:03,2,4,4,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,56 - 52,-4,,3:13 PM
+213,2,6,250,0020000311,,,1:03,2,5,0,1,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Amaechi S.FOUL (P1.PN),3:13 PM
+214,10,3,251,0020000311,MISS Ewing Free Throw 1 of 1,,1:03,2,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:13 PM
+215,0,4,252,0020000311,,,1:02,2,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:2 Def:5),3:13 PM
+216,1,2,253,0020000311,,,0:53,2,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Amaechi 19' Jump Shot,3:14 PM
+217,0,4,254,0020000311,,,0:50,2,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Armstrong REBOUND (Off:1 Def:2),3:14 PM
+218,1,1,255,0020000311,,,0:46,2,5,5,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,58 - 52,-6,McGrady 13' Jump Shot (10 PTS) (Hill 5 AST),3:14 PM
+219,1,2,256,0020000311,MISS McCoy 3' Jump Shot,,0:37,2,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:14 PM
+220,0,4,258,0020000311,Ewing REBOUND (Off:1 Def:0),,0:35,2,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:14 PM
+221,4,2,257,0020000311,MISS Ewing  Tip Shot,,0:35,2,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:14 PM
+222,0,4,259,0020000311,SUPERSONICS Rebound,,0:34,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,3:14 PM
+223,1,2,260,0020000311,MISS Lewis 14' Jump Shot,,0:28,2,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:14 PM
+224,0,4,261,0020000311,McCoy REBOUND (Off:6 Def:1),,0:25,2,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:14 PM
+225,5,2,262,0020000311,MISS McCoy 3' Layup,,0:23,2,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:14 PM
+226,0,4,263,0020000311,,,0:21,2,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Hill REBOUND (Off:1 Def:1),3:14 PM
+227,1,2,264,0020000311,,,0:15,2,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 25' 3PT Jump Shot,3:14 PM
+228,0,4,265,0020000311,Ewing REBOUND (Off:1 Def:1),,0:13,2,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:14 PM
+229,1,6,267,0020000311,,,0:03,2,5,0,1,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Armstrong P.FOUL (P2.PN),3:15 PM
+230,11,3,268,0020000311,MISS Payton Free Throw 1 of 2,,0:03,2,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:15 PM
+231,1,4,269,0020000311,SUPERSONICS Rebound,,0:03,2,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,3:15 PM
+232,0,8,270,0020000311,,,0:03,2,5,5,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Hudson FOR Armstrong,3:15 PM
+233,0,8,271,0020000311,,,0:03,2,5,5,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Garrity FOR Outlaw,3:15 PM
+234,0,8,272,0020000311,SUB: Patterson FOR McCoy,,0:03,2,4,4,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,3:15 PM
+235,12,3,273,0020000311,Payton Free Throw 2 of 2 (13 PTS),,0:03,2,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,58 - 53,-5,,3:15 PM
+236,1,2,274,0020000311,,,0:00,2,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 15' Jump Shot,3:16 PM
+237,0,4,275,0020000311,Ewing REBOUND (Off:1 Def:2),,0:00,2,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:16 PM
+238,0,13,276,0020000311,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,58 - 53,-5,,3:16 PM
+239,0,12,278,0020000311,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,58 - 53,-5,,3:33 PM
+240,1,1,279,0020000311,,,11:44,3,5,5,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,61 - 53,-8,Armstrong 25' 3PT Jump Shot (18 PTS) (Doleac 1 AST),3:34 PM
+241,1,2,280,0020000311,MISS Lewis 18' Jump Shot,,11:23,3,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:34 PM
+242,0,4,281,0020000311,McCoy REBOUND (Off:7 Def:1),,11:21,3,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:34 PM
+243,5,1,282,0020000311,Ewing  Layup (10 PTS) (Lewis 2 AST),,11:16,3,4,4,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,61 - 55,-6,,3:34 PM
+244,1,1,283,0020000311,,,11:06,3,5,5,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,63 - 55,-8,Doleac 21' Jump Shot (8 PTS) (Hill 6 AST),3:35 PM
+245,1,6,284,0020000311,,,10:52,3,5,0,1,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Doleac P.FOUL (P2.T1),3:35 PM
+246,1,1,285,0020000311,Ewing 11' Jump Shot (12 PTS) (Payton 5 AST),,10:39,3,4,4,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,63 - 57,-6,,3:35 PM
+247,1,2,286,0020000311,,,10:26,3,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Doleac 18' Jump Shot,3:36 PM
+248,0,4,287,0020000311,Lewis REBOUND (Off:2 Def:5),,10:23,3,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:36 PM
+249,1,2,288,0020000311,MISS McCoy 4' Jump Shot,,10:17,3,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:36 PM
+250,0,4,289,0020000311,,,10:15,3,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Doleac REBOUND (Off:0 Def:3),3:36 PM
+251,2,6,290,0020000311,McCoy S.FOUL (P3.T1),,10:08,3,4,0,1,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:36 PM
+252,11,3,291,0020000311,,,10:08,3,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,64 - 57,-7,Hill Free Throw 1 of 2 (7 PTS),3:36 PM
+253,12,3,292,0020000311,,,10:08,3,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Hill Free Throw 2 of 2,3:36 PM
+254,0,4,293,0020000311,Ewing REBOUND (Off:1 Def:3),,10:07,3,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:36 PM
+255,5,2,294,0020000311,MISS Ewing 2' Layup,,9:50,3,4,0,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:37 PM
+256,0,4,295,0020000311,,,9:48,3,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Armstrong REBOUND (Off:1 Def:3),3:37 PM
+257,1,5,296,0020000311,Lewis STEAL (2 STL),,9:44,3,5,4,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Outlaw Bad Pass Turnover (P1.T8),3:37 PM
+258,1,6,297,0020000311,,,9:31,3,5,0,1,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Doleac P.FOUL (P3.T2),3:37 PM
+259,1,1,298,0020000311,Davis 16' Jump Shot (5 PTS),,9:21,3,4,0,0,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,64 - 59,-5,,3:38 PM
+260,1,2,299,0020000311,,,9:05,3,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 26' 3PT Jump Shot,3:38 PM
+261,0,4,300,0020000311,Davis REBOUND (Off:0 Def:2),,9:02,3,4,0,0,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:38 PM
+262,1,2,301,0020000311,MISS Payton 5' Jump Shot,,8:59,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:38 PM
+263,0,4,302,0020000311,,,8:57,3,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:2 Def:6),3:38 PM
+264,2,5,303,0020000311,Lewis STEAL (3 STL),,8:48,3,5,4,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,McGrady Lost Ball Turnover (P3.T9),3:38 PM
+265,42,1,304,0020000311,Lewis  Driving Layup (11 PTS) (Davis 3 AST),,8:43,3,4,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,64 - 61,-3,,3:38 PM
+266,2,6,305,0020000311,,,8:43,3,5,0,1,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw S.FOUL (P2.T3),3:38 PM
+267,10,3,306,0020000311,Lewis Free Throw 1 of 1 (12 PTS),,8:43,3,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,64 - 62,-2,,3:39 PM
+268,1,2,307,0020000311,Ewing BLOCK (1 BLK),,8:30,3,5,0,4,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Hill 4' Jump Shot,3:39 PM
+269,0,4,308,0020000311,McCoy REBOUND (Off:7 Def:2),,8:28,3,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:39 PM
+270,1,6,309,0020000311,,,8:28,3,5,0,1,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Armstrong P.FOUL (P3.T4),3:39 PM
+271,11,6,310,0020000311,,,8:28,3,5,0,1,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw T.FOUL (P2.T4),3:40 PM
+272,16,3,311,0020000311,MISS Payton Free Throw Technical,,8:28,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:40 PM
+273,1,4,312,0020000311,SUPERSONICS Rebound,,8:28,3,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,3:40 PM
+274,1,1,313,0020000311,Ewing 7' Jump Shot (14 PTS) (Davis 4 AST),,8:07,3,4,4,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,64 - 64,TIE,,3:40 PM
+275,1,1,315,0020000311,,,7:53,3,5,5,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,66 - 64,-2,Doleac 19' Jump Shot (10 PTS) (Armstrong 3 AST),3:41 PM
+276,1,6,316,0020000311,,,7:37,3,5,0,1,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Doleac P.FOUL (P4.PN),3:41 PM
+277,11,3,317,0020000311,MISS Payton Free Throw 1 of 2,,7:37,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:41 PM
+278,1,4,318,0020000311,SUPERSONICS Rebound,,7:37,3,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,3:41 PM
+279,0,8,319,0020000311,,,7:37,3,5,5,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Amaechi FOR Doleac,3:41 PM
+280,12,3,320,0020000311,Payton Free Throw 2 of 2 (14 PTS),,7:37,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,66 - 65,-1,,3:41 PM
+281,1,6,321,0020000311,Ewing P.FOUL (P1.T2),,7:24,3,4,0,1,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:42 PM
+282,1,1,323,0020000311,,,7:17,3,5,5,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,68 - 65,-3,McGrady 12' Jump Shot (12 PTS) (Outlaw 1 AST),3:42 PM
+283,1,5,324,0020000311,Payton Bad Pass Turnover (P3.T11),,7:07,3,4,5,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Armstrong STEAL (2 STL),3:43 PM
+284,1,6,325,0020000311,Davis P.FOUL (P1.T3),,6:53,3,4,0,1,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:43 PM
+285,1,1,326,0020000311,,,6:46,3,5,5,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,70 - 65,-5,McGrady 18' Jump Shot (14 PTS) (Outlaw 2 AST),3:43 PM
+286,1,2,327,0020000311,MISS Payton 16' Jump Shot,,6:33,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:44 PM
+287,0,4,328,0020000311,McCoy REBOUND (Off:8 Def:2),,6:31,3,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:44 PM
+288,1,6,329,0020000311,,,6:30,3,5,0,1,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Armstrong P.FOUL (P4.PN),3:44 PM
+289,11,3,330,0020000311,McCoy Free Throw 1 of 2 (5 PTS),,6:30,3,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,70 - 66,-4,,3:44 PM
+290,0,8,331,0020000311,,,6:30,3,5,5,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Miller FOR Armstrong,3:44 PM
+291,12,3,332,0020000311,MISS McCoy Free Throw 2 of 2,,6:30,3,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:44 PM
+292,0,4,333,0020000311,,,6:30,3,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:2 Def:7),3:44 PM
+293,5,1,334,0020000311,,,6:12,3,5,5,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,72 - 66,-6,McGrady 2' Layup (16 PTS) (Hill 7 AST),3:45 PM
+294,5,2,335,0020000311,MISS McCoy 2' Layup,,6:02,3,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:45 PM
+295,0,4,336,0020000311,McCoy REBOUND (Off:9 Def:2),,6:00,3,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:45 PM
+296,5,1,337,0020000311,McCoy  Layup (7 PTS),,5:59,3,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,72 - 68,-4,,3:45 PM
+297,1,6,339,0020000311,Ewing P.FOUL (P2.T4),,5:36,3,4,0,1,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:45 PM
+298,1,9,341,0020000311,SUPERSONICS Timeout: Regular (Full 3 Short 0),,5:36,3,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,3:45 PM
+299,0,8,342,0020000311,SUB: Baker FOR Ewing,,5:36,3,4,4,0,121,Patrick Ewing,SEA,Seattle,1610612760.0,SuperSonics,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,3:47 PM
+300,11,5,343,0020000311,,,5:21,3,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Turnover: Shot Clock (T#10),3:48 PM
+301,1,2,344,0020000311,MISS Payton 4' Jump Shot,,5:08,3,4,0,5,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,,,Amaechi BLOCK (1 BLK),3:48 PM
+302,0,4,345,0020000311,,,5:05,3,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Amaechi REBOUND (Off:0 Def:2),3:48 PM
+303,1,2,346,0020000311,,,4:59,3,5,0,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Miller 26' 3PT Jump Shot,3:49 PM
+304,0,4,347,0020000311,McCoy REBOUND (Off:9 Def:3),,4:57,3,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:49 PM
+305,11,5,348,0020000311,SUPERSONICS Turnover: Shot Clock (T#12),,4:33,3,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,3:49 PM
+306,1,2,349,0020000311,,,4:21,3,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 18' Jump Shot,3:49 PM
+307,0,4,350,0020000311,Lewis REBOUND (Off:2 Def:6),,4:19,3,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:49 PM
+308,4,6,351,0020000311,Baker OFF.Foul (P4),,4:13,3,4,0,1,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:50 PM
+309,5,5,352,0020000311,Baker Foul Turnover (P1.T13),,4:13,3,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:50 PM
+310,1,2,353,0020000311,,,3:53,3,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Hill 12' Jump Shot,3:50 PM
+311,0,4,355,0020000311,,,3:51,3,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:3 Def:7),3:50 PM
+312,4,2,354,0020000311,,,3:51,3,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Outlaw  Tip Shot,3:50 PM
+313,0,4,356,0020000311,,,3:48,3,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Hill REBOUND (Off:2 Def:1),3:50 PM
+314,1,6,357,0020000311,Payton P.FOUL (P3.PN),,3:48,3,4,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:50 PM
+315,11,3,358,0020000311,,,3:48,3,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,73 - 68,-5,Hill Free Throw 1 of 2 (8 PTS),3:51 PM
+316,12,3,359,0020000311,,,3:48,3,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,74 - 68,-6,Hill Free Throw 2 of 2 (9 PTS),3:51 PM
+317,1,2,360,0020000311,MISS Lewis 11' Jump Shot,,3:35,3,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:51 PM
+318,0,4,361,0020000311,,,3:34,3,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,3:51 PM
+319,0,8,362,0020000311,,,3:34,3,5,5,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Garrity FOR Hill,3:51 PM
+320,5,2,363,0020000311,,,3:27,3,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 3' Layup,3:52 PM
+321,0,4,364,0020000311,McCoy REBOUND (Off:9 Def:4),,3:25,3,4,0,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:52 PM
+322,2,6,365,0020000311,,,3:12,3,5,0,1,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw S.FOUL (P3.PN),3:52 PM
+323,0,8,366,0020000311,SUB: Patterson FOR McCoy,,3:12,3,4,4,0,1741,Jelani McCoy,SEA,Seattle,1610612760.0,SuperSonics,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,3:52 PM
+324,11,3,367,0020000311,Lewis Free Throw 1 of 2 (13 PTS),,3:12,3,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,74 - 69,-5,,3:52 PM
+325,12,3,368,0020000311,Lewis Free Throw 2 of 2 (14 PTS),,3:12,3,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,74 - 70,-4,,3:53 PM
+326,5,2,369,0020000311,Baker BLOCK (1 BLK),,2:54,3,5,0,4,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Amaechi 3' Layup,3:53 PM
+327,0,4,370,0020000311,Davis REBOUND (Off:0 Def:3),,2:51,3,4,0,0,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:53 PM
+328,42,1,371,0020000311,Patterson  Driving Layup (10 PTS) (Davis 5 AST),,2:48,3,4,4,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,74 - 72,-2,,3:53 PM
+329,1,5,372,0020000311,Patterson STEAL (2 STL),,2:26,3,5,4,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Amaechi Bad Pass Turnover (P1.T11),3:54 PM
+330,2,5,373,0020000311,Patterson Lost Ball Turnover (P3.T14),,2:21,3,4,5,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,McGrady STEAL (1 STL),3:54 PM
+331,2,6,374,0020000311,Lewis S.FOUL (P2.PN),,2:17,3,4,0,1,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:54 PM
+332,1,9,375,0020000311,,,2:17,3,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.2 Short 0),3:54 PM
+333,0,8,377,0020000311,SUB: Barry FOR Davis,,2:17,3,4,4,0,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,3:56 PM
+334,11,3,378,0020000311,,,2:17,3,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,75 - 72,-3,Amaechi Free Throw 1 of 2 (9 PTS),3:56 PM
+335,0,8,380,0020000311,,,2:17,3,5,5,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Williams FOR Outlaw,3:57 PM
+336,12,3,381,0020000311,,,2:17,3,5,0,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Amaechi Free Throw 2 of 2,3:57 PM
+337,0,4,382,0020000311,Lewis REBOUND (Off:2 Def:7),,2:15,3,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:57 PM
+338,1,1,383,0020000311,Patterson 5' Jump Shot (12 PTS) (Payton 6 AST),,1:54,3,4,4,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,75 - 74,-1,,3:57 PM
+339,2,5,384,0020000311,Barry STEAL (1 STL),,1:32,3,5,4,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Garrity Lost Ball Turnover (P1.T12),3:58 PM
+340,5,1,385,0020000311,Baker  Layup (4 PTS) (Barry 4 AST),,1:27,3,4,4,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,75 - 76,1,,3:58 PM
+341,1,2,386,0020000311,,,1:04,3,5,0,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Miller 6' Jump Shot,3:58 PM
+342,0,4,387,0020000311,Lewis REBOUND (Off:2 Def:8),,1:01,3,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:58 PM
+343,1,2,388,0020000311,MISS Payton 13' Jump Shot,,0:52,3,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:58 PM
+344,0,4,389,0020000311,Patterson REBOUND (Off:1 Def:1),,0:49,3,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:58 PM
+345,21,5,390,0020000311,Barry Palming Turnover (P1.T15),,0:43,3,4,0,1,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:59 PM
+346,0,8,391,0020000311,,,0:43,3,5,5,0,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Hudson FOR Miller,3:59 PM
+347,0,8,393,0020000311,SUB: Mason FOR Lewis,,0:43,3,4,4,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,3:59 PM
+348,1,2,394,0020000311,,,0:28,3,5,0,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Garrity 17' Jump Shot,3:59 PM
+349,0,4,395,0020000311,Baker REBOUND (Off:1 Def:4),,0:26,3,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,3:59 PM
+350,1,2,396,0020000311,MISS Patterson 5' Jump Shot,,0:03,3,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:00 PM
+351,0,4,397,0020000311,,,0:01,3,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:1 Def:2),4:00 PM
+352,0,13,398,0020000311,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,75 - 76,1,,4:00 PM
+353,0,12,400,0020000311,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,75 - 76,1,,4:02 PM
+354,1,1,401,0020000311,Barry 25' 3PT Jump Shot (5 PTS) (Payton 7 AST),,11:41,4,4,4,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,75 - 79,4,,4:03 PM
+355,2,5,402,0020000311,Patterson STEAL (3 STL),,11:23,4,5,4,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,Hill Lost Ball Turnover (P3.T13),4:03 PM
+356,2,5,403,0020000311,Patterson Lost Ball Turnover (P4.T16),,11:06,4,4,5,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Amaechi STEAL (1 STL),4:04 PM
+357,1,2,404,0020000311,,,11:02,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 10' Jump Shot,4:04 PM
+358,0,4,405,0020000311,Payton REBOUND (Off:0 Def:3),,11:00,4,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:04 PM
+359,1,2,406,0020000311,MISS Mason 20' Jump Shot,,10:39,4,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:04 PM
+360,0,4,407,0020000311,,,10:38,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Armstrong REBOUND (Off:1 Def:4),4:04 PM
+361,1,2,408,0020000311,Baker BLOCK (2 BLK),,10:23,4,5,0,4,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,0,,,,,,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Williams 6' Jump Shot,4:04 PM
+362,0,4,409,0020000311,Payton REBOUND (Off:0 Def:4),,10:20,4,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:05 PM
+363,2,6,410,0020000311,,,10:07,4,5,0,1,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Garrity S.FOUL (P3.T1),4:05 PM
+364,11,3,411,0020000311,Patterson Free Throw 1 of 2 (13 PTS),,10:07,4,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,75 - 80,5,,4:05 PM
+365,0,8,412,0020000311,,,10:07,4,5,5,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: McGrady FOR Garrity,4:05 PM
+366,0,8,413,0020000311,,,10:07,4,5,5,0,42,Monty Williams,ORL,Orlando,1610612753.0,Magic,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Outlaw FOR Williams,4:06 PM
+367,12,3,414,0020000311,Patterson Free Throw 2 of 2 (14 PTS),,10:07,4,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,75 - 81,6,,4:06 PM
+368,1,2,415,0020000311,,,9:55,4,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Hill 13' Jump Shot,4:06 PM
+369,0,4,416,0020000311,Baker REBOUND (Off:1 Def:5),,9:52,4,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:06 PM
+370,5,1,417,0020000311,Baker  Layup (6 PTS) (Patterson 2 AST),,9:37,4,4,4,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,75 - 83,8,,4:06 PM
+371,1,9,418,0020000311,,,9:34,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.3 Short 0),4:06 PM
+372,0,8,420,0020000311,,,9:34,4,5,5,0,680,John Amaechi,ORL,Orlando,1610612753.0,Magic,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Doleac FOR Amaechi,4:09 PM
+373,17,6,423,0020000311,SUPERSONICS Foul,,9:26,4,2,0,1,1610612760,,,,,,0,,,,,,0,,,,,,,,,4:09 PM
+374,16,3,424,0020000311,,,9:26,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,76 - 83,7,Armstrong Free Throw Technical (19 PTS),4:10 PM
+375,1,1,425,0020000311,,,9:19,4,5,5,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,78 - 83,5,McGrady 11' Jump Shot (18 PTS) (Doleac 2 AST),4:10 PM
+376,1,2,427,0020000311,MISS Patterson 5' Jump Shot,,8:58,4,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:10 PM
+377,0,4,428,0020000311,Mason REBOUND (Off:2 Def:1),,8:56,4,4,0,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:10 PM
+378,1,1,429,0020000311,Payton 25' 3PT Jump Shot (17 PTS) (Mason 1 AST),,8:54,4,4,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,78 - 86,8,,4:10 PM
+379,4,6,431,0020000311,,,8:33,4,5,0,1,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw OFF.Foul (P4),4:11 PM
+380,5,5,432,0020000311,,,8:33,4,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw Foul Turnover (P2.T14),4:11 PM
+381,45,2,434,0020000311,MISS Baker  Jump Shot,,8:14,4,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:11 PM
+382,0,4,435,0020000311,,,8:14,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,4:11 PM
+383,1,6,436,0020000311,Payton P.FOUL (P4.T1),,8:14,4,4,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:11 PM
+384,1,6,437,0020000311,Payton P.FOUL (P5.T2),,8:03,4,4,0,1,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:12 PM
+385,0,8,438,0020000311,SUB: Lewis FOR Patterson,,8:03,4,4,4,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,4:12 PM
+386,1,2,440,0020000311,,,7:51,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 27' 3PT Jump Shot,4:12 PM
+387,0,4,441,0020000311,,,7:51,4,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:4 Def:7),4:13 PM
+388,5,1,442,0020000311,,,7:51,4,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,80 - 86,6,Outlaw  Layup (9 PTS),4:13 PM
+389,1,2,443,0020000311,MISS Baker 13' Jump Shot,,7:28,4,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:13 PM
+390,0,4,444,0020000311,,,7:27,4,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:4 Def:8),4:13 PM
+391,1,2,445,0020000311,,,7:05,4,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 17' Jump Shot,4:13 PM
+392,0,4,446,0020000311,,,7:02,4,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:5 Def:8),4:14 PM
+393,1,1,447,0020000311,,,6:48,4,5,5,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,83 - 86,3,Armstrong 25' 3PT Jump Shot (22 PTS) (Hill 8 AST),4:14 PM
+394,1,9,448,0020000311,SUPERSONICS Timeout: Regular (Full 4 Short 0),,6:45,4,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,4:14 PM
+395,0,8,451,0020000311,SUB: Davis FOR Payton,,6:45,4,4,4,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,4:16 PM
+396,0,8,452,0020000311,SUB: Patterson FOR Mason,,6:45,4,4,4,0,2046,Desmond Mason,SEA,Seattle,1610612760.0,SuperSonics,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,4:17 PM
+397,3,1,453,0020000311,Patterson 5' Hook Shot (16 PTS),,6:28,4,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,83 - 88,5,,4:17 PM
+398,1,2,454,0020000311,,,6:04,4,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Hill 11' Jump Shot,4:17 PM
+399,0,4,455,0020000311,,,6:02,4,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady REBOUND (Off:2 Def:2),4:17 PM
+400,5,1,456,0020000311,,,6:01,4,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,85 - 88,3,McGrady  Layup (20 PTS),4:17 PM
+401,1,6,457,0020000311,,,5:42,4,5,0,1,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw P.FOUL (P5.T2),4:18 PM
+402,1,2,458,0020000311,MISS Patterson 3' Jump Shot,,5:27,4,4,0,5,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,,,Doleac BLOCK (3 BLK),4:18 PM
+403,0,4,459,0020000311,SUPERSONICS Rebound,,5:27,4,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,4:18 PM
+404,11,5,460,0020000311,SUPERSONICS Turnover: Shot Clock (T#17),,5:27,4,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,4:18 PM
+405,1,2,462,0020000311,,,5:04,4,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 19' Jump Shot,4:19 PM
+406,0,4,463,0020000311,Baker REBOUND (Off:1 Def:6),,5:02,4,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:19 PM
+407,1,2,464,0020000311,MISS Lewis  3PT Jump Shot,,4:48,4,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:19 PM
+408,0,4,465,0020000311,,,4:45,4,5,0,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Hill REBOUND (Off:2 Def:2),4:19 PM
+409,1,1,466,0020000311,,,4:27,4,5,5,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,87 - 88,1,Doleac 22' Jump Shot (12 PTS) (McGrady 3 AST),4:19 PM
+410,2,7,467,0020000311,,,4:09,4,3,0,1,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Violation: Def. Goaltending Violation,4:20 PM
+411,0,8,468,0020000311,SUB: Payton FOR Barry,,4:09,4,4,4,0,699,Brent Barry,SEA,Seattle,1610612760.0,SuperSonics,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,,,,4:20 PM
+412,1,5,470,0020000311,Davis Bad Pass Turnover (P2.T18),,3:59,4,4,0,0,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:20 PM
+413,1,2,471,0020000311,Payton BLOCK (1 BLK),,3:49,4,5,0,4,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,,,MISS Armstrong 25' 3PT Jump Shot,4:21 PM
+414,0,4,472,0020000311,,,3:49,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,4:21 PM
+415,1,2,473,0020000311,,,3:38,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 24' 3PT Jump Shot,4:22 PM
+416,0,4,474,0020000311,Baker REBOUND (Off:1 Def:7),,3:36,4,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:22 PM
+417,1,2,475,0020000311,MISS Baker 4' Jump Shot,,3:22,4,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:22 PM
+418,0,4,476,0020000311,,,3:21,4,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Doleac REBOUND (Off:0 Def:4),4:22 PM
+419,1,2,477,0020000311,,,3:01,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 12' Jump Shot,4:22 PM
+420,0,4,478,0020000311,Baker REBOUND (Off:1 Def:8),,2:59,4,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:22 PM
+421,1,6,479,0020000311,,,2:46,4,5,0,1,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Armstrong P.FOUL (P5.T3),4:23 PM
+422,4,9,481,0020000311,,,2:46,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,4:23 PM
+423,42,1,485,0020000311,Payton 3' Driving Layup (19 PTS),,2:38,4,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,87 - 90,3,,4:25 PM
+424,1,2,486,0020000311,,,2:14,4,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS McGrady 14' Jump Shot,4:25 PM
+425,0,4,487,0020000311,,,2:12,4,5,0,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Outlaw REBOUND (Off:6 Def:8),4:25 PM
+426,1,2,488,0020000311,,,1:58,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 14' Jump Shot,4:26 PM
+427,0,4,489,0020000311,Patterson REBOUND (Off:1 Def:2),,1:56,4,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:26 PM
+428,1,2,490,0020000311,MISS Payton 6' Jump Shot,,1:40,4,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:26 PM
+429,0,4,491,0020000311,Baker REBOUND (Off:2 Def:8),,1:39,4,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:26 PM
+430,1,6,493,0020000311,,,1:39,4,5,0,1,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Doleac P.FOUL (P5.T4),4:26 PM
+431,11,3,494,0020000311,Baker Free Throw 1 of 2 (7 PTS),,1:39,4,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,87 - 91,4,,4:26 PM
+432,12,3,495,0020000311,Baker Free Throw 2 of 2 (8 PTS),,1:39,4,4,0,0,452,Vin Baker,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,87 - 92,5,,4:27 PM
+433,1,9,496,0020000311,,,1:39,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.4 Short 0),4:27 PM
+434,1,6,498,0020000311,Patterson P.FOUL (P1.T3),,1:30,4,4,0,1,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:29 PM
+435,1,5,499,0020000311,,,1:15,4,5,0,0,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady Bad Pass Turnover (P4.T15),4:30 PM
+436,1,1,500,0020000311,Payton 6' Jump Shot (21 PTS),,0:58,4,4,0,0,56,Gary Payton,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,87 - 94,7,,4:31 PM
+437,1,9,501,0020000311,,,0:58,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Regular (Reg.5 Short 0),4:31 PM
+438,0,8,503,0020000311,,,0:58,4,5,5,0,255,Grant Hill,ORL,Orlando,1610612753.0,Magic,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Garrity FOR Hill,4:32 PM
+439,0,8,504,0020000311,,,0:58,4,5,5,0,448,Bo Outlaw,ORL,Orlando,1610612753.0,Magic,2034,Mike Miller,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Miller FOR Outlaw,4:32 PM
+440,1,1,505,0020000311,,,0:53,4,5,5,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,90 - 94,4,Armstrong 26' 3PT Jump Shot (25 PTS) (McGrady 4 AST),4:33 PM
+441,2,6,506,0020000311,,,0:33,4,5,0,1,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady S.FOUL (P2.PN),4:33 PM
+442,11,3,507,0020000311,Lewis Free Throw 1 of 2 (15 PTS),,0:33,4,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,90 - 95,5,,4:33 PM
+443,12,3,508,0020000311,MISS Lewis Free Throw 2 of 2,,0:33,4,4,0,0,1740,Rashard Lewis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:34 PM
+444,0,4,509,0020000311,,,0:32,4,5,0,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Doleac REBOUND (Off:0 Def:5),4:34 PM
+445,2,9,510,0020000311,,,0:32,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Timeout: Short (Reg.5 Short 1),4:34 PM
+446,1,2,512,0020000311,,,0:21,4,5,0,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Garrity 25' 3PT Jump Shot,4:35 PM
+447,0,4,513,0020000311,Patterson REBOUND (Off:1 Def:3),,0:19,4,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:35 PM
+448,1,6,514,0020000311,,,0:19,4,5,0,1,1503,Tracy McGrady,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,McGrady P.FOUL (P3.PN),4:35 PM
+449,11,3,515,0020000311,Patterson Free Throw 1 of 2 (17 PTS),,0:19,4,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,90 - 96,6,,4:35 PM
+450,12,3,516,0020000311,Patterson Free Throw 2 of 2 (18 PTS),,0:19,4,4,0,0,1739,Ruben Patterson,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,90 - 97,7,,4:36 PM
+451,42,1,517,0020000311,,,0:11,4,5,0,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,92 - 97,5,Garrity  Driving Layup (5 PTS),4:36 PM
+452,1,6,518,0020000311,,,0:08,4,5,0,1,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Doleac P.FOUL (P6.PN),4:37 PM
+453,0,8,519,0020000311,,,0:08,4,5,5,0,1720,Michael Doleac,ORL,Orlando,1610612753.0,Magic,1607,Troy Hudson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,SUB: Hudson FOR Doleac,4:37 PM
+454,11,3,520,0020000311,MISS Davis Free Throw 1 of 2,,0:08,4,4,0,0,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:37 PM
+455,1,4,521,0020000311,SUPERSONICS Rebound,,0:08,4,2,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,,4:37 PM
+456,12,3,522,0020000311,MISS Davis Free Throw 2 of 2,,0:08,4,4,0,0,1023,Emanual Davis,SEA,Seattle,1610612760.0,SuperSonics,0,,,,,,0,,,,,,,,,4:37 PM
+457,0,4,523,0020000311,,,0:07,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Armstrong REBOUND (Off:1 Def:5),4:37 PM
+458,1,2,524,0020000311,,,0:02,4,5,0,0,353,Darrell Armstrong,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Armstrong 25' 3PT Jump Shot,4:37 PM
+459,0,4,525,0020000311,,,0:00,4,5,0,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,Garrity REBOUND (Off:1 Def:0),4:38 PM
+460,1,2,526,0020000311,,,0:00,4,5,0,0,1727,Pat Garrity,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,MISS Garrity 26' 3PT Jump Shot,4:38 PM
+461,0,4,527,0020000311,,,0:00,4,3,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,Magic Rebound,4:38 PM
+462,0,13,528,0020000311,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,92 - 97,5,,4:38 PM
