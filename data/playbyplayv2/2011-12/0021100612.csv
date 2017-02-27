@@ -1,0 +1,494 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021100612,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:08 PM
+1,0,10,1,0021100612,Jump Ball Noah vs. Chandler: Tip to Fields,,12:00,1,4,5,5,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,,,,8:10 PM
+2,42,1,2,0021100612,,,11:44,1,5,5,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,2 - 0,-2,Chandler 2' Driving Layup (2 PTS) (Fields 1 AST),8:10 PM
+3,1,1,3,0021100612,Korver 24' 3PT Jump Shot (3 PTS) (Rose 1 AST),,11:22,1,4,4,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2 - 3,1,,8:10 PM
+4,1,2,4,0021100612,,,11:08,1,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Lin 21' Jump Shot,8:11 PM
+5,0,4,5,0021100612,Noah REBOUND (Off:0 Def:1),,11:07,1,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:11 PM
+6,79,2,6,0021100612,MISS Boozer 17' Pullup Jump Shot,,10:45,1,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:11 PM
+7,0,4,7,0021100612,,,10:44,1,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:0 Def:1),8:11 PM
+8,1,5,8,0021100612,Boozer STEAL (1 STL),,10:33,1,5,4,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Fields Bad Pass Turnover (P1.T1),8:11 PM
+9,8,1,9,0021100612,Brewer 2' Slam Dunk (2 PTS) (Noah 1 AST),,10:29,1,4,4,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2 - 5,3,,8:11 PM
+10,2,6,10,0021100612,Korver S.FOUL (P1.T1),,10:13,1,4,5,1,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:12 PM
+11,11,3,11,0021100612,,,10:13,1,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Fields Free Throw 1 of 2,8:12 PM
+12,1,4,12,0021100612,,,10:13,1,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,8:12 PM
+13,12,3,13,0021100612,,,10:13,1,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,3 - 5,2,Fields Free Throw 2 of 2 (1 PTS),8:12 PM
+14,1,2,15,0021100612,MISS Brewer 17' Jump Shot,,9:54,1,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:12 PM
+15,0,4,16,0021100612,Boozer REBOUND (Off:1 Def:0),,9:53,1,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:12 PM
+16,1,1,17,0021100612,Rose 24' 3PT Jump Shot (3 PTS) (Boozer 1 AST),,9:49,1,4,4,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,3 - 8,5,,8:12 PM
+17,1,2,18,0021100612,,,9:37,1,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Lin 11' Jump Shot,8:13 PM
+18,0,4,19,0021100612,Boozer REBOUND (Off:1 Def:1),,9:36,1,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:13 PM
+19,1,6,20,0021100612,,,9:36,1,5,4,1,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Lin P.FOUL (P1.T1),8:13 PM
+20,1,5,21,0021100612,Rose Bad Pass Turnover (P1.T1),,9:26,1,4,5,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Anthony STEAL (1 STL),8:13 PM
+21,41,1,22,0021100612,,,9:22,1,5,5,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,5 - 8,3,Lin 2' Running Layup (2 PTS) (Anthony 1 AST),8:13 PM
+22,1,1,23,0021100612,Rose 4' Jump Shot (5 PTS) (Noah 2 AST),,9:16,1,4,4,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,5 - 10,5,,8:13 PM
+23,1,2,24,0021100612,,,9:02,1,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 17' Jump Shot,8:14 PM
+24,0,4,25,0021100612,Brewer REBOUND (Off:0 Def:1),,9:01,1,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:14 PM
+25,42,2,26,0021100612,MISS Rose 2' Driving Layup,,8:57,1,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:14 PM
+26,0,4,27,0021100612,,,8:56,1,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:0 Def:1),8:14 PM
+27,2,5,28,0021100612,Brewer STEAL (1 STL),,8:52,1,5,4,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Anthony Lost Ball Turnover (P1.T2),8:14 PM
+28,3,6,29,0021100612,,,8:52,1,5,4,1,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Anthony L.B.FOUL (P1.T2),8:14 PM
+29,1,1,30,0021100612,Boozer 8' Jump Shot (2 PTS),,8:39,1,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,5 - 12,7,,8:15 PM
+30,42,1,31,0021100612,,,8:20,1,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,7 - 12,5,Fields 2' Driving Layup (3 PTS),8:15 PM
+31,5,2,32,0021100612,MISS Korver 2' Layup,,8:03,1,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:15 PM
+32,0,4,33,0021100612,,,8:02,1,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:0 Def:1),8:15 PM
+33,49,1,34,0021100612,,,7:58,1,5,5,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,9 - 12,3,Chandler 2' Driving Dunk (4 PTS) (Lin 1 AST),8:15 PM
+34,1,2,36,0021100612,MISS Boozer 3' Jump Shot,,7:37,1,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:16 PM
+35,0,4,37,0021100612,,,7:36,1,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:0 Def:2),8:16 PM
+36,5,1,38,0021100612,,,7:32,1,5,5,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,11 - 12,1,Chandler 3' Layup (6 PTS) (Anthony 2 AST),8:16 PM
+37,2,6,39,0021100612,Boozer S.FOUL (P1.T2),,7:32,1,4,5,1,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:16 PM
+38,10,3,40,0021100612,,,7:32,1,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,12 - 12,TIE,Chandler Free Throw 1 of 1 (7 PTS),8:16 PM
+39,1,2,42,0021100612,MISS Boozer 18' Jump Shot,,7:16,1,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:17 PM
+40,0,4,43,0021100612,,,7:15,1,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:0 Def:3),8:17 PM
+41,79,1,44,0021100612,,,7:00,1,5,5,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,14 - 12,-2,Anthony 18' Pullup Jump Shot (2 PTS) (Lin 2 AST),8:17 PM
+42,47,2,45,0021100612,MISS Boozer 4' Turnaround Jump Shot,,6:42,1,4,0,5,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,,,Chandler BLOCK (1 BLK),8:17 PM
+43,0,4,46,0021100612,,,6:42,1,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:0 Def:4),8:17 PM
+44,10,6,47,0021100612,,,6:42,1,4,5,1,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:17 PM
+45,0,8,48,0021100612,SUB: Gibson FOR Boozer,,6:42,1,4,4,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:18 PM
+46,7,1,49,0021100612,,,6:31,1,5,5,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,16 - 12,-4,Stoudemire 2' Dunk (2 PTS) (Lin 3 AST),8:18 PM
+47,46,2,50,0021100612,MISS Korver 17' Running Jump Shot,,6:13,1,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:18 PM
+48,0,4,51,0021100612,,,6:11,1,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:0 Def:5),8:18 PM
+49,1,2,52,0021100612,,,6:03,1,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Fields 17' Jump Shot,8:18 PM
+50,0,4,53,0021100612,Brewer REBOUND (Off:0 Def:2),,6:02,1,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:18 PM
+51,50,1,54,0021100612,Noah 2' Running Dunk (2 PTS) (Brewer 1 AST),,5:59,1,4,4,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,16 - 14,-2,,8:19 PM
+52,1,2,55,0021100612,,,5:41,1,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Stoudemire 20' Jump Shot,8:19 PM
+53,0,4,56,0021100612,Brewer REBOUND (Off:0 Def:3),,5:40,1,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:19 PM
+54,1,1,57,0021100612,Korver  3PT Jump Shot (6 PTS) (Brewer 2 AST),,5:35,1,4,4,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,16 - 17,1,,8:19 PM
+55,1,9,58,0021100612,,,5:31,1,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.1 Short 0),8:19 PM
+56,0,8,60,0021100612,,,5:31,1,5,5,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Shumpert FOR Chandler,8:22 PM
+57,0,8,61,0021100612,,,5:31,1,5,5,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,202725,Josh Harrellson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Harrellson FOR Fields,8:22 PM
+58,17,6,63,0021100612,BULLS T.Foul (Def. 3 Sec Gibson ),,5:21,1,4,0,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:23 PM
+59,16,3,64,0021100612,,,5:21,1,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,17 - 17,TIE,Anthony Free Throw Technical (3 PTS),8:23 PM
+60,1,2,66,0021100612,,,5:11,1,5,0,0,202725,Josh Harrellson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Harrellson 22' Jump Shot,8:23 PM
+61,0,4,67,0021100612,Noah REBOUND (Off:0 Def:2),,5:11,1,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:23 PM
+62,1,2,68,0021100612,MISS Rose 19' Jump Shot,,4:52,1,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:24 PM
+63,0,4,69,0021100612,Gibson REBOUND (Off:1 Def:0),,4:51,1,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:24 PM
+64,8,1,70,0021100612,Noah 1' Slam Dunk (4 PTS) (Brewer 3 AST),,4:45,1,4,4,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,17 - 19,2,,8:24 PM
+65,44,2,71,0021100612,,,4:31,1,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 2' Reverse Layup,8:24 PM
+66,0,4,72,0021100612,Rose REBOUND (Off:0 Def:1),,4:30,1,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:24 PM
+67,42,1,73,0021100612,Rose 2' Driving Layup (7 PTS),,4:24,1,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,17 - 21,4,,8:24 PM
+68,2,5,74,0021100612,Noah STEAL (1 STL),,4:13,1,5,4,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Lin Lost Ball Turnover (P1.T3),8:24 PM
+69,42,2,75,0021100612,MISS Rose 1' Driving Layup,,4:08,1,4,0,5,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,202725,Josh Harrellson,NYK,New York,1610612752.0,Knicks,,,Harrellson BLOCK (1 BLK),8:25 PM
+70,0,4,76,0021100612,Korver REBOUND (Off:1 Def:0),,4:06,1,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:25 PM
+71,1,2,77,0021100612,MISS Rose  3PT Jump Shot,,4:02,1,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:25 PM
+72,0,4,78,0021100612,Noah REBOUND (Off:1 Def:2),,4:01,1,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:25 PM
+73,1,5,79,0021100612,Brewer Bad Pass Turnover (P1.T2),,3:57,1,4,5,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Lin STEAL (1 STL),8:25 PM
+74,5,1,81,0021100612,,,3:42,1,5,5,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,19 - 21,2,Anthony 1' Layup (5 PTS) (Lin 4 AST),8:25 PM
+75,49,1,83,0021100612,Noah 1' Driving Dunk (6 PTS) (Korver 1 AST),,3:20,1,4,4,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,19 - 23,4,,8:26 PM
+76,1,6,84,0021100612,Noah P.FOUL (P1.T3),,3:10,1,4,5,1,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:26 PM
+77,11,3,85,0021100612,,,3:10,1,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,20 - 23,3,Stoudemire Free Throw 1 of 2 (3 PTS),8:26 PM
+78,0,8,87,0021100612,SUB: Asik FOR Noah,,3:10,1,4,4,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:26 PM
+79,12,3,91,0021100612,,,3:10,1,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Stoudemire Free Throw 2 of 2,8:28 PM
+80,0,4,93,0021100612,Asik REBOUND (Off:0 Def:1),,3:10,1,4,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:28 PM
+81,0,8,95,0021100612,,,3:10,1,5,5,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Chandler FOR Stoudemire,8:28 PM
+82,42,2,97,0021100612,MISS Rose 3' Driving Layup,,3:03,1,4,0,5,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,,,Lin BLOCK (1 BLK),8:29 PM
+83,0,4,98,0021100612,,,3:01,1,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:0 Def:2),8:29 PM
+84,1,2,99,0021100612,,,2:55,1,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 24' 3PT Jump Shot,8:29 PM
+85,0,4,100,0021100612,,,2:55,1,5,0,0,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Shumpert REBOUND (Off:1 Def:0),8:29 PM
+86,1,6,101,0021100612,Asik P.FOUL (P1.T4),,2:55,1,4,5,1,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:29 PM
+87,1,9,103,0021100612,BULLS Timeout: Regular (Full 1 Short 0),,2:55,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:30 PM
+88,0,8,104,0021100612,,,2:55,1,5,5,0,202725,Josh Harrellson,NYK,New York,1610612752.0,Knicks,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Novak FOR Harrellson,8:32 PM
+89,0,8,105,0021100612,,,2:55,1,5,5,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Davis FOR Lin,8:32 PM
+90,1,2,106,0021100612,,,2:43,1,5,0,0,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Shumpert 19' Jump Shot,8:33 PM
+91,0,4,107,0021100612,Gibson REBOUND (Off:1 Def:1),,2:42,1,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:33 PM
+92,1,2,108,0021100612,MISS Brewer 16' Jump Shot,,2:34,1,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:33 PM
+93,0,4,109,0021100612,,,2:33,1,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:0 Def:3),8:33 PM
+94,79,1,110,0021100612,,,2:28,1,5,5,0,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,22 - 23,1,Shumpert 19' Pullup Jump Shot (2 PTS) (Chandler 1 AST),8:33 PM
+95,1,2,111,0021100612,MISS Rose 25' 3PT Jump Shot,,2:03,1,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:33 PM
+96,0,4,112,0021100612,,,2:02,1,5,0,0,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Novak REBOUND (Off:0 Def:1),8:33 PM
+97,2,6,113,0021100612,Asik S.FOUL (P2.PN),,1:54,1,4,5,1,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:34 PM
+98,11,3,114,0021100612,,,1:54,1,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Chandler Free Throw 1 of 2,8:34 PM
+99,1,4,115,0021100612,,,1:54,1,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,8:34 PM
+100,12,3,116,0021100612,,,1:54,1,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Chandler Free Throw 2 of 2,8:34 PM
+101,0,4,118,0021100612,Asik REBOUND (Off:0 Def:2),,1:53,1,4,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:34 PM
+102,40,2,119,0021100612,MISS Gibson 2' Layup,,1:29,1,4,0,5,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,,,Anthony BLOCK (1 BLK),8:35 PM
+103,0,4,121,0021100612,Gibson REBOUND (Off:2 Def:1),,1:26,1,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:35 PM
+104,72,2,120,0021100612,MISS Gibson 2' Putback Layup,,1:26,1,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:35 PM
+105,0,4,122,0021100612,,,1:25,1,5,0,0,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Novak REBOUND (Off:0 Def:2),8:35 PM
+106,4,5,123,0021100612,,,1:15,1,5,0,1,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony Traveling Turnover (P2.T4),8:35 PM
+107,58,2,125,0021100612,MISS Gibson 5' Turnaround Hook Shot,,1:01,1,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:35 PM
+108,0,4,126,0021100612,,,1:00,1,5,0,0,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Novak REBOUND (Off:0 Def:3),8:35 PM
+109,1,1,127,0021100612,,,0:54,1,5,5,0,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,25 - 23,-2,Novak 25' 3PT Jump Shot (3 PTS) (Davis 1 AST),8:35 PM
+110,2,6,128,0021100612,,,0:32,1,5,4,1,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Chandler S.FOUL (P2.T3),8:36 PM
+111,11,3,129,0021100612,MISS Gibson Free Throw 1 of 2,,0:32,1,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:36 PM
+112,1,4,130,0021100612,BULLS Rebound,,0:32,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:36 PM
+113,0,8,131,0021100612,,,0:32,1,5,5,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,202725,Josh Harrellson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Harrellson FOR Chandler,8:37 PM
+114,0,8,132,0021100612,SUB: Butler FOR Korver,,0:32,1,4,4,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:37 PM
+115,12,3,133,0021100612,MISS Gibson Free Throw 2 of 2,,0:32,1,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:37 PM
+116,0,4,135,0021100612,,,0:29,1,5,0,0,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Shumpert REBOUND (Off:1 Def:1),8:37 PM
+117,1,2,136,0021100612,,,0:24,1,5,0,0,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Novak 25' 3PT Jump Shot,8:37 PM
+118,0,4,137,0021100612,Asik REBOUND (Off:0 Def:3),,0:23,1,4,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:37 PM
+119,1,2,138,0021100612,MISS Butler 25' 3PT Jump Shot,,0:02,1,4,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:37 PM
+120,0,4,139,0021100612,Rose REBOUND (Off:1 Def:1),,0:01,1,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:37 PM
+121,1,2,140,0021100612,MISS Rose 5' Jump Shot,,0:00,1,4,0,5,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,,,Davis BLOCK (1 BLK),8:38 PM
+122,0,4,141,0021100612,BULLS Rebound,,0:00,1,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:38 PM
+123,0,13,143,0021100612,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,25 - 23,-2,,8:38 PM
+124,0,12,145,0021100612,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,25 - 23,-2,,8:41 PM
+125,42,2,146,0021100612,MISS Butler 2' Driving Layup,,11:35,2,4,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:42 PM
+126,0,4,148,0021100612,Asik REBOUND (Off:1 Def:3),,11:34,2,4,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:42 PM
+127,4,2,147,0021100612,MISS Asik 2' Tip Shot,,11:34,2,4,0,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:42 PM
+128,0,4,149,0021100612,,,11:32,2,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:0 Def:4),8:42 PM
+129,47,1,151,0021100612,,,11:15,2,5,0,0,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,27 - 23,-4,Novak 15' Turnaround Jump Shot (5 PTS),8:42 PM
+130,66,1,152,0021100612,Brewer 14' Jump Bank Shot (4 PTS),,10:47,2,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,27 - 25,-2,,8:43 PM
+131,1,5,153,0021100612,,,10:31,2,5,0,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Davis Bad Pass Turnover (P1.T5),8:43 PM
+132,1,1,154,0021100612,Butler 18' Jump Shot (2 PTS) (Lucas III 1 AST),,10:17,2,4,4,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,101249,John Lucas III,CHI,Chicago,1610612741.0,Bulls,0,,,,,,27 - 27,TIE,,8:43 PM
+133,2,6,155,0021100612,Asik S.FOUL (P3.T1),,10:06,2,4,5,1,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:44 PM
+134,11,3,156,0021100612,,,10:06,2,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,28 - 27,-1,Chandler Free Throw 1 of 2 (8 PTS),8:44 PM
+135,0,8,158,0021100612,SUB: Boozer FOR Asik,,10:06,2,4,4,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:44 PM
+136,12,3,159,0021100612,,,10:06,2,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,29 - 27,-2,Chandler Free Throw 2 of 2 (9 PTS),8:44 PM
+137,1,1,161,0021100612,Lucas III 23' Jump Shot (2 PTS),,9:54,2,4,0,0,101249,John Lucas III,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,29 - 29,TIE,,8:45 PM
+138,5,1,162,0021100612,,,9:41,2,5,5,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,31 - 29,-2,Chandler 3' Layup (11 PTS) (Davis 2 AST),8:45 PM
+139,1,2,163,0021100612,MISS Lucas III 25' 3PT Jump Shot,,9:27,2,4,0,0,101249,John Lucas III,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:45 PM
+140,0,4,164,0021100612,,,9:26,2,5,0,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Davis REBOUND (Off:0 Def:1),8:45 PM
+141,1,2,165,0021100612,,,9:19,2,5,0,0,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Novak 25' 3PT Jump Shot,8:45 PM
+142,0,4,167,0021100612,,,9:17,2,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:1 Def:4),8:45 PM
+143,87,2,166,0021100612,,,9:17,2,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Chandler 1' Putback Dunk,8:45 PM
+144,0,4,168,0021100612,,,9:16,2,5,0,0,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Novak REBOUND (Off:1 Def:3),8:45 PM
+145,42,1,169,0021100612,,,9:11,2,5,0,0,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,33 - 29,-4,Shumpert 1' Driving Layup (4 PTS),8:45 PM
+146,1,2,170,0021100612,MISS Boozer 18' Jump Shot,,8:55,2,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:46 PM
+147,0,4,171,0021100612,,,8:53,2,5,0,0,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Shumpert REBOUND (Off:1 Def:2),8:46 PM
+148,1,9,173,0021100612,,,8:47,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:46 PM
+149,1,2,177,0021100612,,,8:37,2,5,0,0,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Novak 26' 3PT Jump Shot,8:49 PM
+150,0,4,178,0021100612,Brewer REBOUND (Off:0 Def:4),,8:36,2,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:49 PM
+151,8,5,179,0021100612,Gibson 3 Second Violation Turnover (P1.T3),,8:21,2,4,0,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:50 PM
+152,1,2,180,0021100612,,,8:11,2,5,0,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Davis 24' 3PT Jump Shot,8:50 PM
+153,0,4,181,0021100612,Boozer REBOUND (Off:1 Def:2),,8:10,2,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:50 PM
+154,5,2,182,0021100612,MISS Lucas III 2' Layup,,8:02,2,4,0,0,101249,John Lucas III,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:50 PM
+155,0,4,183,0021100612,,,8:02,2,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,8:50 PM
+156,3,6,184,0021100612,Gibson L.B.FOUL (P1.T2),,8:02,2,4,5,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:50 PM
+157,1,5,187,0021100612,Boozer STEAL (2 STL),,7:46,2,5,4,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Davis Bad Pass Turnover (P2.T6),8:51 PM
+158,2,6,188,0021100612,,,7:45,2,5,4,1,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Novak S.FOUL (P1.T1),8:51 PM
+159,11,3,189,0021100612,MISS Gibson Free Throw 1 of 2,,7:45,2,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:51 PM
+160,1,4,190,0021100612,BULLS Rebound,,7:45,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:51 PM
+161,0,8,191,0021100612,,,7:45,2,5,5,0,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Fields FOR Shumpert,8:52 PM
+162,0,8,195,0021100612,SUB: Rose FOR Lucas III,,7:45,2,4,4,0,101249,John Lucas III,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:52 PM
+163,12,3,192,0021100612,Gibson Free Throw 2 of 2 (1 PTS),,7:45,2,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,33 - 30,-3,,8:52 PM
+164,42,2,196,0021100612,,,7:26,2,5,0,0,2747,JR Smith,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Smith 1' Driving Layup,8:52 PM
+165,0,4,197,0021100612,Gibson REBOUND (Off:2 Def:2),,7:26,2,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:52 PM
+166,1,5,198,0021100612,Brewer Bad Pass Turnover (P2.T4),,7:20,2,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:52 PM
+167,0,8,199,0021100612,SUB: Noah FOR Gibson,,7:20,2,4,4,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:52 PM
+168,1,2,200,0021100612,,,7:05,2,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Fields 24' 3PT Jump Shot,8:53 PM
+169,0,4,201,0021100612,Rose REBOUND (Off:1 Def:2),,7:03,2,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:53 PM
+170,41,2,202,0021100612,MISS Rose 1' Running Layup,,6:55,2,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:53 PM
+171,0,4,203,0021100612,Brewer REBOUND (Off:1 Def:4),,6:54,2,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:53 PM
+172,72,1,204,0021100612,Brewer 2' Putback Layup (6 PTS),,6:52,2,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,33 - 32,-1,,8:53 PM
+173,5,1,206,0021100612,,,6:26,2,5,0,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,35 - 32,-3,Davis 2' Layup (2 PTS),8:54 PM
+174,1,5,208,0021100612,Rose Bad Pass Turnover (P2.T5),,6:07,2,4,5,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Davis STEAL (1 STL),8:54 PM
+175,50,1,209,0021100612,,,6:04,2,5,5,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,37 - 32,-5,Fields 1' Running Dunk (5 PTS) (Davis 3 AST),8:54 PM
+176,78,1,210,0021100612,Boozer 5' Floating Jump Shot (4 PTS) (Brewer 4 AST),,5:45,2,4,4,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,37 - 34,-3,,8:54 PM
+177,2,6,211,0021100612,Boozer S.FOUL (P3.T3),,5:36,2,4,5,1,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,8:54 PM
+178,1,9,213,0021100612,BULLS Timeout: Regular (Full 2 Short 0),,5:36,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,8:55 PM
+179,0,8,215,0021100612,,,5:36,2,5,5,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Stoudemire FOR Chandler,8:57 PM
+180,0,8,216,0021100612,,,5:36,2,5,5,0,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Anthony FOR Novak,8:57 PM
+181,0,8,217,0021100612,,,5:36,2,5,5,0,2747,JR Smith,NYK,New York,1610612752.0,Knicks,202725,Josh Harrellson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Harrellson FOR Smith,8:57 PM
+182,0,8,218,0021100612,SUB: Gibson FOR Boozer,,5:36,2,4,4,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:57 PM
+183,0,8,219,0021100612,SUB: Korver FOR Brewer,,5:36,2,4,4,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,8:57 PM
+184,11,3,220,0021100612,,,5:36,2,5,0,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Davis Free Throw 1 of 2,8:57 PM
+185,1,4,221,0021100612,,,5:36,2,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,8:57 PM
+186,12,3,222,0021100612,,,5:36,2,5,0,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,38 - 34,-4,Davis Free Throw 2 of 2 (3 PTS),8:58 PM
+187,2,6,225,0021100612,,,5:17,2,5,4,1,202725,Josh Harrellson,NYK,New York,1610612752.0,Knicks,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Harrellson S.FOUL (P1.T2),8:58 PM
+188,11,3,226,0021100612,Gibson Free Throw 1 of 2 (2 PTS),,5:17,2,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,38 - 35,-3,,8:58 PM
+189,0,8,228,0021100612,,,5:17,2,5,5,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Lin FOR Davis,8:59 PM
+190,12,3,229,0021100612,Gibson Free Throw 2 of 2 (3 PTS),,5:17,2,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,38 - 36,-2,,8:59 PM
+191,42,2,231,0021100612,,,5:03,2,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 2' Driving Layup,8:59 PM
+192,0,4,232,0021100612,Rose REBOUND (Off:1 Def:3),,5:02,2,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,8:59 PM
+193,2,6,234,0021100612,,,4:58,2,5,4,1,202725,Josh Harrellson,NYK,New York,1610612752.0,Knicks,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Harrellson S.FOUL (P2.T3),8:59 PM
+194,11,3,235,0021100612,Butler Free Throw 1 of 2 (3 PTS),,4:58,2,4,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,38 - 37,-1,,9:00 PM
+195,12,3,237,0021100612,Butler Free Throw 2 of 2 (4 PTS),,4:58,2,4,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,38 - 38,TIE,,9:00 PM
+196,1,2,239,0021100612,,,4:38,2,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 22' Jump Shot,9:00 PM
+197,0,4,240,0021100612,Gibson REBOUND (Off:2 Def:3),,4:37,2,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:00 PM
+198,42,1,241,0021100612,Rose 2' Driving Layup (9 PTS),,4:31,2,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,38 - 40,2,,9:00 PM
+199,41,1,242,0021100612,,,4:26,2,5,5,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,40 - 40,TIE,Anthony 3' Running Layup (7 PTS) (Lin 5 AST),9:01 PM
+200,2,6,244,0021100612,,,4:09,2,5,4,1,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Lin S.FOUL (P2.T4),9:01 PM
+201,11,6,245,0021100612,,,4:09,2,7,0,1,1783,,,,,,0,,,,,,0,,,,,,,,,9:01 PM
+202,16,3,246,0021100612,Rose Free Throw Technical (10 PTS),,4:09,2,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,40 - 41,1,,9:01 PM
+203,0,8,248,0021100612,,,4:09,2,5,5,0,202725,Josh Harrellson,NYK,New York,1610612752.0,Knicks,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Chandler FOR Harrellson,9:02 PM
+204,11,3,249,0021100612,MISS Rose Free Throw 1 of 2,,4:09,2,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:02 PM
+205,1,4,250,0021100612,BULLS Rebound,,4:09,2,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:02 PM
+206,12,3,251,0021100612,Rose Free Throw 2 of 2 (11 PTS),,4:09,2,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,40 - 42,2,,9:02 PM
+207,79,2,253,0021100612,,,3:49,2,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 14' Pullup Jump Shot,9:03 PM
+208,0,4,254,0021100612,Gibson REBOUND (Off:2 Def:4),,3:48,2,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:03 PM
+209,5,2,255,0021100612,MISS Rose 2' Layup,,3:43,2,4,0,5,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,,,Lin BLOCK (2 BLK),9:03 PM
+210,0,4,256,0021100612,,,3:43,2,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,9:03 PM
+211,2,6,257,0021100612,Gibson S.FOUL (P2.T4),,3:28,2,4,5,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:03 PM
+212,11,3,258,0021100612,,,3:28,2,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,41 - 42,1,Stoudemire Free Throw 1 of 2 (4 PTS),9:04 PM
+213,12,3,260,0021100612,,,3:28,2,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,42 - 42,TIE,Stoudemire Free Throw 2 of 2 (5 PTS),9:04 PM
+214,42,1,262,0021100612,Rose 1' Driving Layup (13 PTS),,3:08,2,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,42 - 44,2,,9:04 PM
+215,2,6,263,0021100612,Rose S.FOUL (P1.PN),,2:53,2,4,5,1,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:05 PM
+216,1,9,264,0021100612,,,2:53,2,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.2 Short 0),9:05 PM
+217,11,3,266,0021100612,,,2:53,2,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,43 - 44,1,Lin Free Throw 1 of 2 (3 PTS),9:07 PM
+218,12,3,268,0021100612,,,2:53,2,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,44 - 44,TIE,Lin Free Throw 2 of 2 (4 PTS),9:07 PM
+219,79,1,270,0021100612,Gibson 16' Pullup Jump Shot (5 PTS) (Rose 2 AST),,2:39,2,4,4,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,44 - 46,2,,9:08 PM
+220,2,6,271,0021100612,Gibson S.FOUL (P3.PN),,2:18,2,4,5,1,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:09 PM
+221,11,3,272,0021100612,,,2:18,2,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Fields Free Throw 1 of 2,9:09 PM
+222,1,4,273,0021100612,,,2:18,2,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,9:09 PM
+223,2,7,276,0021100612,Noah Violation:Defensive Goaltending,,2:18,2,4,0,1,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:09 PM
+224,12,3,274,0021100612,,,2:18,2,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,45 - 46,1,Fields Free Throw 2 of 2 (6 PTS),9:09 PM
+225,5,2,277,0021100612,MISS Gibson 2' Layup,,1:54,2,4,0,5,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,,,Chandler BLOCK (2 BLK),9:10 PM
+226,0,4,279,0021100612,Gibson REBOUND (Off:3 Def:4),,1:52,2,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:10 PM
+227,72,1,278,0021100612,Gibson 2' Putback Layup (7 PTS),,1:52,2,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,45 - 48,3,,9:10 PM
+228,27,6,281,0021100612,Korver Personal Block Foul (P2.PN),,1:30,2,4,5,1,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:10 PM
+229,11,3,283,0021100612,,,1:30,2,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,46 - 48,2,Lin Free Throw 1 of 2 (5 PTS),9:11 PM
+230,0,8,285,0021100612,SUB: Scalabrine FOR Gibson,,1:30,2,4,4,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2243,Brian Scalabrine,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:11 PM
+231,12,3,286,0021100612,,,1:30,2,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,47 - 48,1,Lin Free Throw 2 of 2 (6 PTS),9:11 PM
+232,1,2,288,0021100612,MISS Rose 8' Jump Shot,,1:10,2,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:11 PM
+233,0,4,289,0021100612,,,1:09,2,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:0 Def:6),9:11 PM
+234,78,1,290,0021100612,,,0:59,2,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,49 - 48,-1,Lin 7' Floating Jump Shot (8 PTS),9:12 PM
+235,26,6,291,0021100612,Scalabrine Offensive Charge Foul (P1.PN),,0:36,2,4,5,1,2243,Brian Scalabrine,CHI,Chicago,1610612741.0,Bulls,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:12 PM
+236,5,5,292,0021100612,Scalabrine Foul Turnover (P1.T6),,0:36,2,4,0,1,2243,Brian Scalabrine,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:12 PM
+237,11,6,293,0021100612,,,0:36,2,6,0,1,1301,,,,,,0,,,,,,0,,,,,,,,,9:13 PM
+238,16,3,294,0021100612,,,0:36,2,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,50 - 48,-2,Anthony Free Throw Technical (8 PTS),9:13 PM
+239,77,2,296,0021100612,,,0:28,2,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Lin 9' Driving Jump Shot,9:13 PM
+240,0,4,297,0021100612,Korver REBOUND (Off:1 Def:1),,0:27,2,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:13 PM
+241,1,2,298,0021100612,MISS Scalabrine 21' Jump Shot,,0:05,2,4,0,0,2243,Brian Scalabrine,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:13 PM
+242,0,4,299,0021100612,,,0:04,2,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Fields REBOUND (Off:0 Def:1),9:13 PM
+243,1,2,300,0021100612,,,0:00,2,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Lin 6' Jump Shot,9:13 PM
+244,0,4,302,0021100612,,,0:00,2,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,9:14 PM
+245,0,13,301,0021100612,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,50 - 48,-2,,9:14 PM
+246,0,12,304,0021100612,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,50 - 48,-2,,9:33 PM
+247,42,2,305,0021100612,MISS Boozer 2' Driving Layup,,11:43,3,4,0,5,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,,,Stoudemire BLOCK (1 BLK),9:33 PM
+248,0,4,306,0021100612,,,11:42,3,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:0 Def:2),9:33 PM
+249,42,2,307,0021100612,,,11:21,3,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Stoudemire 3' Driving Layup,9:34 PM
+250,0,4,308,0021100612,Noah REBOUND (Off:1 Def:3),,11:20,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:34 PM
+251,66,1,309,0021100612,Brewer 7' Jump Bank Shot (8 PTS),,11:13,3,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,50 - 50,TIE,,9:34 PM
+252,42,2,311,0021100612,Brewer BLOCK (1 BLK),,11:01,3,5,0,4,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,,,MISS Chandler 3' Driving Layup,9:34 PM
+253,0,4,312,0021100612,Boozer REBOUND (Off:1 Def:3),,11:00,3,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:34 PM
+254,71,1,313,0021100612,Boozer 2' Finger Roll Layup (6 PTS) (Brewer 5 AST),,10:51,3,4,4,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,50 - 52,2,,9:34 PM
+255,1,1,314,0021100612,,,10:36,3,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,52 - 52,TIE,Fields 15' Jump Shot (8 PTS),9:34 PM
+256,1,1,315,0021100612,Boozer 16' Jump Shot (8 PTS) (Rose 3 AST),,10:17,3,4,4,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,52 - 54,2,,9:35 PM
+257,7,1,316,0021100612,,,10:02,3,5,5,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,54 - 54,TIE,Stoudemire 2' Dunk (7 PTS) (Fields 2 AST),9:35 PM
+258,2,6,317,0021100612,Korver S.FOUL (P3.T1),,10:02,3,4,5,1,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:35 PM
+259,10,3,318,0021100612,,,10:02,3,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,55 - 54,-1,Stoudemire Free Throw 1 of 1 (8 PTS),9:35 PM
+260,2,5,320,0021100612,Rose Lost Ball Turnover (P3.T7),,9:44,3,4,5,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Lin STEAL (2 STL),9:36 PM
+261,41,1,321,0021100612,,,9:40,3,5,5,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,57 - 54,-3,Anthony 2' Running Layup (10 PTS) (Lin 6 AST),9:36 PM
+262,2,6,322,0021100612,,,9:24,3,5,4,1,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Chandler S.FOUL (P3.T1),9:36 PM
+263,11,3,323,0021100612,Boozer Free Throw 1 of 2 (9 PTS),,9:24,3,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,57 - 55,-2,,9:36 PM
+264,12,3,325,0021100612,MISS Boozer Free Throw 2 of 2,,9:24,3,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:36 PM
+265,0,4,327,0021100612,Korver REBOUND (Off:2 Def:1),,9:21,3,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:37 PM
+266,1,1,328,0021100612,Rose 24' 3PT Jump Shot (16 PTS) (Korver 2 AST),,9:16,3,4,4,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,57 - 58,1,,9:37 PM
+267,1,5,329,0021100612,Noah STEAL (2 STL),,9:06,3,5,4,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Stoudemire Bad Pass Turnover (P1.T7),9:37 PM
+268,1,9,330,0021100612,BULLS Timeout: Regular (Full 3 Short 0),,9:06,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:37 PM
+269,1,2,331,0021100612,MISS Korver 25' 3PT Jump Shot,,8:50,3,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:41 PM
+270,0,4,332,0021100612,,,8:49,3,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:1 Def:5),9:41 PM
+271,42,1,333,0021100612,,,8:36,3,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,59 - 58,-1,Anthony 2' Driving Layup (12 PTS),9:41 PM
+272,1,1,334,0021100612,Boozer 18' Jump Shot (11 PTS) (Rose 4 AST),,8:17,3,4,4,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,59 - 60,1,,9:41 PM
+273,42,2,336,0021100612,Noah BLOCK (1 BLK),,8:00,3,5,0,4,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,,,MISS Anthony 2' Driving Layup,9:42 PM
+274,0,4,337,0021100612,Rose REBOUND (Off:1 Def:4),,7:59,3,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:42 PM
+275,74,1,338,0021100612,Rose 2' Running Reverse Layup (18 PTS) (Brewer 6 AST),,7:54,3,4,4,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,59 - 62,3,,9:42 PM
+276,5,2,339,0021100612,Noah BLOCK (2 BLK),,7:36,3,5,0,4,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,,,MISS Fields 1' Layup,9:42 PM
+277,0,4,340,0021100612,Korver REBOUND (Off:2 Def:2),,7:34,3,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:42 PM
+278,2,6,341,0021100612,,,7:31,3,5,4,1,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Anthony S.FOUL (P2.T2),9:42 PM
+279,11,3,342,0021100612,Boozer Free Throw 1 of 2 (12 PTS),,7:31,3,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,59 - 63,4,,9:43 PM
+280,12,3,344,0021100612,Boozer Free Throw 2 of 2 (13 PTS),,7:31,3,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,59 - 64,5,,9:43 PM
+281,39,5,347,0021100612,,,7:14,3,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Chandler Step Out of Bounds Turnover (P1.T8),9:44 PM
+282,78,1,348,0021100612,Rose 6' Floating Jump Shot (20 PTS),,7:03,3,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,59 - 66,7,,9:44 PM
+283,1,9,349,0021100612,,,7:03,3,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.3 Short 0),9:44 PM
+284,8,1,351,0021100612,,,6:51,3,5,5,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,61 - 66,5,Stoudemire 1' Slam Dunk (10 PTS) (Chandler 2 AST),9:47 PM
+285,77,2,352,0021100612,MISS Noah 3' Driving Jump Shot,,6:28,3,4,0,5,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,,,Stoudemire BLOCK (2 BLK),9:48 PM
+286,0,4,354,0021100612,BULLS Rebound,,6:28,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:48 PM
+287,0,10,353,0021100612,Jump Ball Noah vs. Stoudemire: Tip to Brewer,,6:28,3,4,5,4,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,,,,9:48 PM
+288,46,2,355,0021100612,MISS Rose 11' Running Jump Shot,,6:21,3,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:48 PM
+289,0,4,357,0021100612,Noah REBOUND (Off:2 Def:3),,6:20,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:48 PM
+290,4,2,356,0021100612,MISS Noah 2' Tip Shot,,6:20,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:48 PM
+291,0,4,359,0021100612,Noah REBOUND (Off:3 Def:3),,6:18,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:48 PM
+292,72,1,358,0021100612,Noah 1' Putback Layup (8 PTS),,6:18,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,61 - 68,7,,9:48 PM
+293,1,2,361,0021100612,,,6:03,3,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Fields 5' Jump Shot,9:48 PM
+294,0,4,362,0021100612,Boozer REBOUND (Off:1 Def:4),,6:02,3,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:49 PM
+295,1,2,363,0021100612,MISS Boozer 14' Jump Shot,,5:52,3,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:49 PM
+296,0,4,364,0021100612,,,5:51,3,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Fields REBOUND (Off:0 Def:2),9:49 PM
+297,1,1,365,0021100612,,,5:44,3,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,63 - 68,5,Anthony 17' Jump Shot (14 PTS),9:49 PM
+298,3,6,366,0021100612,Brewer L.B.FOUL (P1.T2),,5:44,3,4,5,1,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:49 PM
+299,10,3,367,0021100612,,,5:44,3,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Chandler Free Throw 1 of 1,9:49 PM
+300,0,4,369,0021100612,Brewer REBOUND (Off:1 Def:5),,5:41,3,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:50 PM
+301,1,5,370,0021100612,Brewer Bad Pass Turnover (P3.T8),,5:23,3,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:50 PM
+302,1,1,371,0021100612,,,5:15,3,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,66 - 68,2,Lin 26' 3PT Jump Shot (11 PTS),9:50 PM
+303,1,1,372,0021100612,Brewer  3PT Jump Shot (11 PTS) (Noah 3 AST),,4:57,3,4,4,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,66 - 71,5,,9:50 PM
+304,1,5,373,0021100612,,,4:44,3,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Lin Bad Pass Turnover (P2.T9),9:51 PM
+305,2,5,374,0021100612,Rose Lost Ball Turnover (P4.T9),,4:31,3,4,5,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Anthony STEAL (2 STL),9:51 PM
+306,2,6,375,0021100612,Korver S.FOUL (P4.T3),,4:27,3,4,5,1,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:51 PM
+307,11,3,376,0021100612,,,4:27,3,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,67 - 71,4,Anthony Free Throw 1 of 2 (15 PTS),9:52 PM
+308,0,8,378,0021100612,SUB: Butler FOR Korver,,4:27,3,4,4,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:52 PM
+309,0,8,379,0021100612,,,4:27,3,5,5,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,202725,Josh Harrellson,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Harrellson FOR Fields,9:52 PM
+310,0,8,380,0021100612,,,4:27,3,5,5,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Shumpert FOR Chandler,9:52 PM
+311,12,3,381,0021100612,,,4:27,3,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,68 - 71,3,Anthony Free Throw 2 of 2 (16 PTS),9:52 PM
+312,2,6,383,0021100612,,,4:15,3,5,4,1,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Lin S.FOUL (P3.T3),9:53 PM
+313,11,3,384,0021100612,MISS Rose Free Throw 1 of 2,,4:15,3,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:53 PM
+314,1,4,385,0021100612,BULLS Rebound,,4:15,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:53 PM
+315,12,3,386,0021100612,MISS Rose Free Throw 2 of 2,,4:15,3,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:53 PM
+316,0,4,388,0021100612,,,4:14,3,5,0,0,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Shumpert REBOUND (Off:1 Def:3),9:53 PM
+317,1,1,389,0021100612,,,3:58,3,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,70 - 71,1,Stoudemire 16' Jump Shot (12 PTS),9:54 PM
+318,5,2,390,0021100612,MISS Noah 4' Layup,,3:40,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:54 PM
+319,0,4,391,0021100612,,,3:39,3,5,0,0,202725,Josh Harrellson,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Harrellson REBOUND (Off:0 Def:1),9:54 PM
+320,1,2,392,0021100612,,,3:25,3,5,0,0,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Shumpert 22' Jump Shot,9:54 PM
+321,0,4,393,0021100612,Noah REBOUND (Off:3 Def:4),,3:24,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:54 PM
+322,2,6,394,0021100612,,,3:20,3,5,4,1,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Lin S.FOUL (P4.T4),9:54 PM
+323,11,3,396,0021100612,Rose Free Throw 1 of 2 (21 PTS),,3:20,3,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,70 - 72,2,,9:55 PM
+324,0,8,399,0021100612,SUB: Gibson FOR Boozer,,3:20,3,4,4,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:55 PM
+325,12,3,401,0021100612,Rose Free Throw 2 of 2 (22 PTS),,3:20,3,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,70 - 73,3,,9:55 PM
+326,1,1,404,0021100612,,,3:10,3,5,5,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,72 - 73,1,Stoudemire 19' Jump Shot (14 PTS) (Anthony 3 AST),9:55 PM
+327,5,2,406,0021100612,MISS Noah 3' Layup,,2:48,3,4,0,5,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,,,Lin BLOCK (3 BLK),9:56 PM
+328,0,4,407,0021100612,BULLS Rebound,,2:48,3,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,9:56 PM
+329,0,8,408,0021100612,,,2:48,3,5,5,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Davis FOR Lin,9:56 PM
+330,1,2,409,0021100612,MISS Brewer 21' Jump Shot,,2:40,3,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:56 PM
+331,0,4,410,0021100612,,,2:38,3,5,0,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Davis REBOUND (Off:0 Def:2),9:56 PM
+332,1,2,411,0021100612,Gibson BLOCK (1 BLK),,2:27,3,5,0,4,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,,,MISS Stoudemire 6' Jump Shot,9:56 PM
+333,0,4,412,0021100612,,,2:27,3,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Stoudemire REBOUND (Off:1 Def:2),9:56 PM
+334,2,6,413,0021100612,Noah S.FOUL (P2.T4),,2:27,3,4,5,1,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,9:57 PM
+335,11,3,414,0021100612,,,2:27,3,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,73 - 73,TIE,Stoudemire Free Throw 1 of 2 (15 PTS),9:57 PM
+336,12,3,416,0021100612,,,2:27,3,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,74 - 73,-1,Stoudemire Free Throw 2 of 2 (16 PTS),9:57 PM
+337,1,1,418,0021100612,Gibson 20' Jump Shot (9 PTS) (Brewer 7 AST),,2:04,3,4,4,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,74 - 75,1,,9:57 PM
+338,1,1,420,0021100612,,,1:38,3,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,76 - 75,-1,Stoudemire 21' Jump Shot (18 PTS),9:58 PM
+339,1,2,421,0021100612,MISS Rose 26' 3PT Jump Shot,,1:18,3,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:58 PM
+340,0,4,422,0021100612,Noah REBOUND (Off:4 Def:4),,1:17,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,9:58 PM
+341,2,6,423,0021100612,,,1:02,3,5,4,1,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Stoudemire S.FOUL (P1.PN),9:59 PM
+342,11,3,424,0021100612,Noah Free Throw 1 of 2 (9 PTS),,1:02,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,76 - 76,TIE,,9:59 PM
+343,0,8,426,0021100612,SUB: Lucas III FOR Rose,,1:02,3,4,4,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,101249,John Lucas III,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,9:59 PM
+344,12,3,427,0021100612,Noah Free Throw 2 of 2 (10 PTS),,1:02,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,76 - 77,1,,9:59 PM
+345,1,2,429,0021100612,,,0:49,3,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 19' Jump Shot,10:00 PM
+346,0,4,430,0021100612,Noah REBOUND (Off:4 Def:5),,0:47,3,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:00 PM
+347,40,5,433,0021100612,Lucas III Out of Bounds Lost Ball Turnover (P1.T10),,0:38,3,4,0,0,101249,John Lucas III,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:00 PM
+348,1,1,434,0021100612,,,0:31,3,5,0,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,78 - 77,-1,Davis 19' Jump Shot (5 PTS),10:01 PM
+349,79,1,436,0021100612,Noah 19' Pullup Jump Shot (12 PTS) (Butler 1 AST),,0:17,3,4,4,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,78 - 79,1,,10:01 PM
+350,1,2,437,0021100612,,,0:00,3,5,0,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Davis 25' 3PT Jump Shot,10:01 PM
+351,0,4,439,0021100612,,,0:00,3,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,10:01 PM
+352,0,13,438,0021100612,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,78 - 79,1,,10:01 PM
+353,0,12,441,0021100612,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,78 - 79,1,,10:05 PM
+354,26,6,443,0021100612,,,11:47,4,5,4,1,2747,JR Smith,NYK,New York,1610612752.0,Knicks,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Smith Offensive Charge Foul (P1.T1),10:05 PM
+355,5,5,444,0021100612,,,11:47,4,5,0,1,2747,JR Smith,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Smith Foul Turnover (P1.T10),10:05 PM
+356,8,1,445,0021100612,Gibson 1' Slam Dunk (11 PTS) (Rose 5 AST),,11:35,4,4,4,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,78 - 81,3,,10:06 PM
+357,7,1,446,0021100612,,,11:26,4,5,5,0,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,80 - 81,1,Shumpert  Dunk (6 PTS) (Davis 4 AST),10:06 PM
+358,1,7,447,0021100612,,,11:23,4,3,0,1,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Violation: Delay of game Violation,10:06 PM
+359,1,1,448,0021100612,Rose 20' Jump Shot (24 PTS),,11:06,4,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,80 - 83,3,,10:06 PM
+360,1,7,450,0021100612,BULLS Violation: Delay of game Violation,,11:01,4,2,0,1,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:07 PM
+361,2,5,451,0021100612,Korver STEAL (1 STL),,10:45,4,5,4,0,2747,JR Smith,NYK,New York,1610612752.0,Knicks,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Smith Lost Ball Turnover (P2.T11),10:07 PM
+362,42,1,452,0021100612,Butler 3' Driving Layup (6 PTS) (Korver 3 AST),,10:43,4,4,4,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,80 - 85,5,,10:07 PM
+363,2,6,453,0021100612,,,10:43,4,5,4,1,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Novak S.FOUL (P2.T2),10:07 PM
+364,10,3,454,0021100612,MISS Butler Free Throw 1 of 1,,10:43,4,4,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:07 PM
+365,0,4,456,0021100612,,,10:41,4,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:1 Def:6),10:08 PM
+366,1,2,457,0021100612,,,10:25,4,5,0,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Davis 10' Jump Shot,10:08 PM
+367,0,4,458,0021100612,,,10:24,4,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,10:08 PM
+368,3,6,459,0021100612,Noah L.B.FOUL (P3.T1),,10:24,4,4,5,1,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,10:08 PM
+369,0,8,460,0021100612,SUB: Asik FOR Noah,,10:24,4,4,4,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:08 PM
+370,15,5,462,0021100612,,,10:08,4,5,0,1,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Chandler Offensive Goaltending Turnover (P2.T12),10:09 PM
+371,1,2,464,0021100612,MISS Korver 24' 3PT Jump Shot,,9:55,4,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:09 PM
+372,0,4,465,0021100612,Gibson REBOUND (Off:4 Def:4),,9:54,4,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:09 PM
+373,1,6,466,0021100612,,,9:41,4,5,4,1,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Davis P.FOUL (P1.T3),10:09 PM
+374,5,2,467,0021100612,MISS Rose 1' Layup,,9:35,4,4,0,5,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,,,Shumpert BLOCK (1 BLK),10:10 PM
+375,0,4,468,0021100612,Rose REBOUND (Off:2 Def:4),,9:33,4,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:10 PM
+376,1,2,469,0021100612,MISS Gibson 6' Jump Shot,,9:30,4,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:10 PM
+377,0,4,470,0021100612,Gibson REBOUND (Off:5 Def:4),,9:28,4,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:10 PM
+378,1,2,471,0021100612,MISS Rose 20' Jump Shot,,9:10,4,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:10 PM
+379,0,4,472,0021100612,Gibson REBOUND (Off:6 Def:4),,9:09,4,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:10 PM
+380,1,6,473,0021100612,,,9:09,4,5,4,1,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Davis P.FOUL (P2.T4),10:10 PM
+381,0,8,474,0021100612,,,9:09,4,5,5,0,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Lin FOR Shumpert,10:11 PM
+382,0,8,475,0021100612,,,9:09,4,5,5,0,2747,JR Smith,NYK,New York,1610612752.0,Knicks,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Anthony FOR Smith,10:11 PM
+383,47,2,476,0021100612,MISS Butler 13' Turnaround Jump Shot,,8:58,4,4,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:11 PM
+384,0,4,477,0021100612,,,8:57,4,5,0,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Davis REBOUND (Off:0 Def:3),10:11 PM
+385,1,1,478,0021100612,,,8:36,4,5,0,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,82 - 85,3,Davis 22' Jump Shot (7 PTS),10:11 PM
+386,1,1,480,0021100612,Gibson 19' Jump Shot (13 PTS) (Rose 6 AST),,8:15,4,4,4,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,82 - 87,5,,10:12 PM
+387,1,1,482,0021100612,,,7:57,4,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,84 - 87,3,Lin 20' Jump Shot (13 PTS),10:12 PM
+388,1,2,483,0021100612,MISS Butler 24' 3PT Jump Shot,,7:31,4,4,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:13 PM
+389,0,4,484,0021100612,Gibson REBOUND (Off:7 Def:4),,7:31,4,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:13 PM
+390,3,6,485,0021100612,,,7:31,4,5,4,1,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Lin L.B.FOUL (P5.PN),10:13 PM
+391,1,9,486,0021100612,,,7:31,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:13 PM
+392,0,8,488,0021100612,,,7:31,4,5,5,0,200779,Steve Novak,NYK,New York,1610612752.0,Knicks,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Stoudemire FOR Novak,10:15 PM
+393,0,8,489,0021100612,SUB: Noah FOR Asik,,7:31,4,4,4,0,201600,Omer Asik,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:15 PM
+394,77,1,492,0021100612,Rose 8' Driving Jump Shot (26 PTS),,7:09,4,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,84 - 89,5,,10:18 PM
+395,1,2,493,0021100612,,,6:51,4,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 17' Jump Shot,10:18 PM
+396,0,4,494,0021100612,Noah REBOUND (Off:4 Def:6),,6:49,4,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:18 PM
+397,1,2,496,0021100612,MISS Rose 8' Jump Shot,,6:32,4,4,0,5,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,,,Chandler BLOCK (3 BLK),10:18 PM
+398,0,4,497,0021100612,Korver REBOUND (Off:3 Def:2),,6:29,4,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:18 PM
+399,1,2,498,0021100612,MISS Rose 25' 3PT Jump Shot,,6:26,4,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:18 PM
+400,0,4,499,0021100612,Gibson REBOUND (Off:8 Def:4),,6:25,4,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:18 PM
+401,8,1,500,0021100612,Rose  Slam Dunk (28 PTS) (Noah 4 AST),,6:03,4,4,4,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,84 - 91,7,,10:19 PM
+402,1,9,501,0021100612,,,6:01,4,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.4 Short 0),10:19 PM
+403,0,8,503,0021100612,,,6:01,4,5,5,0,1884,Baron Davis,NYK,New York,1610612752.0,Knicks,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Fields FOR Davis,10:21 PM
+404,0,8,504,0021100612,SUB: Boozer FOR Gibson,,6:01,4,4,4,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:22 PM
+405,1,2,506,0021100612,,,5:46,4,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Lin 19' Jump Shot,10:22 PM
+406,0,4,507,0021100612,Boozer REBOUND (Off:1 Def:5),,5:45,4,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:22 PM
+407,1,2,508,0021100612,MISS Korver 23' Jump Shot,,5:23,4,4,0,5,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,,,Fields BLOCK (1 BLK),10:23 PM
+408,0,4,509,0021100612,,,5:21,4,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:1 Def:7),10:23 PM
+409,1,1,510,0021100612,,,5:10,4,5,5,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,86 - 91,5,Stoudemire 19' Jump Shot (20 PTS) (Lin 7 AST),10:23 PM
+410,1,5,512,0021100612,Noah Bad Pass Turnover (P1.T11),,4:51,4,4,5,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Lin STEAL (3 STL),10:23 PM
+411,2,6,513,0021100612,Korver S.FOUL (P5.T2),,4:33,4,4,5,1,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,10:24 PM
+412,11,3,514,0021100612,,,4:33,4,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,87 - 91,4,Lin Free Throw 1 of 2 (14 PTS),10:24 PM
+413,12,3,516,0021100612,,,4:33,4,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,88 - 91,3,Lin Free Throw 2 of 2 (15 PTS),10:24 PM
+414,1,2,518,0021100612,MISS Boozer 15' Jump Shot,,4:16,4,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:25 PM
+415,0,4,519,0021100612,Butler REBOUND (Off:1 Def:0),,4:14,4,4,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:25 PM
+416,44,1,520,0021100612,Boozer 2' Reverse Layup (15 PTS) (Rose 7 AST),,4:12,4,4,4,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,88 - 93,5,,10:25 PM
+417,78,2,521,0021100612,,,4:00,4,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Lin 14' Floating Jump Shot,10:25 PM
+418,0,4,522,0021100612,,,3:57,4,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Lin REBOUND (Off:1 Def:0),10:25 PM
+419,1,2,523,0021100612,,,3:53,4,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Fields 21' Jump Shot,10:25 PM
+420,0,4,524,0021100612,Korver REBOUND (Off:3 Def:3),,3:52,4,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:25 PM
+421,3,2,525,0021100612,MISS Noah 2' Hook Shot,,3:31,4,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:25 PM
+422,0,4,527,0021100612,Butler REBOUND (Off:2 Def:0),,3:29,4,4,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:25 PM
+423,8,1,526,0021100612,Butler 1' Slam Dunk (8 PTS),,3:29,4,4,0,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,88 - 95,7,,10:25 PM
+424,2,6,528,0021100612,Noah S.FOUL (P4.T3),,3:11,4,4,5,1,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,,,,10:26 PM
+425,11,3,529,0021100612,,,3:11,4,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Chandler Free Throw 1 of 2,10:26 PM
+426,1,4,530,0021100612,,,3:11,4,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,10:26 PM
+427,12,3,531,0021100612,,,3:11,4,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Chandler Free Throw 2 of 2,10:26 PM
+428,0,4,533,0021100612,,,3:07,4,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:2 Def:7),10:27 PM
+429,71,1,534,0021100612,,,3:05,4,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,90 - 95,5,Fields 2' Finger Roll Layup (10 PTS),10:27 PM
+430,78,2,535,0021100612,MISS Rose 8' Floating Jump Shot,,2:46,4,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:27 PM
+431,0,4,536,0021100612,,,2:45,4,5,0,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Chandler REBOUND (Off:2 Def:8),10:27 PM
+432,1,5,537,0021100612,Butler STEAL (1 STL),,2:42,4,5,4,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Lin Bad Pass Turnover (P3.T13),10:27 PM
+433,5,2,539,0021100612,MISS Noah 1' Layup,,2:20,4,4,0,0,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:27 PM
+434,0,4,540,0021100612,,,2:18,4,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Fields REBOUND (Off:0 Def:3),10:27 PM
+435,5,2,541,0021100612,Noah BLOCK (3 BLK),,2:07,4,5,0,4,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,,,MISS Stoudemire 2' Layup,10:28 PM
+436,1,9,542,0021100612,BULLS Timeout: Regular (Full 4 Short 0),,2:07,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:28 PM
+437,0,10,546,0021100612,Jump Ball Noah vs. Stoudemire: Tip to Rose,,2:07,4,4,5,4,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,,,,10:31 PM
+438,0,4,543,0021100612,BULLS Rebound,,2:07,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:31 PM
+439,42,1,548,0021100612,Rose 2' Driving Layup (30 PTS),,2:01,4,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,90 - 97,7,,10:31 PM
+440,42,2,549,0021100612,,,1:50,4,5,0,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Lin 2' Driving Layup,10:32 PM
+441,0,4,550,0021100612,Boozer REBOUND (Off:1 Def:6),,1:49,4,4,0,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:32 PM
+442,1,6,551,0021100612,,,1:37,4,5,4,1,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Anthony P.FOUL (P3.PN),10:32 PM
+443,11,3,552,0021100612,Rose Free Throw 1 of 2 (31 PTS),,1:37,4,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,90 - 98,8,,10:32 PM
+444,0,8,554,0021100612,SUB: Brewer FOR Korver,,1:37,4,4,4,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:33 PM
+445,0,8,555,0021100612,SUB: Gibson FOR Boozer,,1:37,4,4,4,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:33 PM
+446,12,3,556,0021100612,Rose Free Throw 2 of 2 (32 PTS),,1:37,4,4,0,0,201565,Derrick Rose,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,90 - 99,9,,10:33 PM
+447,1,2,558,0021100612,,,1:22,4,5,0,0,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Stoudemire 17' Jump Shot,10:33 PM
+448,0,4,559,0021100612,Gibson REBOUND (Off:8 Def:5),,1:21,4,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:33 PM
+449,1,2,560,0021100612,MISS Gibson 18' Jump Shot,,1:00,4,4,0,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:33 PM
+450,0,4,561,0021100612,,,1:00,4,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Rebound,10:33 PM
+451,42,1,562,0021100612,,,0:54,4,5,5,0,2199,Tyson Chandler,NYK,New York,1610612752.0,Knicks,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,92 - 99,7,Chandler 2' Driving Layup (13 PTS) (Lin 8 AST),10:33 PM
+452,1,9,564,0021100612,BULLS Timeout: Regular (Full 5 Short 0),,0:54,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:34 PM
+453,38,5,566,0021100612,BULLS Turnover: 5 Second Inbound (T#12),,0:54,4,2,0,1,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:36 PM
+454,1,1,567,0021100612,,,0:49,4,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,95 - 99,4,Anthony 25' 3PT Jump Shot (19 PTS),10:36 PM
+455,2,9,569,0021100612,BULLS Timeout: Short (Full 5 Short 1),,0:49,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:36 PM
+456,0,8,571,0021100612,SUB: Boozer FOR Brewer,,0:49,4,4,4,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:37 PM
+457,0,8,572,0021100612,SUB: Korver FOR Gibson,,0:49,4,4,4,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:37 PM
+458,0,8,573,0021100612,SUB: Lucas III FOR Butler,,0:49,4,4,4,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,101249,John Lucas III,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:37 PM
+459,1,6,574,0021100612,,,0:48,4,5,4,1,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Anthony P.FOUL (P4.PN),10:38 PM
+460,11,3,575,0021100612,MISS Korver Free Throw 1 of 2,,0:48,4,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:38 PM
+461,1,4,576,0021100612,BULLS Rebound,,0:48,4,2,0,0,1610612741,,,,,,0,,,,,,0,,,,,,,,,10:38 PM
+462,0,8,577,0021100612,SUB: Butler FOR Lucas III,,0:48,4,4,4,0,101249,John Lucas III,CHI,Chicago,1610612741.0,Bulls,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:38 PM
+463,0,8,578,0021100612,SUB: Gibson FOR Boozer,,0:48,4,4,4,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:38 PM
+464,12,3,579,0021100612,Korver Free Throw 2 of 2 (7 PTS),,0:48,4,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,95 - 100,5,,10:38 PM
+465,1,2,581,0021100612,,,0:32,4,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 29' 3PT Jump Shot,10:39 PM
+466,0,4,582,0021100612,,,0:31,4,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Fields REBOUND (Off:1 Def:3),10:39 PM
+467,1,2,583,0021100612,,,0:29,4,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Fields 8' Jump Shot,10:39 PM
+468,0,4,585,0021100612,,,0:26,4,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:1 Def:6),10:39 PM
+469,72,2,584,0021100612,,,0:26,4,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 1' Putback Layup,10:39 PM
+470,0,4,587,0021100612,,,0:25,4,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Anthony REBOUND (Off:2 Def:6),10:39 PM
+471,4,2,586,0021100612,,,0:25,4,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 2' Tip Shot,10:39 PM
+472,0,4,588,0021100612,Korver REBOUND (Off:3 Def:4),,0:23,4,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:39 PM
+473,5,7,589,0021100612,,,0:21,4,5,0,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,Fields Violation:Kicked Ball,10:39 PM
+474,0,8,590,0021100612,SUB: Boozer FOR Gibson,,0:21,4,4,4,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:39 PM
+475,0,8,592,0021100612,SUB: Lucas III FOR Butler,,0:21,4,4,4,0,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,101249,John Lucas III,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:40 PM
+476,0,8,593,0021100612,,,0:21,4,5,5,0,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Shumpert FOR Lin,10:40 PM
+477,1,6,594,0021100612,,,0:19,4,5,4,1,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,Shumpert P.FOUL (P1.PN),10:40 PM
+478,11,3,595,0021100612,Korver Free Throw 1 of 2 (8 PTS),,0:19,4,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,95 - 101,6,,10:40 PM
+479,0,8,597,0021100612,SUB: Gibson FOR Boozer,,0:19,4,4,4,0,2430,Carlos Boozer,CHI,Chicago,1610612741.0,Bulls,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:41 PM
+480,0,8,598,0021100612,SUB: Butler FOR Lucas III,,0:19,4,4,4,0,101249,John Lucas III,CHI,Chicago,1610612741.0,Bulls,202710,Jimmy Butler,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:41 PM
+481,12,3,599,0021100612,Korver Free Throw 2 of 2 (9 PTS),,0:19,4,4,0,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,95 - 102,7,,10:41 PM
+482,1,9,601,0021100612,,,0:19,4,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Regular (Reg.5 Short 0),10:41 PM
+483,0,8,602,0021100612,,,0:19,4,5,5,0,202697,Iman Shumpert,NYK,New York,1610612752.0,Knicks,202391,Jeremy Lin,NYK,New York,1610612752.0,Knicks,0,,,,,,,,SUB: Lin FOR Shumpert,10:42 PM
+484,0,8,603,0021100612,SUB: Brewer FOR Korver,,0:19,4,4,4,0,2594,Kyle Korver,CHI,Chicago,1610612741.0,Bulls,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,,,,10:43 PM
+485,1,2,604,0021100612,,,0:13,4,5,0,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,0,,,,,,0,,,,,,,,MISS Anthony 14' Jump Shot,10:43 PM
+486,0,4,605,0021100612,Brewer REBOUND (Off:1 Def:6),,0:12,4,4,0,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,0,,,,,,0,,,,,,,,,10:43 PM
+487,1,5,606,0021100612,Brewer Bad Pass Turnover (P4.T13),,0:09,4,4,5,0,200758,Ronnie Brewer,CHI,Chicago,1610612741.0,Bulls,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,,,Fields STEAL (1 STL),10:43 PM
+488,1,1,607,0021100612,,,0:07,4,5,5,0,2546,Carmelo Anthony,NYK,New York,1610612752.0,Knicks,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,0,,,,,,97 - 102,5,Anthony 14' Jump Shot (21 PTS) (Fields 3 AST),10:43 PM
+489,8,1,608,0021100612,Gibson 1' Slam Dunk (15 PTS) (Noah 5 AST),,0:05,4,4,4,0,201959,Taj Gibson,CHI,Chicago,1610612741.0,Bulls,201149,Joakim Noah,CHI,Chicago,1610612741.0,Bulls,0,,,,,,97 - 104,7,,10:43 PM
+490,2,9,609,0021100612,,,0:05,4,3,0,0,1610612752,,,,,,0,,,,,,0,,,,,,,,Knicks Timeout: Short (Reg.5 Short 1),10:43 PM
+491,42,1,613,0021100612,,,0:02,4,5,5,0,202361,Landry Fields,NYK,New York,1610612752.0,Knicks,2405,Amar'e Stoudemire,NYK,New York,1610612752.0,Knicks,0,,,,,,99 - 104,5,Fields 2' Driving Layup (12 PTS) (Stoudemire 1 AST),10:44 PM
+492,0,13,614,0021100612,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,99 - 104,5,,10:44 PM

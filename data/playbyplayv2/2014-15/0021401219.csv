@@ -1,0 +1,483 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021401219,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:12 PM
+1,0,10,1,0021401219,Jump Ball Howard vs. Gobert: Tip to Terry,,12:00,1,4,5,4,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,,,,8:12 PM
+2,1,2,2,0021401219,MISS Terry 8' Jump Shot,,11:42,1,4,0,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:12 PM
+3,0,4,3,0021401219,,,11:40,1,5,0,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Hood REBOUND (Off:0 Def:1),8:12 PM
+4,1,2,4,0021401219,,,11:25,1,5,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Favors 24' 3PT Jump Shot,8:13 PM
+5,0,4,5,0021401219,Ariza REBOUND (Off:0 Def:1),,11:24,1,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:13 PM
+6,42,2,6,0021401219,MISS Ariza 2' Driving Layup,,11:16,1,4,0,5,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,,,Gobert BLOCK (1 BLK),8:13 PM
+7,0,4,7,0021401219,,,11:15,1,5,0,0,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Exum REBOUND (Off:0 Def:1),8:13 PM
+8,5,2,8,0021401219,,,11:09,1,5,0,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Hood 1' Layup,8:13 PM
+9,0,4,9,0021401219,,,11:08,1,5,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Favors REBOUND (Off:1 Def:0),8:13 PM
+10,1,2,10,0021401219,Howard BLOCK (1 BLK),,11:06,1,5,0,4,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,,,MISS Favors 6' Jump Shot,8:13 PM
+11,0,4,11,0021401219,Jones REBOUND (Off:0 Def:1),,11:04,1,4,0,0,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:13 PM
+12,42,2,12,0021401219,MISS Harden 4' Driving Layup,,11:00,1,4,0,5,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,,,Exum BLOCK (1 BLK),8:13 PM
+13,0,4,13,0021401219,ROCKETS Rebound,,10:59,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:13 PM
+14,1,6,14,0021401219,,,10:58,1,5,4,1,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Hood P.FOUL (P1.T1),8:13 PM
+15,2,6,15,0021401219,,,10:51,1,5,4,1,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Exum S.FOUL (P1.T2),8:14 PM
+16,11,3,16,0021401219,Harden Free Throw 1 of 2 (1 PTS),,10:51,1,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,0 - 1,1,,8:14 PM
+17,12,3,18,0021401219,Harden Free Throw 2 of 2 (2 PTS),,10:51,1,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,0 - 2,2,,8:14 PM
+18,7,1,21,0021401219,,,10:31,1,5,5,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,2 - 2,TIE,Gobert  Dunk (2 PTS) (Favors 1 AST),8:15 PM
+19,65,1,22,0021401219,Howard 4' Jump Hook Shot (2 PTS),,10:17,1,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,2 - 4,2,,8:15 PM
+20,79,2,23,0021401219,,,9:57,1,5,0,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Hood 18' Pullup Jump Shot,8:15 PM
+21,0,4,24,0021401219,,,9:55,1,5,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Favors REBOUND (Off:2 Def:0),8:15 PM
+22,1,2,25,0021401219,,,9:39,1,5,0,0,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Ingles 23' Jump Shot,8:16 PM
+23,0,4,26,0021401219,ROCKETS Rebound,,9:39,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:16 PM
+24,3,6,27,0021401219,,,9:39,1,5,4,1,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Favors L.B.FOUL (P1.T3),8:16 PM
+25,65,2,29,0021401219,MISS Howard 5' Jump Hook Shot,,9:19,1,4,0,5,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,,,Gobert BLOCK (2 BLK),8:16 PM
+26,0,4,30,0021401219,ROCKETS Rebound,,9:18,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:16 PM
+27,1,1,31,0021401219,Ariza 25' 3PT Jump Shot (3 PTS) (Jones 1 AST),,9:13,1,4,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,2 - 7,5,,8:17 PM
+28,41,2,32,0021401219,Jones BLOCK (1 BLK),,8:52,1,5,0,4,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,,,MISS Gobert 4' Running Layup,8:17 PM
+29,0,4,33,0021401219,Howard REBOUND (Off:0 Def:1),,8:50,1,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:17 PM
+30,1,5,34,0021401219,Howard Bad Pass Turnover (P1.T1),,8:50,1,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:17 PM
+31,1,2,35,0021401219,,,8:33,1,5,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Favors 19' Jump Shot,8:17 PM
+32,0,4,36,0021401219,,,8:33,1,5,0,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Gobert REBOUND (Off:1 Def:0),8:17 PM
+33,79,1,37,0021401219,,,8:26,1,5,0,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,4 - 7,3,Hood 17' Pullup Jump Shot (2 PTS),8:18 PM
+34,52,1,39,0021401219,Howard  Alley Oop Dunk (4 PTS) (Harden 1 AST),,8:14,1,4,4,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,4 - 9,5,,8:18 PM
+35,46,2,40,0021401219,Howard BLOCK (2 BLK),,7:52,1,5,0,4,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,,,MISS Hood 4' Running Jump Shot,8:18 PM
+36,0,4,41,0021401219,,,7:52,1,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,8:18 PM
+37,0,8,42,0021401219,,,7:52,1,5,5,0,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Burke FOR Ingles,8:18 PM
+38,0,8,43,0021401219,,,7:52,1,5,5,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Evans FOR Favors,8:18 PM
+39,80,2,45,0021401219,,,7:46,1,5,0,0,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Exum 24' 3PT Step Back Jump Shot,8:19 PM
+40,0,4,46,0021401219,Howard REBOUND (Off:0 Def:2),,7:44,1,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:19 PM
+41,1,2,47,0021401219,MISS Terry 24' 3PT Jump Shot,,7:37,1,4,0,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:19 PM
+42,0,4,49,0021401219,Howard REBOUND (Off:1 Def:2),,7:36,1,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:19 PM
+43,72,1,48,0021401219,Howard 2' Putback Layup (6 PTS),,7:36,1,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,4 - 11,7,,8:19 PM
+44,46,2,50,0021401219,,,7:19,1,5,0,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Burke 9' Running Jump Shot,8:19 PM
+45,0,4,51,0021401219,Jones REBOUND (Off:0 Def:2),,7:17,1,4,0,0,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:19 PM
+46,2,6,52,0021401219,,,7:08,1,5,4,1,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Burke S.FOUL (P1.T4),8:19 PM
+47,11,3,53,0021401219,Harden Free Throw 1 of 2 (3 PTS),,7:08,1,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,4 - 12,8,,8:20 PM
+48,12,3,55,0021401219,Harden Free Throw 2 of 2 (4 PTS),,7:08,1,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,4 - 13,9,,8:20 PM
+49,1,2,57,0021401219,,,6:54,1,5,0,0,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Exum 25' 3PT Jump Shot,8:20 PM
+50,0,4,58,0021401219,,,6:53,1,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Evans REBOUND (Off:1 Def:0),8:20 PM
+51,5,1,59,0021401219,,,6:49,1,5,5,0,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,6 - 13,7,Exum 2' Layup (2 PTS) (Evans 1 AST),8:20 PM
+52,79,2,60,0021401219,MISS Terry 17' Pullup Jump Shot,,6:29,1,4,0,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:21 PM
+53,0,4,61,0021401219,,,6:27,1,5,0,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Gobert REBOUND (Off:1 Def:1),8:21 PM
+54,1,5,62,0021401219,,,6:16,1,5,0,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Burke Bad Pass Turnover (P1.T1),8:21 PM
+55,88,1,63,0021401219,Jones  Driving Slam Dunk (2 PTS) (Harden 2 AST),,6:05,1,4,4,0,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,6 - 15,9,,8:21 PM
+56,5,1,64,0021401219,,,5:45,1,5,5,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,8 - 15,7,Evans 3' Layup (2 PTS) (Hood 1 AST),8:22 PM
+57,2,6,65,0021401219,Harden S.FOUL (P1.T1),,5:45,1,4,5,1,201935,James Harden,HOU,Houston,1610612745.0,Rockets,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,8:22 PM
+58,1,9,66,0021401219,ROCKETS Timeout: Regular (Full 1 Short 0),,5:45,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:22 PM
+59,0,8,68,0021401219,SUB: Capela FOR Howard,,5:45,1,4,4,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:24 PM
+60,10,3,70,0021401219,,,5:45,1,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,9 - 15,6,Evans Free Throw 1 of 1 (3 PTS),8:24 PM
+61,1,5,72,0021401219,Harden Bad Pass Turnover (P1.T2),,5:32,1,4,5,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Gobert STEAL (1 STL),8:25 PM
+62,1,2,73,0021401219,Terry BLOCK (1 BLK),,5:26,1,5,0,4,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,,,MISS Burke 4' Jump Shot,8:25 PM
+63,0,4,74,0021401219,,,5:25,1,5,0,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Burke REBOUND (Off:1 Def:0),8:25 PM
+64,2,6,75,0021401219,Terry S.FOUL (P1.T2),,5:25,1,4,5,1,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,8:25 PM
+65,11,3,76,0021401219,,,5:25,1,5,0,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,10 - 15,5,Burke Free Throw 1 of 2 (1 PTS),8:25 PM
+66,0,8,78,0021401219,,,5:25,1,5,5,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Favors FOR Gobert,8:25 PM
+67,12,3,79,0021401219,,,5:25,1,5,0,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Burke Free Throw 2 of 2,8:25 PM
+68,0,4,81,0021401219,Capela REBOUND (Off:0 Def:1),,5:25,1,4,0,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:25 PM
+69,77,1,82,0021401219,Jones 4' Driving Jump Shot (4 PTS),,5:06,1,4,0,0,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,10 - 17,7,,8:26 PM
+70,1,2,83,0021401219,,,4:51,1,5,0,0,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Exum  3PT Jump Shot,8:26 PM
+71,0,4,84,0021401219,,,4:50,1,5,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Favors REBOUND (Off:3 Def:0),8:26 PM
+72,72,1,85,0021401219,,,4:49,1,5,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,12 - 17,5,Favors 3' Putback Layup (2 PTS),8:26 PM
+73,2,6,86,0021401219,Capela S.FOUL (P1.T3),,4:49,1,4,5,1,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,8:26 PM
+74,0,8,87,0021401219,SUB: Smith FOR Jones,,4:49,1,4,4,0,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:26 PM
+75,10,3,88,0021401219,,,4:49,1,5,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Favors Free Throw 1 of 1,8:26 PM
+76,0,4,90,0021401219,Smith REBOUND (Off:0 Def:1),,4:49,1,4,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:27 PM
+77,42,1,91,0021401219,Harden 1' Driving Layup (6 PTS),,4:39,1,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,12 - 19,7,,8:27 PM
+78,79,1,92,0021401219,,,4:15,1,5,0,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,15 - 19,4,Hood 26' 3PT Pullup Jump Shot (5 PTS),8:27 PM
+79,5,1,93,0021401219,Capela 3' Layup (2 PTS) (Smith 1 AST),,4:02,1,4,4,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,15 - 21,6,,8:27 PM
+80,1,5,94,0021401219,Terry STEAL (1 STL),,3:44,1,5,4,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Hood Bad Pass Turnover (P1.T2),8:28 PM
+81,90,1,95,0021401219,Ariza  Running Slam Dunk (5 PTS) (Terry 1 AST),,3:40,1,4,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,15 - 23,8,,8:28 PM
+82,1,9,96,0021401219,,,3:39,1,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Timeout: Regular (Reg.1 Short 0),8:28 PM
+83,0,8,98,0021401219,SUB: Prigioni FOR Ariza,,3:39,1,4,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:29 PM
+84,0,8,99,0021401219,SUB: Brewer FOR Terry,,3:39,1,4,4,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:30 PM
+85,58,2,101,0021401219,,,3:19,1,5,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Favors 3' Turnaround Hook Shot,8:31 PM
+86,0,4,102,0021401219,Harden REBOUND (Off:0 Def:1),,3:18,1,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:31 PM
+87,0,8,104,0021401219,,,3:14,1,5,5,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Millsap FOR Hood,8:31 PM
+88,0,8,105,0021401219,,,3:14,1,5,5,0,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Johnson FOR Exum,8:31 PM
+89,2,6,106,0021401219,,,3:03,1,5,4,1,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Favors S.FOUL (P2.PN),8:31 PM
+90,11,3,107,0021401219,Smith Free Throw 1 of 2 (1 PTS),,3:03,1,4,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,15 - 24,9,,8:31 PM
+91,12,3,109,0021401219,MISS Smith Free Throw 2 of 2,,3:03,1,4,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:32 PM
+92,0,4,111,0021401219,,,3:03,1,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Evans REBOUND (Off:1 Def:1),8:32 PM
+93,1,6,113,0021401219,Prigioni P.FOUL (P1.T4),,2:55,1,4,5,1,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,8:32 PM
+94,1,1,114,0021401219,,,2:45,1,5,5,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,18 - 24,6,Millsap 25' 3PT Jump Shot (3 PTS) (Burke 1 AST),8:33 PM
+95,1,2,115,0021401219,MISS Brewer  3PT Jump Shot,,2:20,1,4,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:33 PM
+96,0,4,116,0021401219,,,2:19,1,5,0,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Millsap REBOUND (Off:0 Def:1),8:33 PM
+97,1,5,117,0021401219,,,2:12,1,5,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Favors Bad Pass Turnover (P1.T3),8:33 PM
+98,27,6,118,0021401219,,,2:04,1,5,4,1,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Millsap Personal Block Foul (P1.PN),8:34 PM
+99,11,3,119,0021401219,Harden Free Throw 1 of 2 (7 PTS),,2:04,1,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,18 - 25,7,,8:34 PM
+100,0,8,121,0021401219,,,2:04,1,5,5,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Cotton FOR Burke,8:34 PM
+101,12,3,122,0021401219,Harden Free Throw 2 of 2 (8 PTS),,2:04,1,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,18 - 26,8,,8:34 PM
+102,1,2,124,0021401219,,,1:47,1,5,0,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Millsap 25' 3PT Jump Shot,8:34 PM
+103,0,4,125,0021401219,Capela REBOUND (Off:0 Def:2),,1:46,1,4,0,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:34 PM
+104,79,2,126,0021401219,MISS Harden 28' 3PT Pullup Jump Shot,,1:39,1,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:35 PM
+105,0,4,127,0021401219,,,1:37,1,5,0,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Favors REBOUND (Off:3 Def:1),8:35 PM
+106,1,5,128,0021401219,Smith STEAL (1 STL),,1:27,1,5,4,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Favors Bad Pass Turnover (P2.T4),8:35 PM
+107,1,1,129,0021401219,Smith 26' 3PT Jump Shot (4 PTS) (Prigioni 1 AST),,1:18,1,4,4,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,18 - 29,11,,8:35 PM
+108,1,1,130,0021401219,,,1:03,1,5,5,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,20 - 29,9,Favors 15' Jump Shot (4 PTS) (Cotton 1 AST),8:35 PM
+109,1,1,131,0021401219,Smith 14' Jump Shot (6 PTS) (Brewer 1 AST),,0:47,1,4,4,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,20 - 31,11,,8:35 PM
+110,77,2,132,0021401219,Capela BLOCK (1 BLK),,0:25,1,5,0,4,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,0,,,,,,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,,,MISS Johnson 5' Driving Jump Shot,8:36 PM
+111,0,4,133,0021401219,,,0:24,1,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,8:36 PM
+112,11,5,134,0021401219,,,0:23,1,3,0,1,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Turnover: Shot Clock (T#5),8:36 PM
+113,0,8,135,0021401219,SUB: Terry FOR Capela,,0:23,1,4,4,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:36 PM
+114,0,8,136,0021401219,,,0:23,1,5,5,0,202324,Derrick Favors,UTA,Utah,1610612762.0,Jazz,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Gobert FOR Favors,8:36 PM
+115,1,2,137,0021401219,MISS Harden 26' 3PT Jump Shot,,0:00,1,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:37 PM
+116,0,4,138,0021401219,ROCKETS Rebound,,0:00,1,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:37 PM
+117,0,13,139,0021401219,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,20 - 31,11,,8:37 PM
+118,0,12,141,0021401219,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,20 - 31,11,,8:39 PM
+119,66,1,142,0021401219,,,11:43,2,5,0,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,22 - 31,9,Cotton 12' Jump Bank Shot (2 PTS),8:40 PM
+120,1,2,143,0021401219,MISS Brewer 23' Jump Shot,,11:23,2,4,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:40 PM
+121,0,4,144,0021401219,,,11:22,2,5,0,0,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Ingles REBOUND (Off:0 Def:1),8:40 PM
+122,39,5,145,0021401219,,,11:14,2,5,0,0,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Johnson Step Out of Bounds Turnover (P1.T6),8:40 PM
+123,1,2,146,0021401219,MISS Smith 25' 3PT Jump Shot,,10:59,2,4,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:41 PM
+124,0,4,147,0021401219,,,10:59,2,5,0,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Gobert REBOUND (Off:1 Def:2),8:41 PM
+125,46,2,148,0021401219,Smith BLOCK (1 BLK),,10:48,2,5,0,4,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,,,MISS Cotton 9' Running Jump Shot,8:41 PM
+126,0,4,149,0021401219,Prigioni REBOUND (Off:0 Def:1),,10:47,2,4,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:41 PM
+127,1,2,150,0021401219,MISS Ariza 25' 3PT Jump Shot,,10:40,2,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:41 PM
+128,0,4,151,0021401219,,,10:39,2,5,0,0,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Ingles REBOUND (Off:0 Def:2),8:41 PM
+129,1,2,152,0021401219,,,10:21,2,5,0,0,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Ingles 25' 3PT Jump Shot,8:41 PM
+130,0,4,153,0021401219,Smith REBOUND (Off:0 Def:2),,10:20,2,4,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:41 PM
+131,79,2,154,0021401219,MISS Smith 11' Pullup Jump Shot,,9:59,2,4,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:42 PM
+132,0,4,155,0021401219,Prigioni REBOUND (Off:1 Def:1),,9:58,2,4,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:42 PM
+133,1,1,156,0021401219,Smith  3PT Jump Shot (9 PTS) (Prigioni 2 AST),,9:37,2,4,4,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,22 - 34,12,,8:42 PM
+134,79,2,157,0021401219,,,9:25,2,5,0,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Cotton 24' 3PT Pullup Jump Shot,8:42 PM
+135,0,4,159,0021401219,,,9:24,2,5,0,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Gobert REBOUND (Off:2 Def:2),8:42 PM
+136,4,2,158,0021401219,,,9:24,2,5,0,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Gobert  Tip Shot,8:42 PM
+137,0,4,160,0021401219,Brewer REBOUND (Off:0 Def:1),,9:22,2,4,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:42 PM
+138,2,6,161,0021401219,,,9:15,2,5,4,1,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Ingles S.FOUL (P1.T1),8:42 PM
+139,11,3,163,0021401219,Howard Free Throw 1 of 2 (7 PTS),,9:15,2,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,22 - 35,13,,8:43 PM
+140,12,3,165,0021401219,MISS Howard Free Throw 2 of 2,,9:15,2,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:43 PM
+141,0,4,167,0021401219,,,9:15,2,5,0,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Gobert REBOUND (Off:2 Def:3),8:43 PM
+142,1,5,168,0021401219,Ariza STEAL (1 STL),,9:02,2,5,4,0,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Ingles Bad Pass Turnover (P1.T7),8:43 PM
+143,42,1,169,0021401219,Brewer 4' Driving Layup (2 PTS) (Ariza 1 AST),,8:58,2,4,4,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,22 - 37,15,,8:43 PM
+144,1,9,171,0021401219,,,8:58,2,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Timeout: Regular (Reg.2 Short 0),8:44 PM
+145,0,8,173,0021401219,,,8:58,2,5,5,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Hood FOR Millsap,8:45 PM
+146,84,2,174,0021401219,,,8:39,2,5,0,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Hood 10' Running Bank Shot,8:46 PM
+147,0,4,175,0021401219,Prigioni REBOUND (Off:1 Def:2),,8:36,2,4,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:46 PM
+148,1,2,176,0021401219,MISS Ariza  3PT Jump Shot,,8:14,2,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:46 PM
+149,0,4,177,0021401219,ROCKETS Rebound,,8:14,2,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:46 PM
+150,11,5,178,0021401219,ROCKETS Turnover: Shot Clock (T#3),,8:14,2,2,0,1,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:46 PM
+151,79,2,179,0021401219,,,7:58,2,5,0,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Hood 11' Pullup Jump Shot,8:47 PM
+152,0,4,180,0021401219,Howard REBOUND (Off:1 Def:3),,7:56,2,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:47 PM
+153,44,2,181,0021401219,MISS Brewer 2' Reverse Layup,,7:51,2,4,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:47 PM
+154,0,4,182,0021401219,Ariza REBOUND (Off:1 Def:1),,7:50,2,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:47 PM
+155,5,2,183,0021401219,MISS Ariza 1' Layup,,7:47,2,4,0,5,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,,,Hood BLOCK (1 BLK),8:47 PM
+156,0,4,184,0021401219,,,7:45,2,5,0,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Cotton REBOUND (Off:0 Def:1),8:47 PM
+157,78,1,185,0021401219,,,7:41,2,5,0,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,24 - 37,13,Cotton 4' Floating Jump Shot (4 PTS),8:47 PM
+158,1,2,186,0021401219,MISS Smith 9' Jump Shot,,7:26,2,4,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:47 PM
+159,0,4,187,0021401219,Howard REBOUND (Off:2 Def:3),,7:25,2,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:47 PM
+160,72,1,188,0021401219,Howard 1' Putback Layup (9 PTS),,7:22,2,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,24 - 39,15,,8:47 PM
+161,66,2,189,0021401219,,,7:12,2,5,0,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Cotton 10' Jump Bank Shot,8:48 PM
+162,0,4,190,0021401219,Prigioni REBOUND (Off:1 Def:3),,7:09,2,4,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:48 PM
+163,1,6,191,0021401219,,,7:09,2,5,4,1,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Cotton P.FOUL (P1.T2),8:48 PM
+164,0,8,192,0021401219,SUB: Capela FOR Howard,,7:09,2,4,4,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:48 PM
+165,0,8,193,0021401219,,,7:09,2,5,5,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Cooley FOR Gobert,8:48 PM
+166,1,2,195,0021401219,MISS Brewer  3PT Jump Shot,,6:57,2,4,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:48 PM
+167,0,4,196,0021401219,,,6:56,2,5,0,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Hood REBOUND (Off:0 Def:2),8:48 PM
+168,1,5,197,0021401219,Prigioni STEAL (1 STL),,6:47,2,5,4,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Hood Bad Pass Turnover (P2.T8),8:48 PM
+169,5,1,198,0021401219,Brewer 3' Layup (4 PTS) (Ariza 2 AST),,6:40,2,4,4,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,24 - 41,17,,8:49 PM
+170,79,2,199,0021401219,,,6:16,2,5,0,0,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Ingles 26' 3PT Pullup Jump Shot,8:49 PM
+171,0,4,200,0021401219,Brewer REBOUND (Off:0 Def:2),,6:14,2,4,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:49 PM
+172,1,1,201,0021401219,Smith 24' 3PT Jump Shot (12 PTS) (Brewer 2 AST),,6:08,2,4,4,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,24 - 44,20,,8:49 PM
+173,73,2,202,0021401219,,,5:42,2,5,0,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Hood 2' Driving Reverse Layup,8:50 PM
+174,0,4,203,0021401219,,,5:39,2,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Cooley REBOUND (Off:1 Def:0),8:50 PM
+175,5,2,204,0021401219,,,5:38,2,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Cooley 2' Layup,8:50 PM
+176,0,4,205,0021401219,Brewer REBOUND (Off:0 Def:3),,5:37,2,4,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:50 PM
+177,1,2,206,0021401219,MISS Ariza  3PT Jump Shot,,5:30,2,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:50 PM
+178,0,4,207,0021401219,,,5:29,2,5,0,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Cotton REBOUND (Off:0 Def:2),8:50 PM
+179,46,2,208,0021401219,,,5:21,2,5,0,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Cotton 10' Running Jump Shot,8:50 PM
+180,0,4,210,0021401219,,,5:19,2,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Cooley REBOUND (Off:2 Def:0),8:50 PM
+181,4,1,209,0021401219,,,5:19,2,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,26 - 44,18,Cooley 1' Tip Shot (2 PTS),8:50 PM
+182,2,6,211,0021401219,,,5:05,2,5,4,1,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Cooley S.FOUL (P1.T3),8:50 PM
+183,1,9,213,0021401219,,,5:05,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,8:51 PM
+184,0,8,215,0021401219,SUB: Jones FOR Ariza,,5:05,2,4,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:52 PM
+185,0,8,216,0021401219,SUB: Harden FOR Capela,,5:05,2,4,4,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:52 PM
+186,0,8,217,0021401219,SUB: Terry FOR Prigioni,,5:05,2,4,4,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:52 PM
+187,0,8,218,0021401219,,,5:05,2,5,5,0,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Burke FOR Ingles,8:52 PM
+188,0,8,219,0021401219,,,5:05,2,5,5,0,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Exum FOR Johnson,8:52 PM
+189,0,8,220,0021401219,,,5:05,2,5,5,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Evans FOR Cotton,8:52 PM
+190,11,3,221,0021401219,MISS Smith Free Throw 1 of 2,,5:05,2,4,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:53 PM
+191,1,4,222,0021401219,ROCKETS Rebound,,5:05,2,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:53 PM
+192,12,3,223,0021401219,Smith Free Throw 2 of 2 (13 PTS),,5:05,2,4,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,26 - 45,19,,8:53 PM
+193,77,2,225,0021401219,Brewer BLOCK (1 BLK),,4:44,2,5,0,4,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,,,MISS Hood 7' Driving Jump Shot,8:54 PM
+194,0,4,226,0021401219,,,4:44,2,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,8:54 PM
+195,1,2,227,0021401219,Smith BLOCK (2 BLK),,4:42,2,5,0,4,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,,,MISS Cooley 21' Jump Shot,8:54 PM
+196,0,4,228,0021401219,,,4:42,2,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,8:54 PM
+197,43,2,229,0021401219,,,4:40,2,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Evans 2' Alley Oop Layup,8:54 PM
+198,0,4,231,0021401219,,,4:38,2,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Evans REBOUND (Off:2 Def:1),8:54 PM
+199,72,1,230,0021401219,,,4:38,2,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,28 - 45,17,Evans 2' Putback Layup (5 PTS),8:54 PM
+200,15,5,233,0021401219,Jones Offensive Goaltending Turnover (P1.T4),,4:25,2,4,0,1,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:55 PM
+201,1,2,234,0021401219,,,4:12,2,5,0,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Burke 25' 3PT Jump Shot,8:55 PM
+202,0,4,235,0021401219,Harden REBOUND (Off:0 Def:2),,4:11,2,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:55 PM
+203,1,5,236,0021401219,Smith Bad Pass Turnover (P1.T5),,4:05,2,4,5,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Burke STEAL (1 STL),8:55 PM
+204,77,2,237,0021401219,Harden BLOCK (1 BLK),,4:00,2,5,0,4,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,201935,James Harden,HOU,Houston,1610612745.0,Rockets,,,MISS Burke 8' Driving Jump Shot,8:55 PM
+205,0,4,238,0021401219,Terry REBOUND (Off:0 Def:1),,3:58,2,4,0,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:55 PM
+206,2,6,239,0021401219,,,3:56,2,5,4,1,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Hood S.FOUL (P2.T4),8:55 PM
+207,11,3,240,0021401219,Brewer Free Throw 1 of 2 (5 PTS),,3:56,2,4,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,28 - 46,18,,8:55 PM
+208,0,8,242,0021401219,,,3:56,2,5,5,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Johnson FOR Hood,8:56 PM
+209,0,8,243,0021401219,,,3:56,2,5,5,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Gobert FOR Cooley,8:56 PM
+210,12,3,244,0021401219,Brewer Free Throw 2 of 2 (6 PTS),,3:56,2,4,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,28 - 47,19,,8:56 PM
+211,79,1,246,0021401219,,,3:40,2,5,0,0,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,30 - 47,17,Exum 16' Pullup Jump Shot (4 PTS),8:56 PM
+212,1,1,247,0021401219,Jones 26' 3PT Jump Shot (7 PTS) (Smith 2 AST),,3:29,2,4,4,0,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,30 - 50,20,,8:56 PM
+213,1,2,248,0021401219,,,3:07,2,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Evans 25' 3PT Jump Shot,8:57 PM
+214,0,4,249,0021401219,Harden REBOUND (Off:0 Def:3),,3:06,2,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:57 PM
+215,80,1,250,0021401219,Harden 25' 3PT Step Back Jump Shot (11 PTS),,3:00,2,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,30 - 53,23,,8:57 PM
+216,1,5,251,0021401219,Brewer STEAL (1 STL),,2:54,2,5,4,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Gobert Bad Pass Turnover (P1.T9),8:57 PM
+217,1,2,252,0021401219,MISS Brewer 4' Jump Shot,,2:50,2,4,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:57 PM
+218,0,4,253,0021401219,,,2:50,2,5,0,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Burke REBOUND (Off:1 Def:1),8:57 PM
+219,1,2,254,0021401219,Jones BLOCK (2 BLK),,2:46,2,5,0,4,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,0,,,,,,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,,,MISS Johnson 24' 3PT Jump Shot,8:57 PM
+220,0,4,255,0021401219,,,2:44,2,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Evans REBOUND (Off:3 Def:1),8:57 PM
+221,5,2,256,0021401219,Smith BLOCK (3 BLK),,2:43,2,5,0,4,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,,,MISS Evans  Layup,8:57 PM
+222,0,4,257,0021401219,Harden REBOUND (Off:0 Def:4),,2:41,2,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,8:57 PM
+223,7,1,258,0021401219,Brewer  Dunk (8 PTS) (Harden 3 AST),,2:41,2,4,4,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,30 - 55,25,,8:57 PM
+224,2,9,259,0021401219,,,2:41,2,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Timeout: Short (Reg.2 Short 1),8:57 PM
+225,1,9,260,0021401219,ROCKETS Timeout: Regular (Full 2 Short 0),,2:41,2,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,8:57 PM
+226,0,8,262,0021401219,SUB: Howard FOR Smith,,2:41,2,4,4,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,8:59 PM
+227,1,2,264,0021401219,,,2:24,2,5,0,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Burke  3PT Jump Shot,9:00 PM
+228,0,4,265,0021401219,Harden REBOUND (Off:0 Def:5),,2:23,2,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:00 PM
+229,8,1,266,0021401219,Jones  Slam Dunk (9 PTS) (Harden 4 AST),,2:19,2,4,4,0,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,30 - 57,27,,9:00 PM
+230,1,2,267,0021401219,,,2:06,2,5,0,0,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Johnson 24' 3PT Jump Shot,9:00 PM
+231,0,4,268,0021401219,Terry REBOUND (Off:0 Def:2),,2:05,2,4,0,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:00 PM
+232,75,1,269,0021401219,Brewer 1' Driving Finger Roll Layup (10 PTS) (Terry 2 AST),,2:01,2,4,4,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,30 - 59,29,,9:01 PM
+233,1,5,270,0021401219,,,1:46,2,5,0,0,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Exum Bad Pass Turnover (P1.T10),9:01 PM
+234,1,1,271,0021401219,Terry  3PT Jump Shot (3 PTS) (Harden 5 AST),,1:31,2,4,4,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,30 - 62,32,,9:01 PM
+235,78,2,272,0021401219,,,1:18,2,5,0,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Burke 8' Floating Jump Shot,9:01 PM
+236,0,4,273,0021401219,ROCKETS Rebound,,1:17,2,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:01 PM
+237,0,8,274,0021401219,,,1:17,2,5,5,0,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Millsap FOR Exum,9:02 PM
+238,1,5,275,0021401219,Harden Bad Pass Turnover (P2.T6),,1:03,2,4,5,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Evans STEAL (1 STL),9:02 PM
+239,88,1,276,0021401219,,,0:58,2,5,5,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,32 - 62,30,Millsap  Driving Slam Dunk (5 PTS) (Burke 2 AST),9:02 PM
+240,1,5,277,0021401219,Howard Bad Pass Turnover (P2.T7),,0:49,2,4,5,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Burke STEAL (2 STL),9:02 PM
+241,1,1,278,0021401219,,,0:44,2,5,5,0,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,34 - 62,28,Johnson 3' Jump Shot (2 PTS) (Millsap 1 AST),9:02 PM
+242,77,2,279,0021401219,MISS Harden 8' Driving Jump Shot,,0:27,2,4,0,5,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,,,Gobert BLOCK (3 BLK),9:03 PM
+243,0,4,280,0021401219,,,0:25,2,5,0,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Millsap REBOUND (Off:0 Def:2),9:03 PM
+244,2,6,281,0021401219,Jones S.FOUL (P1.T1),,0:23,2,4,5,1,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:03 PM
+245,11,3,282,0021401219,,,0:23,2,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Evans Free Throw 1 of 2,9:03 PM
+246,1,4,283,0021401219,,,0:23,2,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,9:03 PM
+247,12,3,284,0021401219,,,0:23,2,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,35 - 62,27,Evans Free Throw 2 of 2 (6 PTS),9:03 PM
+248,80,1,286,0021401219,Harden 24' 3PT Step Back Jump Shot (14 PTS),,0:01,2,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,35 - 65,30,,9:04 PM
+249,1,5,287,0021401219,Brewer STEAL (2 STL),,0:01,2,5,4,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Gobert Bad Pass Turnover (P2.T11),9:04 PM
+250,84,2,288,0021401219,MISS Brewer 14' Running Bank Shot,,0:00,2,4,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:04 PM
+251,0,4,289,0021401219,ROCKETS Rebound,,0:00,2,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:04 PM
+252,0,13,290,0021401219,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,35 - 65,30,,9:04 PM
+253,0,12,292,0021401219,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,35 - 65,30,,9:20 PM
+254,1,2,293,0021401219,,,11:40,3,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Evans 19' Jump Shot,9:20 PM
+255,0,4,294,0021401219,Howard REBOUND (Off:2 Def:4),,11:39,3,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:21 PM
+256,1,2,295,0021401219,MISS Harden 25' 3PT Jump Shot,,11:21,3,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:21 PM
+257,0,4,296,0021401219,,,11:20,3,5,0,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Gobert REBOUND (Off:2 Def:4),9:21 PM
+258,8,1,297,0021401219,,,11:11,3,5,5,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,0,,,,,,37 - 65,28,Gobert  Slam Dunk (4 PTS) (Ingles 1 AST),9:21 PM
+259,1,2,298,0021401219,MISS Ariza 25' 3PT Jump Shot,,10:48,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:21 PM
+260,0,4,299,0021401219,,,10:47,3,5,0,0,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Exum REBOUND (Off:0 Def:2),9:21 PM
+261,1,2,300,0021401219,,,10:37,3,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Evans 20' Jump Shot,9:22 PM
+262,0,4,301,0021401219,Ariza REBOUND (Off:1 Def:2),,10:36,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:22 PM
+263,1,5,302,0021401219,Harden Bad Pass Turnover (P3.T8),,10:20,3,4,5,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Ingles STEAL (1 STL),9:22 PM
+264,7,1,303,0021401219,,,10:17,3,5,5,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,0,,,,,,39 - 65,26,Hood  Dunk (7 PTS) (Ingles 2 AST),9:22 PM
+265,1,1,304,0021401219,Terry  3PT Jump Shot (6 PTS) (Ariza 3 AST),,9:54,3,4,4,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,39 - 68,29,,9:22 PM
+266,2,6,305,0021401219,Jones S.FOUL (P2.T1),,9:36,3,4,5,1,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:23 PM
+267,11,3,306,0021401219,,,9:36,3,5,0,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,40 - 68,28,Gobert Free Throw 1 of 2 (5 PTS),9:23 PM
+268,12,3,308,0021401219,,,9:36,3,5,0,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,41 - 68,27,Gobert Free Throw 2 of 2 (6 PTS),9:23 PM
+269,1,5,310,0021401219,Harden Bad Pass Turnover (P4.T9),,9:28,3,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:23 PM
+270,1,5,311,0021401219,Harden STEAL (1 STL),,9:18,3,5,4,0,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Exum Bad Pass Turnover (P2.T12),9:24 PM
+271,1,5,312,0021401219,Harden Bad Pass Turnover (P5.T10),,9:16,3,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:24 PM
+272,80,2,313,0021401219,,,9:04,3,5,0,0,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Exum 17' Step Back Jump Shot,9:24 PM
+273,0,4,314,0021401219,Harden REBOUND (Off:0 Def:6),,9:02,3,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:24 PM
+274,43,1,315,0021401219,Howard 3' Alley Oop Layup (11 PTS) (Jones 2 AST),,8:53,3,4,4,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,41 - 70,29,,9:24 PM
+275,1,2,316,0021401219,,,8:35,3,5,0,0,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Ingles 25' 3PT Jump Shot,9:25 PM
+276,0,4,317,0021401219,Howard REBOUND (Off:2 Def:5),,8:34,3,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:25 PM
+277,41,1,318,0021401219,Jones 3' Running Layup (11 PTS) (Harden 6 AST),,8:18,3,4,4,0,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,41 - 72,31,,9:25 PM
+278,1,1,319,0021401219,,,7:58,3,5,5,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,44 - 72,28,Hood 24' 3PT Jump Shot (10 PTS) (Evans 2 AST),9:25 PM
+279,2,6,320,0021401219,,,7:43,3,5,4,1,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Evans S.FOUL (P1.T1),9:26 PM
+280,11,3,321,0021401219,Howard Free Throw 1 of 2 (12 PTS),,7:43,3,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,44 - 73,29,,9:26 PM
+281,0,8,323,0021401219,,,7:43,3,5,5,0,203957,Dante Exum,UTA,Utah,1610612762.0,Jazz,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Burke FOR Exum,9:26 PM
+282,0,8,324,0021401219,,,7:43,3,5,5,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Jerrett FOR Evans,9:26 PM
+283,12,3,325,0021401219,MISS Howard Free Throw 2 of 2,,7:43,3,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:26 PM
+284,0,4,327,0021401219,,,7:43,3,5,0,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Gobert REBOUND (Off:2 Def:5),9:26 PM
+285,46,2,328,0021401219,,,7:21,3,5,0,0,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Ingles 6' Running Jump Shot,9:27 PM
+286,0,4,330,0021401219,,,7:20,3,5,0,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Gobert REBOUND (Off:3 Def:5),9:27 PM
+287,87,1,329,0021401219,,,7:20,3,5,0,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,46 - 73,27,Gobert  Putback Dunk (8 PTS),9:27 PM
+288,2,6,331,0021401219,,,7:10,3,5,4,1,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Ingles S.FOUL (P2.T2),9:27 PM
+289,11,3,332,0021401219,MISS Ariza Free Throw 1 of 2,,7:10,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:27 PM
+290,1,4,333,0021401219,ROCKETS Rebound,,7:10,3,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:27 PM
+291,12,3,334,0021401219,Ariza Free Throw 2 of 2 (6 PTS),,7:10,3,4,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,46 - 74,28,,9:27 PM
+292,1,5,336,0021401219,Terry STEAL (2 STL),,6:48,3,5,4,0,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Ingles Bad Pass Turnover (P2.T13),9:28 PM
+293,5,1,337,0021401219,Jones 3' Layup (13 PTS),,6:41,3,4,0,0,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,46 - 76,30,,9:28 PM
+294,1,2,338,0021401219,Jones BLOCK (3 BLK),,6:19,3,5,0,4,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,,,MISS Gobert 4' Jump Shot,9:28 PM
+295,0,4,339,0021401219,Harden REBOUND (Off:0 Def:7),,6:18,3,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:28 PM
+296,1,1,340,0021401219,Terry 24' 3PT Jump Shot (9 PTS) (Harden 7 AST),,6:14,3,4,4,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,46 - 79,33,,9:28 PM
+297,1,2,341,0021401219,,,5:54,3,5,0,0,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Ingles 21' Jump Shot,9:29 PM
+298,0,4,342,0021401219,Harden REBOUND (Off:0 Def:8),,5:53,3,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:29 PM
+299,52,1,343,0021401219,Howard  Alley Oop Dunk (14 PTS) (Jones 3 AST),,5:43,3,4,4,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,46 - 81,35,,9:29 PM
+300,1,9,344,0021401219,,,5:43,3,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Timeout: Regular (Reg.3 Short 1),9:29 PM
+301,0,8,347,0021401219,,,5:43,3,5,5,0,204060,Joe Ingles,UTA,Utah,1610612762.0,Jazz,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Millsap FOR Ingles,9:31 PM
+302,79,2,348,0021401219,,,5:24,3,5,0,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Hood 25' 3PT Pullup Jump Shot,9:32 PM
+303,0,4,349,0021401219,,,5:22,3,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,9:32 PM
+304,1,2,350,0021401219,,,5:09,3,5,0,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Burke 27' 3PT Jump Shot,9:32 PM
+305,0,4,351,0021401219,Howard REBOUND (Off:2 Def:6),,5:09,3,4,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:32 PM
+306,1,5,352,0021401219,Harden Bad Pass Turnover (P6.T11),,4:54,3,4,5,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Hood STEAL (1 STL),9:32 PM
+307,3,6,353,0021401219,Harden L.B.FOUL (P2.T2),,4:54,3,4,5,1,201935,James Harden,HOU,Houston,1610612745.0,Rockets,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:33 PM
+308,1,2,354,0021401219,,,4:39,3,5,0,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Burke 24' 3PT Jump Shot,9:33 PM
+309,0,4,355,0021401219,Harden REBOUND (Off:0 Def:9),,4:38,3,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:33 PM
+310,2,6,356,0021401219,,,4:34,3,5,4,1,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Hood S.FOUL (P3.T3),9:33 PM
+311,11,3,358,0021401219,Jones Free Throw 1 of 2 (14 PTS),,4:34,3,4,0,0,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,46 - 82,36,,9:33 PM
+312,0,8,360,0021401219,SUB: Capela FOR Howard,,4:34,3,4,4,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:34 PM
+313,12,3,361,0021401219,MISS Jones Free Throw 2 of 2,,4:34,3,4,0,0,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:34 PM
+314,0,4,363,0021401219,,,4:34,3,5,0,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Millsap REBOUND (Off:0 Def:3),9:34 PM
+315,1,6,364,0021401219,Terry P.FOUL (P2.T3),,4:31,3,4,5,1,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:34 PM
+316,1,1,365,0021401219,,,4:20,3,5,5,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,0,,,,,,49 - 82,33,Burke 24' 3PT Jump Shot (4 PTS) (Hood 2 AST),9:34 PM
+317,2,6,366,0021401219,,,4:05,3,5,4,1,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Jerrett S.FOUL (P1.T4),9:35 PM
+318,11,3,367,0021401219,Jones Free Throw 1 of 2 (15 PTS),,4:05,3,4,0,0,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,49 - 83,34,,9:35 PM
+319,0,8,369,0021401219,SUB: Prigioni FOR Terry,,4:05,3,4,4,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:35 PM
+320,0,8,370,0021401219,SUB: Brewer FOR Ariza,,4:05,3,4,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:35 PM
+321,0,8,371,0021401219,,,4:05,3,5,5,0,203918,Rodney Hood,UTA,Utah,1610612762.0,Jazz,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Johnson FOR Hood,9:35 PM
+322,12,3,372,0021401219,MISS Jones Free Throw 2 of 2,,4:05,3,4,0,0,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:35 PM
+323,0,4,374,0021401219,,,4:04,3,5,0,0,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Jerrett REBOUND (Off:0 Def:1),9:35 PM
+324,1,6,375,0021401219,Capela P.FOUL (P2.T4),,3:52,3,4,5,1,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:36 PM
+325,0,8,376,0021401219,SUB: Smith FOR Jones,,3:52,3,4,4,0,203093,Terrence Jones,HOU,Houston,1610612745.0,Rockets,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:36 PM
+326,0,8,377,0021401219,,,3:52,3,5,5,0,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Cotton FOR Jerrett,9:36 PM
+327,79,2,378,0021401219,,,3:45,3,5,0,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Burke 20' Pullup Jump Shot,9:36 PM
+328,0,4,379,0021401219,Prigioni REBOUND (Off:1 Def:4),,3:44,3,4,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:36 PM
+329,1,6,380,0021401219,,,3:28,3,5,4,1,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Johnson P.FOUL (P1.PN),9:37 PM
+330,11,3,381,0021401219,Harden Free Throw 1 of 2 (15 PTS),,3:28,3,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,49 - 84,35,,9:37 PM
+331,0,8,383,0021401219,,,3:28,3,5,5,0,203497,Rudy Gobert,UTA,Utah,1610612762.0,Jazz,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Cooley FOR Gobert,9:37 PM
+332,12,3,384,0021401219,Harden Free Throw 2 of 2 (16 PTS),,3:28,3,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,49 - 85,36,,9:37 PM
+333,42,2,386,0021401219,Capela BLOCK (2 BLK),,3:15,3,5,0,4,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,,,MISS Millsap 3' Driving Layup,9:38 PM
+334,0,4,387,0021401219,Harden REBOUND (Off:0 Def:10),,3:13,3,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:38 PM
+335,1,2,388,0021401219,MISS Smith 25' 3PT Jump Shot,,3:07,3,4,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:38 PM
+336,0,4,389,0021401219,,,3:06,3,5,0,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Cotton REBOUND (Off:0 Def:3),9:38 PM
+337,2,6,390,0021401219,Capela S.FOUL (P3.PN),,2:58,3,4,5,1,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:38 PM
+338,1,9,391,0021401219,ROCKETS Timeout: Regular (Full 3 Short 0),,2:58,3,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:38 PM
+339,11,3,395,0021401219,,,2:58,3,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Cooley Free Throw 1 of 2,9:41 PM
+340,1,4,396,0021401219,,,2:58,3,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,9:41 PM
+341,12,3,397,0021401219,,,2:58,3,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Cooley Free Throw 2 of 2,9:41 PM
+342,0,4,399,0021401219,,,2:58,3,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Cooley REBOUND (Off:3 Def:0),9:41 PM
+343,29,6,400,0021401219,Capela Shooting Block Foul (P4.PN),,2:54,3,4,5,1,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:41 PM
+344,11,3,401,0021401219,,,2:54,3,5,0,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Millsap Free Throw 1 of 2,9:41 PM
+345,1,4,402,0021401219,,,2:54,3,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,9:41 PM
+346,12,3,403,0021401219,,,2:54,3,5,0,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,50 - 85,35,Millsap Free Throw 2 of 2 (6 PTS),9:41 PM
+347,8,1,405,0021401219,Capela  Slam Dunk (4 PTS) (Harden 8 AST),,2:36,3,4,4,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,50 - 87,37,,9:42 PM
+348,79,2,406,0021401219,,,2:25,3,5,0,0,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Burke 22' Pullup Jump Shot,9:42 PM
+349,0,4,407,0021401219,Harden REBOUND (Off:0 Def:11),,2:23,3,4,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:42 PM
+350,5,1,408,0021401219,Brewer 1' Layup (12 PTS) (Harden 9 AST),,2:20,3,4,4,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,50 - 89,39,,9:42 PM
+351,5,1,409,0021401219,,,2:10,3,5,5,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,52 - 89,37,Cooley 1' Layup (4 PTS) (Millsap 2 AST),9:42 PM
+352,7,1,410,0021401219,Brewer  Dunk (14 PTS) (Harden 10 AST),,1:50,3,4,4,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,52 - 91,39,,9:43 PM
+353,5,1,411,0021401219,,,1:38,3,5,5,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,54 - 91,37,Cooley 2' Layup (6 PTS) (Burke 3 AST),9:43 PM
+354,2,6,412,0021401219,Smith S.FOUL (P1.PN),,1:38,3,4,5,1,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:43 PM
+355,0,8,413,0021401219,SUB: Dorsey FOR Capela,,1:38,3,4,4,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:43 PM
+356,0,8,415,0021401219,SUB: Johnson FOR Harden,,1:38,3,4,4,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:43 PM
+357,10,3,416,0021401219,,,1:38,3,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,55 - 91,36,Cooley Free Throw 1 of 1 (7 PTS),9:44 PM
+358,79,2,418,0021401219,MISS Brewer 16' Pullup Jump Shot,,1:19,3,4,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:44 PM
+359,0,4,419,0021401219,,,1:17,3,5,0,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Millsap REBOUND (Off:0 Def:4),9:44 PM
+360,1,1,420,0021401219,,,1:11,3,5,5,0,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,203504,Trey Burke,UTA,Utah,1610612762.0,Jazz,0,,,,,,58 - 91,33,Johnson  3PT Jump Shot (5 PTS) (Burke 4 AST),9:44 PM
+361,1,2,421,0021401219,MISS Smith 19' Jump Shot,,0:50,3,4,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:45 PM
+362,0,4,422,0021401219,,,0:50,3,5,0,0,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:0 Def:1),9:45 PM
+363,42,1,423,0021401219,,,0:38,3,5,5,0,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,60 - 91,31,Johnson 1' Driving Layup (7 PTS) (Millsap 3 AST),9:45 PM
+364,46,1,425,0021401219,Prigioni 13' Running Jump Shot (2 PTS),,0:20,3,4,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,60 - 93,33,,9:45 PM
+365,40,5,426,0021401219,,,0:02,3,5,0,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Cotton Out of Bounds Lost Ball Turnover (P1.T14),9:45 PM
+366,46,2,427,0021401219,MISS Brewer 46' 3PT Running Jump Shot,,0:00,3,4,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:46 PM
+367,0,4,428,0021401219,ROCKETS Rebound,,0:00,3,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:46 PM
+368,0,13,429,0021401219,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,60 - 93,33,,9:46 PM
+369,0,12,431,0021401219,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,60 - 93,33,,9:48 PM
+370,1,5,432,0021401219,Brewer Bad Pass Turnover (P1.T12),,11:45,4,4,5,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Johnson STEAL (1 STL),9:48 PM
+371,1,6,433,0021401219,Prigioni P.FOUL (P2.T1),,11:44,4,4,5,1,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:49 PM
+372,80,2,434,0021401219,,,11:32,4,5,0,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Cotton 23' Step Back Jump Shot,9:49 PM
+373,0,4,435,0021401219,Dorsey REBOUND (Off:0 Def:1),,11:30,4,4,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:49 PM
+374,77,2,437,0021401219,MISS Johnson 3' Driving Jump Shot,,11:13,4,4,0,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:49 PM
+375,0,4,438,0021401219,,,11:13,4,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Cooley REBOUND (Off:3 Def:1),9:49 PM
+376,1,6,439,0021401219,Johnson P.FOUL (P1.T2),,11:13,4,4,5,1,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:50 PM
+377,84,1,440,0021401219,,,11:00,4,5,5,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,62 - 93,31,Cotton 10' Running Bank Shot (6 PTS) (Millsap 4 AST),9:50 PM
+378,2,5,441,0021401219,Prigioni Lost Ball Turnover (P1.T13),,10:48,4,4,5,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Millsap STEAL (1 STL),9:50 PM
+379,42,1,442,0021401219,,,10:43,4,5,5,0,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,64 - 93,29,Johnson 3' Driving Layup (9 PTS) (Millsap 5 AST),9:50 PM
+380,46,2,443,0021401219,MISS Brewer 9' Running Jump Shot,,10:35,4,4,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:50 PM
+381,0,4,444,0021401219,,,10:33,4,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Evans REBOUND (Off:3 Def:2),9:50 PM
+382,1,2,445,0021401219,,,10:33,4,5,0,0,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Johnson 24' 3PT Jump Shot,9:50 PM
+383,0,4,446,0021401219,Dorsey REBOUND (Off:0 Def:2),,10:33,4,4,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:50 PM
+384,1,5,448,0021401219,Papanikolaou Bad Pass Turnover (P1.T14),,10:17,4,4,5,0,203123,Kostas Papanikolaou,HOU,Houston,1610612745.0,Rockets,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Cooley STEAL (1 STL),9:51 PM
+385,1,5,449,0021401219,Brewer STEAL (3 STL),,10:08,4,5,4,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Cotton Bad Pass Turnover (P2.T15),9:51 PM
+386,52,1,450,0021401219,Dorsey  Alley Oop Dunk (2 PTS) (Brewer 3 AST),,10:03,4,4,4,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,64 - 95,31,,9:51 PM
+387,7,1,451,0021401219,,,9:46,4,5,5,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,66 - 95,29,Evans  Dunk (8 PTS) (Millsap 6 AST),9:52 PM
+388,1,2,452,0021401219,MISS Papanikolaou 25' 3PT Jump Shot,,9:32,4,4,0,0,203123,Kostas Papanikolaou,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:52 PM
+389,0,4,453,0021401219,,,9:31,4,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Cooley REBOUND (Off:3 Def:2),9:52 PM
+390,79,2,454,0021401219,,,9:22,4,5,0,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Cotton 17' Pullup Jump Shot,9:52 PM
+391,0,4,455,0021401219,Johnson REBOUND (Off:0 Def:1),,9:20,4,4,0,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:52 PM
+392,1,5,456,0021401219,Papanikolaou Bad Pass Turnover (P2.T15),,9:13,4,4,5,0,203123,Kostas Papanikolaou,HOU,Houston,1610612745.0,Rockets,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Evans STEAL (2 STL),9:52 PM
+393,42,2,457,0021401219,,,9:06,4,5,0,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Millsap 1' Driving Layup,9:52 PM
+394,0,4,459,0021401219,,,9:04,4,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Evans REBOUND (Off:4 Def:2),9:52 PM
+395,72,1,458,0021401219,,,9:04,4,5,0,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,68 - 95,27,Evans 2' Putback Layup (10 PTS),9:52 PM
+396,1,1,460,0021401219,Prigioni 26' 3PT Jump Shot (5 PTS),,8:51,4,4,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,68 - 98,30,,9:53 PM
+397,1,9,461,0021401219,,,8:47,4,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Timeout: Regular (Reg.4 Short 1),9:53 PM
+398,0,8,464,0021401219,SUB: McDaniels FOR Brewer,,8:47,4,4,4,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,203909,KJ McDaniels,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:55 PM
+399,0,8,465,0021401219,,,8:47,4,5,5,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Jerrett FOR Cooley,9:55 PM
+400,1,2,466,0021401219,,,8:31,4,5,0,0,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Jerrett 18' Jump Shot,9:55 PM
+401,0,4,467,0021401219,Dorsey REBOUND (Off:0 Def:3),,8:30,4,4,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:55 PM
+402,1,1,468,0021401219,Prigioni 28' 3PT Jump Shot (8 PTS) (Papanikolaou 1 AST),,8:22,4,4,4,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,203123,Kostas Papanikolaou,HOU,Houston,1610612745.0,Rockets,0,,,,,,68 - 101,33,,9:55 PM
+403,79,1,469,0021401219,,,8:08,4,5,5,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,0,,,,,,70 - 101,31,Cotton 10' Pullup Jump Shot (8 PTS) (Evans 3 AST),9:56 PM
+404,83,1,470,0021401219,Johnson 6' Fadeaway Bank Shot (2 PTS),,7:52,4,4,0,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,70 - 103,33,,9:56 PM
+405,1,6,471,0021401219,Papanikolaou P.FOUL (P1.T3),,7:34,4,4,5,1,203123,Kostas Papanikolaou,HOU,Houston,1610612745.0,Rockets,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,9:56 PM
+406,0,8,472,0021401219,,,7:34,4,5,5,0,202379,Jeremy Evans,UTA,Utah,1610612762.0,Jazz,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,SUB: Cooley FOR Evans,9:56 PM
+407,1,1,473,0021401219,,,7:24,4,5,0,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,72 - 103,31,Millsap 4' Jump Shot (8 PTS),9:57 PM
+408,2,7,476,0021401219,Dorsey Violation:Defensive Goaltending,,7:24,4,4,0,1,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:57 PM
+409,1,5,499,0021401219,Dorsey Bad Pass Turnover (P1.T16),,7:03,4,4,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:57 PM
+410,0,8,475,0021401219,SUB: Capela FOR Prigioni,,7:03,4,4,4,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,9:57 PM
+411,45,1,482,0021401219,,,6:50,4,5,5,0,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,74 - 103,29,Jerrett 11' Jump Shot (2 PTS) (Cotton 2 AST),9:58 PM
+412,2,6,477,0021401219,,,6:37,4,5,4,1,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,203909,KJ McDaniels,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Jerrett S.FOUL (P2.T1),9:58 PM
+413,11,3,478,0021401219,MISS McDaniels Free Throw 1 of 2,,6:37,4,4,0,0,203909,KJ McDaniels,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,9:58 PM
+414,1,4,479,0021401219,ROCKETS Rebound,,6:37,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,9:58 PM
+415,12,3,480,0021401219,McDaniels Free Throw 2 of 2 (1 PTS),,6:37,4,4,0,0,203909,KJ McDaniels,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,74 - 104,30,,9:58 PM
+416,46,1,483,0021401219,,,6:15,4,5,5,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,0,,,,,,76 - 104,28,Cotton 12' Running Jump Shot (10 PTS) (Jerrett 1 AST),9:59 PM
+417,75,1,484,0021401219,McDaniels 1' Driving Finger Roll Layup (3 PTS),,6:01,4,4,0,0,203909,KJ McDaniels,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,76 - 106,30,,9:59 PM
+418,1,9,488,0021401219,,,5:45,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,9:59 PM
+419,3,2,492,0021401219,,,5:42,4,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Cooley 4' Hook Shot,10:02 PM
+420,0,4,493,0021401219,Capela REBOUND (Off:0 Def:3),,5:40,4,4,0,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:02 PM
+421,1,5,494,0021401219,Johnson Bad Pass Turnover (P1.T17),,5:24,4,4,5,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Jerrett STEAL (1 STL),10:02 PM
+422,5,1,495,0021401219,,,5:19,4,5,5,0,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,78 - 106,28,Jerrett 4' Layup (4 PTS) (Millsap 7 AST),10:02 PM
+423,2,6,496,0021401219,Papanikolaou S.FOUL (P2.T4),,5:19,4,4,5,1,203123,Kostas Papanikolaou,HOU,Houston,1610612745.0,Rockets,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,10:02 PM
+424,10,3,497,0021401219,,,5:19,4,5,0,0,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,79 - 106,27,Jerrett Free Throw 1 of 1 (5 PTS),10:02 PM
+425,1,5,500,0021401219,Johnson Bad Pass Turnover (P2.T18),,5:15,4,4,5,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,Millsap STEAL (2 STL),10:03 PM
+426,2,6,501,0021401219,Capela S.FOUL (P5.PN),,5:13,4,4,5,1,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,10:03 PM
+427,11,3,503,0021401219,,,5:13,4,5,0,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Millsap Free Throw 1 of 2,10:03 PM
+428,1,4,505,0021401219,,,5:13,4,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,10:03 PM
+429,12,3,506,0021401219,,,5:13,4,5,0,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,80 - 106,26,Millsap Free Throw 2 of 2 (9 PTS),10:03 PM
+430,1,2,508,0021401219,MISS McDaniels 25' 3PT Jump Shot,,5:02,4,4,0,0,203909,KJ McDaniels,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:04 PM
+431,0,4,509,0021401219,,,5:01,4,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,10:04 PM
+432,1,2,510,0021401219,,,4:50,4,5,0,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Cotton 25' 3PT Jump Shot,10:04 PM
+433,0,4,511,0021401219,Papanikolaou REBOUND (Off:0 Def:1),,4:49,4,4,0,0,203123,Kostas Papanikolaou,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:04 PM
+434,1,6,513,0021401219,,,4:35,4,5,4,1,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,203909,KJ McDaniels,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Millsap P.FOUL (P2.T2),10:04 PM
+435,84,1,514,0021401219,Johnson 9' Running Bank Shot (4 PTS),,4:26,4,4,0,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,80 - 108,28,,10:05 PM
+436,63,1,515,0021401219,,,4:13,4,5,0,0,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,82 - 108,26,Jerrett 9' Fadeaway Jumper (7 PTS),10:05 PM
+437,1,2,516,0021401219,MISS Capela 6' Jump Shot,,3:53,4,4,0,5,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,,,Cooley BLOCK (1 BLK),10:05 PM
+438,0,4,517,0021401219,,,3:51,4,5,0,0,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:0 Def:2),10:05 PM
+439,42,1,518,0021401219,,,3:47,4,5,0,0,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,84 - 108,24,Johnson 3' Driving Layup (11 PTS),10:05 PM
+440,4,6,519,0021401219,Johnson OFF.Foul (P2),,3:30,4,4,5,1,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,10:06 PM
+441,5,5,520,0021401219,Johnson Foul Turnover (P3.T19),,3:30,4,4,0,1,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:06 PM
+442,1,2,522,0021401219,,,3:15,4,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Cooley 19' Jump Shot,10:06 PM
+443,0,4,523,0021401219,Capela REBOUND (Off:0 Def:4),,3:14,4,4,0,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:06 PM
+444,1,2,524,0021401219,MISS Papanikolaou 25' 3PT Jump Shot,,3:03,4,4,0,0,203123,Kostas Papanikolaou,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:06 PM
+445,0,4,525,0021401219,,,3:02,4,5,0,0,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Jerrett REBOUND (Off:0 Def:2),10:06 PM
+446,1,2,526,0021401219,,,2:52,4,5,0,0,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Jerrett 25' 3PT Jump Shot,10:06 PM
+447,0,4,527,0021401219,McDaniels REBOUND (Off:0 Def:1),,2:50,4,4,0,0,203909,KJ McDaniels,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:07 PM
+448,2,6,528,0021401219,,,2:41,4,5,4,1,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Jerrett S.FOUL (P3.T3),10:07 PM
+449,1,9,529,0021401219,ROCKETS Timeout: Regular (Full 4 Short 0),,2:41,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,10:07 PM
+450,11,3,533,0021401219,Capela Free Throw 1 of 2 (5 PTS),,2:41,4,4,0,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,84 - 109,25,,10:09 PM
+451,12,3,535,0021401219,MISS Capela Free Throw 2 of 2,,2:41,4,4,0,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:09 PM
+452,0,4,537,0021401219,,,2:41,4,5,0,0,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Jerrett REBOUND (Off:0 Def:3),10:10 PM
+453,5,1,538,0021401219,,,2:30,4,5,5,0,203187,Chris Johnson,UTA,Utah,1610612762.0,Jazz,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,86 - 109,23,Johnson 2' Layup (13 PTS) (Cotton 3 AST),10:10 PM
+454,42,2,539,0021401219,MISS McDaniels 1' Driving Layup,,2:15,4,4,0,0,203909,KJ McDaniels,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:10 PM
+455,0,4,540,0021401219,,,2:14,4,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,Cooley REBOUND (Off:3 Def:3),10:10 PM
+456,1,2,541,0021401219,,,2:07,4,5,0,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Millsap 25' 3PT Jump Shot,10:10 PM
+457,0,4,542,0021401219,,,2:07,4,3,0,0,1610612762,,,,,,0,,,,,,0,,,,,,,,Jazz Rebound,10:10 PM
+458,3,6,544,0021401219,McDaniels L.B.FOUL (P1.PN),,2:07,4,4,5,1,203909,KJ McDaniels,HOU,Houston,1610612745.0,Rockets,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,,,,10:10 PM
+459,11,3,545,0021401219,,,2:07,4,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,87 - 109,22,Cooley Free Throw 1 of 2 (8 PTS),10:10 PM
+460,12,3,547,0021401219,,,2:07,4,5,0,0,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Cooley Free Throw 2 of 2,10:11 PM
+461,0,4,549,0021401219,Capela REBOUND (Off:0 Def:5),,2:07,4,4,0,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:11 PM
+462,8,1,550,0021401219,Capela  Slam Dunk (7 PTS) (Dorsey 1 AST),,1:53,4,4,4,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,87 - 111,24,,10:11 PM
+463,79,1,551,0021401219,,,1:41,4,5,0,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,89 - 111,22,Cotton 19' Pullup Jump Shot (12 PTS),10:11 PM
+464,8,1,553,0021401219,McDaniels  Slam Dunk (5 PTS) (Capela 1 AST),,1:25,4,4,4,0,203909,KJ McDaniels,HOU,Houston,1610612745.0,Rockets,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,89 - 113,24,,10:12 PM
+465,1,2,554,0021401219,,,1:12,4,5,0,0,202407,Elijah Millsap,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Millsap 25' 3PT Jump Shot,10:12 PM
+466,0,4,555,0021401219,Capela REBOUND (Off:0 Def:6),,1:11,4,4,0,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:12 PM
+467,2,6,556,0021401219,,,1:01,4,5,4,1,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Cooley S.FOUL (P2.T4),10:12 PM
+468,11,3,557,0021401219,MISS Capela Free Throw 1 of 2,,1:01,4,4,0,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:13 PM
+469,1,4,558,0021401219,ROCKETS Rebound,,1:01,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,10:13 PM
+470,12,3,559,0021401219,Capela Free Throw 2 of 2 (8 PTS),,1:01,4,4,0,0,203991,Clint Capela,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,89 - 114,25,,10:13 PM
+471,1,2,561,0021401219,,,0:50,4,5,0,0,203511,Grant Jerrett,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,,,MISS Jerrett 7' Jump Shot,10:13 PM
+472,0,4,562,0021401219,McDaniels REBOUND (Off:0 Def:2),,0:49,4,4,0,0,203909,KJ McDaniels,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:13 PM
+473,1,6,563,0021401219,,,0:35,4,5,4,1,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Cooley P.FOUL (P3.PN),10:13 PM
+474,11,3,564,0021401219,MISS Dorsey Free Throw 1 of 2,,0:35,4,4,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,,10:13 PM
+475,1,4,565,0021401219,ROCKETS Rebound,,0:35,4,2,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,,10:13 PM
+476,12,3,566,0021401219,Dorsey Free Throw 2 of 2 (3 PTS),,0:35,4,4,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,89 - 115,26,,10:13 PM
+477,46,1,568,0021401219,,,0:30,4,5,0,0,203955,Bryce Cotton,UTA,Utah,1610612762.0,Jazz,0,,,,,,0,,,,,,91 - 115,24,Cotton 6' Running Jump Shot (14 PTS),10:14 PM
+478,2,6,570,0021401219,,,0:19,4,5,4,1,204022,Jack Cooley,UTA,Utah,1610612762.0,Jazz,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Cooley S.FOUL (P4.PN),10:14 PM
+479,11,3,572,0021401219,Johnson Free Throw 1 of 2 (5 PTS),,0:19,4,4,0,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,91 - 116,25,,10:14 PM
+480,12,3,574,0021401219,Johnson Free Throw 2 of 2 (6 PTS),,0:19,4,4,0,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,91 - 117,26,,10:14 PM
+481,0,13,577,0021401219,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,91 - 117,26,,10:15 PM

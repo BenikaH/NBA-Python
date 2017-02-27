@@ -96,5 +96,4 @@ def plot_assists_vs_time_of_poss():
     d.print_reddit_table(df, ['PLAYER_NAME', 'FOO'])
 
 
-#plot_assists_vs_time_of_poss()
-calc_2_3_assists()
+df = calc_2_3_assists()

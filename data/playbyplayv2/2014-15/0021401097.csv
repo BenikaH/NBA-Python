@@ -1,0 +1,483 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021401097,,,12:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:33 PM
+1,0,10,1,0021401097,Jump Ball Gortat vs. Howard: Tip to Wall,,12:00,1,4.0,5,4,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,202322,John Wall,WAS,Washington,1610612764.0,Wizards,,,,12:33 PM
+2,1,2,2,0021401097,MISS Nene 8' Jump Shot,,11:37,1,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:33 PM
+3,0,4,3,0021401097,Gortat REBOUND (Off:1 Def:0),,11:36,1,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:33 PM
+4,5,2,4,0021401097,MISS Gortat 1' Layup,,11:33,1,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:34 PM
+5,0,4,5,0021401097,,,11:32,1,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:1),12:34 PM
+6,1,2,6,0021401097,,,11:18,1,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza  3PT Jump Shot,12:34 PM
+7,0,4,7,0021401097,Wall REBOUND (Off:0 Def:1),,11:17,1,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:34 PM
+8,1,2,8,0021401097,MISS Beal  3PT Jump Shot,,11:11,1,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:34 PM
+9,0,4,9,0021401097,,,11:08,1,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:2),12:34 PM
+10,2,5,12,0021401097,Nene STEAL (1 STL),,10:56,1,5.0,4,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Smith Lost Ball Turnover (P1.T1),12:34 PM
+11,43,1,13,0021401097,Beal 1' Alley Oop Layup (2 PTS) (Wall 1 AST),,10:51,1,4.0,4,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0 - 2,2,,12:34 PM
+12,1,6,14,0021401097,Beal P.FOUL (P1.T1),,10:32,1,4.0,5,1,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:35 PM
+13,6,5,15,0021401097,,,10:24,1,5.0,0,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza Double Dribble Turnover (P1.T2),12:35 PM
+14,1,5,16,0021401097,Wall Bad Pass Turnover (P1.T1),,10:18,1,4.0,5,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Ariza STEAL (1 STL),12:35 PM
+15,57,1,17,0021401097,,,9:59,1,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,2 - 2,TIE,Smith 8' Driving Hook Shot (2 PTS),12:36 PM
+16,5,1,18,0021401097,Gortat 1' Layup (2 PTS) (Wall 2 AST),,9:36,1,4.0,4,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,2 - 4,2,,12:36 PM
+17,1,5,19,0021401097,Gortat STEAL (1 STL),,9:21,1,5.0,4,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Smith Bad Pass Turnover (P2.T3),12:36 PM
+18,1,6,20,0021401097,,,9:13,1,5.0,4,1,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Howard P.FOUL (P1.T1),12:37 PM
+19,1,9,21,0021401097,,,9:13,1,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.1 Short 0),12:37 PM
+20,11,3,23,0021401097,Wall Free Throw 1 of 2 (1 PTS),,9:13,1,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,2 - 5,3,,12:39 PM
+21,12,3,25,0021401097,Wall Free Throw 2 of 2 (2 PTS),,9:13,1,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,2 - 6,4,,12:40 PM
+22,1,5,28,0021401097,Nene STEAL (2 STL),,8:49,1,5.0,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Ariza Bad Pass Turnover (P2.T4),12:40 PM
+23,1,2,29,0021401097,MISS Pierce 25' 3PT Jump Shot,,8:39,1,4.0,0,0,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:40 PM
+24,0,4,30,0021401097,,,8:38,1,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:1),12:40 PM
+25,2,5,31,0021401097,Nene STEAL (3 STL),,8:30,1,5.0,4,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Smith Lost Ball Turnover (P3.T5),12:41 PM
+26,2,6,34,0021401097,,,8:13,1,5.0,4,1,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Howard S.FOUL (P2.T2),12:41 PM
+27,11,3,35,0021401097,MISS Nene Free Throw 1 of 2,,8:13,1,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:42 PM
+28,1,4,36,0021401097,WIZARDS Rebound,,8:13,1,2.0,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:42 PM
+29,0,8,37,0021401097,,,8:13,1,5.0,5,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Dorsey FOR Howard,12:42 PM
+30,12,3,38,0021401097,MISS Nene Free Throw 2 of 2,,8:13,1,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:42 PM
+31,0,4,40,0021401097,,,8:12,1,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Harden REBOUND (Off:0 Def:1),12:42 PM
+32,2,5,41,0021401097,Wall STEAL (1 STL),,8:06,1,5.0,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Ariza Lost Ball Turnover (P3.T6),12:42 PM
+33,5,2,42,0021401097,MISS Wall 2' Layup,,8:00,1,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:43 PM
+34,0,4,43,0021401097,,,7:58,1,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:2),12:43 PM
+35,1,1,45,0021401097,,,7:36,1,5.0,5,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,5 - 6,1,Smith  3PT Jump Shot (5 PTS) (Harden 1 AST),12:43 PM
+36,1,2,46,0021401097,MISS Gortat 16' Jump Shot,,7:23,1,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:43 PM
+37,0,4,47,0021401097,,,7:22,1,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Smith REBOUND (Off:0 Def:3),12:43 PM
+38,1,2,48,0021401097,,,7:15,1,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza 26' 3PT Jump Shot,12:44 PM
+39,0,4,49,0021401097,,,7:13,1,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:3),12:44 PM
+40,1,5,50,0021401097,Pierce STEAL (1 STL),,7:08,1,5.0,4,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Ariza Bad Pass Turnover (P4.T7),12:44 PM
+41,2,6,51,0021401097,,,7:08,1,5.0,4,1,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Terry S.FOUL (P1.T3),12:44 PM
+42,11,3,52,0021401097,Beal Free Throw 1 of 2 (3 PTS),,7:08,1,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,5 - 7,2,,12:44 PM
+43,12,3,54,0021401097,Beal Free Throw 2 of 2 (4 PTS),,7:08,1,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,5 - 8,3,,12:44 PM
+44,1,1,57,0021401097,,,6:53,1,5.0,5,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,7 - 8,1,Smith 7' Jump Shot (7 PTS) (Terry 1 AST),12:45 PM
+45,1,2,58,0021401097,MISS Nene 17' Jump Shot,,6:40,1,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:45 PM
+46,0,4,59,0021401097,Gortat REBOUND (Off:2 Def:0),,6:39,1,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:45 PM
+47,1,2,60,0021401097,MISS Gortat 3' Jump Shot,,6:36,1,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:45 PM
+48,0,4,61,0021401097,,,6:35,1,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:4),12:45 PM
+49,1,2,62,0021401097,,,6:25,1,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Smith 4' Jump Shot,12:45 PM
+50,0,4,63,0021401097,Nene REBOUND (Off:0 Def:1),,6:24,1,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:45 PM
+51,5,2,64,0021401097,MISS Wall  Layup,,6:19,1,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:45 PM
+52,0,4,65,0021401097,,,6:17,1,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:0 Def:1),12:45 PM
+53,2,6,66,0021401097,Nene S.FOUL (P1.T2),,6:14,1,4.0,5,1,2403,Nene,WAS,Washington,1610612764.0,Wizards,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:45 PM
+54,11,3,67,0021401097,,,6:14,1,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,8 - 8,TIE,Harden Free Throw 1 of 2 (1 PTS),12:46 PM
+55,12,3,69,0021401097,,,6:14,1,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Harden Free Throw 2 of 2,12:46 PM
+56,0,4,71,0021401097,Gortat REBOUND (Off:2 Def:1),,6:13,1,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:46 PM
+57,1,5,73,0021401097,Beal Bad Pass Turnover (P1.T2),,6:03,1,4.0,5,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Dorsey STEAL (1 STL),12:46 PM
+58,4,5,74,0021401097,,,6:01,1,5.0,0,1,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Harden Traveling Turnover (P1.T8),12:47 PM
+59,1,2,75,0021401097,MISS Wall 14' Jump Shot,,5:47,1,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:47 PM
+60,0,4,76,0021401097,Wall REBOUND (Off:1 Def:1),,5:46,1,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:47 PM
+61,79,1,77,0021401097,Wall 17' Pullup Jump Shot (4 PTS),,5:34,1,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,8 - 10,2,,12:47 PM
+62,71,1,78,0021401097,,,5:19,1,5.0,5,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,10 - 10,TIE,Dorsey 1' Finger Roll Layup (2 PTS) (Terry 2 AST),12:47 PM
+63,1,5,79,0021401097,Beal Bad Pass Turnover (P2.T3),,5:03,1,4.0,5,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Ariza STEAL (2 STL),12:48 PM
+64,1,1,80,0021401097,,,4:58,1,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,12 - 10,-2,Smith 4' Jump Shot (9 PTS),12:48 PM
+65,5,1,81,0021401097,Nene 1' Layup (2 PTS) (Wall 3 AST),,4:44,1,4.0,4,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,12 - 12,TIE,,12:48 PM
+66,2,6,82,0021401097,,,4:44,1,5.0,4,1,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Dorsey S.FOUL (P1.T4),12:48 PM
+67,0,8,83,0021401097,,,4:44,1,5.0,5,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Brewer FOR Ariza,12:48 PM
+68,0,8,84,0021401097,,,4:44,1,5.0,5,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Prigioni FOR Terry,12:48 PM
+69,10,3,85,0021401097,Nene Free Throw 1 of 1 (3 PTS),,4:44,1,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,12 - 13,1,,12:48 PM
+70,1,1,88,0021401097,,,4:26,1,5.0,5,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,15 - 13,-2,Smith 26' 3PT Jump Shot (12 PTS) (Harden 2 AST),12:49 PM
+71,8,1,89,0021401097,Nene  Slam Dunk (5 PTS) (Wall 4 AST),,4:16,1,4.0,4,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,15 - 15,TIE,,12:49 PM
+72,5,2,90,0021401097,,,4:05,1,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Harden 2' Layup,12:49 PM
+73,0,4,91,0021401097,Nene REBOUND (Off:0 Def:2),,4:04,1,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:49 PM
+74,5,2,92,0021401097,MISS Gortat 1' Layup,,4:00,1,4.0,0,5,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,,,Brewer BLOCK (1 BLK),12:49 PM
+75,0,4,93,0021401097,,,3:55,1,5.0,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Prigioni REBOUND (Off:0 Def:1),12:49 PM
+76,1,1,94,0021401097,,,3:50,1,5.0,5,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,17 - 15,-2,Dorsey 3' Jump Shot (4 PTS) (Brewer 1 AST),12:50 PM
+77,1,2,95,0021401097,MISS Beal 16' Jump Shot,,3:26,1,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:50 PM
+78,0,4,96,0021401097,,,3:25,1,5.0,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Dorsey REBOUND (Off:0 Def:1),12:50 PM
+79,2,6,97,0021401097,Gortat S.FOUL (P1.T3),,3:16,1,4.0,5,1,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:50 PM
+80,11,3,98,0021401097,,,3:16,1,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,18 - 15,-3,Harden Free Throw 1 of 2 (2 PTS),12:50 PM
+81,0,8,100,0021401097,SUB: Webster FOR Beal,,3:16,1,4.0,4,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,101110,Martell Webster,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:51 PM
+82,12,3,101,0021401097,,,3:16,1,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,19 - 15,-4,Harden Free Throw 2 of 2 (3 PTS),12:51 PM
+83,1,2,105,0021401097,MISS Wall 16' Jump Shot,,3:01,1,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:51 PM
+84,0,4,106,0021401097,,,3:00,1,5.0,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Dorsey REBOUND (Off:0 Def:2),12:52 PM
+85,1,2,107,0021401097,,,2:52,1,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Harden 28' 3PT Jump Shot,12:52 PM
+86,0,4,108,0021401097,,,2:51,1,5.0,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brewer REBOUND (Off:1 Def:0),12:52 PM
+87,8,1,109,0021401097,,,2:44,1,5.0,5,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,21 - 15,-6,Dorsey  Slam Dunk (6 PTS) (Harden 3 AST),12:52 PM
+88,1,9,110,0021401097,WIZARDS Timeout: Regular (Full 1 Short 0),,2:37,1,2.0,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,12:52 PM
+89,2,5,112,0021401097,Wall Lost Ball Turnover (P2.T4),,2:21,1,4.0,5,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Brewer STEAL (1 STL),12:56 PM
+90,5,1,113,0021401097,,,2:16,1,5.0,5,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,23 - 15,-8,Prigioni  Layup (2 PTS) (Brewer 2 AST),12:56 PM
+91,63,1,114,0021401097,Pierce 18' Fadeaway Jumper (2 PTS),,1:59,1,4.0,0,0,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,23 - 17,-6,,12:56 PM
+92,5,2,115,0021401097,,,1:37,1,5.0,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brewer 1' Layup,12:56 PM
+93,0,4,116,0021401097,Gortat REBOUND (Off:2 Def:2),,1:36,1,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:56 PM
+94,2,5,117,0021401097,Webster Lost Ball Turnover (P1.T5),,1:32,1,4.0,5,0,101110,Martell Webster,WAS,Washington,1610612764.0,Wizards,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Prigioni STEAL (1 STL),12:57 PM
+95,5,2,118,0021401097,,,1:22,1,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Harden 2' Layup,12:57 PM
+96,0,4,119,0021401097,Gortat REBOUND (Off:2 Def:3),,1:21,1,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:57 PM
+97,1,2,120,0021401097,MISS Pierce 26' 3PT Jump Shot,,1:11,1,4.0,0,0,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:57 PM
+98,0,4,121,0021401097,,,1:10,1,5.0,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Dorsey REBOUND (Off:0 Def:3),12:57 PM
+99,2,6,122,0021401097,Pierce S.FOUL (P1.T4),,0:53,1,4.0,5,1,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,12:57 PM
+100,11,3,123,0021401097,,,0:53,1,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,24 - 17,-7,Harden Free Throw 1 of 2 (4 PTS),12:57 PM
+101,0,8,125,0021401097,SUB: Gooden FOR Nene,,0:53,1,4.0,4,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:58 PM
+102,0,8,126,0021401097,SUB: Butler FOR Pierce,,0:53,1,4.0,4,0,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,2446,Rasual Butler,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,12:58 PM
+103,0,8,127,0021401097,,,0:53,1,5.0,5,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Ariza FOR Smith,12:58 PM
+104,12,3,128,0021401097,,,0:53,1,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,25 - 17,-8,Harden Free Throw 2 of 2 (5 PTS),12:58 PM
+105,1,2,131,0021401097,MISS Wall 22' Jump Shot,,0:40,1,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:58 PM
+106,0,4,132,0021401097,Wall REBOUND (Off:2 Def:1),,0:39,1,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:58 PM
+107,1,1,133,0021401097,Webster 27' 3PT Jump Shot (3 PTS) (Wall 5 AST),,0:36,1,4.0,4,0,101110,Martell Webster,WAS,Washington,1610612764.0,Wizards,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,25 - 20,-5,,12:59 PM
+108,80,1,134,0021401097,,,0:14,1,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,28 - 20,-8,Harden 26' 3PT Step Back Jump Shot (8 PTS),12:59 PM
+109,1,2,135,0021401097,MISS Wall 5' Jump Shot,,0:02,1,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:59 PM
+110,0,4,136,0021401097,Gortat REBOUND (Off:3 Def:3),,0:02,1,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:59 PM
+111,1,2,137,0021401097,MISS Gortat 6' Jump Shot,,0:01,1,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,12:59 PM
+112,0,4,138,0021401097,,,0:00,1,5.0,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Dorsey REBOUND (Off:0 Def:4),12:59 PM
+113,0,13,139,0021401097,,,0:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,28 - 20,-8,,1:00 PM
+114,0,12,141,0021401097,,,12:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,28 - 20,-8,,1:03 PM
+115,1,2,142,0021401097,,,11:48,2,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza 26' 3PT Jump Shot,1:03 PM
+116,0,4,143,0021401097,,,11:46,2,5.0,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brewer REBOUND (Off:2 Def:0),1:03 PM
+117,5,1,144,0021401097,,,11:44,2,5.0,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,30 - 20,-10,Brewer 1' Layup (2 PTS),1:03 PM
+118,1,2,145,0021401097,MISS Seraphin 12' Jump Shot,,11:27,2,4.0,0,0,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:04 PM
+119,0,4,146,0021401097,,,11:26,2,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:0 Def:2),1:04 PM
+120,85,1,147,0021401097,,,11:12,2,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,32 - 20,-12,Howard 6' Turnaround Bank Shot (2 PTS),1:04 PM
+121,81,1,148,0021401097,Sessions 12' Pullup Bank Shot (2 PTS),,10:53,2,4.0,0,0,201196,Ramon Sessions,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,32 - 22,-10,,1:04 PM
+122,5,1,149,0021401097,,,10:30,2,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,34 - 22,-12,Howard 2' Layup (4 PTS),1:05 PM
+123,1,2,150,0021401097,MISS Seraphin 15' Jump Shot,,10:07,2,4.0,0,0,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:05 PM
+124,0,4,151,0021401097,,,10:06,2,5.0,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Prigioni REBOUND (Off:0 Def:2),1:05 PM
+125,1,5,152,0021401097,Sessions STEAL (1 STL),,10:00,2,5.0,4,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,201196,Ramon Sessions,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Prigioni Bad Pass Turnover (P1.T9),1:05 PM
+126,28,6,153,0021401097,,,9:59,2,5.0,4,1,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,201196,Ramon Sessions,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Prigioni Personal Take Foul (P1.T1),1:05 PM
+127,1,2,154,0021401097,MISS Seraphin 15' Jump Shot,,9:36,2,4.0,0,0,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:06 PM
+128,0,4,155,0021401097,Webster REBOUND (Off:1 Def:0),,9:35,2,4.0,0,0,101110,Martell Webster,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:06 PM
+129,1,2,156,0021401097,MISS Webster 3' Jump Shot,,9:32,2,4.0,0,0,101110,Martell Webster,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:06 PM
+130,0,4,157,0021401097,,,9:31,2,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:0 Def:3),1:06 PM
+131,66,1,158,0021401097,,,9:28,2,5.0,5,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,36 - 22,-14,Brewer 4' Jump Bank Shot (4 PTS) (Ariza 1 AST),1:06 PM
+132,1,9,160,0021401097,WIZARDS Timeout: Regular (Full 2 Short 0),,9:21,2,2.0,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:06 PM
+133,0,8,161,0021401097,SUB: Beal FOR Webster,,9:21,2,4.0,4,0,101110,Martell Webster,WAS,Washington,1610612764.0,Wizards,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,1:08 PM
+134,65,1,162,0021401097,Seraphin 5' Jump Hook Shot (2 PTS) (Gooden 1 AST),,9:09,2,4.0,4,0,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,0,,,,,,36 - 24,-12,,1:10 PM
+135,66,1,163,0021401097,,,8:55,2,5.0,5,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,38 - 24,-14,Brewer 7' Jump Bank Shot (6 PTS) (Prigioni 1 AST),1:10 PM
+136,2,6,164,0021401097,,,8:47,2,5.0,4,1,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,201196,Ramon Sessions,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Brewer S.FOUL (P1.T2),1:10 PM
+137,11,3,165,0021401097,Sessions Free Throw 1 of 2 (3 PTS),,8:47,2,4.0,0,0,201196,Ramon Sessions,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,38 - 25,-13,,1:10 PM
+138,12,3,167,0021401097,Sessions Free Throw 2 of 2 (4 PTS),,8:47,2,4.0,0,0,201196,Ramon Sessions,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,38 - 26,-12,,1:10 PM
+139,1,2,170,0021401097,,,8:29,2,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Howard 5' Jump Shot,1:11 PM
+140,0,4,171,0021401097,Gooden REBOUND (Off:0 Def:1),,8:28,2,4.0,0,0,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:11 PM
+141,1,2,172,0021401097,MISS Beal 16' Jump Shot,,8:20,2,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:11 PM
+142,0,4,173,0021401097,,,8:19,2,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:3),1:11 PM
+143,76,1,174,0021401097,,,8:14,2,5.0,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,40 - 26,-14,Brewer 1' Running Finger Roll Layup (8 PTS),1:11 PM
+144,2,6,175,0021401097,,,7:54,2,5.0,4,1,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Howard S.FOUL (P3.T3),1:12 PM
+145,11,3,176,0021401097,MISS Seraphin Free Throw 1 of 2,,7:54,2,4.0,0,0,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:12 PM
+146,1,4,177,0021401097,WIZARDS Rebound,,7:54,2,2.0,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:12 PM
+147,0,8,178,0021401097,,,7:54,2,5.0,5,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Dorsey FOR Howard,1:12 PM
+148,12,3,179,0021401097,Seraphin Free Throw 2 of 2 (3 PTS),,7:54,2,4.0,0,0,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,40 - 27,-13,,1:12 PM
+149,1,2,182,0021401097,,,7:44,2,5.0,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brewer 12' Jump Shot,1:12 PM
+150,0,4,183,0021401097,Beal REBOUND (Off:0 Def:1),,7:43,2,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:13 PM
+151,0,8,185,0021401097,SUB: Nene FOR Seraphin,,7:37,2,4.0,4,0,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,1:13 PM
+152,0,8,186,0021401097,,,7:37,2,5.0,5,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Smith FOR Ariza,1:13 PM
+153,1,2,187,0021401097,MISS Gooden 27' 3PT Jump Shot,,7:24,2,4.0,0,0,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:13 PM
+154,0,4,188,0021401097,,,7:23,2,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:5),1:13 PM
+155,1,2,189,0021401097,,,7:05,2,5.0,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Prigioni 27' 3PT Jump Shot,1:14 PM
+156,0,4,190,0021401097,Nene REBOUND (Off:0 Def:3),,7:04,2,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:14 PM
+157,4,5,191,0021401097,Nene Traveling Turnover (P1.T6),,6:48,2,4.0,0,1,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:14 PM
+158,0,8,192,0021401097,SUB: Wall FOR Butler,,6:48,2,4.0,4,0,2446,Rasual Butler,WAS,Washington,1610612764.0,Wizards,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,1:14 PM
+159,80,1,194,0021401097,,,6:35,2,5.0,5,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,43 - 27,-16,Prigioni 27' 3PT Step Back Jump Shot (5 PTS) (Smith 1 AST),1:15 PM
+160,1,1,195,0021401097,Gooden 20' Jump Shot (2 PTS) (Wall 6 AST),,6:17,2,4.0,4,0,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,43 - 29,-14,,1:15 PM
+161,1,2,196,0021401097,,,5:54,2,5.0,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brewer  3PT Jump Shot,1:15 PM
+162,0,4,197,0021401097,,,5:53,2,5.0,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Dorsey REBOUND (Off:1 Def:4),1:15 PM
+163,5,2,198,0021401097,,,5:49,2,5.0,0,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Johnson 1' Layup,1:15 PM
+164,0,4,199,0021401097,,,5:47,2,5.0,0,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:1 Def:0),1:15 PM
+165,2,6,200,0021401097,Gooden S.FOUL (P1.T1),,5:47,2,4.0,5,1,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,1:15 PM
+166,4,9,201,0021401097,,,5:47,2,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,1:16 PM
+167,0,8,203,0021401097,,,5:47,2,5.0,5,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Harden FOR Prigioni,1:18 PM
+168,11,3,204,0021401097,,,5:47,2,5.0,0,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Johnson Free Throw 1 of 2,1:18 PM
+169,1,4,205,0021401097,,,5:47,2,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,1:18 PM
+170,12,3,206,0021401097,,,5:47,2,5.0,0,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Johnson Free Throw 2 of 2,1:19 PM
+171,0,4,208,0021401097,Beal REBOUND (Off:0 Def:2),,5:47,2,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:19 PM
+172,1,2,210,0021401097,MISS Sessions  3PT Jump Shot,,5:47,2,4.0,0,0,201196,Ramon Sessions,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:19 PM
+173,0,4,211,0021401097,,,5:47,2,5.0,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Dorsey REBOUND (Off:1 Def:5),1:19 PM
+174,1,2,212,0021401097,,,5:37,2,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Harden 16' Jump Shot,1:19 PM
+175,0,4,213,0021401097,,,5:36,2,5.0,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brewer REBOUND (Off:3 Def:0),1:19 PM
+176,5,2,214,0021401097,,,5:34,2,5.0,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brewer  Layup,1:19 PM
+177,0,4,215,0021401097,Nene REBOUND (Off:0 Def:4),,5:34,2,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:19 PM
+178,1,2,216,0021401097,MISS Gooden 18' Jump Shot,,5:20,2,4.0,0,0,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:20 PM
+179,0,4,217,0021401097,,,5:20,2,5.0,0,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Johnson REBOUND (Off:1 Def:1),1:20 PM
+180,2,5,218,0021401097,Wall STEAL (2 STL),,5:17,2,5.0,4,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Johnson Lost Ball Turnover (P1.T10),1:20 PM
+181,82,1,219,0021401097,Wall 4' Driving Bank Shot (6 PTS),,5:13,2,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,43 - 31,-12,,1:20 PM
+182,1,2,220,0021401097,,,4:57,2,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Smith 3' Jump Shot,1:20 PM
+183,0,4,221,0021401097,Gooden REBOUND (Off:0 Def:2),,4:56,2,4.0,0,0,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:20 PM
+184,1,6,223,0021401097,,,4:52,2,5.0,4,1,201935,James Harden,HOU,Houston,1610612745.0,Rockets,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Harden P.FOUL (P1.T4),1:20 PM
+185,0,8,224,0021401097,,,4:52,2,5.0,5,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Terry FOR Johnson,1:20 PM
+186,0,8,225,0021401097,SUB: Pierce FOR Sessions,,4:52,2,4.0,4,0,201196,Ramon Sessions,WAS,Washington,1610612764.0,Wizards,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,1:20 PM
+187,2,5,226,0021401097,Wall Lost Ball Turnover (P3.T7),,4:51,2,4.0,5,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Dorsey STEAL (2 STL),1:21 PM
+188,7,1,227,0021401097,,,4:48,2,5.0,5,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,45 - 31,-14,Brewer  Dunk (10 PTS) (Harden 4 AST),1:21 PM
+189,5,1,228,0021401097,Nene  Layup (7 PTS) (Wall 7 AST),,4:30,2,4.0,4,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,45 - 33,-12,,1:21 PM
+190,1,1,229,0021401097,,,4:12,2,5.0,5,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,48 - 33,-15,Terry  3PT Jump Shot (3 PTS) (Smith 2 AST),1:21 PM
+191,44,1,230,0021401097,Beal 2' Reverse Layup (6 PTS) (Nene 1 AST),,3:57,2,4.0,4,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,48 - 35,-13,,1:21 PM
+192,1,5,232,0021401097,Beal STEAL (1 STL),,3:40,2,5.0,4,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Smith Bad Pass Turnover (P4.T11),1:22 PM
+193,5,2,233,0021401097,MISS Pierce 2' Layup,,3:35,2,4.0,0,5,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,0,,,,,,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,,,Brewer BLOCK (2 BLK),1:22 PM
+194,0,4,234,0021401097,,,3:33,2,5.0,0,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Terry REBOUND (Off:0 Def:1),1:22 PM
+195,4,6,235,0021401097,,,3:28,2,5.0,4,1,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Brewer OFF.Foul (P2),1:22 PM
+196,5,5,236,0021401097,,,3:28,2,5.0,0,1,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brewer Foul Turnover (P1.T12),1:22 PM
+197,0,8,237,0021401097,SUB: Gortat FOR Gooden,,3:28,2,4.0,4,0,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,1:22 PM
+198,0,8,238,0021401097,,,3:28,2,5.0,5,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Ariza FOR Brewer,1:22 PM
+199,2,6,239,0021401097,,,3:28,2,5.0,4,1,201935,James Harden,HOU,Houston,1610612745.0,Rockets,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Harden S.FOUL (P2.PN),1:23 PM
+200,1,9,240,0021401097,,,3:28,2,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.2 Short 0),1:23 PM
+201,11,3,241,0021401097,Wall Free Throw 1 of 2 (7 PTS),,3:28,2,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,48 - 36,-12,,1:26 PM
+202,12,3,243,0021401097,MISS Wall Free Throw 2 of 2,,3:28,2,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:26 PM
+203,0,4,245,0021401097,,,3:28,2,5.0,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Dorsey REBOUND (Off:1 Def:6),1:27 PM
+204,79,1,246,0021401097,,,3:28,2,5.0,0,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,50 - 36,-14,Terry 15' Pullup Jump Shot (5 PTS),1:27 PM
+205,1,1,247,0021401097,Gortat 16' Jump Shot (4 PTS) (Wall 8 AST),,3:02,2,4.0,4,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,50 - 38,-12,,1:27 PM
+206,1,1,248,0021401097,,,2:48,2,5.0,5,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,53 - 38,-15,Ariza 24' 3PT Jump Shot (3 PTS) (Harden 5 AST),1:28 PM
+207,79,1,249,0021401097,Beal 27' 3PT Pullup Jump Shot (9 PTS),,2:32,2,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,53 - 41,-12,,1:28 PM
+208,80,1,250,0021401097,,,2:05,2,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,55 - 41,-14,Harden 18' Step Back Jump Shot (10 PTS),1:28 PM
+209,17,6,251,0021401097,,,1:50,2,5.0,0,1,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Rockets T.Foul (Def. 3 Sec Smith ),1:29 PM
+210,16,3,252,0021401097,Beal Free Throw Technical (10 PTS),,1:50,2,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,55 - 42,-13,,1:29 PM
+211,1,2,254,0021401097,MISS Nene 6' Jump Shot,,1:50,2,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:29 PM
+212,0,4,255,0021401097,,,1:50,2,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Smith REBOUND (Off:1 Def:6),1:29 PM
+213,42,1,256,0021401097,,,1:42,2,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,57 - 42,-15,Harden 2' Driving Layup (12 PTS),1:29 PM
+214,90,1,257,0021401097,Wall  Running Slam Dunk (9 PTS),,1:36,2,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,57 - 44,-13,,1:30 PM
+215,1,2,258,0021401097,,,1:27,2,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Harden 26' 3PT Jump Shot,1:30 PM
+216,0,4,259,0021401097,Wall REBOUND (Off:2 Def:2),,1:27,2,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:30 PM
+217,2,6,260,0021401097,,,1:21,2,5.0,4,1,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Terry S.FOUL (P2.PN),1:30 PM
+218,11,3,261,0021401097,Beal Free Throw 1 of 2 (11 PTS),,1:21,2,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,57 - 45,-12,,1:30 PM
+219,12,3,263,0021401097,Beal Free Throw 2 of 2 (12 PTS),,1:21,2,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,57 - 46,-11,,1:30 PM
+220,28,6,266,0021401097,Wall Personal Take Foul (P1.T2),,0:05,2,4.0,5,1,202322,John Wall,WAS,Washington,1610612764.0,Wizards,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,1:31 PM
+221,78,1,267,0021401097,,,0:00,2,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,59 - 46,-13,Harden 4' Floating Jump Shot (14 PTS),1:31 PM
+222,0,18,268,0021401097,,,0:00,2,,0,1,267,,,,,,0,,,,,,0,,,,,,,,,1:32 PM
+223,0,13,270,0021401097,,,0:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,59 - 46,-13,,1:33 PM
+224,0,12,272,0021401097,,,12:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,59 - 46,-13,,1:49 PM
+225,5,1,274,0021401097,,,11:41,3,5.0,5,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,61 - 46,-15,Harden 2' Layup (16 PTS) (Smith 3 AST),1:49 PM
+226,1,2,275,0021401097,MISS Pierce 19' Jump Shot,,11:18,3,4.0,0,0,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:49 PM
+227,0,4,276,0021401097,,,11:17,3,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:4),1:49 PM
+228,1,2,277,0021401097,,,11:04,3,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Harden 19' Jump Shot,1:50 PM
+229,0,4,278,0021401097,Nene REBOUND (Off:0 Def:5),,11:03,3,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:50 PM
+230,39,5,279,0021401097,Pierce Step Out of Bounds Turnover (P1.T8),,10:59,3,4.0,0,1,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:50 PM
+231,1,2,280,0021401097,,,10:50,3,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza 28' 3PT Jump Shot,1:50 PM
+232,0,4,281,0021401097,WIZARDS Rebound,,10:49,3,2.0,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,1:50 PM
+233,1,2,282,0021401097,MISS Gortat 7' Jump Shot,,10:33,3,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:51 PM
+234,0,4,283,0021401097,,,10:32,3,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:0 Def:4),1:51 PM
+235,5,2,284,0021401097,,,10:24,3,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Harden 1' Layup,1:51 PM
+236,0,4,285,0021401097,,,10:24,3,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,1:51 PM
+237,3,6,286,0021401097,Gortat L.B.FOUL (P2.T1),,10:24,3,4.0,5,1,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,1:51 PM
+238,1,2,288,0021401097,,,10:10,3,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Smith 17' Jump Shot,1:51 PM
+239,0,4,289,0021401097,Beal REBOUND (Off:0 Def:3),,10:09,3,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:51 PM
+240,1,2,290,0021401097,MISS Nene 14' Jump Shot,,10:00,3,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:51 PM
+241,0,4,291,0021401097,,,9:59,3,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:0 Def:5),1:51 PM
+242,1,2,293,0021401097,,,9:34,3,5.0,0,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Terry 25' 3PT Jump Shot,1:52 PM
+243,0,4,294,0021401097,,,9:33,3,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Smith REBOUND (Off:2 Def:6),1:52 PM
+244,5,7,296,0021401097,Pierce Violation:Kicked Ball,,9:19,3,4.0,0,1,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:53 PM
+245,1,2,297,0021401097,,,9:09,3,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Howard 6' Jump Shot,1:53 PM
+246,0,4,298,0021401097,Wall REBOUND (Off:2 Def:3),,9:08,3,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:53 PM
+247,41,1,299,0021401097,Wall 1' Running Layup (11 PTS),,9:02,3,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,61 - 48,-13,,1:53 PM
+248,1,2,300,0021401097,,,8:39,3,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Smith 17' Jump Shot,1:53 PM
+249,0,4,301,0021401097,,,8:38,3,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:1 Def:5),1:53 PM
+250,2,5,302,0021401097,Wall STEAL (3 STL),,8:37,3,5.0,4,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Howard Lost Ball Turnover (P1.T13),1:53 PM
+251,79,1,303,0021401097,Wall 23' Pullup Jump Shot (13 PTS) (Pierce 1 AST),,8:27,3,4.0,4,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,0,,,,,,61 - 50,-11,,1:53 PM
+252,1,9,304,0021401097,,,8:26,3,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.3 Short 0),1:54 PM
+253,1,2,306,0021401097,,,8:11,3,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Smith 27' 3PT Jump Shot,1:57 PM
+254,0,4,307,0021401097,,,8:10,3,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,1:57 PM
+255,1,2,308,0021401097,,,8:01,3,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Harden 17' Jump Shot,1:57 PM
+256,0,4,309,0021401097,Gortat REBOUND (Off:3 Def:4),,8:00,3,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:58 PM
+257,2,6,310,0021401097,,,7:52,3,5.0,4,1,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Smith S.FOUL (P1.T1),1:58 PM
+258,11,3,311,0021401097,Nene Free Throw 1 of 2 (8 PTS),,7:52,3,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,61 - 51,-10,,1:58 PM
+259,0,8,313,0021401097,,,7:52,3,5.0,5,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Dorsey FOR Howard,1:58 PM
+260,12,3,314,0021401097,MISS Nene Free Throw 2 of 2,,7:52,3,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:58 PM
+261,0,4,316,0021401097,Pierce REBOUND (Off:1 Def:0),,7:51,3,4.0,0,0,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,1:58 PM
+262,79,1,318,0021401097,Wall 18' Pullup Jump Shot (15 PTS),,7:42,3,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,61 - 53,-8,,1:59 PM
+263,2,6,319,0021401097,Pierce S.FOUL (P2.T2),,7:18,3,4.0,5,1,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,1:59 PM
+264,0,18,320,0021401097,,,7:18,3,,0,1,319,,,,,,0,,,,,,0,,,,,,,,,1:59 PM
+265,13,3,321,0021401097,,,7:18,3,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,62 - 53,-9,Ariza Free Throw 1 of 3 (4 PTS),2:00 PM
+266,14,3,323,0021401097,,,7:18,3,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,63 - 53,-10,Ariza Free Throw 2 of 3 (5 PTS),2:00 PM
+267,15,3,325,0021401097,,,7:18,3,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,64 - 53,-11,Ariza Free Throw 3 of 3 (6 PTS),2:00 PM
+268,1,2,328,0021401097,MISS Pierce 24' 3PT Jump Shot,,6:59,3,4.0,0,0,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:01 PM
+269,0,4,329,0021401097,,,6:57,3,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:0 Def:5),2:01 PM
+270,1,2,330,0021401097,,,6:50,3,5.0,0,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Terry 26' 3PT Jump Shot,2:01 PM
+271,0,4,331,0021401097,Wall REBOUND (Off:2 Def:4),,6:48,3,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:01 PM
+272,5,2,332,0021401097,MISS Wall 2' Layup,,6:44,3,4.0,0,5,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,,,Smith BLOCK (1 BLK),2:01 PM
+273,0,4,333,0021401097,,,6:42,3,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:0 Def:6),2:01 PM
+274,79,1,334,0021401097,,,6:37,3,5.0,5,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,67 - 53,-14,Ariza 26' 3PT Pullup Jump Shot (9 PTS) (Harden 6 AST),2:01 PM
+275,57,1,336,0021401097,Nene 8' Driving Hook Shot (10 PTS),,6:09,3,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,67 - 55,-12,,2:02 PM
+276,1,2,337,0021401097,Gortat BLOCK (1 BLK),,5:53,3,5.0,0,4,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,,,MISS Harden 4' Jump Shot,2:02 PM
+277,0,4,338,0021401097,Gortat REBOUND (Off:3 Def:5),,5:51,3,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:02 PM
+278,1,5,339,0021401097,Pierce Bad Pass Turnover (P2.T9),,5:38,3,4.0,5,0,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Dorsey STEAL (3 STL),2:02 PM
+279,2,6,340,0021401097,Beal S.FOUL (P2.T3),,5:34,3,4.0,5,1,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,2:02 PM
+280,11,3,341,0021401097,,,5:34,3,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,68 - 55,-13,Harden Free Throw 1 of 2 (17 PTS),2:03 PM
+281,0,8,343,0021401097,,,5:34,3,5.0,5,0,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Prigioni FOR Terry,2:03 PM
+282,0,8,344,0021401097,SUB: Porter FOR Pierce,,5:34,3,4.0,4,0,1718,Paul Pierce,WAS,Washington,1610612764.0,Wizards,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,2:03 PM
+283,12,3,345,0021401097,,,5:34,3,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,69 - 55,-14,Harden Free Throw 2 of 2 (18 PTS),2:03 PM
+284,1,2,348,0021401097,MISS Beal 19' Jump Shot,,5:19,3,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:04 PM
+285,0,4,349,0021401097,,,5:18,3,5.0,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Dorsey REBOUND (Off:1 Def:7),2:04 PM
+286,1,2,350,0021401097,,,5:04,3,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Harden 3' Jump Shot,2:04 PM
+287,0,4,351,0021401097,Beal REBOUND (Off:0 Def:4),,5:03,3,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:04 PM
+288,1,6,352,0021401097,,,5:02,3,5.0,4,1,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Prigioni P.FOUL (P2.T2),2:04 PM
+289,1,5,353,0021401097,Nene Bad Pass Turnover (P2.T10),,4:47,3,4.0,5,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Smith STEAL (1 STL),2:05 PM
+290,1,2,354,0021401097,,,4:23,3,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Harden 26' 3PT Jump Shot,2:05 PM
+291,0,4,355,0021401097,Nene REBOUND (Off:0 Def:6),,4:22,3,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:05 PM
+292,5,2,356,0021401097,MISS Porter 2' Layup,,4:15,3,4.0,0,5,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,,,Smith BLOCK (2 BLK),2:05 PM
+293,0,4,357,0021401097,Gortat REBOUND (Off:4 Def:5),,4:14,3,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:05 PM
+294,5,2,358,0021401097,MISS Gortat 1' Layup,,4:12,3,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:05 PM
+295,0,4,359,0021401097,,,4:11,3,5.0,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Prigioni REBOUND (Off:0 Def:3),2:05 PM
+296,1,2,361,0021401097,,,3:49,3,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Smith 24' 3PT Jump Shot,2:06 PM
+297,0,4,362,0021401097,Wall REBOUND (Off:2 Def:5),,3:48,3,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:06 PM
+298,2,6,363,0021401097,,,3:40,3,5.0,4,1,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Dorsey S.FOUL (P2.T3),2:06 PM
+299,11,3,364,0021401097,Wall Free Throw 1 of 2 (16 PTS),,3:40,3,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,69 - 56,-13,,2:06 PM
+300,0,8,366,0021401097,SUB: Gooden FOR Nene,,3:40,3,4.0,4,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,2:06 PM
+301,0,8,367,0021401097,,,3:40,3,5.0,5,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Brewer FOR Ariza,2:06 PM
+302,12,3,368,0021401097,Wall Free Throw 2 of 2 (17 PTS),,3:40,3,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,69 - 57,-12,,2:07 PM
+303,5,2,371,0021401097,Gortat BLOCK (2 BLK),,3:17,3,5.0,0,4,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,,,MISS Dorsey 3' Layup,2:07 PM
+304,0,4,372,0021401097,,,3:16,3,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,2:07 PM
+305,11,5,373,0021401097,,,3:16,3,3.0,0,1,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Turnover: Shot Clock (T#14),2:07 PM
+306,1,1,375,0021401097,Gooden 19' Jump Shot (4 PTS) (Wall 9 AST),,3:00,3,4.0,4,0,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,69 - 59,-10,,2:08 PM
+307,42,1,376,0021401097,,,2:46,3,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,71 - 59,-12,Smith 1' Driving Layup (14 PTS),2:08 PM
+308,1,9,377,0021401097,WIZARDS Timeout: Regular (Full 3 Short 0),,2:44,3,2.0,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,2:08 PM
+309,1,5,379,0021401097,Wall Bad Pass Turnover (P4.T11),,2:35,3,4.0,0,1,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:12 PM
+310,1,5,380,0021401097,Porter STEAL (1 STL),,2:13,3,5.0,4,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Harden Bad Pass Turnover (P2.T15),2:12 PM
+311,2,5,381,0021401097,Wall Lost Ball Turnover (P5.T12),,2:09,3,4.0,5,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Harden STEAL (1 STL),2:12 PM
+312,1,2,382,0021401097,,,2:02,3,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Harden 27' 3PT Jump Shot,2:12 PM
+313,0,4,383,0021401097,,,2:00,3,5.0,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Prigioni REBOUND (Off:1 Def:3),2:12 PM
+314,1,2,384,0021401097,,,1:48,3,5.0,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Prigioni 28' 3PT Jump Shot,2:13 PM
+315,0,4,385,0021401097,Gooden REBOUND (Off:0 Def:3),,1:47,3,4.0,0,0,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:13 PM
+316,1,2,386,0021401097,MISS Beal 27' 3PT Jump Shot,,1:34,3,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:13 PM
+317,0,4,387,0021401097,,,1:32,3,5.0,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brewer REBOUND (Off:3 Def:1),2:13 PM
+318,2,6,388,0021401097,Gortat S.FOUL (P3.T4),,1:13,3,4.0,5,1,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,2:13 PM
+319,11,3,389,0021401097,,,1:13,3,5.0,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Dorsey Free Throw 1 of 2,2:13 PM
+320,1,4,390,0021401097,,,1:13,3,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,2:13 PM
+321,0,8,391,0021401097,SUB: Seraphin FOR Gortat,,1:13,3,4.0,4,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,2:14 PM
+322,0,8,392,0021401097,,,1:13,3,5.0,5,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Ariza FOR Smith,2:14 PM
+323,0,8,393,0021401097,SUB: Webster FOR Beal,,1:13,3,4.0,4,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,101110,Martell Webster,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,2:14 PM
+324,12,3,394,0021401097,,,1:13,3,5.0,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Dorsey Free Throw 2 of 2,2:14 PM
+325,0,4,396,0021401097,Gooden REBOUND (Off:0 Def:4),,1:13,3,4.0,0,0,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:14 PM
+326,79,1,398,0021401097,Wall 18' Pullup Jump Shot (19 PTS),,1:05,3,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,71 - 61,-10,,2:14 PM
+327,1,2,399,0021401097,Wall BLOCK (1 BLK),,0:50,3,5.0,0,4,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,202322,John Wall,WAS,Washington,1610612764.0,Wizards,,,MISS Brewer 3' Jump Shot,2:14 PM
+328,0,4,400,0021401097,Gooden REBOUND (Off:0 Def:5),,0:49,3,4.0,0,0,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:14 PM
+329,2,6,401,0021401097,,,0:46,3,5.0,4,1,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Dorsey S.FOUL (P3.T4),2:15 PM
+330,11,3,402,0021401097,Wall Free Throw 1 of 2 (20 PTS),,0:46,3,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,71 - 62,-9,,2:15 PM
+331,12,3,404,0021401097,Wall Free Throw 2 of 2 (21 PTS),,0:46,3,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,71 - 63,-8,,2:15 PM
+332,28,6,409,0021401097,Seraphin Personal Take Foul (P1.PN),,0:45,3,4.0,5,1,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,2:16 PM
+333,11,3,410,0021401097,,,0:45,3,5.0,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,72 - 63,-9,Dorsey Free Throw 1 of 2 (7 PTS),2:16 PM
+334,12,3,414,0021401097,,,0:45,3,5.0,0,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Dorsey Free Throw 2 of 2,2:16 PM
+335,0,4,416,0021401097,Porter REBOUND (Off:0 Def:1),,0:44,3,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:17 PM
+336,5,1,418,0021401097,Porter 2' Layup (2 PTS) (Wall 10 AST),,0:28,3,4.0,4,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,72 - 65,-7,,2:17 PM
+337,2,6,419,0021401097,,,0:28,3,5.0,4,1,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Dorsey S.FOUL (P4.PN),2:17 PM
+338,0,8,420,0021401097,,,0:28,3,5.0,5,0,201595,Joey Dorsey,HOU,Houston,1610612745.0,Rockets,1891,Jason Terry,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Terry FOR Dorsey,2:17 PM
+339,0,8,421,0021401097,SUB: Butler FOR Seraphin,,0:28,3,4.0,4,0,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,2446,Rasual Butler,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,2:18 PM
+340,10,3,422,0021401097,MISS Porter Free Throw 1 of 1,,0:28,3,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:18 PM
+341,0,4,423,0021401097,,,0:27,3,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Harden REBOUND (Off:0 Def:2),2:18 PM
+342,42,1,425,0021401097,,,0:04,3,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,74 - 65,-9,Harden 1' Driving Layup (20 PTS),2:18 PM
+343,1,6,426,0021401097,,,0:03,3,5.0,4,1,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Brewer P.FOUL (P3.PN),2:18 PM
+344,11,3,427,0021401097,Wall Free Throw 1 of 2 (22 PTS),,0:03,3,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,74 - 66,-8,,2:19 PM
+345,12,3,429,0021401097,Wall Free Throw 2 of 2 (23 PTS),,0:03,3,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,74 - 67,-7,,2:19 PM
+346,78,1,431,0021401097,,,0:01,3,5.0,5,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,76 - 67,-9,Brewer 15' Floating Jump Shot (12 PTS) (Ariza 2 AST),2:19 PM
+347,0,18,433,0021401097,,,0:00,3,,0,1,431,Shawn Kemp,,,,,0,,,,,,0,,,,,,,,,2:20 PM
+348,0,13,434,0021401097,,,0:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,76 - 67,-9,,2:20 PM
+349,0,12,436,0021401097,,,12:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,76 - 67,-9,,2:23 PM
+350,4,5,437,0021401097,Seraphin Traveling Turnover (P1.T13),,11:38,4,4.0,0,1,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:24 PM
+351,1,6,438,0021401097,Seraphin P.FOUL (P2.T1),,11:28,4,4.0,5,1,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,2:24 PM
+352,1,5,439,0021401097,,,11:15,4,5.0,0,1,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard Bad Pass Turnover (P2.T16),2:24 PM
+353,5,2,440,0021401097,MISS Wall  Layup,,11:05,4,4.0,0,5,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,,,Johnson BLOCK (1 BLK),2:25 PM
+354,0,4,441,0021401097,Porter REBOUND (Off:1 Def:1),,11:03,4,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:25 PM
+355,5,2,442,0021401097,MISS Porter 2' Layup,,11:01,4,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:25 PM
+356,0,4,443,0021401097,,,11:00,4,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:1 Def:6),2:25 PM
+357,5,2,444,0021401097,Seraphin BLOCK (1 BLK),,10:56,4,5.0,0,4,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,,,MISS Brewer 2' Layup,2:25 PM
+358,0,4,445,0021401097,,,10:54,4,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:1 Def:6),2:25 PM
+359,3,6,446,0021401097,Webster L.B.FOUL (P1.T2),,10:54,4,4.0,5,1,101110,Martell Webster,WAS,Washington,1610612764.0,Wizards,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,2:25 PM
+360,1,2,447,0021401097,,,10:47,4,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza 26' 3PT Jump Shot,2:26 PM
+361,0,4,448,0021401097,Porter REBOUND (Off:1 Def:2),,10:46,4,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:26 PM
+362,2,6,450,0021401097,,,10:40,4,5.0,4,1,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Prigioni S.FOUL (P3.T1),2:26 PM
+363,11,3,451,0021401097,MISS Porter Free Throw 1 of 2,,10:40,4,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:26 PM
+364,1,4,452,0021401097,WIZARDS Rebound,,10:40,4,2.0,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,2:26 PM
+365,0,8,453,0021401097,SUB: Sessions FOR Webster,,10:40,4,4.0,4,0,101110,Martell Webster,WAS,Washington,1610612764.0,Wizards,201196,Ramon Sessions,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,2:26 PM
+366,12,3,454,0021401097,Porter Free Throw 2 of 2 (3 PTS),,10:40,4,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,76 - 68,-8,,2:26 PM
+367,2,5,457,0021401097,Sessions STEAL (2 STL),,10:28,4,5.0,4,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,201196,Ramon Sessions,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Brewer Lost Ball Turnover (P2.T17),2:27 PM
+368,50,1,458,0021401097,Porter  Running Dunk (5 PTS) (Sessions 1 AST),,10:24,4,4.0,4,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,201196,Ramon Sessions,WAS,Washington,1610612764.0,Wizards,0,,,,,,76 - 70,-6,,2:27 PM
+369,2,5,459,0021401097,Wall STEAL (4 STL),,10:13,4,5.0,4,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Brewer Lost Ball Turnover (P3.T18),2:27 PM
+370,41,1,460,0021401097,Sessions 1' Running Layup (6 PTS) (Wall 11 AST),,10:09,4,4.0,4,0,201196,Ramon Sessions,WAS,Washington,1610612764.0,Wizards,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,76 - 72,-4,,2:27 PM
+371,1,9,461,0021401097,,,10:09,4,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Timeout: Regular (Reg.4 Short 0),2:27 PM
+372,2,6,463,0021401097,Seraphin S.FOUL (P3.T3),,9:52,4,4.0,5,1,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,2:31 PM
+373,11,3,464,0021401097,,,9:52,4,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,77 - 72,-5,Howard Free Throw 1 of 2 (5 PTS),2:31 PM
+374,12,3,466,0021401097,,,9:52,4,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Howard Free Throw 2 of 2,2:31 PM
+375,0,4,468,0021401097,,,9:51,4,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:2 Def:6),2:31 PM
+376,8,1,470,0021401097,,,9:30,4,5.0,5,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,79 - 72,-7,Howard  Slam Dunk (7 PTS) (Prigioni 2 AST),2:32 PM
+377,1,5,471,0021401097,Wall Bad Pass Turnover (P6.T14),,9:17,4,4.0,5,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Prigioni STEAL (2 STL),2:32 PM
+378,0,8,473,0021401097,SUB: Nene FOR Seraphin,,9:15,4,4.0,4,0,202338,Kevin Seraphin,WAS,Washington,1610612764.0,Wizards,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,2:32 PM
+379,2,6,475,0021401097,Porter S.FOUL (P1.T4),,9:06,4,4.0,5,1,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,2:32 PM
+380,11,3,476,0021401097,,,9:06,4,5.0,0,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Johnson Free Throw 1 of 2,2:33 PM
+381,1,4,477,0021401097,,,9:06,4,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,2:33 PM
+382,12,3,478,0021401097,,,9:06,4,5.0,0,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Johnson Free Throw 2 of 2,2:33 PM
+383,0,4,480,0021401097,Porter REBOUND (Off:1 Def:3),,9:05,4,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:33 PM
+384,1,6,482,0021401097,,,8:50,4,5.0,4,1,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Johnson P.FOUL (P1.T2),2:33 PM
+385,0,8,483,0021401097,SUB: Beal FOR Sessions,,8:50,4,4.0,4,0,201196,Ramon Sessions,WAS,Washington,1610612764.0,Wizards,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,2:34 PM
+386,1,1,484,0021401097,Porter  3PT Jump Shot (8 PTS) (Wall 12 AST),,8:42,4,4.0,4,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,79 - 75,-4,,2:34 PM
+387,80,1,486,0021401097,,,8:31,4,5.0,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,82 - 75,-7,Prigioni 26' 3PT Step Back Jump Shot (8 PTS),2:34 PM
+388,1,2,487,0021401097,MISS Beal 18' Jump Shot,,8:13,4,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:34 PM
+389,0,4,488,0021401097,,,8:12,4,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Ariza REBOUND (Off:1 Def:7),2:34 PM
+390,1,1,489,0021401097,,,8:03,4,5.0,5,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,85 - 75,-10,Brewer 27' 3PT Jump Shot (15 PTS) (Prigioni 3 AST),2:35 PM
+391,1,9,490,0021401097,WIZARDS Timeout: Regular (Full 4 Short 0),,8:03,4,2.0,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,2:35 PM
+392,0,8,494,0021401097,,,8:03,4,5.0,5,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Smith FOR Howard,2:38 PM
+393,0,8,495,0021401097,,,8:03,4,5.0,5,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Harden FOR Brewer,2:38 PM
+394,2,6,496,0021401097,,,7:56,4,5.0,4,1,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Johnson S.FOUL (P2.T3),2:38 PM
+395,11,3,497,0021401097,Wall Free Throw 1 of 2 (24 PTS),,7:56,4,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,85 - 76,-9,,2:38 PM
+396,12,3,499,0021401097,Wall Free Throw 2 of 2 (25 PTS),,7:56,4,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,85 - 77,-8,,2:39 PM
+397,80,1,502,0021401097,,,7:32,4,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,87 - 77,-10,Harden 14' Step Back Jump Shot (22 PTS),2:39 PM
+398,1,5,503,0021401097,Beal Bad Pass Turnover (P3.T15),,7:18,4,4.0,5,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Prigioni STEAL (3 STL),2:40 PM
+399,1,6,504,0021401097,Gooden P.FOUL (P2.PN),,7:03,4,4.0,5,1,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,2:40 PM
+400,11,3,505,0021401097,,,7:03,4,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,88 - 77,-11,Ariza Free Throw 1 of 2 (10 PTS),2:40 PM
+401,0,8,507,0021401097,SUB: Butler FOR Gooden,,7:03,4,4.0,4,0,2400,Drew Gooden,WAS,Washington,1610612764.0,Wizards,2446,Rasual Butler,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,2:40 PM
+402,12,3,508,0021401097,,,7:03,4,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,89 - 77,-12,Ariza Free Throw 2 of 2 (11 PTS),2:40 PM
+403,1,2,511,0021401097,MISS Porter 17' Jump Shot,,6:39,4,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:41 PM
+404,0,4,512,0021401097,,,6:38,4,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Harden REBOUND (Off:0 Def:3),2:41 PM
+405,42,1,513,0021401097,,,6:20,4,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,91 - 77,-14,Ariza 1' Driving Layup (13 PTS),2:41 PM
+406,1,5,514,0021401097,Porter Bad Pass Turnover (P1.T16),,6:09,4,4.0,5,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,Harden STEAL (2 STL),2:41 PM
+407,5,2,515,0021401097,Beal BLOCK (1 BLK),,6:05,4,5.0,0,4,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,,,MISS Johnson 1' Layup,2:41 PM
+408,0,4,516,0021401097,,,6:03,4,5.0,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Prigioni REBOUND (Off:2 Def:3),2:41 PM
+409,2,6,517,0021401097,Beal S.FOUL (P3.PN),,5:56,4,4.0,5,1,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,2:42 PM
+410,11,3,518,0021401097,,,5:56,4,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,92 - 77,-15,Harden Free Throw 1 of 2 (23 PTS),2:42 PM
+411,12,3,520,0021401097,,,5:56,4,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,93 - 77,-16,Harden Free Throw 2 of 2 (24 PTS),2:42 PM
+412,1,6,522,0021401097,,,5:39,4,5.0,4,1,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Smith P.FOUL (P2.T4),2:43 PM
+413,1,2,523,0021401097,MISS Butler 18' Jump Shot,,5:24,4,4.0,0,0,2446,Rasual Butler,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:43 PM
+414,0,4,524,0021401097,Porter REBOUND (Off:2 Def:3),,5:22,4,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:43 PM
+415,2,6,525,0021401097,,,5:21,4,5.0,4,1,201935,James Harden,HOU,Houston,1610612745.0,Rockets,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Harden S.FOUL (P3.PN),2:44 PM
+416,11,3,526,0021401097,Porter Free Throw 1 of 2 (9 PTS),,5:21,4,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,93 - 78,-15,,2:44 PM
+417,12,3,528,0021401097,Porter Free Throw 2 of 2 (10 PTS),,5:21,4,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,93 - 79,-14,,2:44 PM
+418,1,2,531,0021401097,,,4:59,4,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Smith 3' Jump Shot,2:45 PM
+419,0,4,532,0021401097,,,4:58,4,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Smith REBOUND (Off:3 Def:6),2:45 PM
+420,1,5,533,0021401097,Butler STEAL (1 STL),,4:48,4,5.0,4,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,2446,Rasual Butler,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Harden Bad Pass Turnover (P3.T19),2:45 PM
+421,1,6,534,0021401097,,,4:45,4,5.0,4,1,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Ariza P.FOUL (P1.PN),2:45 PM
+422,11,3,535,0021401097,Porter Free Throw 1 of 2 (11 PTS),,4:45,4,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,93 - 80,-13,,2:45 PM
+423,12,3,537,0021401097,Porter Free Throw 2 of 2 (12 PTS),,4:45,4,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,93 - 81,-12,,2:45 PM
+424,40,5,540,0021401097,,,4:22,4,5.0,0,1,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Johnson Out of Bounds Lost Ball Turnover (P2.T20),2:46 PM
+425,1,2,541,0021401097,MISS Wall 18' Jump Shot,,4:07,4,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:46 PM
+426,0,4,542,0021401097,,,4:06,4,5.0,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Prigioni REBOUND (Off:2 Def:4),2:46 PM
+427,1,2,543,0021401097,,,3:48,4,5.0,0,0,2772,Trevor Ariza,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Ariza 27' 3PT Jump Shot,2:47 PM
+428,0,4,544,0021401097,WIZARDS Rebound,,3:48,4,2.0,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,2:47 PM
+429,42,1,546,0021401097,Beal 1' Driving Layup (14 PTS),,3:35,4,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,93 - 83,-10,,2:47 PM
+430,1,2,547,0021401097,,,3:11,4,5.0,0,0,201935,James Harden,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Harden 26' 3PT Jump Shot,2:47 PM
+431,0,4,548,0021401097,,,3:10,4,5.0,0,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Smith REBOUND (Off:4 Def:6),2:47 PM
+432,1,2,549,0021401097,,,2:49,4,5.0,0,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Johnson 26' 3PT Jump Shot,2:48 PM
+433,0,4,550,0021401097,Nene REBOUND (Off:0 Def:7),,2:48,4,4.0,0,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:48 PM
+434,4,6,551,0021401097,Wall OFF.Foul (P2),,2:41,4,4.0,5,1,202322,John Wall,WAS,Washington,1610612764.0,Wizards,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,2:48 PM
+435,5,5,552,0021401097,Wall Foul Turnover (P7.T17),,2:41,4,4.0,0,1,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:48 PM
+436,4,9,553,0021401097,,,2:41,4,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,2:48 PM
+437,0,8,555,0021401097,SUB: Gortat FOR Nene,,2:41,4,4.0,4,0,2403,Nene,WAS,Washington,1610612764.0,Wizards,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,,2:50 PM
+438,0,8,556,0021401097,,,2:41,4,5.0,5,0,203910,Nick Johnson,HOU,Houston,1610612745.0,Rockets,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Howard FOR Johnson,2:51 PM
+439,28,6,559,0021401097,Gortat Personal Take Foul (P4.PN),,2:38,4,4.0,5,1,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,2:51 PM
+440,11,3,560,0021401097,,,2:38,4,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,94 - 83,-11,Howard Free Throw 1 of 2 (8 PTS),2:52 PM
+441,12,3,562,0021401097,,,2:38,4,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,95 - 83,-12,Howard Free Throw 2 of 2 (9 PTS),2:52 PM
+442,1,2,564,0021401097,MISS Butler 25' 3PT Jump Shot,,2:28,4,4.0,0,0,2446,Rasual Butler,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:52 PM
+443,0,4,565,0021401097,Porter REBOUND (Off:3 Def:3),,2:27,4,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:52 PM
+444,1,1,566,0021401097,Porter 24' 3PT Jump Shot (15 PTS),,2:23,4,4.0,0,0,203490,Otto Porter Jr.,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,95 - 86,-9,,2:52 PM
+445,28,6,567,0021401097,Wall Personal Take Foul (P3.PN),,2:12,4,4.0,5,1,202322,John Wall,WAS,Washington,1610612764.0,Wizards,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,2:52 PM
+446,11,3,568,0021401097,,,2:12,4,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,96 - 86,-10,Howard Free Throw 1 of 2 (10 PTS),2:52 PM
+447,12,3,570,0021401097,,,2:12,4,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Howard Free Throw 2 of 2,2:53 PM
+448,0,4,572,0021401097,Butler REBOUND (Off:0 Def:1),,2:12,4,4.0,0,0,2446,Rasual Butler,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:53 PM
+449,29,6,573,0021401097,,,1:56,4,5.0,4,1,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,2446,Rasual Butler,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Howard Shooting Block Foul (P4.PN),2:53 PM
+450,11,3,574,0021401097,Butler Free Throw 1 of 2 (1 PTS),,1:56,4,4.0,0,0,2446,Rasual Butler,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,96 - 87,-9,,2:54 PM
+451,12,3,576,0021401097,Butler Free Throw 2 of 2 (2 PTS),,1:56,4,4.0,0,0,2446,Rasual Butler,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,96 - 88,-8,,2:54 PM
+452,1,2,579,0021401097,,,1:32,4,5.0,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Prigioni 6' Jump Shot,2:55 PM
+453,0,4,580,0021401097,,,1:31,4,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:3 Def:6),2:55 PM
+454,5,2,581,0021401097,,,1:29,4,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Howard 3' Layup,2:55 PM
+455,0,4,582,0021401097,Gortat REBOUND (Off:4 Def:6),,1:28,4,4.0,0,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:55 PM
+456,1,6,583,0021401097,,,1:27,4,5.0,4,1,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,,,Prigioni P.FOUL (P4.PN),2:55 PM
+457,11,3,584,0021401097,MISS Beal Free Throw 1 of 2,,1:27,4,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:55 PM
+458,1,4,585,0021401097,WIZARDS Rebound,,1:27,4,2.0,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,2:55 PM
+459,0,8,587,0021401097,,,1:27,4,5.0,5,0,2746,Josh Smith,HOU,Houston,1610612745.0,Rockets,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,SUB: Brewer FOR Smith,2:55 PM
+460,12,3,588,0021401097,Beal Free Throw 2 of 2 (15 PTS),,1:27,4,4.0,0,0,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,96 - 89,-7,,2:55 PM
+461,2,6,591,0021401097,Gortat S.FOUL (P5.PN),,1:09,4,4.0,5,1,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,2:56 PM
+462,11,3,592,0021401097,,,1:09,4,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Howard Free Throw 1 of 2,2:56 PM
+463,1,4,593,0021401097,,,1:09,4,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,2:56 PM
+464,12,3,594,0021401097,,,1:09,4,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,97 - 89,-8,Howard Free Throw 2 of 2 (11 PTS),2:56 PM
+465,5,1,597,0021401097,Gortat 1' Layup (6 PTS) (Butler 1 AST),,0:55,4,4.0,4,0,101162,Marcin Gortat,WAS,Washington,1610612764.0,Wizards,2446,Rasual Butler,WAS,Washington,1610612764.0,Wizards,0,,,,,,97 - 91,-6,,2:57 PM
+466,1,2,598,0021401097,,,0:31,4,5.0,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Prigioni 26' 3PT Jump Shot,2:57 PM
+467,0,4,599,0021401097,,,0:30,4,5.0,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Brewer REBOUND (Off:4 Def:1),2:57 PM
+468,5,2,600,0021401097,,,0:27,4,5.0,0,0,201147,Corey Brewer,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,MISS Brewer 2' Layup,2:57 PM
+469,0,4,601,0021401097,Wall REBOUND (Off:2 Def:6),,0:26,4,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,2:57 PM
+470,1,2,602,0021401097,MISS Beal 26' 3PT Jump Shot,,0:25,4,4.0,0,5,203078,Bradley Beal,WAS,Washington,1610612764.0,Wizards,0,,,,,,201935,James Harden,HOU,Houston,1610612745.0,Rockets,,,Harden BLOCK (1 BLK),2:57 PM
+471,0,4,603,0021401097,WIZARDS Rebound,,0:25,4,2.0,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,2:57 PM
+472,1,9,604,0021401097,WIZARDS Timeout: Regular (Full 5 Short 0),,0:25,4,2.0,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,2:58 PM
+473,1,2,606,0021401097,MISS Wall 26' 3PT Jump Shot,,0:19,4,4.0,0,0,202322,John Wall,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,3:00 PM
+474,0,4,607,0021401097,,,0:18,4,5.0,0,0,2730,Dwight Howard,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,,,Howard REBOUND (Off:3 Def:7),3:00 PM
+475,28,6,608,0021401097,Wall Personal Take Foul (P4.PN),,0:16,4,4.0,5,1,202322,John Wall,WAS,Washington,1610612764.0,Wizards,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,,,,3:00 PM
+476,11,3,609,0021401097,,,0:16,4,5.0,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,98 - 91,-7,Prigioni Free Throw 1 of 2 (9 PTS),3:00 PM
+477,12,3,611,0021401097,,,0:16,4,5.0,0,0,203143,Pablo Prigioni,HOU,Houston,1610612745.0,Rockets,0,,,,,,0,,,,,,99 - 91,-8,Prigioni Free Throw 2 of 2 (10 PTS),3:01 PM
+478,2,9,613,0021401097,WIZARDS Timeout: Short (Full 5 Short 1),,0:16,4,2.0,0,0,1610612764,,,,,,0,,,,,,0,,,,,,,,,3:01 PM
+479,1,2,615,0021401097,MISS Butler 24' 3PT Jump Shot,,0:14,4,4.0,0,0,2446,Rasual Butler,WAS,Washington,1610612764.0,Wizards,0,,,,,,0,,,,,,,,,3:02 PM
+480,0,4,616,0021401097,,,0:14,4,3.0,0,0,1610612745,,,,,,0,,,,,,0,,,,,,,,Rockets Rebound,3:02 PM
+481,0,13,618,0021401097,,,0:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,99 - 91,-8,,3:03 PM

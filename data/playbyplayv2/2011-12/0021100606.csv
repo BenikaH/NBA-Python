@@ -1,0 +1,423 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021100606,,,12:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,6:13 PM
+1,0,10,1,0021100606,Jump Ball Howard vs. Hibbert: Tip to Granger,,12:00,1,4,5,5,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,,,,6:14 PM
+2,1,2,2,0021100606,,,11:36,1,5,0,0,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Collison 27' 3PT Jump Shot,6:14 PM
+3,0,4,3,0021100606,Redick REBOUND (Off:0 Def:1),,11:33,1,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:14 PM
+4,1,2,4,0021100606,MISS Richardson 27' 3PT Jump Shot,,11:21,1,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:14 PM
+5,0,4,5,0021100606,,,11:19,1,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,George REBOUND (Off:0 Def:1),6:14 PM
+6,1,6,6,0021100606,Howard P.FOUL (P1.T1),,11:12,1,4,5,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,6:15 PM
+7,1,2,7,0021100606,,,11:03,1,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Granger 24' 3PT Jump Shot,6:15 PM
+8,0,4,8,0021100606,Nelson REBOUND (Off:0 Def:1),,11:01,1,4,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:15 PM
+9,1,2,9,0021100606,MISS Richardson 22' Jump Shot,,10:57,1,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:15 PM
+10,0,4,10,0021100606,MAGIC Rebound,,10:56,1,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,6:15 PM
+11,1,2,11,0021100606,MISS Anderson  3PT Jump Shot,,10:46,1,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:15 PM
+12,0,4,12,0021100606,,,10:45,1,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,George REBOUND (Off:0 Def:2),6:15 PM
+13,1,1,13,0021100606,,,10:37,1,5,5,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,2 - 0,-2,Granger 10' Jump Shot (2 PTS) (Collison 1 AST),6:16 PM
+14,80,1,14,0021100606,Nelson 17' Step Back Jump Shot (2 PTS),,10:26,1,4,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,2 - 2,TIE,,6:16 PM
+15,63,2,15,0021100606,,,10:08,1,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Granger 16' Fadeaway Jumper,6:16 PM
+16,0,4,16,0021100606,Howard REBOUND (Off:0 Def:1),,10:07,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:16 PM
+17,1,2,17,0021100606,MISS Redick 24' 3PT Jump Shot,,9:59,1,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:16 PM
+18,0,4,18,0021100606,Anderson REBOUND (Off:1 Def:0),,9:57,1,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:16 PM
+19,5,1,19,0021100606,Redick 1' Layup (2 PTS) (Howard 1 AST),,9:48,1,4,4,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,2 - 4,2,,6:16 PM
+20,3,1,20,0021100606,,,9:29,1,5,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,4 - 4,TIE,West 4' Hook Shot (2 PTS),6:17 PM
+21,52,1,21,0021100606,Howard 1' Alley Oop Dunk (2 PTS) (Redick 1 AST),,9:15,1,4,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,4 - 6,2,,6:17 PM
+22,1,2,22,0021100606,,,8:58,1,5,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Hibbert 3' Jump Shot,6:17 PM
+23,0,4,23,0021100606,Anderson REBOUND (Off:1 Def:1),,8:55,1,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:17 PM
+24,2,6,24,0021100606,,,8:46,1,5,4,1,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Hibbert S.FOUL (P1.T1),6:17 PM
+25,11,3,26,0021100606,MISS Howard Free Throw 1 of 2,,8:46,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:18 PM
+26,1,4,27,0021100606,MAGIC Rebound,,8:46,1,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,6:18 PM
+27,12,3,28,0021100606,Howard Free Throw 2 of 2 (3 PTS),,8:46,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,4 - 7,3,,6:18 PM
+28,1,2,30,0021100606,Richardson BLOCK (1 BLK),,8:31,1,5,0,4,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,,,MISS George 6' Jump Shot,6:18 PM
+29,0,4,31,0021100606,,,8:27,1,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,George REBOUND (Off:1 Def:2),6:18 PM
+30,5,1,32,0021100606,,,8:26,1,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,6 - 7,1,George 2' Layup (2 PTS),6:19 PM
+31,5,2,33,0021100606,MISS Anderson 3' Layup,,8:14,1,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:19 PM
+32,0,4,34,0021100606,,,8:13,1,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,George REBOUND (Off:1 Def:3),6:19 PM
+33,49,1,35,0021100606,,,8:07,1,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,8 - 7,-1,George 3' Driving Dunk (4 PTS),6:19 PM
+34,8,1,36,0021100606,Howard 1' Slam Dunk (5 PTS) (Redick 2 AST),,7:50,1,4,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,8 - 9,1,,6:19 PM
+35,1,2,37,0021100606,,,7:25,1,5,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS West 18' Jump Shot,6:20 PM
+36,0,4,38,0021100606,Howard REBOUND (Off:0 Def:2),,7:24,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:20 PM
+37,1,2,39,0021100606,MISS Richardson 18' Jump Shot,,7:11,1,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:20 PM
+38,0,4,40,0021100606,,,7:09,1,5,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,West REBOUND (Off:0 Def:1),6:20 PM
+39,3,2,41,0021100606,,,6:56,1,5,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Hibbert 3' Hook Shot,6:20 PM
+40,0,4,42,0021100606,Howard REBOUND (Off:0 Def:3),,6:54,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:20 PM
+41,1,1,43,0021100606,Nelson 25' 3PT Jump Shot (5 PTS) (Redick 3 AST),,6:43,1,4,4,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,8 - 12,4,,6:20 PM
+42,1,2,44,0021100606,,,6:20,1,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS George 14' Jump Shot,6:21 PM
+43,0,4,45,0021100606,Richardson REBOUND (Off:0 Def:1),,6:19,1,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:21 PM
+44,42,1,46,0021100606,Nelson 3' Driving Layup (7 PTS),,6:14,1,4,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,8 - 14,6,,6:21 PM
+45,7,1,47,0021100606,,,6:07,1,5,5,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,10 - 14,4,George 3' Dunk (6 PTS) (Collison 2 AST),6:21 PM
+46,77,2,49,0021100606,MISS Redick 4' Driving Jump Shot,,5:55,1,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:21 PM
+47,0,4,50,0021100606,Howard REBOUND (Off:1 Def:3),,5:53,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:21 PM
+48,3,1,51,0021100606,Howard 4' Hook Shot (7 PTS),,5:52,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,10 - 16,6,,6:21 PM
+49,1,2,52,0021100606,,,5:33,1,5,0,0,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Collison 6' Jump Shot,6:22 PM
+50,0,4,54,0021100606,,,5:30,1,5,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Hibbert REBOUND (Off:1 Def:0),6:22 PM
+51,5,1,53,0021100606,,,5:30,1,5,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,12 - 16,4,Hibbert 3' Layup (2 PTS),6:22 PM
+52,1,2,55,0021100606,MISS Redick 26' 3PT Jump Shot,,5:08,1,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:22 PM
+53,0,4,56,0021100606,Anderson REBOUND (Off:2 Def:1),,5:06,1,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:22 PM
+54,2,6,57,0021100606,,,5:05,1,5,4,1,2561,David West,IND,Indiana,1610612754.0,Pacers,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,West S.FOUL (P1.T2),6:22 PM
+55,1,9,59,0021100606,MAGIC Timeout: Regular (Full 1 Short 0),,5:05,1,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,6:22 PM
+56,0,8,60,0021100606,SUB: Clark FOR Richardson,,5:05,1,4,4,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,6:24 PM
+57,11,3,61,0021100606,Anderson Free Throw 1 of 2 (1 PTS),,5:05,1,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,12 - 17,5,,6:25 PM
+58,12,3,63,0021100606,Anderson Free Throw 2 of 2 (2 PTS),,5:05,1,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,12 - 18,6,,6:25 PM
+59,1,2,65,0021100606,,,4:46,1,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Granger 26' 3PT Jump Shot,6:25 PM
+60,0,4,66,0021100606,Anderson REBOUND (Off:2 Def:2),,4:45,1,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:26 PM
+61,67,1,67,0021100606,Howard 4' Hook Bank Shot (9 PTS),,4:24,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,12 - 20,8,,6:26 PM
+62,1,1,68,0021100606,,,3:56,1,5,5,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,14 - 20,6,Hibbert 5' Jump Shot (4 PTS) (Granger 1 AST),6:26 PM
+63,1,1,69,0021100606,Redick 21' Jump Shot (4 PTS) (Howard 2 AST),,3:41,1,4,4,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,14 - 22,8,,6:27 PM
+64,1,9,70,0021100606,,,3:34,1,3,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,Pacers Timeout: Regular (Reg.1 Short 0),6:27 PM
+65,0,8,72,0021100606,,,3:34,1,5,5,0,2561,David West,IND,Indiana,1610612754.0,Pacers,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,SUB: Stephenson FOR West,6:29 PM
+66,0,8,73,0021100606,,,3:34,1,5,5,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,SUB: Hansbrough FOR George,6:29 PM
+67,0,8,74,0021100606,SUB: Duhon FOR Nelson,,3:34,1,4,4,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,6:29 PM
+68,0,8,75,0021100606,SUB: Davis FOR Anderson,,3:34,1,4,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,6:29 PM
+69,1,1,76,0021100606,,,3:20,1,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,16 - 22,6,Granger 9' Jump Shot (4 PTS),6:29 PM
+70,1,1,77,0021100606,Redick 18' Jump Shot (6 PTS) (Howard 3 AST),,3:05,1,4,4,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,16 - 24,8,,6:30 PM
+71,1,2,78,0021100606,,,2:54,1,5,0,0,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Collison 15' Jump Shot,6:30 PM
+72,0,4,79,0021100606,Redick REBOUND (Off:0 Def:2),,2:53,1,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:30 PM
+73,73,1,80,0021100606,Howard 2' Driving Reverse Layup (11 PTS),,2:43,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,16 - 26,10,,6:30 PM
+74,1,1,81,0021100606,,,2:25,1,5,5,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,18 - 26,8,Granger 13' Jump Shot (6 PTS) (Collison 3 AST),6:30 PM
+75,5,2,82,0021100606,MISS Howard 1' Layup,,2:12,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:30 PM
+76,0,4,83,0021100606,,,2:10,1,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Hansbrough REBOUND (Off:0 Def:1),6:30 PM
+77,1,2,84,0021100606,,,2:04,1,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Granger 24' 3PT Jump Shot,6:31 PM
+78,0,4,85,0021100606,Davis REBOUND (Off:0 Def:1),,2:03,1,4,0,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:31 PM
+79,1,1,86,0021100606,Redick 19' Jump Shot (8 PTS),,1:53,1,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,18 - 28,10,,6:31 PM
+80,2,6,87,0021100606,,,1:53,1,5,4,1,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Stephenson S.FOUL (P1.T3),6:31 PM
+81,0,8,88,0021100606,,,1:53,1,5,5,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,200811,Lou Amundson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,SUB: Amundson FOR Hibbert,6:31 PM
+82,0,8,89,0021100606,,,1:53,1,5,5,0,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,SUB: Price FOR Collison,6:31 PM
+83,10,3,90,0021100606,Redick Free Throw 1 of 1 (9 PTS),,1:53,1,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,18 - 29,11,,6:31 PM
+84,1,5,92,0021100606,Howard STEAL (1 STL),,1:42,1,5,4,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Granger Bad Pass Turnover (P1.T1),6:32 PM
+85,5,1,93,0021100606,Clark 2' Layup (2 PTS) (Howard 4 AST),,1:37,1,4,4,0,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,18 - 31,13,,6:32 PM
+86,5,1,94,0021100606,,,1:23,1,5,5,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,200811,Lou Amundson,IND,Indiana,1610612754.0,Pacers,0,,,,,,20 - 31,11,Hansbrough 2' Layup (2 PTS) (Amundson 1 AST),6:32 PM
+87,1,2,95,0021100606,MISS Redick 11' Jump Shot,,1:07,1,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:32 PM
+88,0,4,96,0021100606,MAGIC Rebound,,1:07,1,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,6:32 PM
+89,3,6,97,0021100606,,,1:07,1,5,4,1,200811,Lou Amundson,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Amundson L.B.FOUL (P1.PN),6:32 PM
+90,11,3,98,0021100606,MISS Howard Free Throw 1 of 2,,1:07,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:33 PM
+91,1,4,99,0021100606,MAGIC Rebound,,1:07,1,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,6:33 PM
+92,12,3,101,0021100606,MISS Howard Free Throw 2 of 2,,1:07,1,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:33 PM
+93,0,4,103,0021100606,,,1:02,1,5,0,0,200811,Lou Amundson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Amundson REBOUND (Off:0 Def:1),6:33 PM
+94,4,5,104,0021100606,,,0:54,1,5,0,1,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Hansbrough Traveling Turnover (P1.T2),6:33 PM
+95,0,8,105,0021100606,SUB: Anderson FOR Howard,,0:54,1,4,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,6:33 PM
+96,1,1,106,0021100606,Anderson  3PT Jump Shot (5 PTS) (Redick 4 AST),,0:43,1,4,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,20 - 34,14,,6:34 PM
+97,2,6,108,0021100606,Davis S.FOUL (P1.T2),,0:34,1,4,5,1,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,6:34 PM
+98,11,3,110,0021100606,,,0:34,1,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,21 - 34,13,Granger Free Throw 1 of 2 (7 PTS),6:35 PM
+99,12,3,112,0021100606,,,0:34,1,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,22 - 34,12,Granger Free Throw 2 of 2 (8 PTS),6:35 PM
+100,2,6,114,0021100606,,,0:24,1,5,4,1,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Hansbrough S.FOUL (P1.PN),6:36 PM
+101,11,3,115,0021100606,Davis Free Throw 1 of 2 (1 PTS),,0:24,1,4,0,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,22 - 35,13,,6:36 PM
+102,12,3,117,0021100606,Davis Free Throw 2 of 2 (2 PTS),,0:24,1,4,0,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,22 - 36,14,,6:36 PM
+103,1,2,119,0021100606,,,0:01,1,5,0,0,200811,Lou Amundson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Amundson 3' Jump Shot,6:37 PM
+104,0,4,120,0021100606,Redick REBOUND (Off:0 Def:3),,0:00,1,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:37 PM
+105,0,13,121,0021100606,,,0:00,1,0,0,0,0,,,,,,0,,,,,,0,,,,,,22 - 36,14,,6:37 PM
+106,0,12,123,0021100606,,,12:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,22 - 36,14,,6:39 PM
+107,1,6,124,0021100606,,,11:45,2,5,4,1,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Jones P.FOUL (P1.T1),6:40 PM
+108,1,2,125,0021100606,MISS Davis 18' Jump Shot,,11:31,2,4,0,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:40 PM
+109,0,4,126,0021100606,MAGIC Rebound,,11:31,2,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,6:40 PM
+110,1,6,127,0021100606,,,11:31,2,5,4,1,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Jones P.FOUL (P2.T2),6:40 PM
+111,1,1,128,0021100606,Duhon 26' 3PT Jump Shot (3 PTS),,11:19,2,4,0,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,22 - 39,17,,6:41 PM
+112,1,2,129,0021100606,,,10:57,2,5,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Jones 7' Jump Shot,6:41 PM
+113,0,4,130,0021100606,,,10:56,2,5,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Jones REBOUND (Off:1 Def:0),6:41 PM
+114,65,1,131,0021100606,,,10:46,2,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,24 - 39,15,Hansbrough 6' Jump Hook Shot (4 PTS),6:41 PM
+115,1,1,132,0021100606,Anderson 4' Jump Shot (7 PTS) (Redick 5 AST),,10:26,2,4,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,24 - 41,17,,6:42 PM
+116,65,2,133,0021100606,,,10:10,2,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Hansbrough 4' Jump Hook Shot,6:42 PM
+117,0,4,134,0021100606,Clark REBOUND (Off:0 Def:1),,10:09,2,4,0,0,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:42 PM
+118,40,5,135,0021100606,Duhon Out of Bounds Lost Ball Turnover (P1.T1),,9:57,2,4,0,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:42 PM
+119,0,8,136,0021100606,,,9:57,2,5,5,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,SUB: George FOR Stephenson,6:42 PM
+120,1,2,137,0021100606,Anderson BLOCK (1 BLK),,9:44,2,5,0,4,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,,,MISS George 5' Jump Shot,6:43 PM
+121,0,4,138,0021100606,,,9:44,2,3,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,Pacers Rebound,6:43 PM
+122,38,5,139,0021100606,,,9:44,2,3,0,1,1610612754,,,,,,0,,,,,,0,,,,,,,,Pacers Turnover: 5 Second Inbound (T#3),6:43 PM
+123,1,1,141,0021100606,Duhon 26' 3PT Jump Shot (6 PTS) (Clark 1 AST),,9:24,2,4,4,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,0,,,,,,24 - 44,20,,6:44 PM
+124,4,6,142,0021100606,,,9:13,2,5,4,1,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Price OFF.Foul (P1),6:44 PM
+125,5,5,143,0021100606,,,9:13,2,5,0,1,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Price Foul Turnover (P1.T4),6:44 PM
+126,1,5,144,0021100606,Davis Bad Pass Turnover (P1.T2),,9:02,2,4,5,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,George STEAL (1 STL),6:44 PM
+127,49,1,145,0021100606,,,8:59,2,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,26 - 44,18,George 1' Driving Dunk (8 PTS),6:44 PM
+128,1,2,146,0021100606,MISS Anderson 27' 3PT Jump Shot,,8:36,2,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:45 PM
+129,0,4,147,0021100606,,,8:35,2,5,0,0,200811,Lou Amundson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Amundson REBOUND (Off:0 Def:2),6:45 PM
+130,1,2,148,0021100606,,,8:28,2,5,0,0,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Price 21' Jump Shot,6:45 PM
+131,0,4,149,0021100606,,,8:27,2,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Hansbrough REBOUND (Off:1 Def:1),6:45 PM
+132,65,2,150,0021100606,,,8:24,2,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Hansbrough 5' Jump Hook Shot,6:45 PM
+133,0,4,151,0021100606,Clark REBOUND (Off:0 Def:2),,8:22,2,4,0,0,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:45 PM
+134,1,1,152,0021100606,Redick 25' 3PT Jump Shot (12 PTS) (Duhon 1 AST),,8:10,2,4,4,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,26 - 47,21,,6:45 PM
+135,1,9,153,0021100606,,,8:09,2,3,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,Pacers Timeout: Regular (Reg.2 Short 0),6:45 PM
+136,0,8,155,0021100606,SUB: Richardson FOR Redick,,8:09,2,4,4,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,6:47 PM
+137,0,8,156,0021100606,SUB: Wafer FOR Clark,,8:09,2,4,4,0,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,6:47 PM
+138,0,8,157,0021100606,SUB: Howard FOR Davis,,8:09,2,4,4,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,6:47 PM
+139,0,8,158,0021100606,,,8:09,2,5,5,0,200811,Lou Amundson,IND,Indiana,1610612754.0,Pacers,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,SUB: Collison FOR Amundson,6:47 PM
+140,0,8,159,0021100606,,,8:09,2,5,5,0,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,SUB: West FOR Price,6:47 PM
+141,1,2,160,0021100606,,,7:55,2,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS George 18' Jump Shot,6:48 PM
+142,0,4,161,0021100606,,,7:54,2,3,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,Pacers Rebound,6:48 PM
+143,80,2,162,0021100606,,,7:44,2,5,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS West 19' Step Back Jump Shot,6:48 PM
+144,0,4,163,0021100606,Wafer REBOUND (Off:0 Def:1),,7:42,2,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:48 PM
+145,1,1,164,0021100606,Duhon 26' 3PT Jump Shot (9 PTS),,7:31,2,4,0,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,26 - 50,24,,6:49 PM
+146,1,1,165,0021100606,,,7:17,2,5,5,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,29 - 50,21,George  3PT Jump Shot (11 PTS) (Hansbrough 1 AST),6:49 PM
+147,2,6,166,0021100606,,,6:55,2,5,4,1,2561,David West,IND,Indiana,1610612754.0,Pacers,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,West S.FOUL (P2.T3),6:49 PM
+148,11,3,167,0021100606,Wafer Free Throw 1 of 2 (1 PTS),,6:55,2,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,29 - 51,22,,6:50 PM
+149,0,8,169,0021100606,SUB: Nelson FOR Duhon,,6:55,2,4,4,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,6:50 PM
+150,0,8,173,0021100606,,,6:55,2,5,5,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,SUB: Hibbert FOR Hansbrough,6:50 PM
+151,12,3,170,0021100606,MISS Wafer Free Throw 2 of 2,,6:55,2,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:50 PM
+152,0,4,172,0021100606,,,6:53,2,5,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,West REBOUND (Off:0 Def:2),6:50 PM
+153,1,5,174,0021100606,,,6:35,2,5,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Jones Bad Pass Turnover (P1.T5),6:50 PM
+154,3,2,176,0021100606,MISS Howard 4' Hook Shot,,6:15,2,4,0,5,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,,,Hibbert BLOCK (1 BLK),6:51 PM
+155,0,4,178,0021100606,,,6:12,2,5,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,West REBOUND (Off:0 Def:3),6:51 PM
+156,3,2,179,0021100606,,,5:56,2,5,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Hibbert 4' Hook Shot,6:51 PM
+157,0,4,180,0021100606,Anderson REBOUND (Off:2 Def:3),,5:55,2,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:51 PM
+158,2,6,181,0021100606,,,5:42,2,5,4,1,2561,David West,IND,Indiana,1610612754.0,Pacers,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,West S.FOUL (P3.T4),6:52 PM
+159,4,9,182,0021100606,,,5:42,2,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,6:52 PM
+160,0,8,184,0021100606,,,5:42,2,5,5,0,2561,David West,IND,Indiana,1610612754.0,Pacers,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,SUB: Hansbrough FOR West,6:54 PM
+161,0,8,185,0021100606,,,5:42,2,5,5,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,SUB: Granger FOR Jones,6:54 PM
+162,11,3,186,0021100606,Wafer Free Throw 1 of 2 (2 PTS),,5:42,2,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,29 - 52,23,,6:54 PM
+163,12,3,188,0021100606,MISS Wafer Free Throw 2 of 2,,5:42,2,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:54 PM
+164,0,4,190,0021100606,,,5:40,2,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Hansbrough REBOUND (Off:1 Def:2),6:54 PM
+165,2,5,191,0021100606,Nelson STEAL (1 STL),,5:20,2,5,4,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Granger Lost Ball Turnover (P2.T6),6:55 PM
+166,4,5,192,0021100606,Wafer Traveling Turnover (P1.T3),,5:16,2,4,0,1,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:55 PM
+167,1,2,193,0021100606,,,4:54,2,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS George 26' 3PT Jump Shot,6:55 PM
+168,0,4,194,0021100606,Nelson REBOUND (Off:0 Def:2),,4:53,2,4,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:55 PM
+169,5,2,195,0021100606,MISS Anderson 3' Layup,,4:39,2,4,0,5,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,,,Hibbert BLOCK (2 BLK),6:56 PM
+170,0,4,196,0021100606,,,4:36,2,5,0,0,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Collison REBOUND (Off:0 Def:1),6:56 PM
+171,42,1,197,0021100606,,,4:34,2,5,0,0,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,31 - 52,21,Collison 2' Driving Layup (2 PTS),6:56 PM
+172,8,1,198,0021100606,Howard 2' Slam Dunk (13 PTS) (Nelson 1 AST),,4:10,2,4,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,31 - 54,23,,6:56 PM
+173,1,1,199,0021100606,,,3:50,2,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,33 - 54,21,Granger 14' Jump Shot (10 PTS),6:56 PM
+174,2,6,200,0021100606,,,3:38,2,5,4,1,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Hibbert S.FOUL (P2.PN),6:57 PM
+175,11,3,201,0021100606,Howard Free Throw 1 of 2 (14 PTS),,3:38,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,33 - 55,22,,6:57 PM
+176,0,8,203,0021100606,SUB: Davis FOR Anderson,,3:38,2,4,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,6:57 PM
+177,12,3,204,0021100606,Howard Free Throw 2 of 2 (15 PTS),,3:38,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,33 - 56,23,,6:57 PM
+178,3,2,206,0021100606,,,3:19,2,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Hansbrough 4' Hook Shot,6:58 PM
+179,0,4,207,0021100606,,,3:17,2,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Granger REBOUND (Off:1 Def:0),6:58 PM
+180,3,1,208,0021100606,,,3:04,2,5,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,35 - 56,21,Hibbert 8' Hook Shot (6 PTS),6:58 PM
+181,1,2,209,0021100606,MISS Richardson 26' 3PT Jump Shot,,2:38,2,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:59 PM
+182,0,4,210,0021100606,Howard REBOUND (Off:2 Def:3),,2:36,2,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,6:59 PM
+183,2,5,211,0021100606,Howard Lost Ball Turnover (P1.T4),,2:32,2,4,5,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,George STEAL (2 STL),6:59 PM
+184,66,1,212,0021100606,,,2:27,2,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,37 - 56,19,George 10' Jump Bank Shot (13 PTS),6:59 PM
+185,1,5,213,0021100606,Davis Bad Pass Turnover (P2.T5),,2:20,2,4,5,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Collison STEAL (1 STL),6:59 PM
+186,5,1,214,0021100606,,,2:19,2,5,0,0,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,39 - 56,17,Collison 3' Layup (4 PTS),6:59 PM
+187,1,9,215,0021100606,MAGIC Timeout: Regular (Full 2 Short 0),,2:19,2,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,6:59 PM
+188,2,5,219,0021100606,Howard Lost Ball Turnover (P2.T6),,1:59,2,4,5,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Collison STEAL (2 STL),7:02 PM
+189,2,6,220,0021100606,Nelson S.FOUL (P1.T1),,1:57,2,4,5,1,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:02 PM
+190,11,3,221,0021100606,,,1:57,2,5,0,0,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Collison Free Throw 1 of 2,7:02 PM
+191,1,4,222,0021100606,,,1:57,2,3,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,Pacers Rebound,7:02 PM
+192,12,3,223,0021100606,,,1:57,2,5,0,0,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Collison Free Throw 2 of 2,7:02 PM
+193,0,4,225,0021100606,Richardson REBOUND (Off:0 Def:2),,1:56,2,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:02 PM
+194,1,2,226,0021100606,MISS Nelson 18' Jump Shot,,1:44,2,4,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:03 PM
+195,0,4,227,0021100606,,,1:42,2,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Granger REBOUND (Off:1 Def:1),7:03 PM
+196,1,2,228,0021100606,,,1:24,2,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS George 4' Jump Shot,7:03 PM
+197,0,4,229,0021100606,Wafer REBOUND (Off:0 Def:2),,1:22,2,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:03 PM
+198,1,5,231,0021100606,Davis Bad Pass Turnover (P3.T7),,1:07,2,4,5,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Hibbert STEAL (1 STL),7:03 PM
+199,42,1,232,0021100606,,,1:02,2,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,41 - 56,15,Granger 1' Driving Layup (12 PTS),7:04 PM
+200,0,10,233,0021100606,Jump Ball Nelson vs. Granger: Tip to Howard,,0:49,2,4,5,4,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,,,,7:04 PM
+201,1,2,234,0021100606,MISS Wafer 26' 3PT Jump Shot,,0:42,2,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:05 PM
+202,0,4,235,0021100606,,,0:40,2,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Granger REBOUND (Off:1 Def:2),7:05 PM
+203,2,6,236,0021100606,Nelson S.FOUL (P2.PN),,0:36,2,4,5,1,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:05 PM
+204,11,3,237,0021100606,,,0:36,2,5,0,0,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,42 - 56,14,Collison Free Throw 1 of 2 (5 PTS),7:05 PM
+205,0,8,239,0021100606,SUB: Duhon FOR Nelson,,0:36,2,4,4,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:05 PM
+206,12,3,240,0021100606,,,0:36,2,5,0,0,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,43 - 56,13,Collison Free Throw 2 of 2 (6 PTS),7:05 PM
+207,40,5,242,0021100606,Davis Out of Bounds Lost Ball Turnover (P4.T8),,0:18,2,4,0,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:06 PM
+208,1,1,243,0021100606,,,0:02,2,5,0,0,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,45 - 56,11,Collison 18' Jump Shot (8 PTS),7:06 PM
+209,1,2,244,0021100606,MISS Wafer 46' 3PT Jump Shot,,0:00,2,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:07 PM
+210,0,4,245,0021100606,MAGIC Rebound,,0:00,2,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:07 PM
+211,0,13,247,0021100606,,,0:00,2,0,0,0,0,,,,,,0,,,,,,0,,,,,,45 - 56,11,,7:07 PM
+212,0,12,250,0021100606,,,12:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,45 - 56,11,,7:24 PM
+213,1,5,251,0021100606,Anderson Bad Pass Turnover (P1.T9),,11:42,3,4,5,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,George STEAL (3 STL),7:24 PM
+214,1,6,252,0021100606,Anderson P.FOUL (P1.T1),,11:39,3,4,5,1,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:24 PM
+215,1,1,253,0021100606,,,11:25,3,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,47 - 56,9,Granger 14' Jump Shot (14 PTS),7:25 PM
+216,1,1,254,0021100606,Anderson 25' 3PT Jump Shot (10 PTS) (Nelson 2 AST),,10:59,3,4,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,47 - 59,12,,7:25 PM
+217,1,5,255,0021100606,Nelson STEAL (2 STL),,10:46,3,5,4,0,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Collison Bad Pass Turnover (P1.T7),7:25 PM
+218,7,1,256,0021100606,Richardson 2' Dunk (2 PTS) (Redick 6 AST),,10:40,3,4,4,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,47 - 61,14,,7:26 PM
+219,1,5,257,0021100606,Howard STEAL (2 STL),,10:26,3,5,4,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Hibbert Bad Pass Turnover (P1.T8),7:26 PM
+220,1,2,258,0021100606,MISS Redick 26' 3PT Jump Shot,,10:18,3,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:26 PM
+221,0,4,259,0021100606,,,10:14,3,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Granger REBOUND (Off:1 Def:3),7:26 PM
+222,5,2,260,0021100606,Howard BLOCK (1 BLK),,10:10,3,5,0,4,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,,,MISS George 2' Layup,7:26 PM
+223,0,4,262,0021100606,,,10:07,3,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,George REBOUND (Off:2 Def:3),7:26 PM
+224,5,1,261,0021100606,,,10:07,3,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,49 - 61,12,George 1' Layup (15 PTS),7:26 PM
+225,5,2,263,0021100606,MISS Nelson 1' Layup,,9:56,3,4,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:26 PM
+226,0,4,264,0021100606,,,9:53,3,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,George REBOUND (Off:2 Def:4),7:26 PM
+227,2,6,265,0021100606,Howard S.FOUL (P2.T2),,9:44,3,4,5,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:26 PM
+228,11,3,266,0021100606,,,9:44,3,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,50 - 61,11,Granger Free Throw 1 of 2 (15 PTS),7:27 PM
+229,12,3,268,0021100606,,,9:44,3,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,51 - 61,10,Granger Free Throw 2 of 2 (16 PTS),7:27 PM
+230,44,1,271,0021100606,Howard 2' Reverse Layup (17 PTS),,9:26,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,51 - 63,12,,7:27 PM
+231,65,2,272,0021100606,,,9:12,3,5,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS West 4' Jump Hook Shot,7:28 PM
+232,0,4,273,0021100606,Howard REBOUND (Off:2 Def:4),,9:10,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:28 PM
+233,1,2,274,0021100606,MISS Anderson  3PT Jump Shot,,9:03,3,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:28 PM
+234,0,4,275,0021100606,,,9:01,3,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,George REBOUND (Off:2 Def:5),7:28 PM
+235,46,1,276,0021100606,,,8:54,3,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,53 - 63,10,Granger 4' Running Jump Shot (18 PTS),7:28 PM
+236,1,1,277,0021100606,Richardson 25' 3PT Jump Shot (5 PTS) (Howard 5 AST),,8:29,3,4,4,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,53 - 66,13,,7:28 PM
+237,1,2,278,0021100606,,,8:11,3,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Granger 15' Jump Shot,7:29 PM
+238,0,4,279,0021100606,Nelson REBOUND (Off:0 Def:3),,8:10,3,4,0,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:29 PM
+239,2,6,280,0021100606,,,8:05,3,5,4,1,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Collison S.FOUL (P1.T1),7:29 PM
+240,13,3,281,0021100606,Richardson Free Throw 1 of 3 (6 PTS),,8:05,3,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,53 - 67,14,,7:29 PM
+241,14,3,283,0021100606,Richardson Free Throw 2 of 3 (7 PTS),,8:05,3,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,53 - 68,15,,7:29 PM
+242,15,3,285,0021100606,Richardson Free Throw 3 of 3 (8 PTS),,8:05,3,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,53 - 69,16,,7:29 PM
+243,3,2,287,0021100606,,,7:43,3,5,0,0,2561,David West,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS West 4' Hook Shot,7:30 PM
+244,0,4,288,0021100606,Howard REBOUND (Off:2 Def:5),,7:42,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:30 PM
+245,52,1,289,0021100606,Howard 1' Alley Oop Dunk (19 PTS) (Nelson 3 AST),,7:34,3,4,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,53 - 71,18,,7:30 PM
+246,79,1,290,0021100606,,,7:13,3,5,5,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,55 - 71,16,George 13' Pullup Jump Shot (17 PTS) (Granger 2 AST),7:31 PM
+247,57,1,291,0021100606,Howard 3' Driving Hook Shot (21 PTS),,6:56,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,55 - 73,18,,7:31 PM
+248,1,1,292,0021100606,,,6:46,3,5,5,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,0,,,,,,57 - 73,16,George 4' Jump Shot (19 PTS) (Collison 4 AST),7:31 PM
+249,2,6,293,0021100606,Redick S.FOUL (P1.T3),,6:46,3,4,5,1,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:31 PM
+250,10,3,294,0021100606,,,6:46,3,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,58 - 73,15,George Free Throw 1 of 1 (20 PTS),7:31 PM
+251,1,6,296,0021100606,,,6:34,3,5,4,1,202331,Paul George,IND,Indiana,1610612754.0,Pacers,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,George P.FOUL (P1.T2),7:32 PM
+252,1,1,297,0021100606,Anderson 20' Jump Shot (12 PTS) (Redick 7 AST),,6:25,3,4,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,58 - 75,17,,7:32 PM
+253,1,2,298,0021100606,,,6:03,3,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Granger 26' 3PT Jump Shot,7:32 PM
+254,0,4,299,0021100606,Howard REBOUND (Off:2 Def:6),,6:01,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:32 PM
+255,1,1,300,0021100606,Redick 26' 3PT Jump Shot (15 PTS) (Nelson 4 AST),,5:56,3,4,4,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,0,,,,,,58 - 78,20,,7:33 PM
+256,1,9,301,0021100606,,,5:49,3,3,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,Pacers Timeout: Regular (Reg.3 Short 0),7:33 PM
+257,0,8,304,0021100606,,,5:49,3,5,5,0,2561,David West,IND,Indiana,1610612754.0,Pacers,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,SUB: Hansbrough FOR West,7:35 PM
+258,1,1,305,0021100606,,,5:29,3,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,60 - 78,18,George 17' Jump Shot (22 PTS),7:36 PM
+259,1,6,306,0021100606,,,5:16,3,5,4,1,202331,Paul George,IND,Indiana,1610612754.0,Pacers,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,George P.FOUL (P2.T3),7:36 PM
+260,2,6,307,0021100606,,,5:06,3,5,4,1,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Hibbert S.FOUL (P3.T4),7:36 PM
+261,11,3,308,0021100606,Howard Free Throw 1 of 2 (22 PTS),,5:06,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,60 - 79,19,,7:36 PM
+262,12,3,310,0021100606,Howard Free Throw 2 of 2 (23 PTS),,5:06,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,60 - 80,20,,7:37 PM
+263,40,2,339,0021100606,Nelson BLOCK (1 BLK),,4:51,3,5,0,4,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,,,MISS Hansbrough 1' Layup,7:37 PM
+264,1,4,332,0021100606,,,4:49,3,5,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Hibbert REBOUND (Off:2 Def:0),7:37 PM
+265,5,1,312,0021100606,,,4:49,3,5,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,62 - 80,18,Hibbert 2' Layup (8 PTS),7:37 PM
+266,1,2,313,0021100606,MISS Richardson 26' 3PT Jump Shot,,4:37,3,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:37 PM
+267,0,4,314,0021100606,,,4:33,3,5,0,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Hibbert REBOUND (Off:2 Def:1),7:38 PM
+268,1,2,315,0021100606,,,4:25,3,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Hansbrough 16' Jump Shot,7:38 PM
+269,0,4,316,0021100606,Howard REBOUND (Off:2 Def:7),,4:24,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:38 PM
+270,1,2,317,0021100606,MISS Anderson 27' 3PT Jump Shot,,4:16,3,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:38 PM
+271,0,4,318,0021100606,MAGIC Rebound,,4:16,3,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:38 PM
+272,3,6,319,0021100606,,,4:16,3,5,4,1,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Granger L.B.FOUL (P1.PN),7:38 PM
+273,11,3,320,0021100606,Richardson Free Throw 1 of 2 (9 PTS),,4:16,3,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,62 - 81,19,,7:38 PM
+274,12,3,322,0021100606,Richardson Free Throw 2 of 2 (10 PTS),,4:16,3,4,0,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,62 - 82,20,,7:38 PM
+275,1,5,324,0021100606,Richardson STEAL (1 STL),,3:58,3,5,4,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,George Bad Pass Turnover (P1.T9),7:39 PM
+276,1,6,325,0021100606,,,3:44,3,5,4,1,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Hansbrough P.FOUL (P2.PN),7:39 PM
+277,11,3,326,0021100606,Howard Free Throw 1 of 2 (24 PTS),,3:44,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,62 - 83,21,,7:39 PM
+278,0,8,328,0021100606,SUB: Davis FOR Anderson,,3:44,3,4,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:40 PM
+279,0,8,329,0021100606,SUB: Clark FOR Richardson,,3:44,3,4,4,0,2047,Quentin Richardson,ORL,Orlando,1610612753.0,Magic,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:40 PM
+280,12,3,330,0021100606,Howard Free Throw 2 of 2 (25 PTS),,3:44,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,62 - 84,22,,7:40 PM
+281,1,2,333,0021100606,,,3:26,3,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Granger 3' Jump Shot,7:40 PM
+282,0,4,334,0021100606,MAGIC Rebound,,3:25,3,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:40 PM
+283,1,2,335,0021100606,MISS Clark 20' Jump Shot,,3:09,3,4,0,0,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:41 PM
+284,0,4,336,0021100606,Howard REBOUND (Off:3 Def:7),,3:07,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:41 PM
+285,1,2,337,0021100606,MISS Redick 29' 3PT Jump Shot,,2:57,3,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:41 PM
+286,0,4,338,0021100606,,,2:56,3,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Granger REBOUND (Off:1 Def:4),7:41 PM
+287,1,6,340,0021100606,Davis P.FOUL (P2.T4),,2:51,3,4,5,1,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:41 PM
+288,1,9,341,0021100606,MAGIC Timeout: Regular (Full 3 Short 0),,2:51,3,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:41 PM
+289,0,8,344,0021100606,SUB: Duhon FOR Nelson,,2:51,3,4,4,0,2749,Jameer Nelson,ORL,Orlando,1610612753.0,Magic,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,7:43 PM
+290,0,8,345,0021100606,,,2:51,3,5,5,0,201954,Darren Collison,IND,Indiana,1610612754.0,Pacers,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,SUB: Price FOR Collison,7:44 PM
+291,1,1,346,0021100606,,,2:42,3,5,5,0,201579,Roy Hibbert,IND,Indiana,1610612754.0,Pacers,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,0,,,,,,64 - 84,20,Hibbert 14' Jump Shot (10 PTS) (Price 1 AST),7:44 PM
+292,5,2,347,0021100606,MISS Clark 4' Layup,,2:26,3,4,0,0,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:44 PM
+293,0,4,349,0021100606,Howard REBOUND (Off:4 Def:7),,2:23,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:44 PM
+294,4,2,348,0021100606,MISS Howard 2' Tip Shot,,2:23,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:44 PM
+295,0,4,351,0021100606,Howard REBOUND (Off:5 Def:7),,2:22,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:44 PM
+296,4,1,350,0021100606,Howard 1' Tip Shot (27 PTS),,2:22,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,64 - 86,22,,7:44 PM
+297,1,5,352,0021100606,Howard STEAL (3 STL),,2:10,3,5,4,0,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Price Bad Pass Turnover (P2.T10),7:44 PM
+298,2,6,353,0021100606,,,2:07,3,5,4,1,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Granger S.FOUL (P2.PN),7:45 PM
+299,11,3,354,0021100606,Clark Free Throw 1 of 2 (3 PTS),,2:07,3,4,0,0,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,64 - 87,23,,7:45 PM
+300,12,3,356,0021100606,Clark Free Throw 2 of 2 (4 PTS),,2:07,3,4,0,0,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,64 - 88,24,,7:45 PM
+301,4,6,358,0021100606,,,1:49,3,5,4,1,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Granger OFF.Foul (P3),7:46 PM
+302,5,5,359,0021100606,,,1:49,3,5,0,1,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Granger Foul Turnover (P3.T11),7:46 PM
+303,1,6,360,0021100606,,,1:38,3,5,4,1,202331,Paul George,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,George P.FOUL (P3.PN),7:46 PM
+304,11,3,361,0021100606,MISS Howard Free Throw 1 of 2,,1:38,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:46 PM
+305,1,4,362,0021100606,MAGIC Rebound,,1:38,3,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:46 PM
+306,12,3,363,0021100606,Howard Free Throw 2 of 2 (28 PTS),,1:38,3,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,64 - 89,25,,7:47 PM
+307,1,5,365,0021100606,Howard STEAL (4 STL),,1:27,3,5,4,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Granger Bad Pass Turnover (P4.T12),7:47 PM
+308,1,2,366,0021100606,MISS Duhon 25' 3PT Jump Shot,,1:22,3,4,0,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:47 PM
+309,0,4,367,0021100606,,,1:19,3,5,0,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,George REBOUND (Off:2 Def:6),7:47 PM
+310,1,2,368,0021100606,,,1:12,3,5,0,0,101122,Danny Granger,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Granger 27' 3PT Jump Shot,7:47 PM
+311,0,4,369,0021100606,MAGIC Rebound,,1:10,3,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:47 PM
+312,71,1,370,0021100606,Howard 3' Finger Roll Layup (30 PTS) (Redick 8 AST),,0:56,3,4,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,64 - 91,27,,7:48 PM
+313,1,2,371,0021100606,,,0:37,3,5,0,0,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Price 26' 3PT Jump Shot,7:48 PM
+314,0,4,372,0021100606,Duhon REBOUND (Off:0 Def:1),,0:36,3,4,0,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:48 PM
+315,2,5,373,0021100606,Howard Lost Ball Turnover (P3.T10),,0:20,3,4,5,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Hansbrough STEAL (1 STL),7:48 PM
+316,1,6,374,0021100606,Clark P.FOUL (P1.PN),,0:20,3,4,5,1,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:48 PM
+317,11,3,375,0021100606,,,0:20,3,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,65 - 91,26,Hansbrough Free Throw 1 of 2 (5 PTS),7:49 PM
+318,12,3,377,0021100606,,,0:20,3,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,66 - 91,25,Hansbrough Free Throw 2 of 2 (6 PTS),7:49 PM
+319,1,2,379,0021100606,MISS Davis 5' Jump Shot,,0:01,3,4,0,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:49 PM
+320,0,4,380,0021100606,,,0:00,3,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Hansbrough REBOUND (Off:1 Def:3),7:50 PM
+321,0,13,381,0021100606,,,0:00,3,0,0,0,0,,,,,,0,,,,,,0,,,,,,66 - 91,25,,7:50 PM
+322,0,12,383,0021100606,,,12:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,66 - 91,25,,7:53 PM
+323,2,6,384,0021100606,Davis S.FOUL (P3.T1),,11:44,4,4,5,1,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,200811,Lou Amundson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:53 PM
+324,11,3,385,0021100606,,,11:44,4,5,0,0,200811,Lou Amundson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Amundson Free Throw 1 of 2,7:53 PM
+325,1,4,386,0021100606,,,11:44,4,3,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,Pacers Rebound,7:53 PM
+326,12,3,387,0021100606,,,11:44,4,5,0,0,200811,Lou Amundson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,67 - 91,24,Amundson Free Throw 2 of 2 (1 PTS),7:53 PM
+327,1,1,389,0021100606,Redick 27' 3PT Jump Shot (18 PTS),,11:28,4,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,67 - 94,27,,7:54 PM
+328,1,1,390,0021100606,,,11:15,4,5,5,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,69 - 94,25,Jones 20' Jump Shot (2 PTS) (George 1 AST),7:54 PM
+329,1,2,391,0021100606,MISS Clark 17' Jump Shot,,10:57,4,4,0,0,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:54 PM
+330,0,4,392,0021100606,MAGIC Rebound,,10:57,4,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:54 PM
+331,3,6,393,0021100606,,,10:57,4,5,4,1,200811,Lou Amundson,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Amundson L.B.FOUL (P2.T1),7:54 PM
+332,1,1,394,0021100606,Davis 17' Jump Shot (4 PTS) (Clark 2 AST),,10:43,4,4,4,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,0,,,,,,69 - 96,27,,7:55 PM
+333,1,2,395,0021100606,,,10:22,4,5,0,0,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Price 26' 3PT Jump Shot,7:55 PM
+334,0,4,396,0021100606,Duhon REBOUND (Off:0 Def:2),,10:19,4,4,0,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:55 PM
+335,1,6,397,0021100606,,,9:59,4,5,4,1,200811,Lou Amundson,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Amundson P.FOUL (P3.T2),7:56 PM
+336,1,6,398,0021100606,,,9:50,4,5,4,1,200811,Lou Amundson,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Amundson P.FOUL (P4.T3),7:56 PM
+337,1,2,399,0021100606,MISS Davis 27' 3PT Jump Shot,,9:42,4,4,0,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,7:57 PM
+338,0,4,400,0021100606,,,9:42,4,3,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,Pacers Rebound,7:57 PM
+339,1,6,401,0021100606,Howard P.FOUL (P3.T2),,9:42,4,4,5,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,202331,Paul George,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:57 PM
+340,16,6,402,0021100606,,,9:42,4,4,5,1,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,7:57 PM
+341,1,1,403,0021100606,,,9:28,4,5,0,0,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,71 - 96,25,Price 14' Jump Shot (2 PTS),7:58 PM
+342,1,1,404,0021100606,Davis 19' Jump Shot (6 PTS) (Redick 9 AST),,9:15,4,4,4,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,71 - 98,27,,7:58 PM
+343,1,2,405,0021100606,,,8:57,4,5,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Jones 21' Jump Shot,7:59 PM
+344,0,4,406,0021100606,MAGIC Rebound,,8:57,4,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,7:59 PM
+345,4,9,407,0021100606,,,8:57,4,1,0,0,0,,,,,,0,,,,,,0,,,,,,,,,7:59 PM
+346,0,8,411,0021100606,,,8:57,4,5,5,0,202331,Paul George,IND,Indiana,1610612754.0,Pacers,201965,Jeff Ayres,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,SUB: Pendergraph FOR George,8:01 PM
+347,0,8,412,0021100606,,,8:57,4,5,5,0,200811,Lou Amundson,IND,Indiana,1610612754.0,Pacers,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,SUB: Stephenson FOR Amundson,8:01 PM
+348,1,2,413,0021100606,MISS Redick 18' Jump Shot,,8:42,4,4,0,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:01 PM
+349,0,4,414,0021100606,,,8:39,4,5,0,0,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Price REBOUND (Off:0 Def:1),8:01 PM
+350,1,1,415,0021100606,,,8:29,4,5,5,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,0,,,,,,73 - 98,25,Hansbrough 15' Jump Shot (8 PTS) (Price 2 AST),8:02 PM
+351,1,2,416,0021100606,MISS Davis 20' Jump Shot,,8:08,4,4,0,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:02 PM
+352,0,4,417,0021100606,,,8:06,4,3,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,Pacers Rebound,8:02 PM
+353,0,8,418,0021100606,SUB: Wafer FOR Redick,,8:06,4,4,4,0,200755,JJ Redick,ORL,Orlando,1610612753.0,Magic,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:02 PM
+354,78,2,419,0021100606,,,7:54,4,5,0,0,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Price 4' Floating Jump Shot,8:02 PM
+355,0,4,420,0021100606,,,7:52,4,5,0,0,201985,AJ Price,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Price REBOUND (Off:1 Def:1),8:02 PM
+356,1,2,421,0021100606,,,7:49,4,5,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Stephenson 26' 3PT Jump Shot,8:02 PM
+357,0,4,422,0021100606,Howard REBOUND (Off:5 Def:8),,7:46,4,4,0,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:03 PM
+358,1,6,423,0021100606,,,7:34,4,5,4,1,201965,Jeff Ayres,IND,Indiana,1610612754.0,Pacers,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Pendergraph P.FOUL (P1.T4),8:03 PM
+359,1,1,424,0021100606,Wafer 4' Jump Shot (4 PTS),,7:20,4,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,73 - 100,27,,8:03 PM
+360,8,1,425,0021100606,,,7:02,4,5,5,0,201965,Jeff Ayres,IND,Indiana,1610612754.0,Pacers,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,75 - 100,25,Pendergraph 2' Slam Dunk (2 PTS) (Stephenson 1 AST),8:04 PM
+361,1,1,426,0021100606,Davis 17' Jump Shot (8 PTS),,6:33,4,4,0,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,75 - 102,27,,8:04 PM
+362,0,8,428,0021100606,SUB: Anderson FOR Howard,,6:18,4,4,4,0,2730,Dwight Howard,ORL,Orlando,1610612753.0,Magic,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:05 PM
+363,1,2,429,0021100606,,,6:12,4,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Hansbrough 5' Jump Shot,8:05 PM
+364,0,4,430,0021100606,Wafer REBOUND (Off:0 Def:3),,6:10,4,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:05 PM
+365,1,2,431,0021100606,MISS Wafer 18' Jump Shot,,5:59,4,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:05 PM
+366,0,4,432,0021100606,Anderson REBOUND (Off:3 Def:3),,5:57,4,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:05 PM
+367,1,2,433,0021100606,MISS Anderson 5' Jump Shot,,5:55,4,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:05 PM
+368,0,4,434,0021100606,Clark REBOUND (Off:1 Def:2),,5:53,4,4,0,0,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:05 PM
+369,1,1,435,0021100606,Clark 10' Jump Shot (6 PTS),,5:51,4,4,0,0,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,75 - 104,29,,8:05 PM
+370,42,2,436,0021100606,,,5:40,4,5,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Jones 3' Driving Layup,8:05 PM
+371,0,4,437,0021100606,Anderson REBOUND (Off:3 Def:4),,5:37,4,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:05 PM
+372,1,2,438,0021100606,MISS Davis 22' Jump Shot,,5:26,4,4,0,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:06 PM
+373,0,4,439,0021100606,,,5:26,4,3,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,Pacers Rebound,8:06 PM
+374,1,9,440,0021100606,MAGIC Timeout: Regular (Full 4 Short 0),,5:26,4,2,0,0,1610612753,,,,,,0,,,,,,0,,,,,,,,,8:06 PM
+375,0,8,442,0021100606,SUB: Liggins FOR Davis,,5:26,4,4,4,0,201175,Glen Davis,ORL,Orlando,1610612753.0,Magic,202732,DeAndre Liggins,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:08 PM
+376,42,1,444,0021100606,,,5:10,4,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,77 - 104,27,Hansbrough 3' Driving Layup (10 PTS),8:08 PM
+377,42,2,445,0021100606,MISS Wafer 3' Driving Layup,,4:53,4,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:09 PM
+378,0,4,446,0021100606,,,4:51,4,5,0,0,201965,Jeff Ayres,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Pendergraph REBOUND (Off:0 Def:1),8:09 PM
+379,2,6,447,0021100606,Clark S.FOUL (P2.T3),,4:42,4,4,5,1,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:09 PM
+380,11,3,448,0021100606,,,4:42,4,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,78 - 104,26,Hansbrough Free Throw 1 of 2 (11 PTS),8:09 PM
+381,12,3,450,0021100606,,,4:42,4,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,79 - 104,25,Hansbrough Free Throw 2 of 2 (12 PTS),8:09 PM
+382,78,2,452,0021100606,MISS Liggins 6' Floating Jump Shot,,4:23,4,4,0,0,202732,DeAndre Liggins,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:10 PM
+383,0,4,453,0021100606,Anderson REBOUND (Off:4 Def:4),,4:22,4,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:10 PM
+384,1,2,454,0021100606,MISS Liggins 26' 3PT Jump Shot,,4:14,4,4,0,0,202732,DeAndre Liggins,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:10 PM
+385,0,4,455,0021100606,,,4:13,4,5,0,0,201965,Jeff Ayres,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Pendergraph REBOUND (Off:0 Def:2),8:10 PM
+386,3,2,456,0021100606,,,4:01,4,5,0,0,201965,Jeff Ayres,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Pendergraph 5' Hook Shot,8:10 PM
+387,0,4,457,0021100606,Anderson REBOUND (Off:4 Def:5),,3:59,4,4,0,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:10 PM
+388,1,2,458,0021100606,MISS Wafer 21' Jump Shot,,3:43,4,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:10 PM
+389,0,4,459,0021100606,,,3:42,4,5,0,0,201965,Jeff Ayres,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Pendergraph REBOUND (Off:0 Def:3),8:10 PM
+390,5,1,460,0021100606,,,3:33,4,5,5,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,81 - 104,23,Hansbrough 2' Layup (14 PTS) (Stephenson 2 AST),8:11 PM
+391,2,6,461,0021100606,Anderson S.FOUL (P2.T4),,3:33,4,4,5,1,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:11 PM
+392,0,8,462,0021100606,SUB: Orton FOR Anderson,,3:33,4,4,4,0,201583,Ryan Anderson,ORL,Orlando,1610612753.0,Magic,202350,Daniel Orton,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:11 PM
+393,10,3,463,0021100606,,,3:33,4,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,82 - 104,22,Hansbrough Free Throw 1 of 1 (15 PTS),8:11 PM
+394,1,6,465,0021100606,,,3:19,4,5,4,1,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,Hansbrough P.FOUL (P3.PN),8:11 PM
+395,11,3,466,0021100606,Wafer Free Throw 1 of 2 (5 PTS),,3:19,4,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,82 - 105,23,,8:12 PM
+396,0,8,468,0021100606,SUB: Smith FOR Duhon,,3:19,4,4,4,0,2768,Chris Duhon,ORL,Orlando,1610612753.0,Magic,202397,Ish Smith,ORL,Orlando,1610612753.0,Magic,0,,,,,,,,,8:12 PM
+397,12,3,469,0021100606,MISS Wafer Free Throw 2 of 2,,3:19,4,4,0,0,101144,Von Wafer,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:12 PM
+398,0,4,471,0021100606,,,3:18,4,5,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Jones REBOUND (Off:1 Def:1),8:12 PM
+399,1,1,472,0021100606,,,3:04,4,5,5,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,84 - 105,21,Hansbrough 15' Jump Shot (17 PTS) (Stephenson 3 AST),8:12 PM
+400,1,5,473,0021100606,Smith Bad Pass Turnover (P1.T11),,2:49,4,4,0,0,202397,Ish Smith,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:13 PM
+401,1,9,475,0021100606,,,2:49,4,3,0,0,1610612754,,,,,,0,,,,,,0,,,,,,,,Pacers Timeout: Regular (Reg.4 Short 0),8:13 PM
+402,2,6,478,0021100606,Orton S.FOUL (P1.PN),,2:37,4,4,5,1,202350,Daniel Orton,ORL,Orlando,1610612753.0,Magic,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,,8:15 PM
+403,11,3,479,0021100606,,,2:37,4,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,85 - 105,20,Hansbrough Free Throw 1 of 2 (18 PTS),8:16 PM
+404,12,3,481,0021100606,,,2:37,4,5,0,0,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,86 - 105,19,Hansbrough Free Throw 2 of 2 (19 PTS),8:16 PM
+405,8,1,483,0021100606,Orton 2' Slam Dunk (2 PTS) (Liggins 1 AST),,2:21,4,4,4,0,202350,Daniel Orton,ORL,Orlando,1610612753.0,Magic,202732,DeAndre Liggins,ORL,Orlando,1610612753.0,Magic,0,,,,,,86 - 107,21,,8:16 PM
+406,49,1,484,0021100606,,,2:00,4,5,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,88 - 107,19,Jones  Driving Dunk (4 PTS),8:16 PM
+407,1,5,485,0021100606,Liggins Bad Pass Turnover (P1.T12),,1:44,4,4,0,0,202732,DeAndre Liggins,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:17 PM
+408,1,2,486,0021100606,,,1:29,4,5,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Stephenson 28' 3PT Jump Shot,8:17 PM
+409,0,4,487,0021100606,Liggins REBOUND (Off:0 Def:1),,1:27,4,4,0,0,202732,DeAndre Liggins,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:17 PM
+410,1,2,488,0021100606,MISS Orton 7' Jump Shot,,1:06,4,4,0,0,202350,Daniel Orton,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:18 PM
+411,0,4,489,0021100606,,,1:04,4,5,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Jones REBOUND (Off:1 Def:2),8:18 PM
+412,2,7,491,0021100606,Orton Violation:Defensive Goaltending,,1:00,4,4,0,1,202350,Daniel Orton,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:18 PM
+413,5,1,490,0021100606,,,1:00,4,5,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,90 - 107,17,Jones 1' Layup (6 PTS),8:18 PM
+414,2,5,492,0021100606,Clark Lost Ball Turnover (P1.T13),,0:36,4,4,5,0,201947,Earl Clark,ORL,Orlando,1610612753.0,Magic,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,,,Hansbrough STEAL (2 STL),8:18 PM
+415,8,1,493,0021100606,,,0:33,4,5,5,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,201946,Tyler Hansbrough,IND,Indiana,1610612754.0,Pacers,0,,,,,,92 - 107,15,Jones 2' Slam Dunk (8 PTS) (Hansbrough 2 AST),8:18 PM
+416,1,2,495,0021100606,MISS Liggins 26' 3PT Jump Shot,,0:08,4,4,0,0,202732,DeAndre Liggins,ORL,Orlando,1610612753.0,Magic,0,,,,,,0,,,,,,,,,8:19 PM
+417,0,4,496,0021100606,,,0:07,4,5,0,0,201965,Jeff Ayres,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Pendergraph REBOUND (Off:0 Def:4),8:19 PM
+418,42,2,497,0021100606,,,0:02,4,5,0,0,202362,Lance Stephenson,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,MISS Stephenson 3' Driving Layup,8:19 PM
+419,0,4,499,0021100606,,,0:02,4,5,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,,,Jones REBOUND (Off:2 Def:2),8:19 PM
+420,87,1,498,0021100606,,,0:02,4,5,0,0,2563,Dahntay Jones,IND,Indiana,1610612754.0,Pacers,0,,,,,,0,,,,,,94 - 107,13,Jones 2' Putback Dunk (10 PTS),8:19 PM
+421,0,13,500,0021100606,,,0:00,4,0,0,0,0,,,,,,0,,,,,,0,,,,,,94 - 107,13,,8:20 PM

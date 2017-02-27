@@ -26,6 +26,6 @@ def merge_shot_and_pbp_year(season_year):
                    right_on=['GAME_ID', 'EVENTNUM', 'PERIOD'])
 
 
-for year in range(2010, 2017):
+for year in range(2012, 2013):
     year = d.get_year_string(year)
     merge_shot_and_pbp_year(year).to_csv('../data/merged_shot_pbp/' + str(year) + '.csv')
