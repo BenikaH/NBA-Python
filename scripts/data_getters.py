@@ -1,8 +1,9 @@
-import pandas as pd
 import json
-import urllib.request
 import os.path
 import sys
+import urllib.request
+
+import pandas as pd
 
 
 # region Utils
@@ -83,13 +84,14 @@ def print_reddit_table(df, columns):
 # endregion
 
 # Gets traditional stats for players
-def leaguedashplayerstats(measure_type='Base', per_mode='Totals', season_year='2016-17', overwrite=True):
+def leaguedashplayerstats(measure_type='Base', per_mode='Totals', season_year='2016-17', date_from='', date_to='',
+                          overwrite=True):
     file_path = '../data/leaguedashplayerstats/' + season_year + '/' + measure_type + '/' + per_mode + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/leaguedashplayerstats?' \
               'Conference=&' \
-              'DateFrom=&' \
-              'DateTo=&' \
+              'DateFrom={date_from}&' \
+              'DateTo={date_to}&' \
               'Division=&' \
               'GameScope=&' \
               'GameSegment=&' \
@@ -116,10 +118,12 @@ def leaguedashplayerstats(measure_type='Base', per_mode='Totals', season_year='2
               'TeamID=0&' \
               'VsConference=&' \
               'VsDivision='
-        url = url.format(measure_type=measure_type, per_mode=per_mode, season_year=season_year)
+        url = url.format(measure_type=measure_type, per_mode=per_mode, season_year=season_year, date_from=date_from,
+                         date_to=date_to)
         print(url)
         df = json_to_pandas(url, 0)
-        df.to_csv(file_path)
+        if date_from == '' and date_to == '':
+            df.to_csv(file_path)
         return df
     else:
         return pd.read_csv(file_path)
@@ -396,15 +400,15 @@ def playbyplayv2(game_id, year='2016-17', overwrite=True):
 
 
 # Gets SportsVU stats for a play type and season
-def leaguedashpstats(pt_measure_type, season_year='2016-17', overwrite=False):
+def leaguedashpstats(pt_measure_type, season_year='2016-17', date_from='', date_to='', overwrite=False):
     file_path = '../data/leaguedashpstats/' + str(season_year) + '/' + str(pt_measure_type) + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/leaguedashptstats?' \
               'College=&' \
               'Conference=&' \
               'Country=&' \
-              'DateFrom=&' \
-              'DateTo=&' \
+              'DateFrom={date_from}&' \
+              'DateTo={date_to}&' \
               'Division=&' \
               'DraftPick=&' \
               'DraftYear=&' \
@@ -429,7 +433,7 @@ def leaguedashpstats(pt_measure_type, season_year='2016-17', overwrite=False):
               'VsConference=&' \
               'VsDivision=&' \
               'Weight='
-        url = url.format(pt_measure_type=pt_measure_type, season_year=season_year)
+        url = url.format(pt_measure_type=pt_measure_type, season_year=season_year, date_from=date_from, date_to=date_to)
         df = json_to_pandas(url, 0)
         df.to_csv(file_path)
         return df
