@@ -396,7 +396,21 @@ def playbyplayv2(game_id, year='2016-17', overwrite=True):
         df.to_csv(file_path)
         return df
     else:
-        return pd.read_csv(file_path)
+        df = pd.read_csv(file_path)
+        if len(df) < 200:
+            url = 'http://stats.nba.com/stats/playbyplayv2?' \
+                  'EndPeriod=10&' \
+                  'EndRange=55800&' \
+                  'GameID={game_id}&' \
+                  'RangeType=2&' \
+                  'Season={year}&' \
+                  'SeasonType=Regular+Season&' \
+                  'StartPeriod=1&' \
+                  'StartRange=0'
+            url = url.format(game_id=game_id, year=year)
+            df = json_to_pandas(url, 0)
+            df.to_csv(file_path)
+        return df
 
 
 # Gets SportsVU stats for a play type and season
