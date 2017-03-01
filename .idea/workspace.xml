@@ -1,457 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/scripts/data_getters.py" line="307" />
+    <bookmark url="file://$PROJECT_DIR$/scripts/data_getters.py" line="311" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7826a5a7-4309-46fd-b3fd-7d05c72b1394" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2013-14.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/leaguegamelog/2011-12.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/leaguegamelog/2014-15.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000001.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000002.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000003.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000004.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000005.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000006.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000007.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000008.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000009.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000011.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000012.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000013.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000014.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000015.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000016.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000017.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000018.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000019.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000020.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000021.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000022.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000023.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000024.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000025.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000026.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000027.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000028.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000029.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000030.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000031.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000032.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000033.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000034.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000035.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000036.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000037.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000038.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000039.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000040.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000041.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000042.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000043.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000044.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000045.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000046.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000047.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000048.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000049.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000050.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000052.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000053.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000054.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000055.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000056.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000057.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000058.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000059.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000060.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000061.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000062.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000063.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000064.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000065.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000066.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000067.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000068.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000069.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000070.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000071.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000072.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000073.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000074.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000075.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000076.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000077.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000078.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000079.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000080.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000081.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000082.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000083.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000084.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000085.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000086.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000087.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000088.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000089.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000090.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000091.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000092.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000093.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000094.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000095.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000096.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000097.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000098.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000099.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000100.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000101.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000102.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000103.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000104.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000105.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000106.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000107.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000108.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000109.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000110.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000111.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000112.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000113.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000114.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000115.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000116.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000117.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000118.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000119.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000120.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000121.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000122.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000123.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000124.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000125.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000126.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000127.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000128.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000129.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000130.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000131.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000132.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000133.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000134.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000135.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000136.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000137.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000138.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000139.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000140.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000141.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000142.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000143.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000144.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000145.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000146.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000147.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000148.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000149.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000150.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000151.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000152.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000153.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000154.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000155.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000156.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000157.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000158.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000159.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000160.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000161.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000162.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000163.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000164.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000165.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000166.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000167.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000168.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000169.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000170.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000171.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000172.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000173.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000174.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000175.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000176.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000177.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000178.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000179.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000180.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000181.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000182.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000183.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000184.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000185.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000186.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000187.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000188.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000189.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000190.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000191.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000192.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000193.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000194.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000195.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000196.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000197.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000198.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000199.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000200.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000201.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000202.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000203.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000204.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000205.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000206.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000207.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000208.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000209.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000210.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000211.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000212.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000213.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000214.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000215.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000216.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000217.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000218.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000219.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000220.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000221.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000222.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000223.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000224.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000225.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000226.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000227.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000228.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000229.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000230.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000231.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000232.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000233.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000234.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000235.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000236.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000237.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000238.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000239.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000240.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000241.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000242.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000243.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000244.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000245.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000246.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000247.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000248.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000249.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000250.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000251.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000252.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000253.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000254.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000255.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000256.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000257.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000258.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000259.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000260.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000261.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000262.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000263.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000264.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000265.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000266.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000267.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000268.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000269.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000270.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000271.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000272.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000273.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000274.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000275.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000276.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000277.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000278.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000279.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000280.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000281.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000282.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000283.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000284.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000285.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000286.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000287.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000288.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000289.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000290.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000291.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000292.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000293.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000294.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000295.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000296.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000297.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000298.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000299.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000300.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000301.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000302.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000303.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000304.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000305.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000306.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000307.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000308.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000309.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000310.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000311.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000312.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000313.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000314.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000315.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000316.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000317.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000318.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000319.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000320.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000321.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000322.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000323.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000324.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000325.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000326.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000327.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000328.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000329.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000330.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000331.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000332.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000333.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000334.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000335.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000336.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000337.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000338.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000339.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000340.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000341.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000342.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000343.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000344.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000345.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000346.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000347.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000348.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000349.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000350.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000351.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000352.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000353.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000354.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000355.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000356.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000357.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000358.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000359.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000360.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000361.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000362.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000363.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000364.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000365.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000366.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000367.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000368.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000369.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000370.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000371.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000372.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000373.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000374.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000375.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000376.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000377.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000378.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000379.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000380.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000381.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000382.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000383.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000384.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000385.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000386.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000387.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000388.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000389.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000390.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000391.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000392.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000393.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000394.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000395.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000396.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000397.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000398.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000399.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000400.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000401.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000402.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000403.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000404.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000405.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000406.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000407.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000408.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000409.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000410.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000411.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000412.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000413.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000414.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000415.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000416.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000417.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000418.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000419.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000420.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000421.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000422.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000423.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000424.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000425.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000426.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000427.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000428.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000429.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000430.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000431.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000432.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000433.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000434.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000435.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000436.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600820.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600821.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600822.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600823.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600824.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600825.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600826.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600827.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600828.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600829.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600830.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600831.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600832.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600833.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600834.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600835.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600836.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600837.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600838.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600839.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600840.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600841.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600842.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600843.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/1997-98.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/1997-98.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/1999-00.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/1999-00.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2000-01.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2000-01.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2003-04.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2003-04.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2005-06.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2005-06.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2008-09.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2008-09.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2010-11.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2010-11.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2011-12.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2011-12.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2014-15.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2014-15.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/NBA-Python.iml" afterPath="$PROJECT_DIR$/.idea/NBA-Python.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2012-13.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2012-13.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/assist_analysis.py" afterPath="$PROJECT_DIR$/scripts/assist_analysis.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py" afterPath="$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2013-14.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2013-14.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2014-15.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2014-15.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2016-17.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2016-17.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/playbyplayv2/1999-00/0029901036.csv" afterPath="$PROJECT_DIR$/data/playbyplayv2/1999-00/0029901036.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/playbyplayv2/2003-04/0020300589.csv" afterPath="$PROJECT_DIR$/data/playbyplayv2/2003-04/0020300589.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/playbyplayv2/2005-06/0020500257.csv" afterPath="$PROJECT_DIR$/data/playbyplayv2/2005-06/0020500257.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/playbyplayv2/2005-06/0020500461.csv" afterPath="$PROJECT_DIR$/data/playbyplayv2/2005-06/0020500461.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000457.csv" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000457.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000484.csv" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000484.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/playbyplayv2/2013-14/0021301139.csv" afterPath="$PROJECT_DIR$/data/playbyplayv2/2013-14/0021301139.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/shotchartdetail/2016-17/0-0.csv" afterPath="$PROJECT_DIR$/data/shotchartdetail/2016-17/0-0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/1997-98.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/1997-98.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/2003-04.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/2003-04.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/2005-06.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/2005-06.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/2008-09.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/2008-09.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/2010-11.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/2010-11.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/2012-13.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/2012-13.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/2013-14.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/2013-14.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/2016-17.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/2016-17.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -463,9 +68,9 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/NBA-Python$true_usage.coverage" NAME="true_usage Coverage Results" MODIFIED="1485299108996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$scoring_analysis.coverage" NAME="scoring_analysis Coverage Results" MODIFIED="1484509375085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
-    <SUITE FILE_PATH="coverage/NBA-Python$merge_pbp_and_shot_data.coverage" NAME="merge_pbp_and_shot_data Coverage Results" MODIFIED="1488231821692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/NBA-Python$merge_pbp_and_shot_data.coverage" NAME="merge_pbp_and_shot_data Coverage Results" MODIFIED="1488313642405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$Contested_3pt_shooting.coverage" NAME="Contested_3pt_shooting Coverage Results" MODIFIED="1484316459336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
-    <SUITE FILE_PATH="coverage/NBA-Python$assist_analysis.coverage" NAME="assist_analysis Coverage Results" MODIFIED="1488231527863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/NBA-Python$assist_analysis.coverage" NAME="assist_analysis Coverage Results" MODIFIED="1488317065611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -484,11 +89,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="merge_pbp_and_shot_data.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="merge_pbp_and_shot_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="466">
+              <caret line="70" column="15" lean-forward="false" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -496,16 +101,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assist_analysis.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="true_usage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/true_usage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assist_analysis.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/assist_analysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="98" column="23" lean-forward="true" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
+            <state relative-caret-position="364">
+              <caret line="32" column="57" lean-forward="false" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
-                <element signature="e#2100#2483#0" expanded="false" />
-                <element signature="e#2517#3117#0" expanded="false" />
-                <element signature="e#3160#3789#0" expanded="false" />
+                <element signature="e#2576#3176#0" expanded="false" />
+                <element signature="e#3219#3848#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -514,10 +128,10 @@
       <file leaf-file-name="data_getters.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/data_getters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6698">
-              <caret line="398" column="4" lean-forward="false" selection-start-line="398" selection-start-column="4" selection-end-line="398" selection-end-column="4" />
+            <state relative-caret-position="342">
+              <caret line="352" column="16" lean-forward="false" selection-start-line="352" selection-start-column="16" selection-end-line="352" selection-end-column="16" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
               </folding>
             </state>
           </provider>
@@ -536,6 +150,7 @@
     <findStrings>
       <find>base_stats_df</find>
       <find>Cousins</find>
+      <find>Harden 2016</find>
     </findStrings>
     <replaceStrings>
       <replace>loop_df</replace>
@@ -553,8 +168,9 @@
         <option value="$PROJECT_DIR$/scripts/true_usage.py" />
         <option value="$PROJECT_DIR$/scripts/scoring_analysis.py" />
         <option value="$PROJECT_DIR$/data_getters.py" />
-        <option value="$PROJECT_DIR$/scripts/assist_analysis.py" />
+        <option value="$PROJECT_DIR$/scripts/data_getters.py" />
         <option value="$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py" />
+        <option value="$PROJECT_DIR$/scripts/assist_analysis.py" />
       </list>
     </option>
   </component>
@@ -588,6 +204,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -642,21 +259,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="merged_shot_pbp" />
+              <option name="myItemId" value="shotchartdetail" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="nodejs_interpreter_path" value="C:/nodejs/node" />
     <property name="js-jscs-nodeInterpreter" value="C:\nodejs\node.exe" />
   </component>
@@ -668,7 +284,7 @@
       <recent name="$PROJECT_DIR$/scripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.merge_pbp_and_shot_data">
+  <component name="RunManager" selected="Python.assist_analysis">
     <configuration default="false" name="assist_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -963,8 +579,8 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.merge_pbp_and_shot_data" />
-        <item index="1" class="java.lang.String" itemvalue="Python.assist_analysis" />
+        <item index="0" class="java.lang.String" itemvalue="Python.assist_analysis" />
+        <item index="1" class="java.lang.String" itemvalue="Python.merge_pbp_and_shot_data" />
         <item index="2" class="java.lang.String" itemvalue="Python.true_usage" />
         <item index="3" class="java.lang.String" itemvalue="Python.scoring_analysis" />
       </list>
@@ -999,7 +615,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1027,22 +643,28 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/data_getters.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/numpy/core/_methods.py" />
-    <entry file="file://$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/assist_analysis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1062,7 +684,7 @@
         <state relative-caret-position="7218">
           <caret line="441" column="29" lean-forward="false" selection-start-line="441" selection-start-column="29" selection-end-line="441" selection-end-column="29" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -1097,7 +719,7 @@
         <state relative-caret-position="2898">
           <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -1133,7 +755,7 @@
         <state relative-caret-position="7308">
           <caret line="406" column="35" lean-forward="false" selection-start-line="406" selection-start-column="35" selection-end-line="406" selection-end-column="35" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -1168,7 +790,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -1196,7 +818,7 @@
         <state relative-caret-position="5076">
           <caret line="286" column="23" lean-forward="false" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -1214,7 +836,7 @@
         <state relative-caret-position="5076">
           <caret line="286" column="23" lean-forward="false" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -1232,7 +854,7 @@
         <state relative-caret-position="5076">
           <caret line="286" column="23" lean-forward="false" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -1250,7 +872,7 @@
         <state relative-caret-position="5076">
           <caret line="286" column="23" lean-forward="false" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -1261,7 +883,7 @@
         <state relative-caret-position="5148">
           <caret line="286" column="23" lean-forward="false" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -1272,7 +894,7 @@
         <state relative-caret-position="5148">
           <caret line="286" column="23" lean-forward="false" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -1283,7 +905,7 @@
         <state relative-caret-position="5076">
           <caret line="286" column="23" lean-forward="true" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -1294,20 +916,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/Contested_3pt_shooting.py" />
     <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/numpy/core/_methods.py" />
-    <entry file="file://$PROJECT_DIR$/scripts/true_usage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/scoring_analysis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1258">
@@ -1321,35 +936,58 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/data_getters.py">
+    <entry file="file://$PROJECT_DIR$/scripts/true_usage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6698">
-          <caret line="398" column="4" lean-forward="false" selection-start-line="398" selection-start-column="4" selection-end-line="398" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="58">
+          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/assist_analysis.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="98" column="23" lean-forward="true" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
+        <state relative-caret-position="2">
+          <caret line="507" column="8" lean-forward="false" selection-start-line="507" selection-start-column="8" selection-end-line="507" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/io/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="331" column="0" lean-forward="false" selection-start-line="331" selection-start-column="0" selection-end-line="331" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/data_getters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="352" column="16" lean-forward="false" selection-start-line="352" selection-start-column="16" selection-end-line="352" selection-end-column="16" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#2100#2483#0" expanded="false" />
-            <element signature="e#2517#3117#0" expanded="false" />
-            <element signature="e#3160#3789#0" expanded="false" />
+            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="466">
+          <caret line="70" column="15" lean-forward="false" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/assist_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="32" column="57" lean-forward="false" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#2576#3176#0" expanded="false" />
+            <element signature="e#3219#3848#0" expanded="false" />
           </folding>
         </state>
       </provider>
