@@ -5,7 +5,7 @@ import plotly.plotly as py
 from scripts import data_getters as d
 
 
-def calc_2_3_assists():
+def calculate_23pt_ast_for_players():
     assists = []
     for year in range(1996, 2017):
         print(d.get_year_string(year))
@@ -39,7 +39,7 @@ def calc_2_3_assists():
     return assist_df
 
 
-def plot_bar_chart_of_assists(df):
+def plot_bar_chart_23pt_ast_for_players(df):
     df = df[df.year == '2016-17']
     df = df.sort_values(by='total_ast', ascending=False).head(10)
     trace1 = go.Bar(
@@ -58,44 +58,45 @@ def plot_bar_chart_of_assists(df):
     )
 
     fig = go.Figure(data=[trace2, trace1], layout=layout)
-    py.iplot(fig, filename='assists-stacked-bar')
+    py.plot(fig, filename='assists-stacked-bar')
 
 
-def plot_assists_vs_tov():
-    df = d.leaguedashplayerstats(per_mode='Per100Possessions')
-    df = df[df['GP'] > 20]
-    df = df.sort_values(by='AST', ascending=False).head(50)
-    # df['AST_VS_TOV'] = df['AST'] / df['TOV']
-    # d.print_reddit_table(df, ['PLAYER_NAME', 'AST', 'TOV', 'AST_VS_TOV'])
-    trace = go.Scatter(
-        x=df['AST'],
-        y=df['TOV'],
-        text=df['PLAYER_NAME'],
-        mode='markers'
-    )
-    layout = go.Layout(
-        yaxis=dict(
-            autorange='reversed'
-        )
-    )
-    fig = go.Figure(
-        data=[trace],
-        layout=layout
-    )
-    py.iplot(fig, filename='AST_VS_TOV')
+def classify_shots_by_zone_and_year():
+    years_by_distance = []
+    for y in range(1996, 2017):
+        year_string = d.get_year_string(y)
+        shots = p.read_csv('../data/merged_shot_pbp/' + year_string + '.csv')
+        num_shots = len(shots)
+
+        shots_by_distance = {}
+        for dist in range(0, 29):
+            shots_by_distance[dist] = round(len(shots[shots.SHOT_DISTANCE == dist]) * 100 / num_shots, 2)
+
+        print(year_string + ' ||| ' + str(shots_by_distance))
+        shots_by_distance['Year'] = str(y)
+        years_by_distance.append(shots_by_distance)
+
+    full_df = p.DataFrame(years_by_distance)
+    d.print_reddit_table(full_df, full_df.columns)
+    return full_df
 
 
-def plot_assists_vs_time_of_poss():
-    # Get advanced stats (pace, total mins), Tracking passing stats (potential assists)
-    passing_df = d.leaguedashpstats(pt_measure_type='Passing', overwrite=False)
-    possession_df = d.leaguedashpstats(pt_measure_type='Possessions', overwrite=False)
+def plot_shot_zones():
+    shots = classify_shots_by_zone_and_year()
+    zone_traces = []
+    total = 0
+    for zone in shots.columns:
+        if zone != 'Year':
+            zone_traces.append(go.Scatter(
+                x=shots.Year,
+                y=shots[zone] + total,
+                name=zone,
+                mode='lines',
+                line=dict(width=0.5),
+                fill='tonexty'
+            ))
+            total += shots[zone]
+    py.plot(zone_traces, filename='shot_zones_by_year')
 
-    df = p.merge(possession_df, passing_df, on=['PLAYER_ID', 'TEAM_ID', 'PLAYER_NAME'], how='inner')
-    df['FOO'] = df['POTENTIAL_AST'] / (df['TIME_OF_POSS'].map(float) * df['GP_x'].map(float) / 60)
-    df = df.sort_values(by=['POTENTIAL_AST'], ascending=False).head(50)
-    df = df.sort_values(by=['FOO'], ascending=False)
-    d.print_reddit_table(df, ['PLAYER_NAME', 'FOO'])
 
-
-ast_df = calc_2_3_assists()
-# plot_bar_chart_of_assists(ast_df)
+plot_shot_zones()

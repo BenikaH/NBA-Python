@@ -9,7 +9,7 @@ import pandas as pd
 # region Utils
 
 
-def json_to_pandas(url, index):
+def json_to_pandas(url, index=0):
     opener = urllib.request.build_opener()
     opener.addheaders = [('User-agent', 'Mozilla/5.0'), ('Referer', 'http://stats.nba.com/leaders/')]
     try:
@@ -67,7 +67,7 @@ def print_reddit_table(df, columns):
             df[col] = df[col].round(2)
         except TypeError:
             print(TypeError)
-        sys.stdout.write(col + (' | ' if ix is not len(columns) - 1 else ''))
+        sys.stdout.write(str(col) + (' | ' if ix is not len(columns) - 1 else ''))
     print('')
     for ix, col in enumerate(columns):
         sys.stdout.write(':--' + (' | ' if ix is not len(columns) - 1 else ''))
@@ -497,6 +497,26 @@ def get_all_player_on_data(season_year='2016-17', measure_type='Base', overwrite
         for team_id in team_ids:
             print(team_id)
             df = df.append(teamplayeronoffdetails(team_id, season_year=season_year, measure_type=measure_type))
+        df.to_csv(file_path)
+        return df
+    else:
+        return pd.read_csv(file_path)
+
+
+def boxscoretraditionalv2(game_id, season_year='2016-17', overwrite=False):
+    file_path = '../boxscoretraditionalv2/' + season_year + '/' + str(game_id) + '/' + '.csv'
+    if (not file_exists(file_path)) or overwrite:
+        url = 'http://stats.nba.com/stats/boxscoretraditionalv2?' \
+              'EndPeriod=10&' \
+              'EndRange=28800&' \
+              'GameID={game_id}&' \
+              'RangeType=0&' \
+              'Season={season_year}&' \
+              'SeasonType=Regular+Season&' \
+              'StartPeriod=1&StartRange=0'
+        url = url.format(game_id=game_id, season_year=season_year)
+        print(url)
+        df = json_to_pandas(url)
         df.to_csv(file_path)
         return df
     else:
