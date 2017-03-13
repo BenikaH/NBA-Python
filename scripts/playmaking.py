@@ -1,8 +1,78 @@
 import pandas as p
 import plotly.graph_objs as go
 import plotly.plotly as py
+import data_getters as d
 
-from scripts import data_getters as d
+shot_zones = ['Restricted Area', 'Mid-Range', 'In The Paint (Non-RA)', 'Above the Break 3', 'Left Corner 3',
+              'Right Corner 3']
+
+
+def calculate_efficiency_by_zone(year):
+    df = p.read_csv('../data/merged_shot_pbp/' + year + '.csv')
+    efficiencies = {}
+    for ix, sz in enumerate(shot_zones):
+        sz_df = df[df.SHOT_ZONE_BASIC == sz]
+        points = 3 if '3' in sz else 2
+        shots_made = (float(len(sz_df[sz_df.SHOT_MADE_FLAG == 1])))
+        shots_attempted = float(len(sz_df))
+        points_per_shot = round((shots_made / shots_attempted) * points, 2)
+        efficiencies[sz] = points_per_shot
+    return efficiencies
+
+
+def print_reddit_tables_for_ast_plus(print_df, num_players=10, sort_column='ast_per_game'):
+    print_df = print_df.sort_values(by=sort_column, ascending=False).head(num_players)
+    d.print_reddit_table(print_df,
+                         ['name', 'Restricted Area %', 'Mid-Range %', 'In The Paint (Non-RA) %', 'Above the Break 3 %',
+                          'Left Corner 3 %', 'Right Corner 3 %'])
+
+    d.print_reddit_table(print_df,
+                         ['name', 'ast_per_game', 'ast_plus_per_game', 'ast_plus_per_ast'])
+
+
+def calculate_assist_plus_for_year(year):
+    shots_df = p.read_csv('../data/merged_shot_pbp/' + year + '.csv')
+    zone_efficiencies = calculate_efficiency_by_zone(year)
+    player_ids = shots_df.PLAYER2_ID.unique()
+    assist_details = []
+
+    for ix, player_id in enumerate(player_ids):
+        if player_id != 0:
+            player_df = shots_df[shots_df.PLAYER2_ID == player_id]
+
+            total_assists = float(len(player_df))
+            player_assist_details = {
+                'name': player_df.iloc[0].PLAYER2_NAME,
+                'year': year,
+                'games': len(player_df.GAME_ID.unique()),
+                'total_assists': total_assists,
+                'ast_plus': 0
+            }
+
+            for jx, shot_zone in enumerate(shot_zones):
+                zone_assists = float(len(player_df[player_df.SHOT_ZONE_BASIC == shot_zone]))
+                player_assist_details[shot_zone] = zone_assists
+                player_assist_details[shot_zone + ' %'] = round((zone_assists / total_assists) * 100, 2)
+                player_assist_details['ast_plus'] += player_assist_details[shot_zone] * zone_efficiencies[shot_zone]
+
+            assist_details.append(player_assist_details)
+
+    df = p.DataFrame(assist_details).reindex()
+    df['ast_plus_per_game'] = df['ast_plus'] / df['games']
+    df['ast_plus_per_ast'] = df['ast_plus'] / df['total_assists']
+    df['ast_per_game'] = df['total_assists'] / df['games']
+    df = df.sort_values(by='ast_per_game', ascending=False)
+
+    return df
+
+
+def calculate_assist_plus_for_year_range(start_year=1996, end_year=2017):
+    df = p.DataFrame()
+    for year in range(start_year, end_year):
+        year_string = d.get_year_string(year)
+        print(year_string)
+        df = df.append(calculate_assist_plus_for_year(year_string))
+    print_reddit_tables_for_ast_plus(df, num_players=50)
 
 
 def calculate_23pt_ast_for_players():
@@ -61,42 +131,4 @@ def plot_bar_chart_23pt_ast_for_players(df):
     py.plot(fig, filename='assists-stacked-bar')
 
 
-def classify_shots_by_zone_and_year():
-    years_by_distance = []
-    for y in range(1996, 2017):
-        year_string = d.get_year_string(y)
-        shots = p.read_csv('../data/merged_shot_pbp/' + year_string + '.csv')
-        num_shots = len(shots)
-
-        shots_by_distance = {}
-        for dist in range(0, 29):
-            shots_by_distance[dist] = round(len(shots[shots.SHOT_DISTANCE == dist]) * 100 / num_shots, 2)
-
-        print(year_string + ' ||| ' + str(shots_by_distance))
-        shots_by_distance['Year'] = str(y)
-        years_by_distance.append(shots_by_distance)
-
-    full_df = p.DataFrame(years_by_distance)
-    d.print_reddit_table(full_df, full_df.columns)
-    return full_df
-
-
-def plot_shot_zones():
-    shots = classify_shots_by_zone_and_year()
-    zone_traces = []
-    total = 0
-    for zone in shots.columns:
-        if zone != 'Year':
-            zone_traces.append(go.Scatter(
-                x=shots.Year,
-                y=shots[zone] + total,
-                name=zone,
-                mode='lines',
-                line=dict(width=0.5),
-                fill='tonexty'
-            ))
-            total += shots[zone]
-    py.plot(zone_traces, filename='shot_zones_by_year')
-
-
-plot_shot_zones()
+calculate_assist_plus_for_year_range()
