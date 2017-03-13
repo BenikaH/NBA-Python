@@ -22,8 +22,8 @@ def merge_shot_and_pbp_year(season_year, shot_ow=False, log_ow=False, pbp_ow=Fal
         play_by_play = play_by_play.append(d.playbyplayv2(str(game_id), year=season_year, overwrite=pbp_ow))
 
     # merge shot and play by play data
-    print(len(shot_log))
-    print(len(play_by_play))
+    print(shot_log.head(10))
+    print(play_by_play.head(10))
     return_df = p.merge(shot_log, play_by_play, left_on=['GAME_ID', 'GAME_EVENT_ID', 'PERIOD'],
                    right_on=['GAME_ID', 'EVENTNUM', 'PERIOD'], how='inner')
     print(len(return_df))
@@ -68,7 +68,7 @@ def test_data():
     return years_with_error
 
 
-year = '2013-14'
+year = '2016-17'
+# add_missing_games(year)
 merge_shot_and_pbp_year(year)
 data_is_correct(year)
-test_data()

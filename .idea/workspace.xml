@@ -2,61 +2,17 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/scripts/data_getters.py" line="311" />
+    <bookmark url="file://$PROJECT_DIR$/scripts/playmaking.py" line="59" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7826a5a7-4309-46fd-b3fd-7d05c72b1394" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600820.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600821.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600822.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600823.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600824.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600825.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600826.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600827.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600828.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600829.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600830.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600831.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600832.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600833.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600834.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600835.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600836.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600837.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600838.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600839.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600840.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600841.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600842.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/playbyplayv2/2016-17/0021600843.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/1997-98.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/1997-98.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/1999-00.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/1999-00.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2000-01.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2000-01.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2003-04.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2003-04.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2005-06.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2005-06.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2008-09.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2008-09.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2010-11.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2010-11.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2012-13.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2012-13.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2013-14.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2013-14.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2014-15.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2014-15.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/merged_shot_pbp/2016-17.csv" afterPath="$PROJECT_DIR$/data/merged_shot_pbp/2016-17.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/playbyplayv2/1999-00/0029901036.csv" afterPath="$PROJECT_DIR$/data/playbyplayv2/1999-00/0029901036.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/playbyplayv2/2003-04/0020300589.csv" afterPath="$PROJECT_DIR$/data/playbyplayv2/2003-04/0020300589.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/playbyplayv2/2005-06/0020500257.csv" afterPath="$PROJECT_DIR$/data/playbyplayv2/2005-06/0020500257.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/playbyplayv2/2005-06/0020500461.csv" afterPath="$PROJECT_DIR$/data/playbyplayv2/2005-06/0020500461.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000457.csv" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000457.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000484.csv" afterPath="$PROJECT_DIR$/data/playbyplayv2/2010-11/0021000484.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/playbyplayv2/2013-14/0021301139.csv" afterPath="$PROJECT_DIR$/data/playbyplayv2/2013-14/0021301139.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/shotchartdetail/2016-17/0-0.csv" afterPath="$PROJECT_DIR$/data/shotchartdetail/2016-17/0-0.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/1997-98.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/1997-98.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/2003-04.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/2003-04.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/2005-06.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/2005-06.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/2008-09.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/2008-09.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/2010-11.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/2010-11.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/2012-13.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/2012-13.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/2013-14.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/2013-14.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/leaguegamelog/2016-17.csv" afterPath="$PROJECT_DIR$/data/leaguegamelog/2016-17.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py" afterPath="$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/playmaking.py" afterPath="$PROJECT_DIR$/scripts/playmaking.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/rotations/rotations.py" afterPath="$PROJECT_DIR$/scripts/rotations/rotations.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,11 +22,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/NBA-Python$parity.coverage" NAME="parity Coverage Results" MODIFIED="1488838251399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/NBA-Python$rotations.coverage" NAME="rotations Coverage Results" MODIFIED="1488838307586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/rotations" />
+    <SUITE FILE_PATH="coverage/NBA-Python$playmaking.coverage" NAME="playmaking Coverage Results" MODIFIED="1489185864155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$true_usage.coverage" NAME="true_usage Coverage Results" MODIFIED="1485299108996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$scoring_analysis.coverage" NAME="scoring_analysis Coverage Results" MODIFIED="1484509375085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
-    <SUITE FILE_PATH="coverage/NBA-Python$merge_pbp_and_shot_data.coverage" NAME="merge_pbp_and_shot_data Coverage Results" MODIFIED="1488313642405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/NBA-Python$scoring_by_time.coverage" NAME="scoring_by_time Coverage Results" MODIFIED="1488402971466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/scoring" />
+    <SUITE FILE_PATH="coverage/NBA-Python$merge_pbp_and_shot_data.coverage" NAME="merge_pbp_and_shot_data Coverage Results" MODIFIED="1489165919762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
     <SUITE FILE_PATH="coverage/NBA-Python$Contested_3pt_shooting.coverage" NAME="Contested_3pt_shooting Coverage Results" MODIFIED="1484316459336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
-    <SUITE FILE_PATH="coverage/NBA-Python$assist_analysis.coverage" NAME="assist_analysis Coverage Results" MODIFIED="1488317065611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/NBA-Python$assist_analysis.coverage" NAME="assist_analysis Coverage Results" MODIFIED="1488385650588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -89,50 +49,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="merge_pbp_and_shot_data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py">
+      <file leaf-file-name="data_getters.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/data_getters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="70" column="15" lean-forward="false" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
+            <state relative-caret-position="170">
+              <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="35" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#17460#18577#0" expanded="false" />
+                <element signature="e#17630#18349#0" expanded="false" />
+                <element signature="e#18710#19234#0" expanded="false" />
+                <marker date="1488403343394" expanded="true" signature="0:7" ph="import ..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="true_usage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/true_usage.py">
+      <file leaf-file-name="rotations.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/rotations/rotations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            <state relative-caret-position="629">
+              <caret line="39" column="50" lean-forward="false" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assist_analysis.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/assist_analysis.py">
+      <file leaf-file-name="merge_pbp_and_shot_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="32" column="57" lean-forward="false" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-                <element signature="e#2576#3176#0" expanded="false" />
-                <element signature="e#3219#3848#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data_getters.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/data_getters.py">
+      <file leaf-file-name="playmaking.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/playmaking.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="352" column="16" lean-forward="false" selection-start-line="352" selection-start-column="16" selection-end-line="352" selection-end-column="16" />
-              <folding>
-                <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
-              </folding>
+            <state relative-caret-position="527">
+              <caret line="41" column="50" lean-forward="false" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -151,10 +109,13 @@
       <find>base_stats_df</find>
       <find>Cousins</find>
       <find>Harden 2016</find>
+      <find>play_by_play</find>
+      <find>misc</find>
     </findStrings>
     <replaceStrings>
       <replace>loop_df</replace>
       <replace>yearly_base_stats_df</replace>
+      <replace>box_score</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -168,9 +129,20 @@
         <option value="$PROJECT_DIR$/scripts/true_usage.py" />
         <option value="$PROJECT_DIR$/scripts/scoring_analysis.py" />
         <option value="$PROJECT_DIR$/data_getters.py" />
-        <option value="$PROJECT_DIR$/scripts/data_getters.py" />
-        <option value="$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py" />
+        <option value="$PROJECT_DIR$/scripts/rebounding/contested_rebounding.py" />
         <option value="$PROJECT_DIR$/scripts/assist_analysis.py" />
+        <option value="$PROJECT_DIR$/scripts/rebounding.py" />
+        <option value="$PROJECT_DIR$/scripts/scoring/points_abv_exp.py" />
+        <option value="$PROJECT_DIR$/scripts/scoring.py" />
+        <option value="$PROJECT_DIR$/scripts/scoring/__init__.py" />
+        <option value="$PROJECT_DIR$/scripts/scoring/consistency.py" />
+        <option value="$PROJECT_DIR$/scripts/scoring/scoring_by_time.py" />
+        <option value="$PROJECT_DIR$/scripts/rotations/__init__.py" />
+        <option value="$PROJECT_DIR$/scripts/data_getters.py" />
+        <option value="$PROJECT_DIR$/scripts/parity.py" />
+        <option value="$PROJECT_DIR$/scripts/rotations/rotations.py" />
+        <option value="$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py" />
+        <option value="$PROJECT_DIR$/scripts/playmaking.py" />
       </list>
     </option>
   </component>
@@ -183,7 +155,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="width" value="1924" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -204,7 +176,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -241,7 +213,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rotations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -258,14 +234,10 @@
               <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shotchartdetail" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,25 +256,7 @@
       <recent name="$PROJECT_DIR$/scripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.assist_analysis">
-    <configuration default="false" name="assist_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NBA-Python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/assist_analysis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.playmaking">
     <configuration default="false" name="merge_pbp_and_shot_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,25 +275,43 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="scoring_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="scoring_by_time" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/scoring" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="NBA-Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/scoring_analysis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/scoring/scoring_by_time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="true_usage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="rotations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/rotations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NBA-Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/rotations/rotations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="parity" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -352,7 +324,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="NBA-Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/true_usage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/parity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="playmaking" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NBA-Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/playmaking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -571,18 +561,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.assist_analysis" />
-      <item index="1" class="java.lang.String" itemvalue="Python.merge_pbp_and_shot_data" />
-      <item index="2" class="java.lang.String" itemvalue="Python.scoring_analysis" />
-      <item index="3" class="java.lang.String" itemvalue="Python.true_usage" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.merge_pbp_and_shot_data" />
+      <item index="1" class="java.lang.String" itemvalue="Python.scoring_by_time" />
+      <item index="2" class="java.lang.String" itemvalue="Python.rotations" />
+      <item index="3" class="java.lang.String" itemvalue="Python.parity" />
+      <item index="4" class="java.lang.String" itemvalue="Python.playmaking" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.assist_analysis" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.playmaking" />
         <item index="1" class="java.lang.String" itemvalue="Python.merge_pbp_and_shot_data" />
-        <item index="2" class="java.lang.String" itemvalue="Python.true_usage" />
-        <item index="3" class="java.lang.String" itemvalue="Python.scoring_analysis" />
+        <item index="2" class="java.lang.String" itemvalue="Python.rotations" />
+        <item index="3" class="java.lang.String" itemvalue="Python.parity" />
+        <item index="4" class="java.lang.String" itemvalue="Python.scoring_by_time" />
       </list>
     </recent_temporary>
   </component>
@@ -612,18 +604,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19601677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31606767" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40697673" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -631,9 +623,29 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875264" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31606767" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19635417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875264" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40697673" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -645,117 +657,39 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/scripts/data_getters.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py</url>
-          <line>56</line>
-          <option name="timeStamp" value="16" />
+          <url>file://$PROJECT_DIR$/scripts/rotations/rotations.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py</url>
           <line>28</line>
-          <option name="timeStamp" value="17" />
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="19" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="69" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scripts/assist_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/scoring_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="81" column="17" lean-forward="false" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/data_getters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7218">
-          <caret line="441" column="29" lean-forward="false" selection-start-line="441" selection-start-column="29" selection-end-line="441" selection-end-column="29" />
-          <folding>
-            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/numpy/core/_methods.py" />
-    <entry file="file://$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/assist_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="55" column="43" lean-forward="false" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/scoring_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/data_getters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2898">
-          <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
-          <folding>
-            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/numpy/core/_methods.py" />
-    <entry file="file://$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/Contested_3pt_shooting.py" />
-    <entry file="file://$PROJECT_DIR$/scripts/assist_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/scoring_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scoring.py" />
     <entry file="file://$PROJECT_DIR$/scripts/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7308">
           <caret line="406" column="35" lean-forward="false" selection-start-line="406" selection-start-column="35" selection-end-line="406" selection-end-column="35" />
           <folding>
-            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#17460#18577#0" expanded="false" />
+            <element signature="e#17630#18349#0" expanded="false" />
+            <element signature="e#18710#19234#0" expanded="false" />
+            <marker date="1488403343394" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -764,33 +698,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/Contested_3pt_shooting.py" />
-    <entry file="file://$PROJECT_DIR$/scripts/assist_analysis.py">
+    <entry file="file://$PROJECT_DIR$/scripts/playmaking.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/scoring_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scoring.py" />
     <entry file="file://$PROJECT_DIR$/scripts/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#17460#18577#0" expanded="false" />
+            <element signature="e#17630#18349#0" expanded="false" />
+            <element signature="e#18710#19234#0" expanded="false" />
+            <marker date="1488403343394" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -799,80 +729,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/Contested_3pt_shooting.py" />
-    <entry file="file://$PROJECT_DIR$/scripts/scoring_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scoring.py" />
     <entry file="file://$PROJECT_DIR$/scripts/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5076">
           <caret line="286" column="23" lean-forward="false" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
           <folding>
-            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#17460#18577#0" expanded="false" />
+            <element signature="e#17630#18349#0" expanded="false" />
+            <element signature="e#18710#19234#0" expanded="false" />
+            <marker date="1488403343394" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/Contested_3pt_shooting.py" />
-    <entry file="file://$PROJECT_DIR$/scripts/scoring_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scoring.py" />
     <entry file="file://$PROJECT_DIR$/scripts/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5076">
           <caret line="286" column="23" lean-forward="false" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
           <folding>
-            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#17460#18577#0" expanded="false" />
+            <element signature="e#17630#18349#0" expanded="false" />
+            <element signature="e#18710#19234#0" expanded="false" />
+            <marker date="1488403343394" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/Contested_3pt_shooting.py" />
-    <entry file="file://$PROJECT_DIR$/scripts/scoring_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scoring.py" />
     <entry file="file://$PROJECT_DIR$/scripts/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5076">
           <caret line="286" column="23" lean-forward="false" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
           <folding>
-            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#17460#18577#0" expanded="false" />
+            <element signature="e#17630#18349#0" expanded="false" />
+            <element signature="e#18710#19234#0" expanded="false" />
+            <marker date="1488403343394" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/Contested_3pt_shooting.py" />
-    <entry file="file://$PROJECT_DIR$/scripts/scoring_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scoring.py" />
     <entry file="file://$PROJECT_DIR$/scripts/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5076">
           <caret line="286" column="23" lean-forward="false" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
           <folding>
-            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#17460#18577#0" expanded="false" />
+            <element signature="e#17630#18349#0" expanded="false" />
+            <element signature="e#18710#19234#0" expanded="false" />
+            <marker date="1488403343394" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -883,7 +803,11 @@
         <state relative-caret-position="5148">
           <caret line="286" column="23" lean-forward="false" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
           <folding>
-            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#17460#18577#0" expanded="false" />
+            <element signature="e#17630#18349#0" expanded="false" />
+            <element signature="e#18710#19234#0" expanded="false" />
+            <marker date="1488403343394" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -894,7 +818,11 @@
         <state relative-caret-position="5148">
           <caret line="286" column="23" lean-forward="false" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
           <folding>
-            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#17460#18577#0" expanded="false" />
+            <element signature="e#17630#18349#0" expanded="false" />
+            <element signature="e#18710#19234#0" expanded="false" />
+            <marker date="1488403343394" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -905,7 +833,11 @@
         <state relative-caret-position="5076">
           <caret line="286" column="23" lean-forward="true" selection-start-line="286" selection-start-column="23" selection-end-line="286" selection-end-column="23" />
           <folding>
-            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#17460#18577#0" expanded="false" />
+            <element signature="e#17630#18349#0" expanded="false" />
+            <element signature="e#18710#19234#0" expanded="false" />
+            <marker date="1488403343394" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
@@ -916,39 +848,27 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#17460#18577#0" expanded="false" />
+            <element signature="e#17630#18349#0" expanded="false" />
+            <element signature="e#18710#19234#0" expanded="false" />
+            <marker date="1488403343394" expanded="true" signature="0:7" ph="import ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/Contested_3pt_shooting.py" />
     <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/numpy/core/_methods.py" />
-    <entry file="file://$PROJECT_DIR$/scripts/scoring_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="79" column="39" lean-forward="false" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/2016-17.csv" />
     <entry file="file://$PROJECT_DIR$/data/merged_shot_pbp/1996-97.csv">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/true_usage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/request.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2">
           <caret line="507" column="8" lean-forward="false" selection-start-line="507" selection-start-column="8" selection-end-line="507" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -956,39 +876,117 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="331" column="0" lean-forward="false" selection-start-line="331" selection-start-column="0" selection-end-line="331" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scoring.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/rebounding.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/scoring/points_abv_exp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="58" column="8" lean-forward="false" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scoring/consistency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="116" column="37" lean-forward="false" selection-start-line="116" selection-start-column="37" selection-end-line="118" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/core/indexing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="1229" column="0" lean-forward="false" selection-start-line="1229" selection-start-column="0" selection-end-line="1229" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scoring/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/rotations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="59" lean-forward="false" selection-start-line="0" selection-start-column="59" selection-end-line="0" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/core/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="795" column="0" lean-forward="false" selection-start-line="795" selection-start-column="0" selection-end-line="795" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="2743" column="0" lean-forward="false" selection-start-line="2743" selection-start-column="0" selection-end-line="2743" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/core/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/scoring/scoring_by_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/usage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/parity.py" />
     <entry file="file://$PROJECT_DIR$/scripts/data_getters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="352" column="16" lean-forward="false" selection-start-line="352" selection-start-column="16" selection-end-line="352" selection-end-column="16" />
+        <state relative-caret-position="170">
+          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="35" />
           <folding>
-            <marker date="1488282291208" expanded="true" signature="0:7" ph="import ..." />
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#17460#18577#0" expanded="false" />
+            <element signature="e#17630#18349#0" expanded="false" />
+            <element signature="e#18710#19234#0" expanded="false" />
+            <marker date="1488403343394" expanded="true" signature="0:7" ph="import ..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/rotations/rotations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="39" column="50" lean-forward="false" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/merge_pbp_and_shot_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="70" column="15" lean-forward="false" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="391">
+          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/assist_analysis.py">
+    <entry file="file://$PROJECT_DIR$/scripts/playmaking.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="32" column="57" lean-forward="false" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#2576#3176#0" expanded="false" />
-            <element signature="e#3219#3848#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="527">
+          <caret line="41" column="50" lean-forward="false" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -30,32 +30,9 @@ def generate_rotations_from_play_by_play(game_id, season='2016-17'):
 
     box_score = d.boxscoretraditionalv2(game_id).fillna('')
 
-    box_score = box_score[box_score.START_POSITION != '']
-    home_lineup = box_score[box_score.TEAM_ID == home_team_id].PLAYER_ID.unique()
-    away_lineup = box_score[box_score.TEAM_ID == away_team_id].PLAYER_ID.unique()
-
     play_by_play.HOMEDESCRIPTION.fillna(' ')
     home_subs = play_by_play[play_by_play.HOMEDESCRIPTION.str.contains('SUB') == True]
-
-    home_lineups = [dict(player_ids=home_lineup, start_time=0)]
-    i=0
-    half_time = False
-    for ix, sub in home_subs.iterrows():
-        if sub.PERIOD == 3 and not half_time:
-            home_lineup = get_half_time_starters(pbp_df=play_by_play)
-            half_time = True
-
-        player_out = sub.PLAYER1_ID
-        player_in = sub.PLAYER2_ID
-
-        index = np.argwhere(home_lineup == player_out)
-        home_lineup = np.delete(home_lineup, index)
-        home_lineup = np.append(home_lineup, player_in)
-
-        home_lineups[i]['end_time'] = sub.TIME
-        home_lineups.append(dict(player_ids=home_lineup, start_time=sub.TIME))
-        i += 1
-    home_lineups[i]['end_time'] = 4 * 12 * 60
+    starters = home_subs.head(5).PLAYER1_NAME
 
     2+2
 
