@@ -1,6 +1,6 @@
 import pandas as p
 
-from scripts import data_getters as d
+from scripts.util import data_getters as d
 
 
 def merge_shot_and_pbp_year(season_year, shot_ow=False, log_ow=False, pbp_ow=False):

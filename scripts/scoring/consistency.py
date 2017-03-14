@@ -2,7 +2,7 @@ import pandas as p
 import plotly.graph_objs as go
 import plotly.plotly as py
 
-from scripts import data_getters as d
+from scripts.util import data_getters as d
 
 season_year = '2016-17'
 consistency_data_file_path = './data/consistency/' + season_year + '_variance.csv'

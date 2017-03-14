@@ -1,6 +1,6 @@
 import pandas as p
 
-from scripts import data_getters as d
+from scripts.util import data_getters as d
 
 
 def get_usage_data(date_to='', date_from=''):

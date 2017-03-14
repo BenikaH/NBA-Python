@@ -1,5 +1,4 @@
 import pandas as p
-from scripts import data_getters as d
 import plotly.graph_objs as go
 import plotly.plotly as py
 

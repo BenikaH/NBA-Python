@@ -1,6 +1,6 @@
 import pandas as p
-from scripts import data_getters as d
-import numpy as np
+
+from scripts.util import data_getters as d
 
 
 # takes in pctimestring and period columns and returns a combined column which represents seconds into the game
