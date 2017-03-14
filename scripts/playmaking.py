@@ -1,7 +1,7 @@
 import pandas as p
 import plotly.graph_objs as go
 import plotly.plotly as py
-import data_getters as d
+from scripts import data_getters as d
 
 shot_zones = ['Restricted Area', 'Mid-Range', 'In The Paint (Non-RA)', 'Above the Break 3', 'Left Corner 3',
               'Right Corner 3']
@@ -30,7 +30,7 @@ def print_reddit_tables_for_ast_plus(print_df, num_players=10, sort_column='ast_
                          ['name', 'ast_per_game', 'ast_plus_per_game', 'ast_plus_per_ast'])
 
 
-def calculate_assist_plus_for_year(year):
+def calculate_assist_plus_for_year(year='2016-17'):
     shots_df = p.read_csv('../data/merged_shot_pbp/' + year + '.csv')
     zone_efficiencies = calculate_efficiency_by_zone(year)
     player_ids = shots_df.PLAYER2_ID.unique()
@@ -70,9 +70,49 @@ def calculate_assist_plus_for_year_range(start_year=1996, end_year=2017):
     df = p.DataFrame()
     for year in range(start_year, end_year):
         year_string = d.get_year_string(year)
-        print(year_string)
         df = df.append(calculate_assist_plus_for_year(year_string))
-    print_reddit_tables_for_ast_plus(df, num_players=50)
+    return df
+
+
+def calc_pts_per_potential_ast_for_year(year='2016-17'):
+    df = d.leaguedashpstats('Passing', season_year=year)
+    df['pts_per_potential_ast'] = df['AST_PTS_CREATED'].map(float) / df['POTENTIAL_AST'].map(float)
+    df = df.sort_values(by='POTENTIAL_AST', ascending=False)
+    df['YEAR'] = year
+    return df
+
+
+def calc_pts_per_potential_ast_for_year_range(start_year=2013, end_year=2017):
+    df = p.DataFrame()
+    for year in range(start_year, end_year):
+        year_string = d.get_year_string(year)
+        df = df.append(calc_pts_per_potential_ast_for_year(year_string))
+    df = df.sort_values(by='POTENTIAL_AST', ascending=False)
+    return df
+
+
+def metric_scatter_plot(plot_df):
+    trace = go.Scatter(
+        x=plot_df['ast_plus_per_ast'],
+        y=plot_df['pts_per_potential_ast'],
+        text=plot_df['PLAYER_NAME'] + ' ' + plot_df['YEAR']
+    )
+    py.plot([trace], filename='ast_metric_scatter')
+
+
+def test_metrics():
+    tracking_df = calc_pts_per_potential_ast_for_year_range()[
+        ['PLAYER_NAME', 'YEAR', 'POTENTIAL_AST', 'AST_PTS_CREATED', 'pts_per_potential_ast', 'GP']]
+    pbp_df = calculate_assist_plus_for_year_range(start_year=2013)
+    df = p.merge(tracking_df, pbp_df, left_on=['PLAYER_NAME', 'YEAR'], right_on=['name', 'year'],
+                 how='inner')
+    df['metric_diff'] = df['pts_per_potential_ast'] - df['ast_plus_per_ast']
+    df = df[['PLAYER_NAME', 'YEAR', 'POTENTIAL_AST', 'total_assists', 'ast_per_game', 'ast_plus_per_ast',
+             'pts_per_potential_ast', 'metric_diff']]
+    df = df.sort_values(by='POTENTIAL_AST', ascending=False).head(150)
+
+    # metric_scatter_plot(df)
+    return df
 
 
 def calculate_23pt_ast_for_players():
@@ -138,8 +178,12 @@ def plot_bar_chart_23pt_ast_for_players(df):
                  xanchor='center',
                  yanchor='bottom',
                  showarrow=False,
-                 ) for xi, yi in zip(df['player_name'].append(df['player_name']), (df['3points'].append(df['points'])).round(1))]
+                 ) for xi, yi in
+            zip(df['player_name'].append(df['player_name']), (df['3points'].append(df['points'])).round(1))]
     )
 
     fig = go.Figure(data=[trace2, trace1], layout=layout)
     # py.plot(fig, filename='assists-stacked-bar')
+
+
+calculate_assist_plus_for_year_range(start_year=2003)
