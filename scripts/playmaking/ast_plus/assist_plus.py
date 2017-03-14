@@ -7,7 +7,7 @@ shot_zones = ['Restricted Area', 'Mid-Range', 'In The Paint (Non-RA)', 'Above th
 
 
 def calculate_efficiency_by_zone(year):
-    df = p.read_csv('../data/merged_shot_pbp/' + year + '.csv')
+    df = p.read_csv('../../../data/merged_shot_pbp/' + year + '.csv')
     efficiencies = {}
     for ix, sz in enumerate(shot_zones):
         sz_df = df[df.SHOT_ZONE_BASIC == sz]
@@ -30,44 +30,52 @@ def print_reddit_tables_for_ast_plus(print_df, num_players=10, sort_column='ast_
 
 
 def calculate_assist_plus_for_year(year='2016-17'):
-    shots_df = p.read_csv('../data/merged_shot_pbp/' + year + '.csv')
+    shots_df = p.read_csv('../../../data/merged_shot_pbp/' + year + '.csv')
     zone_efficiencies = calculate_efficiency_by_zone(year)
     player_ids = shots_df.PLAYER2_ID.unique()
+    num_players = len(player_ids)
     assist_details = []
 
     for ix, player_id in enumerate(player_ids):
         if player_id != 0:
-            player_df = shots_df[shots_df.PLAYER2_ID == player_id]
+            player_ast_df = shots_df[shots_df.PLAYER2_ID == player_id]
 
-            total_assists = float(len(player_df))
-            player_assist_details = {
-                'name': player_df.iloc[0].PLAYER2_NAME,
-                'year': year,
-                'games': len(player_df.GAME_ID.unique()),
-                'total_assists': total_assists,
-                'ast_plus': 0
-            }
+            player_name = player_ast_df.iloc[0].PLAYER2_NAME
+            games_played = len(player_ast_df.GAME_ID.unique())
+            total_ast = len(player_ast_df)
 
-            for jx, shot_zone in enumerate(shot_zones):
-                zone_assists = float(len(player_df[player_df.SHOT_ZONE_BASIC == shot_zone]))
-                player_assist_details[shot_zone] = zone_assists
-                player_assist_details[shot_zone + ' %'] = round((zone_assists / total_assists) * 100, 2)
-                player_assist_details['ast_plus'] += player_assist_details[shot_zone] * zone_efficiencies[shot_zone]
+            if float(total_ast) / games_played > 4:
+                print('Getting Assist+ For ' + player_name + ' (' + str(ix) + '/' + str(num_players) + ')')
 
-            assist_details.append(player_assist_details)
+                player_assist_details = {
+                    'PLAYER_NAME': player_name,
+                    'YEAR': year,
+                    'GP': games_played,
+                    'TOTAL_AST': total_ast,
+                    'AST+': 0
+                }
+
+                for jx, shot_zone in enumerate(shot_zones):
+                    zone_assists = float(len(player_ast_df[player_ast_df.SHOT_ZONE_BASIC == shot_zone]))
+                    player_assist_details[shot_zone] = zone_assists
+                    player_assist_details[shot_zone + ' %'] = round((zone_assists / total_ast) * 100, 2)
+                    player_assist_details['AST+'] += player_assist_details[shot_zone] * zone_efficiencies[shot_zone]
+
+                assist_details.append(player_assist_details)
 
     df = p.DataFrame(assist_details).reindex()
-    df['ast_plus_per_game'] = df['ast_plus'] / df['games']
-    df['ast_plus_per_ast'] = df['ast_plus'] / df['total_assists']
-    df['ast_per_game'] = df['total_assists'] / df['games']
-    df = df.sort_values(by='ast_per_game', ascending=False)
+    df['AST+_EFF'] = df['AST+'] / df['TOTAL_AST']
+    df = df.sort_values(by='TOTAL_AST', ascending=False)
 
     return df
 
 
-def calculate_assist_plus_for_year_range(start_year=1996, end_year=2017):
+def calc_ast_plus_for_year_range(start_year=1996, end_year=2017):
     df = p.DataFrame()
     for year in range(start_year, end_year):
         year_string = d.get_year_string(year)
+        print('====================================')
+        print('Getting Assist+ For ' + year_string)
+        print('====================================')
         df = df.append(calculate_assist_plus_for_year(year_string))
     return df
