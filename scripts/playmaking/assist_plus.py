@@ -7,7 +7,7 @@ shot_zones = ['Restricted Area', 'Mid-Range', 'In The Paint (Non-RA)', 'Above th
 
 
 def calculate_efficiency_by_zone(year):
-    df = p.read_csv('../data/merged_shot_pbp/' + year + '.csv')
+    df = p.read_csv('../../data/merged_shot_pbp/' + year + '.csv')
     efficiencies = {}
     for ix, sz in enumerate(shot_zones):
         sz_df = df[df.SHOT_ZONE_BASIC == sz]
@@ -23,15 +23,13 @@ def print_reddit_tables_for_ast_plus(print_df, num_players=10, sort_column='ast_
     print_df = print_df.sort_values(by=sort_column, ascending=False).head(num_players)
     d.print_reddit_table(print_df,
                          ['name', 'Restricted Area %', 'Mid-Range %', 'In The Paint (Non-RA) %', 'Above the Break 3 %',
-                          'Left Corner 3 %', 'Right Corner 3 %'])
-
-    d.print_reddit_table(print_df,
-                         ['name', 'ast_per_game', 'ast_plus_per_game', 'ast_plus_per_ast'])
+                          'Right Corner 3 %', 'Morey %', 'Morey Factor'])
 
 
 def calculate_assist_plus_for_year(year='2016-17'):
-    shots_df = p.read_csv('../data/merged_shot_pbp/' + year + '.csv')
+    shots_df = p.read_csv('../../data/merged_shot_pbp/' + year + '.csv')
     zone_efficiencies = calculate_efficiency_by_zone(year)
+    print(zone_efficiencies)
     player_ids = shots_df.PLAYER2_ID.unique()
     assist_details = []
 
@@ -57,10 +55,16 @@ def calculate_assist_plus_for_year(year='2016-17'):
             assist_details.append(player_assist_details)
 
     df = p.DataFrame(assist_details).reindex()
-    df['ast_plus_per_game'] = df['ast_plus'] / df['games']
-    df['ast_plus_per_ast'] = df['ast_plus'] / df['total_assists']
     df['ast_per_game'] = df['total_assists'] / df['games']
+
+    df['Corner 3'] = df['Right Corner 3'] + df['Left Corner 3']
+    df['Corner 3 %'] = df['Right Corner 3 %'] + df['Left Corner 3 %']
+    df['Morey %'] = df['Restricted Area %'] + df['Corner 3 %'] + df['Above the Break 3 %']
+    df['Morey Factor'] = df['ast_plus'] / df['total_assists']
+
     df = df.sort_values(by='ast_per_game', ascending=False)
+
+    print_reddit_tables_for_ast_plus(df)
 
     return df
 
@@ -71,3 +75,6 @@ def calculate_assist_plus_for_year_range(start_year=1996, end_year=2017):
         year_string = d.get_year_string(year)
         df = df.append(calculate_assist_plus_for_year(year_string))
     return df
+
+
+calculate_assist_plus_for_year()

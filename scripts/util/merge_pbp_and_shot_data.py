@@ -27,12 +27,12 @@ def merge_shot_and_pbp_year(season_year, shot_ow=False, log_ow=False, pbp_ow=Fal
     return_df = p.merge(shot_log, play_by_play, left_on=['GAME_ID', 'GAME_EVENT_ID', 'PERIOD'],
                    right_on=['GAME_ID', 'EVENTNUM', 'PERIOD'], how='inner')
     print(len(return_df))
-    return_df.to_csv('../data/merged_shot_pbp/' + season_year + '.csv')
+    return_df.to_csv('../../data/merged_shot_pbp/' + season_year + '.csv')
     return return_df
 
 
 def add_missing_games(add_year):
-    data_df = p.read_csv('../data/merged_shot_pbp/' + add_year + '.csv')
+    data_df = p.read_csv('../../data/merged_shot_pbp/' + add_year + '.csv')
     game_log = d.leaguegamelog(year=add_year, overwrite=True)
     data_games = data_df.GAME_ID.unique().astype(int)
     actual_games = game_log.GAME_ID.unique().astype(int)
@@ -44,13 +44,13 @@ def add_missing_games(add_year):
             game = '00' + str(game)
         df = d.playbyplayv2(str(game), add_year, overwrite=False)
         data_df = data_df.append(df)
-    data_df.to_csv('../data/merged_shot_pbp/' + add_year + '.csv')
+    data_df.to_csv('../../data/merged_shot_pbp/' + add_year + '.csv')
 
 
 def data_is_correct(test_year):
     game_log = d.leaguegamelog(year=test_year, overwrite=False)
     shot_log = d.shotchartdetail(year=test_year, overwrite=False)
-    data_df = p.read_csv('../data/merged_shot_pbp/' + test_year + '.csv')
+    data_df = p.read_csv('../../data/merged_shot_pbp/' + test_year + '.csv')
     data_games = data_df.GAME_ID.unique().astype(int)
     actual_games = game_log.GAME_ID.unique().astype(int)
     missing_games = [x for x in actual_games if x not in data_games]
@@ -67,8 +67,4 @@ def test_data():
     print(years_with_error)
     return years_with_error
 
-
-year = '2016-17'
-# add_missing_games(year)
-merge_shot_and_pbp_year(year)
-data_is_correct(year)
+merge_shot_and_pbp_year('2016-17')

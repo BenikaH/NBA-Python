@@ -5,17 +5,18 @@ import plotly.plotly as py
 from scripts.util import data_getters as d
 
 season_year = '2016-17'
-consistency_data_file_path = './data/consistency/' + season_year + '_variance.csv'
-consistency_data_player_log_path = './data/consistency/{player_id}_' + season_year + '.csv'
+consistency_data_file_path = '../../data/consistency/' + season_year + '_variance.csv'
+consistency_data_player_log_path = '../../data/consistency/{player_id}_' + season_year + '.csv'
 consistency_data_overwrite = True
 
 
 def get_consistency_data():
     if (not d.file_exists(consistency_data_file_path)) or consistency_data_overwrite:
-        base_stats_df = d.leaguedashplayerstats()
+        base_stats_df = d.leaguedashplayerstats(overwrite=True)
         base_stats_df = base_stats_df[base_stats_df['GP'] > 25]
         base_stats_df['PPG'] = base_stats_df['PTS'] / base_stats_df['GP']
-        base_stats_df = base_stats_df.sort_values(by='PPG', ascending=False).head(20)
+        base_stats_df = base_stats_df.sort_values(by='PPG', ascending=False)
+        base_stats_df = base_stats_df.iloc[15:30]
         print(base_stats_df[['PLAYER_NAME']])
 
         data_df = p.DataFrame(
@@ -25,9 +26,8 @@ def get_consistency_data():
         for player_id in top_scoring_player_ids:
             player_game_log_file_path = consistency_data_player_log_path.format(player_id=player_id)
             if (not d.file_exists(player_game_log_file_path)) or consistency_data_overwrite:
-                player_game_log_df = d.playergamelog(player_id)
-                # player_game_log_df = player_game_log_df[player_game_log_df['MIN'] > 20]
-                # player_game_log_df = player_game_log_df[player_game_log_df['PTS'] > 1]
+                player_game_log_df = d.playergamelog(player_id, overwrite=True)
+                player_game_log_df = player_game_log_df[player_game_log_df['MIN'] > 20]
 
                 player_game_log_df['PP36'] = (player_game_log_df['PTS'] / player_game_log_df['MIN']) * 36
 
@@ -121,9 +121,14 @@ def generate_consistency_plots(data_df):
     layout.title = 'PP36 Consistency (Mean Adjusted)'
     pp36_traces.sort(key=lambda x: x.y.std() / x.y.mean())
     fig = go.Figure(data=pp36_traces, layout=layout)
-    url = py.plot(fig, filename="PP36 Consistency (Mean Adjusted)")
+    # url = py.plot(fig, filename="PP36 Consistency (Mean Adjusted)")
 
     layout.title = 'TS Consistency'
     ts_traces.sort(key=lambda x: x.y.std())
     fig = go.Figure(data=ts_traces, layout=layout)
-    url = py.plot(fig, filename="TS Consistency")
+    # url = py.plot(fig, filename="TS Consistency")
+
+
+df = get_consistency_data()
+d.print_reddit_table(df, ['PLAYER_NAME', 'PP36', 'PP36_STD', 'PP36_STD / MEAN', 'TS', 'TS_STD'])
+generate_consistency_plots(df)

@@ -198,7 +198,7 @@ def allsynergy(offensive_or_defensive='offensive', season_year='2016', overwrite
 
 # Gets a players game logs
 def playergamelog(player_id, season_year='2016-17', overwrite=True):
-    file_path = '../data/playergamelog/' + season_year + '/' + player_id + '.csv'
+    file_path = '../data/playergamelog/' + season_year + '/' + str(player_id) + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/playergamelog?' \
               'DateFrom=&' \
