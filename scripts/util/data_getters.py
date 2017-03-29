@@ -86,7 +86,7 @@ def print_reddit_table(df, columns):
 # Gets traditional stats for players
 def leaguedashplayerstats(measure_type='Base', per_mode='Totals', season_year='2016-17', date_from='', date_to='',
                           overwrite=True):
-    file_path = '../data/leaguedashplayerstats/' + season_year + '/' + measure_type + '/' + per_mode + '.csv'
+    file_path = '../../data/leaguedashplayerstats/' + season_year + '/' + measure_type + '/' + per_mode + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/leaguedashplayerstats?' \
               'Conference=&' \
@@ -132,7 +132,7 @@ def leaguedashplayerstats(measure_type='Base', per_mode='Totals', season_year='2
 # Gets synergy stats for players or teams for a year and specific play type
 def synergyapi(category, player_or_team='player', offensive_or_defensive='offensive', season_year='2016',
                overwrite=True):
-    file_path = '../data/synergy/' + player_or_team + '/' + offensive_or_defensive + '/' + get_year_string(
+    file_path = '../../data/synergy/' + player_or_team + '/' + offensive_or_defensive + '/' + get_year_string(
         season_year) + '/' + category + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats-prod.nba.com/wp-json/statscms/v1/synergy/' \
@@ -158,7 +158,7 @@ synergy_play_types = ["Transition", "Isolation", "PRBallHandler", "PRRollman", "
 
 # Gets synergy stats for players for all play types aggregated
 def allsynergy(offensive_or_defensive='offensive', season_year='2016', overwrite=True):
-    file_path = '../data/synergy/player/' + offensive_or_defensive + '/' + get_year_string(season_year) + '/All.csv'
+    file_path = '../../data/synergy/player/' + offensive_or_defensive + '/' + get_year_string(season_year) + '/All.csv'
     if (not file_exists(file_path)) or overwrite:
         df = pd.DataFrame(columns=['PLAYER_ID', 'TEAM_ID', 'PLAYER_FIRST_NAME', 'PLAYER_LAST_NAME', 'TEAM_ABB'])
         for play_type in synergy_play_types:
@@ -198,7 +198,7 @@ def allsynergy(offensive_or_defensive='offensive', season_year='2016', overwrite
 
 # Gets a players game logs
 def playergamelog(player_id, season_year='2016-17', overwrite=True):
-    file_path = '../data/playergamelog/' + season_year + '/' + str(player_id) + '.csv'
+    file_path = '../../data/playergamelog/' + season_year + '/' + player_id + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/playergamelog?' \
               'DateFrom=&' \
@@ -208,6 +208,7 @@ def playergamelog(player_id, season_year='2016-17', overwrite=True):
               'Season={season_year}&' \
               'SeasonType=Regular+Season'
         url = url.format(player_id=player_id, season_year=season_year)
+        print(url)
         df = json_to_pandas(url, 0)
         df.to_csv(file_path)
         return df
@@ -217,7 +218,7 @@ def playergamelog(player_id, season_year='2016-17', overwrite=True):
 
 # Gets a players passing dashboard (Details passes to other players)
 def playerdashptpass(player_id, season_year='2016-17', overwrite=True):
-    file_path = '../data/playerdashptpass/' + season_year + '/' + player_id + '.csv'
+    file_path = '../../data/playerdashptpass/' + season_year + '/' + player_id + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/playerdashptpass?' \
               'DateFrom=&' \
@@ -253,7 +254,7 @@ dribble_ranges = ['0+Dribbles', '1+Dribble', '2+Dribbles', '3-6+Dribbles', '7%2B
 
 # Gets a players shot details by defender distance or number of dribbles
 def leaguedashplayerptshot(season_year='2016-17', defender_distance='', dribble_range='', overwrite=True):
-    file_path = '../data/leaguedashplayerptshot/' + season_year + '/' + defender_distance + '_' + dribble_range + '.csv'
+    file_path = '../../data/leaguedashplayerptshot/' + season_year + '/' + defender_distance + '_' + dribble_range + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/leaguedashplayerptshot?' \
               'CloseDefDistRange={defender_distance}&' \
@@ -304,7 +305,7 @@ def leaguedashplayerptshot(season_year='2016-17', defender_distance='', dribble_
 
 # Gets a players shot details (player_id / team_id = 0 returns all players)
 def shotchartdetail(year='2016-17', player_id='0', team_id='0', overwrite=True):
-    file_path = '../data/shotchartdetail/' + year + '/' + str(player_id) + '-' + str(team_id) + '.csv'
+    file_path = '../../data/shotchartdetail/' + year + '/' + str(player_id) + '-' + str(team_id) + '.csv'
     if (not file_exists(filepath=file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/shotchartdetail?' \
               'AheadBehind=&' \
@@ -358,7 +359,7 @@ def shotchartdetail(year='2016-17', player_id='0', team_id='0', overwrite=True):
 
 # Gets game log for entire league for a season
 def leaguegamelog(year='2016-17', overwrite=True):
-    file_path = '../data/leaguegamelog/' + str(year) + '.csv'
+    file_path = '../../data/leaguegamelog/' + str(year) + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/leaguegamelog?' \
               'Counter=1000&' \
@@ -380,7 +381,9 @@ def leaguegamelog(year='2016-17', overwrite=True):
 
 # Gets play by play for a game
 def playbyplayv2(game_id, year='2016-17', overwrite=True):
-    file_path = '../data/playbyplayv2/' + str(year) + '/' + str(game_id) + '.csv'
+    if len(str(game_id)) < 10:
+        game_id = '00' + str(game_id)
+    file_path = '../../data/playbyplayv2/' + str(year) + '/' + str(game_id) + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/playbyplayv2?' \
               'EndPeriod=10&' \
@@ -415,7 +418,7 @@ def playbyplayv2(game_id, year='2016-17', overwrite=True):
 
 # Gets SportsVU stats for a play type and season
 def leaguedashpstats(pt_measure_type, season_year='2016-17', date_from='', date_to='', overwrite=False):
-    file_path = '../data/leaguedashpstats/' + str(season_year) + '/' + str(pt_measure_type) + '.csv'
+    file_path = '../../data/leaguedashpstats/' + str(season_year) + '/' + str(pt_measure_type) + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/leaguedashptstats?' \
               'College=&' \
@@ -457,7 +460,7 @@ def leaguedashpstats(pt_measure_type, season_year='2016-17', date_from='', date_
 
 # Gets player details for a team when each player is on the court
 def teamplayeronoffdetails(team_id, measure_type='Base', season_year='2016-17', overwrite=True):
-    file_path = '../teamplayeronoffdetails/' + season_year + '/' + measure_type + '/' + str(team_id) + '.csv'
+    file_path = '../../teamplayeronoffdetails/' + season_year + '/' + measure_type + '/' + str(team_id) + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/teamplayeronoffdetails?DateFrom=&' \
               'DateTo=&' \
@@ -490,7 +493,7 @@ def teamplayeronoffdetails(team_id, measure_type='Base', season_year='2016-17', 
 
 # Aggregate on court stats for all teams
 def get_all_player_on_data(season_year='2016-17', measure_type='Base', overwrite=True):
-    file_path = '../teamplayeronoffdetails/' + season_year + '/' + measure_type + '/' + 'All.csv'
+    file_path = '../../teamplayeronoffdetails/' + season_year + '/' + measure_type + '/' + 'All.csv'
     if (not file_exists(file_path)) or overwrite:
         team_ids = leaguedashplayerstats(season_year=season_year)['TEAM_ID'].unique()
         df = pd.DataFrame()
@@ -504,7 +507,9 @@ def get_all_player_on_data(season_year='2016-17', measure_type='Base', overwrite
 
 
 def boxscoretraditionalv2(game_id, season_year='2016-17', overwrite=False):
-    file_path = '../boxscoretraditionalv2/' + season_year + '/' + str(game_id) + '/' + '.csv'
+    if len(str(game_id)) < 10:
+        game_id = '00' + str(game_id)
+    file_path = '../../data/boxscoretraditionalv2/' + season_year + '/' + str(game_id) + '/' + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/boxscoretraditionalv2?' \
               'EndPeriod=10&' \
@@ -515,8 +520,28 @@ def boxscoretraditionalv2(game_id, season_year='2016-17', overwrite=False):
               'SeasonType=Regular+Season&' \
               'StartPeriod=1&StartRange=0'
         url = url.format(game_id=game_id, season_year=season_year)
-        print(url)
         df = json_to_pandas(url)
+        df.to_csv(file_path)
+        return df
+    else:
+        return pd.read_csv(file_path)
+
+
+def boxscoreadvancedv2(game_id, season_year='2016-17', overwrite=False):
+    if len(str(game_id)) < 10:
+        game_id = '00' + str(game_id)
+    file_path = '../../data/boxscoreadvancedv2/' + season_year + '/' + str(game_id) + '/' + '.csv'
+    if (not file_exists(file_path)) or overwrite:
+        url = 'http://stats.nba.com/stats/boxscoreadvancedv2?' \
+              'EndPeriod=10&' \
+              'EndRange=28800&' \
+              'GameID={game_id}&' \
+              'RangeType=0&' \
+              'Season={season_year}&' \
+              'SeasonType=Regular+Season&' \
+              'StartPeriod=1&StartRange=0'
+        url = url.format(game_id=game_id, season_year=season_year)
+        df = json_to_pandas(url, index=1)
         df.to_csv(file_path)
         return df
     else:
