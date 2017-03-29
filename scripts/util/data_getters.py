@@ -507,7 +507,9 @@ def get_all_player_on_data(season_year='2016-17', measure_type='Base', overwrite
 
 
 def boxscoretraditionalv2(game_id, season_year='2016-17', overwrite=False):
-    file_path = '../../boxscoretraditionalv2/' + season_year + '/' + str(game_id) + '/' + '.csv'
+    if len(str(game_id)) < 10:
+        game_id = '00' + str(game_id)
+    file_path = '../../data/boxscoretraditionalv2/' + season_year + '/' + str(game_id) + '/' + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/boxscoretraditionalv2?' \
               'EndPeriod=10&' \
@@ -518,8 +520,28 @@ def boxscoretraditionalv2(game_id, season_year='2016-17', overwrite=False):
               'SeasonType=Regular+Season&' \
               'StartPeriod=1&StartRange=0'
         url = url.format(game_id=game_id, season_year=season_year)
-        print(url)
         df = json_to_pandas(url)
+        df.to_csv(file_path)
+        return df
+    else:
+        return pd.read_csv(file_path)
+
+
+def boxscoreadvancedv2(game_id, season_year='2016-17', overwrite=False):
+    if len(str(game_id)) < 10:
+        game_id = '00' + str(game_id)
+    file_path = '../../data/boxscoreadvancedv2/' + season_year + '/' + str(game_id) + '/' + '.csv'
+    if (not file_exists(file_path)) or overwrite:
+        url = 'http://stats.nba.com/stats/boxscoreadvancedv2?' \
+              'EndPeriod=10&' \
+              'EndRange=28800&' \
+              'GameID={game_id}&' \
+              'RangeType=0&' \
+              'Season={season_year}&' \
+              'SeasonType=Regular+Season&' \
+              'StartPeriod=1&StartRange=0'
+        url = url.format(game_id=game_id, season_year=season_year)
+        df = json_to_pandas(url, index=1)
         df.to_csv(file_path)
         return df
     else:
