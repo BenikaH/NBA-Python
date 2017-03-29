@@ -27,7 +27,7 @@ def merge_shot_and_pbp_year(season_year, shot_ow=False, log_ow=False, pbp_ow=Fal
     return_df = p.merge(shot_log, play_by_play, left_on=['GAME_ID', 'GAME_EVENT_ID', 'PERIOD'],
                    right_on=['GAME_ID', 'EVENTNUM', 'PERIOD'], how='inner')
     print(len(return_df))
-    return_df.to_csv('../data/merged_shot_pbp/' + season_year + '.csv')
+    return_df.to_csv('../../data/merged_shot_pbp/' + season_year + '.csv')
     return return_df
 
 
