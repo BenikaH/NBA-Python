@@ -9,7 +9,8 @@ def calculate_23pt_ast_for_players():
     assists = []
     for year in range(1996, 2017):
         print(d.get_year_string(year))
-        year_df = p.read_csv('../../data/merged_shot_pbp/' + d.get_year_string(year) + '.csv')
+        year_df = p.read_csv('../../data/merged_shot_pbp/' + d.get_year_string(year) + '.csv', encoding="utf-8",
+                             low_memory=False)
         player_ids = year_df['PLAYER2_ID'].unique()
         for ix, player_id in enumerate(player_ids):
             player_df = year_df[year_df['PLAYER2_ID'] == player_id]

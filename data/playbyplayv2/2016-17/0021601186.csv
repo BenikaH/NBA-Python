@@ -1,0 +1,486 @@
+,EVENTMSGACTIONTYPE,EVENTMSGTYPE,EVENTNUM,GAME_ID,HOMEDESCRIPTION,NEUTRALDESCRIPTION,PCTIMESTRING,PERIOD,PERSON1TYPE,PERSON2TYPE,PERSON3TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ABBREVIATION,PLAYER1_TEAM_CITY,PLAYER1_TEAM_ID,PLAYER1_TEAM_NICKNAME,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ABBREVIATION,PLAYER2_TEAM_CITY,PLAYER2_TEAM_ID,PLAYER2_TEAM_NICKNAME,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ABBREVIATION,PLAYER3_TEAM_CITY,PLAYER3_TEAM_ID,PLAYER3_TEAM_NICKNAME,SCORE,SCOREMARGIN,VISITORDESCRIPTION,WCTIMESTRING
+0,0,12,0,0021601186,,,12:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:10 PM
+1,0,10,1,0021601186,Jump Ball Len vs. Adams: Tip to Oladipo,,12:00,1,4.0,5,5,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,,,,10:10 PM
+2,1,2,2,0021601186,,,11:40,1,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Adams 6' Jump Shot,10:10 PM
+3,0,4,3,0021601186,Len REBOUND (Off:0 Def:1),,11:40,1,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:10 PM
+4,2,6,4,0021601186,,,11:28,1,5.0,4,1,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Gibson S.FOUL (P1.T1) (J.Orr),10:11 PM
+5,11,3,5,0021601186,Len Free Throw 1 of 2 (1 PTS),,11:28,1,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,0 - 1,1,,10:11 PM
+6,12,3,7,0021601186,MISS Len Free Throw 2 of 2,,11:28,1,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:11 PM
+7,0,4,9,0021601186,,,11:27,1,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Westbrook REBOUND (Off:0 Def:1),10:11 PM
+8,1,1,10,0021601186,,,11:13,1,5.0,5,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,2 - 1,-1,Gibson 16' Jump Shot (2 PTS) (Adams 1 AST),10:11 PM
+9,1,7,11,0021601186,,,11:12,1,3.0,0,1,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Violation: Delay of game Violation,10:12 PM
+10,47,1,12,0021601186,Chriss 7' Turnaround Jump Shot (2 PTS),,10:55,1,4.0,0,0,1627737,Marquese Chriss,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,2 - 3,1,,10:12 PM
+11,1,5,13,0021601186,,,10:45,1,5.0,0,1,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Westbrook Bad Pass Turnover (P1.T1),10:12 PM
+12,79,1,14,0021601186,Ulis 18' Pullup Jump Shot (2 PTS),,10:23,1,4.0,0,0,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,2 - 5,3,,10:12 PM
+13,1,5,15,0021601186,Chriss STEAL (1 STL),,10:10,1,5.0,4,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,1627737,Marquese Chriss,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Westbrook Bad Pass Turnover (P2.T2),10:13 PM
+14,45,5,16,0021601186,Ulis Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,9:59,1,4.0,0,1,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:13 PM
+15,42,2,17,0021601186,Chriss BLOCK (1 BLK),,9:40,1,5.0,0,4,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,1627737,Marquese Chriss,PHX,Phoenix,1610612756.0,Suns,,,MISS Westbrook  Driving Layup,10:13 PM
+16,0,4,18,0021601186,Len REBOUND (Off:0 Def:2),,9:38,1,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:13 PM
+17,1,2,19,0021601186,MISS Warren 24' 3PT Jump Shot,,9:31,1,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:13 PM
+18,0,4,20,0021601186,Chriss REBOUND (Off:1 Def:0),,9:31,1,4.0,0,0,1627737,Marquese Chriss,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:13 PM
+19,47,2,21,0021601186,MISS Len 5' Turnaround Jump Shot,,9:17,1,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:14 PM
+20,0,4,22,0021601186,,,9:16,1,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Adams REBOUND (Off:0 Def:1),10:14 PM
+21,1,5,23,0021601186,Booker STEAL (1 STL),,9:07,1,5.0,4,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Westbrook Bad Pass Turnover (P3.T3),10:14 PM
+22,5,1,24,0021601186,Warren 1' Layup (2 PTS) (Booker 1 AST),,9:01,1,4.0,4,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,2 - 7,5,,10:14 PM
+23,1,9,25,0021601186,,,9:01,1,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Timeout: Regular (Reg.1 Short 0),10:14 PM
+24,1,2,27,0021601186,,,8:44,1,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 16' Jump Shot,10:17 PM
+25,0,4,28,0021601186,,,8:43,1,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Adams REBOUND (Off:1 Def:1),10:17 PM
+26,5,2,29,0021601186,,,8:36,1,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 3' Layup,10:17 PM
+27,0,4,39,0021601186,,,8:36,1,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Westbrook REBOUND (Off:1 Def:1),10:17 PM
+28,1,5,43,0021601186,Chriss STEAL (2 STL),,8:36,1,5.0,4,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,1627737,Marquese Chriss,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Westbrook Bad Pass Turnover (P4.T4),10:17 PM
+29,1,1,31,0021601186,Booker 26' 3PT Jump Shot (3 PTS) (Ulis 1 AST),,8:26,1,4.0,4,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,2 - 10,8,,10:17 PM
+30,3,2,32,0021601186,,,8:01,1,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Adams 4' Hook Shot,10:17 PM
+31,0,4,33,0021601186,Warren REBOUND (Off:0 Def:1),,7:59,1,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:17 PM
+32,1,2,34,0021601186,MISS Warren 5' Jump Shot,,7:52,1,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:18 PM
+33,0,4,35,0021601186,Warren REBOUND (Off:1 Def:1),,7:52,1,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:18 PM
+34,72,1,36,0021601186,Warren 2' Putback Layup (4 PTS),,7:49,1,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,2 - 12,10,,10:18 PM
+35,1,2,37,0021601186,,,7:30,1,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Oladipo 19' Jump Shot,10:18 PM
+36,0,4,38,0021601186,Len REBOUND (Off:0 Def:3),,7:29,1,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:18 PM
+37,51,2,40,0021601186,MISS Chriss  Reverse Dunk,,7:15,1,4.0,0,5,1627737,Marquese Chriss,PHX,Phoenix,1610612756.0,Suns,0,,,,,,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,,,Gibson BLOCK (1 BLK),10:18 PM
+38,0,4,57,0021601186,Len REBOUND (Off:1 Def:3),,7:12,1,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:18 PM
+39,97,1,41,0021601186,Len 1' Tip Layup Shot (3 PTS),,7:12,1,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,2 - 14,12,,10:18 PM
+40,1,1,42,0021601186,,,6:57,1,5.0,5,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,4 - 14,10,Gibson 4' Jump Shot (4 PTS) (Westbrook 1 AST),10:18 PM
+41,3,2,44,0021601186,MISS Len 10' Hook Shot,,6:36,1,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:19 PM
+42,0,4,45,0021601186,,,6:34,1,5.0,0,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:0 Def:1),10:19 PM
+43,2,6,46,0021601186,Warren S.FOUL (P1.T1) (J.Orr),,6:29,1,4.0,5,1,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,10:19 PM
+44,11,3,47,0021601186,,,6:29,1,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Adams Free Throw 1 of 2,10:19 PM
+45,1,4,48,0021601186,,,6:29,1,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Rebound,10:19 PM
+46,12,3,49,0021601186,,,6:29,1,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,5 - 14,9,Adams Free Throw 2 of 2 (1 PTS),10:19 PM
+47,44,1,52,0021601186,Len 2' Reverse Layup (5 PTS),,6:09,1,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,5 - 16,11,,10:20 PM
+48,2,6,53,0021601186,Chriss S.FOUL (P1.T2) (Z.Zarba),,6:02,1,4.0,5,1,1627737,Marquese Chriss,PHX,Phoenix,1610612756.0,Suns,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,10:20 PM
+49,11,3,54,0021601186,,,6:02,1,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,6 - 16,10,Oladipo Free Throw 1 of 2 (1 PTS),10:21 PM
+50,0,8,56,0021601186,,,6:02,1,5.0,5,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Kanter FOR Adams,10:21 PM
+51,12,3,58,0021601186,,,6:02,1,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Oladipo Free Throw 2 of 2,10:21 PM
+52,0,4,60,0021601186,Len REBOUND (Off:1 Def:4),,6:01,1,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:21 PM
+53,42,1,62,0021601186,Warren  Driving Layup (6 PTS),,5:47,1,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,6 - 18,12,,10:21 PM
+54,49,1,63,0021601186,,,5:33,1,5.0,5,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,8 - 18,10,Gibson  Driving Dunk (6 PTS) (Westbrook 2 AST),10:21 PM
+55,1,1,64,0021601186,Warren 10' Jump Shot (8 PTS) (Ulis 2 AST),,5:17,1,4.0,4,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,8 - 20,12,,10:22 PM
+56,1,2,65,0021601186,,,5:01,1,5.0,0,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS McDermott 25' 3PT Jump Shot,10:22 PM
+57,0,4,66,0021601186,,,5:01,1,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Westbrook REBOUND (Off:2 Def:1),10:22 PM
+58,1,6,67,0021601186,Len P.FOUL (P1.T3) (E.Lewis),,4:58,1,4.0,5,1,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,10:22 PM
+59,0,8,68,0021601186,,,4:58,1,5.0,5,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Adams FOR Gibson,10:22 PM
+60,1,2,69,0021601186,,,4:52,1,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 25' 3PT Jump Shot,10:22 PM
+61,0,4,70,0021601186,,,4:51,1,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Adams REBOUND (Off:2 Def:1),10:22 PM
+62,2,6,71,0021601186,Booker S.FOUL (P1.T4) (J.Orr),,4:44,1,4.0,5,1,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,10:23 PM
+63,11,3,72,0021601186,,,4:44,1,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Oladipo Free Throw 1 of 2,10:23 PM
+64,1,4,73,0021601186,,,4:44,1,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Rebound,10:23 PM
+65,0,8,74,0021601186,SUB: Williams FOR Len,,4:44,1,4.0,4,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,10:23 PM
+66,12,3,75,0021601186,,,4:44,1,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Oladipo Free Throw 2 of 2,10:23 PM
+67,0,4,77,0021601186,,,4:44,1,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Kanter REBOUND (Off:1 Def:0),10:23 PM
+68,72,2,78,0021601186,,,4:41,1,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Kanter  Putback Layup,10:23 PM
+69,0,4,79,0021601186,,,4:41,1,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Kanter REBOUND (Off:2 Def:0),10:23 PM
+70,2,6,80,0021601186,Warren S.FOUL (P2.PN) (Z.Zarba),,4:41,1,4.0,5,1,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,10:24 PM
+71,11,3,81,0021601186,,,4:41,1,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,9 - 20,11,Kanter Free Throw 1 of 2 (1 PTS),10:24 PM
+72,12,3,83,0021601186,,,4:41,1,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,10 - 20,10,Kanter Free Throw 2 of 2 (2 PTS),10:24 PM
+73,98,1,85,0021601186,Williams 2' Cutting Layup Shot (2 PTS) (Booker 2 AST),,4:29,1,4.0,4,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,10 - 22,12,,10:24 PM
+74,0,8,87,0021601186,,,4:16,1,5.0,5,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,203902,Semaj Christon,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Christon FOR Oladipo,10:25 PM
+75,1,2,88,0021601186,,,4:13,1,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Kanter  3PT Jump Shot,10:25 PM
+76,0,4,89,0021601186,,,4:12,1,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Westbrook REBOUND (Off:3 Def:1),10:25 PM
+77,1,2,90,0021601186,,,4:04,1,5.0,0,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS McDermott 24' 3PT Jump Shot,10:25 PM
+78,0,4,91,0021601186,,,4:04,1,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Kanter REBOUND (Off:3 Def:0),10:25 PM
+79,72,1,92,0021601186,,,4:01,1,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,12 - 22,10,Kanter 2' Putback Layup (4 PTS),10:25 PM
+80,79,2,93,0021601186,MISS Booker 13' Pullup Jump Shot,,3:49,1,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:25 PM
+81,0,4,94,0021601186,,,3:47,1,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Adams REBOUND (Off:2 Def:2),10:25 PM
+82,5,2,95,0021601186,,,3:42,1,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 3' Layup,10:25 PM
+83,0,4,97,0021601186,,,3:41,1,5.0,0,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,McDermott REBOUND (Off:1 Def:0),10:26 PM
+84,97,1,96,0021601186,,,3:41,1,5.0,0,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,14 - 22,8,McDermott  Tip Layup Shot (2 PTS),10:26 PM
+85,1,9,101,0021601186,SUNS Timeout: Regular (Full 1 Short 0),,3:41,1,2.0,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,,10:26 PM
+86,0,8,99,0021601186,SUB: Dudley FOR Chriss,,3:41,1,4.0,4,0,1627737,Marquese Chriss,PHX,Phoenix,1610612756.0,Suns,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,10:27 PM
+87,1,2,102,0021601186,MISS Dudley 24' 3PT Jump Shot,,3:28,1,4.0,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:28 PM
+88,0,4,103,0021601186,,,3:28,1,5.0,0,0,203902,Semaj Christon,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Christon REBOUND (Off:0 Def:1),10:28 PM
+89,2,5,104,0021601186,Ulis STEAL (1 STL),,3:14,1,5.0,4,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Westbrook Lost Ball Turnover (P5.T5),10:28 PM
+90,41,1,105,0021601186,Warren 2' Running Layup (10 PTS) (Booker 3 AST),,3:11,1,4.0,4,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,14 - 24,10,,10:28 PM
+91,2,6,106,0021601186,,,3:11,1,5.0,4,1,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,McDermott S.FOUL (P1.T2) (E.Lewis),10:28 PM
+92,10,3,107,0021601186,Warren Free Throw 1 of 1 (11 PTS),,3:11,1,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,14 - 25,11,,10:29 PM
+93,5,2,109,0021601186,Williams BLOCK (1 BLK),,2:57,1,5.0,0,4,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,,,MISS Westbrook 2' Layup,10:29 PM
+94,0,4,110,0021601186,Dudley REBOUND (Off:0 Def:1),,2:56,1,4.0,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:29 PM
+95,1,2,111,0021601186,MISS Ulis 27' 3PT Jump Shot,,2:43,1,4.0,0,0,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:29 PM
+96,0,4,112,0021601186,Warren REBOUND (Off:2 Def:1),,2:43,1,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:29 PM
+97,1,2,113,0021601186,MISS Dudley 25' 3PT Jump Shot,,2:38,1,4.0,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:29 PM
+98,0,4,114,0021601186,,,2:38,1,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Westbrook REBOUND (Off:3 Def:2),10:29 PM
+99,17,6,115,0021601186,SUNS T.Foul (Def. 3 Sec Williams ) (E.Lewis),,2:28,1,4.0,0,1,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:30 PM
+100,16,3,116,0021601186,,,2:28,1,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,15 - 25,10,Westbrook Free Throw Technical (1 PTS),10:30 PM
+101,0,8,118,0021601186,,,2:28,1,5.0,5,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,202708,Norris Cole,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Cole FOR Westbrook,10:30 PM
+102,0,8,119,0021601186,"SUB: Jones, Jr. FOR Ulis",,2:28,1,4.0,4,0,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,10:30 PM
+103,79,1,120,0021601186,,,2:18,1,5.0,0,0,203902,Semaj Christon,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,17 - 25,8,Christon 16' Pullup Jump Shot (2 PTS),10:31 PM
+104,42,1,121,0021601186,Booker 2' Driving Layup (5 PTS),,1:59,1,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,17 - 27,10,,10:31 PM
+105,2,6,122,0021601186,Williams S.FOUL (P1.PN) (E.Lewis),,1:42,1,4.0,5,1,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,10:31 PM
+106,11,3,123,0021601186,,,1:42,1,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,18 - 27,9,Kanter Free Throw 1 of 2 (5 PTS),10:31 PM
+107,12,3,125,0021601186,,,1:42,1,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,19 - 27,8,Kanter Free Throw 2 of 2 (6 PTS),10:32 PM
+108,2,6,127,0021601186,,,1:25,1,5.0,4,1,203902,Semaj Christon,OKC,Oklahoma City,1610612760.0,Thunder,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Christon S.FOUL (P1.T3) (E.Lewis),10:32 PM
+109,11,3,128,0021601186,MISS Booker Free Throw 1 of 2,,1:25,1,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:33 PM
+110,1,4,129,0021601186,SUNS Rebound,,1:25,1,2.0,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,,10:33 PM
+111,12,3,130,0021601186,Booker Free Throw 2 of 2 (6 PTS),,1:25,1,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,19 - 28,9,,10:33 PM
+112,1,2,132,0021601186,,,1:01,1,5.0,0,0,203902,Semaj Christon,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Christon 18' Jump Shot,10:34 PM
+113,0,4,133,0021601186,,,1:01,1,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Rebound,10:34 PM
+114,11,5,134,0021601186,,,1:01,1,3.0,0,1,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Turnover: Shot Clock (T#6),10:34 PM
+115,79,2,135,0021601186,MISS Booker 19' Pullup Jump Shot,,0:43,1,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:34 PM
+116,0,4,136,0021601186,Williams REBOUND (Off:1 Def:0),,0:42,1,4.0,0,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:34 PM
+117,98,2,137,0021601186,MISS Booker 1' Cutting Layup Shot,,0:39,1,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:34 PM
+118,0,4,139,0021601186,"Jones, Jr. REBOUND (Off:1 Def:0)",,0:39,1,4.0,0,0,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:34 PM
+119,97,1,138,0021601186,"Jones, Jr.  Tip Layup Shot (2 PTS)",,0:39,1,4.0,0,0,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,19 - 30,11,,10:34 PM
+120,79,2,140,0021601186,,,0:23,1,5.0,0,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS McDermott 16' Pullup Jump Shot,10:35 PM
+121,0,4,141,0021601186,Booker REBOUND (Off:0 Def:1),,0:21,1,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:35 PM
+122,42,1,142,0021601186,Booker 2' Driving Layup (8 PTS),,0:02,1,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,19 - 32,13,,10:35 PM
+123,0,18,172,0021601186,,,0:00,1,,0,1,134,Kevin Johnson,,,,,0,,,,,,0,,,,,,,,,10:35 PM
+124,0,13,143,0021601186,,,0:00,1,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,19 - 32,13,,10:35 PM
+125,0,12,145,0021601186,,,12:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,19 - 32,13,,10:38 PM
+126,1,5,146,0021601186,Dudley Bad Pass Turnover (P1.T2),,11:36,2,4.0,5,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,202708,Norris Cole,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,Cole STEAL (1 STL),10:38 PM
+127,1,1,147,0021601186,,,11:20,2,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,21 - 32,11,Kanter 3' Jump Shot (8 PTS),10:38 PM
+128,1,1,148,0021601186,Ulis 12' Jump Shot (4 PTS),,11:03,2,4.0,0,0,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,21 - 34,13,,10:39 PM
+129,29,6,149,0021601186,,,11:03,2,5.0,4,1,202708,Norris Cole,OKC,Oklahoma City,1610612760.0,Thunder,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Cole Shooting Block Foul (P1.T1) (Z.Zarba),10:39 PM
+130,10,3,150,0021601186,Ulis Free Throw 1 of 1 (5 PTS),,11:03,2,4.0,0,0,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,21 - 35,14,,10:39 PM
+131,98,1,152,0021601186,,,10:45,2,5.0,5,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,23 - 35,12,Kanter 2' Cutting Layup Shot (10 PTS) (Oladipo 1 AST),10:39 PM
+132,98,2,153,0021601186,MISS Williams 2' Cutting Layup Shot,,10:25,2,4.0,0,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:40 PM
+133,0,4,154,0021601186,,,10:23,2,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Kanter REBOUND (Off:3 Def:1),10:40 PM
+134,42,1,155,0021601186,,,10:16,2,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,25 - 35,10,Oladipo  Driving Layup (3 PTS),10:40 PM
+135,1,6,156,0021601186,,,10:05,2,5.0,4,1,202708,Norris Cole,OKC,Oklahoma City,1610612760.0,Thunder,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Cole P.FOUL (P2.T2) (Z.Zarba),10:40 PM
+136,2,6,157,0021601186,,,9:52,2,5.0,4,1,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Kanter S.FOUL (P1.T3) (J.Orr),10:41 PM
+137,11,3,158,0021601186,Williams Free Throw 1 of 2 (3 PTS),,9:52,2,4.0,0,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,25 - 36,11,,10:41 PM
+138,0,8,161,0021601186,SUB: Bender FOR Price,,9:52,2,4.0,4,0,101179,Ronnie Price,PHX,Phoenix,1610612756.0,Suns,1627733,Dragan Bender,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,10:41 PM
+139,12,3,162,0021601186,Williams Free Throw 2 of 2 (4 PTS),,9:52,2,4.0,0,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,25 - 37,12,,10:41 PM
+140,1,2,164,0021601186,,,9:33,2,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Kanter 19' Jump Shot,10:42 PM
+141,0,4,165,0021601186,SUNS Rebound,,9:33,2,2.0,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,,10:42 PM
+142,41,1,166,0021601186,Williams 1' Running Layup (6 PTS) (Ulis 3 AST),,9:28,2,4.0,4,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,25 - 39,14,,10:42 PM
+143,42,1,167,0021601186,,,9:13,2,5.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,27 - 39,12,Sabonis 1' Driving Layup (2 PTS),10:42 PM
+144,2,6,169,0021601186,,,8:57,2,5.0,4,1,203902,Semaj Christon,OKC,Oklahoma City,1610612760.0,Thunder,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Christon S.FOUL (P2.T4) (E.Lewis),10:42 PM
+145,4,9,170,0021601186,,,8:57,2,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,10:43 PM
+146,0,8,173,0021601186,,,8:57,2,5.0,5,0,203902,Semaj Christon,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Westbrook FOR Christon,10:44 PM
+147,0,8,174,0021601186,,,8:57,2,5.0,5,0,202708,Norris Cole,OKC,Oklahoma City,1610612760.0,Thunder,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: McDermott FOR Cole,10:44 PM
+148,11,3,176,0021601186,Williams Free Throw 1 of 2 (7 PTS),,8:57,2,4.0,0,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,27 - 40,13,,10:45 PM
+149,12,3,178,0021601186,MISS Williams Free Throw 2 of 2,,8:57,2,4.0,0,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:45 PM
+150,0,4,180,0021601186,,,8:56,2,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Westbrook REBOUND (Off:3 Def:3),10:45 PM
+151,5,2,181,0021601186,Bender BLOCK (1 BLK),,8:45,2,5.0,0,4,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,1627733,Dragan Bender,PHX,Phoenix,1610612756.0,Suns,,,MISS Kanter 2' Layup,10:45 PM
+152,0,4,182,0021601186,Dudley REBOUND (Off:0 Def:2),,8:44,2,4.0,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:45 PM
+153,2,6,183,0021601186,,,8:40,2,5.0,4,1,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Oladipo S.FOUL (P1.PN) (J.Orr),10:46 PM
+154,11,3,184,0021601186,"MISS Jones, Jr. Free Throw 1 of 2",,8:40,2,4.0,0,0,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:46 PM
+155,1,4,185,0021601186,SUNS Rebound,,8:40,2,2.0,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,,10:46 PM
+156,12,3,186,0021601186,"Jones, Jr. Free Throw 2 of 2 (3 PTS)",,8:40,2,4.0,0,0,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,27 - 41,14,,10:46 PM
+157,1,1,188,0021601186,,,8:26,2,5.0,5,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,30 - 41,11,Sabonis 24' 3PT Jump Shot (5 PTS) (Oladipo 2 AST),10:46 PM
+158,44,1,189,0021601186,"Jones, Jr. 2' Reverse Layup (5 PTS) (Dudley 1 AST)",,8:08,2,4.0,4,0,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,30 - 43,13,,10:47 PM
+159,79,2,190,0021601186,,,7:54,2,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Oladipo 15' Pullup Jump Shot,10:47 PM
+160,0,4,191,0021601186,Dudley REBOUND (Off:0 Def:3),,7:54,2,4.0,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:47 PM
+161,42,1,192,0021601186,Bender 3' Driving Layup (2 PTS),,7:44,2,4.0,0,0,1627733,Dragan Bender,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,30 - 45,15,,10:47 PM
+162,1,6,193,0021601186,Ulis P.FOUL (P1.T1) (Z.Zarba),,7:35,2,4.0,5,1,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,10:47 PM
+163,1,6,194,0021601186,Ulis P.FOUL (P2.T2) (Z.Zarba),,7:33,2,4.0,5,1,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,10:47 PM
+164,42,1,195,0021601186,,,7:20,2,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,32 - 45,13,Oladipo 2' Driving Layup (5 PTS),10:48 PM
+165,42,1,196,0021601186,Ulis 3' Driving Layup (7 PTS),,7:10,2,4.0,0,0,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,32 - 47,15,,10:48 PM
+166,2,6,197,0021601186,,,7:10,2,5.0,4,1,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Kanter S.FOUL (P2.PN) (Z.Zarba),10:48 PM
+167,0,8,198,0021601186,,,7:10,2,5.0,5,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Adams FOR Kanter,10:48 PM
+168,10,3,199,0021601186,Ulis Free Throw 1 of 1 (8 PTS),,7:10,2,4.0,0,0,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,32 - 48,16,,10:49 PM
+169,98,1,201,0021601186,,,6:46,2,5.0,5,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,34 - 48,14,Adams 2' Cutting Layup Shot (3 PTS) (Oladipo 3 AST),10:49 PM
+170,1,5,202,0021601186,Ulis Bad Pass Turnover (P2.T3),,6:41,2,4.0,0,1,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:49 PM
+171,1,2,203,0021601186,,,6:31,2,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 26' 3PT Jump Shot,10:49 PM
+172,0,4,204,0021601186,Williams REBOUND (Off:1 Def:1),,6:31,2,4.0,0,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:49 PM
+173,98,1,205,0021601186,Dudley 3' Cutting Layup Shot (2 PTS) (Ulis 4 AST),,6:22,2,4.0,4,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,34 - 50,16,,10:50 PM
+174,1,2,206,0021601186,,,6:05,2,5.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Sabonis 25' 3PT Jump Shot,10:50 PM
+175,0,4,207,0021601186,Bender REBOUND (Off:0 Def:1),,6:05,2,4.0,0,0,1627733,Dragan Bender,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:50 PM
+176,1,1,208,0021601186,Dudley 25' 3PT Jump Shot (5 PTS) (Bender 1 AST),,5:57,2,4.0,4,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,1627733,Dragan Bender,PHX,Phoenix,1610612756.0,Suns,0,,,,,,34 - 53,19,,10:50 PM
+177,1,9,209,0021601186,,,5:57,2,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Timeout: Regular (Reg.2 Short 0),10:50 PM
+178,0,8,211,0021601186,,,5:57,2,5.0,5,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Grant FOR Sabonis,10:52 PM
+179,0,8,212,0021601186,SUB: Booker FOR Ulis,,5:57,2,4.0,4,0,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,10:52 PM
+180,42,2,213,0021601186,"Jones, Jr. BLOCK (1 BLK)",,5:48,2,5.0,0,4,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,,,MISS Westbrook 3' Driving Layup,10:53 PM
+181,0,4,214,0021601186,,,5:48,2,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Rebound,10:53 PM
+182,42,2,215,0021601186,,,5:38,2,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 1' Driving Layup,10:53 PM
+183,0,4,217,0021601186,,,5:37,2,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Adams REBOUND (Off:3 Def:2),10:53 PM
+184,97,1,216,0021601186,,,5:37,2,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,36 - 53,17,Adams  Tip Layup Shot (5 PTS),10:53 PM
+185,2,6,218,0021601186,,,5:25,2,5.0,4,1,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Westbrook S.FOUL (P1.PN) (J.Orr),10:53 PM
+186,11,3,219,0021601186,Williams Free Throw 1 of 2 (8 PTS),,5:25,2,4.0,0,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,36 - 54,18,,10:53 PM
+187,12,3,221,0021601186,Williams Free Throw 2 of 2 (9 PTS),,5:25,2,4.0,0,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,36 - 55,19,,10:54 PM
+188,1,1,223,0021601186,,,5:08,2,5.0,5,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,39 - 55,16,Grant  3PT Jump Shot (3 PTS) (Westbrook 3 AST),10:54 PM
+189,1,1,224,0021601186,Dudley 25' 3PT Jump Shot (8 PTS) (Williams 1 AST),,4:54,2,4.0,4,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,39 - 58,19,,10:54 PM
+190,1,2,225,0021601186,,,4:32,2,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 25' 3PT Jump Shot,10:55 PM
+191,0,4,226,0021601186,,,4:32,2,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Adams REBOUND (Off:4 Def:2),10:55 PM
+192,1,1,227,0021601186,,,4:21,2,5.0,5,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,42 - 58,16,McDermott 26' 3PT Jump Shot (5 PTS) (Adams 2 AST),10:55 PM
+193,1,1,228,0021601186,Williams 3' Jump Shot (11 PTS) (Booker 4 AST),,4:05,2,4.0,4,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,42 - 60,18,,10:55 PM
+194,2,6,229,0021601186,Booker S.FOUL (P2.T3) (J.Orr),,3:52,2,4.0,5,1,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,10:55 PM
+195,11,3,230,0021601186,,,3:52,2,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Adams Free Throw 1 of 2,10:56 PM
+196,1,4,231,0021601186,,,3:52,2,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Rebound,10:56 PM
+197,0,8,232,0021601186,SUB: Warren FOR Bender,,3:52,2,4.0,4,0,1627733,Dragan Bender,PHX,Phoenix,1610612756.0,Suns,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,10:56 PM
+198,12,3,233,0021601186,,,3:52,2,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,43 - 60,17,Adams Free Throw 2 of 2 (6 PTS),10:56 PM
+199,80,1,235,0021601186,Warren 19' Step Back Jump Shot (13 PTS),,3:32,2,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,43 - 62,19,,10:57 PM
+200,1,6,236,0021601186,"Jones, Jr. P.FOUL (P1.T4) (Z.Zarba)",,3:20,2,4.0,5,1,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,10:57 PM
+201,1,2,237,0021601186,,,3:08,2,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Oladipo 25' 3PT Jump Shot,10:57 PM
+202,0,4,238,0021601186,Warren REBOUND (Off:2 Def:2),,3:08,2,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:57 PM
+203,98,1,239,0021601186,"Jones, Jr. 1' Cutting Layup Shot (7 PTS) (Williams 2 AST)",,2:51,2,4.0,4,0,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,43 - 64,21,,10:58 PM
+204,1,2,240,0021601186,,,2:39,2,5.0,0,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Grant  3PT Jump Shot,10:58 PM
+205,0,4,241,0021601186,Warren REBOUND (Off:2 Def:3),,2:38,2,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:58 PM
+206,66,2,242,0021601186,MISS Warren 10' Jump Bank Shot,,2:24,2,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:58 PM
+207,0,4,243,0021601186,,,2:23,2,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Oladipo REBOUND (Off:0 Def:1),10:58 PM
+208,1,2,244,0021601186,,,2:14,2,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 24' 3PT Jump Shot,10:58 PM
+209,0,4,245,0021601186,Warren REBOUND (Off:2 Def:4),,2:14,2,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,10:58 PM
+210,1,1,246,0021601186,Booker 25' 3PT Jump Shot (11 PTS),,2:06,2,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,43 - 67,24,,10:58 PM
+211,2,9,247,0021601186,,,2:04,2,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Timeout: Short (Reg.2 Short 1),10:58 PM
+212,1,9,249,0021601186,SUNS Timeout: Regular (Full 2 Short 0),,2:04,2,2.0,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,,10:59 PM
+213,0,8,251,0021601186,SUB: Chriss FOR Williams,,2:04,2,4.0,4,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,1627737,Marquese Chriss,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,11:00 PM
+214,0,8,252,0021601186,SUB: Ulis FOR Dudley,,2:04,2,4.0,4,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,11:00 PM
+215,0,8,253,0021601186,"SUB: Len FOR Jones, Jr.",,2:04,2,4.0,4,0,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,11:00 PM
+216,1,2,254,0021601186,,,1:50,2,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Adams 9' Jump Shot,11:02 PM
+217,0,4,255,0021601186,Warren REBOUND (Off:2 Def:5),,1:49,2,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:02 PM
+218,73,2,256,0021601186,MISS Booker 3' Driving Reverse Layup,,1:32,2,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:02 PM
+219,0,4,257,0021601186,Len REBOUND (Off:2 Def:4),,1:32,2,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:02 PM
+220,2,6,258,0021601186,,,1:32,2,5.0,4,1,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Oladipo S.FOUL (P2.PN) (Z.Zarba),11:02 PM
+221,11,3,259,0021601186,Len Free Throw 1 of 2 (6 PTS),,1:32,2,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,43 - 68,25,,11:02 PM
+222,0,8,261,0021601186,,,1:32,2,5.0,5,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,203902,Semaj Christon,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Christon FOR Oladipo,11:02 PM
+223,12,3,262,0021601186,Len Free Throw 2 of 2 (7 PTS),,1:32,2,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,43 - 69,26,,11:03 PM
+224,1,5,264,0021601186,Ulis STEAL (2 STL),,1:20,2,5.0,4,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Westbrook Bad Pass Turnover (P6.T7),11:03 PM
+225,5,2,265,0021601186,MISS Len 2' Layup,,1:08,2,4.0,0,5,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,,,Westbrook BLOCK (1 BLK),11:03 PM
+226,0,4,266,0021601186,Warren REBOUND (Off:3 Def:5),,1:06,2,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:03 PM
+227,1,1,267,0021601186,Warren 20' Jump Shot (15 PTS),,1:03,2,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,43 - 71,28,,11:03 PM
+228,79,1,268,0021601186,,,0:50,2,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,45 - 71,26,Westbrook 17' Pullup Jump Shot (3 PTS),11:03 PM
+229,1,2,269,0021601186,MISS Len 3' Jump Shot,,0:34,2,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:04 PM
+230,0,4,270,0021601186,,,0:32,2,5.0,0,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Grant REBOUND (Off:0 Def:1),11:04 PM
+231,42,1,271,0021601186,,,0:27,2,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,47 - 71,24,Westbrook 2' Driving Layup (5 PTS),11:04 PM
+232,2,6,272,0021601186,Len S.FOUL (P2.PN) (E.Lewis),,0:27,2,4.0,5,1,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,11:04 PM
+233,10,3,273,0021601186,,,0:27,2,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,48 - 71,23,Westbrook Free Throw 1 of 1 (6 PTS),11:04 PM
+234,1,2,275,0021601186,MISS Booker  3PT Jump Shot,,0:02,2,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:05 PM
+235,0,4,276,0021601186,,,0:01,2,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Westbrook REBOUND (Off:3 Def:4),11:05 PM
+236,0,13,278,0021601186,,,0:00,2,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,48 - 71,23,,11:05 PM
+237,0,12,281,0021601186,,,12:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,48 - 71,23,,11:20 PM
+238,1,2,282,0021601186,MISS Booker 22' Jump Shot,,11:44,3,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:21 PM
+239,0,4,283,0021601186,,,11:44,3,5.0,0,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:0 Def:2),11:21 PM
+240,98,1,284,0021601186,,,11:28,3,5.0,5,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,50 - 71,21,Gibson 1' Cutting Layup Shot (8 PTS) (Westbrook 4 AST),11:21 PM
+241,1,2,285,0021601186,MISS Len 16' Jump Shot,,11:07,3,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:21 PM
+242,0,4,286,0021601186,,,11:06,3,5.0,0,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,McDermott REBOUND (Off:1 Def:1),11:21 PM
+243,5,1,287,0021601186,,,10:57,3,5.0,5,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,52 - 71,19,Adams  Layup (8 PTS) (Westbrook 5 AST),11:21 PM
+244,1,6,288,0021601186,,,10:48,3,5.0,4,1,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Westbrook P.FOUL (P2.T1) (Z.Zarba),11:22 PM
+245,47,2,289,0021601186,MISS Booker 12' Turnaround Jump Shot,,10:38,3,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:22 PM
+246,0,4,290,0021601186,,,10:37,3,5.0,0,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:0 Def:3),11:22 PM
+247,5,1,291,0021601186,,,10:36,3,5.0,5,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,54 - 71,17,Oladipo 2' Layup (7 PTS) (Westbrook 6 AST),11:22 PM
+248,2,6,292,0021601186,Booker S.FOUL (P3.T1) (E.Lewis),,10:36,3,4.0,5,1,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,11:22 PM
+249,0,8,293,0021601186,SUB: Williams FOR Chriss,,10:36,3,4.0,4,0,1627737,Marquese Chriss,PHX,Phoenix,1610612756.0,Suns,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,11:22 PM
+250,0,8,294,0021601186,SUB: Dudley FOR Len,,10:36,3,4.0,4,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,11:22 PM
+251,10,3,295,0021601186,,,10:36,3,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Oladipo Free Throw 1 of 1,11:23 PM
+252,0,4,297,0021601186,SUNS Rebound,,10:35,3,2.0,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,,11:23 PM
+253,42,1,298,0021601186,Warren 2' Driving Layup (17 PTS),,10:20,3,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,54 - 73,19,,11:23 PM
+254,86,1,299,0021601186,,,10:06,3,5.0,0,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,56 - 73,17,McDermott 11' Turnaround Fadeaway (7 PTS),11:23 PM
+255,79,1,300,0021601186,Ulis 18' Pullup Jump Shot (10 PTS),,9:46,3,4.0,0,0,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,56 - 75,19,,11:24 PM
+256,1,2,301,0021601186,,,9:34,3,5.0,0,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Gibson 17' Jump Shot,11:24 PM
+257,0,4,302,0021601186,Booker REBOUND (Off:0 Def:2),,9:34,3,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:24 PM
+258,42,2,303,0021601186,MISS Dudley 2' Driving Layup,,9:24,3,4.0,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:24 PM
+259,0,4,304,0021601186,,,9:22,3,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Adams REBOUND (Off:4 Def:3),11:24 PM
+260,79,2,305,0021601186,,,9:18,3,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Oladipo 25' 3PT Pullup Jump Shot,11:24 PM
+261,0,4,306,0021601186,Warren REBOUND (Off:3 Def:6),,9:14,3,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:24 PM
+262,3,2,307,0021601186,MISS Williams 6' Hook Shot,,9:07,3,4.0,0,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:24 PM
+263,0,4,308,0021601186,,,9:06,3,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Oladipo REBOUND (Off:0 Def:2),11:24 PM
+264,5,1,309,0021601186,,,8:54,3,5.0,0,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,58 - 75,17,Gibson 2' Layup (10 PTS),11:25 PM
+265,1,9,310,0021601186,SUNS Timeout: Regular (Full 3 Short 0),,8:54,3,2.0,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,,11:25 PM
+266,2,6,314,0021601186,,,8:32,3,5.0,4,1,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,McDermott S.FOUL (P2.T2) (J.Orr),11:27 PM
+267,11,3,315,0021601186,Ulis Free Throw 1 of 2 (11 PTS),,8:32,3,4.0,0,0,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,58 - 76,18,,11:28 PM
+268,12,3,317,0021601186,Ulis Free Throw 2 of 2 (12 PTS),,8:32,3,4.0,0,0,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,58 - 77,19,,11:28 PM
+269,80,1,319,0021601186,,,8:16,3,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,61 - 77,16,Westbrook 25' 3PT Step Back Jump Shot (9 PTS),11:28 PM
+270,4,6,320,0021601186,Williams OFF.Foul (P2) (J.Orr),,7:55,3,4.0,5,1,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,11:29 PM
+271,5,5,321,0021601186,Williams Foul Turnover (P1.T4),,7:55,3,4.0,0,1,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:29 PM
+272,1,2,322,0021601186,,,7:39,3,5.0,0,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Gibson 17' Jump Shot,11:29 PM
+273,0,4,323,0021601186,Warren REBOUND (Off:3 Def:7),,7:39,3,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:29 PM
+274,1,2,324,0021601186,MISS Booker 22' Jump Shot,,7:21,3,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:29 PM
+275,0,4,325,0021601186,,,7:20,3,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Rebound,11:29 PM
+276,3,2,326,0021601186,,,7:07,3,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Adams 4' Hook Shot,11:30 PM
+277,0,4,327,0021601186,,,7:06,3,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Westbrook REBOUND (Off:4 Def:4),11:30 PM
+278,1,1,328,0021601186,,,7:02,3,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,64 - 77,13,Westbrook 24' 3PT Jump Shot (12 PTS),11:30 PM
+279,1,6,329,0021601186,,,6:54,3,5.0,4,1,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Westbrook P.FOUL (P3.T3) (J.Orr),11:30 PM
+280,45,5,330,0021601186,Booker Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,6:45,3,4.0,0,1,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:30 PM
+281,14,6,331,0021601186,Williams FLAGRANT.FOUL.TYPE1 (P3.T2) (E.Lewis),,6:33,3,4.0,5,1,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,11:31 PM
+282,1,18,332,0021601186,,,6:33,3,,0,1,331,,,,,,0,,,,,,0,,,,,,,,,11:31 PM
+283,18,3,333,0021601186,,,6:33,3,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,65 - 77,12,Westbrook Free Throw Flagrant 1 of 2 (13 PTS),11:33 PM
+284,19,3,335,0021601186,,,6:33,3,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,66 - 77,11,Westbrook Free Throw Flagrant 2 of 2 (14 PTS),11:33 PM
+285,79,2,337,0021601186,,,6:25,3,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 25' 3PT Pullup Jump Shot,11:34 PM
+286,0,4,338,0021601186,Booker REBOUND (Off:0 Def:3),,6:22,3,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:34 PM
+287,2,6,339,0021601186,,,6:11,3,5.0,4,1,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Adams S.FOUL (P1.T4) (J.Orr),11:34 PM
+288,11,3,340,0021601186,Booker Free Throw 1 of 2 (12 PTS),,6:11,3,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,66 - 78,12,,11:34 PM
+289,12,3,342,0021601186,MISS Booker Free Throw 2 of 2,,6:11,3,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:34 PM
+290,0,4,344,0021601186,,,6:09,3,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Westbrook REBOUND (Off:4 Def:5),11:34 PM
+291,1,2,345,0021601186,,,5:50,3,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Adams 4' Jump Shot,11:35 PM
+292,0,4,346,0021601186,,,5:50,3,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Oladipo REBOUND (Off:1 Def:2),11:35 PM
+293,1,2,348,0021601186,,,5:32,3,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 25' 3PT Jump Shot,11:35 PM
+294,0,4,349,0021601186,Warren REBOUND (Off:3 Def:8),,5:32,3,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:35 PM
+295,42,1,350,0021601186,Warren 1' Driving Layup (19 PTS),,5:20,3,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,66 - 80,14,,11:36 PM
+296,26,6,351,0021601186,,,5:10,3,5.0,4,1,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Westbrook Offensive Charge Foul (P4.PN) (E.Lewis),11:36 PM
+297,5,5,352,0021601186,,,5:10,3,5.0,0,1,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Westbrook Foul Turnover (P7.T8),11:36 PM
+298,16,6,353,0021601186,,,5:10,3,4.0,5,1,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,11:36 PM
+299,0,8,355,0021601186,,,5:07,3,5.0,5,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,203902,Semaj Christon,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Christon FOR Oladipo,11:37 PM
+300,47,2,356,0021601186,MISS Booker 13' Turnaround Jump Shot,,4:56,3,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:37 PM
+301,0,4,357,0021601186,,,4:56,3,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Rebound,11:37 PM
+302,1,2,358,0021601186,,,4:42,3,5.0,0,0,203902,Semaj Christon,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Christon 24' 3PT Jump Shot,11:37 PM
+303,0,4,359,0021601186,Warren REBOUND (Off:3 Def:9),,4:42,3,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:37 PM
+304,1,5,360,0021601186,Ulis Bad Pass Turnover (P3.T6),,4:33,3,4.0,0,1,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:37 PM
+305,42,1,361,0021601186,,,4:19,3,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,68 - 80,12,Westbrook 2' Driving Layup (16 PTS),11:38 PM
+306,85,1,362,0021601186,Booker 11' Turnaround Bank Shot (14 PTS) (Dudley 2 AST),,4:07,3,4.0,4,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,68 - 82,14,,11:38 PM
+307,5,2,363,0021601186,,,3:48,3,5.0,0,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Gibson 2' Layup,11:38 PM
+308,0,4,364,0021601186,,,3:47,3,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Westbrook REBOUND (Off:5 Def:5),11:38 PM
+309,5,1,365,0021601186,,,3:39,3,5.0,0,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,70 - 82,12,Gibson 2' Layup (12 PTS),11:38 PM
+310,1,2,366,0021601186,MISS Booker 14' Jump Shot,,3:21,3,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:39 PM
+311,0,4,367,0021601186,,,3:21,3,5.0,0,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Gibson REBOUND (Off:0 Def:4),11:39 PM
+312,79,2,368,0021601186,,,3:11,3,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 25' 3PT Pullup Jump Shot,11:39 PM
+313,0,4,369,0021601186,,,3:09,3,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Adams REBOUND (Off:5 Def:3),11:39 PM
+314,1,2,370,0021601186,,,3:05,3,5.0,0,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Gibson 12' Jump Shot,11:39 PM
+315,0,4,372,0021601186,,,3:05,3,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Rebound,11:39 PM
+316,3,6,375,0021601186,Warren L.B.FOUL (P3.T3) (E.Lewis),,3:05,3,4.0,5,1,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,11:39 PM
+317,0,8,377,0021601186,,,3:05,3,5.0,5,0,201959,Taj Gibson,OKC,Oklahoma City,1610612760.0,Thunder,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Grant FOR Gibson,11:39 PM
+318,0,8,378,0021601186,,,3:05,3,5.0,5,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Kanter FOR Adams,11:39 PM
+319,79,2,379,0021601186,,,2:58,3,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 19' Pullup Jump Shot,11:40 PM
+320,0,4,380,0021601186,Warren REBOUND (Off:3 Def:10),,2:57,3,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:40 PM
+321,73,1,381,0021601186,Warren 1' Driving Reverse Layup (21 PTS),,2:40,3,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,70 - 84,14,,11:40 PM
+322,1,2,382,0021601186,,,2:24,3,5.0,0,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Grant 25' 3PT Jump Shot,11:40 PM
+323,0,4,383,0021601186,Williams REBOUND (Off:1 Def:2),,2:24,3,4.0,0,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:40 PM
+324,1,1,384,0021601186,Dudley 24' 3PT Jump Shot (11 PTS) (Ulis 5 AST),,2:14,3,4.0,4,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,70 - 87,17,,11:40 PM
+325,1,9,385,0021601186,,,2:13,3,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Timeout: Regular (Reg.3 Short 1),11:40 PM
+326,0,8,388,0021601186,,,2:13,3,5.0,5,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Oladipo FOR Westbrook,11:42 PM
+327,0,8,389,0021601186,"SUB: Jones, Jr. FOR Ulis",,2:13,3,4.0,4,0,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,11:42 PM
+328,0,8,390,0021601186,SUB: Len FOR Williams,,2:13,3,4.0,4,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,11:42 PM
+329,1,2,392,0021601186,Warren BLOCK (1 BLK),,1:57,3,5.0,0,4,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,,,MISS Kanter 6' Jump Shot,11:43 PM
+330,0,4,393,0021601186,Booker REBOUND (Off:0 Def:4),,1:56,3,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:43 PM
+331,1,6,394,0021601186,,,1:48,3,5.0,4,1,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Oladipo P.FOUL (P3.PN) (J.Orr),11:43 PM
+332,11,3,395,0021601186,"Jones, Jr. Free Throw 1 of 2 (8 PTS)",,1:48,3,4.0,0,0,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,70 - 88,18,,11:44 PM
+333,12,3,397,0021601186,"Jones, Jr. Free Throw 2 of 2 (9 PTS)",,1:48,3,4.0,0,0,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,70 - 89,19,,11:44 PM
+334,4,6,399,0021601186,,,1:32,3,5.0,4,1,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Oladipo OFF.Foul (P4) (E.Lewis),11:44 PM
+335,5,5,400,0021601186,,,1:32,3,5.0,0,1,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Oladipo Foul Turnover (P1.T9),11:44 PM
+336,73,2,402,0021601186,MISS Booker 2' Driving Reverse Layup,,1:23,3,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:44 PM
+337,0,4,404,0021601186,Len REBOUND (Off:3 Def:4),,1:23,3,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:44 PM
+338,107,1,403,0021601186,Len  Tip Dunk Shot (9 PTS),,1:23,3,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,70 - 91,21,,11:44 PM
+339,1,9,405,0021601186,,,1:23,3,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Timeout: Regular (Reg.4 Short 1),11:45 PM
+340,42,2,409,0021601186,,,1:11,3,5.0,0,0,203506,Victor Oladipo,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Oladipo 1' Driving Layup,11:46 PM
+341,0,4,410,0021601186,Booker REBOUND (Off:0 Def:5),,1:09,3,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:46 PM
+342,1,2,411,0021601186,MISS Warren 17' Jump Shot,,1:01,3,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:47 PM
+343,0,4,412,0021601186,,,1:00,3,5.0,0,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Grant REBOUND (Off:0 Def:2),11:47 PM
+344,57,1,413,0021601186,,,0:50,3,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,72 - 91,19,Kanter 3' Driving Hook Shot (12 PTS),11:47 PM
+345,82,1,415,0021601186,Booker 4' Driving Bank Shot (16 PTS),,0:32,3,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,72 - 93,21,,11:47 PM
+346,98,2,416,0021601186,,,0:22,3,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Kanter 2' Cutting Layup Shot,11:47 PM
+347,0,4,417,0021601186,Warren REBOUND (Off:3 Def:11),,0:20,3,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:47 PM
+348,1,2,418,0021601186,MISS Booker 26' 3PT Jump Shot,,0:01,3,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:48 PM
+349,0,4,420,0021601186,"Jones, Jr. REBOUND (Off:2 Def:0)",,0:01,3,4.0,0,0,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:48 PM
+350,1,1,421,0021601186,"Jones, Jr. 14' Jump Shot (11 PTS)",,0:00,3,4.0,0,0,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,72 - 95,23,,11:48 PM
+351,0,18,422,0021601186,,,0:00,3,,0,1,421,,,,,,0,,,,,,0,,,,,,,,,11:48 PM
+352,0,13,423,0021601186,,,0:00,3,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,72 - 95,23,,11:48 PM
+353,0,12,425,0021601186,,,12:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,72 - 95,23,,11:51 PM
+354,1,2,426,0021601186,,,11:40,4,5.0,0,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Grant 3' Jump Shot,11:51 PM
+355,0,4,427,0021601186,,,11:40,4,5.0,0,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Grant REBOUND (Off:1 Def:2),11:51 PM
+356,5,2,428,0021601186,Len BLOCK (1 BLK),,11:35,4,5.0,0,4,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,,,MISS Kanter 3' Layup,11:51 PM
+357,0,4,429,0021601186,,,11:35,4,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Rebound,11:51 PM
+358,1,2,430,0021601186,,,11:23,4,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Kanter 15' Jump Shot,11:51 PM
+359,0,4,431,0021601186,"Jones, Jr. REBOUND (Off:2 Def:1)",,11:23,4,4.0,0,0,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:51 PM
+360,1,6,432,0021601186,,,11:08,4,5.0,4,1,202708,Norris Cole,OKC,Oklahoma City,1610612760.0,Thunder,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Cole P.FOUL (P3.T1) (E.Lewis),11:52 PM
+361,80,2,433,0021601186,MISS Ulis 18' Step Back Jump Shot,,11:03,4,4.0,0,0,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:52 PM
+362,0,4,434,0021601186,"Jones, Jr. REBOUND (Off:3 Def:1)",,11:01,4,4.0,0,0,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:52 PM
+363,7,2,435,0021601186,MISS Len  Dunk,,10:55,4,4.0,0,5,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,,,Grant BLOCK (1 BLK),11:52 PM
+364,0,4,436,0021601186,,,10:53,4,5.0,0,0,203902,Semaj Christon,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Christon REBOUND (Off:0 Def:2),11:52 PM
+365,5,1,437,0021601186,,,10:42,4,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,74 - 95,21,Kanter 1' Layup (14 PTS),11:53 PM
+366,2,6,439,0021601186,Len S.FOUL (P3.T1) (Z.Zarba),,10:42,4,4.0,5,1,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,11:53 PM
+367,0,8,440,0021601186,,,10:42,4,5.0,5,0,203902,Semaj Christon,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Westbrook FOR Christon,11:53 PM
+368,10,3,441,0021601186,,,10:42,4,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,75 - 95,20,Kanter Free Throw 1 of 1 (15 PTS),11:53 PM
+369,42,2,443,0021601186,MISS Ulis 1' Driving Layup,,10:25,4,4.0,0,0,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:53 PM
+370,0,4,444,0021601186,,,10:23,4,5.0,0,0,202708,Norris Cole,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Cole REBOUND (Off:0 Def:1),11:54 PM
+371,1,9,445,0021601186,,,10:21,4,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Timeout: Regular (Reg.5 Short 1),11:54 PM
+372,1,1,447,0021601186,,,10:07,4,5.0,5,0,202708,Norris Cole,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,78 - 95,17,Cole 26' 3PT Jump Shot (3 PTS) (Westbrook 7 AST),11:56 PM
+373,1,2,449,0021601186,MISS Bender 19' Jump Shot,,9:40,4,4.0,0,0,1627733,Dragan Bender,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:57 PM
+374,0,4,450,0021601186,SUNS Rebound,,9:40,4,2.0,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,,11:57 PM
+375,11,5,451,0021601186,SUNS Turnover: Shot Clock (T#7),,9:40,4,2.0,0,1,1610612756,,,,,,0,,,,,,0,,,,,,,,,11:57 PM
+376,2,6,452,0021601186,Bender S.FOUL (P1.T2) (E.Lewis),,9:29,4,4.0,5,1,1627733,Dragan Bender,PHX,Phoenix,1610612756.0,Suns,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,11:58 PM
+377,11,3,453,0021601186,,,9:29,4,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,79 - 95,16,Kanter Free Throw 1 of 2 (16 PTS),11:58 PM
+378,0,8,455,0021601186,SUB: Booker FOR Bender,,9:29,4,4.0,4,0,1627733,Dragan Bender,PHX,Phoenix,1610612756.0,Suns,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,11:58 PM
+379,12,3,456,0021601186,,,9:29,4,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,80 - 95,15,Kanter Free Throw 2 of 2 (17 PTS),11:58 PM
+380,78,2,458,0021601186,MISS Booker 8' Floating Jump Shot,,9:09,4,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:59 PM
+381,0,4,459,0021601186,,,9:09,4,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Rebound,11:59 PM
+382,1,2,460,0021601186,,,8:53,4,5.0,0,0,202708,Norris Cole,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Cole 26' 3PT Jump Shot,11:59 PM
+383,0,4,461,0021601186,Dudley REBOUND (Off:0 Def:4),,8:53,4,4.0,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:59 PM
+384,1,5,462,0021601186,Len Bad Pass Turnover (P1.T8),,8:43,4,4.0,0,1,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,11:59 PM
+385,79,2,463,0021601186,,,8:31,4,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 26' 3PT Pullup Jump Shot,12:00 AM
+386,0,4,464,0021601186,Len REBOUND (Off:3 Def:5),,8:29,4,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,12:00 AM
+387,1,6,465,0021601186,,,8:19,4,5.0,4,1,202708,Norris Cole,OKC,Oklahoma City,1610612760.0,Thunder,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Cole P.FOUL (P4.T2) (Z.Zarba),12:00 AM
+388,0,8,466,0021601186,,,8:19,4,5.0,5,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Adams FOR Grant,12:00 AM
+389,1,1,467,0021601186,Booker 26' 3PT Jump Shot (19 PTS) (Len 1 AST),,8:05,4,4.0,4,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,80 - 98,18,,12:01 AM
+390,1,2,468,0021601186,,,7:48,4,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 25' 3PT Jump Shot,12:01 AM
+391,0,4,469,0021601186,,,7:47,4,5.0,0,0,202713,Kyle Singler,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Singler REBOUND (Off:1 Def:0),12:01 AM
+392,73,2,470,0021601186,,,7:36,4,5.0,0,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Kanter  Driving Reverse Layup,12:01 AM
+393,0,4,472,0021601186,,,7:35,4,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Adams REBOUND (Off:6 Def:3),12:01 AM
+394,72,1,471,0021601186,,,7:35,4,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,82 - 98,16,Adams 1' Putback Layup (10 PTS),12:01 AM
+395,82,1,473,0021601186,Booker 9' Driving Bank Shot (21 PTS),,7:11,4,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,82 - 100,18,,12:02 AM
+396,2,6,474,0021601186,,,7:11,4,5.0,4,1,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Kanter S.FOUL (P3.T3) (J.Orr),12:02 AM
+397,0,8,475,0021601186,,,7:11,4,5.0,5,0,202708,Norris Cole,OKC,Oklahoma City,1610612760.0,Thunder,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: McDermott FOR Cole,12:02 AM
+398,10,3,476,0021601186,Booker Free Throw 1 of 1 (22 PTS),,7:11,4,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,82 - 101,19,,12:02 AM
+399,1,2,482,0021601186,,,6:55,4,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 25' 3PT Jump Shot,12:04 AM
+400,0,4,483,0021601186,Len REBOUND (Off:3 Def:6),,6:54,4,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,12:04 AM
+401,1,1,484,0021601186,Booker 26' 3PT Jump Shot (25 PTS) (Dudley 3 AST),,6:34,4,4.0,4,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,82 - 104,22,,12:05 AM
+402,1,6,485,0021601186,"Jones, Jr. P.FOUL (P2.T3) (Z.Zarba)",,6:28,4,4.0,5,1,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,12:05 AM
+403,1,5,486,0021601186,Len STEAL (1 STL),,6:23,4,5.0,4,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Westbrook Bad Pass Turnover (P8.T10),12:05 AM
+404,79,1,487,0021601186,Booker 27' 3PT Pullup Jump Shot (28 PTS),,6:13,4,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,82 - 107,25,,12:05 AM
+405,1,9,488,0021601186,,,6:13,4,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Timeout: Regular (Reg.6 Short 1),12:05 AM
+406,2,6,489,0021601186,Len S.FOUL (P4.T4) (Z.Zarba),,5:56,4,4.0,5,1,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,12:08 AM
+407,11,3,490,0021601186,,,5:56,4,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,83 - 107,24,Westbrook Free Throw 1 of 2 (17 PTS),12:08 AM
+408,0,8,492,0021601186,,,5:56,4,5.0,5,0,202683,Enes Kanter,OKC,Oklahoma City,1610612760.0,Thunder,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Grant FOR Kanter,12:09 AM
+409,12,3,493,0021601186,,,5:56,4,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,84 - 107,23,Westbrook Free Throw 2 of 2 (18 PTS),12:09 AM
+410,1,2,495,0021601186,MISS Booker 26' 3PT Jump Shot,,5:33,4,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,12:09 AM
+411,0,4,496,0021601186,,,5:32,4,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Westbrook REBOUND (Off:5 Def:6),12:09 AM
+412,41,1,497,0021601186,,,5:28,4,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,86 - 107,21,Westbrook 3' Running Layup (20 PTS),12:09 AM
+413,2,6,498,0021601186,Dudley S.FOUL (P1.PN) (E.Lewis),,5:28,4,4.0,5,1,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,12:09 AM
+414,0,8,499,0021601186,"SUB: Warren FOR Jones, Jr.",,5:28,4,4.0,4,0,1627884,Derrick Jones Jr.,PHX,Phoenix,1610612756.0,Suns,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,12:10 AM
+415,10,3,500,0021601186,,,5:28,4,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,87 - 107,20,Westbrook Free Throw 1 of 1 (21 PTS),12:10 AM
+416,82,1,502,0021601186,Booker 9' Driving Bank Shot (30 PTS),,5:09,4,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,87 - 109,22,,12:10 AM
+417,5,2,503,0021601186,,,4:58,4,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Westbrook 1' Layup,12:10 AM
+418,0,4,504,0021601186,,,4:58,4,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Adams REBOUND (Off:7 Def:3),12:10 AM
+419,97,2,505,0021601186,,,4:55,4,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Adams 1' Tip Layup Shot,12:10 AM
+420,0,4,506,0021601186,Len REBOUND (Off:3 Def:7),,4:53,4,4.0,0,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,12:10 AM
+421,66,1,507,0021601186,Booker 9' Jump Bank Shot (32 PTS),,4:36,4,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,87 - 111,24,,12:11 AM
+422,2,6,508,0021601186,,,4:36,4,5.0,4,1,202713,Kyle Singler,OKC,Oklahoma City,1610612760.0,Thunder,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Singler S.FOUL (P1.T4) (E.Lewis),12:11 AM
+423,10,3,509,0021601186,Booker Free Throw 1 of 1 (33 PTS),,4:36,4,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,87 - 112,25,,12:11 AM
+424,10,6,510,0021601186,,,4:36,4,4.0,5,1,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,12:11 AM
+425,1,1,511,0021601186,,,4:24,4,5.0,5,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,90 - 112,22,McDermott 25' 3PT Jump Shot (10 PTS) (Westbrook 8 AST),12:12 AM
+426,1,2,513,0021601186,MISS Booker 25' 3PT Jump Shot,,4:01,4,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,12:12 AM
+427,0,4,514,0021601186,,,4:00,4,5.0,0,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,McDermott REBOUND (Off:1 Def:2),12:12 AM
+428,1,2,516,0021601186,,,3:47,4,5.0,0,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS McDermott 25' 3PT Jump Shot,12:12 AM
+429,0,4,517,0021601186,,,3:46,4,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Adams REBOUND (Off:8 Def:3),12:12 AM
+430,2,6,518,0021601186,Len S.FOUL (P6.PN) (E.Lewis),,3:44,4,4.0,5,1,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,12:12 AM
+431,0,8,519,0021601186,SUB: Williams FOR Len,,3:44,4,4.0,4,0,203458,Alex Len,PHX,Phoenix,1610612756.0,Suns,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,12:13 AM
+432,11,3,520,0021601186,,,3:44,4,5.0,0,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,91 - 112,21,McDermott Free Throw 1 of 2 (11 PTS),12:13 AM
+433,12,3,523,0021601186,,,3:44,4,5.0,0,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS McDermott Free Throw 2 of 2,12:13 AM
+434,0,4,526,0021601186,SUNS Rebound,,3:44,4,2.0,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,,12:13 AM
+435,5,7,536,0021601186,,,3:44,4,5.0,0,1,202713,Kyle Singler,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Singler Violation:Kicked Ball (E.Lewis),12:13 AM
+436,1,2,528,0021601186,MISS Dudley 19' Jump Shot,,3:27,4,4.0,0,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,12:14 AM
+437,0,4,529,0021601186,,,3:26,4,5.0,0,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,McDermott REBOUND (Off:1 Def:3),12:14 AM
+438,1,2,530,0021601186,,,3:08,4,5.0,0,0,202713,Kyle Singler,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Singler 26' 3PT Jump Shot,12:14 AM
+439,0,4,531,0021601186,,,3:08,4,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Westbrook REBOUND (Off:6 Def:6),12:14 AM
+440,2,6,532,0021601186,Williams S.FOUL (P4.PN) (Z.Zarba),,3:06,4,4.0,5,1,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,12:14 AM
+441,11,3,534,0021601186,,,3:06,4,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,92 - 112,20,Adams Free Throw 1 of 2 (11 PTS),12:15 AM
+442,12,3,537,0021601186,,,3:06,4,5.0,0,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,93 - 112,19,Adams Free Throw 2 of 2 (12 PTS),12:15 AM
+443,80,1,539,0021601186,Booker 22' Step Back Jump Shot (35 PTS),,2:42,4,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,93 - 114,21,,12:15 AM
+444,28,6,540,0021601186,Ulis Personal Take Foul (P3.PN) (Z.Zarba),,2:35,4,4.0,5,1,1627755,Tyler Ulis,PHX,Phoenix,1610612756.0,Suns,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,12:16 AM
+445,4,9,542,0021601186,,,2:35,4,1.0,0,0,0,,,,,,0,,,,,,0,,,,,,,,,12:16 AM
+446,11,3,546,0021601186,,,2:35,4,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,94 - 114,20,Westbrook Free Throw 1 of 2 (22 PTS),12:18 AM
+447,12,3,549,0021601186,,,2:35,4,5.0,0,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,95 - 114,19,Westbrook Free Throw 2 of 2 (23 PTS),12:18 AM
+448,28,6,551,0021601186,,,2:34,4,5.0,4,1,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Westbrook Personal Take Foul (P5.PN) (J.Orr),12:18 AM
+449,11,3,552,0021601186,Booker Free Throw 1 of 2 (36 PTS),,2:34,4,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,95 - 115,20,,12:19 AM
+450,0,8,554,0021601186,,,2:34,4,5.0,5,0,203500,Steven Adams,OKC,Oklahoma City,1610612760.0,Thunder,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Sabonis FOR Adams,12:19 AM
+451,0,8,555,0021601186,,,2:34,4,5.0,5,0,201566,Russell Westbrook,OKC,Oklahoma City,1610612760.0,Thunder,203902,Semaj Christon,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,SUB: Christon FOR Westbrook,12:19 AM
+452,12,3,556,0021601186,Booker Free Throw 2 of 2 (37 PTS),,2:34,4,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,95 - 116,21,,12:19 AM
+453,1,2,558,0021601186,,,2:17,4,5.0,0,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Grant 19' Jump Shot,12:19 AM
+454,0,4,560,0021601186,,,2:15,4,5.0,0,0,202713,Kyle Singler,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Singler REBOUND (Off:2 Def:0),12:20 AM
+455,97,1,559,0021601186,,,2:15,4,5.0,0,0,202713,Kyle Singler,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,97 - 116,19,Singler 1' Tip Layup Shot (2 PTS),12:20 AM
+456,42,2,561,0021601186,MISS Booker 2' Driving Layup,,1:54,4,4.0,0,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,12:20 AM
+457,0,4,562,0021601186,,,1:53,4,5.0,0,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,McDermott REBOUND (Off:1 Def:4),12:20 AM
+458,2,6,563,0021601186,Dudley S.FOUL (P2.PN) (Z.Zarba),,1:46,4,4.0,5,1,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,12:20 AM
+459,11,3,564,0021601186,,,1:46,4,5.0,0,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,98 - 116,18,Grant Free Throw 1 of 2 (4 PTS),12:21 AM
+460,0,8,566,0021601186,SUB: Bender FOR Dudley,,1:46,4,4.0,4,0,201162,Jared Dudley,PHX,Phoenix,1610612756.0,Suns,1627733,Dragan Bender,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,12:21 AM
+461,0,8,567,0021601186,SUB: Chriss FOR Booker,,1:46,4,4.0,4,0,1626164,Devin Booker,PHX,Phoenix,1610612756.0,Suns,1627737,Marquese Chriss,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,,12:21 AM
+462,12,3,568,0021601186,,,1:46,4,5.0,0,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Grant Free Throw 2 of 2,12:21 AM
+463,0,4,570,0021601186,Williams REBOUND (Off:1 Def:3),,1:44,4,4.0,0,0,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,12:21 AM
+464,1,2,571,0021601186,MISS Bender 25' 3PT Jump Shot,,1:26,4,4.0,0,0,1627733,Dragan Bender,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,12:21 AM
+465,0,4,572,0021601186,,,1:26,4,5.0,0,0,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,Grant REBOUND (Off:1 Def:3),12:21 AM
+466,79,2,573,0021601186,,,1:12,4,5.0,0,0,203902,Semaj Christon,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Christon 17' Pullup Jump Shot,12:22 AM
+467,0,4,574,0021601186,,,1:12,4,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Rebound,12:22 AM
+468,3,6,575,0021601186,Williams L.B.FOUL (P5.PN) (Z.Zarba),,1:12,4,4.0,5,1,1626210,Alan Williams,PHX,Phoenix,1610612756.0,Suns,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,,,,12:22 AM
+469,11,3,576,0021601186,,,1:12,4,5.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS Sabonis Free Throw 1 of 2,12:22 AM
+470,1,4,577,0021601186,,,1:12,4,3.0,0,0,1610612760,,,,,,0,,,,,,0,,,,,,,,Thunder Rebound,12:22 AM
+471,12,3,578,0021601186,,,1:12,4,5.0,0,0,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,99 - 116,17,Sabonis Free Throw 2 of 2 (6 PTS),12:22 AM
+472,1,2,582,0021601186,MISS Warren 9' Jump Shot,,0:52,4,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,12:23 AM
+473,0,4,583,0021601186,SUNS Rebound,,0:52,4,2.0,0,0,1610612756,,,,,,0,,,,,,0,,,,,,,,,12:23 AM
+474,3,6,584,0021601186,,,0:52,4,5.0,4,1,1627734,Domantas Sabonis,OKC,Oklahoma City,1610612760.0,Thunder,1627737,Marquese Chriss,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Sabonis L.B.FOUL (P1.PN) (E.Lewis),12:23 AM
+475,11,3,585,0021601186,Chriss Free Throw 1 of 2 (3 PTS),,0:52,4,4.0,0,0,1627737,Marquese Chriss,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,99 - 117,18,,12:23 AM
+476,12,3,587,0021601186,Chriss Free Throw 2 of 2 (4 PTS),,0:52,4,4.0,0,0,1627737,Marquese Chriss,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,99 - 118,19,,12:23 AM
+477,1,2,589,0021601186,,,0:43,4,5.0,0,0,203926,Doug McDermott,OKC,Oklahoma City,1610612760.0,Thunder,0,,,,,,0,,,,,,,,MISS McDermott 26' 3PT Jump Shot,12:23 AM
+478,0,4,590,0021601186,Warren REBOUND (Off:3 Def:12),,0:43,4,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,12:23 AM
+479,1,2,591,0021601186,MISS Bender 24' 3PT Jump Shot,,0:20,4,4.0,0,0,1627733,Dragan Bender,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,12:24 AM
+480,0,4,592,0021601186,Warren REBOUND (Off:4 Def:12),,0:20,4,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,,,,12:24 AM
+481,1,6,593,0021601186,,,0:16,4,5.0,4,1,203924,Jerami Grant,OKC,Oklahoma City,1610612760.0,Thunder,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,,,Grant P.FOUL (P1.PN) (Z.Zarba),12:24 AM
+482,11,3,594,0021601186,Warren Free Throw 1 of 2 (22 PTS),,0:16,4,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,99 - 119,20,,12:24 AM
+483,12,3,596,0021601186,Warren Free Throw 2 of 2 (23 PTS),,0:16,4,4.0,0,0,203933,TJ Warren,PHX,Phoenix,1610612756.0,Suns,0,,,,,,0,,,,,,99 - 120,21,,12:24 AM
+484,0,13,598,0021601186,,,0:00,4,0.0,0,0,0,,,,,,0,,,,,,0,,,,,,99 - 120,21,,12:25 AM

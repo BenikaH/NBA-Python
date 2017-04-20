@@ -66,3 +66,6 @@ def test_data():
             years_with_error.append(d.get_year_string(data_year))
     print(years_with_error)
     return years_with_error
+
+
+# merge_shot_and_pbp_year('2012-13', shot_ow=False, log_ow=False)

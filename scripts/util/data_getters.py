@@ -11,14 +11,24 @@ import pandas as pd
 
 def json_to_pandas(url, index=0):
     opener = urllib.request.build_opener()
-    opener.addheaders = [('User-agent', 'Mozilla/5.0'), ('Referer', 'http://stats.nba.com/leaders/')]
+    opener.addheaders = [('Accept', 'application/json, text/plain, */*'),
+                         ('Accept-Encoding', 'gzip, deflate, sdch'),
+                         ('Accept-Language', 'en-US,en;q=0.8'),
+                         ('Connection', 'keep-alive'),
+                         ('Cookie', 's_cc=true; s_fid=245F2ECC9AF17DD8-2F40F4DE66E3A5AA; s_sq=%5B%5BB%5D%5D'),
+                         ('DNT', '1'),
+                         ('Host', 'stats.nba.com'),
+                         ('Referer', 'http://stats.nba.com/players/traditional/'),
+                         ('User-Agent',
+                          'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36'),
+                         ('x-nba-stats-origin', 'stats'), ('x-nba-stats-token', 'true')]
     try:
         response = opener.open(url)
     except Exception:
-        print(Exception)
+        print('Exception when getting stats')
         return Exception
     else:
-        data = json.loads(response.read())
+        data = json.loads(response.read().decode())
         headers = data['resultSets'][index]['headers']
         rows = data['resultSets'][index]['rowSet']
         data_dict = [dict(zip(headers, row)) for row in rows]
@@ -85,7 +95,7 @@ def print_reddit_table(df, columns):
 
 # Gets traditional stats for players
 def leaguedashplayerstats(measure_type='Base', per_mode='Totals', season_year='2016-17', date_from='', date_to='',
-                          overwrite=True):
+                          season_type='Regular+Seasons', overwrite=True):
     file_path = '../../data/leaguedashplayerstats/' + season_year + '/' + measure_type + '/' + per_mode + '.csv'
     if (not file_exists(file_path)) or overwrite:
         url = 'http://stats.nba.com/stats/leaguedashplayerstats?' \
@@ -112,14 +122,60 @@ def leaguedashplayerstats(measure_type='Base', per_mode='Totals', season_year='2
               'Rank=N&' \
               'Season={season_year}&' \
               'SeasonSegment=&' \
-              'SeasonType=Regular+Season&' \
+              'SeasonType={season_type}&' \
               'ShotClockRange=&' \
               'StarterBench=&' \
               'TeamID=0&' \
               'VsConference=&' \
               'VsDivision='
         url = url.format(measure_type=measure_type, per_mode=per_mode, season_year=season_year, date_from=date_from,
-                         date_to=date_to)
+                         date_to=date_to, season_type=season_type)
+        print(url)
+        df = json_to_pandas(url, 0)
+        if date_from == '' and date_to == '':
+            df.to_csv(file_path)
+        return df
+    else:
+        return pd.read_csv(file_path)
+
+
+# Gets traditional stats for players
+def leaguedashteamstats(measure_type='Base', per_mode='Totals', season_year='2016-17', date_from='', date_to='',
+                        season_type='Regular+Season', overwrite=True):
+    file_path = '../../data/leaguedashteamstats/' + season_year + '/' + measure_type + '/' + per_mode + '.csv'
+    if (not file_exists(file_path)) or overwrite:
+        url = 'http://stats.nba.com/stats/leaguedashteamstats?' \
+              'Conference=&' \
+              'DateFrom={date_from}&' \
+              'DateTo={date_to}&' \
+              'Division=&' \
+              'GameScope=&' \
+              'GameSegment=&' \
+              'LastNGames=0&' \
+              'LeagueID=00&' \
+              'Location=&' \
+              'MeasureType={measure_type}&' \
+              'Month=0' \
+              '&OpponentTeamID=0' \
+              '&Outcome=&' \
+              'PORound=0&' \
+              'PaceAdjust=N&' \
+              'PerMode={per_mode}&' \
+              'Period=0&' \
+              'PlayerExperience=&' \
+              'PlayerPosition=&' \
+              'PlusMinus=N&' \
+              'Rank=N&' \
+              'Season={season_year}&' \
+              'SeasonSegment=&' \
+              'SeasonType={season_type}&' \
+              'ShotClockRange=&' \
+              'StarterBench=&' \
+              'TeamID=0&' \
+              'VsConference=&' \
+              'VsDivision='
+        url = url.format(measure_type=measure_type, per_mode=per_mode, season_year=season_year, date_from=date_from,
+                         date_to=date_to, season_type=season_type)
         print(url)
         df = json_to_pandas(url, 0)
         if date_from == '' and date_to == '':
